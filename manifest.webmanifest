@@ -1,0 +1,47 @@
+{
+  "id": "./index.html",
+  "name": "Alerta Global — Radar Mundial",
+  "short_name": "Alerta Global",
+  "description": "Notícias internacionais importantes e alertas mundiais reunidos em um aplicativo.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f1419",
+  "theme_color": "#0f1419",
+  "orientation": "any",
+  "categories": [
+    "news",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Radar Mundial",
+      "short_name": "Radar",
+      "description": "Acompanhar os destaques internacionais",
+      "url": "./index.html#radar",
+      "icons": [
+        {
+          "src": "./icons/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
