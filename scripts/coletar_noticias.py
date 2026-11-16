@@ -83,9 +83,9 @@ def parse_feed(source, url, default, country, lang):
             # Google Notícias pode agregar resultados de várias editoras.
             # Não atribuímos notícias de outros veículos à Reuters.
             publisher = child(e, "source").strip().lower()
-            if "reuters" not in publisher and not re.search(r"\\s[-–]\\sReuters$", title, re.I):
+            if "reuters" not in publisher and not re.search(r"\s[-–]\sReuters$", title, re.I):
                 continue
-            title = re.sub(r"\\s[-–]\\sReuters$", "", title, flags=re.I)
+            title = re.sub(r"\s[-–]\sReuters$", "", title, flags=re.I)
         if not title or not link.startswith("https://") and not link.startswith("http://"):
             continue
         date = parsedate(child(e, "pubDate") or child(e, "published") or child(e, "updated") or child(e, "date"))
