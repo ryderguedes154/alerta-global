@@ -100,6 +100,9 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 .card-open-button{position:relative;z-index:3;display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:9px 13px;border:1px solid #82b5ee;border-radius:10px;background:#315781;color:#f5faff!important;font-size:11px;font-weight:850;text-decoration:none;transition:background .18s,transform .18s}
 .card-open-button:hover{background:#4277ae;transform:translateY(-1px)}
 .card-open-button:focus-visible{outline:3px solid #a9d4ff;outline-offset:3px}
+.card-share-button{position:relative;z-index:3;display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:9px 13px;border:1px solid #64c7ad;border-radius:10px;background:#14544b;color:#e6fff7;font-size:11px;font-weight:850;transition:background .18s,transform .18s}
+.card-share-button:hover{background:#1b7165;transform:translateY(-1px)}
+.card-share-button:focus-visible{outline:3px solid #a9efdf;outline-offset:3px}
 .card.linked .card-map iframe{pointer-events:none}
 .card.crit{border-left-color:var(--crit)}.card.high{border-left-color:var(--high)}.card.med{border-left-color:var(--med)}.card.low{border-left-color:var(--low)}
 .card h3{font-size:16px;line-height:1.38;letter-spacing:-.25px;margin:3px 0 0}.card p{font-size:12px;line-height:1.64;color:#b0c0d1;margin:0}
@@ -152,6 +155,10 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 .share-options{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-top:18px}
 .share-options a,.share-options button{display:block;text-decoration:none;text-align:center;background:#223955;color:#ebf6ff;border:1px solid #45617d;border-radius:11px;padding:12px 8px;font-weight:760;font-size:13px}
 .share-options a:hover,.share-options button:hover{background:#305174}
+.share-options #shareWhatsApp{background:#135c43;border-color:#28a879;color:#f5fffb}
+.share-options #shareWhatsApp:hover{background:#197653}
+.share-options #shareInstagram{background:#3d2b54;border-color:#9a5dc1}
+.share-options #shareInstagram:hover{background:#543c75}
 .share-close{float:right;color:#ecf6ff;background:transparent;border:0;font-size:24px}
 @media(max-width:620px){.share-btn{padding:8px 10px;font-size:11px}.radar-item .quake-map-label{right:7px;top:7px}}
 
@@ -163,7 +170,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 <body>
 <div class="app-layout"><aside class="side"><a href="#overview" class="logo"><span class="logo-symbol">◎</span><span><strong>Alerta Global</strong><small>RADAR MUNDIAL</small></span></a><div class="side-caption">Explorar</div><a class="side-link active" href="#overview"><span>◈</span>Visão geral</a><a class="side-link" href="#radar"><span>◎</span>Radar Mundial</a><a class="side-link" href="#news"><span>▤</span>Últimas notícias</a><a class="side-link" href="#banner"><span>⚠</span>Alertas de risco</a><div class="side-caption" style="margin-top:24px">Preferências</div><button type="button" id="sideSettings" class="side-link"><span>⚙</span>Configurações</button><div class="side-bottom"><div class="side-card"><div class="eyebrow">◉ MONITOR GLOBAL</div><strong>Informação em foco</strong><p>Acompanhe acontecimentos importantes de fontes internacionais e alertas do USGS.</p><div class="line"></div></div><div class="side-version">ALERTA GLOBAL · 2026</div></div></aside><div class="workspace"><header class="topbar"><div><div class="breadcrumb">Início / Painel internacional</div><h1>Visão geral <span style="color:#7588a3">/ Mundial</span></h1></div><div class="top-actions"><div class="status-pill"><span class="dot" id="liveDot"></span> Monitor global</div><button class="share-btn" id="shareBtn" type="button" aria-label="Compartilhar o Alerta Global">↗ Compartilhar</button><button class="icon-action" id="refreshBtn" title="Atualizar notícias" aria-label="Atualizar notícias">↻</button><button class="icon-action" id="settingsBtn" title="Configurações" aria-label="Configurações">⚙</button><button class="install-btn" id="installBtn">↓ Instalar app</button></div></header>
 
-<div class="share-modal" id="shareModal" role="dialog" aria-modal="true" aria-label="Compartilhar Alerta Global" hidden><div class="share-panel"><button class="share-close" id="shareClose" type="button" aria-label="Fechar">×</button><h2>Compartilhe o Alerta Global 🌍</h2><p>Envie o link do Radar Mundial para seus contatos pelos aplicativos que você utiliza.</p><div class="share-options"><button type="button" id="shareNative">📲 Outros aplicativos</button><a id="shareWhatsApp" target="_blank" rel="noopener noreferrer">WhatsApp</a><a id="shareTelegram" target="_blank" rel="noopener noreferrer">Telegram</a><a id="shareFacebook" target="_blank" rel="noopener noreferrer">Facebook</a><a id="shareX" target="_blank" rel="noopener noreferrer">X / Twitter</a><a id="shareEmail">✉️ E-mail</a><button type="button" id="shareCopy">🔗 Copiar link</button></div><p id="shareStatus" role="status" aria-live="polite"></p></div></div>
+<div class="share-modal" id="shareModal" role="dialog" aria-modal="true" aria-label="Compartilhar Alerta Global" hidden><div class="share-panel"><button class="share-close" id="shareClose" type="button" aria-label="Fechar">×</button><h2 id="shareDialogTitle">Compartilhe o Alerta Global 🌍</h2><p id="shareDialogDescription">Envie o link do Radar Mundial para seus contatos pelos aplicativos que você utiliza.</p><div class="share-options"><a id="shareWhatsApp" target="_blank" rel="noopener noreferrer">🟢 WhatsApp</a><button type="button" id="shareNative">📲 Outros aplicativos</button><button type="button" id="shareInstagram">📸 Instagram</button><a id="shareFacebook" target="_blank" rel="noopener noreferrer">Facebook</a><a id="shareX" target="_blank" rel="noopener noreferrer">X / Twitter</a><a id="shareTelegram" target="_blank" rel="noopener noreferrer">Telegram</a><a id="shareEmail">✉️ E-mail</a><button type="button" id="shareCopy">🔗 Copiar link</button></div><p id="shareStatus" role="status" aria-live="polite"></p></div></div>
 <main id="overview"><section class="hero" aria-label="Radar Mundial"><div class="hero-copy"><div class="hero-label"><span class="dot"></span> INTELIGÊNCIA DE NOTÍCIAS · RADAR MUNDIAL</div><h2>O mundo não para.<br><em>Você acompanha.</em></h2><p>Notícias globais, riscos e acontecimentos importantes em um só lugar. Entenda o que acontece no mundo, direto das fontes originais.</p><div class="hero-cta"><a href="#radar">Explorar destaques ↗</a><small>Monitoramento internacional</small></div></div></section><div class="status-text" id="statusText">Carregando notícias...</div>
   <div class="offline-note" id="offlineNotice" hidden role="status">📡 Sem internet. Exibindo as últimas notícias disponíveis no dispositivo, se houver.</div>
   <section class="levels" aria-label="Filtrar notícias por nível de gravidade">
@@ -641,7 +648,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
         ${i.title_pt ? `<small style="color:var(--muted)">Original: ${esc(i.title)}</small>` : ""}
         <p>${esc(i.summary_pt || i.summary || "")}</p>${i.summary_pt ? `<small style="color:var(--muted)">Resumo traduzido automaticamente · Consulte o original na fonte.</small>` : ""}
         ${i.detail ? `<div class="detail"><strong>Resumo detalhado</strong><p>${esc(i.detail)}</p></div>` : ""}
-        ${destination ? `<div class="card-actions"><span class="card-read-more">Ler notícia completa →</span><a class="card-open-button" href="${esc(destination)}" target="_blank" rel="noopener noreferrer" aria-label="Abrir notícia completa: ${esc(i.title_pt || i.title)}">Abrir notícia ↗</a></div>` : ""}
+        ${destination ? `<div class="card-actions"><span class="card-read-more">Ler notícia completa →</span><a class="card-open-button" href="${esc(destination)}" target="_blank" rel="noopener noreferrer" aria-label="Abrir notícia completa: ${esc(i.title_pt || i.title)}">Abrir notícia ↗</a><button type="button" class="card-share-button" data-share-url="${esc(destination)}" data-share-title="${esc(i.title_pt || i.title)}" aria-label="Compartilhar notícia: ${esc(i.title_pt || i.title)}">↗ Compartilhar</button></div>` : ""}
       </article>`; }).join("");
   }
 
@@ -741,32 +748,133 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
       document.getElementById("settings").scrollIntoView({behavior:"smooth",block:"start"});
     });
   }
-  // Compartilhamento nativo com qualquer app compatível; atalhos quando indisponível.
-  const shareUrl = new URL("./", location.href).href;
-  const shareText = "🌍 Alerta Global · Radar Mundial — notícias internacionais e alertas em um só lugar.";
+  // Compartilhamento do site ou de UMA notícia, preservando o link original.
+  const siteShareUrl = new URL("./", location.href).href;
   const shareModal = document.getElementById("shareModal");
   const shareStatus = document.getElementById("shareStatus");
+  const shareDialogTitle = document.getElementById("shareDialogTitle");
+  const shareDialogDescription = document.getElementById("shareDialogDescription");
   const shareLink = (id, url) => { document.getElementById(id).href = url; };
-  shareLink("shareWhatsApp", "https://wa.me/?text=" + encodeURIComponent(shareText + " " + shareUrl));
-  shareLink("shareTelegram", "https://t.me/share/url?url=" + encodeURIComponent(shareUrl) + "&text=" + encodeURIComponent(shareText));
-  shareLink("shareFacebook", "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(shareUrl));
-  shareLink("shareX", "https://twitter.com/intent/tweet?url=" + encodeURIComponent(shareUrl) + "&text=" + encodeURIComponent(shareText));
-  shareLink("shareEmail", "mailto:?subject=" + encodeURIComponent("Alerta Global — Radar Mundial") + "&body=" + encodeURIComponent(shareText + "\\n" + shareUrl));
-  document.getElementById("shareBtn").addEventListener("click", () => { shareStatus.textContent = ""; shareModal.hidden = false; });
-  document.getElementById("shareClose").addEventListener("click", () => { shareModal.hidden = true; });
-  shareModal.addEventListener("click", e => { if (e.target === shareModal) shareModal.hidden = true; });
-  document.addEventListener("keydown", e => { if (e.key === "Escape") shareModal.hidden = true; });
-  document.getElementById("shareNative").addEventListener("click", async () => {
-    if (!navigator.share) { shareStatus.textContent = "Selecione um aplicativo abaixo ou copie o link."; return; }
+  const shareSite = {
+    title: "Alerta Global · Radar Mundial",
+    text: "🌍 Alerta Global · Radar Mundial — notícias internacionais e alertas em um só lugar.",
+    url: siteShareUrl,
+    article: false
+  };
+  let currentShare = shareSite;
+  let lastShareTrigger = null;
+
+  function configureShareLinks() {
+    const {title, text, url} = currentShare;
+    shareLink("shareWhatsApp", "https://wa.me/?text=" + encodeURIComponent(text + "\n" + url));
+    shareLink("shareTelegram", "https://t.me/share/url?url=" + encodeURIComponent(url) + "&text=" + encodeURIComponent(text));
+    shareLink("shareFacebook", "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(url));
+    shareLink("shareX", "https://twitter.com/intent/tweet?url=" + encodeURIComponent(url) + "&text=" + encodeURIComponent(text));
+    shareLink("shareEmail", "mailto:?subject=" + encodeURIComponent(title) +
+      "&body=" + encodeURIComponent(text + "\n" + url));
+  }
+
+  function openShareDialog(share, trigger) {
+    currentShare = share;
+    lastShareTrigger = trigger || null;
+    shareDialogTitle.textContent = share.article ? "Compartilhar notícia 📰" : "Compartilhe o Alerta Global 🌍";
+    shareDialogDescription.textContent = share.article
+      ? share.title + " — envie esta matéria diretamente para seus contatos."
+      : "Envie o link do Radar Mundial para seus contatos pelos aplicativos que você utiliza.";
+    shareStatus.textContent = "";
+    configureShareLinks();
+    shareModal.hidden = false;
+    document.getElementById("shareWhatsApp").focus();
+  }
+
+  function closeShareDialog() {
+    shareModal.hidden = true;
+    if (lastShareTrigger?.isConnected) lastShareTrigger.focus();
+    lastShareTrigger = null;
+  }
+
+  function nativeShare() {
+    const {title, text, url} = currentShare;
+    return navigator.share({title, text, url});
+  }
+
+  async function copyShareLink() {
     try {
-      await navigator.share({title:"Alerta Global · Radar Mundial", text:shareText, url:shareUrl});
-      shareModal.hidden = true;
-    } catch (e) { if (e.name !== "AbortError") shareStatus.textContent = "Não foi possível abrir o compartilhamento. Use uma das opções abaixo."; }
+      await navigator.clipboard.writeText(currentShare.url);
+      shareStatus.textContent = "✅ Link da " + (currentShare.article ? "notícia" : "página") + " copiado!";
+      return true;
+    } catch {
+      shareStatus.textContent = "Copie este endereço: " + currentShare.url;
+      return false;
+    }
+  }
+
+  document.getElementById("shareBtn").addEventListener("click", e => {
+    openShareDialog(shareSite, e.currentTarget);
   });
-  document.getElementById("shareCopy").addEventListener("click", async () => {
-    try { await navigator.clipboard.writeText(shareUrl); shareStatus.textContent = "✅ Link copiado!"; }
-    catch (e) { shareStatus.textContent = "Copie este endereço: " + shareUrl; }
+
+  // Delegação necessária porque o feed é recriado após cada atualização/filtro.
+  document.getElementById("feed").addEventListener("click", event => {
+    const button = event.target.closest(".card-share-button");
+    if (!button) return;
+    event.preventDefault();
+    event.stopPropagation();
+    const title = button.dataset.shareTitle || "Notícia do Radar Mundial";
+    const url = button.dataset.shareUrl || "";
+    try {
+      const parsed = new URL(url);
+      if (!["https:", "http:"].includes(parsed.protocol)) return;
+      openShareDialog({
+        title,
+        text: "📰 " + title + "\nConfira a notícia:",
+        url: parsed.href,
+        article: true
+      }, button);
+    } catch { shareStatus.textContent = "Link da notícia indisponível."; }
   });
+
+  document.getElementById("shareClose").addEventListener("click", closeShareDialog);
+  shareModal.addEventListener("click", e => { if (e.target === shareModal) closeShareDialog(); });
+  document.addEventListener("keydown", e => {
+    if (e.key === "Escape" && !shareModal.hidden) closeShareDialog();
+  });
+
+  document.getElementById("shareNative").addEventListener("click", async () => {
+    if (!navigator.share) {
+      shareStatus.textContent = "Seu navegador não oferece o menu de aplicativos. Use WhatsApp, outra rede acima ou copie o link.";
+      return;
+    }
+    try {
+      await nativeShare();
+      closeShareDialog();
+    } catch (e) {
+      if (e.name !== "AbortError") shareStatus.textContent =
+        "Não foi possível abrir o compartilhamento. Escolha um aplicativo acima ou copie o link.";
+    }
+  });
+
+  document.getElementById("shareInstagram").addEventListener("click", async () => {
+    // Não existe um compartilhamento de URL universal direto pelo site do Instagram.
+    // No celular, o menu nativo pode mostrar o Instagram se o aparelho permitir.
+    if (navigator.share) {
+      try {
+        await nativeShare();
+        closeShareDialog();
+        return;
+      } catch (e) {
+        if (e.name === "AbortError") {
+          shareStatus.textContent =
+            "Caso o Instagram não apareça no menu do aparelho, copie o link e cole em uma mensagem Direct ou no adesivo de link dos Stories.";
+          return;
+        }
+      }
+    }
+    const copied = await copyShareLink();
+    if (copied) shareStatus.textContent =
+      "✅ Link copiado. Abra o Instagram e cole no Direct ou no adesivo de link dos Stories.";
+  });
+
+  document.getElementById("shareCopy").addEventListener("click", copyShareLink);
   // ---------- Controles ----------
   document.getElementById("refreshBtn").onclick = load;
   document.getElementById("settingsBtn").onclick = () => {
