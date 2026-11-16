@@ -26,6 +26,16 @@
   .level.high strong { color: var(--high); }
   .level.med strong { color: var(--med); }
   .level.low strong { color: var(--low); }
+  .radar { margin: 0 0 22px; padding: 16px; border: 1px solid var(--line); border-radius: 12px; background: var(--panel); }
+  .radar-head { display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap; }
+  .radar h2 { margin:0; font-size:18px; }
+  .radar p { color:var(--muted); font-size:13px; margin:5px 0 12px; }
+  #radarCount { color:var(--ok); font-size:13px; }
+  .radar-feed { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:10px; }
+  .radar-item { display:block; background:var(--bg); border:1px solid var(--line); border-radius:8px; padding:12px; color:var(--text); text-decoration:none; line-height:1.4; }
+  .radar-item:hover { border-color:#58a6ff; }
+  .radar-item strong { display:block; font-size:14px; margin:5px 0; }
+  .radar-item small { color:var(--muted); display:block; }
   .banner { display: none; border: 1px solid var(--crit); background: rgba(255,77,79,.12); border-radius: 10px; padding: 14px 16px; margin-bottom: 18px; }
   .banner.show { display: block; }
   .banner h2 { margin: 0 0 6px; font-size: 16px; color: var(--crit); }
@@ -89,6 +99,11 @@
     <div class="level low" data-sev="low"><strong id="cLow">0</strong><span>Informativo</span></div>
   </section>
 
+  <section class="radar" id="radar">
+    <div class="radar-head"><div><h2>🌐 Radar Mundial</h2><p>Principais acontecimentos internacionais, organizados por urgência. Atualização pelo feed de notícias.</p></div><span id="radarCount">0 destaques</span></div>
+    <div id="radarFeed" class="radar-feed"></div>
+  </section>
+
   <section class="banner" id="banner">
     <h2>⚠️ Alerta de perigo global</h2>
     <ul id="bannerList"></ul>
@@ -135,7 +150,7 @@
       <button id="notifyBtn" class="ghost">Ativar notificações do navegador</button>
     </div>
     <p class="note">
-      O app mostra dados de exemplo até você apontar um feed JSON próprio. O formato esperado é uma lista de objetos com
+      O app utiliza notícias reais reunidas em noticias.json por uma rotina automática do GitHub. Se ainda não houver coleta, tenta mostrar eventos sísmicos do USGS. Não exibe notícias fictícias. O formato esperado é uma lista de objetos com
       <code>title</code>, <code>summary</code>, <code>detail</code> (resumo detalhado, com quebras de linha), <code>country</code> (código ISO de 2 letras, ex.: BR, US; use GLOBAL para notícias mundiais), <code>category</code>, <code>region</code>, <code>source</code>, <code>url</code> e <code>date</code> (ISO 8601).
       Fontes reais (agências de notícias, OMS, USGS, ONU, CISA) podem ser agregadas por um pequeno servidor que gera esse JSON.
     </p>
@@ -144,7 +159,7 @@
 
 <script>
 (() => {
-  // ---------- Dados de exemplo (ilustrativos, NÃO são notícias reais) ----------
+  // ---------- Dados antigos de demonstração (não utilizados no carregamento) ----------
   const SAMPLE = [
     { title: "[EXEMPLO] Alerta de terremoto de magnitude 7,2 em região costeira", summary: "Dados ilustrativos. Serviço sísmico emite aviso de possível tsunami local.",
     detail: "O que aconteceu: um terremoto de magnitude 7,2 foi registrado em uma região costeira (exemplo ilustrativo).\nPrincipais dados: o serviço sísmico emitiu aviso de possível tsunami local. Dados como profundidade e número de afetados devem vir da fonte oficial.\nO que fazer: em área costeira, procure locais elevados, siga a Defesa Civil e não use elevadores.\nPor que importa: sismos de magnitude acima de 7 podem causar danos graves em cidades e exigir resposta humanitária.", category: "Clima e desastres", region: "Ásia-Pacífico", country: "JP", source: "Exemplo", url: "#", date: "2026-11-16T09:00:00Z" },
@@ -275,36 +290,46 @@
     });
   }
 
-  // ---------- Carregamento ----------
+  // ---------- Fontes reais e Radar Mundial ----------
   async function load() {
     setStatus("Atualizando…", true);
-    let source = "exemplo";
-    let data = SAMPLE;
-    if (!prefs.feedUrl) {
-      try {
-        data = await fetchUsgs();
-        source = "USGS (fonte oficial)";
-      } catch (e) {
-        source = "exemplo (falha ao buscar notícias: " + e.message + ")";
-      }
-    }
+    let data = [];
+    let source = "";
     if (prefs.feedUrl) {
       try {
         const r = await fetch(prefs.feedUrl, { cache: "no-store" });
         if (!r.ok) throw new Error("HTTP " + r.status);
         const j = await r.json();
         if (!Array.isArray(j)) throw new Error("formato inválido");
-        data = j; source = "feed próprio";
+        data = j;
+        source = "feed próprio";
       } catch (e) {
-        source = "exemplo (falha no feed: " + e.message + ")";
+        source = "Falha no feed próprio: " + e.message;
+      }
+    } else {
+      try {
+        const r = await fetch("./noticias.json?t=" + Date.now(), { cache: "no-store" });
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        const j = await r.json();
+        if (!Array.isArray(j)) throw new Error("formato inválido");
+        data = j;
+        source = "Fontes internacionais: BBC, DW, Guardian, Al Jazeera e USGS";
+      } catch (e) {
+        try {
+          data = await fetchUsgs();
+          source = "USGS ao vivo (feed internacional ainda não disponível)";
+        } catch (quakeError) {
+          source = "Fontes indisponíveis: " + e.message + " / " + quakeError.message;
+        }
       }
     }
     items = data
       .filter(x => x && x.title)
       .map(x => ({ ...x, sev: x.forcedSev || classify(x), ts: Date.parse(x.date) || 0 }))
       .sort((a, b) => ORDER[a.sev] - ORDER[b.sev] || b.ts - a.ts);
-    setStatus("Fonte: " + source + " · " + new Date().toLocaleTimeString("pt-BR"), !source.startsWith("exemplo"));
+    setStatus("Fonte: " + source + " · " + new Date().toLocaleTimeString("pt-BR"), data.length > 0);
     render();
+    renderRadar();
     checkAlerts();
   }
 
@@ -351,6 +376,23 @@
     if (!code || code.length !== 2) return '<span style="font-size:20px">🌍</span>';
     const c = code.toLowerCase();
     return `<img class="flag" src="https://flagcdn.com/w40/${esc(c)}.png" alt="Bandeira de ${esc(countryName(code))}" width="28" height="20" onerror="this.replaceWith(document.createTextNode('${c.replace(/[^a-z]/g, "").toUpperCase()}'))">`;
+  }
+
+  function renderRadar() {
+    const el = document.getElementById("radarFeed");
+    const count = document.getElementById("radarCount");
+    // O Radar Mundial destaca informação verificada no feed, e não mensagens internas do ChatGPT.
+    const recent = items.filter(i => i.ts && i.url && i.url !== "#" &&
+      Date.now() - i.ts < 72 * 60 * 60 * 1000);
+    const prioritized = recent
+      .map(i => ({...i, radarScore: (i.sev === "crit" ? 4 : i.sev === "high" ? 3 : i.sev === "med" ? 2 : 1) +
+        (["Conflitos", "Economia", "Saúde", "Clima e desastres", "Segurança cibernética"].includes(i.category) ? 1 : 0) }))
+      .sort((a,b) => b.radarScore - a.radarScore || b.ts - a.ts)
+      .slice(0, 8);
+    count.textContent = prioritized.length + " destaques";
+    el.innerHTML = prioritized.length
+      ? prioritized.map(i => `<a class="radar-item" href="${esc(i.url)}" target="_blank" rel="noopener noreferrer"><small>${LABEL[i.sev]} · ${esc(i.category || "Geral")} · ${esc(i.source || "")}</small><strong>${esc(i.title)}</strong><small>${new Date(i.ts).toLocaleString("pt-BR")}</small></a>`).join("")
+      : '<div class="empty">Nenhuma notícia recente disponível. Aguarde a primeira coleta automática ou clique em Atualizar.</div>';
   }
 
   function render() {
