@@ -1,8 +1,8 @@
 /* Alerta Global — Service Worker: cache de interface e últimas notícias. */
-const VERSION = "ag-v5-20261116-compartilhar-noticias";
+const VERSION = "ag-v6-20261116-nova-identidade";
 const SHELL = "alerta-shell-" + VERSION;
 const DATA = "alerta-dados-" + VERSION;
-const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png"];
+const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/alerta-global.svg"];
 const ROOT = new URL("./", self.registration.scope);
 const NEWS = new URL("noticias.json", ROOT).href;
 self.addEventListener("install", event => {
