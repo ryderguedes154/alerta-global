@@ -95,7 +95,11 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 .card.linked:hover{border-color:#83b9ef;box-shadow:0 12px 38px #0004}
 .card-full-link{position:absolute;inset:0;z-index:2;border-radius:17px}
 .card-full-link:focus-visible{outline:3px solid #91caff;outline-offset:3px}
-.card-read-more{display:inline-block;color:#9ec9ff;font-size:11px;font-weight:850;padding-top:8px}
+.card-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:8px}
+.card-read-more{display:inline-block;color:#9ec9ff;font-size:11px;font-weight:850}
+.card-open-button{position:relative;z-index:3;display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:9px 13px;border:1px solid #82b5ee;border-radius:10px;background:#315781;color:#f5faff!important;font-size:11px;font-weight:850;text-decoration:none;transition:background .18s,transform .18s}
+.card-open-button:hover{background:#4277ae;transform:translateY(-1px)}
+.card-open-button:focus-visible{outline:3px solid #a9d4ff;outline-offset:3px}
 .card.linked .card-map iframe{pointer-events:none}
 .card.crit{border-left-color:var(--crit)}.card.high{border-left-color:var(--high)}.card.med{border-left-color:var(--med)}.card.low{border-left-color:var(--low)}
 .card h3{font-size:16px;line-height:1.38;letter-spacing:-.25px;margin:3px 0 0}.card p{font-size:12px;line-height:1.64;color:#b0c0d1;margin:0}
@@ -637,7 +641,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
         ${i.title_pt ? `<small style="color:var(--muted)">Original: ${esc(i.title)}</small>` : ""}
         <p>${esc(i.summary_pt || i.summary || "")}</p>${i.summary_pt ? `<small style="color:var(--muted)">Resumo traduzido automaticamente · Consulte o original na fonte.</small>` : ""}
         ${i.detail ? `<div class="detail"><strong>Resumo detalhado</strong><p>${esc(i.detail)}</p></div>` : ""}
-        ${destination ? '<span class="card-read-more" aria-hidden="true">Ler notícia completa →</span>' : ""}
+        ${destination ? `<div class="card-actions"><span class="card-read-more">Ler notícia completa →</span><a class="card-open-button" href="${esc(destination)}" target="_blank" rel="noopener noreferrer" aria-label="Abrir notícia completa: ${esc(i.title_pt || i.title)}">Abrir notícia ↗</a></div>` : ""}
       </article>`; }).join("");
   }
 
