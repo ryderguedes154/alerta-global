@@ -43,6 +43,64 @@ def child(node, name):
         if el.tag.split("}")[-1].lower() == name.lower():
             return "".join(el.itertext()).strip()
     return ""
+
+def image_url(value):
+    """Aceita somente links de imagem HTTP(S) vindos do feed da matéria."""
+    value = html.unescape(str(value or "")).strip()
+    if value.startswith("//"):
+        value = "https:" + value
+    try:
+        parsed = urllib.parse.urlsplit(value)
+    except ValueError:
+        return ""
+    if parsed.scheme not in ("https", "http") or not parsed.netloc:
+        return ""
+    if parsed.hostname in ("news.google.com", "www.google.com", "google.com"):
+        return ""
+    if parsed.path.lower().endswith((".svg", ".gif", ".ico")):
+        return ""
+    return value[:1800]
+
+def image_from_entry(entry):
+    """Obtém a imagem real declarada no item RSS (media/enclosure/HTML)."""
+    candidates = []
+    for node in entry.iter():
+        name = node.tag.split("}")[-1].lower()
+        attrs = node.attrib
+        url = ""
+        if name in ("thumbnail", "enclosure", "image"):
+            url = attrs.get("url") or attrs.get("href") or ""
+        elif name == "content":
+            media_type = (attrs.get("type") or "").lower()
+            medium = (attrs.get("medium") or "").lower()
+            if medium == "image" or media_type.startswith("image/"):
+                url = attrs.get("url", "")
+        if name == "image" and not url:
+            url = child(node, "url")
+        link = image_url(url)
+        if link:
+            try:
+                width = int(attrs.get("width", "0"))
+                height = int(attrs.get("height", "0"))
+            except ValueError:
+                width = height = 0
+            if (width and width < 90) or (height and height < 65):
+                continue
+            candidates.append((width * height, link))
+    if candidates:
+        return max(candidates, key=lambda x: x[0])[1]
+    # Muitas fontes publicam a foto apenas no HTML do resumo RSS.
+    for node in entry:
+        name = node.tag.split("}")[-1].lower()
+        if name not in ("description", "encoded", "summary", "content"):
+            continue
+        markup = html.unescape(node.text or "")
+        for match in re.finditer(r'<img\b[^>]*\b(?:src|data-src)\s*=\s*["\']([^"\']+)', markup, re.I):
+            link = image_url(match.group(1))
+            if link:
+                return link
+    return ""
+
 def parsedate(value):
     if not value:
         return ""
@@ -95,7 +153,8 @@ def parse_feed(source, url, default, country, lang):
                 continue
         output.append({"title": title, "summary": clean(child(e, "description") or child(e, "summary"))[:360],
                        "category": category(title, default), "region": "Global", "country": country,
-                       "source": source, "url": link, "date": date, "lang": lang})
+                       "source": source, "url": link, "date": date, "lang": lang,
+                       "image": image_from_entry(e)})
     return output
 def earthquakes():
     j = json.loads(download("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson"))
@@ -158,14 +217,16 @@ def main():
                 cache[old.get("title", "")] = old
         except (ValueError, TypeError):
             pass
-    remaining_titles = 45
-    remaining_summaries = 20
+    remaining_titles = 18
+    remaining_summaries = 55
     title_count = 0
     summary_count = 0
     # Tradução de notícias recentes primeiro. O restante será traduzido
     # em execuções seguintes, sem apagar traduções realizadas.
     for item in sorted_items:
         previous = cache.get(item["title"], {})
+        if not item.get("image") and previous.get("image"):
+            item["image"] = previous["image"]
         lang = item.get("lang", "")
         if lang == "pt":
             item["title_pt"] = item["title"]
@@ -173,18 +234,7 @@ def main():
             continue
         if not lang:
             continue
-        if previous.get("title_pt"):
-            item["title_pt"] = previous["title_pt"]
-        elif remaining_titles > 0:
-            remaining_titles -= 1
-            try:
-                value = translate(item["title"], lang)
-                if value:
-                    item["title_pt"] = value
-                    title_count += 1
-            except Exception as err:
-                print(f"Serviço de tradução de títulos indisponível: {err}")
-                remaining_titles = 0
+        # Resumo primeiro: o objetivo é apresentar a notícia em português.
         if previous.get("summary_pt"):
             item["summary_pt"] = previous["summary_pt"]
         elif remaining_summaries > 0 and item.get("summary"):
@@ -197,6 +247,18 @@ def main():
             except Exception as err:
                 print(f"Serviço de tradução de resumos indisponível: {err}")
                 remaining_summaries = 0
+        if previous.get("title_pt"):
+            item["title_pt"] = previous["title_pt"]
+        elif remaining_titles > 0:
+            remaining_titles -= 1
+            try:
+                value = translate(item["title"], lang)
+                if value:
+                    item["title_pt"] = value
+                    title_count += 1
+            except Exception as err:
+                print(f"Serviço de tradução de títulos indisponível: {err}")
+                remaining_titles = 0
     print(f"Traduções novas: {title_count} títulos e {summary_count} resumos")
     OUT.write_text(json.dumps(sorted_items, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Gravadas {len(sorted_items)} ocorrências em {OUT.name}")
