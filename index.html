@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<meta name="theme-color" content="#0f1419">
+<meta name="theme-color" content="#090e1a">
 <meta name="description" content="Radar Mundial e Alerta Global: notícias internacionais, alertas de gravidade e monitoramento de terremotos.">
 <meta name="application-name" content="Alerta Global">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -12,101 +12,111 @@
 <link rel="manifest" href="./manifest.webmanifest">
 <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png">
 <link rel="apple-touch-icon" sizes="192x192" href="./icons/icon-192.png">
-<title>Alerta Global — Notícias e Perigos Mundiais</title>
+<title>Alerta Global · Radar Mundial</title>
 <style>
-  :root {
-    --bg: #0f1419; --panel: #171e26; --line: #263241; --text: #e6edf3; --muted: #8b98a5;
-    --crit: #ff4d4f; --high: #ff9f1c; --med: #ffd166; --low: #4cc9f0; --ok: #06d6a0;
-  }
-  * { box-sizing: border-box; }
-  body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); }
-  header { padding: 20px 24px; border-bottom: 1px solid var(--line); display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between; }
-  h1 { font-size: 20px; margin: 0; }
-  .sub { color: var(--muted); font-size: 13px; }
-  .status { display: flex; gap: 10px; align-items: center; font-size: 13px; color: var(--muted); }
-  .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--ok); display: inline-block; }
-  .dot.off { background: var(--muted); }
-  main { max-width: 1100px; margin: 0 auto; padding: 20px 24px 60px; }
-  .levels { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 18px; }
-  .level { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px; cursor: pointer; }
-  .level strong { display: block; font-size: 22px; }
-  .level span { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
-  .level.crit strong { color: var(--crit); }
-  .level.high strong { color: var(--high); }
-  .level.med strong { color: var(--med); }
-  .level.low strong { color: var(--low); }
-  .radar { margin: 0 0 22px; padding: 16px; border: 1px solid var(--line); border-radius: 12px; background: var(--panel); }
-  .radar-head { display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap; }
-  .radar h2 { margin:0; font-size:18px; }
-  .radar p { color:var(--muted); font-size:13px; margin:5px 0 12px; }
-  #radarCount { color:var(--ok); font-size:13px; }
-  .radar-feed { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:10px; }
-  .radar-item { display:block; background:var(--bg); border:1px solid var(--line); border-radius:8px; padding:12px; color:var(--text); text-decoration:none; line-height:1.4; }
-  .radar-item:hover { border-color:#58a6ff; }
-  .radar-item strong { display:block; font-size:14px; margin:5px 0; }
-  .radar-item small { color:var(--muted); display:block; }
-  .install-btn { background:#1f6feb; border:1px solid #438dff; border-radius:8px; padding:8px 12px; color:white; cursor:pointer; font-weight:600; }
-  .install-btn[hidden] { display:none; }
-  .offline-note { border:1px solid #77613f; padding:10px 12px; margin-bottom:16px; color:#ffd166; background:#282317; border-radius:8px; font-size:13px; }
-  .offline-note[hidden] { display:none; }
-  @media(max-width:700px) { header { padding:14px 16px; } main { padding:16px 12px 56px; } .status { width:100%; justify-content:flex-start; flex-wrap:wrap; } .radar { padding:12px; } }
-  .banner { display: none; border: 1px solid var(--crit); background: rgba(255,77,79,.12); border-radius: 10px; padding: 14px 16px; margin-bottom: 18px; }
-  .banner.show { display: block; }
-  .banner h2 { margin: 0 0 6px; font-size: 16px; color: var(--crit); }
-  .banner ul { margin: 0; padding-left: 18px; }
-  .banner li { margin: 4px 0; font-size: 14px; }
-  .toolbar { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
-  .toolbar input, .toolbar select, .toolbar button, .settings input, .settings select {
-    background: var(--panel); color: var(--text); border: 1px solid var(--line); border-radius: 8px; padding: 9px 12px; font-size: 14px;
-  }
-  .toolbar input { flex: 1; min-width: 180px; }
-  .toolbar button, .settings button { cursor: pointer; background: #1f6feb; border-color: #1f6feb; color: #fff; }
-  .toolbar button.ghost { background: var(--panel); border-color: var(--line); color: var(--text); }
-  .card { background: var(--panel); border: 1px solid var(--line); border-left: 4px solid var(--line); border-radius: 10px; padding: 14px 16px; margin-bottom: 12px; }
-  .card.crit { border-left-color: var(--crit); }
-  .card.high { border-left-color: var(--high); }
-  .card.med { border-left-color: var(--med); }
-  .card.low { border-left-color: var(--low); }
-  .meta { display: flex; flex-wrap: wrap; gap: 8px; font-size: 12px; color: var(--muted); margin-bottom: 6px; align-items: center; }
-  .tag { padding: 2px 8px; border-radius: 999px; border: 1px solid var(--line); }
-  .tag.sev-crit { color: var(--crit); border-color: var(--crit); }
-  .tag.sev-high { color: var(--high); border-color: var(--high); }
-  .tag.sev-med { color: var(--med); border-color: var(--med); }
-  .tag.sev-low { color: var(--low); border-color: var(--low); }
-  .card h3 { margin: 4px 0 6px; font-size: 16px; line-height: 1.35; }
-  .card p { margin: 0; font-size: 14px; color: #c3ccd5; line-height: 1.5; }
-  .card a { color: #58a6ff; font-size: 13px; }
-  .detail { margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--line); }
-  .detail strong { display: block; font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; margin-bottom: 4px; }
-  .detail p { white-space: pre-line; }
-  .empty { color: var(--muted); text-align: center; padding: 40px 0; }
-  .flag { width: 28px; height: 20px; object-fit: cover; border-radius: 3px; border: 1px solid var(--line); vertical-align: middle; }
-  .country { font-weight: 600; color: var(--text); }
-  .settings { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 16px; margin-top: 28px; display: none; }
-  .settings.open { display: block; }
-  .settings label { display: block; font-size: 13px; color: var(--muted); margin: 10px 0 4px; }
-  .settings input, .settings select { width: 100%; }
-  .row { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
-  .note { font-size: 12px; color: var(--muted); margin-top: 10px; line-height: 1.5; }
-  @media (max-width: 700px) { .levels { grid-template-columns: repeat(2, 1fr); } }
+
+/* Alerta Global 2.0 — painel editorial */
+:root{--bg:#090e1a;--panel:#141d2e;--line:#273851;--text:#f2f5ff;--muted:#9baec5;--crit:#ff687b;--high:#ffb15d;--med:#f3d27d;--low:#80cfff;--ok:#5cf1c4}
+*,*:before,*:after{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:24px}
+body{margin:0;background:#090e1a;color:var(--text);font:14px/1.5 Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+body:before{content:"";pointer-events:none;position:fixed;inset:0;background:radial-gradient(ellipse 44% 40% at 70% 0%,#284a7838,transparent),radial-gradient(ellipse 40% 45% at 0% 80%,#0d555333,transparent);z-index:-1}
+a{color:inherit}button,select,input{font:inherit}button{cursor:pointer}button:focus-visible,a:focus-visible,select:focus-visible,input:focus-visible{outline:2px solid #91caff;outline-offset:2px}
+[hidden]{display:none!important}
+.app-layout{max-width:1850px;min-height:100vh;margin:auto;display:grid;grid-template-columns:235px minmax(0,1fr)}
+.side{height:100vh;position:sticky;top:0;background:#0c1422;border-right:1px solid #27334a;padding:28px 17px;display:flex;flex-direction:column;gap:8px}
+.logo{display:flex;align-items:center;gap:10px;text-decoration:none;padding:3px 8px 30px}.logo-symbol{display:grid;place-items:center;width:43px;height:43px;background:linear-gradient(135deg,#6582ff,#43cdb9);border-radius:14px;font-size:22px;box-shadow:0 8px 35px #3b6cff42}
+.logo strong{font-size:17px;letter-spacing:-.5px}.logo small{display:block;font-size:9px;font-weight:850;color:#91a2bf;letter-spacing:2.1px}
+.side-caption{padding:0 13px;font-size:10px;font-weight:850;letter-spacing:2px;text-transform:uppercase;color:#697b96;margin:2px 0 4px}
+.side-link{color:#9fb2ca;border:1px solid transparent;border-radius:12px;text-decoration:none;padding:11px 13px;display:flex;align-items:center;gap:12px;font-weight:680;font-size:13px}
+.side-link:hover,.side-link.active{background:#1d2c47;color:#f4f8ff;border-color:#2f4064}
+.side-link span{width:22px;text-align:center;font-size:17px}
+.side-bottom{margin-top:auto}.side-card{background:linear-gradient(135deg,#164349,#15223a);border:1px solid #32666b;border-radius:16px;padding:17px}
+.side-card .eyebrow{color:#7ef3d6}.side-card strong{display:block;margin-top:9px;font-size:15px}
+.side-card p{font-size:11px;color:#9cc2c7;margin:5px 0 14px}.side-card .line{height:4px;border-radius:10px;background:linear-gradient(90deg,#48dbc5 70%,#344b5f 70%)}
+.side-version{font-size:10px;color:#687892;margin:20px 8px 0}
+.workspace{min-width:0}.topbar{min-height:82px;display:flex;justify-content:space-between;align-items:center;gap:15px;border-bottom:1px solid #ffffff15;padding:17px clamp(18px,3.5vw,48px)}
+.breadcrumb{font-size:11px;color:#8ea0b7}.topbar h1{margin:3px 0 0;font-size:18px;letter-spacing:-.5px}.top-actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.status-pill{display:inline-flex;align-items:center;gap:7px;background:#11392e;border:1px solid #2e6554;padding:7px 11px;border-radius:100px;color:#85e9c2;font-size:11px;font-weight:850}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:#51e7ac;box-shadow:0 0 0 4px #55e9af20}.dot.off{background:#8092a2;box-shadow:none}
+.icon-action{background:#172439;border:1px solid #34455d;border-radius:11px;height:38px;width:38px;font-size:18px;color:#e7f0ff}
+.install-btn{border:1px solid #6e87ff;border-radius:11px;padding:9px 14px;background:linear-gradient(120deg,#6483ff,#465dd8);color:white;font-weight:850;font-size:12px}
+main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
+.hero{position:relative;isolation:isolate;overflow:hidden;padding:36px clamp(23px,4vw,43px);border-radius:24px;background:radial-gradient(ellipse at 85% 35%,#2b829053,transparent 44%),linear-gradient(115deg,#1c3154,#132237 72%,#0d1b2c);border:1px solid #45628d82;min-height:284px;display:flex;align-items:center}
+.hero:before{content:"";z-index:-1;position:absolute;width:360px;height:360px;right:6%;top:-50px;border:1px solid #88c7f17c;border-radius:50%;box-shadow:0 0 0 27px #88d3f00a,0 0 0 73px #88d3f00a,0 0 100px #488fbd18 inset;background:repeating-radial-gradient(circle,#c4e5ff1e 0 1px,transparent 2px 41px)}
+.hero:after{content:"";z-index:-1;position:absolute;width:360px;height:360px;right:6%;top:-50px;border:1px solid #81c1f228;border-radius:50%;transform:scaleX(.6)}
+.hero-copy{max-width:570px}.hero-label{display:inline-flex;align-items:center;gap:8px;background:#1b67613d;color:#8bfad7;border:1px solid #51c6b266;padding:6px 12px;border-radius:100px;font-size:10px;font-weight:850;text-transform:uppercase;letter-spacing:1.5px}
+.hero h2{font-size:clamp(32px,3.8vw,52px);line-height:1.08;letter-spacing:-1.7px;margin:18px 0 14px}
+.hero h2 em{font-style:normal;background:linear-gradient(100deg,#b2c7ff,#65e7d7);-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero p{max-width:490px;font-size:13px;line-height:1.7;color:#b7c9dc;margin:0}
+.hero-cta{display:flex;gap:15px;flex-wrap:wrap;align-items:center;margin-top:22px}
+.hero-cta a{background:#f6f8ff;color:#152642;text-decoration:none;font-size:12px;font-weight:850;border-radius:11px;padding:11px 16px}
+.hero-cta small{font-size:11px;color:#aac4dc}
+.status-text{font-size:11px;color:#96a9be;margin:14px 0 4px;min-height:18px}
+.levels{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:17px 0 27px}
+.level{border:1px solid #293c55;border-top:2px solid #3c546b;border-radius:16px;background:linear-gradient(140deg,#182439,#111b2b);padding:18px;text-align:left;min-height:129px;display:flex;flex-direction:column;transition:transform .18s,border-color .18s}
+.level:hover{transform:translateY(-2px);border-color:#547398}.level strong{font-size:33px;line-height:1.15;letter-spacing:-1px;margin-top:14px}
+.level span{font-size:11px;color:#b8c6d7;font-weight:750}
+.level:before{content:"◉";color:#c9d8eb;line-height:1;font-size:18px}
+.level.crit{border-top-color:#f46678}.level.crit:before{content:"⚑";color:var(--crit)}.level.crit strong{color:var(--crit)}
+.level.high{border-top-color:#efa659}.level.high:before{content:"⚠";color:var(--high)}.level.high strong{color:var(--high)}
+.level.med{border-top-color:#e6cd7a}.level.med strong{color:var(--med)}
+.level.low{border-top-color:#71bffe}.level.low:before{content:"↗";color:var(--low)}.level.low strong{color:var(--low)}
+.section-header{display:flex;justify-content:space-between;align-items:end;gap:12px;margin:24px 0 15px}
+.section-header .eyebrow{color:#8ea6d5;font-weight:900;letter-spacing:2px;text-transform:uppercase;font-size:10px}
+.section-header h2{font-size:clamp(22px,2.5vw,29px);line-height:1.2;letter-spacing:-.9px;margin:5px 0 0}
+.section-header p{font-size:12px;color:#93a6bd;margin:4px 0 0}
+.radar{margin:8px 0 30px}.radar-head{display:flex;justify-content:space-between;align-items:end;gap:15px;margin-bottom:15px}
+.radar-head h2{font-size:clamp(22px,2.5vw,29px);letter-spacing:-.8px;margin:0}
+.radar-head p{font-size:12px;color:#9aacc4;margin:5px 0 0}
+#radarCount{color:#83eecb;font-size:11px;font-weight:850;border:1px solid #3f7569;background:#133b3440;border-radius:100px;padding:7px 12px;white-space:nowrap}
+.radar-feed{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,.8fr);gap:12px}
+.radar-item{border:1px solid #3d526e;border-radius:18px;display:flex;flex-direction:column;justify-content:end;min-height:145px;padding:20px;text-decoration:none;background:radial-gradient(ellipse at 100% 0%,#4b718a44,transparent 48%),linear-gradient(135deg,#1a3450,#162237);position:relative;overflow:hidden;transition:transform .18s,border-color .18s}
+.radar-item:hover{transform:translateY(-2px);border-color:#80a8d9}
+.radar-item:before{content:"";width:190px;height:190px;position:absolute;pointer-events:none;top:-65px;right:-50px;border-radius:50%;border:1px solid #afcfff37;box-shadow:0 0 0 35px #d9ecff0a,0 0 0 70px #d9ecff05}
+.radar-item:first-child{grid-row:span 3;min-height:318px;padding:27px;background:radial-gradient(ellipse at 95% 14%,#27949c66,transparent 54%),linear-gradient(133deg,#204d66,#0f223b)}
+.radar-item small{font-size:10px;color:#a9bcd4}.radar-item strong{font-size:16px;line-height:1.4;margin:12px 0 8px;position:relative}
+.radar-item:first-child strong{font-size:clamp(21px,2.6vw,30px);letter-spacing:-.5px;line-height:1.24}
+.radar-item:after{content:"Ler na fonte ↗";font-size:11px;color:#85f2d3;font-weight:850;margin-top:8px}
+.banner{display:none;border:1px solid #b14a666a;border-radius:17px;background:linear-gradient(115deg,#3e1c2b99,#1c2037);padding:17px 20px;margin:0 0 25px}
+.banner.show{display:block}.banner h2{font-size:13px;color:#ff92a1;margin:0 0 9px}
+.banner ul{list-style:none;padding:0;margin:0;display:grid;gap:7px}.banner li{color:#f3c2cf;font-size:12px}
+.toolbar{display:flex;gap:10px;flex-wrap:wrap;border:1px solid #2a3b54;padding:14px;border-radius:16px;background:#131d2f;margin:15px 0}
+.toolbar input,.toolbar select,.settings input,.settings select{padding:11px 13px;background:#0e1727;color:#e8f1ff;border:1px solid #344861;border-radius:11px;font-size:12px}
+.toolbar input{flex:1;min-width:200px}.toolbar select{min-width:140px}
+.card{display:flex;flex-direction:column;gap:10px;background:#141e2f;border:1px solid #2a3c53;border-left:3px solid #324a66;border-radius:17px;padding:18px;min-width:0;transition:transform .18s,border-color .18s}
+.card:hover{transform:translateY(-2px);border-color:#5e7897}
+.card.crit{border-left-color:var(--crit)}.card.high{border-left-color:var(--high)}.card.med{border-left-color:var(--med)}.card.low{border-left-color:var(--low)}
+.card h3{font-size:16px;line-height:1.38;letter-spacing:-.25px;margin:3px 0 0}.card p{font-size:12px;line-height:1.64;color:#b0c0d1;margin:0}
+.card .meta{display:flex;flex-wrap:wrap;gap:7px;align-items:center;font-size:10px;color:#97a8bd}
+.card .flag{height:15px;width:23px;object-fit:cover;border-radius:3px}.card .country{color:#d8e5f2;font-weight:700}
+.tag{border:1px solid #435570;padding:4px 9px;border-radius:100px;font-size:10px;font-weight:750;color:#bcd2ed}
+.tag.sev-crit{border-color:#d45067;color:#ff98a4;background:#68334437}
+.tag.sev-high{border-color:#ba814c;color:#ffd29a;background:#72542c37}
+.tag.sev-med{border-color:#b19d59;color:#ffe0a0;background:#6d602637}
+.tag.sev-low{border-color:#427d9e;color:#a3e0ff;background:#2c647737}
+.card .detail{border-top:1px solid #34475e;padding-top:10px}.detail strong{display:block;font-size:10px;color:#a8bdd5;text-transform:uppercase;margin-bottom:5px}.detail p{white-space:pre-line}
+.card a{color:#9ec9ff;font-size:11px;font-weight:850;text-decoration:none}
+#feed{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:14px 0 27px}
+.empty{grid-column:1/-1;border:1px dashed #344c68;border-radius:16px;text-align:center;color:#95a6b8;background:#131e2d;padding:33px;font-size:12px}
+.settings{display:none;border:1px solid #2e405b;border-radius:17px;padding:21px;background:#121e2e}.settings.open{display:block}
+.settings strong{font-size:17px}.settings label{display:block;font-size:11px;color:#b3c4d5;margin:12px 0 5px;font-weight:700}
+.settings input,.settings select{width:100%}.settings .row{display:flex;flex-wrap:wrap;gap:9px;margin-top:15px}
+.settings button{background:#4967dc;border:1px solid #6885e9;color:white;border-radius:9px;padding:10px 13px;font-weight:800;font-size:12px}.settings .ghost{background:#202f45;border-color:#43546a}
+.note{font-size:11px;color:#96a9c2;line-height:1.65}.offline-note{border:1px solid #7a6c3c;border-radius:12px;background:#38301e;color:#f0da9e;padding:10px 13px;margin-bottom:14px;font-size:12px}
+.footer{border-top:1px solid #2c3b4f;padding-top:22px;color:#6f839f;font-size:11px;display:flex;justify-content:space-between;gap:12px}
+.bottom-nav{display:none}
+@media(max-width:1160px){.app-layout{grid-template-columns:195px minmax(0,1fr)}.side{padding-left:10px;padding-right:10px}}
+@media(max-width:900px){.app-layout{display:block}.side{display:none}.topbar{min-height:70px;padding:13px 19px}main{padding:17px 17px 122px}.bottom-nav{display:flex;position:fixed;z-index:20;bottom:max(10px,env(safe-area-inset-bottom));left:12px;right:12px;justify-content:space-around;padding:7px;background:#17253cf3;border:1px solid #354b6a;box-shadow:0 15px 44px #0008;border-radius:17px;backdrop-filter:blur(16px)}.bottom-nav a,.bottom-nav button{flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;color:#aec1d8;padding:5px;border:0;background:none;text-decoration:none;font-size:10px;border-radius:9px}.bottom-nav .bico{font-size:20px}.bottom-nav a:first-child{background:#2d446c;color:white}}
+@media(max-width:620px){.topbar .breadcrumb,.topbar .status-pill{display:none}.topbar h1{font-size:16px}.top-actions{gap:6px}.icon-action{width:35px;height:35px}.install-btn{font-size:10px;padding:8px}.hero{min-height:274px;border-radius:19px;padding:24px 21px}.hero:before{right:-135px;top:-74px;opacity:.36}.hero h2{font-size:33px}.hero p{font-size:12px;max-width:300px}.hero-cta{gap:9px}.levels{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.level{min-height:108px;padding:14px}.level strong{font-size:27px;margin-top:9px}.radar-feed,#feed{grid-template-columns:1fr}.radar-item:first-child{grid-row:auto;min-height:235px}.radar-item:first-child strong{font-size:22px}.toolbar{flex-direction:column;padding:11px}.toolbar input,.toolbar select{width:100%;min-width:0}.footer{display:block}.footer span{display:block;margin-bottom:7px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+
 </style>
 </head>
 <body>
-<header>
-  <div>
-    <h1>🌍 Alerta Global</h1>
-    <div class="sub">Notícias mundiais com classificação automática de risco</div>
-  </div>
-  <div class="status">
-    <span class="dot" id="liveDot"></span>
-    <span id="statusText">Carregando…</span>
-    <button type="button" id="installBtn" class="install-btn">📲 Instalar app</button>
-    <button class="toolbar" style="padding:6px 10px" id="refreshBtn">Atualizar</button>
-    <button class="toolbar" style="padding:6px 10px" id="settingsBtn">Configurar</button>
-  </div>
-</header>
+<div class="app-layout"><aside class="side"><a href="#overview" class="logo"><span class="logo-symbol">◎</span><span><strong>Alerta Global</strong><small>RADAR MUNDIAL</small></span></a><div class="side-caption">Explorar</div><a class="side-link active" href="#overview"><span>◈</span>Visão geral</a><a class="side-link" href="#radar"><span>◎</span>Radar Mundial</a><a class="side-link" href="#news"><span>▤</span>Últimas notícias</a><a class="side-link" href="#banner"><span>⚠</span>Alertas de risco</a><div class="side-caption" style="margin-top:24px">Preferências</div><button type="button" id="sideSettings" class="side-link"><span>⚙</span>Configurações</button><div class="side-bottom"><div class="side-card"><div class="eyebrow">◉ MONITOR GLOBAL</div><strong>Informação em foco</strong><p>Acompanhe acontecimentos importantes de fontes internacionais e alertas do USGS.</p><div class="line"></div></div><div class="side-version">ALERTA GLOBAL · 2026</div></div></aside><div class="workspace"><header class="topbar"><div><div class="breadcrumb">Início / Painel internacional</div><h1>Visão geral <span style="color:#7588a3">/ Mundial</span></h1></div><div class="top-actions"><div class="status-pill"><span class="dot" id="liveDot"></span> Monitor global</div><button class="icon-action" id="refreshBtn" title="Atualizar notícias" aria-label="Atualizar notícias">↻</button><button class="icon-action" id="settingsBtn" title="Configurações" aria-label="Configurações">⚙</button><button class="install-btn" id="installBtn">↓ Instalar app</button></div></header>
 
-<main>
+<main id="overview"><section class="hero" aria-label="Radar Mundial"><div class="hero-copy"><div class="hero-label"><span class="dot"></span> INTELIGÊNCIA DE NOTÍCIAS · RADAR MUNDIAL</div><h2>O mundo não para.<br><em>Você acompanha.</em></h2><p>Notícias globais, riscos e acontecimentos importantes em um só lugar. Entenda o que acontece no mundo, direto das fontes originais.</p><div class="hero-cta"><a href="#radar">Explorar destaques ↗</a><small>Monitoramento internacional</small></div></div></section><div class="status-text" id="statusText">Carregando notícias...</div>
   <div class="offline-note" id="offlineNotice" hidden role="status">📡 Sem internet. Exibindo as últimas notícias disponíveis no dispositivo, se houver.</div>
   <section class="levels">
     <div class="level crit" data-sev="crit"><strong id="cCrit">0</strong><span>Crítico</span></div>
@@ -125,6 +135,7 @@
     <ul id="bannerList"></ul>
   </section>
 
+  <div class="section-header" id="news"><div><div class="eyebrow">Central de informação</div><h2>Últimas notícias</h2><p>Encontre rapidamente assuntos, países e alertas de interesse.</p></div></div>
   <div class="toolbar">
     <input id="search" type="search" placeholder="Buscar por palavra-chave, país ou tema…">
     <select id="cat">
@@ -171,7 +182,7 @@
       Fontes reais (agências de notícias, OMS, USGS, ONU, CISA) podem ser agregadas por um pequeno servidor que gera esse JSON.
     </p>
   </section>
-</main>
+<footer class="footer"><span>© 2026 Alerta Global · Radar Mundial</span><span>Fontes internacionais e USGS · Verifique sempre a fonte original.</span></footer></main></div></div><nav class="bottom-nav" aria-label="Navegação inferior"><a href="#overview"><span class="bico">◈</span>Início</a><a href="#radar"><span class="bico">◎</span>Radar</a><a href="#news"><span class="bico">▤</span>Notícias</a><button id="bottomSettings" type="button"><span class="bico">⚙</span>Ajustes</button></nav>
 
 <script>
 (() => {
@@ -539,6 +550,13 @@
     });
   }
 
+  // atalhos para ajustes nas versões desktop e mobile
+  for (const id of ["sideSettings", "bottomSettings"]) {
+    document.getElementById(id)?.addEventListener("click", () => {
+      document.getElementById("settingsBtn").click();
+      document.getElementById("settings").scrollIntoView({behavior:"smooth",block:"start"});
+    });
+  }
   // ---------- Controles ----------
   document.getElementById("refreshBtn").onclick = load;
   document.getElementById("settingsBtn").onclick = () => {
