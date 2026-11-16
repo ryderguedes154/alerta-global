@@ -168,7 +168,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     <ul id="bannerList"></ul>
   </section>
 
-  <div class="section-header" id="news"><div><div class="eyebrow">Central de informação</div><h2>Últimas notícias</h2><p>Encontre rapidamente assuntos, países e alertas de interesse.</p></div></div>
+  <div class="section-header" id="news"><div><div class="eyebrow">Central de informação</div><h2>Notícias de impacto mundial</h2><p>Seleção de notícias internacionais relevantes, com filtros por assunto e país.</p></div></div>
   <div class="toolbar">
     <input id="search" type="search" placeholder="Buscar por palavra-chave, país ou tema…">
     <select id="cat">
@@ -519,27 +519,60 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     } catch (error) { console.warn("Mapas sísmicos temporariamente indisponíveis",error); }
   }
 
+
+  // Filtro editorial: prioriza acontecimentos com alcance internacional.
+  // Usa limites de palavras para não confundir "war" com "awards" ou "software".
+  const editorialText = value => String(value || "").toLowerCase()
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  const IMPACT = [
+    [8, /\b(?:earthquake|terremoto|tsunami|hurricane|furacao|typhoon|tufao|cyclone|ciclone|wildfire|incendios florestais|inundacao|inundacoes|floods?|flooding|eruption|erupcao|volcano|vulcao|tornado|deslizamento|storms?|tempetes?|tormentas?|el nino)\b/],
+    [7, /\b(?:war|guerra|guerre|invasion|invasao|invasion|missiles?|misiles|misseis|airstrikes?|bombardeios?|bombardement|ceasefire|cessar.fogo|alto el fuego|hostages?|refens|nuclear|troops?|tropas|military|militar(?:es)?|soldados|army|exercito|conflitos?|armed attack|attaques militaires|porte.avions|aircraft carrier)\b/],
+    [6, /\b(?:trump|xi jinping|putin|zelensk\w*|lula|pentagon|pentagono|white house|casa branca|kremlin|nato|otan|onu|united nations|nacoes unidas|security council|conselho de seguranca|g7|g20|cop3\d|european union|uniao europeia|union europea|brics|imf|fmi|world bank|banco mundial)\b/],
+    [5, /\b(?:president(?:e|s|a)?|prime minister|primer ministro|premier ministre|governments?|governos?|gobiernos?|parliament|parlamento|parlement|elections?|eleicoes|elecciones|electoral|eleitorais|sanctions?|sancoes|sanciones|diplomat\w*|diplomacia|coup|golpe de estado|summit|cumbre|sommet|international relations|foreign policy|politique europeenne|immigration|imigracao|migracion)\b/],
+    [6, /\b(?:inflation|inflacao|inflacion|recession|recessao|recesion|central bank|banco central|banque centrale|interest rates?|taxa de juros|taux d.interet|tariffs?|tarifas?|trade war|guerra comercial|wall street|stock market|bolsa de valores|bolsas mundiais|global economy|economia global|world economy|supply chain|cadeia de suprimentos|federal reserve|the fed)\b/],
+    [6, /\b(?:pandemic|pandemia|epidemic|epidemia|outbreak|surto|epidemie|emergencia sanitaria|who|oms|vaccine shortage|escassez de vacinas|public health crisis|crise sanitaria)\b/],
+    [6, /\b(?:cyberattacks?|ciberataques?|ransomware|data breach|vazamento de dados|apagao|blackout|outage|falha generalizada|widespread|mass disruption|aviation|air traffic|controle aereo|aeroportos)\b/],
+    [4, /\b(?:ai regulation|regulamentacao de ia|artificial intelligence|inteligencia artificial|intelligence artificielle|semiconductors?|semicondutores|nvidia|chip exports?|exportacao de chips|data centers?|centros de dados|space exploration|exploracao espacial|spacex|starship|ai tech|inteligencia artificial|openai)\b/],
+    [3, /\b(?:supreme court|suprema corte|tribunal supremo|cour supreme|federal judge|juiz federal|juge federal|protests?|protestos?|manifestations?|displaced|refugees?|refugiados|migrants?|migrantes|killed|mortos|deaths?|mortes|victims?|vitimas|evacuated|evacuados|major banks|grandes bancos|rights group|droits humains)\b/]
+  ];
+  const LOW_IMPACT = /\b(?:nasal spray|spray nasal|celebrity|celebrities|grammy|oscars?|movie|film festival|premier league|quarterfinal|football|soccer|thrash|recipe|receita|beauty|skincare|dating|royal wedding|horoscope|horoscopo|weight loss|diet tips|lost weight|makeup|tiktok star|reality tv|influencer)\b/;
+  function importanceScore(item) {
+    if (item.source === "USGS") {
+      const magnitude = Number(String(item.title || "").match(/magnitude\s+(\d+(?:\.\d+)?)/i)?.[1] || 0);
+      return magnitude >= 6 ? 10 : magnitude >= 5 ? 6 : 3;
+    }
+    const title = editorialText(item.title);
+    const summary = editorialText(item.summary);
+    let score = 0;
+    for (const [points, pattern] of IMPACT) {
+      if (pattern.test(title)) score += points;
+      else if (pattern.test(summary)) score += Math.round(points / 2);
+    }
+    if (LOW_IMPACT.test(title)) score -= 8;
+    if (/^(?:woman|man|mum|dad|mother|father|couple|family|familia|homem|mulher|mujer|hombre|une femme|un homme)\b/.test(title)) score -= 4;
+    return Math.max(0, score);
+  }
+
   function renderRadar() {
     const el = document.getElementById("radarFeed");
     const count = document.getElementById("radarCount");
     // O Radar Mundial destaca informação verificada no feed, e não mensagens internas do ChatGPT.
     const recent = items.filter(i => i.ts && i.url && i.url !== "#" &&
-      Date.now() - i.ts < 72 * 60 * 60 * 1000);
-    const candidates = recent.length ? recent : items.filter(i => i.url && i.url !== "#");
+      Date.now() - i.ts < 72 * 60 * 60 * 1000 && importanceScore(i) >= 4);
+    const candidates = recent.length ? recent : items.filter(i => i.url && i.url !== "#" && importanceScore(i) >= 4);
     const prioritized = candidates
-      .map(i => ({...i, radarScore: (i.sev === "crit" ? 4 : i.sev === "high" ? 3 : i.sev === "med" ? 2 : 1) +
-        (["Conflitos", "Economia", "Saúde", "Clima e desastres", "Segurança cibernética"].includes(i.category) ? 1 : 0) }))
+      .map(i => ({...i, radarScore: importanceScore(i) + (i.sev === "crit" ? 2 : i.sev === "high" ? 1 : 0)}))
       .sort((a,b) => b.radarScore - a.radarScore || b.ts - a.ts)
       .slice(0, 8);
     count.textContent = prioritized.length + " destaques";
     el.innerHTML = prioritized.length
-      ? prioritized.map(i => { const photo = newsImage(i.image); const map = !photo && quakeMapHtml(i, true); return `<a class="radar-item${photo ? " has-image" : ""}${map ? " has-map" : ""}" ${photo ? `style="--story-image:url(&quot;${esc(photo)}&quot;)"` : ""} href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">${map}<small>${LABEL[i.sev]} · ${esc(i.category || "Geral")} · ${esc(i.source || "")}</small><strong>${esc(i.title_pt || i.title)}</strong><small>${i.ts ? new Date(i.ts).toLocaleString("pt-BR") : ""}${i.title_pt ? " · Tradução automática" : ""}</small></a>`; }).join("")
+      ? prioritized.map(i => { const photo = newsImage(i.image); const map = photo ? "" : quakeMapHtml(i, true); return `<a class="radar-item${photo ? " has-image" : ""}${map ? " has-map" : ""}" ${photo ? `style="--story-image:url(&quot;${esc(photo)}&quot;)"` : ""} href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">${map}<small>${LABEL[i.sev]} · ${esc(i.category || "Geral")} · ${esc(i.source || "")}</small><strong>${esc(i.title_pt || i.title)}</strong><small>${i.ts ? new Date(i.ts).toLocaleString("pt-BR") : ""}${i.title_pt ? " · Tradução automática" : ""}</small></a>`; }).join("")
       : '<div class="empty">Sem notícias disponíveis. Confira o estado da fonte acima e tente atualizar.</div>';
   }
 
   function render() {
     const counts = { crit: 0, high: 0, med: 0, low: 0 };
-    items.forEach(i => counts[i.sev]++);
+    items.filter(i => importanceScore(i) >= 3).forEach(i => counts[i.sev]++);
     document.getElementById("cCrit").textContent = counts.crit;
     document.getElementById("cHigh").textContent = counts.high;
     document.getElementById("cMed").textContent = counts.med;
@@ -551,6 +584,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     const allowed = { crit: ["crit"], high: ["crit","high"], med: ["crit","high","med"], low: ["crit","high","med","low"] };
 
     const list = items.filter(i => {
+      if (importanceScore(i) < 3) return false;
       if (cat && i.category !== cat) return false;
       if (minSev && !allowed[minSev].includes(i.sev)) return false;
       if (q && !norm([i.title, i.title_pt, i.summary, i.summary_pt, i.region, i.category, i.source].join(" ")).includes(q)) return false;
