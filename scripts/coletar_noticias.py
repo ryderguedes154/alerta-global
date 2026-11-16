@@ -8,6 +8,7 @@ import html
 import json
 import re
 import urllib.parse
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -252,17 +253,74 @@ def earthquakes():
                        "lat": latitude, "lon": longitude, "depth_km": depth_km,
                        "forcedSev": "crit" if mag >= 7 else "high" if mag >= 6 else "med" if mag >= 5 else "low"})
     return result
-def translate(text, lang):
-    """Tradução gratuita (MyMemory, sem chave). Retorna '' se a cota acabar ou não houver resposta."""
-    q = urllib.parse.quote(text[:450])
-    url = f"https://api.mymemory.translated.net/get?q={q}&langpair={lang}|pt-BR"
-    request = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(request, timeout=7) as response:
-        j = json.load(response)
-    t = (j.get("responseData") or {}).get("translatedText") or ""
-    if not t or "MYMEMORY WARNING" in t.upper():
+# Dois provedores para ampliar a cobertura. O segundo usa um endpoint público
+# não documentado; se falhar/bloquear, preservamos a notícia e tentamos novamente
+# em uma atualização futura, sem inventar tradução.
+TRANSLATION_DISABLED = set()
+TRANSLATION_METRICS = {"mymemory": 0, "google_web": 0, "failed": 0}
+
+def translate_mymemory(text, lang):
+    if "mymemory" in TRANSLATION_DISABLED:
         return ""
-    return clean(t)
+    params = urllib.parse.urlencode({"q": text[:440], "langpair": f"{lang}|pt-BR"})
+    req = urllib.request.Request(
+        "https://api.mymemory.translated.net/get?" + params,
+        headers={"User-Agent": UA, "Accept": "application/json"})
+    try:
+        with urllib.request.urlopen(req, timeout=7) as response:
+            data = json.load(response)
+        status = int(data.get("responseStatus") or 200)
+        message = str(data.get("responseDetails") or "")
+        if status != 200 or re.search(r"quota|limit|blocked|daily|exceeded", message, re.I):
+            TRANSLATION_DISABLED.add("mymemory")
+            return ""
+        translated = (data.get("responseData") or {}).get("translatedText") or ""
+        translated = clean(translated)
+        if not translated or re.search(r"MYMEMORY WARNING|QUOTA EXCEEDED|TOO MANY REQUESTS", translated, re.I):
+            TRANSLATION_DISABLED.add("mymemory")
+            return ""
+        return translated if translated.lower() != text.lower() else ""
+    except Exception:
+        # Um erro isolado não torna a fonte permanentemente indisponível.
+        return ""
+
+def translate_google_web(text, lang):
+    if "google_web" in TRANSLATION_DISABLED:
+        return ""
+    params = urllib.parse.urlencode({
+        "client": "gtx", "sl": lang, "tl": "pt", "dt": "t", "q": text[:650]})
+    req = urllib.request.Request(
+        "https://translate.googleapis.com/translate_a/single?" + params,
+        headers={
+            "User-Agent": "Mozilla/5.0 (compatible; AlertaGlobal/2.1)",
+            "Accept": "application/json"})
+    try:
+        with urllib.request.urlopen(req, timeout=8) as response:
+            parts = json.load(response)
+        translated = clean("".join(str(segment[0] or "") for segment in parts[0]
+                                   if isinstance(segment, list) and segment))
+        return translated if translated and translated.lower() != text.lower() else ""
+    except urllib.error.HTTPError as err:
+        if err.code in (401, 403, 429):
+            TRANSLATION_DISABLED.add("google_web")
+        return ""
+    except Exception:
+        return ""
+
+def translate(text, lang):
+    """Traduz para pt-BR, sem substituir o texto original se houver falha."""
+    text = clean(text)
+    if not text or lang in ("pt", "pt-BR"):
+        return text
+    for name, fn in (("mymemory", translate_mymemory),
+                     ("google_web", translate_google_web)):
+        result = fn(text, lang)
+        if result:
+            TRANSLATION_METRICS[name] += 1
+            return result
+    TRANSLATION_METRICS["failed"] += 1
+    return ""
+
 def main():
     data = []
     success = 0
@@ -300,12 +358,13 @@ def main():
         except (ValueError, TypeError):
             pass
     enrich_article_images(sorted_items, cache)
-    remaining_titles = 18
-    remaining_summaries = 55
+    # Títulos primeiro para evitar o Radar Mundial com manchetes em outros idiomas.
+    # Reaproveita traduções anteriores; limita novas chamadas por execução.
+    title_budget = 200
+    summary_budget = 90
     title_count = 0
     summary_count = 0
-    # Tradução de notícias recentes primeiro. O restante será traduzido
-    # em execuções seguintes, sem apagar traduções realizadas.
+
     for item in sorted_items:
         previous = cache.get(item["title"], {})
         if not item.get("image") and previous.get("image"):
@@ -315,34 +374,37 @@ def main():
             item["title_pt"] = item["title"]
             item["summary_pt"] = item["summary"]
             continue
-        if not lang:
+        if not lang or item.get("source") == "USGS":
             continue
-        # Resumo primeiro: o objetivo é apresentar a notícia em português.
-        if previous.get("summary_pt"):
-            item["summary_pt"] = previous["summary_pt"]
-        elif remaining_summaries > 0 and item.get("summary"):
-            remaining_summaries -= 1
-            try:
-                value = translate(item["summary"][:350], lang)
-                if value:
-                    item["summary_pt"] = value
-                    summary_count += 1
-            except Exception as err:
-                print(f"Serviço de tradução de resumos indisponível: {err}")
-                remaining_summaries = 0
         if previous.get("title_pt"):
             item["title_pt"] = previous["title_pt"]
-        elif remaining_titles > 0:
-            remaining_titles -= 1
-            try:
-                value = translate(item["title"], lang)
-                if value:
-                    item["title_pt"] = value
-                    title_count += 1
-            except Exception as err:
-                print(f"Serviço de tradução de títulos indisponível: {err}")
-                remaining_titles = 0
+        elif title_budget > 0 and item.get("title"):
+            title_budget -= 1
+            value = translate(item["title"], lang)
+            if value:
+                item["title_pt"] = value
+                title_count += 1
+        if previous.get("summary_pt"):
+            item["summary_pt"] = previous["summary_pt"]
+
+    # Priorizamos resumos de acontecimentos mais importantes; matérias
+    # secundárias ainda mantêm o resumo original se não houver tradução.
+    for item in sorted_items:
+        if summary_budget <= 0:
+            break
+        if item.get("summary_pt") or not item.get("summary") or item.get("lang") in ("pt", "", None):
+            continue
+        summary_budget -= 1
+        value = translate(item["summary"][:340], item["lang"])
+        if value:
+            item["summary_pt"] = value
+            summary_count += 1
+
     print(f"Traduções novas: {title_count} títulos e {summary_count} resumos")
+    print(f"Serviços de tradução: {TRANSLATION_METRICS}. Indisponíveis: {sorted(TRANSLATION_DISABLED)}")
+    print(f"Total em português: {sum(bool(i.get('title_pt') or i.get('lang') == 'pt' or i.get('source') == 'USGS') for i in sorted_items)} títulos, "
+          f"{sum(bool(i.get('summary_pt') or i.get('lang') == 'pt' or i.get('source') == 'USGS') for i in sorted_items)} resumos")
+
     OUT.write_text(json.dumps(sorted_items, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Gravadas {len(sorted_items)} ocorrências em {OUT.name}")
 if __name__ == "__main__":
