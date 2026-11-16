@@ -1,6 +1,11 @@
 name: Atualizar notícias globais
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/atualizar-noticias.yml'
+      - 'scripts/coletar_noticias.py'
   schedule:
     - cron: '7,37 * * * *'
 permissions:
