@@ -240,11 +240,16 @@ def earthquakes():
         p = f.get("properties") or {}
         mag = float(p.get("mag") or 0)
         place = str(p.get("place") or "local não informado")
+        coordinates = (f.get("geometry") or {}).get("coordinates") or []
+        longitude = float(coordinates[0]) if len(coordinates) >= 2 else None
+        latitude = float(coordinates[1]) if len(coordinates) >= 2 else None
+        depth_km = float(coordinates[2]) if len(coordinates) >= 3 else None
         date = dt.datetime.fromtimestamp(p["time"] / 1000, dt.timezone.utc).isoformat().replace("+00:00", "Z") if p.get("time") else ""
         result.append({"title": f"Terremoto de magnitude {mag:.1f} — {place}",
                        "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
                        "category": "Clima e desastres", "region": place, "country": "GLOBAL",
                        "source": "USGS", "url": p.get("url", ""), "date": date,
+                       "lat": latitude, "lon": longitude, "depth_km": depth_km,
                        "forcedSev": "crit" if mag >= 7 else "high" if mag >= 6 else "med" if mag >= 5 else "low"})
     return result
 def translate(text, lang):
