@@ -454,7 +454,8 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
           <span>· ${esc(i.source || "")}</span>
           <span>· ${i.ts ? new Date(i.ts).toLocaleString("pt-BR") : ""}</span>
         </div>
-        <h3>${esc(i.title)}</h3>
+        <h3>${esc(i.title_pt || i.title)}</h3>
+        ${i.title_pt ? `<small style="color:var(--muted)">Original: ${esc(i.title)}</small>` : ""}
         <p>${esc(i.summary || "")}</p>
         ${i.detail ? `<div class="detail"><strong>Resumo detalhado</strong><p>${esc(i.detail)}</p></div>` : ""}
         ${i.url && i.url !== "#" ? `<p style="margin-top:8px"><a href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">Ler notícia completa →</a></p>` : ""}
