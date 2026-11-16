@@ -8,14 +8,20 @@
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0f1419",
-  "theme_color": "#0f1419",
+  "background_color": "#071021",
+  "theme_color": "#091629",
   "orientation": "any",
   "categories": [
     "news",
     "utilities"
   ],
   "icons": [
+    {
+      "src": "./icons/alerta-global.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
     {
       "src": "./icons/icon-192.png",
       "sizes": "192x192",
@@ -26,7 +32,13 @@
       "src": "./icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ],
   "shortcuts": [
@@ -36,6 +48,11 @@
       "description": "Acompanhar os destaques internacionais",
       "url": "./index.html#radar",
       "icons": [
+        {
+          "src": "./icons/alerta-global.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        },
         {
           "src": "./icons/icon-192.png",
           "sizes": "192x192",
