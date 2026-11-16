@@ -317,47 +317,70 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     });
   }
 
-  // ---------- Fontes reais e Radar Mundial ----------
+  // ---------- Carregamento confiável com espelho e cache offline ----------
+  async function readNews(url) {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 12000);
+    try {
+      const r = await fetch(url, {cache:"no-store", signal:controller.signal});
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      const j = await r.json();
+      if (!Array.isArray(j) || j.length === 0) throw new Error("fonte sem notícias");
+      return j.filter(i => i && typeof i.title === "string" && i.title.trim());
+    } finally { clearTimeout(timeout); }
+  }
+
+  let loading = false;
   async function load() {
-    setStatus("Atualizando…", true);
-    let data = [];
-    let source = "";
-    if (prefs.feedUrl) {
-      try {
-        const r = await fetch(prefs.feedUrl, { cache: "no-store" });
-        if (!r.ok) throw new Error("HTTP " + r.status);
-        const j = await r.json();
-        if (!Array.isArray(j)) throw new Error("formato inválido");
-        data = j;
-        source = "feed próprio";
-      } catch (e) {
-        source = "Falha no feed próprio: " + e.message;
-      }
-    } else {
-      try {
-        const r = await fetch("./noticias.json?t=" + Date.now(), { cache: "no-store" });
-        if (!r.ok) throw new Error("HTTP " + r.status);
-        const j = await r.json();
-        if (!Array.isArray(j)) throw new Error("formato inválido");
-        data = j;
-        source = "Fontes internacionais: BBC, DW, Guardian, Al Jazeera e USGS";
-      } catch (e) {
+    if (loading) return;
+    loading = true;
+    setStatus("Atualizando notícias internacionais...", true);
+    const sources = [];
+    if (prefs.feedUrl) sources.push(["Feed personalizado", prefs.feedUrl]);
+    sources.push(["GitHub Pages", "./noticias.json?rev=20261116-pt&t=" + Date.now()]);
+    // Espelho público para quando o Pages estiver desatualizado.
+    sources.push(["GitHub Raw", "https://raw.githubusercontent.com/ryderguedes154/alerta-global/main/noticias.json?t=" + Date.now()]);
+    let data = [], source = "", failures = [];
+    try {
+      for (const [name,url] of sources) {
         try {
-          data = await fetchUsgs();
-          source = "USGS ao vivo (feed internacional ainda não disponível)";
-        } catch (quakeError) {
-          source = "Fontes indisponíveis: " + e.message + " / " + quakeError.message;
+          data = await readNews(url);
+          source = name;
+          break;
+        } catch (err) {
+          failures.push(name + ": " + (err.name === "AbortError" ? "tempo esgotado" : err.message));
         }
       }
-    }
-    items = data
-      .filter(x => x && x.title)
-      .map(x => ({ ...x, sev: x.forcedSev || classify(x), ts: Date.parse(x.date) || 0 }))
-      .sort((a, b) => ORDER[a.sev] - ORDER[b.sev] || b.ts - a.ts);
-    setStatus("Fonte: " + source + (!navigator.onLine ? " · Modo offline" : "") + " · " + new Date().toLocaleTimeString("pt-BR"), data.length > 0);
-    render();
-    renderRadar();
-    checkAlerts();
+      if (!data.length) {
+        try {
+          data = await fetchUsgs();
+          if (data.length) source = "USGS ao vivo (eventos sísmicos)";
+        } catch (err) { failures.push("USGS: " + err.message); }
+      }
+      if (!data.length) {
+        const cached = store.get("ag_last_good_news", []);
+        if (Array.isArray(cached) && cached.length) {
+          data = cached;
+          source = "Última consulta salva";
+        }
+      }
+      items = data.filter(x => x && x.title)
+        .map(x => ({...x, sev:x.forcedSev || classify(x), ts:Date.parse(x.date) || 0}))
+        .sort((x,y) => ORDER[x.sev] - ORDER[y.sev] || y.ts - x.ts);
+      if (items.length) {
+        if (source !== "Última consulta salva") store.set("ag_last_good_news", data.slice(0,200));
+        setStatus(items.length + " notícias disponíveis · " + source +
+          (!navigator.onLine ? " · modo offline" : "") + " · " + new Date().toLocaleTimeString("pt-BR"), true);
+      } else {
+        setStatus("Sem notícias no momento. Toque em Atualizar. " + failures.slice(0,2).join(" | "), false);
+      }
+      render();
+      renderRadar();
+      checkAlerts();
+    } catch (err) {
+      console.error("Falha ao montar o painel",err);
+      setStatus("Falha ao mostrar notícias: " + err.message + ". Atualize o aplicativo.", false);
+    } finally { loading = false; }
   }
 
   function setStatus(text, live) {
@@ -411,15 +434,16 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     // O Radar Mundial destaca informação verificada no feed, e não mensagens internas do ChatGPT.
     const recent = items.filter(i => i.ts && i.url && i.url !== "#" &&
       Date.now() - i.ts < 72 * 60 * 60 * 1000);
-    const prioritized = recent
+    const candidates = recent.length ? recent : items.filter(i => i.url && i.url !== "#");
+    const prioritized = candidates
       .map(i => ({...i, radarScore: (i.sev === "crit" ? 4 : i.sev === "high" ? 3 : i.sev === "med" ? 2 : 1) +
         (["Conflitos", "Economia", "Saúde", "Clima e desastres", "Segurança cibernética"].includes(i.category) ? 1 : 0) }))
       .sort((a,b) => b.radarScore - a.radarScore || b.ts - a.ts)
       .slice(0, 8);
     count.textContent = prioritized.length + " destaques";
     el.innerHTML = prioritized.length
-      ? prioritized.map(i => `<a class="radar-item" href="${esc(i.url)}" target="_blank" rel="noopener noreferrer"><small>${LABEL[i.sev]} · ${esc(i.category || "Geral")} · ${esc(i.source || "")}</small><strong>${esc(i.title)}</strong><small>${new Date(i.ts).toLocaleString("pt-BR")}</small></a>`).join("")
-      : '<div class="empty">Nenhuma notícia recente disponível. Aguarde a primeira coleta automática ou clique em Atualizar.</div>';
+      ? prioritized.map(i => `<a class="radar-item" href="${esc(i.url)}" target="_blank" rel="noopener noreferrer"><small>${LABEL[i.sev]} · ${esc(i.category || "Geral")} · ${esc(i.source || "")}</small><strong>${esc(i.title_pt || i.title)}</strong><small>${new Date(i.ts).toLocaleString("pt-BR")}${i.title_pt ? " · Tradução automática" : ""}</small></a>`).join("")
+      : '<div class="empty">Sem notícias disponíveis. Confira o estado da fonte acima e tente atualizar.</div>';
   }
 
   function render() {
@@ -456,7 +480,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
         </div>
         <h3>${esc(i.title_pt || i.title)}</h3>
         ${i.title_pt ? `<small style="color:var(--muted)">Original: ${esc(i.title)}</small>` : ""}
-        <p>${esc(i.summary || "")}</p>
+        <p>${esc(i.summary_pt || i.summary || "")}</p>${i.summary_pt ? `<small style="color:var(--muted)">Resumo traduzido automaticamente · Consulte o original na fonte.</small>` : ""}
         ${i.detail ? `<div class="detail"><strong>Resumo detalhado</strong><p>${esc(i.detail)}</p></div>` : ""}
         ${i.url && i.url !== "#" ? `<p style="margin-top:8px"><a href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">Ler notícia completa →</a></p>` : ""}
       </article>`).join("");
@@ -465,7 +489,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   // ---------- Alertas ----------
   function watchHits(item) {
     const words = prefs.watch.split(",").map(w => norm(w.trim())).filter(Boolean);
-    const text = norm(item.title + " " + item.summary + " " + item.region);
+    const text = norm(item.title + " " + (item.title_pt || "") + " " + item.summary + " " + (item.summary_pt || "") + " " + item.region);
     return words.filter(w => text.includes(w));
   }
 
