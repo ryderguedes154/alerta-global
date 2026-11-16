@@ -26,6 +26,9 @@ FEEDS = [
     ("Le Monde", "https://www.lemonde.fr/international/rss_full.xml", "Geral", "FR", "fr"),
     ("El País", "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada", "Geral", "ES", "es"),
     ("NHK World", "https://www3.nhk.or.jp/rss/news/cat6.xml", "Geral", "JP", "en"),
+    # Reuters via Google Notícias: o feed lista artigos atribuídos à Reuters;
+    # somente itens com a origem Reuters serão aceitos.
+    ("Reuters", "https://news.google.com/rss/search?q=site%3Areuters.com%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen", "Geral", "GLOBAL", "en"),
 ]
 NOW = dt.datetime.now(dt.timezone.utc)
 UA = "AlertaGlobalRSS/1.0 (public news aggregator)"
@@ -76,6 +79,13 @@ def parse_feed(source, url, default, country, lang):
                 if el.tag.split("}")[-1] == "link" and el.attrib.get("href"):
                     link = el.attrib["href"]
                     break
+        if source == "Reuters":
+            # Google Notícias pode agregar resultados de várias editoras.
+            # Não atribuímos notícias de outros veículos à Reuters.
+            publisher = child(e, "source").strip().lower()
+            if "reuters" not in publisher and not re.search(r"\\s[-–]\\sReuters$", title, re.I):
+                continue
+            title = re.sub(r"\\s[-–]\\sReuters$", "", title, flags=re.I)
         if not title or not link.startswith("https://") and not link.startswith("http://"):
             continue
         date = parsedate(child(e, "pubDate") or child(e, "published") or child(e, "updated") or child(e, "date"))
@@ -104,7 +114,10 @@ def earthquakes():
 def translate(text, lang):
     """Tradução gratuita (MyMemory, sem chave). Retorna '' se a cota acabar ou não houver resposta."""
     q = urllib.parse.quote(text[:450])
-    j = json.loads(download(f"https://api.mymemory.translated.net/get?q={q}&langpair={lang}|pt-BR"))
+    url = f"https://api.mymemory.translated.net/get?q={q}&langpair={lang}|pt-BR"
+    request = urllib.request.Request(url, headers={"User-Agent": UA})
+    with urllib.request.urlopen(request, timeout=7) as response:
+        j = json.load(response)
     t = (j.get("responseData") or {}).get("translatedText") or ""
     if not t or "MYMEMORY WARNING" in t.upper():
         return ""
@@ -137,36 +150,54 @@ def main():
     sorted_items = sorted(unique.values(), key=lambda x: x.get("date", ""), reverse=True)[:200]
     if not sorted_items:
         raise SystemExit("Nenhuma notícia coletada; preservando o JSON anterior.")
-    # Reaproveita traduções já feitas e traduz só o que for novo (limite por execução para respeitar a cota).
+    # Tradução progressiva e com cache. Respeita limites do serviço gratuito.
     cache = {}
     if OUT.exists():
         try:
             for old in json.loads(OUT.read_text(encoding="utf-8")):
-                if old.get("title_pt"):
-                    cache[old.get("title", "")] = old["title_pt"]
+                cache[old.get("title", "")] = old
         except (ValueError, TypeError):
             pass
-    budget = 60
-    new_translations = 0
+    remaining_titles = 45
+    remaining_summaries = 20
+    title_count = 0
+    summary_count = 0
+    # Tradução de notícias recentes primeiro. O restante será traduzido
+    # em execuções seguintes, sem apagar traduções realizadas.
     for item in sorted_items:
+        previous = cache.get(item["title"], {})
         lang = item.get("lang", "")
-        if not lang or lang == "pt":
+        if lang == "pt":
+            item["title_pt"] = item["title"]
+            item["summary_pt"] = item["summary"]
             continue
-        if item["title"] in cache:
-            item["title_pt"] = cache[item["title"]]
+        if not lang:
             continue
-        if budget <= 0:
-            continue
-        budget -= 1
-        try:
-            t = translate(item["title"], lang)
-            if t:
-                item["title_pt"] = t
-                new_translations += 1
-        except Exception as err:
-            print(f"Tradução indisponível agora: {err}")
-            budget = 0
-    print(f"Traduções novas nesta execução: {new_translations}")
+        if previous.get("title_pt"):
+            item["title_pt"] = previous["title_pt"]
+        elif remaining_titles > 0:
+            remaining_titles -= 1
+            try:
+                value = translate(item["title"], lang)
+                if value:
+                    item["title_pt"] = value
+                    title_count += 1
+            except Exception as err:
+                print(f"Serviço de tradução de títulos indisponível: {err}")
+                remaining_titles = 0
+        if previous.get("summary_pt"):
+            item["summary_pt"] = previous["summary_pt"]
+        elif remaining_summaries > 0 and item.get("summary"):
+            remaining_summaries -= 1
+            try:
+                value = translate(item["summary"][:350], lang)
+                if value:
+                    item["summary_pt"] = value
+                    summary_count += 1
+            except Exception as err:
+                print(f"Serviço de tradução de resumos indisponível: {err}")
+                remaining_summaries = 0
+    print(f"Traduções novas: {title_count} títulos e {summary_count} resumos")
     OUT.write_text(json.dumps(sorted_items, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Gravadas {len(sorted_items)} ocorrências em {OUT.name}")
 if __name__ == "__main__":
