@@ -54,7 +54,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 .hero-cta small{font-size:11px;color:#aac4dc}
 .status-text{font-size:11px;color:#96a9be;margin:14px 0 4px;min-height:18px}
 .levels{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:17px 0 27px}
-.level{border:1px solid #293c55;border-top:2px solid #3c546b;border-radius:16px;background:linear-gradient(140deg,#182439,#111b2b);padding:18px;text-align:left;min-height:129px;display:flex;flex-direction:column;transition:transform .18s,border-color .18s}
+.level{border:1px solid #293c55;border-top:2px solid #3c546b;border-radius:16px;background:linear-gradient(140deg,#182439,#111b2b);padding:18px;text-align:left;min-height:129px;display:flex;flex-direction:column;transition:transform .18s,border-color .18s;cursor:pointer;color:var(--text);width:100%}
 .level:hover{transform:translateY(-2px);border-color:#547398}.level strong{font-size:33px;line-height:1.15;letter-spacing:-1px;margin-top:14px}
 .level span{font-size:11px;color:#b8c6d7;font-weight:750}
 .level:before{content:"◉";color:#c9d8eb;line-height:1;font-size:18px}
@@ -62,6 +62,11 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 .level.high{border-top-color:#efa659}.level.high:before{content:"⚠";color:var(--high)}.level.high strong{color:var(--high)}
 .level.med{border-top-color:#e6cd7a}.level.med strong{color:var(--med)}
 .level.low{border-top-color:#71bffe}.level.low:before{content:"↗";color:var(--low)}.level.low strong{color:var(--low)}
+.level[aria-pressed="true"]{border-color:#91caff;box-shadow:0 0 0 2px #91caff40,0 10px 30px #080e2066;background:linear-gradient(135deg,#213854,#17253b)}
+.level[aria-pressed="true"]:after{content:"▼ Ver notícias";font-size:10px;color:#a9d9ff;font-weight:850;margin-top:9px}
+.filter-result{display:flex;align-items:center;gap:12px;justify-content:space-between;flex-wrap:wrap;margin:12px 0 17px;border:1px solid #426182;border-radius:12px;padding:12px 15px;background:#192a41;color:#dbe9f9;font-size:12px;font-weight:700}
+.filter-result button{border:1px solid #709bd0;border-radius:10px;background:#294d72;color:#fff;font-weight:800;padding:8px 12px}
+.filter-result button:hover{background:#345e8a}
 .section-header{display:flex;justify-content:space-between;align-items:end;gap:12px;margin:24px 0 15px}
 .section-header .eyebrow{color:#8ea6d5;font-weight:900;letter-spacing:2px;text-transform:uppercase;font-size:10px}
 .section-header h2{font-size:clamp(22px,2.5vw,29px);line-height:1.2;letter-spacing:-.9px;margin:5px 0 0}
@@ -151,11 +156,11 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 <div class="share-modal" id="shareModal" role="dialog" aria-modal="true" aria-label="Compartilhar Alerta Global" hidden><div class="share-panel"><button class="share-close" id="shareClose" type="button" aria-label="Fechar">×</button><h2>Compartilhe o Alerta Global 🌍</h2><p>Envie o link do Radar Mundial para seus contatos pelos aplicativos que você utiliza.</p><div class="share-options"><button type="button" id="shareNative">📲 Outros aplicativos</button><a id="shareWhatsApp" target="_blank" rel="noopener noreferrer">WhatsApp</a><a id="shareTelegram" target="_blank" rel="noopener noreferrer">Telegram</a><a id="shareFacebook" target="_blank" rel="noopener noreferrer">Facebook</a><a id="shareX" target="_blank" rel="noopener noreferrer">X / Twitter</a><a id="shareEmail">✉️ E-mail</a><button type="button" id="shareCopy">🔗 Copiar link</button></div><p id="shareStatus" role="status" aria-live="polite"></p></div></div>
 <main id="overview"><section class="hero" aria-label="Radar Mundial"><div class="hero-copy"><div class="hero-label"><span class="dot"></span> INTELIGÊNCIA DE NOTÍCIAS · RADAR MUNDIAL</div><h2>O mundo não para.<br><em>Você acompanha.</em></h2><p>Notícias globais, riscos e acontecimentos importantes em um só lugar. Entenda o que acontece no mundo, direto das fontes originais.</p><div class="hero-cta"><a href="#radar">Explorar destaques ↗</a><small>Monitoramento internacional</small></div></div></section><div class="status-text" id="statusText">Carregando notícias...</div>
   <div class="offline-note" id="offlineNotice" hidden role="status">📡 Sem internet. Exibindo as últimas notícias disponíveis no dispositivo, se houver.</div>
-  <section class="levels">
-    <div class="level crit" data-sev="crit"><strong id="cCrit">0</strong><span>Crítico</span></div>
-    <div class="level high" data-sev="high"><strong id="cHigh">0</strong><span>Alto</span></div>
-    <div class="level med" data-sev="med"><strong id="cMed">0</strong><span>Moderado</span></div>
-    <div class="level low" data-sev="low"><strong id="cLow">0</strong><span>Informativo</span></div>
+  <section class="levels" aria-label="Filtrar notícias por nível de gravidade">
+    <button type="button" class="level crit" data-sev="crit" aria-pressed="false" aria-label="Ver notícias do nível crítico"><strong id="cCrit">0</strong><span>Crítico</span></button>
+    <button type="button" class="level high" data-sev="high" aria-pressed="false" aria-label="Ver notícias do nível alto"><strong id="cHigh">0</strong><span>Alto</span></button>
+    <button type="button" class="level med" data-sev="med" aria-pressed="false" aria-label="Ver notícias do nível moderado"><strong id="cMed">0</strong><span>Moderado</span></button>
+    <button type="button" class="level low" data-sev="low" aria-pressed="false" aria-label="Ver notícias do nível informativo"><strong id="cLow">0</strong><span>Informativo</span></button>
   </section>
 
   <section class="radar" id="radar">
@@ -183,12 +188,13 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     <select id="sev">
       <option value="">Qualquer severidade</option>
       <option value="crit">Crítico</option>
-      <option value="high">Alto ou mais</option>
-      <option value="med">Moderado ou mais</option>
-      <option value="low">Todos</option>
+      <option value="high">Alto</option>
+      <option value="med">Moderado</option>
+      <option value="low">Informativo</option>
     </select>
   </div>
 
+  <div class="filter-result" id="filterResult" role="status" aria-live="polite" hidden><span id="filterSummary"></span><button type="button" id="clearSeverity">Ver todas as notícias</button></div>
   <div id="feed"></div>
 
   <section class="settings" id="settings">
@@ -580,16 +586,25 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 
     const q = norm(document.getElementById("search").value);
     const cat = document.getElementById("cat").value;
-    const minSev = document.getElementById("sev").value;
-    const allowed = { crit: ["crit"], high: ["crit","high"], med: ["crit","high","med"], low: ["crit","high","med","low"] };
-
+    const severity = document.getElementById("sev").value;
     const list = items.filter(i => {
       if (importanceScore(i) < 3) return false;
       if (cat && i.category !== cat) return false;
-      if (minSev && !allowed[minSev].includes(i.sev)) return false;
+      if (severity && i.sev !== severity) return false;
       if (q && !norm([i.title, i.title_pt, i.summary, i.summary_pt, i.region, i.category, i.source].join(" ")).includes(q)) return false;
       return true;
     });
+
+    // Os quatro cartões mostram grupos exatos, sem misturar categorias.
+    document.querySelectorAll(".level").forEach(el =>
+      el.setAttribute("aria-pressed", String(Boolean(severity && severity === el.dataset.sev))));
+    const selectedGroup = document.getElementById("filterResult");
+    selectedGroup.hidden = !severity;
+    if (severity) {
+      document.getElementById("filterSummary").textContent =
+        "Exibindo " + list.length + (list.length === 1 ? " notícia" : " notícias") +
+        " do grupo " + LABEL[severity] + ".";
+    }
 
     const feed = document.getElementById("feed");
     if (!list.length) { feed.innerHTML = '<div class="empty">Nenhuma notícia com esses filtros.</div>'; return; }
@@ -760,9 +775,23 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   };
   ["search", "cat", "sev"].forEach(id => document.getElementById(id).addEventListener("input", render));
   document.querySelectorAll(".level").forEach(el => el.addEventListener("click", () => {
+    // Começar do grupo completo: limpar buscas ou categorias escolhidas antes.
+    document.getElementById("search").value = "";
+    document.getElementById("cat").value = "";
     document.getElementById("sev").value = el.dataset.sev;
     render();
+    document.getElementById("news").scrollIntoView({
+      behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth",
+      block: "start"
+    });
   }));
+  document.getElementById("clearSeverity").addEventListener("click", () => {
+    document.getElementById("sev").value = "";
+    document.getElementById("search").value = "";
+    document.getElementById("cat").value = "";
+    render();
+    document.getElementById("news").scrollIntoView({ behavior: "smooth", block: "start" });
+  });
 
   function setupTimer() {
     if (timer) clearInterval(timer);
