@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Coleta manchetes públicas de RSS e eventos sísmicos USGS para o Alerta Global."""
 import datetime as dt
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from html.parser import HTMLParser
 import email.utils
 import html
 import json
@@ -100,6 +102,81 @@ def image_from_entry(entry):
             if link:
                 return link
     return ""
+
+
+class ArticleImageParser(HTMLParser):
+    """Lê apenas imagens editoriais declaradas nos metadados da matéria."""
+    def __init__(self, page_url):
+        super().__init__(convert_charrefs=True)
+        self.page_url = page_url
+        self.images = []
+
+    def handle_starttag(self, tag, attrs):
+        values = dict(attrs)
+        name = (values.get("property") or values.get("name") or "").lower().strip()
+        candidate = ""
+        priority = 0
+        if tag == "meta" and name in ("og:image", "og:image:url", "og:image:secure_url",
+                                      "twitter:image", "twitter:image:src"):
+            candidate = values.get("content", "")
+            priority = 2 if name.startswith("og:") else 1
+        elif tag == "link" and (values.get("rel") or "").lower() == "image_src":
+            candidate = values.get("href", "")
+            priority = 1
+        if candidate:
+            link = image_url(urllib.parse.urljoin(self.page_url, candidate))
+            if link and not re.search(r"(?:logo|favicon|sprite|tracking-pixel)", urllib.parse.urlsplit(link).path, re.I):
+                self.images.append((priority, link))
+
+def image_from_article(url):
+    """Busca og:image/twitter:image da matéria original quando o RSS omite a foto."""
+    try:
+        parsed = urllib.parse.urlsplit(url)
+        if parsed.scheme not in ("http", "https") or not parsed.hostname:
+            return ""
+        if parsed.hostname.endswith(("google.com", "news.google.com")):
+            return ""
+        req = urllib.request.Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (compatible; AlertaGlobalNews/1.0)",
+            "Accept": "text/html,application/xhtml+xml",
+            "Accept-Language": "pt-BR,pt;q=0.8,en;q=0.7",
+        })
+        with urllib.request.urlopen(req, timeout=9) as response:
+            if "html" not in response.headers.get("Content-Type", "").lower():
+                return ""
+            page = response.read(750_000).decode("utf-8", errors="replace")
+            base_url = response.geturl()
+        parser = ArticleImageParser(base_url)
+        parser.feed(page)
+        return sorted(parser.images, key=lambda item: item[0], reverse=True)[0][1] if parser.images else ""
+    except Exception:
+        return ""
+
+def enrich_article_images(articles, cache):
+    """Busca imagens em paralelo sem bloquear indefinidamente o fluxo de notícias."""
+    pending = []
+    for item in articles:
+        old = cache.get(item["title"], {})
+        if item.get("image"):
+            continue
+        if image_url(old.get("image")):
+            item["image"] = old["image"]
+            continue
+        if item.get("source") == "USGS" or "google.com" in urllib.parse.urlsplit(item.get("url", "")).netloc:
+            continue
+        if len(pending) < 90:
+            pending.append(item)
+    if not pending:
+        return
+    found = 0
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        futures = {executor.submit(image_from_article, item["url"]): item for item in pending}
+        for future in as_completed(futures):
+            photo = future.result()
+            if photo:
+                futures[future]["image"] = photo
+                found += 1
+    print(f"Fotos reais identificadas nos artigos: {found}/{len(pending)} consultados")
 
 def parsedate(value):
     if not value:
@@ -217,6 +294,7 @@ def main():
                 cache[old.get("title", "")] = old
         except (ValueError, TypeError):
             pass
+    enrich_article_images(sorted_items, cache)
     remaining_titles = 18
     remaining_summaries = 55
     title_count = 0
