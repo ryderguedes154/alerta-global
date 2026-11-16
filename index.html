@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Alerta Global — Notícias e Perigos Mundiais</title>
+<style>
+  :root {
+    --bg: #0f1419; --panel: #171e26; --line: #263241; --text: #e6edf3; --muted: #8b98a5;
+    --crit: #ff4d4f; --high: #ff9f1c; --med: #ffd166; --low: #4cc9f0; --ok: #06d6a0;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); }
+  header { padding: 20px 24px; border-bottom: 1px solid var(--line); display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between; }
+  h1 { font-size: 20px; margin: 0; }
+  .sub { color: var(--muted); font-size: 13px; }
+  .status { display: flex; gap: 10px; align-items: center; font-size: 13px; color: var(--muted); }
+  .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--ok); display: inline-block; }
+  .dot.off { background: var(--muted); }
+  main { max-width: 1100px; margin: 0 auto; padding: 20px 24px 60px; }
+  .levels { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 18px; }
+  .level { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px; cursor: pointer; }
+  .level strong { display: block; font-size: 22px; }
+  .level span { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
+  .level.crit strong { color: var(--crit); }
+  .level.high strong { color: var(--high); }
+  .level.med strong { color: var(--med); }
+  .level.low strong { color: var(--low); }
+  .banner { display: none; border: 1px solid var(--crit); background: rgba(255,77,79,.12); border-radius: 10px; padding: 14px 16px; margin-bottom: 18px; }
+  .banner.show { display: block; }
+  .banner h2 { margin: 0 0 6px; font-size: 16px; color: var(--crit); }
+  .banner ul { margin: 0; padding-left: 18px; }
+  .banner li { margin: 4px 0; font-size: 14px; }
+  .toolbar { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
+  .toolbar input, .toolbar select, .toolbar button, .settings input, .settings select {
+    background: var(--panel); color: var(--text); border: 1px solid var(--line); border-radius: 8px; padding: 9px 12px; font-size: 14px;
+  }
+  .toolbar input { flex: 1; min-width: 180px; }
+  .toolbar button, .settings button { cursor: pointer; background: #1f6feb; border-color: #1f6feb; color: #fff; }
+  .toolbar button.ghost { background: var(--panel); border-color: var(--line); color: var(--text); }
+  .card { background: var(--panel); border: 1px solid var(--line); border-left: 4px solid var(--line); border-radius: 10px; padding: 14px 16px; margin-bottom: 12px; }
+  .card.crit { border-left-color: var(--crit); }
+  .card.high { border-left-color: var(--high); }
+  .card.med { border-left-color: var(--med); }
+  .card.low { border-left-color: var(--low); }
+  .meta { display: flex; flex-wrap: wrap; gap: 8px; font-size: 12px; color: var(--muted); margin-bottom: 6px; align-items: center; }
+  .tag { padding: 2px 8px; border-radius: 999px; border: 1px solid var(--line); }
+  .tag.sev-crit { color: var(--crit); border-color: var(--crit); }
+  .tag.sev-high { color: var(--high); border-color: var(--high); }
+  .tag.sev-med { color: var(--med); border-color: var(--med); }
+  .tag.sev-low { color: var(--low); border-color: var(--low); }
+  .card h3 { margin: 4px 0 6px; font-size: 16px; line-height: 1.35; }
+  .card p { margin: 0; font-size: 14px; color: #c3ccd5; line-height: 1.5; }
+  .card a { color: #58a6ff; font-size: 13px; }
+  .detail { margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--line); }
+  .detail strong { display: block; font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; margin-bottom: 4px; }
+  .detail p { white-space: pre-line; }
+  .empty { color: var(--muted); text-align: center; padding: 40px 0; }
+  .flag { width: 28px; height: 20px; object-fit: cover; border-radius: 3px; border: 1px solid var(--line); vertical-align: middle; }
+  .country { font-weight: 600; color: var(--text); }
+  .settings { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 16px; margin-top: 28px; display: none; }
+  .settings.open { display: block; }
+  .settings label { display: block; font-size: 13px; color: var(--muted); margin: 10px 0 4px; }
+  .settings input, .settings select { width: 100%; }
+  .row { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+  .note { font-size: 12px; color: var(--muted); margin-top: 10px; line-height: 1.5; }
+  @media (max-width: 700px) { .levels { grid-template-columns: repeat(2, 1fr); } }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>🌍 Alerta Global</h1>
+    <div class="sub">Notícias mundiais com classificação automática de risco</div>
+  </div>
+  <div class="status">
+    <span class="dot" id="liveDot"></span>
+    <span id="statusText">Carregando…</span>
+    <button class="toolbar" style="padding:6px 10px" id="refreshBtn">Atualizar</button>
+    <button class="toolbar" style="padding:6px 10px" id="settingsBtn">Configurar</button>
+  </div>
+</header>
+
+<main>
+  <section class="levels">
+    <div class="level crit" data-sev="crit"><strong id="cCrit">0</strong><span>Crítico</span></div>
+    <div class="level high" data-sev="high"><strong id="cHigh">0</strong><span>Alto</span></div>
+    <div class="level med" data-sev="med"><strong id="cMed">0</strong><span>Moderado</span></div>
+    <div class="level low" data-sev="low"><strong id="cLow">0</strong><span>Informativo</span></div>
+  </section>
+
+  <section class="banner" id="banner">
+    <h2>⚠️ Alerta de perigo global</h2>
+    <ul id="bannerList"></ul>
+  </section>
+
+  <div class="toolbar">
+    <input id="search" type="search" placeholder="Buscar por palavra-chave, país ou tema…">
+    <select id="cat">
+      <option value="">Todas as categorias</option>
+      <option>Conflitos</option>
+      <option>Saúde</option>
+      <option>Clima e desastres</option>
+      <option>Segurança cibernética</option>
+      <option>Economia</option>
+      <option>Tecnologia</option>
+    </select>
+    <select id="sev">
+      <option value="">Qualquer severidade</option>
+      <option value="crit">Crítico</option>
+      <option value="high">Alto ou mais</option>
+      <option value="med">Moderado ou mais</option>
+      <option value="low">Todos</option>
+    </select>
+  </div>
+
+  <div id="feed"></div>
+
+  <section class="settings" id="settings">
+    <strong>Configurações</strong>
+    <label for="feedUrl">URL de um feed JSON próprio (opcional)</label>
+    <input id="feedUrl" placeholder="https://seu-servidor.com/noticias.json">
+    <label for="watch">Palavras-chave para alertar (separadas por vírgula)</label>
+    <input id="watch" placeholder="ex.: terremoto, pandemia, ciberataque, Ucrânia">
+    <label for="interval">Intervalo de atualização</label>
+    <select id="interval">
+      <option value="0">Manual</option>
+      <option value="60000">1 minuto</option>
+      <option value="300000">5 minutos</option>
+      <option value="900000">15 minutos</option>
+      <option value="1800000">30 minutos</option>
+    </select>
+    <div class="row">
+      <button id="saveBtn">Salvar</button>
+      <button id="notifyBtn" class="ghost">Ativar notificações do navegador</button>
+    </div>
+    <p class="note">
+      O app mostra dados de exemplo até você apontar um feed JSON próprio. O formato esperado é uma lista de objetos com
+      <code>title</code>, <code>summary</code>, <code>detail</code> (resumo detalhado, com quebras de linha), <code>country</code> (código ISO de 2 letras, ex.: BR, US; use GLOBAL para notícias mundiais), <code>category</code>, <code>region</code>, <code>source</code>, <code>url</code> e <code>date</code> (ISO 8601).
+      Fontes reais (agências de notícias, OMS, USGS, ONU, CISA) podem ser agregadas por um pequeno servidor que gera esse JSON.
+    </p>
+  </section>
+</main>
+
+<script>
+(() => {
+  // ---------- Dados de exemplo (ilustrativos, NÃO são notícias reais) ----------
+  const SAMPLE = [
+    { title: "[EXEMPLO] Alerta de terremoto de magnitude 7,2 em região costeira", summary: "Dados ilustrativos. Serviço sísmico emite aviso de possível tsunami local.",
+    detail: "O que aconteceu: um terremoto de magnitude 7,2 foi registrado em uma região costeira (exemplo ilustrativo).\nPrincipais dados: o serviço sísmico emitiu aviso de possível tsunami local. Dados como profundidade e número de afetados devem vir da fonte oficial.\nO que fazer: em área costeira, procure locais elevados, siga a Defesa Civil e não use elevadores.\nPor que importa: sismos de magnitude acima de 7 podem causar danos graves em cidades e exigir resposta humanitária.", category: "Clima e desastres", region: "Ásia-Pacífico", country: "JP", source: "Exemplo", url: "#", date: "2026-11-16T09:00:00Z" },
+    { title: "[EXEMPLO] Surto de doença respiratória com aumento de casos em vários países", summary: "Dados ilustrativos. Órgãos de saúde pedem vigilância e reforço de testes.",
+    detail: "O que aconteceu: aumento de casos de uma doença respiratória em vários países (exemplo ilustrativo).\nPrincipais dados: órgãos de saúde pedem reforço de testes e vigilância de casos.\nO que fazer: sintomas persistentes devem levar à procura de atendimento; vacinação e higiene das mãos seguem recomendadas.\nPor que importa: surtos simultâneos em várias regiões exigem coordenação internacional e podem sobrecarregar hospitais.", category: "Saúde", region: "Global", country: "GLOBAL", source: "Exemplo", url: "#", date: "2026-11-15T18:30:00Z" },
+    { title: "[EXEMPLO] Ataque cibernético a infraestrutura de energia", summary: "Dados ilustrativos. Autoridades recomendam isolamento de sistemas críticos.",
+    detail: "O que aconteceu: um ataque cibernético atingiu sistemas de energia (exemplo ilustrativo).\nPrincipais dados: autoridades recomendam isolar sistemas críticos e revisar acessos.\nO que fazer: evite links suspeitos e ative a autenticação em dois fatores.\nPor que importa: ataques a energia podem causar apagões e afetar hospitais, água e comunicações.", category: "Segurança cibernética", region: "Europa", country: "DE", source: "Exemplo", url: "#", date: "2026-11-15T12:00:00Z" },
+    { title: "[EXEMPLO] Escalada militar em fronteira disputada", summary: "Dados ilustrativos. Mediadores internacionais convocam cessar-fogo.",
+    detail: "O que aconteceu: aumento de confrontos perto de uma fronteira disputada (exemplo ilustrativo).\nPrincipais dados: mediadores internacionais pedem cessar-fogo e canais de diálogo.\nO que fazer: viajantes devem consultar os alertas do Ministério das Relações Exteriores do seu país.\nPor que importa: escaladas regionais podem afetar rotas comerciais, preços de energia e deslocamento de pessoas.", category: "Conflitos", region: "Oriente Médio", country: "LB", source: "Exemplo", url: "#", date: "2026-11-14T08:00:00Z" },
+    { title: "[EXEMPLO] Queda acentuada em bolsas após anúncio econômico", summary: "Dados ilustrativos. Analistas monitoram impacto em mercados emergentes.",
+    detail: "O que aconteceu: bolsas caíram após um anúncio econômico (exemplo ilustrativo).\nPrincipais dados: a reação costuma refletir expectativas sobre juros, inflação ou crescimento.\nO que fazer: quem investe deve evitar decisões impulsivas e observar a tendência, não só o movimento de um dia.\nPor que importa: quedas em mercados emergentes podem afetar câmbio e custo do crédito.", category: "Economia", region: "Global", country: "GLOBAL", source: "Exemplo", url: "#", date: "2026-11-13T15:00:00Z" },
+    { title: "[EXEMPLO] Novo protocolo de segurança para sistemas de IA é publicado", summary: "Dados ilustrativos. Medida visa reduzir riscos de uso indevido.",
+    detail: "O que aconteceu: foi publicado um protocolo de segurança para sistemas de IA (exemplo ilustrativo).\nPrincipais dados: a medida busca reduzir riscos como desinformação e ataques automatizados.\nO que fazer: empresas e desenvolvedores devem revisar políticas de uso e testes de segurança.\nPor que importa: regras claras para IA tendem a influenciar produtos e leis nos próximos anos.", category: "Tecnologia", region: "Global", country: "GLOBAL", source: "Exemplo", url: "#", date: "2026-11-12T10:00:00Z" }
+  ];
+
+  // ---------- Classificação de severidade por palavras-chave ----------
+  const RULES = [
+    { sev: "crit", w: 10, words: ["guerra nuclear","pandemia","tsunami","ataque nuclear","emergência global","colapso","genocídio","terremoto de magnitude 7","magnitude 8","magnitude 9"] },
+    { sev: "high", w: 6,  words: ["terremoto","ataque cibernético","ciberataque","surto","evacuação","escalada militar","invasão","furacão","ciclone","inundação","epidemia","ransomware","apagão","mortes","mortos"] },
+    { sev: "med",  w: 3,  words: ["alerta","crise","sanções","queda acentuada","cessar-fogo","incêndio florestal","seca","vigilância","tensão","protesto"] },
+    { sev: "low",  w: 1,  words: ["anúncio","protocolo","relatório","acordo","reunião","eleição"] }
+  ];
+  const norm = s => (s || "").toLowerCase();
+
+  function classify(item) {
+    const text = norm(item.title + " " + item.summary);
+    let score = 0;
+    for (const r of RULES) for (const w of r.words) if (text.includes(w)) score += r.w;
+    if (score >= 10) return "crit";
+    if (score >= 6) return "high";
+    if (score >= 3) return "med";
+    return "low";
+  }
+  const ORDER = { crit: 0, high: 1, med: 2, low: 3 };
+  const LABEL = { crit: "Crítico", high: "Alto", med: "Moderado", low: "Informativo" };
+
+  // ---------- Estado e preferências (salvas por navegador, com proteção) ----------
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch { return d; } },
+    set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
+  };
+  let prefs = store.get("ag_prefs", { feedUrl: "", watch: "", interval: "1800000" });
+  let items = [];
+  let timer = null;
+  let seenAlerts = new Set(store.get("ag_seen", []));
+  let activeSev = "";
+
+  // ---------- Fontes na internet (GDELT DOC 2.0, sem chave de API) ----------
+  const GDELT_QUERY = '(earthquake OR tsunami OR pandemic OR outbreak OR cyberattack OR ransomware OR war OR "military escalation" OR flood OR hurricane OR wildfire OR explosion) sourcelang:english';
+  const CAT_RULES = [
+    ["Saúde", ["pandemic", "outbreak", "virus", "disease", "health"]],
+    ["Clima e desastres", ["earthquake", "tsunami", "flood", "hurricane", "wildfire", "cyclone", "storm"]],
+    ["Segurança cibernética", ["cyber", "ransomware", "hack"]],
+    ["Conflitos", ["war", "military", "attack", "strike", "troops", "missile", "explosion"]],
+    ["Economia", ["market", "economy", "inflation", "stocks", "bank"]],
+    ["Tecnologia", ["artificial intelligence", "tech"]]
+  ];
+  const COUNTRY_CODES = { "United States": "US", "United Kingdom": "GB", "Brazil": "BR", "Germany": "DE", "France": "FR", "Japan": "JP", "China": "CN", "India": "IN", "Russia": "RU", "Ukraine": "UA", "Israel": "IL", "Lebanon": "LB", "Canada": "CA", "Australia": "AU", "Mexico": "MX", "Italy": "IT", "Spain": "ES", "Turkey": "TR", "South Africa": "ZA", "Argentina": "AR", "Egypt": "EG" };
+
+  async function fetchGdelt() {
+    const url = "https://api.gdeltproject.org/api/v2/doc/doc?query=" + encodeURIComponent(GDELT_QUERY) + "&mode=ArtList&maxrecords=60&timespan=24h&sort=DateDesc&format=json";
+    const r = await fetch(url, { cache: "no-store" });
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    let j;
+    try { j = JSON.parse(await r.text()); } catch { throw new Error("resposta inválida"); }
+    const arts = Array.isArray(j.articles) ? j.articles : [];
+    return arts.map(a => {
+      const t = norm(a.title);
+      const hit = CAT_RULES.find(([, ws]) => ws.some(w => t.includes(w)));
+      const d = a.seendate || "";
+      const iso = d.length >= 15 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}T${d.slice(9, 11)}:${d.slice(11, 13)}:${d.slice(13, 15)}Z` : "";
+      return {
+        title: a.title,
+        summary: `Publicado por ${a.domain || "fonte desconhecida"} (${a.language || "idioma não informado"}). Clique para ler a matéria completa na fonte original.`,
+        category: hit ? hit[0] : "Geral",
+        region: a.sourcecountry || "Global",
+        country: COUNTRY_CODES[a.sourcecountry] || "GLOBAL",
+        source: a.domain || "GDELT",
+        url: a.url,
+        date: iso
+      };
+    });
+  }
+
+  // ---------- Carregamento ----------
+  async function load() {
+    setStatus("Atualizando…", true);
+    let source = "exemplo";
+    let data = SAMPLE;
+    if (!prefs.feedUrl) {
+      try {
+        data = await fetchGdelt();
+        source = "GDELT (fontes na internet)";
+      } catch (e) {
+        source = "exemplo (falha ao buscar notícias: " + e.message + ")";
+      }
+    }
+    if (prefs.feedUrl) {
+      try {
+        const r = await fetch(prefs.feedUrl, { cache: "no-store" });
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        const j = await r.json();
+        if (!Array.isArray(j)) throw new Error("formato inválido");
+        data = j; source = "feed próprio";
+      } catch (e) {
+        source = "exemplo (falha no feed: " + e.message + ")";
+      }
+    }
+    items = data
+      .filter(x => x && x.title)
+      .map(x => ({ ...x, sev: classify(x), ts: Date.parse(x.date) || 0 }))
+      .sort((a, b) => ORDER[a.sev] - ORDER[b.sev] || b.ts - a.ts);
+    setStatus("Fonte: " + source + " · " + new Date().toLocaleTimeString("pt-BR"), !source.startsWith("exemplo"));
+    render();
+    checkAlerts();
+  }
+
+  function setStatus(text, live) {
+    document.getElementById("statusText").textContent = text;
+    document.getElementById("liveDot").className = "dot" + (live ? "" : " off");
+  }
+
+  // ---------- Renderização ----------
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+
+  function countryName(code) {
+    if (!code || code.length !== 2) return "Global";
+    try { return new Intl.DisplayNames(["pt-BR"], { type: "region" }).of(code.toUpperCase()); } catch { return code.toUpperCase(); }
+  }
+  const hz = cs => cs.map((c, i) => `<rect y="${(i * 20 / cs.length).toFixed(2)}" width="30" height="${(20 / cs.length + 0.2).toFixed(2)}" fill="${c}"/>`).join("");
+  const vt = cs => cs.map((c, i) => `<rect x="${(i * 30 / cs.length).toFixed(2)}" width="${(30 / cs.length + 0.2).toFixed(2)}" height="20" fill="${c}"/>`).join("");
+  const US_STRIPES = hz(Array.from({ length: 13 }, (_, i) => i % 2 ? "#fff" : "#b22234")) + '<rect width="12" height="10.8" fill="#3c3b6e"/>';
+  const FLAGS = {
+    GLOBAL: '<circle cx="15" cy="10" r="9" fill="#1f6feb"/><ellipse cx="15" cy="10" rx="4" ry="9" fill="none" stroke="#9cc3ff" stroke-width="0.8"/><line x1="6" y1="10" x2="24" y2="10" stroke="#9cc3ff" stroke-width="0.8"/>',
+    JP: '<rect width="30" height="20" fill="#fff"/><circle cx="15" cy="10" r="6" fill="#bc002d"/>',
+    DE: hz(["#000", "#dd0000", "#ffce00"]),
+    FR: vt(["#002395", "#fff", "#ed2939"]),
+    IT: vt(["#009246", "#fff", "#ce2b37"]),
+    ES: '<rect width="30" height="5" fill="#aa151b"/><rect y="5" width="30" height="10" fill="#f1bf00"/><rect y="15" width="30" height="5" fill="#aa151b"/>',
+    BR: '<rect width="30" height="20" fill="#009c3b"/><polygon points="15,2 28,10 15,18 2,10" fill="#ffdf00"/><circle cx="15" cy="10" r="4.5" fill="#002776"/>',
+    AR: hz(["#74acdf", "#fff", "#74acdf"]),
+    MX: vt(["#006847", "#fff", "#ce1126"]),
+    CA: '<rect width="7.5" height="20" fill="#d80621"/><rect x="7.5" width="15" height="20" fill="#fff"/><rect x="22.5" width="7.5" height="20" fill="#d80621"/>',
+    US: US_STRIPES,
+    GB: '<rect width="30" height="20" fill="#012169"/><path d="M0,0 L30,20 M30,0 L0,20" stroke="#fff" stroke-width="4"/><path d="M0,0 L30,20 M30,0 L0,20" stroke="#c8102e" stroke-width="1.5"/><path d="M15,0 V20 M0,10 H30" stroke="#fff" stroke-width="6"/><path d="M15,0 V20 M0,10 H30" stroke="#c8102e" stroke-width="3.5"/>',
+    RU: hz(["#fff", "#0039a6", "#d52b1e"]),
+    UA: '<rect width="30" height="10" fill="#005bbb"/><rect y="10" width="30" height="10" fill="#ffd500"/>',
+    IN: hz(["#ff9933", "#fff", "#138808"]) + '<circle cx="15" cy="10" r="2.5" fill="none" stroke="#000080" stroke-width="0.6"/>',
+    CN: '<rect width="30" height="20" fill="#de2910"/><circle cx="6" cy="6" r="2.2" fill="#ffde00"/>',
+    IL: '<rect width="30" height="20" fill="#fff"/><rect y="2.5" width="30" height="2.5" fill="#0038b8"/><rect y="15" width="30" height="2.5" fill="#0038b8"/><polygon points="15,6 18.5,12 11.5,12" fill="none" stroke="#0038b8" stroke-width="0.7"/><polygon points="15,14 11.5,8 18.5,8" fill="none" stroke="#0038b8" stroke-width="0.7"/>',
+    LB: hz(["#ed1c24", "#fff", "#ed1c24"]) + '<circle cx="15" cy="10" r="2.5" fill="#00a651"/>',
+    EG: hz(["#ce1126", "#fff", "#000"]),
+    TR: '<rect width="30" height="20" fill="#e30a17"/><circle cx="11.5" cy="10" r="4.5" fill="#fff"/><circle cx="12.7" cy="10" r="3.6" fill="#e30a17"/><circle cx="14.2" cy="10" r="2.8" fill="#fff"/>'
+  };
+  function flagHtml(code) {
+    const key = (code || "").toUpperCase();
+    if (FLAGS[key]) return `<svg class="flag" viewBox="0 0 30 20" role="img" aria-label="Bandeira de ${esc(countryName(code))}">${FLAGS[key]}</svg>`;
+    if (!code || code.length !== 2) return '<span style="font-size:20px">🌍</span>';
+    const c = code.toLowerCase();
+    return `<img class="flag" src="https://flagcdn.com/w40/${esc(c)}.png" alt="Bandeira de ${esc(countryName(code))}" width="28" height="20" onerror="this.replaceWith(document.createTextNode('${c.replace(/[^a-z]/g, "").toUpperCase()}'))">`;
+  }
+
+  function render() {
+    const counts = { crit: 0, high: 0, med: 0, low: 0 };
+    items.forEach(i => counts[i.sev]++);
+    document.getElementById("cCrit").textContent = counts.crit;
+    document.getElementById("cHigh").textContent = counts.high;
+    document.getElementById("cMed").textContent = counts.med;
+    document.getElementById("cLow").textContent = counts.low;
+
+    const q = norm(document.getElementById("search").value);
+    const cat = document.getElementById("cat").value;
+    const minSev = document.getElementById("sev").value;
+    const allowed = { crit: ["crit"], high: ["crit","high"], med: ["crit","high","med"], low: ["crit","high","med","low"] };
+
+    const list = items.filter(i => {
+      if (cat && i.category !== cat) return false;
+      if (minSev && !allowed[minSev].includes(i.sev)) return false;
+      if (q && !norm([i.title, i.summary, i.region, i.category, i.source].join(" ")).includes(q)) return false;
+      return true;
+    });
+
+    const feed = document.getElementById("feed");
+    if (!list.length) { feed.innerHTML = '<div class="empty">Nenhuma notícia com esses filtros.</div>'; return; }
+    feed.innerHTML = list.map(i => `
+      <article class="card ${i.sev}">
+        <div class="meta">
+          ${flagHtml(i.country)} <span class="country">${esc(countryName(i.country))}</span>
+          <span class="tag sev-${i.sev}">${LABEL[i.sev]}</span>
+          <span class="tag">${esc(i.category || "Geral")}</span>
+          <span>${esc(i.region || "Global")}</span>
+          <span>· ${esc(i.source || "")}</span>
+          <span>· ${i.ts ? new Date(i.ts).toLocaleString("pt-BR") : ""}</span>
+        </div>
+        <h3>${esc(i.title)}</h3>
+        <p>${esc(i.summary || "")}</p>
+        ${i.detail ? `<div class="detail"><strong>Resumo detalhado</strong><p>${esc(i.detail)}</p></div>` : ""}
+        ${i.url && i.url !== "#" ? `<p style="margin-top:8px"><a href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">Ler notícia completa →</a></p>` : ""}
+      </article>`).join("");
+  }
+
+  // ---------- Alertas ----------
+  function watchHits(item) {
+    const words = prefs.watch.split(",").map(w => norm(w.trim())).filter(Boolean);
+    const text = norm(item.title + " " + item.summary + " " + item.region);
+    return words.filter(w => text.includes(w));
+  }
+
+  function checkAlerts() {
+    const critical = items.filter(i => i.sev === "crit" || i.sev === "high");
+    const banner = document.getElementById("banner");
+    const list = document.getElementById("bannerList");
+    if (critical.length) {
+      banner.classList.add("show");
+      list.innerHTML = critical.slice(0, 6).map(i => `<li><strong>${LABEL[i.sev]}:</strong> ${esc(i.title)} <em style="color:var(--muted)">(${esc(i.region || "Global")})</em></li>`).join("");
+    } else {
+      banner.classList.remove("show");
+    }
+
+    const newAlerts = [];
+    for (const i of items) {
+      const key = i.title + "|" + i.date;
+      const hits = watchHits(i);
+      const critNow = i.sev === "crit";
+      if ((critNow || hits.length) && !seenAlerts.has(key)) {
+        newAlerts.push({ key, text: i.title, reason: hits.length ? "palavra vigiada: " + hits.join(", ") : "risco crítico" });
+      }
+    }
+    if (newAlerts.length) {
+      newAlerts.forEach(a => seenAlerts.add(a.key));
+      store.set("ag_seen", [...seenAlerts].slice(-300));
+      if ("Notification" in window && Notification.permission === "granted") {
+        newAlerts.slice(0, 3).forEach(a => new Notification("Alerta Global", { body: a.text + " (" + a.reason + ")" }));
+      }
+    }
+  }
+
+  // ---------- Controles ----------
+  document.getElementById("refreshBtn").onclick = load;
+  document.getElementById("settingsBtn").onclick = () => {
+    const s = document.getElementById("settings");
+    s.classList.toggle("open");
+    document.getElementById("feedUrl").value = prefs.feedUrl;
+    document.getElementById("watch").value = prefs.watch;
+    document.getElementById("interval").value = prefs.interval;
+  };
+  document.getElementById("saveBtn").onclick = () => {
+    prefs = {
+      feedUrl: document.getElementById("feedUrl").value.trim(),
+      watch: document.getElementById("watch").value.trim(),
+      interval: document.getElementById("interval").value
+    };
+    store.set("ag_prefs", prefs);
+    setupTimer();
+    load();
+  };
+  document.getElementById("notifyBtn").onclick = async () => {
+    if (!("Notification" in window)) return alert("Seu navegador não suporta notificações.");
+    const p = await Notification.requestPermission();
+    alert(p === "granted" ? "Notificações ativadas." : "Permissão não concedida.");
+  };
+  ["search", "cat", "sev"].forEach(id => document.getElementById(id).addEventListener("input", render));
+  document.querySelectorAll(".level").forEach(el => el.addEventListener("click", () => {
+    document.getElementById("sev").value = el.dataset.sev;
+    render();
+  }));
+
+  function setupTimer() {
+    if (timer) clearInterval(timer);
+    const ms = Number(prefs.interval) || 0;
+    if (ms > 0) timer = setInterval(load, ms);
+  }
+
+  setupTimer();
+  load();
+})();
+</script>
+</body>
+</html>
