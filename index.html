@@ -109,6 +109,15 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 @media(max-width:1160px){.app-layout{grid-template-columns:195px minmax(0,1fr)}.side{padding-left:10px;padding-right:10px}}
 @media(max-width:900px){.app-layout{display:block}.side{display:none}.topbar{min-height:70px;padding:13px 19px}main{padding:17px 17px 122px}.bottom-nav{display:flex;position:fixed;z-index:20;bottom:max(10px,env(safe-area-inset-bottom));left:12px;right:12px;justify-content:space-around;padding:7px;background:#17253cf3;border:1px solid #354b6a;box-shadow:0 15px 44px #0008;border-radius:17px;backdrop-filter:blur(16px)}.bottom-nav a,.bottom-nav button{flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;color:#aec1d8;padding:5px;border:0;background:none;text-decoration:none;font-size:10px;border-radius:9px}.bottom-nav .bico{font-size:20px}.bottom-nav a:first-child{background:#2d446c;color:white}}
 @media(max-width:620px){.topbar .breadcrumb,.topbar .status-pill{display:none}.topbar h1{font-size:16px}.top-actions{gap:6px}.icon-action{width:35px;height:35px}.install-btn{font-size:10px;padding:8px}.hero{min-height:274px;border-radius:19px;padding:24px 21px}.hero:before{right:-135px;top:-74px;opacity:.36}.hero h2{font-size:33px}.hero p{font-size:12px;max-width:300px}.hero-cta{gap:9px}.levels{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.level{min-height:108px;padding:14px}.level strong{font-size:27px;margin-top:9px}.radar-feed,#feed{grid-template-columns:1fr}.radar-item:first-child{grid-row:auto;min-height:235px}.radar-item:first-child strong{font-size:22px}.toolbar{flex-direction:column;padding:11px}.toolbar input,.toolbar select{width:100%;min-width:0}.footer{display:block}.footer span{display:block;margin-bottom:7px}}
+
+/* Fotografia editorial proveniente do RSS original; nunca usar imagem genérica como notícia. */
+.card-image{width:100%;height:186px;object-fit:cover;display:block;border-radius:11px;border:1px solid #304762;background:#1b2b40}
+.card.has-image{gap:12px}
+.radar-item.has-image{background-image:linear-gradient(0deg,rgba(7,14,25,.96) 0%,rgba(9,19,35,.75) 52%,rgba(9,20,35,.36) 100%),var(--story-image);background-position:center;background-size:cover}
+.radar-item.has-image:before{opacity:.15}
+.radar-item.has-image strong,.radar-item.has-image small{position:relative;z-index:1;text-shadow:0 2px 7px rgba(0,0,0,.8)}
+.card .image-credit{font-size:10px;color:#8eabc6;margin-top:-7px}
+@media(max-width:620px){.card-image{height:210px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 
 </style>
@@ -428,6 +437,18 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     return `<img class="flag" src="https://flagcdn.com/w40/${esc(c)}.png" alt="Bandeira de ${esc(countryName(code))}" width="28" height="20" onerror="this.replaceWith(document.createTextNode('${c.replace(/[^a-z]/g, "").toUpperCase()}'))">`;
   }
 
+
+  // Imagens devem vir exclusivamente dos metadados do artigo e ser URLs HTTPS/HTTP válidas.
+  function newsImage(url) {
+    if (!url || typeof url !== "string") return "";
+    try {
+      const parsed = new URL(url);
+      if (!["https:", "http:"].includes(parsed.protocol)) return "";
+      if (/^(?:news\.)?google\.com$/i.test(parsed.hostname)) return "";
+      return parsed.href;
+    } catch { return ""; }
+  }
+
   function renderRadar() {
     const el = document.getElementById("radarFeed");
     const count = document.getElementById("radarCount");
@@ -442,7 +463,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
       .slice(0, 8);
     count.textContent = prioritized.length + " destaques";
     el.innerHTML = prioritized.length
-      ? prioritized.map(i => `<a class="radar-item" href="${esc(i.url)}" target="_blank" rel="noopener noreferrer"><small>${LABEL[i.sev]} · ${esc(i.category || "Geral")} · ${esc(i.source || "")}</small><strong>${esc(i.title_pt || i.title)}</strong><small>${new Date(i.ts).toLocaleString("pt-BR")}${i.title_pt ? " · Tradução automática" : ""}</small></a>`).join("")
+      ? prioritized.map(i => { const photo = newsImage(i.image); return `<a class="radar-item${photo ? " has-image" : ""}" ${photo ? `style="--story-image:url(&quot;${esc(photo)}&quot;)"` : ""} href="${esc(i.url)}" target="_blank" rel="noopener noreferrer"><small>${LABEL[i.sev]} · ${esc(i.category || "Geral")} · ${esc(i.source || "")}</small><strong>${esc(i.title_pt || i.title)}</strong><small>${i.ts ? new Date(i.ts).toLocaleString("pt-BR") : ""}${i.title_pt ? " · Tradução automática" : ""}</small></a>`; }).join("")
       : '<div class="empty">Sem notícias disponíveis. Confira o estado da fonte acima e tente atualizar.</div>';
   }
 
@@ -462,14 +483,14 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     const list = items.filter(i => {
       if (cat && i.category !== cat) return false;
       if (minSev && !allowed[minSev].includes(i.sev)) return false;
-      if (q && !norm([i.title, i.summary, i.region, i.category, i.source].join(" ")).includes(q)) return false;
+      if (q && !norm([i.title, i.title_pt, i.summary, i.summary_pt, i.region, i.category, i.source].join(" ")).includes(q)) return false;
       return true;
     });
 
     const feed = document.getElementById("feed");
     if (!list.length) { feed.innerHTML = '<div class="empty">Nenhuma notícia com esses filtros.</div>'; return; }
-    feed.innerHTML = list.map(i => `
-      <article class="card ${i.sev}">
+    feed.innerHTML = list.map(i => { const photo = newsImage(i.image); return `
+      <article class="card ${i.sev}${photo ? " has-image" : ""}">
         <div class="meta">
           ${flagHtml(i.country)} <span class="country">${esc(countryName(i.country))}</span>
           <span class="tag sev-${i.sev}">${LABEL[i.sev]}</span>
@@ -478,12 +499,13 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
           <span>· ${esc(i.source || "")}</span>
           <span>· ${i.ts ? new Date(i.ts).toLocaleString("pt-BR") : ""}</span>
         </div>
+        ${photo ? `<img class="card-image" src="${esc(photo)}" loading="lazy" decoding="async" referrerpolicy="no-referrer" alt="Imagem da matéria publicada por ${esc(i.source || "fonte original")}" onerror="this.remove()">` : ""}
         <h3>${esc(i.title_pt || i.title)}</h3>
         ${i.title_pt ? `<small style="color:var(--muted)">Original: ${esc(i.title)}</small>` : ""}
         <p>${esc(i.summary_pt || i.summary || "")}</p>${i.summary_pt ? `<small style="color:var(--muted)">Resumo traduzido automaticamente · Consulte o original na fonte.</small>` : ""}
         ${i.detail ? `<div class="detail"><strong>Resumo detalhado</strong><p>${esc(i.detail)}</p></div>` : ""}
         ${i.url && i.url !== "#" ? `<p style="margin-top:8px"><a href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">Ler notícia completa →</a></p>` : ""}
-      </article>`).join("");
+      </article>`; }).join("");
   }
 
   // ---------- Alertas ----------
