@@ -2,9 +2,24 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-17T12:03:14Z",
+  "updated_at": "2026-11-17T12:52:13.694Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Novo ataque ucraniano danifica gravemente ponte de Kerch e interrompe tráfego rodoviário para a Crimeia",
+      "summary": "Após novo ataque na noite de 16 para 17 de novembro, autoridades russas confirmaram a suspensão do tráfego na ponte que liga a Rússia à Crimeia ocupada. A Ucrânia afirma que um arco e parte da via rodoviária desabaram. Imagens indicam danos graves, mas a extensão do colapso não foi verificada de forma independente pela Reuters. A Rússia também atacou pontes e infraestrutura em Kyiv.",
+      "impact_br": "Sem efeito direto confirmado no Brasil. A escalada pode aumentar a volatilidade do petróleo, de fretes e dos mercados internacionais caso comprometa rotas logísticas e prolongue o conflito.",
+      "category": "Guerras e diplomacia",
+      "region": "Rússia, Ucrânia e Mar Negro",
+      "country": "UA",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/",
+      "published_on": "2026-11-17",
+      "published_at": "",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial"
+    },
     {
       "title": "Irã lança drones contra instalação de radar militar dos EUA no Bahrein; defesas aéreas interceptam ataque",
       "summary": "Em 17 de novembro, o Irã lançou drones contra uma instalação de radar militar norte-americana no Bahrein. O governo do Bahrein afirmou ter interceptado os drones; a extensão de eventuais danos não foi confirmada de forma independente. A ofensiva aumenta o risco de escalada no Golfo Pérsico, enquanto persistem tensões sobre a navegação no Estreito de Hormuz.",
