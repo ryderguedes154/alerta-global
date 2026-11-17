@@ -17,7 +17,9 @@ O aplicativo precisa estar **publicado em HTTPS** (por exemplo, no GitHub Pages)
 - O script `scripts/atualizar_destaques.py` seleciona até 8 notícias internacionais recentes de fontes jornalísticas reconhecidas, prioriza manchetes e resumos em português e grava `destaques-radar.json`.
 - Enquanto o site permanece aberto, os destaques são consultados a cada 5 minutos e novamente quando o usuário retorna à aba. Notícias novas aparecem depois que os arquivos são atualizados no GitHub.
 - Quando não há novidade relevante, as matérias permanecem visíveis com suas datas originais e o horário da última checagem, sem criar notícias ou mudar a data de publicação.
-- **A seção automática do site não é uma cópia literal dos alertas privados do ChatGPT**: ambos acompanham notícias mundiais, mas usam processos diferentes.
+- **Fonte adicional "Radar Mundial — Seleção do ChatGPT"**: notícias que foram enviadas aqui ficam disponíveis no arquivo `curadoria-chatgpt.json`, identificado como curadoria, **não como veículo jornalístico independente**. Cada matéria traz o nome e link da fonte original.
+- A automação de alertas mundiais do ChatGPT foi instruída a **tentar adicionar ao arquivo cada novo alerta confirmado**, após verificar duplicidade, quando o GitHub estiver acessível. Ela é independente das notícias coletadas pelo GitHub Actions e pode falhar caso o conector esteja indisponível.
+- O site consulta os registros de curadoria a cada cinco minutos quando está aberto, e ao reabrir a aba. A data da notícia não é substituída pela data da checagem.
 - Notificações locais **enquanto o aplicativo/site estiver em execução**, conforme permissão do navegador.
 
 ## Limitações
