@@ -13,6 +13,11 @@ O aplicativo precisa estar **publicado em HTTPS** (por exemplo, no GitHub Pages)
 - Abertura em tela própria, como aplicativo.
 - Service worker que mantém a interface e, após a primeira consulta bem-sucedida, as últimas notícias em cache para leitura sem conexão.
 - Radar Mundial, filtros e fontes RSS/USGS coletadas por GitHub Actions.
+- **Destaques do Radar Mundial atualizados automaticamente** pelo mesmo coletor RSS/USGS. O GitHub Actions está agendado nos minutos **07 e 37 de cada hora** (UTC), aproximadamente a cada 30 minutos; a execução pode atrasar conforme o serviço GitHub.
+- O script `scripts/atualizar_destaques.py` seleciona até 8 notícias internacionais recentes de fontes jornalísticas reconhecidas, prioriza manchetes e resumos em português e grava `destaques-radar.json`.
+- Enquanto o site permanece aberto, os destaques são consultados a cada 5 minutos e novamente quando o usuário retorna à aba. Notícias novas aparecem depois que os arquivos são atualizados no GitHub.
+- Quando não há novidade relevante, as matérias permanecem visíveis com suas datas originais e o horário da última checagem, sem criar notícias ou mudar a data de publicação.
+- **A seção automática do site não é uma cópia literal dos alertas privados do ChatGPT**: ambos acompanham notícias mundiais, mas usam processos diferentes.
 - Notificações locais **enquanto o aplicativo/site estiver em execução**, conforme permissão do navegador.
 
 ## Limitações
