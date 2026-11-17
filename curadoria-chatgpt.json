@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-17T22:32:50.476440Z",
+  "updated_at": "2026-11-17T23:55:16.678Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Conselho de Paz alerta à ONU para risco de colapso do cessar-fogo em Gaza",
+      "summary": "Em relatório apresentado ao Conselho de Segurança da ONU, o Conselho de Paz responsável por acompanhar o cessar-fogo em Gaza advertiu que o acordo pode ruir sem cumprimento das obrigações por Israel e Hamas. O documento aponta ataques, entraves à ajuda humanitária e atrasos na administração civil e na força internacional de estabilização. Trata-se de alerta de risco, não de confirmação do fim da trégua.",
+      "impact_br": "Sem impacto econômico direto confirmado no Brasil; uma eventual retomada ampla do conflito poderia ampliar a instabilidade regional e pressionar mercados internacionais.",
+      "category": "guerras e diplomacia",
+      "region": "Oriente Médio",
+      "country": "PS",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/189d58d05fa984cc9573f98ec7d638be",
+      "published_on": "2026-11-17",
+      "published_at": "2026-11-17T15:04:22-04:00",
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-17T23:55:16.678Z"
+    },
     {
       "title": "Navio com 3.400 toneladas de gás afunda no mar Negro; 19 tripulantes são resgatados",
       "summary": "O navio-tanque Gas Husky, de bandeira liberiana, afundou em 17 de novembro na zona econômica exclusiva da Bulgária, no mar Negro, transportando 3.400 toneladas de gás liquefeito de petróleo. Autoridades búlgaras confirmaram o resgate dos 19 tripulantes. É o segundo naufrágio comercial na região em dois dias. A causa do afundamento ainda não foi oficialmente confirmada; relatos de ataque por drones permanecem sob investigação.",
