@@ -1,10 +1,11 @@
 /* Alerta Global — Service Worker: cache de interface e últimas notícias. */
-const VERSION = "ag-v8-20261117-mobile-unificado";
+const VERSION = "ag-v9-20261117-fontes-500";
 const SHELL = "alerta-shell-" + VERSION;
 const DATA = "alerta-dados-" + VERSION;
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/alerta-global.svg"];
 const ROOT = new URL("./", self.registration.scope);
 const NEWS = new URL("noticias.json", ROOT).href;
+const SOURCES = new URL("status_fontes.json", ROOT).href;
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(SHELL).then(cache => cache.addAll(ASSETS)).then(() => self.skipWaiting()));
 });
@@ -19,17 +20,19 @@ self.addEventListener("fetch", event => {
   if (request.method !== "GET") return;
   const url = new URL(request.url);
   if (url.origin !== self.location.origin) return;
-  if (url.pathname.endsWith("/noticias.json")) {
+  if (url.pathname.endsWith("/noticias.json") || url.pathname.endsWith("/status_fontes.json")) {
     event.respondWith((async () => {
       const cache = await caches.open(DATA);
+      const cacheKey = url.pathname.endsWith("/status_fontes.json") ? SOURCES : NEWS;
       try {
         const response = await fetch(request);
         if (!response.ok) throw new Error("HTTP " + response.status);
-        await cache.put(NEWS, response.clone());
+        await cache.put(cacheKey, response.clone());
         return response;
       } catch (error) {
-        const saved = await cache.match(NEWS);
-        return saved || new Response("[]", { headers: { "Content-Type": "application/json; charset=utf-8" } });
+        const saved = await cache.match(cacheKey);
+        const blank = cacheKey === SOURCES ? "{}" : "[]";
+        return saved || new Response(blank, { headers: { "Content-Type": "application/json; charset=utf-8" } });
       }
     })());
     return;
