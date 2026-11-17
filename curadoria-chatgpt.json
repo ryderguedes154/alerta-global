@@ -2,9 +2,24 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-17T09:57:00Z",
+  "updated_at": "2026-11-17T10:42:00Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "ONU confirma mais de 2.230 civis mortos no Sudão em 2026; drones causaram quase três quartos das mortes",
+      "summary": "Relatório divulgado pela ONU em 17 de novembro contabiliza mais de 2.230 mortes de civis confirmadas entre janeiro e outubro de 2026 na guerra do Sudão, incluindo mais de 1.630 provocadas por ataques de drones. Hospitais, mercados e infraestrutura de água e energia foram atingidos. A ONU alerta que o total real pode ser maior e que algumas violações podem constituir crimes de guerra.",
+      "impact_br": "Não há impacto econômico direto confirmado para o Brasil. A crise amplia a necessidade de ajuda humanitária e a pressão internacional por proteção de civis e restrições a ataques indiscriminados.",
+      "category": "Guerras e diplomacia",
+      "region": "África Oriental — Sudão",
+      "country": "SD",
+      "source": "Organização das Nações Unidas — Escritório de Direitos Humanos",
+      "url": "https://sudan.un.org/en/326318-un-report-details-deadly-civilian-impact-surge-drone-strikes",
+      "published_on": "2026-11-17",
+      "published_at": "2026-11-17T06:42:00-04:00",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial"
+    },
     {
       "title": "Petroleiro sofre segundo ataque no Estreito de Hormuz; situação da tripulação é desconhecida",
       "summary": "A agência marítima britânica UKMTO informou em 17 de novembro que um petroleiro, atingido inicialmente em 16 de novembro perto de Khasab, em Omã, sofreu um segundo ataque e pegou fogo. A tripulação, antes relatada como segura, está agora sem contato confirmado. A autoria e a extensão dos danos permanecem desconhecidas.",
