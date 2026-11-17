@@ -376,6 +376,20 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 .curation-source span:last-child{font-size:11px;font-weight:800;color:#85ead2;white-space:nowrap}
 .curation-card-stamp{font-size:10px;color:#91cfc1}
 @media(max-width:620px){.curation-source{align-items:flex-start;flex-wrap:wrap}.curation-source span:last-child{margin-left:40px}}
+
+/* Acesso explícito aos alertas enviados no ChatGPT, nos menus e página inicial. */
+.curation-nav-link .side-link-icon{font-size:19px}
+.hero-cta .hero-curation-link{background:#143f49;color:#b3ffe8;border:1px solid #399c8c}
+.hero-cta .hero-curation-link:hover{background:#1c5b60}
+.curation-preview{margin:3px 0 23px;border:1px solid #3d9b94;border-radius:17px;padding:16px 18px;background:linear-gradient(115deg,#143647,#102337 75%,#13263a);box-shadow:0 7px 28px #0003}
+.curation-preview-top{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;color:#87f9d4;font-size:11px;font-weight:800;letter-spacing:.35px}
+.curation-preview-top span{font-size:10px;color:#b6d7d7;border:1px solid #3e7879;border-radius:100px;padding:4px 9px}
+.curation-preview-link{display:flex;align-items:center;justify-content:space-between;gap:12px;text-decoration:none;margin:10px 0 5px;color:#f3fbff;font-size:17px;font-weight:800;line-height:1.3}
+.curation-preview-link span:last-child{flex-shrink:0;font-size:11px;color:#87f9d4;white-space:nowrap}
+.curation-preview small{color:#a3c7d1;font-size:11px;line-height:1.45}
+.curation-source-in-list{display:block;margin-bottom:12px;padding:12px;color:#dbfff5;border:1px solid #347b77;border-radius:11px;background:#133c3f;text-decoration:none;font-size:11px}
+.curation-source-in-list:hover{background:#175552}
+@media(max-width:620px){.curation-preview{padding:14px}.curation-preview-link{flex-direction:column;align-items:flex-start;font-size:15px}.curation-preview-link span:last-child{font-size:11px}.bottom-nav .curation-bottom-link{color:#92eed2}.bottom-nav .curation-bottom-link .bico{font-size:22px}}
 </style>
 </head>
 <body>
@@ -389,7 +403,8 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     <nav class="side-menu" aria-label="Explorar">
       <a class="side-link active" href="#overview" data-nav="overview"><span class="side-link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/></svg></span><span>Visão geral</span><span class="side-chevron">›</span></a>
       <a class="side-link" href="#radar" data-nav="radar"><span class="side-link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.4" fill="currentColor"/><path d="M12 12l6-6"/></svg></span><span>Radar Mundial</span><span class="side-chevron">›</span></a>
-      <a class="side-link" href="#news" data-nav="news"><span class="side-link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8M8 16h5"/></svg></span><span>Últimas notícias</span><span class="side-chevron">›</span></a>
+      <a class="side-link curation-nav-link" href="#curadoria" data-nav="curadoria"><span class="side-link-icon" aria-hidden="true">🌍</span><span>Alertas do ChatGPT</span><span class="side-chevron">›</span></a>
+       <a class="side-link" href="#news" data-nav="news"><span class="side-link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8M8 16h5"/></svg></span><span>Últimas notícias</span><span class="side-chevron">›</span></a>
       <a class="side-link" href="#sources" data-nav="sources"><span class="side-link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 6v6l4 2M8 19h8"/></svg></span><span>Fontes e atualizações</span><span class="side-chevron">›</span></a>
       <a class="side-link" href="#banner" data-nav="banner"><span class="side-link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M10.3 3.9L2.2 18a2 2 0 001.7 3h16.2a2 2 0 001.7-3L13.7 3.9a2 2 0 00-3.4 0Z"/><path d="M12 9v4M12 17h.01"/></svg></span><span>Alertas de risco</span><span class="side-chevron">›</span></a>
     </nav>
@@ -415,7 +430,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     <ul id="bannerList"></ul>
   </section>
 
-<section class="hero" aria-label="Radar Mundial"><div class="hero-copy"><div class="hero-label"><span class="dot"></span> INTELIGÊNCIA DE NOTÍCIAS · RADAR MUNDIAL</div><h2>O mundo não para.<br><em>Você acompanha.</em></h2><p>Notícias globais, riscos e acontecimentos importantes em um só lugar. Entenda o que acontece no mundo, direto das fontes originais.</p><div class="hero-cta"><a href="#radar">Explorar destaques ↗</a><small>Monitoramento internacional</small></div></div></section><div class="status-text" id="statusText">Carregando notícias...</div>
+<section class="hero" aria-label="Radar Mundial"><div class="hero-copy"><div class="hero-label"><span class="dot"></span> INTELIGÊNCIA DE NOTÍCIAS · RADAR MUNDIAL</div><h2>O mundo não para.<br><em>Você acompanha.</em></h2><p>Notícias globais, riscos e acontecimentos importantes em um só lugar. Entenda o que acontece no mundo, direto das fontes originais.</p><div class="hero-cta"><a href="#radar">Explorar destaques ↗</a><a href="#curadoria" class="hero-curation-link">🌍 Ver alertas do ChatGPT</a></div></div></section><div class="status-text" id="statusText">Carregando notícias...</div>
   <div class="offline-note" id="offlineNotice" hidden role="status">📡 Sem internet. Exibindo as últimas notícias disponíveis no dispositivo, se houver.</div>
   <section class="levels" aria-label="Filtrar notícias por nível de gravidade">
     <button type="button" class="level crit" data-sev="crit" aria-pressed="false" aria-label="Ver notícias do nível crítico"><strong id="cCrit">0</strong><span>Crítico</span></button>
@@ -424,6 +439,13 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     <button type="button" class="level low" data-sev="low" aria-pressed="false" aria-label="Ver notícias do nível informativo"><strong id="cLow">0</strong><span>Informativo</span></button>
   </section>
 
+  <section class="curation-preview" aria-label="Último alerta mundial publicado pelo ChatGPT">
+    <div class="curation-preview-top"><strong>🌍 RADAR MUNDIAL · CHATGPT</strong><span id="curationPreviewCount">Carregando alertas...</span></div>
+    <a href="#curadoria" class="curation-preview-link" aria-label="Abrir as notícias do ChatGPT">
+      <span id="curationPreviewHeadline">Consultando últimos alertas enviados...</span><span aria-hidden="true">Ver todos ↗</span>
+    </a>
+    <small id="curationPreviewNote">As notícias são acompanhadas da fonte jornalística original.</small>
+  </section>
   <section class="radar" id="radar">
     <div class="radar-head"><div><h2>🌐 Radar Mundial</h2><p>Principais acontecimentos internacionais, organizados por urgência. Atualização pelo feed de notícias.</p></div><span id="radarCount">0 destaques</span></div>
     <div id="radarFeed" class="radar-feed"></div>
@@ -447,7 +469,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
       <span><strong>Radar Mundial — Seleção do ChatGPT</strong><small id="curationSourceStatus">Fonte de curadoria independente do RSS automático · Carregando seleção…</small></span>
       <span aria-hidden="true">Ver matérias ↗</span>
     </a>
-    <details class="sources-details"><summary>Ver situação por fonte</summary><div id="sourcesList" class="sources-list"><p>Carregando informações...</p></div></details>
+    <details class="sources-details"><summary>Ver situação por fonte</summary><a class="curation-source-in-list" href="#curadoria">🌍 <strong>Radar Mundial — Seleção do ChatGPT</strong> · <span id="curationSourceCount">Carregando...</span> · Ver alertas ↗</a><div id="sourcesList" class="sources-list"><p>Carregando informações...</p></div></details>
     <p class="sources-disclaimer">O horário de checagem não garante que o jornal publicou uma matéria nova. Notícias são classificadas automaticamente e devem ser verificadas na fonte original.</p>
   </section>
   <div class="section-header" id="news"><div><div class="eyebrow">Central de informação</div><h2>Notícias de impacto mundial</h2><p>Notícias internacionais com títulos em português, filtros por assunto e país. Resumos ainda não traduzidos são sinalizados.</p></div></div>
@@ -504,7 +526,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 <footer class="footer"><span>© 2026 Alerta Global · Radar Mundial</span><span>Fontes internacionais e USGS · Verifique sempre a fonte original.</span></footer></main></div></div><nav class="bottom-nav" aria-label="Navegação inferior">
   <a href="#overview" data-mobile-nav="overview" class="active" aria-current="page"><span class="bico" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="m3 11 9-8 9 8v9a1 1 0 0 1-1 1h-5v-7H9v7H4a1 1 0 0 1-1-1z"/></svg></span><span>Início</span></a>
   <a href="#radar" data-mobile-nav="radar"><span class="bico" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.5"/><path d="m12 12 6-6"/></svg></span><span>Radar</span></a>
-  <a href="#banner" data-mobile-nav="banner"><span class="bico" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 3 2.4 20h19.2L12 3z"/><path d="M12 9v5M12 17h.01"/></svg></span><span>Alertas</span></a>
+  <a href="#curadoria" data-mobile-nav="curadoria" class="curation-bottom-link"><span class="bico" aria-hidden="true">🌍</span><span>ChatGPT</span></a>
   <a href="#news" data-mobile-nav="news"><span class="bico" aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8M8 16h6"/></svg></span><span>Notícias</span></a>
   <button id="mobileMenuBtn" type="button" aria-label="Abrir menu do aplicativo" aria-controls="mobileDrawer" aria-expanded="false"><span class="bico" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg></span><span>Menu</span></button>
 </nav>
@@ -520,6 +542,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     <a href="#overview" data-mobile-nav="overview"><span>⌂</span> Visão geral <b>›</b></a>
     <a href="#banner" data-mobile-nav="banner"><span>🚨</span> Alertas de risco <b>›</b></a>
     <a href="#radar" data-mobile-nav="radar"><span>◎</span> Radar Mundial <b>›</b></a>
+     <a href="#curadoria" data-mobile-nav="curadoria"><span>🌍</span> Alertas do ChatGPT <b>›</b></a>
     <a href="#news" data-mobile-nav="news"><span>▤</span> Notícias internacionais <b>›</b></a>
     <a href="#sources" data-mobile-nav="sources"><span>◷</span> Fontes e atualizações <b>›</b></a>
   </nav>
@@ -651,6 +674,14 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
         const latest = data.updated_at && !Number.isNaN(Date.parse(data.updated_at))
           ? new Date(data.updated_at).toLocaleString("pt-BR", {timeZone:"America/Boa_Vista"})
           : "não informada";
+        const previewCount = document.getElementById("curationPreviewCount");
+        const previewHeadline = document.getElementById("curationPreviewHeadline");
+        const previewNote = document.getElementById("curationPreviewNote");
+        const sourceCount = document.getElementById("curationSourceCount");
+        if (previewCount) previewCount.textContent = entries.length + (entries.length === 1 ? " alerta" : " alertas") + " publicados";
+        if (sourceCount) sourceCount.textContent = entries.length + " notícias";
+        if (previewHeadline) previewHeadline.textContent = entries[0]?.title || "Ver os alertas selecionados";
+        if (previewNote) previewNote.textContent = "Último registro: " + latest + " (Boa Vista) · Leia as fontes originais na seção ChatGPT.";
         sourceInfo.textContent = "Curadoria em arquivo próprio · " + entries.length +
           " notícias · Atualização registrada: " + latest + " (Boa Vista)";
         status.textContent = "📰 " + entries.length + " notícias selecionadas · Última atualização registrada: " +
@@ -695,7 +726,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
       }
     }
     if (feed.querySelector(".empty")) {
-      status.textContent = "⚠️ Não foi possível consultar a seleção agora.";
+      status.textContent = "⚠️ Não foi possível carregar esta fonte. Confira o arquivo diretamente no GitHub.";
       sourceInfo.textContent = "Curadoria temporariamente indisponível; notícias RSS permanecem acessíveis.";
     }
   }
@@ -1358,7 +1389,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   // Realce da aba atual na navegação e atalho de compartilhamento.
   function markSidebarActive() {
     const hash = location.hash.slice(1) || "overview";
-    const selected = ["overview","radar","news","banner","sources"].includes(hash) ? hash : "overview";
+    const selected = ["overview","radar","curadoria","news","banner","sources"].includes(hash) ? hash : "overview";
     document.querySelectorAll(".side-link[data-nav], [data-mobile-nav]").forEach(link => {
       const on = (link.dataset.nav || link.dataset.mobileNav) === selected;
       link.classList.toggle("active", on);
