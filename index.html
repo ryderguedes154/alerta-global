@@ -1100,6 +1100,128 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     }).join("") : '<p>Sem notícias recentes nesta consulta. A próxima verificação é automática.</p>';
   }
 
+  // Arquivo permanente: cada mês é baixado somente quando consultado.
+  let archiveItems = [];
+  let archiveVisible = 24;
+  let archiveLoadedMonth = "";
+  let archiveMonths = [];
+
+  async function getArchiveJson(path) {
+    if (!/^historico\/(?:indice|\d{4}-\d{2})\.json$/.test(path)) throw new Error("Caminho inválido");
+    const links = [
+      "https://raw.githubusercontent.com/ryderguedes154/alerta-global/main/" + path + "?t=" + Date.now(),
+      "./" + path + "?t=" + Date.now()
+    ];
+    for (const link of links) {
+      try {
+        const ctrl = new AbortController();
+        const timeout = setTimeout(() => ctrl.abort(), 8500);
+        try {
+          const response = await fetch(link, { cache:"no-store", signal:ctrl.signal });
+          if (!response.ok) continue;
+          const data = await response.json();
+          if (data && typeof data === "object" && !Array.isArray(data)) return data;
+        } finally { clearTimeout(timeout); }
+      } catch (err) { console.warn("Histórico indisponível nesta origem:",err); }
+    }
+    throw new Error("Arquivo ainda não publicado ou rede indisponível");
+  }
+
+  function archiveSearchNormalize(value) {
+    return String(value || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  }
+
+  function renderArchive() {
+    const target = document.getElementById("archiveFeed");
+    const status = document.getElementById("archiveStatus");
+    const q = archiveSearchNormalize(document.getElementById("archiveSearch").value);
+    const cat = document.getElementById("archiveCategory").value;
+    const filtered = archiveItems.filter(a => {
+      if (cat && a.category !== cat) return false;
+      if (!q) return true;
+      return archiveSearchNormalize([a.title, a.title_pt, a.summary, a.summary_pt,
+        a.source, a.region, a.country, a.category].join(" ")).includes(q);
+    });
+    status.textContent = filtered.length + " matérias de " + archiveLoadedMonth +
+      (q || cat ? " encontradas com os filtros atuais" : " preservadas no arquivo");
+    document.getElementById("archiveMore").hidden = filtered.length <= archiveVisible;
+    target.innerHTML = filtered.length ? filtered.slice(0,archiveVisible).map(a => {
+      const title = newsPtTitle(a) || (a.lang && a.lang !== "pt"
+        ? "Tradução pendente — leia na fonte original" : a.title);
+      const summary = newsPtSummary(a) || "";
+      const time = a.date && !Number.isNaN(Date.parse(a.date))
+        ? new Date(a.date).toLocaleString("pt-BR",{timeZone:"America/Boa_Vista",
+            day:"2-digit",month:"2-digit",year:"numeric",hour:"2-digit",minute:"2-digit"})
+        : "Data indisponível";
+      return '<article class="archive-card"><small>🗓️ ' + esc(time) +
+        ' · ' + esc(a.source || "Fonte original") + ' · ' + esc(a.category || "Geral") +
+        '</small><h3>' + esc(title || "Notícia arquivada") +
+        '</h3><p>' + esc(summary.slice(0,280)) + '</p><a href="' +
+        esc(a.url) + '" target="_blank" rel="noopener noreferrer">Ler na fonte original ↗</a></article>';
+    }).join("") : '<div class="empty">Nenhuma matéria neste mês com esses filtros.</div>';
+  }
+
+  async function loadArchiveMonth() {
+    const month = document.getElementById("archiveMonth").value;
+    if (!/^\d{4}-\d{2}$/.test(month)) return;
+    if (month !== archiveLoadedMonth) {
+      archiveItems = [];
+      document.getElementById("archiveFeed").innerHTML = '<div class="empty">Carregando notícias do mês...</div>';
+    }
+    try {
+      const data = await getArchiveJson("historico/" + month + ".json");
+      if (!Array.isArray(data.items)) throw new Error("Formato inválido do arquivo");
+      archiveItems = data.items.filter(a => a && typeof a.title === "string" &&
+        typeof a.url === "string" && /^https?:\/\//i.test(a.url))
+        .sort((a,b) => String(b.date || "").localeCompare(String(a.date || "")));
+      archiveLoadedMonth = month;
+      archiveVisible = 24;
+      renderArchive();
+    } catch (error) {
+      document.getElementById("archiveStatus").textContent = "⚠️ Arquivo mensal temporariamente indisponível.";
+      document.getElementById("archiveFeed").innerHTML = '<div class="empty">Tente novamente em instantes. Notícias novas continuam na tela principal.</div>';
+    }
+  }
+
+  async function loadArchiveIndex() {
+    const status = document.getElementById("archiveStatus");
+    try {
+      const data = await getArchiveJson("historico/indice.json");
+      archiveMonths = Array.isArray(data.months)
+        ? data.months.filter(x => /^\d{4}-\d{2}$/.test(x.month)) : [];
+      if (!archiveMonths.length) throw new Error("Nenhum mês disponível");
+      const select = document.getElementById("archiveMonth");
+      const selected = archiveMonths.some(row => row.month === select.value)
+        ? select.value : archiveMonths[0].month;
+      select.innerHTML = archiveMonths.map(row => '<option value="' + esc(row.month) + '">' +
+        esc(new Date(row.month + "-01T12:00:00Z").toLocaleDateString("pt-BR",{
+          month:"long",year:"numeric",timeZone:"UTC"})) + " · " +
+        esc(row.count || 0) + " notícias</option>").join("");
+      select.value = selected;
+      document.getElementById("archiveTotal").textContent =
+        Number(data.total || 0).toLocaleString("pt-BR") + " notícias guardadas";
+      if (archiveLoadedMonth !== selected) await loadArchiveMonth();
+      else renderArchive();
+    } catch (error) {
+      status.textContent = "O histórico está sendo preparado. As notícias recentes continuam disponíveis.";
+      document.getElementById("archiveTotal").textContent = "Histórico em preparação";
+      document.getElementById("archiveFeed").innerHTML =
+        '<div class="empty">O primeiro arquivo mensal ficará disponível depois da coleta e publicação no GitHub.</div>';
+    }
+  }
+
+  document.getElementById("archiveMonth").addEventListener("change", loadArchiveMonth);
+  document.getElementById("archiveSearch").addEventListener("input", () => {
+    archiveVisible = 24; renderArchive();
+  });
+  document.getElementById("archiveCategory").addEventListener("change", () => {
+    archiveVisible = 24; renderArchive();
+  });
+  document.getElementById("archiveMore").addEventListener("click", () => {
+    archiveVisible += 24; renderArchive();
+  });
+  document.getElementById("archiveReload").addEventListener("click", loadArchiveIndex);
+
   // ---------- Renderização ----------
   const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
 
