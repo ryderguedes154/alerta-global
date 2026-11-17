@@ -409,3 +409,30 @@ main>.hero{margin:5px 0 0;padding:12px 10px 14px;display:flex;align-items:center
  .share-panel{padding:18px}
 }
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+
+/* Tipografia estilo Nubank: alternativa aberta Nunito Sans */
+:root{--ag-font-ui:"Nunito Sans",ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+html,body{font-family:var(--ag-font-ui);font-optical-sizing:auto;font-synthesis:none}
+body,input,button,select,textarea,option,label,summary{font-family:var(--ag-font-ui)!important}
+button,select,input,textarea{font-weight:650}
+.portal-brandtext strong,.hero h2,.curation-live-title,.fresh-card strong,.portal-section-heading h2,
+.portal-sidebar-title h2,.radar-head h2,.section-header h2,.archive-head h2,
+.editorial-card h3,.portal-news-left .card>h3,.portal-aside-item strong,
+.portal-story-card strong,.portal-promo strong,.sources-head h2{
+  font-family:var(--ag-font-ui)!important;
+  font-weight:900;
+  letter-spacing:-.025em;
+}
+.portal-brandtext strong,.hero h2{letter-spacing:-.045em}
+.portal-nav-scroll a,.portal-topic,.portal-topline,.portal-breaking,.portal-brandtext small,
+.portal-topline-right,.portal-search input,.curation-live-actions a,.fresh-header>a,
+.portal-promo a,.portal-aside-more,.portal-story-card em,.source-row,
+.bottom-nav a,.bottom-nav button,.mobile-drawer-links a{
+  font-family:var(--ag-font-ui)!important;
+}
+.card .card-open-button,.card .card-share-button,.editorial-actions a,.editorial-actions button,
+.settings button,.share-options a,.share-options button,.feed-pager button{
+  font-family:var(--ag-font-ui)!important;
+}
+.portal-news-left .card>p,.curation-live-summary,.archive-card p,.editorial-card p,
+.hero p,.portal-masthead-description,.portal-promo small{font-weight:500}
