@@ -560,8 +560,9 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   async function loadEditorial() {
     const target = document.getElementById("editorialFeed");
     if (!target) return;
-    const urls = ["./destaques-radar.json?t=" + Date.now(),
-      "https://raw.githubusercontent.com/ryderguedes154/alerta-global/main/destaques-radar.json?t=" + Date.now()];
+    // Preferir a versão recém-gravada no GitHub; Pages funciona como espelho.
+    const urls = ["https://raw.githubusercontent.com/ryderguedes154/alerta-global/main/destaques-radar.json?t=" + Date.now(),
+      "./destaques-radar.json?t=" + Date.now()];
     for (const url of urls) {
       try {
         const controller = new AbortController();
