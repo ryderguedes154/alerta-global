@@ -334,6 +334,20 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 .source-row .source-ok{color:#81edc6}.source-row .source-partial{color:#f0c67d}.source-row .source-off{color:#ffa3a9}
 .sources-disclaimer{margin-top:11px}
 @media(max-width:620px){.sources-panel{padding:14px}.sources-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.sources-list{grid-template-columns:1fr}.sources-head h2{font-size:18px}.source-time{max-width:100%}.feed-pager{flex-direction:column}}
+
+/* Navegação desktop responsiva: rótulos completos sem quebra de linha. */
+@media (min-width:901px){
+  .app-layout{grid-template-columns:clamp(292px,22vw,338px) minmax(0,1fr)}
+  .side{min-width:0;padding-left:clamp(12px,1.2vw,18px);padding-right:clamp(12px,1.2vw,18px)}
+  .side-menu,.side-section{min-width:0}
+  .side-link{min-width:0;display:flex;align-items:center;gap:10px;padding-left:10px;padding-right:10px}
+  .side-link .side-link-icon{flex:0 0 32px}
+  .side-link .side-chevron{flex:0 0 12px;margin-left:auto;text-align:right}
+  .side-link > span:not(.side-link-icon):not(.side-chevron){
+    flex:1 1 auto;min-width:0;white-space:nowrap;overflow:visible;text-overflow:clip;
+    font-size:clamp(11.5px,.85vw,13px)
+  }
+}
 </style>
 </head>
 <body>
