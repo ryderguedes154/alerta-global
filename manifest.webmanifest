@@ -8,8 +8,8 @@
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#05070d",
-  "theme_color": "#080e1d",
+  "background_color": "#ffffff",
+  "theme_color": "#df2337",
   "orientation": "any",
   "categories": [
     "news",
