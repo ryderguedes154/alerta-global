@@ -390,6 +390,38 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 .curation-source-in-list{display:block;margin-bottom:12px;padding:12px;color:#dbfff5;border:1px solid #347b77;border-radius:11px;background:#133c3f;text-decoration:none;font-size:11px}
 .curation-source-in-list:hover{background:#175552}
 @media(max-width:620px){.curation-preview{padding:14px}.curation-preview-link{flex-direction:column;align-items:flex-start;font-size:15px}.curation-preview-link span:last-child{font-size:11px}.bottom-nav .curation-bottom-link{color:#92eed2}.bottom-nav .curation-bottom-link .bico{font-size:22px}}
+
+/* Notícias recentes + biblioteca histórica */
+.fresh-section,.archive-section{border:1px solid #335977;border-radius:18px;background:linear-gradient(145deg,#14283c,#101d2e);padding:19px;margin:18px 0 26px}
+.fresh-header,.archive-head{display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap}
+.fresh-header h2,.archive-head h2{font-size:22px;line-height:1.25;margin:4px 0 5px}
+.fresh-header small,.archive-head small{font-size:10px;font-weight:850;color:#77f0cf;letter-spacing:1px}
+.fresh-header p,.archive-head p{font-size:12px;color:#b2c5d9;max-width:580px;margin:3px 0 0}
+.fresh-header>a{border:1px solid #3c8b98;border-radius:10px;padding:9px 13px;text-decoration:none;background:#1b4559;font-size:12px;font-weight:800;color:#c3fff6}
+.fresh-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:11px;margin-top:16px}
+.fresh-card{display:flex;align-items:center;gap:11px;min-width:0;text-decoration:none;background:#122c40;border:1px solid #2e506c;border-radius:13px;padding:10px;color:#f4fbff}
+.fresh-card:hover{background:#19405c;border-color:#5ac1c2}
+.fresh-card img{width:78px;height:79px;object-fit:cover;border-radius:9px;flex-shrink:0}
+.fresh-card span{display:flex;flex-direction:column;min-width:0;gap:5px}
+.fresh-card small{font-size:10px;color:#83e0cf}
+.fresh-card strong{font-size:12px;line-height:1.4;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.fresh-card em{font-style:normal;font-size:10px;color:#a6bcd4}
+.fresh-footer{margin-top:13px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:7px;color:#9fbed0;font-size:10px}
+#archiveTotal{font-size:11px;padding:7px 10px;border-radius:20px;background:#193b4b;border:1px solid #33717e;color:#a5fae4}
+.archive-filters{display:grid;grid-template-columns:minmax(130px,1fr) minmax(190px,2fr) minmax(130px,1fr) auto;align-items:end;gap:10px;margin:18px 0 12px}
+.archive-filters label{display:grid;gap:5px;color:#b4cce0;font-size:11px;font-weight:750}
+.archive-filters select,.archive-filters input,.archive-filters button{width:100%;min-height:42px;border:1px solid #42617c;background:#101f32;color:#f3f9ff;border-radius:9px;padding:8px 10px}
+.archive-filters button{background:#1c5660;font-weight:850;white-space:nowrap}
+.archive-status{font-size:11px;color:#9cbbc9;min-height:20px}
+.archive-feed{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.archive-card{background:#12283b;border:1px solid #2d506b;border-radius:12px;padding:13px;min-width:0}
+.archive-card small{color:#80dcc8;font-size:10px}
+.archive-card h3{font-size:14px;line-height:1.45;margin:7px 0}
+.archive-card p{font-size:11px;color:#aec5d6;margin:0 0 10px;line-height:1.55}
+.archive-card a{font-size:11px;color:#94d9ff;text-decoration:none;font-weight:800}
+.archive-card a:hover{text-decoration:underline}
+@media(max-width:980px){.fresh-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.archive-filters{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.fresh-section,.archive-section{padding:13px;margin:13px 0 20px}.fresh-grid,.archive-feed,.archive-filters{grid-template-columns:1fr}.fresh-header h2,.archive-head h2{font-size:19px}.fresh-card img{width:70px;height:70px}.fresh-card strong{font-size:12px}}
 </style>
 </head>
 <body>
@@ -404,6 +436,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
       <a class="side-link active" href="#overview" data-nav="overview"><span class="side-link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/></svg></span><span>Visão geral</span><span class="side-chevron">›</span></a>
       <a class="side-link" href="#radar" data-nav="radar"><span class="side-link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.4" fill="currentColor"/><path d="M12 12l6-6"/></svg></span><span>Radar Mundial</span><span class="side-chevron">›</span></a>
       <a class="side-link curation-nav-link" href="#curadoria" data-nav="curadoria"><span class="side-link-icon" aria-hidden="true">🌍</span><span>Alertas do ChatGPT</span><span class="side-chevron">›</span></a>
+       <a class="side-link" href="#historico" data-nav="historico"><span class="side-link-icon" aria-hidden="true">🗂️</span><span>Histórico de notícias</span><span class="side-chevron">›</span></a>
        <a class="side-link" href="#news" data-nav="news"><span class="side-link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8M8 16h5"/></svg></span><span>Últimas notícias</span><span class="side-chevron">›</span></a>
       <a class="side-link" href="#sources" data-nav="sources"><span class="side-link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 6v6l4 2M8 19h8"/></svg></span><span>Fontes e atualizações</span><span class="side-chevron">›</span></a>
       <a class="side-link" href="#banner" data-nav="banner"><span class="side-link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M10.3 3.9L2.2 18a2 2 0 001.7 3h16.2a2 2 0 001.7-3L13.7 3.9a2 2 0 00-3.4 0Z"/><path d="M12 9v4M12 17h.01"/></svg></span><span>Alertas de risco</span><span class="side-chevron">›</span></a>
@@ -430,7 +463,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     <ul id="bannerList"></ul>
   </section>
 
-<section class="hero" aria-label="Radar Mundial"><div class="hero-copy"><div class="hero-label"><span class="dot"></span> INTELIGÊNCIA DE NOTÍCIAS · RADAR MUNDIAL</div><h2>O mundo não para.<br><em>Você acompanha.</em></h2><p>Notícias globais, riscos e acontecimentos importantes em um só lugar. Entenda o que acontece no mundo, direto das fontes originais.</p><div class="hero-cta"><a href="#radar">Explorar destaques ↗</a><a href="#curadoria" class="hero-curation-link">🌍 Ver alertas do ChatGPT</a></div></div></section><div class="status-text" id="statusText">Carregando notícias...</div>
+<section class="hero" aria-label="Radar Mundial"><div class="hero-copy"><div class="hero-label"><span class="dot"></span> INTELIGÊNCIA DE NOTÍCIAS · RADAR MUNDIAL</div><h2>O mundo não para.<br><em>Você acompanha.</em></h2><p>Notícias globais, riscos e acontecimentos importantes em um só lugar. Entenda o que acontece no mundo, direto das fontes originais.</p><div class="hero-cta"><a href="#agora">🟢 Notícias novas</a><a href="#historico" class="hero-curation-link">🗂️ Ver histórico</a><a href="#curadoria" class="hero-curation-link">🌍 Alertas do ChatGPT</a></div></div></section><div class="status-text" id="statusText">Carregando notícias...</div>
   <div class="offline-note" id="offlineNotice" hidden role="status">📡 Sem internet. Exibindo as últimas notícias disponíveis no dispositivo, se houver.</div>
   <section class="levels" aria-label="Filtrar notícias por nível de gravidade">
     <button type="button" class="level crit" data-sev="crit" aria-pressed="false" aria-label="Ver notícias do nível crítico"><strong id="cCrit">0</strong><span>Crítico</span></button>
@@ -439,7 +472,12 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     <button type="button" class="level low" data-sev="low" aria-pressed="false" aria-label="Ver notícias do nível informativo"><strong id="cLow">0</strong><span>Informativo</span></button>
   </section>
 
-  <section class="curation-preview" aria-label="Último alerta mundial publicado pelo ChatGPT">
+  <section class="fresh-section" id="agora" aria-label="Últimas notícias publicadas">
+  <div class="fresh-header"><div><small>🟢 ATUALIZAÇÃO CONTÍNUA</small><h2>Acabaram de sair</h2><p>Notícias mais recentes dos veículos monitorados, sem aguardar a seleção editorial.</p></div><a href="#news">Ver todas ↗</a></div>
+  <div class="fresh-grid" id="freshFeed"><p>Consultando as notícias recentes...</p></div>
+  <div class="fresh-footer"><span id="freshCount">Aguardando primeira consulta</span><span>Consulta a cada 1 minuto · RSS programado a cada 5 minutos</span></div>
+</section>
+<section class="curation-preview" aria-label="Último alerta mundial publicado pelo ChatGPT">
     <div class="curation-preview-top"><strong>🌍 RADAR MUNDIAL · CHATGPT</strong><span id="curationPreviewCount">Carregando alertas...</span></div>
     <a href="#curadoria" class="curation-preview-link" aria-label="Abrir as notícias do ChatGPT">
       <span id="curationPreviewHeadline">Consultando últimos alertas enviados...</span><span aria-hidden="true">Ver todos ↗</span>
@@ -472,7 +510,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     <details class="sources-details"><summary>Ver situação por fonte</summary><a class="curation-source-in-list" href="#curadoria">🌍 <strong>Radar Mundial — Seleção do ChatGPT</strong> · <span id="curationSourceCount">Carregando...</span> · Ver alertas ↗</a><div id="sourcesList" class="sources-list"><p>Carregando informações...</p></div></details>
     <p class="sources-disclaimer">O horário de checagem não garante que o jornal publicou uma matéria nova. Notícias são classificadas automaticamente e devem ser verificadas na fonte original.</p>
   </section>
-  <div class="section-header" id="news"><div><div class="eyebrow">Central de informação</div><h2>Notícias de impacto mundial</h2><p>Notícias internacionais com títulos em português, filtros por assunto e país. Resumos ainda não traduzidos são sinalizados.</p></div></div>
+  <div class="section-header" id="news"><div><div class="eyebrow">Central de informação</div><h2>🟢 Todas as notícias recentes</h2><p>As manchetes mais novas aparecem primeiro. Filtre por tema ou consulte notícias antigas no <a href="#historico">histórico pesquisável</a>.</p></div></div>
   <div class="toolbar">
     <input id="search" type="search" placeholder="Buscar por palavra-chave, país ou tema…">
     <select id="cat">
@@ -496,6 +534,20 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   <div class="filter-result" id="filterResult" role="status" aria-live="polite" hidden><span id="filterSummary"></span><button type="button" id="clearSeverity">Ver todas as notícias</button></div>
   <div id="feed"></div>
   <div class="feed-pager" id="feedPager" hidden><span id="feedProgress"></span><button id="showMoreNews" type="button">Mostrar mais notícias ↓</button></div>
+  <section class="archive-section" id="historico" aria-label="Arquivo mensal de notícias já publicadas">
+    <div class="archive-head"><div><small>🗂️ ACERVO DO ALERTA GLOBAL</small><h2>Histórico de notícias</h2><p>Leia matérias antigas sem perder as notícias novas da página principal. Arquivo salvo por mês, com acesso à fonte original.</p></div><span id="archiveTotal">Carregando acervo...</span></div>
+    <div class="archive-filters">
+      <label>Mês<select id="archiveMonth" aria-label="Selecionar mês do histórico"><option value="">Carregando meses...</option></select></label>
+      <label>Buscar notícia<input id="archiveSearch" type="search" placeholder="Assunto, país ou fonte..." aria-label="Pesquisar notícias antigas"></label>
+      <label>Categoria<select id="archiveCategory" aria-label="Categoria do histórico">
+        <option value="">Todas as categorias</option><option>Conflitos</option><option>Saúde</option><option>Clima e desastres</option><option>Segurança cibernética</option><option>Economia</option><option>Tecnologia</option><option>Geral</option>
+      </select></label>
+      <button type="button" id="archiveReload">↻ Atualizar</button>
+    </div>
+    <p class="archive-status" id="archiveStatus" role="status" aria-live="polite">Aguardando histórico...</p>
+    <div id="archiveFeed" class="archive-feed"><div class="empty">Selecionando matérias arquivadas...</div></div>
+    <div class="feed-pager"><button type="button" id="archiveMore" hidden>Mostrar mais notícias antigas ↓</button></div>
+  </section>
 
   <section class="settings" id="settings">
     <strong>Configurações</strong>
@@ -544,6 +596,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     <a href="#radar" data-mobile-nav="radar"><span>◎</span> Radar Mundial <b>›</b></a>
      <a href="#curadoria" data-mobile-nav="curadoria"><span>🌍</span> Alertas do ChatGPT <b>›</b></a>
     <a href="#news" data-mobile-nav="news"><span>▤</span> Notícias internacionais <b>›</b></a>
+    <a href="#historico" data-mobile-nav="historico"><span>🗂️</span> Histórico de notícias <b>›</b></a>
     <a href="#sources" data-mobile-nav="sources"><span>◷</span> Fontes e atualizações <b>›</b></a>
   </nav>
   <div class="mobile-drawer-label">FERRAMENTAS</div>
@@ -784,7 +837,12 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch { return d; } },
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
   };
-  let prefs = store.get("ag_prefs", { feedUrl: "", watch: "", interval: "1800000" });
+  let prefs = store.get("ag_prefs", { feedUrl: "", watch: "", interval: "60000" });
+  if (!store.get("ag_fast_refresh_v1", false)) {
+    prefs.interval = "60000";
+    store.set("ag_prefs", prefs);
+    store.set("ag_fast_refresh_v1", true);
+  }
   let items = [];
   let timer = null;
   let seenAlerts = new Set(store.get("ag_seen", []));
@@ -896,9 +954,9 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     setStatus("Atualizando notícias internacionais...", true);
     const sources = [];
     if (prefs.feedUrl) sources.push(["Feed personalizado", prefs.feedUrl]);
-    sources.push(["GitHub Pages", "./noticias.json?t=" + Date.now()]);
-    // Espelho público para quando o Pages estiver desatualizado.
+    // Preferir o arquivo mais recente da branch main; usar o Pages como alternativa.
     sources.push(["GitHub Raw", "https://raw.githubusercontent.com/ryderguedes154/alerta-global/main/noticias.json?t=" + Date.now()]);
+    sources.push(["GitHub Pages", "./noticias.json?t=" + Date.now()]);
     let data = [], source = "", failures = [];
     try {
       for (const [name,url] of sources) {
@@ -929,7 +987,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
       const waitingTranslation = rawItems.filter(x => !newsPtTitle(x)).length;
       items = rawItems.filter(x => newsPtTitle(x))
         .map(x => ({...x, sev:x.forcedSev || classify(x), ts:Date.parse(x.date) || 0}))
-        .sort((x,y) => ORDER[x.sev] - ORDER[y.sev] || y.ts - x.ts);
+        .sort((x,y) => y.ts - x.ts || ORDER[x.sev] - ORDER[y.sev]);
       if (items.length) {
         if (source !== "Última consulta salva") store.set("ag_last_good_news", data.slice(0,500));
         setStatus(items.length + " notícias em português disponíveis · " + source +
@@ -940,6 +998,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
           "Sem notícias no momento. Toque em Atualizar. " + failures.slice(0,2).join(" | "), false);
       }
       render();
+      renderFresh();
       renderRadar();
       populateQuakeLocations();
       checkAlerts();
@@ -1014,6 +1073,31 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   function setStatus(text, live) {
     document.getElementById("statusText").textContent = text;
     document.getElementById("liveDot").className = "dot" + (live ? "" : " off");
+  }
+
+  // Painel de novidades independente dos destaques por gravidade.
+  function renderFresh() {
+    const target = document.getElementById("freshFeed");
+    const count = document.getElementById("freshCount");
+    if (!target || !count) return;
+    const recent = items.filter(i => i.ts && i.url && i.url !== "#" &&
+      Date.now() - i.ts < 6 * 3600000 && i.ts < Date.now() + 10 * 60000);
+    const sample = (recent.length ? recent : items).slice(0, 9);
+    count.textContent = recent.length
+      ? recent.length + " notícias disponíveis das últimas 6 horas"
+      : "Exibindo publicações recentes disponíveis";
+    target.innerHTML = sample.length ? sample.map(i => {
+      const photo = newsImage(i.image);
+      const stamp = i.ts ? new Date(i.ts).toLocaleString("pt-BR", {
+        timeZone: "America/Boa_Vista", hour:"2-digit", minute:"2-digit", day:"2-digit", month:"2-digit"
+      }) : "Horário não informado";
+      return '<a class="fresh-card" href="' + esc(i.url) +
+        '" target="_blank" rel="noopener noreferrer">' +
+        (photo ? '<img src="' + esc(photo) + '" alt="" loading="lazy" onerror="this.remove()">' : "") +
+        '<span><small>🕒 ' + esc(stamp) + ' · ' + esc(i.source || "") + '</small><strong>' +
+        esc(newsPtTitle(i)) + '</strong><em>' + esc(i.category || "Geral") +
+        ' · Abrir notícia ↗</em></span></a>';
+    }).join("") : '<p>Sem notícias recentes nesta consulta. A próxima verificação é automática.</p>';
   }
 
   // ---------- Renderização ----------
@@ -1167,7 +1251,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 
   function render() {
     const counts = { crit: 0, high: 0, med: 0, low: 0 };
-    items.filter(i => importanceScore(i) >= 3).forEach(i => counts[i.sev]++);
+    items.forEach(i => counts[i.sev]++);
     document.getElementById("cCrit").textContent = counts.crit;
     document.getElementById("cHigh").textContent = counts.high;
     document.getElementById("cMed").textContent = counts.med;
@@ -1177,7 +1261,6 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     const cat = document.getElementById("cat").value;
     const severity = document.getElementById("sev").value;
     const list = items.filter(i => {
-      if (importanceScore(i) < 3) return false;
       if (cat && i.category !== cat) return false;
       if (severity && i.sev !== severity) return false;
       if (q && !norm([i.title, i.title_pt, i.summary, i.summary_pt, i.region, i.category, i.source].join(" ")).includes(q)) return false;
@@ -1389,7 +1472,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   // Realce da aba atual na navegação e atalho de compartilhamento.
   function markSidebarActive() {
     const hash = location.hash.slice(1) || "overview";
-    const selected = ["overview","radar","curadoria","news","banner","sources"].includes(hash) ? hash : "overview";
+    const selected = ["overview","radar","curadoria","news","historico","banner","sources"].includes(hash) ? hash : "overview";
     document.querySelectorAll(".side-link[data-nav], [data-mobile-nav]").forEach(link => {
       const on = (link.dataset.nav || link.dataset.mobileNav) === selected;
       link.classList.toggle("active", on);
@@ -1651,7 +1734,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   function setupTimer() {
     if (timer) clearInterval(timer);
     const ms = Number(prefs.interval) || 0;
-    if (ms > 0) timer = setInterval(load, ms);
+    if (ms > 0) timer = setInterval(() => { if (!document.hidden) load(); }, ms);
   }
 
   setupTimer();
@@ -1661,8 +1744,9 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   // O GitHub coleta periodicamente; consultar a cada cinco minutos apenas lê o JSON.
   setInterval(loadEditorial, 5 * 60 * 1000);
   setInterval(loadCuration, 5 * 60 * 1000);
+  loadArchiveIndex();
   document.addEventListener("visibilitychange", () => {
-    if (document.visibilityState === "visible") { loadEditorial(); loadCuration(); }
+    if (document.visibilityState === "visible") { load(); loadEditorial(); loadCuration(); }
   });
   load();
 })();
