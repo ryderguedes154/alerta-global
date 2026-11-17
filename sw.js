@@ -1,8 +1,8 @@
 /* Alerta Global — Service Worker: cache de interface e últimas notícias. */
-const VERSION = "ag-v21-20261117-fontes-ampliadas";
+const VERSION = "ag-v22-20261117-nova-logo-desktop-mobile";
 const SHELL = "alerta-shell-" + VERSION;
 const DATA = "alerta-dados-" + VERSION;
-const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/alerta-global.svg"];
+const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./portal-claro.css", "./icons/logo-alerta-global-horizontal.svg", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/alerta-global.svg"];
 const ROOT = new URL("./", self.registration.scope);
 const NEWS = new URL("noticias.json", ROOT).href;
 const SOURCES = new URL("status_fontes.json", ROOT).href;
