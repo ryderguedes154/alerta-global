@@ -353,6 +353,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 .editorial-section{margin:24px 0 34px}
 .editorial-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px}
 .editorial-card{background:linear-gradient(145deg,#192a42,#101b2b);border:1px solid #344964;border-radius:17px;padding:19px;display:flex;flex-direction:column;gap:10px}
+.editorial-update{margin:0 0 13px;color:#a3bad1;font-size:11px}.editorial-cover{width:100%;height:155px;object-fit:cover;border-radius:11px;background:#19304b;border:1px solid #334c65}
 .editorial-card .editorial-meta{font-size:10px;color:#86e5cf;font-weight:800;letter-spacing:.5px}
 .editorial-card h3{font-size:17px;line-height:1.35;letter-spacing:-.3px;margin:0}
 .editorial-card p{font-size:12px;line-height:1.6;color:#b8c9db;margin:0}
@@ -419,6 +420,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 
   <section class="editorial-section" id="editorial" aria-label="Destaques selecionados do Radar Mundial">
     <div class="section-header"><div><div class="eyebrow">Seleção do Radar Mundial</div><h2>📰 Notícias em destaque</h2><p>Resumo em português, impacto para o Brasil e acesso à fonte original. Seleção complementar à atualização automática.</p></div></div>
+    <p class="editorial-update" id="editorialUpdate" aria-live="polite">🔄 Buscando destaques atuais…</p>
     <div id="editorialFeed" class="editorial-grid"><div class="empty">Carregando destaques...</div></div>
   </section>
   <section id="sources" class="sources-panel" aria-label="Fontes de notícias">
@@ -572,8 +574,10 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
         if (!Array.isArray(data.items) || !data.items.length) continue;
         const stories = data.items.filter(i => i.title && i.url && /^https:\/\//.test(i.url));
         if (!stories.length) continue;
+        document.getElementById("editorialUpdate").textContent = "🔄 Seleção "+(data.edition || "atual")+" · atualizada automaticamente pelo coletor do GitHub a cada 30 minutos (quando há novas matérias)";
         target.innerHTML = stories.map(i => `
           <article class="editorial-card">
+            ${newsImage(i.image) ? `<img class="editorial-cover" src="${esc(newsImage(i.image))}" alt="Imagem vinculada à matéria na fonte ${esc(i.source)}" loading="lazy" onerror="this.remove()">` : ""}
             <div class="editorial-meta">🌍 ${esc(i.region || "Mundo")} · ${esc(i.published_on || "")} · ${esc(i.source || "")}</div>
             <h3>${esc(i.title)}</h3>
             <p>${esc(i.summary)}</p>
