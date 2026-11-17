@@ -2,9 +2,24 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-17T05:42:47Z",
+  "updated_at": "2026-11-17T06:52:38Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Japão denuncia violação de seu espaço aéreo por duas aeronaves suspeitas de serem russas",
+      "summary": "O Ministério da Defesa japonês informou que duas aeronaves consideradas provavelmente russas entraram no espaço aéreo do Japão perto da ilha de Okinoshima, em Fukuoka, na madrugada de 17 de novembro (horário japonês). Caças japoneses decolaram para adverti-las, e Tóquio apresentou protesto diplomático a Moscou. A violação e a reação japonesa são confirmadas pelo governo do Japão; a identificação russa das aeronaves ainda é tratada como provável.",
+      "impact_br": "Não há impacto direto confirmado no Brasil. Uma escalada de tensões na Ásia pode afetar a confiança dos mercados e cadeias internacionais de comércio.",
+      "category": "Geopolítica e segurança",
+      "region": "Japão / Rússia / Ásia Oriental",
+      "country": "JP",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/tokyo-lodges-protest-after-aircraft-believed-be-russian-violate-japan-airspace-2026-11-17/",
+      "published_on": "2026-11-17",
+      "published_at": "2026-11-16T22:35:00-04:00",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial"
+    },
     {
       "title": "Cargueiro com trigo afunda no Mar Negro perto da Bulgária; 12 tripulantes são resgatados",
       "summary": "O cargueiro Betul 8, que transportava cerca de 3 mil toneladas de trigo da Romênia ao Egito, afundou em águas próximas à Bulgária em 16 de novembro. Os 12 tripulantes foram resgatados. Fontes de segurança marítima e tripulantes relatam ataque por drones navais, mas as autoridades ainda não confirmaram a autoria. O episódio aumenta o risco à navegação e ao comércio de grãos no Mar Negro.",
