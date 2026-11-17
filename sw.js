@@ -1,5 +1,5 @@
 /* Alerta Global — Service Worker: cache de interface e últimas notícias. */
-const VERSION = "ag-v7-20261117-alerta-topo";
+const VERSION = "ag-v8-20261117-mobile-unificado";
 const SHELL = "alerta-shell-" + VERSION;
 const DATA = "alerta-dados-" + VERSION;
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/alerta-global.svg"];
