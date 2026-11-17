@@ -716,6 +716,18 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     return native ? localizeQuakeTitle(article.title_pt || article.title || "") :
       String(article.title_pt || "").trim();
   }
+  function regionInPortuguese(article) {
+    if (article?.source === "USGS") {
+      return localizeQuakeTitle(article.region || "Local não informado");
+    }
+    const raw = String(article?.region || "Global");
+    const translations = {
+      "United States":"Estados Unidos", "United Kingdom":"Reino Unido",
+      "China":"China", "Russia":"Rússia", "Ukraine":"Ucrânia",
+      "South Africa":"África do Sul", "Global":"Global"
+    };
+    return translations[raw] || raw;
+  }
   function newsPtSummary(article) {
     if (!article) return "";
     if (article.lang === "pt" || article.lang === "pt-BR" || article.source === "USGS")
@@ -1170,7 +1182,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
           ${flagHtml(i.country)} <span class="country">${esc(countryName(i.country))}</span>
           <span class="tag sev-${i.sev}">${LABEL[i.sev]}</span>
           <span class="tag">${esc(i.category || "Geral")}</span>
-          <span>${esc(i.region || "Global")}</span>
+          <span>${esc(regionInPortuguese(i))}</span>
           <span>· ${esc(i.source || "")}</span>
           <span>· ${i.ts ? new Date(i.ts).toLocaleString("pt-BR") : ""}</span>
         </div>
@@ -1249,8 +1261,8 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
       banner.classList.add("show");
       list.innerHTML = critical.slice(0,6).map(i =>
         '<li><strong>' + LABEL[i.sev] + ':</strong> ' +
-        esc(i.title_pt || i.title) + ' <em style="color:var(--muted)">(' +
-        esc(i.region || "Global") + ')</em></li>').join("");
+        esc(newsPtTitle(i)) + ' <em style="color:var(--muted)">(' +
+        esc(regionInPortuguese(i)) + ')</em></li>').join("");
     } else {
       banner.classList.remove("show");
     }
