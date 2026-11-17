@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-17T15:52:35.071Z",
+  "updated_at": "2026-11-17T16:12:47.577Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "OMS e ONU alertam para riscos globais de substâncias que interferem nos hormônios",
+      "summary": "Relatório conjunto da OMS e do Programa das Nações Unidas para o Meio Ambiente, divulgado em 17 de novembro, reúne evidências mais fortes de danos à saúde associados à exposição a substâncias desreguladoras endócrinas presentes em alguns plásticos, cosméticos e pesticidas. A exposição pode começar antes do nascimento e afetar desenvolvimento cerebral, fertilidade e metabolismo. Mais de 350 mil substâncias e misturas estão registradas no mundo, mas apenas uma pequena parcela foi avaliada quanto a esses efeitos. Os órgãos recomendam testes, monitoramento e regras mais rigorosas; os riscos variam conforme a substância e a exposição.",
+      "impact_br": "O alerta também é relevante para o Brasil, especialmente na avaliação e fiscalização de produtos de consumo, embalagens e agrotóxicos. Não foi anunciada uma nova restrição brasileira decorrente do relatório.",
+      "category": "saude_publica",
+      "region": "Global",
+      "country": "GLOBAL",
+      "source": "Organização Mundial da Saúde (OMS) e PNUMA",
+      "url": "https://www.who.int/news/item/17-11-2026-evidence-mounts-that-exposure-to-hormone-disrupting-chemicals-starts-before-birth--unep-who-report",
+      "published_on": "2026-11-17",
+      "published_at": "",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-17T16:12:47.577Z"
+    },
     {
       "title": "China e Canadá ampliam acordo comercial e reduzem tarifas em meio a tensões com os EUA",
       "summary": "Em 17 de novembro, Xi Jinping e Mark Carney acertaram ampliar o alívio tarifário bilateral: a China reduzirá tarifas sobre aproximadamente 400 milhões de dólares canadenses em exportações do Canadá, incluindo carne suína e pescados; o Canadá prolongará por dois anos isenções para determinados produtos chineses de aço e alumínio. O anúncio foi confirmado pelo governo canadense e pela Reuters.",
