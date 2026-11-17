@@ -2,7 +2,7 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-17T14:07:36.707Z",
+  "updated_at": "2026-11-17T14:32:16.016577Z",
   "timezone": "America/Boa_Vista",
   "items": [
     {
@@ -15,21 +15,6 @@
       "source": "Centro Europeu de Prevenção e Controle de Doenças (ECDC)",
       "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-11-16",
       "published_on": "2026-11-16",
-      "published_at": "",
-      "image": "",
-      "curation_source": "Radar Mundial — Seleção do ChatGPT",
-      "selection": "chatgpt_editorial"
-    },
-    {
-      "title": "Novo ataque ucraniano danifica gravemente ponte de Kerch e interrompe tráfego rodoviário para a Crimeia",
-      "summary": "Após novo ataque na noite de 16 para 17 de novembro, autoridades russas confirmaram a suspensão do tráfego na ponte que liga a Rússia à Crimeia ocupada. A Ucrânia afirma que um arco e parte da via rodoviária desabaram. Imagens indicam danos graves, mas a extensão do colapso não foi verificada de forma independente pela Reuters. A Rússia também atacou pontes e infraestrutura em Kyiv.",
-      "impact_br": "Sem efeito direto confirmado no Brasil. A escalada pode aumentar a volatilidade do petróleo, de fretes e dos mercados internacionais caso comprometa rotas logísticas e prolongue o conflito.",
-      "category": "Guerras e diplomacia",
-      "region": "Rússia, Ucrânia e Mar Negro",
-      "country": "UA",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/",
-      "published_on": "2026-11-17",
       "published_at": "",
       "image": "",
       "curation_source": "Radar Mundial — Seleção do ChatGPT",
@@ -61,21 +46,6 @@
       "url": "https://sudan.un.org/en/326318-un-report-details-deadly-civilian-impact-surge-drone-strikes",
       "published_on": "2026-11-17",
       "published_at": "2026-11-17T06:42:00-04:00",
-      "image": "",
-      "curation_source": "Radar Mundial — Seleção do ChatGPT",
-      "selection": "chatgpt_editorial"
-    },
-    {
-      "title": "Petroleiro sofre segundo ataque no Estreito de Hormuz; situação da tripulação é desconhecida",
-      "summary": "A agência marítima britânica UKMTO informou em 17 de novembro que um petroleiro, atingido inicialmente em 16 de novembro perto de Khasab, em Omã, sofreu um segundo ataque e pegou fogo. A tripulação, antes relatada como segura, está agora sem contato confirmado. A autoria e a extensão dos danos permanecem desconhecidas.",
-      "impact_br": "Novas interrupções no Estreito de Hormuz podem pressionar preços internacionais de petróleo, fretes e combustíveis; não há efeito adicional confirmado no Brasil.",
-      "category": "Conflitos e energia",
-      "region": "Estreito de Hormuz / Omã / Oriente Médio",
-      "country": "OM",
-      "source": "Reuters (com informações da UKMTO)",
-      "url": "https://www.reuters.com/world/middle-east/crew-tanker-unaccounted-after-second-attack-north-omans-khasab-ukmto-says-2026-11-17/",
-      "published_on": "2026-11-17",
-      "published_at": "",
       "image": "",
       "curation_source": "Radar Mundial — Seleção do ChatGPT",
       "selection": "chatgpt_editorial"
@@ -260,5 +230,7 @@
       "selection": "chatgpt_editorial",
       "published_at": "16/11/2026"
     }
-  ]
+  ],
+  "retention_days": 15,
+  "retention_policy": "rolling_window"
 }

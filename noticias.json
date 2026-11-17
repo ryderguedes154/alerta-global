@@ -1,5 +1,47 @@
 [
   {
+    "title": "What in the World",
+    "summary": "Selena Gomez is the latest celebrity to speak about it",
+    "category": "Saúde",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct990p?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-17T14:30:00Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0g0gjs2.jpg",
+    "summary_pt": "Selena Gomez é a celebridade mais recente a falar sobre isso",
+    "title_pt": "Do que é que"
+  },
+  {
+    "title": "Arthur Fils - Rafa Jódar en directo, el partido de las ATP Finals en vivo | Jódar gana el primer set",
+    "summary": "El tenista madrileño necesita una victoria para mantener vivas sus opciones de acceder a las semifinales después de caer ante Zverev en su estreno",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/tenis/2026-11-17/arthur-fils-rafa-jodar-en-directo-el-partido-de-las-atp-finals-en-vivo.html",
+    "date": "2026-11-17T14:29:25Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/SDMKVUKSRZHSBK2LTRQY3WPQAY.JPG?auth=b6b877a405f0bcea9e087a3483b4a626ed34865e2a14622001d347731723707f",
+    "summary_pt": "O tenista madrilenho precisa de uma vitória para manter vivas suas chances de chegar às semifinais depois de perder para Zverev em sua estreia.",
+    "title_pt": "Arthur Fils - Rafa Jódar ao vivo, a partida das ATP Finals ao vivo | Jódar vence o primeiro set"
+  },
+  {
+    "title": "A Visual Tour of President Trump’s Visits to Asia",
+    "summary": "President Trump landed in the Philippines on the first stop of a 48-hour Asia trip during which he is expected to meet with leaders including the presidents of Russia and China.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
+    "date": "2026-11-17T14:26:17Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-trump-asia-visual-stack-01-lkgb/17int-trump-asia-visual-stack-01-lkgb-mediumSquareAt3X.jpg",
+    "title_pt": "Um tour visual das visitas do presidente Trump à Ásia",
+    "summary_pt": "O presidente Trump pousou nas Filipinas na primeira parada de uma viagem de 48 horas pela Ásia, durante a qual ele deve se encontrar com líderes, incluindo os presidentes da Rússia e da China."
+  },
+  {
     "title": "How new US chip restrictions on South East Asia will hit China",
     "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
     "category": "Geral",
@@ -14,18 +56,18 @@
     "summary_pt": "As novas regras restringem as exportações de chips e também o acesso ao seu poder de computação, do qual a China depende muito."
   },
   {
-    "title": "Arthur Fils-Rafa Jódar en directo, el partido de las ATP Finals en vivo | Jódar gana el primer set",
-    "summary": "El tenista madrileño necesita una victoria para mantener vivas sus opciones de acceder a las semifinales después de caer ante Zverev en su estreno",
+    "title": "Ocho años de prisión para un entrenador de rugby por abuso sexual a 10 menores",
+    "summary": "El acusado admite los hechos en virtud del acuerdo de conformidad alcanzado entre las acusaciones particulares, la defensa y la Fiscalía",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
     "source": "El País",
-    "url": "https://elpais.com/deportes/tenis/2026-11-17/arthur-fils-rafa-jodar-en-directo-el-partido-de-las-atp-finals-en-vivo.html",
-    "date": "2026-11-17T14:25:25Z",
+    "url": "https://elpais.com/espana/madrid/2026-11-17/ocho-anos-de-prision-para-un-entrenador-de-rugby-por-abuso-sexual-a-10-menores.html",
+    "date": "2026-11-17T14:25:22Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/SDMKVUKSRZHSBK2LTRQY3WPQAY.JPG?auth=b6b877a405f0bcea9e087a3483b4a626ed34865e2a14622001d347731723707f",
-    "title_pt": "Arthur Fils-Rafa Jódar ao vivo, a partida das ATP Finals ao vivo | Jódar vence o primeiro set",
-    "summary_pt": "O tenista madrilenho precisa de uma vitória para manter vivas suas chances de chegar às semifinais depois de perder para Zverev em sua estreia"
+    "image": "https://imagenes.elpais.com/resizer/v2/OCBDWGRJ55C3NISUA55V5RET5I.jpg?auth=a1b4d603c61089c732b9727e87dfadc14ec585caeb5abec101472280e4f1b32e",
+    "title_pt": "Oito anos de prisão para um treinador de rúgbi por abuso sexual de 10 menores",
+    "summary_pt": "O réu admite os fatos em virtude do acordo de conformidade celebrado entre as acusações privadas, a defesa e o Ministério Público"
   },
   {
     "title": "APEC summit: What Trump, Xi and Putin want",
@@ -56,8 +98,22 @@
     "summary_pt": "2027 pode ser um ano marcante para o comércio entre a UE e o Sudeste Asiático, com vários acordos prestes a serem concluídos. Mas a tarefa mais difícil será garantir que as empresas realmente os usem."
   },
   {
+    "title": "‘Half measures will not do’: Milburn calls for wholesale reform as he publishes major youth unemployment report – live",
+    "summary": "‘We are failing as a nation to gift young people, the next generation, the opportunities they need to succeed,’ Alan Milburn says Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report? This chart, from the Milburn report, shows what is likely to happen to the Neet rate, with or without the Milburn policies. The Alan Milbur",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+    "date": "2026-11-17T14:18:21Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/7902cdb79f148d1d0391151d406f13d8457d1446/541_134_3999_3200/master/3999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=eb752354506340f9d8e3f2056f55b7aa",
+    "title_pt": "\"Meias-medidas não vão adiantar\": Milburn pede uma reforma completa ao publicar um importante relatório sobre o desemprego juvenil – ao vivo",
+    "summary_pt": "\"Estamos falhando como nação em oferecer aos jovens, a próxima geração, as oportunidades de que precisam para ter sucesso\", diz Alan Milburn. Matéria completa: Milburn diz que o plano economizará apenas £ 200 milhões por ano. Explicação: o que há no relatório? Este gráfico, do relatório de Milburn, mostra o que provavelmente acontecerá com a taxa de NEETs, com ou sem as políticas de Milburn. Alan Milburn"
+  },
+  {
     "title": "Forte turbulência em voo para os EUA deixa feridos",
-    "summary": "Uma forte turbulência deixou vários feridos em um voo que saiu de Porto Rico com destino a Fort Laurderdale, na Flórida, sul dos Estados Unidos, nesta terça-feira (17).",
+    "summary": "Agora no g1 Uma forte turbulência deixou vários feridos em um voo da empresa aérea JetBlue, que saiu de Porto Rico com destino a Fort Lauderdale, na Flórida, sul dos Estados Unidos, nesta terça-feira (17). Segundo o Corpo de Bombeiros, cinco pessoas tiveram ferimentos ou precisaram de atendimento médico quando o avião aterrissou no aeroporto, por volta das 7",
     "category": "Geral",
     "region": "Global",
     "country": "BR",
@@ -65,65 +121,9 @@
     "url": "https://g1.globo.com/mundo/noticia/2026/11/17/forte-turbulencia-em-voo-para-os-eua-deixa-feridos.ghtml",
     "date": "2026-11-17T14:17:35Z",
     "lang": "pt",
-    "image": "https://g1.globo.com/mundo/noticia/2026/11/17/None",
+    "image": "https://s2-g1.glbimg.com/JJHFA4U2m4VWquUSIOkbghyG4_w=/s.glbimg.com/jo/g1/f/original/2016/08/25/2016-08-12t114156z_1417368412_s1betuzuqmab_rtrmadp_3_usa-jetblue-turbulencefre.jpg",
     "title_pt": "Forte turbulência em voo para os EUA deixa feridos",
-    "summary_pt": "Uma forte turbulência deixou vários feridos em um voo que saiu de Porto Rico com destino a Fort Laurderdale, na Flórida, sul dos Estados Unidos, nesta terça-feira (17)."
-  },
-  {
-    "title": "Presidente do TCU atribui CBS em 11,3% às exceções da reforma tributária",
-    "summary": "Vital do Rêgo Filho participou de audiência pública na CAE do Senado nesta terça-feira (17) para discutir o cálculo da alíquota de referência da CBS",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/presidente-do-tcu-atribui-cbs-em-113-as-excecoes-da-reforma-tributaria/",
-    "date": "2026-11-17T14:16:07Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/07/FTA20240719059.jpg?w=200",
-    "title_pt": "Presidente do TCU atribui CBS em 11,3% às exceções da reforma tributária",
-    "summary_pt": "Vital do Rêgo Filho participou de audiência pública na CAE do Senado nesta terça-feira (17) para discutir o cálculo da alíquota de referência da CBS"
-  },
-  {
-    "title": "Cacique Raoni deixa a UTI após quadro de infecção pulmonar",
-    "summary": "A informação foi confirmada pela assessoria de imprensa do líder indígena nesta terça-feira (17); em setembro, ele foi diagnosticado com câncer no aparelho digestório",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/cacique-raoni-deixa-a-uti-apos-quadro-de-infeccao-pulmonar/",
-    "date": "2026-11-17T14:15:59Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/caci-raoni-foto-instituto-raoni.jpg?w=200",
-    "title_pt": "Cacique Raoni deixa a UTI após quadro de infecção pulmonar",
-    "summary_pt": "A informação foi confirmada pela assessoria de imprensa do líder indígena nesta terça-feira (17); em setembro, ele foi diagnosticado com câncer no aparelho digestório"
-  },
-  {
-    "title": "Apagão mundial hoje? Entenda teoria que viraliza nas redes sociais",
-    "summary": "Rumor mistura alertas de governos tirados de contexto, conspirações e episódio dos Simpsons para prever 90 dias sem eletricidade no mundo",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/apagao-mundial-hoje-entenda-teoria-que-viraliza-nas-redes-sociais/",
-    "date": "2026-11-17T14:15:08Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Apagao-mundial-em-17-de-novembro-de-2026.jpg?w=200",
-    "title_pt": "Apagão mundial hoje? Entenda teoria que viraliza nas redes sociais",
-    "summary_pt": "Rumor mistura alertas de governos tirados de contexto, conspirações e episódio dos Simpsons para prever 90 dias sem eletricidade no mundo"
-  },
-  {
-    "title": "Mais de 1,5 metro de altura as separa, mas um chá da tarde provou que a mulher mais alta e a mais baixa do planeta têm os mesmos papos de beleza",
-    "summary": "Rumeysa Gelgi e Jyoti Amge dividiram uma tarde de chá em Londres e descobriram que têm muito mais em comum do que os recordes mundiais",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/mais-de-15-metro-de-altura-as-separa-mas-um-cha-da-tarde-provou-que-a-mulher-mais-alta-e-a-mais-baixa-do-planeta-tem-os-mesmos-papos-de-beleza/",
-    "date": "2026-11-17T14:15:05Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/%C2%A9-Samo-Vidic-_Red-Bull-Content-Pool-1.jpg?w=200",
-    "title_pt": "Mais de 1,5 metro de altura as separa, mas um chá da tarde provou que a mulher mais alta e a mais baixa do planeta têm os mesmos papos de beleza",
-    "summary_pt": "Rumeysa Gelgi e Jyoti Amge dividiram uma tarde de chá em Londres e descobriram que têm muito mais em comum do que os recordes mundiais"
+    "summary_pt": "Agora no g1 Uma forte turbulência deixou vários feridos em um voo da empresa aérea JetBlue, que saiu de Porto Rico com destino a Fort Lauderdale, na Flórida, sul dos Estados Unidos, nesta terça-feira (17). Segundo o Corpo de Bombeiros, cinco pessoas tiveram ferimentos ou precisaram de atendimento médico quando o avião aterrissou no aeroporto, por volta das 7"
   },
   {
     "title": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump",
@@ -154,20 +154,6 @@
     "summary_pt": "Presidente dos EUA afirmou que encontro depende do líder chinês Xi Jinping durante a cúpula da APEC em Shenzhen"
   },
   {
-    "title": "‘Half measures will not do’: Milburn calls for wholesale reform as he publishes major youth unemployment report – live",
-    "summary": "‘We are failing as a nation to gift young people, the next generation, the opportunities they need to succeed,’ Alan Milburn says Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report? This chart, from the Milburn report, shows what is likely to happen to the Neet rate, with or without the Milburn policies. The Alan Milbur",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-    "date": "2026-11-17T14:09:51Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/7902cdb79f148d1d0391151d406f13d8457d1446/541_134_3999_3200/master/3999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=eb752354506340f9d8e3f2056f55b7aa",
-    "title_pt": "\"Meias-medidas não vão adiantar\": Milburn pede uma reforma completa ao publicar um importante relatório sobre o desemprego juvenil – ao vivo",
-    "summary_pt": "\"Estamos falhando como nação em oferecer aos jovens, a próxima geração, as oportunidades de que precisam para ter sucesso\", diz Alan Milburn. Matéria completa: Milburn diz que o plano economizará apenas £ 200 milhões por ano. Explicação: o que há no relatório? Este gráfico, do relatório de Milburn, mostra o que provavelmente acontecerá com a taxa de NEETs, com ou sem as políticas de Milburn. Alan Milburn"
-  },
-  {
     "title": "Vini Júnior revela acordo com comissão após se irritar com substituição",
     "summary": "Atacante do Real Madrid marcou seu primeiro hat-trick pela Seleção Brasileira em goleada por 7 a 0 e projetou retorno das atividades em março",
     "category": "Geral",
@@ -182,18 +168,18 @@
     "summary_pt": "Atacante do Real Madrid marcou seu primeiro hat-trick pela Seleção Brasileira em goleada por 7 a 0 e projetou retorno das atividades em março"
   },
   {
-    "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
-    "summary": "Settler group also sanctioned for blocking Gaza aid as foreign secretary calls for 'protecting the two-state solution'.",
+    "title": "South Korea to check students after exam candidate used AI to cheat",
+    "summary": "South Korea to check students after exam candidate used AI to cheat Reuters",
     "category": "Geral",
     "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss",
-    "date": "2026-11-17T14:09:08Z",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNGE1NWg5RXYzeVZBS3VzUGptS2I4ODBKd1FaUjF1R0hpVHpXeEpkcFF2U1lpWU42QmZGYzZYZ2NZV05QRVVfXy04T1dpeGpKM0lXNmVnMHhOc05abFZ6NEZUYjIxTTFybk5zcFRUVWdmeHM4TGp5QV83OVZVVjE0cmtjY1RYbHJERVJLeDV2ZXdhTWR2SkRGYVVHQjFxLXkwalJMNGk0YnVwd1RIcnI3VDJwSDg1Q1VQRmM0RA?oc=5",
+    "date": "2026-11-17T14:07:40Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc4bc538-1794919365.jpg?resize=1920%2C1440",
-    "title_pt": "Reino Unido sanciona oito empresas de construção israelenses por assentamentos na Cisjordânia",
-    "summary_pt": "O grupo de colonos também foi sancionado por bloquear a ajuda a Gaza, enquanto o ministro das Relações Exteriores pede \"a proteção da solução de dois Estados\"."
+    "image": "",
+    "summary_pt": "Coreia do Sul vai verificar os alunos depois que um candidato usou IA para trapacear no exame Reuters",
+    "title_pt": "Coreia do Sul vai verificar os alunos depois que um candidato a exame usou IA para trapacear"
   },
   {
     "title": "French far-right candidate Le Pen vows to end Macron's pension reform if elected",
@@ -910,20 +896,6 @@
     "summary_pt": "Ator fez uma brincadeira dizendo que era o cozinheiro do passeio e que havia preparado o peixe que Bruna Marquezine aparece comendo no vídeo, mas o cantor acabou desmentindo a história"
   },
   {
-    "title": "A Visual Tour of President Trump’s Visits to Asia",
-    "summary": "President Trump landed in the Philippines on the first stop of a 48-hour Asia trip during which he is expected to meet with leaders including the presidents of Russia and China.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/asia/president-trump-visits-asia.html",
-    "date": "2026-11-17T13:19:10Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-trump-asia-visual-stack-01-lkgb/17int-trump-asia-visual-stack-01-lkgb-mediumSquareAt3X.jpg",
-    "title_pt": "Um tour visual das visitas do presidente Trump à Ásia",
-    "summary_pt": "O presidente Trump pousou nas Filipinas na primeira parada de uma viagem de 48 horas pela Ásia, durante a qual ele deve se encontrar com líderes, incluindo os presidentes da Rússia e da China."
-  },
-  {
     "title": "Congo's Ebola outbreak is spreading and killing at a record pace",
     "summary": "Congo's Ebola outbreak is spreading and killing at a record pace Reuters",
     "category": "Saúde",
@@ -1132,6 +1104,20 @@
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-france-leaders-01-gcvm/17int-france-leaders-01-gcvm-mediumSquareAt3X.jpg",
     "title_pt": "Eles são jovens, estão frustrados e querem que a França mude. Eles discordam sobre como.",
     "summary_pt": "Uma é uma líder estudantil de esquerda, a outra é uma jovem ativista de extrema-direita. Juntas, Soumaya Sarré e Louise Montangon refletem a polarização da França, onde mais protestos e greves ocorreram na terça-feira."
+  },
+  {
+    "title": "Sony defeats £2 billion UK claim over PlayStation Store pricing",
+    "summary": "Sony defeats £2 billion UK claim over PlayStation Store pricing Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3hMbWxfN3A3R0lvakk4Qk93Z0Iwbk5IYVhNTmhfMTNkSVlZLTdhLWVxaUFOdkFsSW04MmNHV01XelkwLWIzWGt1ZkpjdlJZSW5qWG1FMW5VX2JGM0lPcGFuVUN2M29hUU0wN3pIdzNQblR2YXZxYXc1VVNkRl9Rd3B4MGRVUk0tOExNbzIzZkhvRVRDYTJkOWlKM0tXXy1uaHQ2UDJGWQ?oc=5",
+    "date": "2026-11-17T13:06:45Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "Sony vence ação judicial de £ 2 bilhões no Reino Unido sobre os preços da PlayStation Store Reuters",
+    "title_pt": "Sony vence ação judicial de £ 2 bilhões no Reino Unido sobre os preços da PlayStation Store"
   },
   {
     "title": "Singer-songwriter Mélissa Laveaux: 'Women need more positions of power in the music industry'",
@@ -1719,8 +1705,8 @@
     "date": "2026-11-17T12:26:02Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/JEVD36ZKRBMVHK2MCVCYDMNDA4.jpg?auth=a959f8df236b16b530bd49673d18851f121f93faf2180c12725f84dbfa46f430",
-    "summary_pt": "Os magistrados acolheram um recurso do próprio Samuel Vázquez, que também é membro do Corpo Nacional de Polícia e apresentou a queixa inicial.",
-    "title_pt": "O Tribunal Superior de Madri ordena a reabertura do processo contra o diretor da Polícia por assédio ao porta-voz do Ministério do Interior do Vox"
+    "title_pt": "O Tribunal Superior de Madri ordena a reabertura do processo contra o diretor da Polícia por assédio ao porta-voz do Ministério do Interior do Vox",
+    "summary_pt": "Os magistrados acolheram um recurso do próprio Samuel Vázquez, que também é membro do Corpo Nacional de Polícia e apresentou a queixa inicial."
   },
   {
     "title": "Trump addresses Quad leaders at first summit since 2024",
@@ -2128,6 +2114,20 @@
     "summary_pt": "Acompanhe as atualizações da partida, incluindo a preparação, a análise e os comentários em texto."
   },
   {
+    "title": "Ministros acreditam que discussão sobre código de ética ficará para 2027",
+    "summary": "Cármen Lúcia costura meio-termo para vencer resistência de colegas e aprovar proposta; texto será apresentado este mês",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/ministros-acreditam-que-discussao-sobre-codigo-de-etica-ficara-para-2027/",
+    "date": "2026-11-17T11:59:56Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/ministro-andre-mendonca-plenario-stf-1.jpg?w=200",
+    "title_pt": "Ministros acreditam que discussão sobre código de ética ficará para 2027",
+    "summary_pt": "Cármen Lúcia costura meio-termo para vencer resistência de colegas e aprovar proposta; texto será apresentado este mês"
+  },
+  {
     "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
     "summary": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
     "category": "Geral",
@@ -2142,6 +2142,34 @@
     "summary_pt": "Rodríguez havia denunciado supostas conexões entre organizações criminosas e figuras poderosas na Costa Rica."
   },
   {
+    "title": "Apagão mundial hoje? Veja o que é boato e o que poderia acontecer com a Terra em um colapso, segundo a ciência",
+    "summary": "Teoria que circula nas redes sociais associa um episódio de 'Os Simpsons' a um suposto apagão global; estudos científicos analisam os impactos de interrupções prolongadas de energia",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/ciencia/apagao-mundial-hoje-veja-o-que-e-boato-e-o-que-poderia-acontecer-com-a-terra-em-um-colapso-segundo-a-ciencia/",
+    "date": "2026-11-17T11:57:37Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/blue.jpg?w=200",
+    "title_pt": "Apagão mundial hoje? Veja o que é boato e o que poderia acontecer com a Terra em um colapso, segundo a ciência",
+    "summary_pt": "Teoria que circula nas redes sociais associa um episódio de 'Os Simpsons' a um suposto apagão global; estudos científicos analisam os impactos de interrupções prolongadas de energia"
+  },
+  {
+    "title": "Seleção Brasileira encerra 2026 com Vinicius Júnior como artilheiro",
+    "summary": "Atacante do Real Madrid marcou três gols na vitória do Brasil sobre Singapura, nesta terça-feira (17), no último compromisso da equipe no ano",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/selecao-brasileira-encerra-2026-com-vinicius-junior-como-artilheiro/",
+    "date": "2026-11-17T11:57:35Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/endrick-vini-jr-brasil-singapura-e1794914755656.jpg?w=200",
+    "title_pt": "Seleção Brasileira encerra 2026 com Vinicius Júnior como artilheiro",
+    "summary_pt": "Atacante do Real Madrid marcou três gols na vitória do Brasil sobre Singapura, nesta terça-feira (17), no último compromisso da equipe no ano"
+  },
+  {
     "title": "Un sillón de orejas en la pista de esquí: el líder norcoreano Kim Jong-un se deja ver con su hija en la frontera con China",
     "summary": "El mandatario visita un complejo turístico en construcción en la ciudad de Samjiyon, entre rumores que apuntan a su asistencia a la cumbre entre Xi, Putin y Trump el jueves",
     "category": "Geral",
@@ -2152,8 +2180,8 @@
     "date": "2026-11-17T11:57:29Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/7V2YF6TYNRC75BY6HIKEXQ65AU.jpg?auth=586756604a7b4caa2143a85d2e0746929c2a9c897d555c809ec4dadcc5a2909c",
-    "summary_pt": "O líder visita um complexo turístico em construção na cidade de Samjiyon, em meio a rumores de que ele participará da cúpula entre Xi, Putin e Trump na quinta-feira.",
-    "title_pt": "Uma poltrona com apoio lateral na pista de esqui: o líder norte-coreano Kim Jong-un é visto com sua filha na fronteira com a China"
+    "title_pt": "Uma poltrona com apoio lateral na pista de esqui: o líder norte-coreano Kim Jong-un é visto com sua filha na fronteira com a China",
+    "summary_pt": "O líder visita um complexo turístico em construção na cidade de Samjiyon, em meio a rumores de que ele participará da cúpula entre Xi, Putin e Trump na quinta-feira."
   },
   {
     "title": "“Yo sí te voy a votar”: Adrián, el cocinero valenciano que compuso la canción viral de Sánchez en TikTok y no recibió respuesta del PSOE",
@@ -2210,6 +2238,20 @@
     "image": "https://s2-g1.glbimg.com/ZfDOH2zPaChVfr_MJqsz4u2mH2s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/S/Q4ZbhvRJyPRofmlg8kdg/ap26321415980772.jpg",
     "title_pt": "Mulher palestina de 72 anos é morta a tiros por colonos israelenses na Cisjordânia",
     "summary_pt": "Familiares e amigos se reúnem perto do local onde Fadda Wadha, uma mulher beduína palestina de 72 anos, foi morta a tiros por colonos israelenses na vila de Al-Duyuk al-Tahta, nos arredores da cidade de Jericó, na Cisjordânia ocupada. Leo Correa / Associated Press Uma mulher palestina de 72 anos foi morta a tiros por colonos israelenses durante a madrugada d"
+  },
+  {
+    "title": "Artilheiro na Era Ancelotti, Vini Jr. alcança melhor marca desde Neymar",
+    "summary": "Com hat-trick diante de Singapura, o atacante também igualou feitos históricos de nomes como Pelé, Ronaldo e Jairzinho",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/artilheiro-na-era-ancelotti-vini-jr-alcanca-melhor-marca-desde-neymar/",
+    "date": "2026-11-17T11:53:10Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Vinicius-Jr-Selecao-e1794911464261.jpg?w=200",
+    "title_pt": "Artilheiro na Era Ancelotti, Vini Jr. alcança melhor marca desde Neymar",
+    "summary_pt": "Com hat-trick diante de Singapura, o atacante também igualou feitos históricos de nomes como Pelé, Ronaldo e Jairzinho"
   },
   {
     "title": "El Gobierno aprueba subir el salario mínimo un 5,3% y el sueldo de los funcionarios un 4,5%",
@@ -2445,7 +2487,9 @@
     "url": "https://elpais.com/espana/2026-11-17/zapatero-pide-acceso-a-sus-joyas-para-que-sus-peritos-elaboren-una-nueva-tasacion.html",
     "date": "2026-11-17T11:29:31Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/QZUESOP5XNEBPFRFGVT2FIGMDM.jpg?auth=f69bfe013c6823ab67c639d916ff2baf0a30eda46381da0255bdfcc481a67dd6"
+    "image": "https://imagenes.elpais.com/resizer/v2/QZUESOP5XNEBPFRFGVT2FIGMDM.jpg?auth=f69bfe013c6823ab67c639d916ff2baf0a30eda46381da0255bdfcc481a67dd6",
+    "title_pt": "Zapatero pede acesso às suas joias para que seus peritos façam uma nova avaliação",
+    "summary_pt": "O ex-presidente do Governo informa o juiz do \"caso Plus Ultra\" de que já designou seus próprios peritos para analisar as joias apreendidas"
   },
   {
     "title": "Bridge between Russia and occupied Crimea ‘no longer usable’ after Kyiv strike | First Thing",
@@ -2457,7 +2501,9 @@
     "url": "https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike",
     "date": "2026-11-17T11:26:49Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/b81e5455ebbad6816681f82294b54492aeed57cb/610_75_2367_1894/master/2367.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9de214988508323d57f90c441e5dad31"
+    "image": "https://i.guim.co.uk/img/media/b81e5455ebbad6816681f82294b54492aeed57cb/610_75_2367_1894/master/2367.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9de214988508323d57f90c441e5dad31",
+    "title_pt": "Ponte entre a Rússia e a Crimeia ocupada \"não pode mais ser usada\" após ataque de Kiev | First Thing",
+    "summary_pt": "Golpe no Kremlin quando a prestigiada ponte que liga a península ucraniana ocupada é atingida por um míssil. Além disso, o que o futuro reserva para Robert Pattinson, o novo 007? Você ainda não recebe o First Thing na sua caixa de entrada? Inscreva-se aqui. Bom dia. A Ucrânia danificou gravemente a ponte de Kerch, que liga a Crimeia ocupada à Rússia, em um ataque com mísseis durante a noite, no que os ucranianos consideram"
   },
   {
     "title": "Protests flare in Philippines over Trump's visit and planned AI hub",
@@ -2469,7 +2515,9 @@
     "url": "https://www.cbsnews.com/news/protests-philippines-trump-visit-ai-hub/",
     "date": "2026-11-17T11:25:10Z",
     "lang": "en",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/a429c84f-5b6e-487b-bb52-fa686281dc11/thumbnail/1200x630/7712e889cce23b0ff22499b3dce52fa3/ap26319236542094.jpg"
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/a429c84f-5b6e-487b-bb52-fa686281dc11/thumbnail/1200x630/7712e889cce23b0ff22499b3dce52fa3/ap26319236542094.jpg",
+    "title_pt": "Protestos irrompem nas Filipinas contra a visita de Trump e o centro de IA planejado",
+    "summary_pt": "Protestos contra a visita do presidente Trump às Filipinas surgiram em todo o país, com moradores locais criticando um projeto do governo Trump para construir um centro de inteligência artificial."
   },
   {
     "title": "'Weirdo specialist' is the new Bond: Papers react to Robert Pattinson as 007",
@@ -2481,7 +2529,9 @@
     "url": "https://www.france24.com/en/tv-shows/press-review/20261117-weirdo-specialist-is-the-new-bond-papers-react-to-robert-pattinson-as-007",
     "date": "2026-11-17T11:24:30Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/d37770b6-e276-11f1-9b0e-ff16da94d1fe/w:1024/p:16x9/capture-daf1d395.jpg"
+    "image": "https://s.france24.com/media/display/d37770b6-e276-11f1-9b0e-ff16da94d1fe/w:1024/p:16x9/capture-daf1d395.jpg",
+    "title_pt": "\"Especialista em esquisitices\" é o novo Bond: jornais reagem a Robert Pattinson como 007",
+    "summary_pt": "REVISTA DA IMPRENSA – Terça-feira, 17 de novembro: Jornais europeus reagem ao plano de cinco países da UE de criar um centro de expulsão de migrantes em Ruanda. Em outras notícias, o The Guardian revela o uso, por parte de Israel, do sistema de nuvem da Amazon para reconhecimento facial em Gaza. Além disso: a espera pelo novo James Bond finalmente acabou."
   },
   {
     "title": "Serbian MiG-29 fighter jet crashes, killing pilot",
@@ -2493,7 +2543,9 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGRkNjF6T0tKdThlVHNKTjNVTWZaSTNTOHJiS19NNWlidDhwYk1Hejc0RlJJTEtwbTVMQXRzY1QzamVrdFpqUzVfU0Mwc3ZQNTg3NVk4NVNkLVRKOVQ4NXc5WjVzaDhjU3RVYzZaYW14aVhMMHR6bTNnajUwWTQwWmtVdWM4WDJkLVlKNWhKcEc0eUtBSGlZQWF2VDBNNDFHWkdtY1AtckVTbWFQY1d1RA?oc=5",
     "date": "2026-11-17T11:22:26Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Caça MiG-29 sérvio cai e mata o piloto",
+    "summary_pt": "Caça sérvio MiG-29 cai e mata piloto Reuters"
   },
   {
     "title": "French presidential debate: 'Le Pen exposed xenophobic and authoritarian aspects of her policies'",
@@ -2505,7 +2557,9 @@
     "url": "https://www.france24.com/en/french-presidential-debate-le-pen-exposed-xenophobic-and-authoritarian-aspects-of-her-policies",
     "date": "2026-11-17T11:20:47Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/810c8592-e270-11f1-a2e0-5f54d898a954/w:1024/p:16x9/EN-20261117-081059-081720-CS.jpg"
+    "image": "https://s.france24.com/media/display/810c8592-e270-11f1-a2e0-5f54d898a954/w:1024/p:16x9/EN-20261117-081059-081720-CS.jpg",
+    "title_pt": "Debate presidencial francês: \"Le Pen expôs aspectos xenofóbicos e autoritários de suas políticas\"",
+    "summary_pt": "Eve Irvine tem o prazer de receber Damien Lecomte, cientista político francês, pesquisador e professor da Universidade de Paris 1 Panthéon-Sorbonne. Faltando cinco meses para a eleição presidencial na França, Marine Le Pen lidera as pesquisas de opinião, enquanto Jean-Luc Mélenchon surge como seu adversário mais provável no segundo turno. Lecomte afirma que \"os outros candidatos"
   },
   {
     "title": "Well-known journalist who reported death threats is killed on street",
@@ -2517,7 +2571,9 @@
     "url": "https://www.cbsnews.com/news/journalist-killed-costa-rica-camilo-rodriguez-reported-death-threats/",
     "date": "2026-11-17T11:20:15Z",
     "lang": "en",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/f660daee-e909-4176-af3d-cc3ec8f46568/thumbnail/1200x630g6/4ebfd5922f7a6a255d541a3083301aac/gettyimages-2304988297.jpg"
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/f660daee-e909-4176-af3d-cc3ec8f46568/thumbnail/1200x630g6/4ebfd5922f7a6a255d541a3083301aac/gettyimages-2304988297.jpg",
+    "title_pt": "Jornalista conhecido que denunciou ameaças de morte é morto na rua",
+    "summary_pt": "O jornalista independente costarriquenho Camilo Rodriguez denunciou nas redes sociais supostos vínculos entre narcotraficantes e políticos."
   },
   {
     "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
@@ -2529,7 +2585,9 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
     "date": "2026-11-17T11:19:04Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794914326.jpg?resize=1920%2C1080&quality=80"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794914326.jpg?resize=1920%2C1080&quality=80",
+    "summary_pt": "Dois navios pegaram fogo após atingirem uma mina naval no Estreito de Ormuz.",
+    "title_pt": "Navios pegam fogo após serem atingidos por mina naval no Estreito de Ormuz, diz o Irã"
   },
   {
     "title": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
@@ -2541,7 +2599,9 @@
     "url": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
     "date": "2026-11-17T11:18:26Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/18cb31b71bd7f2b4e57a7b7b8a647067ac239636/537_0_4988_3989/master/4988.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d080ebd37b1b3c732785be9ecae62a52"
+    "image": "https://i.guim.co.uk/img/media/18cb31b71bd7f2b4e57a7b7b8a647067ac239636/537_0_4988_3989/master/4988.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d080ebd37b1b3c732785be9ecae62a52",
+    "title_pt": "A Shenzhen de alta tecnologia ganha destaque quando Xi envia uma mensagem de \"Chinamaxxing\" na cúpula da Apec",
+    "summary_pt": "A cidade-sede oferece uma vitrine da ascensão da China a uma potência confiante e inovadora, central para a economia global. Em uma praça de Shenzhen, em uma noite amena, moradores locais e turistas observaram as dezenas de torres cintilantes que compõem o horizonte da cidade se transformarem em um espectro de cores — ciano e violeta, verde cibernético, o vermelho escarlate nacional da China e o dourado — piscando repetidamente."
   },
   {
     "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
@@ -2553,7 +2613,9 @@
     "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17T11:17:32Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
+    "title_pt": "A Megaspeed, parceira da Nvidia, está sendo investigada pelo governo dos EUA por exportações de chips",
+    "summary_pt": "A empresa sediada em Singapura é suspeita de ajudar a enviar chips de IA de alta qualidade da gigante de tecnologia Nvidia para a China, violando as regras de exportação dos Estados Unidos."
   },
   {
     "title": "US government confirms investigation into tech firm Megaspeed",
@@ -2565,7 +2627,9 @@
     "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17T11:17:32Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
+    "title_pt": "Governo dos EUA confirma investigação sobre a empresa de tecnologia Megaspeed",
+    "summary_pt": "A empresa sediada em Singapura é suspeita de ajudar a enviar chips de IA de ponta da gigante de tecnologia Nvidia para a China, violando as regras de exportação dos Estados Unidos."
   },
   {
     "title": "Is Pakistan about to carve out new provinces? Inside the controversial plan",
@@ -2577,7 +2641,9 @@
     "url": "https://www.aljazeera.com/news/2026/11/17/is-pakistan-about-to-carve-out-new-provinces-inside-the-controversial-plan?traffic_source=rss",
     "date": "2026-11-17T11:17:07Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP24060300538335-1762792567.jpg?resize=1920%2C1440"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP24060300538335-1762792567.jpg?resize=1920%2C1440",
+    "title_pt": "O Paquistão está prestes a criar novas províncias? Por dentro do plano controverso",
+    "summary_pt": "As conversas sobre novas províncias ganharam força, mas não há nenhuma proposta formal ou acordo entre os partidos no poder."
   },
   {
     "title": "EUA confirmam investigação sobre a Megaspeed por suposto desvio de chips para a China",
@@ -2603,7 +2669,9 @@
     "url": "https://www.france24.com/en/cop31-corporate-interests-gain-access-to-govt-delegations-participating-in-climate-negotiations",
     "date": "2026-11-17T11:16:04Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/347d5332-e275-11f1-a120-ff16da94d1fe/w:1024/p:16x9/EN-20261116-081001-081659-CS.jpg"
+    "image": "https://s.france24.com/media/display/347d5332-e275-11f1-a120-ff16da94d1fe/w:1024/p:16x9/EN-20261116-081001-081659-CS.jpg",
+    "title_pt": "COP31: Interesses corporativos ganham acesso a delegações governamentais que participam das negociações sobre o clima",
+    "summary_pt": "Eve Irvine tem o prazer de receber Siphesihle Mvundla, ativista sul-africana pela justiça climática e energética da groundWork, uma organização sem fins lucrativos de justiça ambiental. Na COP31, na Turquia, representantes das principais indústrias poluidoras obtiveram acesso às negociações climáticas por meio de delegações governamentais, organizações credenciadas e outras formas de participação."
   },
   {
     "title": "Ikea ditches plans for new UK stores, blaming high business taxes",
@@ -2615,7 +2683,9 @@
     "url": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
     "date": "2026-11-17T11:13:07Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/60243a831d5ef922d9f0eadb7a91a383b5617367/1272_635_4806_3845/master/4806.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad1117b2d62e7296c44139712058fa45"
+    "image": "https://i.guim.co.uk/img/media/60243a831d5ef922d9f0eadb7a91a383b5617367/1272_635_4806_3845/master/4806.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad1117b2d62e7296c44139712058fa45",
+    "title_pt": "A Ikea abandona os planos de abrir novas lojas no Reino Unido, culpando os altos impostos sobre as empresas",
+    "summary_pt": "O chefe britânico do varejista diz que John Healey \"perdeu a oportunidade de apoiar os varejistas\" no orçamento de outubro. Business live – últimas notícias. A Ikea desistiu de algumas inaugurações de lojas planejadas no Reino Unido, culpando o custo dos impostos sobre as empresas, que, segundo ela, são os mais altos da Europa. Como suas vendas anuais no Reino Unido ficaram praticamente estáveis na varejista sueca de móveis desmontáveis,"
   },
   {
     "title": "Ukraine updates: Russia-Crimea bridge appears destroyed after strike",
@@ -2627,7 +2697,9 @@
     "url": "https://www.dw.com/en/ukraine-updates-russia-crimea-bridge-appears-destroyed-after-strike/live-79964446?maca=en-rss-en-all-1573-rdf",
     "date": "2026-11-17T11:13:00Z",
     "lang": "en",
-    "image": "https://static.dw.com/image/79968219_6.jpg"
+    "image": "https://static.dw.com/image/79968219_6.jpg",
+    "title_pt": "Atualizações sobre a Ucrânia: ponte entre a Rússia e a Crimeia parece ter sido destruída após ataque",
+    "summary_pt": "Zelensky disse que um ataque à ponte de Kerch, na Crimeia, foi uma resposta aos ataques russos contínuos contra a infraestrutura de seu país. Enquanto isso, duas pontes foram atingidas em ataques russos a Kiev. A DW tem mais informações."
   },
   {
     "title": "¿Cuál es el mejor seguro en un mundo amenazado por el clima? Aquel que se adelanta al riesgo",
@@ -2639,7 +2711,9 @@
     "url": "https://elpais.com/aniversario/branded/un-futuro-por-escribir/2026-11-17/cual-es-el-mejor-seguro-en-un-mundo-amenazado-por-el-clima-aquel-que-se-adelanta-al-riesgo.html",
     "date": "2026-11-17T11:11:50Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/JOYTLCLA5NCDXPY64ROLXAS6SI.jpg?auth=1e927537d2c614d4543239d2d70cf02ebf9d245f9a9ff39acd0e0513b62f8e9f"
+    "image": "https://imagenes.elpais.com/resizer/v2/JOYTLCLA5NCDXPY64ROLXAS6SI.jpg?auth=1e927537d2c614d4543239d2d70cf02ebf9d245f9a9ff39acd0e0513b62f8e9f",
+    "title_pt": "Qual é o melhor seguro em um mundo ameaçado pelo clima? Aquele que se antecipa ao risco",
+    "summary_pt": "A detecção e prevenção de inundações ou incêndios está transformando o papel tradicional das seguradoras, que não esperam mais que ocorra um sinistro para proteger seus clientes. É assim que a Allianz está adotando esse novo paradigma"
   },
   {
     "title": "🔴 Live: Kerch Bridge to occupied Crimea closed after Ukrainian strikes collapse road section",
@@ -2651,7 +2725,8 @@
     "url": "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine",
     "date": "2026-11-17T11:11:20Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/f6cbe036-e273-11f1-b6ff-ff16da94d1fe/w:1280/p:16x9/000-D7PR463.jpg"
+    "image": "https://s.france24.com/media/display/f6cbe036-e273-11f1-b6ff-ff16da94d1fe/w:1280/p:16x9/000-D7PR463.jpg",
+    "title_pt": "🔴 Ao vivo: Ponte de Kerch para a Crimeia ocupada fechada após ataques ucranianos provocarem o colapso de um trecho da estrada"
   },
   {
     "title": "Bangladesh police clash with garment workers amid protests over wages",
@@ -2663,7 +2738,9 @@
     "url": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
     "date": "2026-11-17T11:06:12Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7PB4T3__v1__HighRes__BangladeshPoliticsTextileLabourProtest-1794907389.jpg?resize=1920%2C1440"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7PB4T3__v1__HighRes__BangladeshPoliticsTextileLabourProtest-1794907389.jpg?resize=1920%2C1440",
+    "title_pt": "A polícia de Bangladesh entra em confronto com trabalhadores do setor de vestuário em meio a protestos por salários",
+    "summary_pt": "Manifestantes arremessam tijolos, incendeiam veículos e bloqueiam a principal rodovia entre Daca e Mymensingh."
   },
   {
     "title": "U.S. gave Singapore scant help with Alice Huang probe, source says",
@@ -2675,7 +2752,9 @@
     "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-alice-huang-singapore-investigation-china-chips/",
     "date": "2026-11-17T11:05:49Z",
     "lang": "en",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/12/42ca78a4-2996-4bbb-8cf7-e378df3b48fe/thumbnail/1200x630/f26e298de4f33c72905766973f408671/2026-11-12t140122z-573929441-rc2bkoa12wop-rtrmadp-3-nvidia-probe-singapore.jpg"
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/12/42ca78a4-2996-4bbb-8cf7-e378df3b48fe/thumbnail/1200x630/f26e298de4f33c72905766973f408671/2026-11-12t140122z-573929441-rc2bkoa12wop-rtrmadp-3-nvidia-probe-singapore.jpg",
+    "title_pt": "Os EUA deram pouca ajuda a Singapura na investigação de Alice Huang, diz fonte",
+    "summary_pt": "Singapura reteve o passaporte de Alice Huang por 8 meses e pediu aos EUA que ajudassem a investigar as suspeitas vendas de chips da Nvidia por sua empresa, mas recebeu pouca ajuda, segundo fontes."
   },
   {
     "title": "How Kennedy let measles run wild in America",
@@ -2687,7 +2766,9 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTU85SHR5dHdlQ0ZFRnhqdzRJVGtpRW1CMFRfc3NMcVlzZ05Ldm5xSjFUTExZTmpHeUdHVHV3LVJzYjVsZXotajlINVRzbnl0M2k1RElmTFpIdlZ3c1N3dkt1NnUyYm5xM0RmZjJack53OTNRY1kyTlpUbklQQWdSYVNCOWRWcUdYMGpLcWdXbmJuRzBhX2c?oc=5",
     "date": "2026-11-17T11:04:57Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Como Kennedy deixou o sarampo se espalhar pelos Estados Unidos",
+    "summary_pt": "Como Kennedy deixou o sarampo se espalhar descontroladamente nos Estados Unidos Reuters"
   },
   {
     "title": "El papa León XIV critica la agresividad política: “No es necesario llegar a odiarnos, ni usar un lenguaje tan violento”",
@@ -2699,7 +2780,9 @@
     "url": "https://elpais.com/internacional/2026-11-17/el-papa-leon-xiv-critica-la-agresividad-politica-no-es-necesario-llegar-a-odiarnos-ni-un-lenguaje-tan-violento.html",
     "date": "2026-11-17T11:04:26Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZRLVSABOBNM2RCE3LHPBRIBGIY.jpg?auth=36ecda9508f797daa3191f3be092ad454019c5a56af3d30b523af63d365403e7"
+    "image": "https://imagenes.elpais.com/resizer/v2/ZRLVSABOBNM2RCE3LHPBRIBGIY.jpg?auth=36ecda9508f797daa3191f3be092ad454019c5a56af3d30b523af63d365403e7",
+    "summary_pt": "\"Não estou 100%, mas estou muito bem\", diz o Pontífice sobre sua saúde no voo de volta da América Latina. Ele pede para \"fortalecer a classe trabalhadora\" e redistribuir a riqueza.",
+    "title_pt": "O Papa Leão XIV critica a agressividade política: \"Não é preciso chegar ao ponto de nos odiarmos, nem usar uma linguagem tão violenta\""
   },
   {
     "title": "UEFA backs bid by France's Diallo to take on Infantino as FIFA chief",
@@ -2711,7 +2794,9 @@
     "url": "https://www.france24.com/en/video/20261117-uefa-backs-bid-by-france-s-diallo-to-take-on-infantino-as-fifa-chief",
     "date": "2026-11-17T11:04:26Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/984bd31e-e272-11f1-8d45-f71d22e7fea9/w:1024/p:16x9/EN-20261117-104101-104302-CS.jpg"
+    "image": "https://s.france24.com/media/display/984bd31e-e272-11f1-8d45-f71d22e7fea9/w:1024/p:16x9/EN-20261117-104101-104302-CS.jpg",
+    "title_pt": "A UEFA apoia a candidatura do francês Diallo para enfrentar Infantino na disputa pela presidência da FIFA",
+    "summary_pt": "A UEFA apoiou a candidatura do presidente da Federação Francesa de Futebol (FFF), Philippe Diallo, à presidência da FIFA nas eleições de março do próximo ano, depois que Diallo surgiu como um adversário inesperado do atual presidente da entidade máxima do futebol mundial, Gianni Infantino."
   },
   {
     "title": "Sanidad envía un requerimiento para exigir crear ya un registro de objetores al aborto en Andalucía y Baleares",
@@ -2737,7 +2822,9 @@
     "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
     "date": "2026-11-17T11:00:39Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98bde914dbf117c3bd0d35b745bde001"
+    "image": "https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98bde914dbf117c3bd0d35b745bde001",
+    "title_pt": "Centenas de pessoas são presas em protestos contra Trump nas Filipinas em meio à indignação com a guerra no Irã e o pacto de IA",
+    "summary_pt": "Os organizadores afirmam que até 10 mil pessoas poderiam participar da próxima rodada de manifestações com a chegada do presidente dos Estados Unidos para a cúpula da ASEAN. Cúpulas da ASEAN e da APEC – atualizações ao vivo. Centenas de pessoas foram presas em manifestações acaloradas contra Donald Trump em Manila, quando o presidente dos Estados Unidos chegou à cidade para uma cúpula de líderes. Os organizadores afirmaram que até 10 mil pessoas participariam."
   },
   {
     "title": "What do Democrats’ sweeping midterm wins mean for Trump’s ICE crackdown?",
@@ -2749,7 +2836,9 @@
     "url": "https://www.theguardian.com/us-news/2026/nov/17/democrats-blue-wave-trump-ice-crackdown",
     "date": "2026-11-17T11:00:35Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/348a69448387c2ea2ec024ee0dd0d209e02dbf12/499_0_2501_2000/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=42ea76169121f74bcca2c5bf47db5e76"
+    "image": "https://i.guim.co.uk/img/media/348a69448387c2ea2ec024ee0dd0d209e02dbf12/499_0_2501_2000/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=42ea76169121f74bcca2c5bf47db5e76",
+    "title_pt": "O que as vitórias esmagadoras dos democratas nas eleições de meio de mandato significam para a repressão do ICE de Trump?",
+    "summary_pt": "Apesar das maiorias na Câmara e no Senado, os democratas enfrentam uma batalha para aprovar leis – mas têm o poder de exercer uma nova e rigorosa supervisão. As vitórias da \"onda azul\" dos democratas nas eleições de meio de mandato lhes deram sólidas maiorias em ambas as câmaras do Congresso, novos cargos de governadores e poder em alguns lugares inesperados. Os eleitores deram uma reprimenda impressionante a Donald Trump – e à sua crueldade."
   },
   {
     "title": "New Orleans police arrest teen over beating death of homeless man ‘unable to defend himself’",
@@ -2761,7 +2850,9 @@
     "url": "https://www.theguardian.com/us-news/2026/nov/17/new-orleans-police-homeless-man-death",
     "date": "2026-11-17T11:00:34Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/be6001b3ad1b5bfbe3de398413e6d4e2be1cb098/289_124_1667_1335/master/1667.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46653e2f2c90763f23b5c989f2e556f8"
+    "image": "https://i.guim.co.uk/img/media/be6001b3ad1b5bfbe3de398413e6d4e2be1cb098/289_124_1667_1335/master/1667.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46653e2f2c90763f23b5c989f2e556f8",
+    "title_pt": "Polícia de Nova Orleans prende adolescente por espancar até a morte um homem sem-teto \"incapaz de se defender\"",
+    "summary_pt": "A polícia afirma que David Hyde, de 68 anos, ficou com marcas de pés no rosto devido a chutes na cabeça e teve seus medicamentos prescritos roubados durante o ataque. Um homem que estava desabrigado e \"incapaz de se defender devido a problemas de saúde\" foi recentemente espancado até a morte e teve seus medicamentos prescritos roubados em frente a uma farmácia em Nova Orleans, de acordo com as autoridades. O assassinato de David, de 68 anos"
   },
   {
     "title": "Tracking China’s War of Words Against Japan",
@@ -2773,7 +2864,9 @@
     "url": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
     "date": "2026-11-17T11:00:17Z",
     "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-mediumSquareAt3X.jpg"
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-mediumSquareAt3X.jpg",
+    "title_pt": "Acompanhando a guerra de palavras da China contra o Japão",
+    "summary_pt": "Pequim está conduzindo uma campanha coordenada para retratar o Japão como um agressor e uma ameaça militar ressurgente, de acordo com uma análise do Times."
   },
   {
     "title": "Latest news bulletin | November 17th, 2026 – Midday",
@@ -2785,7 +2878,9 @@
     "url": "https://www.euronews.com/video/2026/11/17/latest-news-bulletin-november-17th-2026-midday",
     "date": "2026-11-17T11:00:15Z",
     "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/09/99/59/60/696x392_cmsv2_c0776b7b-29ab-59b5-a515-ee860584c76c-9995960.jpg"
+    "image": "https://images.euronews.com/articles/stories/09/99/59/60/696x392_cmsv2_c0776b7b-29ab-59b5-a515-ee860584c76c-9995960.jpg",
+    "summary_pt": "Fique por dentro das notícias mais importantes da Europa e de outras partes do mundo neste dia 17 de novembro de 2026. Últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens.",
+    "title_pt": "Último boletim de notícias | 17 de novembro de 2026 – Meio-dia"
   },
   {
     "title": "Temu : la Commission européenne resserre l’étau sur le géant chinois de l’e-commerce pour non respect des normes de l’UE",
@@ -2797,7 +2892,9 @@
     "url": "https://www.lemonde.fr/economie/article/2026/11/17/la-commission-europeenne-resserre-l-etau-sur-temu-le-geant-chinois-de-l-e-commerce-pour-non-respect-des-normes-de-l-ue_6812960_3234.html",
     "date": "2026-11-17T11:00:02Z",
     "lang": "fr",
-    "image": "https://img.lemde.fr/2026/11/17/0/0/5623/3749/1440/960/60/0/8bf6c85_upload-1-zuebmkazui8q-000-42hf2vh.jpg"
+    "image": "https://img.lemde.fr/2026/11/17/0/0/5623/3749/1440/960/60/0/8bf6c85_upload-1-zuebmkazui8q-000-42hf2vh.jpg",
+    "title_pt": "Temu: a Comissão Europeia aumenta a pressão sobre a gigante chinesa de e-commerce por não cumprir as normas da UE",
+    "summary_pt": "Segundo Bruxelas, a plataforma de vendas online ainda distribui produtos ilegais e perigosos, sem tentar limitar o acesso dos consumidores a eles."
   },
   {
     "title": "Could the Airbus' €3 billion loan row reignite a US-EU trade dispute?",
@@ -2809,7 +2906,9 @@
     "url": "https://www.dw.com/en/could-the-airbus-€3-billion-loan-row-reignite-a-us-eu-trade-dispute/a-79943075?maca=en-rss-en-all-1573-rdf",
     "date": "2026-11-17T11:00:00Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "A controvérsia em torno do empréstimo de € 3 bilhões da Airbus poderia reacender uma disputa comercial entre os EUA e a UE?",
+    "summary_pt": "Os EUA afirmam que um pacote de financiamento recorde de € 3 bilhões para a Airbus pode entrar em conflito com uma trégua transatlântica sobre subsídios a aeronaves. Autoridades da UE insistem que o financiamento está em conformidade com as regras de mercado."
   },
   {
     "title": "Trump diz que vai pressionar Putin e Xi Jinping pelo fim da guerra na Ucrânia",
@@ -2835,7 +2934,9 @@
     "url": "https://elpais.com/television/2026-11-17/los-cinco-momentos-tensos-de-la-entrevista-de-carlos-franganillo-a-pedro-sanchez-en-telecinco-usted-habla-y-yo-tengo-derecho-a-hablar.html",
     "date": "2026-11-17T10:54:03Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/6UGW32YTABERXN65RD46TTTARQ.JPG?auth=2d931660023799a1cb6052d949e45773e36ef21748f3a797a6a141c0e1345b4d"
+    "image": "https://imagenes.elpais.com/resizer/v2/6UGW32YTABERXN65RD46TTTARQ.JPG?auth=2d931660023799a1cb6052d949e45773e36ef21748f3a797a6a141c0e1345b4d",
+    "title_pt": "Os cinco momentos tensos da entrevista de Carlos Franganillo com Pedro Sánchez na Telecinco: \"O senhor fala e eu tenho o direito de falar\"",
+    "summary_pt": "O presidente do governo responde ao jornalista sobre Urda, Ceuta, a corrupção ou Abascal: \"Sinto-me como uma pessoa com princípios\", diz ele sobre a imigração"
   },
   {
     "title": "L’Iran revendique une attaque contre une base américaine à Bahreïn",
@@ -2847,7 +2948,9 @@
     "url": "https://www.lemonde.fr/international/article/2026/11/17/l-iran-revendique-une-attaque-contre-une-base-americaine-a-bahrein_6812959_3210.html",
     "date": "2026-11-17T10:53:55Z",
     "lang": "fr",
-    "image": "https://img.lemde.fr/2026/09/02/0/0/3600/2400/1440/960/60/0/49f9bb0_ftp-1-iqrafoxhmh8r-5976048-01-06.jpg"
+    "image": "https://img.lemde.fr/2026/09/02/0/0/3600/2400/1440/960/60/0/49f9bb0_ftp-1-iqrafoxhmh8r-5976048-01-06.jpg",
+    "title_pt": "O Irã reivindica um ataque a uma base americana no Bahrein",
+    "summary_pt": "Os combates estão em pausa desde setembro, mas na sexta-feira e depois no domingo, o Irã já havia reivindicado ataques a sistemas de radares dos EUA no Bahrein."
   },
   {
     "title": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
@@ -2859,7 +2962,9 @@
     "url": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
     "date": "2026-11-17T10:53:42Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-2.49.43-PM-1794907247.png?resize=1200%2C675"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-2.49.43-PM-1794907247.png?resize=1200%2C675",
+    "title_pt": "Quem está por trás da Habibi UK, uma conta no X que atacou críticos de Israel?",
+    "summary_pt": "Um ex-funcionário do Serviço de Relações Exteriores dos EUA administrava uma empresa que financiava anúncios eleitorais que atacavam o Partido Trabalhista de Jeremy Corbyn."
   },
   {
     "title": "Young Filipinos Protest Trump and Marcos Before They Meet",
@@ -2871,7 +2976,9 @@
     "url": "https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html",
     "date": "2026-11-17T10:52:23Z",
     "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-philippines-protest-tfvg/17trump-summits-philippines-protest-tfvg-mediumSquareAt3X.jpg"
+    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-philippines-protest-tfvg/17trump-summits-philippines-protest-tfvg-mediumSquareAt3X.jpg",
+    "summary_pt": "A maioria dos manifestantes eram estudantes que disseram que seu governo estava mais focado em sua relação com os Estados Unidos do que em ajudar os filipinos.",
+    "title_pt": "Jovens filipinos protestam contra Trump e Marcos antes do encontro deles"
   },
   {
     "title": "Trump Will Miss Most of the ASEAN Summit",
@@ -2883,7 +2990,9 @@
     "url": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
     "date": "2026-11-17T10:51:03Z",
     "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-asean-trump-01-ptql/00int-asean-trump-01-ptql-mediumSquareAt3X.jpg"
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-asean-trump-01-ptql/00int-asean-trump-01-ptql-mediumSquareAt3X.jpg",
+    "summary_pt": "O presidente Trump chegou a Manila quando a reunião estava chegando ao fim, um sinal de como a política dos EUA deixou a região oscilando entre Washington e Pequim.",
+    "title_pt": "Trump perderá a maior parte da cúpula da ASEAN"
   },
   {
     "title": "Ukraine and Russia trade major strikes as Trump set to meet Putin",
@@ -2895,7 +3004,9 @@
     "url": "https://www.cbsnews.com/news/ukraine-war-russia-crimea-kerch-bridge-kyiv/",
     "date": "2026-11-17T10:50:16Z",
     "lang": "en",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/f5b8e909-aa33-4f58-b114-6e98fefa1a72/thumbnail/1200x630/3efd5b07383aa8a9569856ab777b224f/gettyimages-1556045928.jpg"
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/f5b8e909-aa33-4f58-b114-6e98fefa1a72/thumbnail/1200x630/3efd5b07383aa8a9569856ab777b224f/gettyimages-1556045928.jpg",
+    "title_pt": "Ucrânia e Rússia trocam ataques importantes enquanto Trump se prepara para se encontrar com Putin",
+    "summary_pt": "A Ucrânia atacou duas vezes a Ponte de Kerch, que liga a Crimeia ocupada pela Rússia à Rússia, colocando-a fora de serviço, enquanto Moscou ataca pontes em Kiev."
   },
   {
     "title": "Immigration arrests after organised crime blitz",
@@ -2907,7 +3018,9 @@
     "url": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17T10:49:58Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f280/live/05e985f0-e274-11f1-b639-73d1df360b76.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f280/live/05e985f0-e274-11f1-b639-73d1df360b76.jpg",
+    "summary_pt": "Dezoito pessoas foram presas por uma série de crimes suspeitos, incluindo escravidão moderna, segundo a polícia.",
+    "title_pt": "Prisões de imigrantes após operação contra o crime organizado"
   },
   {
     "title": "Third US aircraft carrier arrives in the Middle East as Iran targets Bahrain",
@@ -2919,7 +3032,9 @@
     "url": "https://www.france24.com/en/video/20261117-third-us-aircraft-carrier-arrives-in-the-middle-east-as-iran-targets-bahrain",
     "date": "2026-11-17T10:46:27Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/9752e8aa-e270-11f1-b650-5f54d898a954/w:1024/p:16x9/EN-20261117-103832-104029-CS.jpg"
+    "image": "https://s.france24.com/media/display/9752e8aa-e270-11f1-b650-5f54d898a954/w:1024/p:16x9/EN-20261117-103832-104029-CS.jpg",
+    "title_pt": "Terceiro porta-aviões dos EUA chega ao Oriente Médio enquanto o Irã tem o Bahrein como alvo",
+    "summary_pt": "Um terceiro porta-aviões americano chegou ao Oriente Médio, informou o Comando Central dos EUA em uma publicação nas redes sociais na segunda-feira, fazendo uma demonstração dramática de poder militar enquanto o presidente Donald Trump mantém suas opções em aberto para os próximos passos na guerra com o Irã. Isso ocorre após Teerã ter afirmado, no domingo, que suas forças realizaram um ataque de drones contra um sistema de radar dos EUA em uma base de helicópteros."
   },
   {
     "title": "Saudi Arabia replaces military commander after Yemen setbacks",
@@ -2931,7 +3046,9 @@
     "url": "https://www.france24.com/en/video/20261117-saudi-arabia-replaces-military-commander-after-yemen-setbacks",
     "date": "2026-11-17T10:44:27Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/e78c0f28-e26f-11f1-b18f-5f54d898a954/w:1024/p:16x9/EN-20261117-103642-103808-CS.jpg"
+    "image": "https://s.france24.com/media/display/e78c0f28-e26f-11f1-b18f-5f54d898a954/w:1024/p:16x9/EN-20261117-103642-103808-CS.jpg",
+    "title_pt": "Arábia Saudita substitui comandante militar após contratempos no Iêmen",
+    "summary_pt": "A Arábia Saudita substituiu o comandante que supervisionava sua coalizão contra os houthis do Iêmen, aliados do Irã, na segunda-feira, depois que os aliados iemenitas de Riade foram forçados a se retirar de extensas áreas de território, o que representou um grande revés para sua campanha contra o grupo."
   },
   {
     "title": "Fomula One champion Fernando Alonso to race at Dakar Rally 2027",
@@ -2943,7 +3060,9 @@
     "url": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
     "date": "2026-11-17T10:42:42Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-05T180156Z_1490333501_UP1EMB51E36GL_RTRMADP_3_MOTOR-F1-BRAZIL-1794910190.jpg?resize=1920%2C1440"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-05T180156Z_1490333501_UP1EMB51E36GL_RTRMADP_3_MOTOR-F1-BRAZIL-1794910190.jpg?resize=1920%2C1440",
+    "title_pt": "O campeão de Fórmula 1 Fernando Alonso vai competir no Rally Dakar 2027",
+    "summary_pt": "Fernando Alonso fará seu retorno ao Rally Dakar 2027 no Marrocos com a equipe Leob e Aston Martin."
   },
   {
     "title": "5 European countries aim to send rejected asylum seekers to Rwanda",
@@ -2955,7 +3074,9 @@
     "url": "https://www.france24.com/en/video/20261117-5-european-countries-aim-to-send-rejected-asylum-seekers-to-rwanda",
     "date": "2026-11-17T10:41:53Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/c03fe188-e26f-11f1-b5ff-5f54d898a954/w:1024/p:16x9/EN-20261117-103334-103526-CS.jpg"
+    "image": "https://s.france24.com/media/display/c03fe188-e26f-11f1-b5ff-5f54d898a954/w:1024/p:16x9/EN-20261117-103334-103526-CS.jpg",
+    "title_pt": "Cinco países europeus pretendem enviar solicitantes de asilo rejeitados para Ruanda",
+    "summary_pt": "Um grupo de países europeus anunciou na segunda-feira que pretende criar um \"centro de retorno\" em Ruanda, para onde os solicitantes de asilo rejeitados poderão ser enviados a partir do ano que vem, uma medida que eles esperam que também impeça mais pessoas de vir. O plano da Áustria, da Dinamarca, da Alemanha, da Grécia e dos Países Baixos, que lideraram as negociações com países de fora da UE, provocou reações imediatas."
   },
   {
     "title": "Cass report author tells BBC draft conversion practices bill is not workable",
@@ -2967,7 +3088,9 @@
     "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-17T10:36:21Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64f6/live/4c3df530-e261-11f1-a094-5fdc692f3e33.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64f6/live/4c3df530-e261-11f1-a094-5fdc692f3e33.jpg",
+    "title_pt": "A autora do relatório Cass diz à BBC que o projeto de lei sobre práticas de conversão não é viável",
+    "summary_pt": "A autora da revisão sobre cuidados de gênero afirma que a redação do projeto de lei apresenta o risco de \"graves consequências não intencionais\" para pais e terapeutas."
   },
   {
     "title": "NATO allies to discuss US troop levels with Pentagon strategy chief",
@@ -2979,7 +3102,9 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQjZZbTFLSVpBWlRjSmszOUY5d1YwSFp1cnlEV2ppX2l2bFJ3eDk5b2RRQmtnR2EzcnVmQ01TN3JDQUJ1N0NhczBiNmtUMlNQcFdxdFJQV3JDc1J0NDRLQ2UwSTZHUmVvaXBib1B3QmNORjlMbmE2RkU3Z1UwUmg3Q1R0c3J2UUxuUkVBV3pKWWNvWWNfRUpUTmNLNHFwU2puejZaeDhZWnVtdw?oc=5",
     "date": "2026-11-17T10:34:09Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Aliados da OTAN vão discutir os níveis de tropas dos EUA com o chefe de estratégia do Pentágono",
+    "summary_pt": "Aliados da OTAN vão discutir os níveis de tropas dos EUA com o chefe de estratégia do Pentágono Reuters"
   },
   {
     "title": "Iraq resumes crude oil pumping for export purposes via pipeline to Turkey, oil minister says",
@@ -2991,7 +3116,9 @@
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOEZmQVphZVUyV05SUmZOazhJeVRrUGZneGhyX2xTT0g5SkM0eEQwS2ZjVE1YUjQyR1l4WDAxMURzV19QeUk5dFRVU0R3eVF0TjZRZTlJUDk4TGVXMHJmOWVUVEJjX1k3UnF0b0hzemRLZGtQaFRCTXJoNFA3bVZVZjhPZndwYzRxQlpvcDVFRDZ5ZWhRX21FN2FWQzVSckZoYl8xWWJ6anVsd092eFRZVno5ZWJvVmJKRmJ4THJXREt0ZEF6WlFYQjFVTQ?oc=5",
     "date": "2026-11-17T10:34:06Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "O Iraque retoma o bombeamento de petróleo bruto para fins de exportação por meio de um oleoduto para a Turquia, afirma o ministro do Petróleo",
+    "summary_pt": "O Iraque retoma o bombeamento de petróleo bruto para fins de exportação por meio de um oleoduto para a Turquia, diz o ministro do Petróleo à Reuters"
   },
   {
     "title": "What to Know About APEC, ASEAN and the Quad",
@@ -3077,7 +3204,9 @@
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlhXMW5RQ1U5RWx0Z1lhbjg2OTFKamZTY0NHLXd3b24zZU13bFo3RUZTcTNwcTZ0Yk9CMlY1Q2ZPZTVvY2hrVFk3Nzl2V2VDeG5Nd1lzWXhmdDBvRTFEZFNBNTBtUkhfWVZ4eWNaYlh3WkdGdnNmcDFyWFdwR05NMUhlZllWTUJyRXVLdVdnN3lES2xkRWFBS3FsaHZRajdYUnFRZ0hxcVVMZE83M01GeHQyai1QNEFSbFZVUV9Ydw?oc=5",
     "date": "2026-11-17T10:26:38Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Os avanços da IA coincidem com um aumento acentuado nos incidentes cibernéticos, mostram dados da Marsh",
+    "summary_pt": "Dados da Marsh mostram à Reuters que os avanços da IA coincidem com um aumento acentuado nos incidentes cibernéticos"
   },
   {
     "title": "Mexico keen to strengthen cooperation with China, president says",
@@ -3089,7 +3218,9 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc0NsLVVIdkF1Xzh6WmVwWWhuNkhXODlPcTRDLTFRc3ctNTlmVUxtVlkyRGNiNDhsRlpRMXhqdks1X2VNeGRCMGtKODFRc1A2OEV0bXdVb2pTNHVBa0h0Qk1TSDl5LVdUV2kteDRDcjNDYXVaYXo5NWJnMnpZWjBlWG1KMm05YUJOcVhoZU1BN3hvZHRxM3pIT0o5VVg5UGp6RkRMRWs4UEZMckRV?oc=5",
     "date": "2026-11-17T10:24:35Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "summary_pt": "O México está empenhado em fortalecer a cooperação com a China, diz o presidente à Reuters",
+    "title_pt": "O México está empenhado em fortalecer a cooperação com a China, afirma o presidente"
   },
   {
     "title": "Spain's de Cos moves closer to ECB top job with Germany's backing",
@@ -3101,7 +3232,8 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNTlNYmxaMGZBWmRqd2RYVGVTRkZwMG1oTEJFaFZLYXhxakNtZjNhM1lhWkxrNDJ0R19WaXUyZ1NoVzlHVm9zNUlPcnRhUkJ4UG5iOEFLbG14dnRUTlkzYzg2YWVMQTlMNGJQdkpPUWZNcmlzTlBGQ0NfeXRfNUl3d1FPZXA0R2xUZDJ5d3VKZzA5YlBxdXdIc1ZaRVk1QkhRdnVIbFU3YmQ3cEtDSm1SVA?oc=5",
     "date": "2026-11-17T10:24:17Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "O espanhol de Cos se aproxima do cargo de presidente do BCE com o apoio da Alemanha"
   },
   {
     "title": "Turkish authorities raid opposition Sozcu news channel, appoint new management",
@@ -3699,6 +3831,18 @@
     "image": ""
   },
   {
+    "title": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
+    "summary": "The anti-Netanyahu bloc holds the keys to electing a new parliamentary speaker, setting the momentum for change.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role?traffic_source=rss",
+    "date": "2026-11-17T09:29:28Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2021/07/000_9E94GX.jpg?resize=1920%2C1440"
+  },
+  {
     "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
     "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
     "category": "Geral",
@@ -3857,18 +4001,6 @@
     "image": "https://i.guim.co.uk/img/media/a96c54d2157d7d99b1d0f9e10b3de8605acc182b/533_0_5333_4266/master/5333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=79a96ff77cbd8cf477507656d1061bed"
   },
   {
-    "title": "South Korea tightens university exam checks to screen for hidden cameras",
-    "summary": "South Korea tightens university exam checks to screen for hidden cameras Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNGE1NWg5RXYzeVZBS3VzUGptS2I4ODBKd1FaUjF1R0hpVHpXeEpkcFF2U1lpWU42QmZGYzZYZ2NZV05QRVVfXy04T1dpeGpKM0lXNmVnMHhOc05abFZ6NEZUYjIxTTFybk5zcFRUVWdmeHM4TGp5QV83OVZVVjE0cmtjY1RYbHJERVJLeDV2ZXdhTWR2SkRGYVVHQjFxLXkwalJMNGk0YnVwd1RIcnI3VDJwSDg1Q1VQRmM0RA?oc=5",
-    "date": "2026-11-17T08:46:43Z",
-    "lang": "en",
-    "image": ""
-  },
-  {
     "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
     "summary": "The debt load of developing countries jumped to $9.4 trillion as high interest rates and other global shocks batter their economies.",
     "category": "Geral",
@@ -3977,18 +4109,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1014/live/a44029a0-e1b3-11f1-9a3f-99aca912798e.jpg",
     "title_pt": "Alerta amarelo do Met Office em vigor, pois a neve pode atrapalhar as viagens na manhã de terça-feira",
     "summary_pt": "A neve pode causar algumas interrupções no transporte nas colinas do norte da Inglaterra e do sul da Escócia, como explica Chris Fawkes."
-  },
-  {
-    "title": "Sigue el tiempo revuelto: lluvia en la mitad oeste peninsular",
-    "summary": "Las temperaturas serán muy altas hasta el jueves, cuando tras el paso de un frente llegará aire más frío a la Península",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/el-tiempo/2026-11-17/sigue-el-tiempo-revuelto-lluvia-en-la-mitad-oeste-peninsular.html",
-    "date": "2026-11-17T08:01:31Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/LX74M2L5M5O5LECIRA26YFOJS4.jpg?auth=098a5cc80ff94aa37c79936d9a44d3ef5ea2cf48d34765076b58ca82fb268482"
   },
   {
     "title": "Belgique, Pays-Bas : les champions du compromis à l’épreuve des discussions budgétaires",
@@ -4948,18 +5068,6 @@
     "source": "Reuters",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1B5ZTVMbHctSmxMMmV2SFRrM25UM2ZvZmJpZkpnMXVCSGRVNjlQbFZrQmVRX1poOXdoQjNiV056eGxRUlhpUnVyclQ3aVBXWHBhS1JXUHZLVmtPcHhVMlotQ2JfbUhZZVRndlg3NzJNci14MEJKdkw1c3BoVWYwOFlBbzlGS25WVGxFRy1tV3h2WGJHV3FOeGpBcnJHSUdvVTc4N2VB?oc=5",
     "date": "2026-11-17T03:49:00Z",
-    "lang": "en",
-    "image": ""
-  },
-  {
-    "title": "EXCLUSIVE: China taps US AI models to train homegrown rivals as chip curbs bite",
-    "summary": "EXCLUSIVE: China taps US AI models to train homegrown rivals as chip curbs bite Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQemJ2WmtQZV96U0x6Z1FzanV3YlQwT2k5ZXk3Wnc3RzI2cVFsNDdjaHk5TTJJU0FiNnVPYllVYnRVcjZkTEMwYVZ6bU01SE54THNuRl9NdUVrekhxdXlwaVBubmhJTEt6Z1V4R2kwTGpjdmVkdkxxVl9vVkZXYWFuR1lEdjRWUnVPVG4tQVRLdVp4bXJvaVhSM1pXN25keDRrNXA4S0dvWWZoX3FfSE93?oc=5",
-    "date": "2026-11-17T03:42:00Z",
     "lang": "en",
     "image": ""
   },
@@ -6601,17 +6709,5 @@
     "date": "2026-11-16T11:59:00Z",
     "lang": "en",
     "image": "https://static.dw.com/image/79956614_6.jpg"
-  },
-  {
-    "title": "South Korea to Examine How K-Pop Industry Treats Underage Performers",
-    "summary": "The announcement came after a New York Times investigation about the restrictive contracts of the group NewJeans, signed when its members were 14 to 17.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/16/world/asia/kpop-underage-idols-survey.html",
-    "date": "2026-11-16T11:51:32Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/16/world/16int-skorea-kpop-contracts-apapap/16int-skorea-kpop-contracts-apapap-mediumSquareAt3X.jpg"
   }
 ]

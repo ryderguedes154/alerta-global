@@ -1,7 +1,7 @@
 {
   "edition": "17/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-17T14:27:19.518743Z",
+  "checked_at": "2026-11-17T14:32:16.091129Z",
   "status": "checado",
   "items": [
     {
@@ -15,19 +15,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "published_on": "17/11/2026 09:01 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
-      "selection": "automatic"
-    },
-    {
-      "title": "Apagão mundial hoje? Entenda teoria que viraliza nas redes sociais",
-      "summary": "Rumor mistura alertas de governos tirados de contexto, conspirações e episódio dos Simpsons para prever 90 dias sem eletricidade no mundo",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Geral",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/apagao-mundial-hoje-entenda-teoria-que-viraliza-nas-redes-sociais/",
-      "published_on": "17/11/2026 10:15 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Apagao-mundial-em-17-de-novembro-de-2026.jpg?w=200",
       "selection": "automatic"
     },
     {
@@ -54,6 +41,19 @@
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
       "published_on": "17/11/2026 09:59 (Boa Vista)",
       "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/47fad59b-9212-4a1b-8d00-f893f82225c4/thumbnail/1200x630/b6dae6ee13163727a3eec1fb3c736d2b/gettyimages-2304872718.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Apagão mundial hoje? Veja o que é boato e o que poderia acontecer com a Terra em um colapso, segundo a ciência",
+      "summary": "Teoria que circula nas redes sociais associa um episódio de 'Os Simpsons' a um suposto apagão global; estudos científicos analisam os impactos de interrupções prolongadas de energia",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Geral",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/ciencia/apagao-mundial-hoje-veja-o-que-e-boato-e-o-que-poderia-acontecer-com-a-terra-em-um-colapso-segundo-a-ciencia/",
+      "published_on": "17/11/2026 07:57 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/blue.jpg?w=200",
       "selection": "automatic"
     },
     {
