@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<meta name="theme-color" content="#080e1d">
-<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#df2337">
+<meta name="color-scheme" content="light">
 <meta name="ag-theme-version" content="red-navy-20261117-v2">
 <meta name="description" content="Radar Mundial e Alerta Global: notícias internacionais, alertas de gravidade e monitoramento de terremotos.">
 <meta name="application-name" content="Alerta Global">
@@ -675,6 +675,34 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
 </style>
 </head>
 <body>
+<!-- Alerta Global — portal jornalístico claro, 2026 -->
+<div class="portal-topline">
+ <div class="portal-width portal-topline-inner"><span id="portalToday">Notícias de hoje</span><a href="#chatgpt-ao-vivo" class="portal-breaking">● <strong>PLANTÃO GLOBAL</strong> <span id="portalBreakingTitle">Alertas importantes do Radar Mundial</span></a><span class="portal-topline-right">Edição internacional · Boa Vista (RR)</span></div>
+</div>
+<header class="portal-header" aria-label="Cabeçalho do Alerta Global">
+ <div class="portal-width portal-masthead">
+  <a class="portal-brand" href="#overview" aria-label="Alerta Global — página inicial"><span class="portal-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span><span class="portal-brandtext"><strong>Alerta <em>Global</em></strong><small>NOTÍCIAS • RADAR MUNDIAL</small></span></a>
+  <p class="portal-masthead-description">Informação do mundo, com contexto e fontes originais.</p>
+  <form class="portal-search" id="portalSearchForm" role="search"><label for="portalSearch" class="portal-sr">Pesquisar notícias</label><input id="portalSearch" type="search" placeholder="Buscar notícias..." autocomplete="off"><button type="submit" aria-label="Buscar notícias">⌕</button></form>
+ </div>
+ <nav class="portal-primary-nav" aria-label="Navegação principal">
+  <div class="portal-width portal-nav-scroll">
+   <a href="#overview" class="is-home">⌂ Início</a><a href="#agora">Últimas notícias</a><a href="#radar">Mundo</a><a href="#curadoria">Alertas ChatGPT</a><a href="#news" data-portal-category="Economia">Economia</a><a href="#news" data-portal-category="Tecnologia">Tecnologia</a><a href="#news" data-portal-category="Saúde">Saúde</a><a href="#historico">Histórico</a>
+  </div>
+ </nav>
+</header>
+<section class="portal-topics portal-width" aria-label="Explorar assuntos">
+ <div class="portal-topic-list">
+  <a class="portal-topic" href="#radar" data-topic="Mundo"><span class="portal-topic-picture">🌍</span><span>Mundo</span></a>
+  <a class="portal-topic" href="#news" data-portal-category="Conflitos"><span class="portal-topic-picture">🕊️</span><span>Conflitos</span></a>
+  <a class="portal-topic" href="#news" data-portal-category="Economia"><span class="portal-topic-picture">📈</span><span>Economia</span></a>
+  <a class="portal-topic" href="#news" data-portal-category="Tecnologia"><span class="portal-topic-picture">🤖</span><span>Tecnologia</span></a>
+  <a class="portal-topic" href="#news" data-portal-category="Saúde"><span class="portal-topic-picture">⚕️</span><span>Saúde</span></a>
+  <a class="portal-topic" href="#news" data-portal-category="Clima e desastres"><span class="portal-topic-picture">🌦️</span><span>Clima</span></a>
+  <a class="portal-topic" href="#news" data-portal-category="Segurança cibernética"><span class="portal-topic-picture">🛡️</span><span>Ciber</span></a>
+  <a class="portal-topic" href="#curadoria" data-topic="ChatGPT"><span class="portal-topic-picture">🚨</span><span>ChatGPT</span></a>
+ </div>
+</section>
 <div class="app-layout"><aside class="side" aria-label="Menu principal">
   <a href="#overview" class="logo" aria-label="Alerta Global — início">
     <span class="logo-symbol"><img src="./icons/alerta-global.svg" alt="" width="57" height="57"></span>
@@ -713,7 +741,14 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
     <ul id="bannerList"></ul>
   </section>
 
-<section class="hero" aria-label="Radar Mundial"><div class="hero-copy"><div class="hero-label"><span class="dot"></span> INTELIGÊNCIA DE NOTÍCIAS · RADAR MUNDIAL</div><h2>O mundo não para.<br><em>Você acompanha.</em></h2><p>Notícias globais, riscos e acontecimentos importantes em um só lugar. Entenda o que acontece no mundo, direto das fontes originais.</p><div class="hero-cta"><a href="#agora">🟢 Notícias novas</a><a href="#historico" class="hero-curation-link">🗂️ Ver histórico</a><a href="#curadoria" class="hero-curation-link">🌍 Alertas do ChatGPT</a></div></div></section><div class="status-text" id="statusText">Carregando notícias...</div>
+<section class="hero" aria-label="Manchete principal">
+ <div class="hero-copy"><span class="hero-label">● NOTÍCIAS INTERNACIONAIS EM TEMPO REAL</span>
+  <h2 id="portalHeadline">As notícias mais importantes do mundo, em um só lugar</h2>
+  <p id="portalDeck">Acompanhe as últimas matérias publicadas e os alertas do Radar Mundial, sempre com a fonte original.</p>
+  <div class="hero-cta"><a id="portalHeroOriginal" href="#agora">Leia a notícia principal ↗</a><a class="hero-curation-link" href="#curadoria">Ver alertas do ChatGPT</a></div>
+ </div>
+</section>
+<div class="status-text" id="statusText">Carregando notícias...</div>
 <section class="curation-live" id="chatgpt-ao-vivo" aria-label="Último alerta enviado pelo ChatGPT">
   <div class="curation-live-top"><span><span class="curation-live-pulse"></span> 🌍 ALERTAS DO CHATGPT</span><span id="curationPreviewCount">Verificando...</span></div>
   <h2>Último alerta do Radar Mundial</h2>
@@ -739,6 +774,11 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
   <div class="fresh-header"><div><small>🟢 ATUALIZAÇÃO CONTÍNUA</small><h2>Acabaram de sair</h2><p>Notícias mais recentes dos veículos monitorados, sem aguardar a seleção editorial.</p></div><a href="#news">Ver todas ↗</a></div>
   <div class="fresh-grid" id="freshFeed"><p>Consultando as notícias recentes...</p></div>
   <div class="fresh-footer"><span id="freshCount">Aguardando primeira consulta</span><span>Consulta a cada 1 minuto · RSS programado a cada 5 minutos</span></div>
+</section>
+<section class="portal-promo" aria-label="Acesso às notícias e alertas"><span class="portal-promo-badge">ALERTA GLOBAL</span><div><strong>O mundo não para. Você acompanha.</strong><small>Notícias verificáveis, histórico e alertas em um só lugar.</small></div><a href="#curadoria">Acessar Radar Mundial ↗</a></section>
+<section class="portal-stories" aria-label="Seleção visual de notícias">
+ <div class="portal-section-heading"><div><span>FIQUE POR DENTRO</span><h2>Histórias em destaque</h2></div><a href="#news">Ver todas as notícias ↗</a></div>
+ <div class="portal-stories-rail" id="portalStoryRail"><p>Carregando histórias recentes...</p></div>
 </section>
 <section class="radar" id="radar">
     <div class="radar-head"><div><h2>🌐 Radar Mundial</h2><p>Principais acontecimentos internacionais, organizados por urgência. Atualização pelo feed de notícias.</p></div><span id="radarCount">0 destaques</span></div>
@@ -766,6 +806,9 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
     <details class="sources-details"><summary>Ver situação por fonte</summary><a class="curation-source-in-list" href="#curadoria">🌍 <strong>Radar Mundial — Seleção do ChatGPT</strong> · <span id="curationSourceCount">Carregando...</span> · Ver alertas ↗</a><div id="sourcesList" class="sources-list"><p>Carregando informações...</p></div></details>
     <p class="sources-disclaimer">O horário de checagem não garante que o jornal publicou uma matéria nova. Notícias são classificadas automaticamente e devem ser verificadas na fonte original.</p>
   </section>
+  <section class="portal-news-section" aria-label="Notícias recentes">
+ <div class="portal-news-columns">
+  <div class="portal-news-left">
   <div class="section-header" id="news"><div><div class="eyebrow">Central de informação</div><h2>🟢 Todas as notícias recentes</h2><p>As manchetes mais novas aparecem primeiro. Filtre por tema ou consulte notícias antigas no <a href="#historico">histórico pesquisável</a>.</p></div></div>
   <div class="toolbar">
     <input id="search" type="search" placeholder="Buscar por palavra-chave, país ou tema…">
@@ -790,6 +833,15 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
   <div class="filter-result" id="filterResult" role="status" aria-live="polite" hidden><span id="filterSummary"></span><button type="button" id="clearSeverity">Ver todas as notícias</button></div>
   <div id="feed"></div>
   <div class="feed-pager" id="feedPager" hidden><span id="feedProgress"></span><button id="showMoreNews" type="button">Mostrar mais notícias ↓</button></div>
+
+  </div>
+  <aside class="portal-news-sidebar" aria-label="Leia também">
+    <div class="portal-sidebar-title"><span>NA SUA TELA</span><h2>Leia também</h2></div>
+    <div id="portalAsideFeed" class="portal-aside-list"><p>Buscando mais notícias...</p></div>
+    <a class="portal-aside-more" href="#radar">Explorar o Radar Mundial ↗</a>
+  </aside>
+ </div>
+</section>
   <section class="archive-section" id="historico" aria-label="Arquivo mensal de notícias já publicadas">
     <div class="archive-head"><div><small>🗂️ JANELA MÓVEL DE 15 DIAS</small><h2>Histórico de notícias e alertas</h2><p>Consulte todas as notícias RSS e os alertas enviados pelo ChatGPT nos últimos 15 dias. Os registros anteriores saem automaticamente deste acervo.</p></div><span id="archiveTotal">Carregando acervo...</span></div>
     <div class="archive-filters">
