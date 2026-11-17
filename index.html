@@ -312,6 +312,28 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   .card-open-button,.card-share-button{min-width:108px}
 }
 
+
+/* Feed escalável e transparência de atualização editorial. */
+.feed-pager{display:flex;justify-content:center;align-items:center;gap:14px;flex-wrap:wrap;margin:13px 0 30px;color:#aabed5;font-size:12px}
+.feed-pager button{min-height:42px;padding:11px 20px;border-radius:12px;border:1px solid #5a91bd;color:#f1f9ff;background:linear-gradient(135deg,#1c4667,#19334f);font-size:12px;font-weight:850}
+.feed-pager button:hover{background:#265b83}
+.sources-panel{margin:17px 0 29px;padding:20px;background:linear-gradient(135deg,#15283d,#111c2d);border:1px solid #385a76;border-radius:18px}
+.sources-head{display:flex;justify-content:space-between;align-items:start;gap:12px;flex-wrap:wrap}
+.sources-head h2{font-size:20px;letter-spacing:-.45px;margin:0 0 3px}
+.sources-head p,.sources-disclaimer{font-size:11px;color:#9fb4cc;line-height:1.65;margin:0}
+.source-time{font-size:11px;color:#83e9c8;font-weight:800;padding:7px 10px;border:1px solid #277568;border-radius:100px;background:#143a35}
+.sources-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:9px;margin:18px 0}
+.sources-stat{background:#0e1a2b;border:1px solid #2b425e;border-radius:12px;padding:11px}
+.sources-stat strong{display:block;font-size:22px;color:#e8f6ff;line-height:1.1}
+.sources-stat span{display:block;color:#98b0c9;font-size:10px;margin-top:7px}
+.sources-details{border-top:1px solid #2d4761;padding-top:12px}
+.sources-details summary{cursor:pointer;color:#d1e7ff;font-size:12px;font-weight:800;list-style-position:inside}
+.sources-list{margin-top:13px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.source-row{padding:12px;background:#0e1c2f;border:1px solid #32465f;border-radius:11px}
+.source-row strong{font-size:12px}.source-row small{display:block;margin-top:4px;color:#a4bad1;font-size:10px;line-height:1.5}
+.source-row .source-ok{color:#81edc6}.source-row .source-partial{color:#f0c67d}.source-row .source-off{color:#ffa3a9}
+.sources-disclaimer{margin-top:11px}
+@media(max-width:620px){.sources-panel{padding:14px}.sources-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.sources-list{grid-template-columns:1fr}.sources-head h2{font-size:18px}.source-time{max-width:100%}.feed-pager{flex-direction:column}}
 </style>
 </head>
 <body>
@@ -364,6 +386,12 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     <div id="radarFeed" class="radar-feed"></div>
   </section>
 
+  <section id="sources" class="sources-panel" aria-label="Fontes de notícias">
+    <div class="sources-head"><div><h2>Fontes e atualização</h2><p>Acompanhe a última coleta automática e os veículos disponíveis.</p></div><span class="source-time" id="sourcesTime">Verificando...</span></div>
+    <div class="sources-stats" id="sourcesStats"></div>
+    <details class="sources-details"><summary>Ver situação por fonte</summary><div id="sourcesList" class="sources-list"><p>Carregando informações...</p></div></details>
+    <p class="sources-disclaimer">O horário de checagem não garante que o jornal publicou uma matéria nova. Notícias são classificadas automaticamente e devem ser verificadas na fonte original.</p>
+  </section>
   <div class="section-header" id="news"><div><div class="eyebrow">Central de informação</div><h2>Notícias de impacto mundial</h2><p>Seleção de notícias internacionais relevantes, com filtros por assunto e país.</p></div></div>
   <div class="toolbar">
     <input id="search" type="search" placeholder="Buscar por palavra-chave, país ou tema…">
@@ -387,6 +415,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 
   <div class="filter-result" id="filterResult" role="status" aria-live="polite" hidden><span id="filterSummary"></span><button type="button" id="clearSeverity">Ver todas as notícias</button></div>
   <div id="feed"></div>
+  <div class="feed-pager" id="feedPager" hidden><span id="feedProgress"></span><button id="showMoreNews" type="button">Mostrar mais notícias ↓</button></div>
 
   <section class="settings" id="settings">
     <strong>Configurações</strong>
@@ -462,14 +491,19 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 
   // ---------- Classificação de severidade por palavras-chave ----------
   const RULES = [
-    { sev: "crit", w: 10, words: ["guerra nuclear","pandemia","tsunami","ataque nuclear","emergência global","colapso","genocídio","terremoto de magnitude 7","magnitude 8","magnitude 9"] },
+    { sev: "crit", w: 10, words: ["guerra nuclear","pandemia","tsunami","ataque nuclear","emergência global","genocídio","terremoto de magnitude 7","magnitude 8","magnitude 9"] },
     { sev: "high", w: 6,  words: ["terremoto","ataque cibernético","ciberataque","surto","evacuação","escalada militar","invasão","furacão","ciclone","inundação","epidemia","ransomware","apagão","mortes","mortos"] },
     { sev: "med",  w: 3,  words: ["alerta","crise","sanções","queda acentuada","cessar-fogo","incêndio florestal","seca","vigilância","tensão","protesto"] },
     { sev: "low",  w: 1,  words: ["anúncio","protocolo","relatório","acordo","reunião","eleição"] }
   ];
   const norm = s => (s || "").toLowerCase();
 
+  function isRumorDebunk(item) {
+    const title = norm(item.title_pt || item.title || "");
+    return /(?:boato|falso|fake news|improv[aá]vel|desmente|sem comprova[cç][aã]o|hoax|debunk|n[aã]o vai acontecer)/i.test(title);
+  }
   function classify(item) {
+    if (isRumorDebunk(item)) return "low";
     const text = norm(item.title + " " + item.summary);
     let score = 0;
     for (const r of RULES) for (const w of r.words) if (text.includes(w)) score += r.w;
@@ -491,6 +525,9 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   let timer = null;
   let seenAlerts = new Set(store.get("ag_seen", []));
   let activeSev = "";
+  const PAGE_SIZE = 24;
+  let visibleCount = PAGE_SIZE;
+  let sourceStatus = null;
 
   // ---------- Fontes na internet (GDELT DOC 2.0, sem chave de API) ----------
   const GDELT_QUERY = '(earthquake OR tsunami OR pandemic OR outbreak OR cyberattack OR ransomware OR war OR "military escalation" OR flood OR hurricane OR wildfire OR explosion) sourcelang:english';
@@ -595,7 +632,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     setStatus("Atualizando notícias internacionais...", true);
     const sources = [];
     if (prefs.feedUrl) sources.push(["Feed personalizado", prefs.feedUrl]);
-    sources.push(["GitHub Pages", "./noticias.json?rev=20261116-pt&t=" + Date.now()]);
+    sources.push(["GitHub Pages", "./noticias.json?t=" + Date.now()]);
     // Espelho público para quando o Pages estiver desatualizado.
     sources.push(["GitHub Raw", "https://raw.githubusercontent.com/ryderguedes154/alerta-global/main/noticias.json?t=" + Date.now()]);
     let data = [], source = "", failures = [];
@@ -626,7 +663,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
         .map(x => ({...x, sev:x.forcedSev || classify(x), ts:Date.parse(x.date) || 0}))
         .sort((x,y) => ORDER[x.sev] - ORDER[y.sev] || y.ts - x.ts);
       if (items.length) {
-        if (source !== "Última consulta salva") store.set("ag_last_good_news", data.slice(0,200));
+        if (source !== "Última consulta salva") store.set("ag_last_good_news", data.slice(0,500));
         setStatus(items.length + " notícias disponíveis · " + source +
           (!navigator.onLine ? " · modo offline" : "") + " · " + new Date().toLocaleTimeString("pt-BR"), true);
       } else {
@@ -636,10 +673,72 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
       renderRadar();
       populateQuakeLocations();
       checkAlerts();
+      await loadSourceStatus();
     } catch (err) {
       console.error("Falha ao montar o painel",err);
       setStatus("Falha ao mostrar notícias: " + err.message + ". Atualize o aplicativo.", false);
     } finally { loading = false; }
+  }
+
+
+  async function loadSourceStatus() {
+    const urls = [
+      "./status_fontes.json?t=" + Date.now(),
+      "https://raw.githubusercontent.com/ryderguedes154/alerta-global/main/status_fontes.json?t=" + Date.now()
+    ];
+    let report = null;
+    for (const url of urls) {
+      try {
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 8000);
+        try {
+          const response = await fetch(url, {cache:"no-store",signal:controller.signal});
+          if (!response.ok) continue;
+          const parsed = await response.json();
+          if (Array.isArray(parsed.sources) && parsed.updated_at) { report = parsed; break; }
+        } finally { clearTimeout(timeout); }
+      } catch {}
+    }
+    if (report) {
+      sourceStatus = report;
+      store.set("ag_last_sources", report);
+    } else {
+      sourceStatus = store.get("ag_last_sources", null);
+    }
+    renderSourceStatus();
+  }
+
+  function renderSourceStatus() {
+    const stamp = document.getElementById("sourcesTime");
+    const stats = document.getElementById("sourcesStats");
+    const list = document.getElementById("sourcesList");
+    if (!sourceStatus || !Array.isArray(sourceStatus.sources)) {
+      stamp.textContent = "Aguardando primeira coleta";
+      stats.innerHTML = '<div class="sources-stat"><strong>—</strong><span>Dados por fonte ainda não disponíveis</span></div>';
+      list.textContent = "O status das fontes será publicado após a próxima execução da coleta no GitHub.";
+      return;
+    }
+    const age = Date.now() - Date.parse(sourceStatus.updated_at);
+    const stale = !Number.isFinite(age) || age > 3 * 3600000;
+    stamp.textContent = (stale ? "⚠ Coleta antiga · " : "✓ Última coleta · ") +
+      new Date(sourceStatus.updated_at).toLocaleString("pt-BR", {dateStyle:"short",timeStyle:"short"});
+    const rows = [
+      [sourceStatus.total || 0,"Notícias coletadas"],
+      [sourceStatus.total_sources || 0,"Veículos presentes"],
+      [sourceStatus.translated_titles || 0,"Títulos traduzidos"],
+      [sourceStatus.translated_summaries || 0,"Resumos traduzidos"]
+    ];
+    stats.innerHTML = rows.map(([value,label]) =>
+      '<div class="sources-stat"><strong>' + esc(value) + '</strong><span>' + esc(label) + '</span></div>'
+    ).join("");
+    list.innerHTML = sourceStatus.sources.map(s => {
+      const color = s.status === "online" ? "source-ok" : s.status === "parcial" ? "source-partial" : "source-off";
+      const statusText = s.status === "online" ? "Coleta funcionando" : s.status === "parcial" ? "Coleta parcial" : "Feed indisponível";
+      const latest = s.latest_article_at ? new Date(s.latest_article_at).toLocaleString("pt-BR",{dateStyle:"short",timeStyle:"short"}) : "Sem matéria recente";
+      return '<div class="source-row"><strong>' + esc(s.name) + '</strong><small class="' + color + '">' +
+        statusText + '</small><small>' + esc(s.count) + ' notícias no painel · Última matéria: ' + esc(latest) +
+        '</small></div>';
+    }).join("");
   }
 
   function setStatus(text, live) {
@@ -762,6 +861,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   ];
   const LOW_IMPACT = /\b(?:nasal spray|spray nasal|celebrity|celebrities|grammy|oscars?|movie|film festival|premier league|quarterfinal|football|soccer|thrash|recipe|receita|beauty|skincare|dating|royal wedding|horoscope|horoscopo|weight loss|diet tips|lost weight|makeup|tiktok star|reality tv|influencer)\b/;
   function importanceScore(item) {
+    if (isRumorDebunk(item)) return 0;
     if (item.source === "USGS") {
       const magnitude = Number(String(item.title || "").match(/magnitude\s+(\d+(?:\.\d+)?)/i)?.[1] || 0);
       return magnitude >= 6 ? 10 : magnitude >= 5 ? 6 : 3;
@@ -826,8 +926,13 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     }
 
     const feed = document.getElementById("feed");
+    const pager = document.getElementById("feedPager");
+    const progress = document.getElementById("feedProgress");
+    pager.hidden = list.length <= PAGE_SIZE;
+    progress.textContent = "Exibindo " + Math.min(visibleCount,list.length) + " de " + list.length + " notícias";
+    document.getElementById("showMoreNews").hidden = visibleCount >= list.length;
     if (!list.length) { feed.innerHTML = '<div class="empty">Nenhuma notícia com esses filtros.</div>'; return; }
-    feed.innerHTML = list.map(i => {
+    feed.innerHTML = list.slice(0, visibleCount).map(i => {
       const photo = newsImage(i.image);
       let destination = "";
       try {
@@ -862,18 +967,23 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   }
 
   function checkAlerts() {
-    const critical = items.filter(i => i.sev === "crit" || i.sev === "high");
+    // Evitar classificar boatos desmentidos como alertas de perigo.
+    const critical = items.filter(i =>
+      (i.sev === "crit" || i.sev === "high") &&
+      !isRumorDebunk(i) && importanceScore(i) >= 3 &&
+      (!i.ts || Date.now() - i.ts < 96 * 3600000));
     const banner = document.getElementById("banner");
     const list = document.getElementById("bannerList");
     if (critical.length) {
       banner.classList.add("show");
-      list.innerHTML = critical.slice(0, 6).map(i => `<li><strong>${LABEL[i.sev]}:</strong> ${esc(i.title)} <em style="color:var(--muted)">(${esc(i.region || "Global")})</em></li>`).join("");
+      list.innerHTML = critical.slice(0, 6).map(i => `<li><strong>${LABEL[i.sev]}:</strong> ${esc(i.title_pt || i.title)} <em style="color:var(--muted)">(${esc(i.region || "Global")})</em></li>`).join("");
     } else {
       banner.classList.remove("show");
     }
 
     const newAlerts = [];
     for (const i of items) {
+      if (isRumorDebunk(i) || importanceScore(i) < 3) continue;
       const key = i.title + "|" + i.date;
       const hits = watchHits(i);
       const critNow = i.sev === "crit";
@@ -1158,12 +1268,18 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     const p = await Notification.requestPermission();
     alert(p === "granted" ? "Notificações ativadas." : "Permissão não concedida.");
   };
-  ["search", "cat", "sev"].forEach(id => document.getElementById(id).addEventListener("input", render));
+  ["search", "cat", "sev"].forEach(id => document.getElementById(id).addEventListener("input", () => {
+    visibleCount = PAGE_SIZE; render();
+  }));
+  document.getElementById("showMoreNews").addEventListener("click", () => {
+    visibleCount += PAGE_SIZE; render();
+  });
   document.querySelectorAll(".level").forEach(el => el.addEventListener("click", () => {
     // Começar do grupo completo: limpar buscas ou categorias escolhidas antes.
     document.getElementById("search").value = "";
     document.getElementById("cat").value = "";
     document.getElementById("sev").value = el.dataset.sev;
+    visibleCount = PAGE_SIZE;
     render();
     document.getElementById("news").scrollIntoView({
       behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth",
@@ -1174,6 +1290,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     document.getElementById("sev").value = "";
     document.getElementById("search").value = "";
     document.getElementById("cat").value = "";
+    visibleCount = PAGE_SIZE;
     render();
     document.getElementById("news").scrollIntoView({ behavior: "smooth", block: "start" });
   });
