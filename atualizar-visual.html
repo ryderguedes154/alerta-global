@@ -3,23 +3,23 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#080e1d">
-<title>Atualizar visual | Alerta Global</title>
+<meta name="theme-color" content="#df2337">
+<title>Atualizar portal | Alerta Global</title>
 <style>
-*{box-sizing:border-box}html,body{min-height:100%;margin:0}body{font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif;background:radial-gradient(circle at 80% 10%,#8c20352a,transparent 45%),#05070d;color:#f8fbff;display:grid;place-items:center;padding:24px}
-main{background:linear-gradient(135deg,#152a45,#0a1425);border:1px solid #963c52;border-top:3px solid #e32e42;border-radius:22px;padding:28px;max-width:490px;width:100%;box-shadow:0 22px 65px #0009}
-small{color:#ff95a3;font-weight:800;letter-spacing:.14em}h1{font-size:27px;margin:10px 0;line-height:1.2}p{color:#c2d0e0}a{display:block;background:#e32e42;color:white;text-align:center;text-decoration:none;border-radius:13px;padding:13px 17px;font-weight:800;margin-top:18px}a:focus-visible{outline:3px solid white;outline-offset:4px}
+*{box-sizing:border-box}html,body{min-height:100%;margin:0}body{font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif;background:#f7f8fa;color:#1b2737;display:grid;place-items:center;padding:24px}
+main{background:#fff;border:1px solid #e2e7ed;border-top:3px solid #df2337;border-radius:22px;padding:28px;max-width:490px;width:100%;box-shadow:0 22px 65px #0009}
+small{color:#df2337;font-weight:800;letter-spacing:.14em}h1{font-size:27px;margin:10px 0;line-height:1.2}p{color:#64748b}a{display:block;background:#df2337;color:white;text-align:center;text-decoration:none;border-radius:13px;padding:13px 17px;font-weight:800;margin-top:18px}a:focus-visible{outline:3px solid white;outline-offset:4px}
 #status{min-height:27px;color:#e5f1ff}.colors{display:flex;gap:10px;margin:20px 0}.colors b{display:block;width:32px;height:32px;border:1px solid #ffffff50;border-radius:9px}.colors b:nth-child(1){background:#05070d}.colors b:nth-child(2){background:#e32e42}.colors b:nth-child(3){background:#0b1728}.colors b:nth-child(4){background:#f8fbff}
 </style>
 </head>
 <body>
 <main>
 <small>ALERTA GLOBAL · ATUALIZAÇÃO DE TEMA</small>
-<h1>🚨 Novo visual do aplicativo</h1>
-<p>Atualizando o tema preto, vermelho, azul-escuro e branco. Suas preferências e notícias salvas no GitHub serão preservadas.</p>
-<div class="colors" aria-hidden="true"><b></b><b></b><b></b><b></b></div>
+<h1>🚨 Novo portal de notícias</h1>
+<p>Abrindo o novo Alerta Global no estilo portal jornalístico, com fundo branco, menu horizontal e notícias em destaque. As preferências e as notícias já salvas serão mantidas.</p>
+
 <p id="status" role="status">Limpando apenas o cache antigo do Alerta Global...</p>
-<a id="open" href="./index.html?tema=red-navy-20261117-v2">Abrir o Alerta Global atualizado</a>
+<a id="open" href="./index.html?tema=portal-jornalismo-20261117-v1">Abrir o Alerta Global atualizado</a>
 </main>
 <script>
 (async()=>{
@@ -38,7 +38,7 @@ small{color:#ff95a3;font-weight:800;letter-spacing:.14em}h1{font-size:27px;margi
     console.warn("Limpeza parcial do cache:",error);
     status.textContent="Atualização preparada. Se necessário, toque no botão abaixo.";
   }
-  location.replace("./index.html?tema=red-navy-20261117-v2");
+  location.replace("./index.html?tema=portal-jornalismo-20261117-v1");
 })();
 </script>
 </body>
