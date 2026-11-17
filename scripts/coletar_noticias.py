@@ -29,12 +29,25 @@ FEEDS = [
     ("Le Monde", "https://www.lemonde.fr/international/rss_full.xml", "Geral", "FR", "fr"),
     ("El País", "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada", "Geral", "ES", "es"),
     ("NHK World", "https://www3.nhk.or.jp/rss/news/cat6.xml", "Geral", "JP", "en"),
+    # Novas fontes internacionais: RSS oficial, salvo AP (feed da conta verificada no Flipboard).
+    ("Associated Press", "https://flipboard.com/@associatedpress/international-news-miluvhmaz.rss", "Geral", "US", "en"),
+    ("France 24", "https://www.france24.com/en/rss", "Geral", "FR", "en"),
+    ("France 24", "https://www.france24.com/en/europe/rss", "Geral", "FR", "en"),
+    ("Euronews", "https://www.euronews.com/rss?format=mrss&level=theme&name=news", "Geral", "EU", "en"),
+    ("Euronews", "https://www.euronews.com/rss?format=mrss&level=vertical&name=earth", "Clima e desastres", "EU", "en"),
+    ("DW Brasil", "https://rss.dw.com/rdf/rss-br-br", "Geral", "BR", "pt"),
+    ("CNN Brasil", "https://www.cnnbrasil.com.br/feed/", "Geral", "BR", "pt"),
+    ("Agência Brasil", "https://agenciabrasil.ebc.com.br/rss/internacional/feed.xml", "Geral", "BR", "pt"),
+    ("NPR", "https://feeds.npr.org/1004/rss.xml", "Geral", "US", "en"),
+    ("Sky News", "https://feeds.skynews.com/feeds/rss/world.xml", "Geral", "GB", "en"),
+    ("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "Geral", "US", "en"),
+    ("CBS News", "https://www.cbsnews.com/latest/rss/world", "Geral", "US", "en"),
     # Reuters via Google Notícias: o feed lista artigos atribuídos à Reuters;
     # somente itens com a origem Reuters serão aceitos.
     ("Reuters", "https://news.google.com/rss/search?q=site%3Areuters.com%20when%3A2d&hl=en-US&gl=US&ceid=US%3Aen", "Geral", "GLOBAL", "en"),
 ]
 NOW = dt.datetime.now(dt.timezone.utc)
-UA = "AlertaGlobalRSS/1.0 (public news aggregator)"
+UA = "Mozilla/5.0 (compatible; AlertaGlobalRSS/2.0; public-news-aggregator)"
 def download(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, application/json, */*"})
     with urllib.request.urlopen(req, timeout=18) as response:
@@ -324,14 +337,22 @@ def translate(text, lang):
 def main():
     data = []
     success = 0
-    for source, url, cat, country, lang in FEEDS:
-        try:
-            articles = parse_feed(source, url, cat, country, lang)
-            print(f"{source}: {len(articles)} notícias ({url})")
-            data.extend(articles)
-            success += 1
-        except Exception as err:
-            print(f"FALHA em {source} ({url}): {err}")
+    # Várias fontes: consultas paralelas para não aumentar demais o tempo do workflow.
+    # Cada fonte é independente: falhas em um RSS não interrompem os demais.
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        jobs = {
+            executor.submit(parse_feed, source, url, cat, country, lang): (source, url)
+            for source, url, cat, country, lang in FEEDS
+        }
+        for job in as_completed(jobs):
+            source, url = jobs[job]
+            try:
+                articles = job.result()
+                print(f"{source}: {len(articles)} notícias ({url})")
+                data.extend(articles)
+                success += 1
+            except Exception as err:
+                print(f"FALHA em {source} ({url}): {err}")
     try:
         quakes = earthquakes()
         data.extend(quakes)
@@ -346,9 +367,22 @@ def main():
         key = re.sub(r"\W+", "", item["title"].lower())[:100]
         if key and key not in unique:
             unique[key] = item
-    sorted_items = sorted(unique.values(), key=lambda x: x.get("date", ""), reverse=True)[:200]
+    # Diversidade editorial: impedir que um único veículo ocupe quase todas as
+    # notícias. Ainda ordenamos por data e preservamos até 200 registros.
+    sorted_items = []
+    by_source = {}
+    for item in sorted(unique.values(), key=lambda x: x.get("date", ""), reverse=True):
+        source = item.get("source", "")
+        limit = 40 if source == "USGS" else 30
+        if by_source.get(source, 0) >= limit:
+            continue
+        sorted_items.append(item)
+        by_source[source] = by_source.get(source, 0) + 1
+        if len(sorted_items) >= 200:
+            break
     if not sorted_items:
         raise SystemExit("Nenhuma notícia coletada; preservando o JSON anterior.")
+    print(f"Fontes diferentes no painel: {len(by_source)}. Distribuição: {by_source}")
     # Tradução progressiva e com cache. Respeita limites do serviço gratuito.
     cache = {}
     if OUT.exists():
