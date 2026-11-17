@@ -6,6 +6,7 @@ on:
     paths:
       - '.github/workflows/atualizar-noticias.yml'
       - 'scripts/coletar_noticias.py'
+      - 'scripts/atualizar_destaques.py'
   schedule:
     - cron: '7,37 * * * *'
 permissions:
@@ -23,11 +24,13 @@ jobs:
           python-version: '3.12'
       - name: Coletar RSS e USGS
         run: python scripts/coletar_noticias.py
-      - name: Publicar notícias coletadas
+      - name: Selecionar destaques globais em português
+        run: python scripts/atualizar_destaques.py
+      - name: Publicar notícias coletadas e destaques
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add noticias.json status_fontes.json
+          git add noticias.json status_fontes.json destaques-radar.json
           if ! git diff --cached --quiet; then
             git commit -m "Atualiza notícias de fontes internacionais"
             git push
