@@ -1183,7 +1183,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     }
   }
 
-  async function loadArchiveIndex() {
+  async function loadArchiveIndex(forceReload = false) {
     const status = document.getElementById("archiveStatus");
     try {
       const data = await getArchiveJson("historico/indice.json");
@@ -1200,7 +1200,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
       select.value = selected;
       document.getElementById("archiveTotal").textContent =
         Number(data.total || 0).toLocaleString("pt-BR") + " notícias guardadas";
-      if (archiveLoadedMonth !== selected) await loadArchiveMonth();
+      if (archiveLoadedMonth !== selected || forceReload) await loadArchiveMonth();
       else renderArchive();
     } catch (error) {
       status.textContent = "O histórico está sendo preparado. As notícias recentes continuam disponíveis.";
@@ -1220,7 +1220,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   document.getElementById("archiveMore").addEventListener("click", () => {
     archiveVisible += 24; renderArchive();
   });
-  document.getElementById("archiveReload").addEventListener("click", loadArchiveIndex);
+  document.getElementById("archiveReload").addEventListener("click", () => loadArchiveIndex(true));
 
   // ---------- Renderização ----------
   const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
@@ -1867,6 +1867,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   setInterval(loadEditorial, 5 * 60 * 1000);
   setInterval(loadCuration, 5 * 60 * 1000);
   loadArchiveIndex();
+  setInterval(() => { if (!document.hidden && location.hash === "#historico") loadArchiveIndex(true); }, 5 * 60 * 1000);
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "visible") { load(); loadEditorial(); loadCuration(); }
   });
