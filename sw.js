@@ -1,5 +1,5 @@
 /* Alerta Global — Service Worker: cache de interface e últimas notícias. */
-const VERSION = "ag-v9-20261117-fontes-500";
+const VERSION = "ag-v10-20261117-notificacoes";
 const SHELL = "alerta-shell-" + VERSION;
 const DATA = "alerta-dados-" + VERSION;
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/alerta-global.svg"];
@@ -65,15 +65,37 @@ self.addEventListener("fetch", event => {
 });
 self.addEventListener("notificationclick", event => {
   event.notification.close();
-  const target = new URL("index.html#radar", ROOT).href;
+  const appHome = new URL("index.html#radar", ROOT).href;
+  const action = event.action || "read";
+  const requested = action === "radar" ? appHome : event.notification.data?.url || appHome;
+  let target = appHome;
+  try {
+    const parsed = new URL(requested, ROOT);
+    if (["https:", "http:"].includes(parsed.protocol)) target = parsed.href;
+  } catch {}
   event.waitUntil((async () => {
-    const clientsList = await self.clients.matchAll({ type: "window", includeUncontrolled: true });
-    for (const client of clientsList) {
-      if (client.url.startsWith(ROOT.href)) {
+    const windows = await self.clients.matchAll({type:"window",includeUncontrolled:true});
+    // Se já existe uma janela mostrando o destino exato, colocá-la na frente.
+    for (const client of windows) {
+      if (client.url === target) {
         await client.focus();
         return;
       }
     }
-    await self.clients.openWindow(target);
+    // Ações externas abrem a matéria; o atalho Radar abre o próprio aplicativo.
+    try {
+      const opened = await self.clients.openWindow(target);
+      if (opened) return;
+    } catch (error) {
+      console.warn("Falha ao abrir destino da notificação",error);
+    }
+    for (const client of windows) {
+      if (client.url.startsWith(ROOT.href)) {
+        if (client.navigate) await client.navigate(appHome);
+        await client.focus();
+        return;
+      }
+    }
+    await self.clients.openWindow(appHome);
   })());
 });
