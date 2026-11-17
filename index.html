@@ -574,7 +574,8 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
         if (!Array.isArray(data.items) || !data.items.length) continue;
         const stories = data.items.filter(i => i.title && i.url && /^https:\/\//.test(i.url));
         if (!stories.length) continue;
-        document.getElementById("editorialUpdate").textContent = "🔄 Seleção "+(data.edition || "atual")+" · atualizada automaticamente pelo coletor do GitHub a cada 30 minutos (quando há novas matérias)";
+        const editorialCheck = data.checked_at ? " · Última checagem: " + new Date(data.checked_at).toLocaleString("pt-BR",{timeZone:"America/Boa_Vista"}) + " (Boa Vista)" : "";
+        document.getElementById("editorialUpdate").textContent = "🌍 Destaques de "+(data.edition || "data recente")+ editorialCheck +" · novas matérias aparecem após a coleta automática; sem novidades, os destaques permanecem.";
         target.innerHTML = stories.map(i => `
           <article class="editorial-card">
             ${newsImage(i.image) ? `<img class="editorial-cover" src="${esc(newsImage(i.image))}" alt="Imagem vinculada à matéria na fonte ${esc(i.source)}" loading="lazy" onerror="this.remove()">` : ""}
@@ -1396,7 +1397,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 
   document.getElementById("shareCopy").addEventListener("click", copyShareLink);
   // ---------- Controles ----------
-  document.getElementById("refreshBtn").onclick = load;
+  document.getElementById("refreshBtn").onclick = () => { load(); loadEditorial(); };
   document.getElementById("settingsBtn").onclick = () => {
     const s = document.getElementById("settings");
     s.classList.toggle("open");
@@ -1474,6 +1475,12 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 
   setupTimer();
   loadEditorial();
+  // Os destaques acompanham as mudanças no GitHub mesmo com a página aberta.
+  // O GitHub coleta periodicamente; consultar a cada cinco minutos apenas lê o JSON.
+  setInterval(loadEditorial, 5 * 60 * 1000);
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "visible") loadEditorial();
+  });
   load();
 })();
 </script>
