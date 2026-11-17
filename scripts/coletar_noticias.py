@@ -11,10 +11,13 @@ import urllib.parse
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
+import unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "noticias.json"
+STATUS_OUT = ROOT / "status_fontes.json"
+MAX_ARTICLES = 500
 FEEDS = [
     # (fonte, endereço RSS, categoria padrão, país ISO, idioma ISO)
     ("BBC News", "https://feeds.bbci.co.uk/news/world/rss.xml", "Geral", "GB", "en"),
@@ -178,7 +181,7 @@ def enrich_article_images(articles, cache):
             continue
         if item.get("source") == "USGS" or "google.com" in urllib.parse.urlsplit(item.get("url", "")).netloc:
             continue
-        if len(pending) < 90:
+        if len(pending) < 140:
             pending.append(item)
     if not pending:
         return
@@ -205,17 +208,24 @@ def parsedate(value):
     if result.tzinfo is None:
         result = result.replace(tzinfo=dt.timezone.utc)
     return result.astimezone(dt.timezone.utc).isoformat().replace("+00:00", "Z")
+CATEGORY_RULES = [
+    ("Saúde", r"\b(?:outbreak|pandemic|vaccine|disease|epidemia|pandemia|vacina|surto|saude|salud|sante|virus)\b"),
+    ("Clima e desastres", r"\b(?:earthquake|terremoto|tsunami|hurricane|furacao|huracan|flood|flooding|inundacao|inundaciones|storm|tempestade|wildfire|climate|clima|cyclone|ciclone)\b"),
+    ("Segurança cibernética", r"\b(?:cyberattack|cyberattacks|ciberataque|ransomware|data breach|vazamento de dados|hacker|hackers|ciberseguranca)\b"),
+    ("Conflitos", r"\b(?:war|guerra|guerre|missile|missiles|misil|misiles|misseis|airstrike|bombardeio|bombardement|military|militar|militares|ceasefire|cessar.fogo|invasion|invasao|invasion|armed forces)\b"),
+    ("Economia", r"\b(?:economy|economia|inflation|inflacao|inflacion|stock market|bolsa de valores|tariff|tarifa|interest rates|taxa de juros|central bank|banco central|recession|recessao|recesion)\b"),
+    ("Tecnologia", r"\b(?:artificial intelligence|inteligencia artificial|intelligence artificielle|semiconductor|semicondutor|ai regulation|regulamentacao de ia|technology|tecnologia)\b"),
+]
+
 def category(title, default):
-    title = title.lower()
-    lookup = [
-        ("Saúde", ["outbreak", "pandemic", "vaccine", "disease", "health", "virus"]),
-        ("Clima e desastres", ["earthquake", "tsunami", "hurricane", "flood", "storm", "wildfire", "climate"]),
-        ("Segurança cibernética", ["cyberattack", "ransomware", "data breach", "hacker"]),
-        ("Conflitos", ["war", "missile", "airstrike", "military", "ceasefire", "invasion"]),
-        ("Economia", ["economy", "inflation", "stock market", "tariff", "interest rate", "bank"]),
-        ("Tecnologia", ["artificial intelligence", "technology", "tech", "ai regulation"]),
-    ]
-    return next((label for label, words in lookup if any(w in title for w in words)), default)
+    """Correspondência por palavras inteiras, sem confundir 'war' com 'software'."""
+    normalized = "".join(
+        ch for ch in unicodedata.normalize("NFD", title.lower())
+        if unicodedata.category(ch) != "Mn"
+    )
+    return next((label for label, pattern in CATEGORY_RULES
+                 if re.search(pattern, normalized, re.I)), default)
+
 def parse_feed(source, url, default, country, lang):
     root = ET.fromstring(download(url))
     entries = [n for n in root.iter() if n.tag.split("}")[-1] in ("item", "entry")]
@@ -337,6 +347,7 @@ def translate(text, lang):
 def main():
     data = []
     success = 0
+    feed_report = {}
     # Várias fontes: consultas paralelas para não aumentar demais o tempo do workflow.
     # Cada fonte é independente: falhas em um RSS não interrompem os demais.
     with ThreadPoolExecutor(max_workers=8) as executor:
@@ -351,14 +362,21 @@ def main():
                 print(f"{source}: {len(articles)} notícias ({url})")
                 data.extend(articles)
                 success += 1
+                record = feed_report.setdefault(source, {"success": 0, "failed": 0, "collected": 0})
+                record["success"] += 1
+                record["collected"] += len(articles)
             except Exception as err:
+                record = feed_report.setdefault(source, {"success": 0, "failed": 0, "collected": 0})
+                record["failed"] += 1
                 print(f"FALHA em {source} ({url}): {err}")
     try:
         quakes = earthquakes()
         data.extend(quakes)
         success += 1
         print(f"USGS: {len(quakes)} terremotos")
+        feed_report["USGS"] = {"success": 1, "failed": 0, "collected": len(quakes)}
     except Exception as err:
+        feed_report["USGS"] = {"success": 0, "failed": 1, "collected": 0}
         print(f"FALHA no USGS: {err}")
     if not success:
         raise SystemExit("Todas as fontes falharam; preservando o JSON anterior.")
@@ -367,18 +385,21 @@ def main():
         key = re.sub(r"\W+", "", item["title"].lower())[:100]
         if key and key not in unique:
             unique[key] = item
-    # Diversidade editorial: impedir que um único veículo ocupe quase todas as
-    # notícias. Ainda ordenamos por data e preservamos até 200 registros.
+    # Diversidade editorial: preservar mais veículos e até 500 registros.
+    # Não sobrescrever o feed anterior se todos os veículos jornalísticos falharem.
+    editorial_count = sum(1 for item in unique.values() if item.get("source") != "USGS")
+    if editorial_count < 12 and OUT.exists():
+        raise SystemExit("Coleta editorial insuficiente; preservando o feed anterior.")
     sorted_items = []
     by_source = {}
     for item in sorted(unique.values(), key=lambda x: x.get("date", ""), reverse=True):
         source = item.get("source", "")
-        limit = 40 if source == "USGS" else 30
+        limit = 35 if source == "USGS" else 55
         if by_source.get(source, 0) >= limit:
             continue
         sorted_items.append(item)
         by_source[source] = by_source.get(source, 0) + 1
-        if len(sorted_items) >= 200:
+        if len(sorted_items) >= MAX_ARTICLES:
             break
     if not sorted_items:
         raise SystemExit("Nenhuma notícia coletada; preservando o JSON anterior.")
@@ -394,8 +415,11 @@ def main():
     enrich_article_images(sorted_items, cache)
     # Títulos primeiro para evitar o Radar Mundial com manchetes em outros idiomas.
     # Reaproveita traduções anteriores; limita novas chamadas por execução.
-    title_budget = 200
-    summary_budget = 90
+    # Traduções são incrementais: cache preservado e orçamento por execução.
+    # Títulos recebem prioridade para evitar cards multilíngues; resumos são
+    # completados gradualmente, sem disparar centenas de requisições por rodada.
+    title_budget = 130
+    summary_budget = 130
     title_count = 0
     summary_count = 0
 
@@ -440,6 +464,34 @@ def main():
           f"{sum(bool(i.get('summary_pt') or i.get('lang') == 'pt' or i.get('source') == 'USGS') for i in sorted_items)} resumos")
 
     OUT.write_text(json.dumps(sorted_items, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Gravadas {len(sorted_items)} ocorrências em {OUT.name}")
+    source_data = []
+    for source in sorted(feed_report):
+        report = feed_report[source]
+        source_items = [item for item in sorted_items if item.get("source") == source]
+        dated = [item["date"] for item in source_items if item.get("date")]
+        source_data.append({
+            "name": source,
+            "count": len(source_items),
+            "collected": report["collected"],
+            "working_feeds": report["success"],
+            "failed_feeds": report["failed"],
+            "status": ("online" if report["success"] and not report["failed"] else
+                       "parcial" if report["success"] else "indisponivel"),
+            "latest_article_at": max(dated) if dated else None,
+            "checked_at": NOW.isoformat().replace("+00:00", "Z"),
+        })
+    # status_fontes.json descreve a execução do coletor, não confirma que
+    # todos os veículos publicaram notícias novas naquele momento.
+    status = {
+        "updated_at": NOW.isoformat().replace("+00:00", "Z"),
+        "total": len(sorted_items),
+        "total_sources": sum(bool(item["count"]) for item in source_data),
+        "translated_titles": sum(bool(item.get("title_pt") or item.get("source") == "USGS") for item in sorted_items),
+        "translated_summaries": sum(bool(item.get("summary_pt") or item.get("source") == "USGS") for item in sorted_items),
+        "with_images": sum(bool(item.get("image")) for item in sorted_items),
+        "sources": source_data,
+    }
+    STATUS_OUT.write_text(json.dumps(status, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"Gravadas {len(sorted_items)} ocorrências em {OUT.name} com status em {STATUS_OUT.name}")
 if __name__ == "__main__":
     main()
