@@ -2,9 +2,24 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-17T02:26:00Z",
+  "updated_at": "2026-11-17T03:34:50.977Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Ucrânia realiza grande ataque com drones contra a Rússia; ponte da Crimeia e refinarias são alvos",
+      "summary": "Em 16 de novembro, Ucrânia lançou uma ofensiva de drones de grande escala contra alvos russos, incluindo a ponte de Kerch e instalações ligadas ao petróleo. O Ministério da Defesa russo afirmou ter interceptado 1.336 drones, número não verificado independentemente. Reuters e Associated Press confirmam a ocorrência da ofensiva, mas a extensão dos danos permanece incerta.",
+      "impact_br": "Uma escalada prolongada pode afetar a oferta internacional de energia e os preços do petróleo, com possíveis reflexos nos combustíveis brasileiros; não há impacto direto confirmado até agora.",
+      "category": "Conflitos",
+      "region": "Europa Oriental",
+      "country": "RU",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/ukraine-launches-biggest-drone-attack-russia-since-war-began-defence-ministry-2026-11-16/",
+      "published_on": "16/11/2026",
+      "published_at": "16/11/2026 (Boa Vista; horário exato do acontecimento não confirmado)",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial"
+    },
     {
       "title": "EUA ampliam presença militar no Oriente Médio com terceiro porta-aviões",
       "summary": "O USS Theodore Roosevelt chegou ao Oriente Médio e se juntou a outros dois porta-aviões americanos. As negociações com o Irã continuam sem solução definitiva; a presença naval não significa, por si só, nova ofensiva.",
