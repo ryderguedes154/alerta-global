@@ -2,9 +2,24 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-17T06:52:38Z",
+  "updated_at": "2026-11-17T07:12:55Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "EUA passam a exigir licenças para exportar chips avançados de IA ao Brasil e outros quatro países",
+      "summary": "Em 16 de novembro, os Estados Unidos anunciaram novas regras de exportação para chips avançados de inteligência artificial destinados ao Brasil, Singapura, Malásia, Indonésia e Tailândia, visando impedir o acesso indireto de empresas chinesas a essa tecnologia. A medida prevê exceção para determinados destinatários ligados a empresas dos EUA e não representa uma proibição geral de importações.",
+      "impact_br": "Empresas brasileiras que pretendem importar chips avançados para data centers e projetos de IA podem precisar de licenças americanas, com possíveis atrasos ou custos adicionais. O impacto efetivo ainda não foi quantificado.",
+      "category": "Tecnologia e comércio global",
+      "region": "Estados Unidos, Brasil e Ásia",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/",
+      "published_on": "2026-11-16",
+      "published_at": "2026-11-16T09:46:00-04:00",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial"
+    },
     {
       "title": "Japão denuncia violação de seu espaço aéreo por duas aeronaves suspeitas de serem russas",
       "summary": "O Ministério da Defesa japonês informou que duas aeronaves consideradas provavelmente russas entraram no espaço aéreo do Japão perto da ilha de Okinoshima, em Fukuoka, na madrugada de 17 de novembro (horário japonês). Caças japoneses decolaram para adverti-las, e Tóquio apresentou protesto diplomático a Moscou. A violação e a reação japonesa são confirmadas pelo governo do Japão; a identificação russa das aeronaves ainda é tratada como provável.",
