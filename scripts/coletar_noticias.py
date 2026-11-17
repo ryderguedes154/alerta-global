@@ -413,50 +413,57 @@ def main():
         except (ValueError, TypeError):
             pass
     enrich_article_images(sorted_items, cache)
-    # Títulos primeiro para evitar o Radar Mundial com manchetes em outros idiomas.
-    # Reaproveita traduções anteriores; limita novas chamadas por execução.
-    # Traduções são incrementais: cache preservado e orçamento por execução.
-    # Títulos recebem prioridade para evitar cards multilíngues; resumos são
-    # completados gradualmente, sem disparar centenas de requisições por rodada.
-    title_budget = 130
-    summary_budget = 130
-    title_count = 0
-    summary_count = 0
-
+    # Para evitar manchetes em inglês, cada notícia tem prioridade para tradução
+    # do título E do resumo antes de passar à próxima. O processamento é paralelo,
+    # mas limitado para respeitar os serviços externos e evitar bloqueios.
+    tasks = []
     for item in sorted_items:
         previous = cache.get(item["title"], {})
         if not item.get("image") and previous.get("image"):
             item["image"] = previous["image"]
         lang = item.get("lang", "")
-        if lang == "pt":
+        if lang in ("pt", "pt-BR") or item.get("source") == "USGS":
             item["title_pt"] = item["title"]
-            item["summary_pt"] = item["summary"]
+            item["summary_pt"] = item.get("summary", "")
             continue
-        if not lang or item.get("source") == "USGS":
+        if not lang:
             continue
         if previous.get("title_pt"):
             item["title_pt"] = previous["title_pt"]
-        elif title_budget > 0 and item.get("title"):
-            title_budget -= 1
-            value = translate(item["title"], lang)
-            if value:
-                item["title_pt"] = value
-                title_count += 1
+        elif item.get("title"):
+            tasks.append((item, "title_pt", item["title"], lang))
         if previous.get("summary_pt"):
             item["summary_pt"] = previous["summary_pt"]
+        elif item.get("summary"):
+            tasks.append((item, "summary_pt", item["summary"], lang))
 
-    # Priorizamos resumos de acontecimentos mais importantes; matérias
-    # secundárias ainda mantêm o resumo original se não houver tradução.
-    for item in sorted_items:
-        if summary_budget <= 0:
-            break
-        if item.get("summary_pt") or not item.get("summary") or item.get("lang") in ("pt", "", None):
-            continue
-        summary_budget -= 1
-        value = translate(item["summary"][:340], item["lang"])
-        if value:
-            item["summary_pt"] = value
-            summary_count += 1
+    # Traduções reutilizadas do JSON anterior não consomem requisições.
+    # O orçamento por rodada permite progressão contínua das 500 notícias.
+    translation_jobs = tasks[:360]
+    title_count = 0
+    summary_count = 0
+    if translation_jobs:
+        with ThreadPoolExecutor(max_workers=5) as executor:
+            jobs = {executor.submit(translate, original, lang): (item, field)
+                    for item, field, original, lang in translation_jobs}
+            for job in as_completed(jobs):
+                item, field = jobs[job]
+                try:
+                    value = job.result()
+                except Exception:
+                    value = ""
+                if not value:
+                    continue
+                item[field] = value
+                if field == "title_pt":
+                    title_count += 1
+                else:
+                    summary_count += 1
+    pending = sum(bool(item.get("lang") not in ("pt", "pt-BR")
+                       and item.get("source") != "USGS"
+                       and (not item.get("title_pt") or not item.get("summary_pt")))
+                  for item in sorted_items)
+    print(f"Traduções tentadas: {len(translation_jobs)}; notícias com alguma tradução pendente: {pending}")
 
     print(f"Traduções novas: {title_count} títulos e {summary_count} resumos")
     print(f"Serviços de tradução: {TRANSLATION_METRICS}. Indisponíveis: {sorted(TRANSLATION_DISABLED)}")
