@@ -1132,14 +1132,16 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     }).join("") : '<p>Sem notícias recentes nesta consulta. A próxima verificação é automática.</p>';
   }
 
-  // Arquivo permanente: cada mês é baixado somente quando consultado.
+  // Janela móvel de 15 dias: histórico RSS + alertas gravados no ChatGPT.
   let archiveItems = [];
   let archiveVisible = 24;
   let archiveLoadedMonth = "";
   let archiveMonths = [];
+  let archiveLatestStats = {rss:0, chatgpt:0};
 
   async function getArchiveJson(path) {
-    if (!/^historico\/(?:indice|\d{4}-\d{2})\.json$/.test(path)) throw new Error("Caminho inválido");
+    if (path !== "curadoria-chatgpt.json" &&
+        !/^historico\/(?:indice|\d{4}-\d{2})\.json$/.test(path)) throw new Error("Caminho inválido");
     const links = [
       "https://raw.githubusercontent.com/ryderguedes154/alerta-global/main/" + path + "?t=" + Date.now(),
       "./" + path + "?t=" + Date.now()
@@ -1149,7 +1151,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
         const ctrl = new AbortController();
         const timeout = setTimeout(() => ctrl.abort(), 8500);
         try {
-          const response = await fetch(link, { cache:"no-store", signal:ctrl.signal });
+          const response = await fetch(link, {cache:"no-store", signal:ctrl.signal});
           if (!response.ok) continue;
           const data = await response.json();
           if (data && typeof data === "object" && !Array.isArray(data)) return data;
@@ -1162,35 +1164,84 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   function archiveSearchNormalize(value) {
     return String(value || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
   }
+  function archiveSafeTimestamp(value) {
+    const ms = Date.parse(String(value || ""));
+    return Number.isFinite(ms) && ms >= Date.now() - CHATGPT_RETENTION_MS &&
+       ms <= Date.now() + 4 * 3600000 ? ms : NaN;
+  }
+  function normalizeArchiveItem(item, origin) {
+    if (!item || typeof item.title !== "string" ||
+        typeof item.url !== "string" || !/^https?:\/\/[^\s]+$/i.test(item.url)) return null;
+    const ts = origin === "chatgpt"
+      ? chatgptEntryTime(item) : archiveSafeTimestamp(item.date);
+    if (!Number.isFinite(ts) || ts < Date.now() - CHATGPT_RETENTION_MS ||
+        ts > Date.now() + 4 * 3600000) return null;
+    if (origin === "chatgpt") return {
+      ...item,
+      title_pt: item.title,
+      summary_pt: item.summary,
+      lang: "pt",
+      date: new Date(ts).toISOString(),
+      archiveOrigin: "chatgpt"
+    };
+    return {...item, archiveOrigin:"rss"};
+  }
+
+  function archiveDedupeKey(url) {
+    try {
+      const u = new URL(url);
+      u.hash = "";
+      for (const param of [...u.searchParams.keys()]) {
+        if (/^utm_|^(?:fbclid|gclid|at_medium|at_campaign)$/i.test(param)) u.searchParams.delete(param);
+      }
+      return u.toString().replace(/\/$/, "");
+    } catch { return String(url || ""); }
+  }
 
   function renderArchive() {
     const target = document.getElementById("archiveFeed");
     const status = document.getElementById("archiveStatus");
     const q = archiveSearchNormalize(document.getElementById("archiveSearch").value);
     const cat = document.getElementById("archiveCategory").value;
-    const filtered = archiveItems.filter(a => {
+    const origin = document.getElementById("archiveOrigin").value;
+    let filtered = archiveItems.filter(a => {
+      if (origin && a.archiveOrigin !== origin) return false;
       if (cat && a.category !== cat) return false;
       if (!q) return true;
-      return archiveSearchNormalize([a.title, a.title_pt, a.summary, a.summary_pt,
-        a.source, a.region, a.country, a.category].join(" ")).includes(q);
+      return archiveSearchNormalize([a.title,a.title_pt,a.summary,a.summary_pt,
+        a.source,a.region,a.country,a.category,a.impact_br,a.archiveOrigin].join(" ")).includes(q);
     });
+    // Em "Todas", mostre apenas uma cópia de um link já citado no ChatGPT e no RSS.
+    if (!origin) {
+      const urls = new Set();
+      filtered = filtered.filter(a => {
+        const url = archiveDedupeKey(a.url);
+        if (urls.has(url)) return false;
+        urls.add(url);
+        return true;
+      });
+    }
     status.textContent = filtered.length + " matérias de " + archiveLoadedMonth +
-      (q || cat ? " encontradas com os filtros atuais" : " preservadas no arquivo");
+      " · Acervo móvel de 15 dias" + (q || cat || origin ? " · Filtros aplicados" : "");
     document.getElementById("archiveMore").hidden = filtered.length <= archiveVisible;
     target.innerHTML = filtered.length ? filtered.slice(0,archiveVisible).map(a => {
+      const curated = a.archiveOrigin === "chatgpt";
       const title = newsPtTitle(a) || (a.lang && a.lang !== "pt"
         ? "Tradução pendente — leia na fonte original" : a.title);
       const summary = newsPtSummary(a) || "";
-      const time = a.date && !Number.isNaN(Date.parse(a.date))
+      const time = a.date && Number.isFinite(Date.parse(a.date))
         ? new Date(a.date).toLocaleString("pt-BR",{timeZone:"America/Boa_Vista",
             day:"2-digit",month:"2-digit",year:"numeric",hour:"2-digit",minute:"2-digit"})
         : "Data indisponível";
-      return '<article class="archive-card"><small>🗓️ ' + esc(time) +
+      return '<article class="archive-card' + (curated ? ' is-chatgpt' : '') + '"><small>' +
+        (curated ? "🌍 ChatGPT · " : "📰 RSS · ") + esc(time) +
         ' · ' + esc(a.source || "Fonte original") + ' · ' + esc(a.category || "Geral") +
         '</small><h3>' + esc(title || "Notícia arquivada") +
-        '</h3><p>' + esc(summary.slice(0,280)) + '</p><a href="' +
-        esc(a.url) + '" target="_blank" rel="noopener noreferrer">Ler na fonte original ↗</a></article>';
-    }).join("") : '<div class="empty">Nenhuma matéria neste mês com esses filtros.</div>';
+        '</h3><p>' + esc(summary.slice(0,300)) + '</p>' +
+        (curated && a.impact_br ? '<p class="archive-impact"><strong>🇧🇷 Brasil:</strong> ' +
+          esc(a.impact_br) + '</p>' : "") +
+        '<a href="' + esc(a.url) + '" target="_blank" rel="noopener noreferrer">Ler na fonte original ↗</a></article>';
+    }).join("") : '<div class="empty">Nenhuma matéria com esses filtros nos últimos 15 dias.</div>';
   }
 
   async function loadArchiveMonth() {
@@ -1198,52 +1249,85 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     if (!/^\d{4}-\d{2}$/.test(month)) return;
     if (month !== archiveLoadedMonth) {
       archiveItems = [];
-      document.getElementById("archiveFeed").innerHTML = '<div class="empty">Carregando notícias do mês...</div>';
+      document.getElementById("archiveFeed").innerHTML =
+        '<div class="empty">Carregando notícias RSS e alertas do ChatGPT...</div>';
     }
-    try {
-      const data = await getArchiveJson("historico/" + month + ".json");
-      if (!Array.isArray(data.items)) throw new Error("Formato inválido do arquivo");
-      archiveItems = data.items.filter(a => a && typeof a.title === "string" &&
-        typeof a.url === "string" && /^https?:\/\//i.test(a.url))
-        .sort((a,b) => String(b.date || "").localeCompare(String(a.date || "")));
-      archiveLoadedMonth = month;
-      archiveVisible = 24;
-      renderArchive();
-    } catch (error) {
-      document.getElementById("archiveStatus").textContent = "⚠️ Arquivo mensal temporariamente indisponível.";
-      document.getElementById("archiveFeed").innerHTML = '<div class="empty">Tente novamente em instantes. Notícias novas continuam na tela principal.</div>';
+    const [rss, curated] = await Promise.allSettled([
+      getArchiveJson("historico/" + month + ".json"),
+      getArchiveJson("curadoria-chatgpt.json")
+    ]);
+    const rssData = rss.status === "fulfilled" && Array.isArray(rss.value.items)
+      ? rss.value.items : [];
+    if (curated.status === "fulfilled" && Array.isArray(curated.value.items))
+      latestCurationEntries = curated.value.items.filter(validChatgptEntry);
+    const chatData = latestCurationEntries;
+    if (rss.status === "rejected" && curated.status === "rejected" && !chatData.length) {
+      document.getElementById("archiveStatus").textContent = "⚠️ Histórico indisponível no momento.";
+      document.getElementById("archiveFeed").innerHTML =
+        '<div class="empty">Verifique a internet e toque em Atualizar.</div>';
+      return;
     }
+    const valid = [
+      ...rssData.map(a => normalizeArchiveItem(a,"rss")),
+      ...chatData.map(a => normalizeArchiveItem(a,"chatgpt"))
+    ].filter(a => a && a.date.slice(0,7) === month);
+    archiveItems = valid.sort((a,b) => Date.parse(b.date) - Date.parse(a.date) ||
+      Number(b.archiveOrigin === "chatgpt") - Number(a.archiveOrigin === "chatgpt"));
+    archiveLoadedMonth = month;
+    archiveVisible = 24;
+    renderArchive();
   }
 
   async function loadArchiveIndex(forceReload = false) {
     const status = document.getElementById("archiveStatus");
-    try {
-      const data = await getArchiveJson("historico/indice.json");
-      archiveMonths = Array.isArray(data.months)
-        ? data.months.filter(x => /^\d{4}-\d{2}$/.test(x.month)) : [];
-      if (!archiveMonths.length) throw new Error("Nenhum mês disponível");
-      const select = document.getElementById("archiveMonth");
-      const selected = archiveMonths.some(row => row.month === select.value)
-        ? select.value : archiveMonths[0].month;
-      select.innerHTML = archiveMonths.map(row => '<option value="' + esc(row.month) + '">' +
-        esc(new Date(row.month + "-01T12:00:00Z").toLocaleDateString("pt-BR",{
-          month:"long",year:"numeric",timeZone:"UTC"})) + " · " +
-        esc(row.count || 0) + " notícias</option>").join("");
-      select.value = selected;
-      document.getElementById("archiveTotal").textContent =
-        Number(data.total || 0).toLocaleString("pt-BR") + " notícias guardadas";
-      if (archiveLoadedMonth !== selected || forceReload) await loadArchiveMonth();
-      else renderArchive();
-    } catch (error) {
-      status.textContent = "O histórico está sendo preparado. As notícias recentes continuam disponíveis.";
-      document.getElementById("archiveTotal").textContent = "Histórico em preparação";
-      document.getElementById("archiveFeed").innerHTML =
-        '<div class="empty">O primeiro arquivo mensal ficará disponível depois da coleta e publicação no GitHub.</div>';
+    const [monthly, curated] = await Promise.allSettled([
+      getArchiveJson("historico/indice.json"),
+      getArchiveJson("curadoria-chatgpt.json")
+    ]);
+    const rssIndex = monthly.status === "fulfilled" ? monthly.value : {total:0,months:[]};
+    if (curated.status === "fulfilled" && Array.isArray(curated.value.items))
+      latestCurationEntries = curated.value.items.filter(validChatgptEntry);
+    const monthsByName = new Map();
+    for (const row of Array.isArray(rssIndex.months) ? rssIndex.months : []) {
+      if (/^\d{4}-\d{2}$/.test(row.month))
+        monthsByName.set(row.month,{month:row.month,rss:Number(row.count || 0),chatgpt:0});
     }
+    for (const a of latestCurationEntries) {
+      const time = chatgptEntryTime(a);
+      if (!Number.isFinite(time)) continue;
+      const month = new Date(time).toISOString().slice(0,7);
+      if (!monthsByName.has(month)) monthsByName.set(month,{month,rss:0,chatgpt:0});
+      monthsByName.get(month).chatgpt += 1;
+    }
+    archiveMonths = [...monthsByName.values()].sort((a,b) => b.month.localeCompare(a.month));
+    if (!archiveMonths.length) {
+      status.textContent = "O histórico de 15 dias está sendo preparado.";
+      document.getElementById("archiveTotal").textContent = "Acervo indisponível";
+      document.getElementById("archiveFeed").innerHTML =
+        '<div class="empty">As notícias aparecerão após a primeira gravação no GitHub.</div>';
+      return;
+    }
+    const select = document.getElementById("archiveMonth");
+    const selected = archiveMonths.some(row => row.month === select.value)
+      ? select.value : archiveMonths[0].month;
+    select.innerHTML = archiveMonths.map(row => '<option value="' + esc(row.month) + '">' +
+      esc(new Date(row.month + "-01T12:00:00Z").toLocaleDateString("pt-BR",{
+        month:"long",year:"numeric",timeZone:"UTC"})) +
+      ' · ' + esc(row.rss + row.chatgpt) + ' registros</option>').join("");
+    select.value = selected;
+    archiveLatestStats = {rss:Number(rssIndex.total || 0),chatgpt:latestCurationEntries.length};
+    document.getElementById("archiveTotal").textContent =
+      (archiveLatestStats.rss + archiveLatestStats.chatgpt).toLocaleString("pt-BR") +
+      " registros · últimos 15 dias";
+    if (archiveLoadedMonth !== selected || forceReload) await loadArchiveMonth();
+    else renderArchive();
   }
 
-  document.getElementById("archiveMonth").addEventListener("change", loadArchiveMonth);
+  document.getElementById("archiveMonth").addEventListener("change",loadArchiveMonth);
   document.getElementById("archiveSearch").addEventListener("input", () => {
+    archiveVisible = 24; renderArchive();
+  });
+  document.getElementById("archiveOrigin").addEventListener("change", () => {
     archiveVisible = 24; renderArchive();
   });
   document.getElementById("archiveCategory").addEventListener("change", () => {
