@@ -731,6 +731,8 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   // Controle de retenção pelo horário do armazenamento; publicações legadas usam a data do conteúdo.
   const CHATGPT_RETENTION_MS = 15 * 24 * 60 * 60 * 1000;
   let latestCurationEntries = [];
+  let curationLoading = false;
+  let lastCurationSignature = "";
   function chatgptEntryTime(item) {
     for (const field of ["saved_at", "published_at", "published_on"]) {
       const value = String(item?.[field] || "").trim();
@@ -754,6 +756,9 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 
   // Fonte de curadoria separada do RSS automático. Não se apresenta como agência jornalística.
   async function loadCuration() {
+    if (curationLoading) return;
+    curationLoading = true;
+    try {
     const feed = document.getElementById("curationFeed");
     const status = document.getElementById("curationUpdate");
     const sourceInfo = document.getElementById("curationSourceStatus");
@@ -781,14 +786,36 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
         const previewHeadline = document.getElementById("curationPreviewHeadline");
         const previewNote = document.getElementById("curationPreviewNote");
         const sourceCount = document.getElementById("curationSourceCount");
-        if (previewCount) previewCount.textContent = entries.length + (entries.length === 1 ? " alerta" : " alertas") + " publicados";
+        const last = entries[0];
+        if (previewCount) previewCount.textContent = entries.length + (entries.length === 1 ? " alerta" : " alertas") + " nos últimos 15 dias";
         if (sourceCount) sourceCount.textContent = entries.length + " notícias";
-        if (previewHeadline) previewHeadline.textContent = entries[0]?.title || "Ver os alertas selecionados";
-        if (previewNote) previewNote.textContent = "Último registro: " + latest + " (Boa Vista) · Leia as fontes originais na seção ChatGPT.";
+        if (previewHeadline) {
+          previewHeadline.textContent = last?.title || "Sem novos alertas nesta consulta";
+          previewHeadline.href = last?.url || "#curadoria";
+          previewHeadline.target = last ? "_blank" : "_self";
+          previewHeadline.rel = last ? "noopener noreferrer" : "";
+        }
+        const original = document.getElementById("curationLiveOriginal");
+        const summary = document.getElementById("curationLiveSummary");
+        const impact = document.getElementById("curationLiveImpact");
+        if (original) { original.href = last?.url || "#curadoria"; original.hidden = !last; }
+        if (summary) summary.textContent = last?.summary || "Os alertas aparecem após a gravação no GitHub.";
+        if (impact) { impact.hidden = !last?.impact_br; impact.textContent = last?.impact_br ? "🇧🇷 Brasil: " + last.impact_br : ""; }
+        if (previewNote) previewNote.textContent = "Último registro: " + latest + " (Boa Vista) · " +
+          (last?.source || "Fonte original indicada na matéria") + " · Consulta a cada 10 segundos com o app aberto.";
+        const signature = [data.updated_at || "", entries.length, last?.url || ""].join("|");
+        if (signature === lastCurationSignature) {
+          const checked = new Date().toLocaleTimeString("pt-BR",
+            {timeZone:"America/Boa_Vista",hour:"2-digit",minute:"2-digit",second:"2-digit"});
+          status.textContent = "🟢 Acompanhamento ativo · " + entries.length +
+            " alertas de 15 dias · Última consulta: " + checked + " (Boa Vista)";
+          return;
+        }
+        lastCurationSignature = signature;
         sourceInfo.textContent = "Curadoria em arquivo próprio · " + entries.length +
           " notícias · Atualização registrada: " + latest + " (Boa Vista)";
         status.textContent = "🌍 " + entries.length + " alertas dos últimos 15 dias · Atualização: " +
-          latest + " (Boa Vista) · Novos alertas são consultados a cada minuto com o app aberto.";
+          latest + " (Boa Vista) · Novos alertas são consultados a cada 10 segundos com o app aberto.";
         if (location.hash === "#historico" && document.getElementById("archiveMonth")?.value) loadArchiveIndex(true);
         feed.innerHTML = entries.length ? entries.map(item => {
           const photo = newsImage(item.image);
@@ -833,6 +860,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
       status.textContent = "⚠️ Não foi possível carregar esta fonte. Confira o arquivo diretamente no GitHub.";
       sourceInfo.textContent = "Curadoria temporariamente indisponível; notícias RSS permanecem acessíveis.";
     }
+    } finally { curationLoading = false; }
   }
 
 
@@ -2000,7 +2028,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   // Os destaques acompanham as mudanças no GitHub mesmo com a página aberta.
   // O GitHub coleta periodicamente; consultar a cada cinco minutos apenas lê o JSON.
   setInterval(loadEditorial, 5 * 60 * 1000);
-  setInterval(() => { if (!document.hidden) loadCuration(); }, 60 * 1000);
+  setInterval(() => { if (!document.hidden && navigator.onLine) loadCuration(); }, 10 * 1000);
   loadArchiveIndex();
   setInterval(() => { if (!document.hidden && location.hash === "#historico") loadArchiveIndex(true); }, 5 * 60 * 1000);
   document.addEventListener("visibilitychange", () => {
