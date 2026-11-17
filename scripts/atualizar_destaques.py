@@ -220,6 +220,7 @@ def main():
         "description": ("Seleção automática de manchetes publicadas por fontes jornalísticas "
                         "e oficiais, com links originais. As informações devem ser "
                         "confirmadas na fonte e podem ser atualizadas."),
+        "checked_at": now.isoformat().replace("+00:00", "Z"),
         "items": selected
     }
     if OUT.exists():
@@ -228,7 +229,11 @@ def main():
             old_keys = [x.get("url") for x in old.get("items", [])]
             new_keys = [x["url"] for x in selected]
             if old.get("edition") == edition and old_keys == new_keys:
-                print("Sem alterações relevantes no ranking de notícias; evitando commit repetido.")
+                # Checagem executada sem novidade: preservar os resumos já publicados.
+                # Atualizar somente o registro da última verificação, não a data da matéria.
+                old["checked_at"] = output["checked_at"]
+                OUT.write_text(json.dumps(old, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+                print("Checagem concluída; nenhuma manchete nova entre os destaques.")
                 return
         except (ValueError, TypeError):
             pass
