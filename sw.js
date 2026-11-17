@@ -1,5 +1,5 @@
 /* Alerta Global — Service Worker: cache de interface e últimas notícias. */
-const VERSION = "ag-v18-20261117-reload-theme-no-store";
+const VERSION = "ag-v19-20261117-portal-jornalismo-claro";
 const SHELL = "alerta-shell-" + VERSION;
 const DATA = "alerta-dados-" + VERSION;
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/alerta-global.svg"];
