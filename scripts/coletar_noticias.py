@@ -181,7 +181,7 @@ def enrich_article_images(articles, cache):
             continue
         if item.get("source") == "USGS" or "google.com" in urllib.parse.urlsplit(item.get("url", "")).netloc:
             continue
-        if len(pending) < 140:
+        if len(pending) < 45:
             pending.append(item)
     if not pending:
         return
@@ -438,12 +438,12 @@ def main():
             tasks.append((item, "summary_pt", item["summary"], lang))
 
     # Traduções reutilizadas do JSON anterior não consomem requisições.
-    # O orçamento por rodada permite progressão contínua das 500 notícias.
-    translation_jobs = tasks[:360]
+    # O orçamento por rodada evita que a coleta de 5 minutos fique bloqueada por traduções.
+    translation_jobs = tasks[:100]
     title_count = 0
     summary_count = 0
     if translation_jobs:
-        with ThreadPoolExecutor(max_workers=5) as executor:
+        with ThreadPoolExecutor(max_workers=6) as executor:
             jobs = {executor.submit(translate, original, lang): (item, field)
                     for item, field, original, lang in translation_jobs}
             for job in as_completed(jobs):
