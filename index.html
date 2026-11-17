@@ -697,6 +697,42 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     }
   }
 
+
+  // O painel é em português: conteúdo em outro idioma só aparece após
+  // a tradução do título. Resumos ainda pendentes usam aviso em português.
+  const DIRECTIONS_PT = {
+    N:"norte",NNE:"norte-nordeste",NE:"nordeste",ENE:"leste-nordeste",
+    E:"leste",ESE:"leste-sudeste",SE:"sudeste",SSE:"sul-sudeste",
+    S:"sul",SSW:"sul-sudoeste",SW:"sudoeste",WSW:"oeste-sudoeste",
+    W:"oeste",WNW:"oeste-noroeste",NW:"noroeste",NNW:"norte-noroeste"
+  };
+  function localizeQuakeTitle(text) {
+    return String(text || "").replace(/(\d+\s*km)\s+(NNE|ENE|ESE|SSE|SSW|WSW|WNW|NNW|NE|SE|SW|NW|N|E|S|W)\s+of\s+/gi,
+      (_, distance, direction) => distance + " a " + DIRECTIONS_PT[direction.toUpperCase()] + " de ");
+  }
+  function newsPtTitle(article) {
+    if (!article) return "";
+    const native = article.lang === "pt" || article.lang === "pt-BR" || article.source === "USGS";
+    return native ? localizeQuakeTitle(article.title_pt || article.title || "") :
+      String(article.title_pt || "").trim();
+  }
+  function newsPtSummary(article) {
+    if (!article) return "";
+    if (article.lang === "pt" || article.lang === "pt-BR" || article.source === "USGS")
+      return String(article.summary_pt || article.summary || "");
+    return String(article.summary_pt || "").trim() ||
+      "O resumo em português ainda está sendo preparado. Você pode consultar a matéria original ou tentar abrir a tradução automática da página.";
+  }
+  function newsTranslatedUrl(article) {
+    const value = String(article?.url || "");
+    try {
+      const url = new URL(value);
+      if (url.protocol !== "https:" && url.protocol !== "http:") return "";
+      if (article.lang === "pt" || article.lang === "pt-BR" || article.source === "USGS") return "";
+      // Tradução de páginas externas é opcional e depende da compatibilidade do veículo.
+      return "https://translate.google.com/translate?sl=auto&tl=pt&u=" + encodeURIComponent(url.href);
+    } catch { return ""; }
+  }
   // ---------- Estado e preferências (salvas por navegador, com proteção) ----------
   const store = {
     get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch { return d; } },
@@ -841,15 +877,21 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
           source = "Última consulta salva";
         }
       }
-      items = data.filter(x => x && x.title)
+      const rawItems = data.filter(x => x && x.title);
+      // Nunca voltar a exibir uma manchete em inglês se faltar tradução.
+      // Preservar o JSON bruto em cache para aproveitar traduções futuras.
+      const waitingTranslation = rawItems.filter(x => !newsPtTitle(x)).length;
+      items = rawItems.filter(x => newsPtTitle(x))
         .map(x => ({...x, sev:x.forcedSev || classify(x), ts:Date.parse(x.date) || 0}))
         .sort((x,y) => ORDER[x.sev] - ORDER[y.sev] || y.ts - x.ts);
       if (items.length) {
         if (source !== "Última consulta salva") store.set("ag_last_good_news", data.slice(0,500));
-        setStatus(items.length + " notícias disponíveis · " + source +
+        setStatus(items.length + " notícias em português disponíveis · " + source +
+          (waitingTranslation ? " · " + waitingTranslation + " aguardando tradução" : "") +
           (!navigator.onLine ? " · modo offline" : "") + " · " + new Date().toLocaleTimeString("pt-BR"), true);
       } else {
-        setStatus("Sem notícias no momento. Toque em Atualizar. " + failures.slice(0,2).join(" | "), false);
+        setStatus(waitingTranslation ? "Tradução das notícias em andamento. Tente novamente em alguns minutos." :
+          "Sem notícias no momento. Toque em Atualizar. " + failures.slice(0,2).join(" | "), false);
       }
       render();
       renderRadar();
@@ -1073,7 +1115,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
       .slice(0, 8);
     count.textContent = prioritized.length + " destaques";
     el.innerHTML = prioritized.length
-      ? prioritized.map(i => { const photo = newsImage(i.image); const map = photo ? "" : quakeMapHtml(i, true); return `<a class="radar-item${photo ? " has-image" : ""}${map ? " has-map" : ""}" ${photo ? `style="--story-image:url(&quot;${esc(photo)}&quot;)"` : ""} href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">${map}<small>${LABEL[i.sev]} · ${esc(i.category || "Geral")} · ${esc(i.source || "")}</small><strong>${esc(i.title_pt || i.title)}</strong><small>${i.ts ? new Date(i.ts).toLocaleString("pt-BR") : ""}${i.title_pt ? " · Tradução automática" : ""}</small></a>`; }).join("")
+      ? prioritized.map(i => { const photo = newsImage(i.image); const map = photo ? "" : quakeMapHtml(i, true); return `<a class="radar-item${photo ? " has-image" : ""}${map ? " has-map" : ""}" ${photo ? `style="--story-image:url(&quot;${esc(photo)}&quot;)"` : ""} href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">${map}<small>${LABEL[i.sev]} · ${esc(i.category || "Geral")} · ${esc(i.source || "")}</small><strong>${esc(newsPtTitle(i))}</strong><small>${i.ts ? new Date(i.ts).toLocaleString("pt-BR") : ""}${i.lang && i.lang !== "pt" && i.lang !== "pt-BR" && i.source !== "USGS" ? " · Tradução automática" : ""}</small></a>`; }).join("")
       : '<div class="empty">Sem notícias disponíveis. Confira o estado da fonte acima e tente atualizar.</div>';
   }
 
@@ -1123,7 +1165,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
       } catch {}
       return `
       <article class="card ${i.sev}${photo ? " has-image" : ""}${destination ? " linked" : ""}">
-        ${destination ? `<a class="card-full-link" href="${esc(destination)}" target="_blank" rel="noopener noreferrer" aria-label="Abrir notícia original: ${esc(i.title_pt || i.title)}"></a>` : ""}
+        ${destination ? `<a class="card-full-link" href="${esc(destination)}" target="_blank" rel="noopener noreferrer" aria-label="Abrir notícia original: ${esc(newsPtTitle(i))}"></a>` : ""}
         <div class="meta">
           ${flagHtml(i.country)} <span class="country">${esc(countryName(i.country))}</span>
           <span class="tag sev-${i.sev}">${LABEL[i.sev]}</span>
@@ -1133,11 +1175,10 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
           <span>· ${i.ts ? new Date(i.ts).toLocaleString("pt-BR") : ""}</span>
         </div>
         ${photo ? `<img class="card-image" src="${esc(photo)}" loading="lazy" decoding="async" referrerpolicy="no-referrer" alt="Imagem da matéria publicada por ${esc(i.source || "fonte original")}" onerror="this.remove()">` : quakeMapHtml(i)}
-        <h3>${esc(i.title_pt || i.title)}</h3>
-        ${i.title_pt ? `<small style="color:var(--muted)">Original: ${esc(i.title)}</small>` : ""}
-        <p>${esc(i.summary_pt || i.summary || "")}</p>${i.summary_pt ? `<small style="color:var(--muted)">Resumo traduzido automaticamente · Consulte o original na fonte.</small>` : ""}
+        <h3>${esc(newsPtTitle(i))}</h3>
+        <p>${esc(newsPtSummary(i))}</p>${i.lang && i.lang !== "pt" && i.lang !== "pt-BR" && i.source !== "USGS" ? `<small style="color:var(--muted)">Tradução automática · Confirme informações na fonte original.</small>` : ""}
         ${i.detail ? `<div class="detail"><strong>Resumo detalhado</strong><p>${esc(i.detail)}</p></div>` : ""}
-        ${destination ? `<div class="card-actions"><span class="card-read-more">Ler notícia completa →</span><a class="card-open-button" href="${esc(destination)}" target="_blank" rel="noopener noreferrer" aria-label="Abrir notícia completa: ${esc(i.title_pt || i.title)}">Abrir notícia ↗</a><button type="button" class="card-share-button" data-share-url="${esc(destination)}" data-share-title="${esc(i.title_pt || i.title)}" aria-label="Compartilhar notícia: ${esc(i.title_pt || i.title)}">↗ Compartilhar</button></div>` : ""}
+        ${destination ? `<div class="card-actions"><span class="card-read-more">Ler notícia completa →</span><a class="card-open-button" href="${esc(destination)}" target="_blank" rel="noopener noreferrer" aria-label="Abrir notícia completa: ${esc(newsPtTitle(i))}">Abrir original ↗</a>${newsTranslatedUrl(i) ? `<a class="card-open-button" href="${esc(newsTranslatedUrl(i))}" target="_blank" rel="noopener noreferrer" aria-label="Tentar ler a notícia em português">🌐 Ler traduzido ↗</a>` : ""}<button type="button" class="card-share-button" data-share-url="${esc(destination)}" data-share-title="${esc(newsPtTitle(i))}" aria-label="Compartilhar notícia: ${esc(newsPtTitle(i))}">↗ Compartilhar</button></div>` : ""}
       </article>`; }).join("");
   }
 
@@ -1157,7 +1198,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 
   function notificationData(item, hits = [], test = false) {
     const severity = item?.sev || "low";
-    const headline = String(item?.title_pt || item?.title || "").replace(/\s+/g," ").trim();
+    const headline = String(newsPtTitle(item)).replace(/\s+/g," ").trim();
     const source = String(item?.source || "Alerta Global").replace(/\s+/g," ").slice(0,48);
     const prefix = severity === "crit"
       ? "🚨 ALERTA CRÍTICO · Alerta Global"
