@@ -2,9 +2,24 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-17T12:52:13.694Z",
+  "updated_at": "2026-11-17T14:07:36.707Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Surto de ebola no Congo supera 11,3 mil casos e 5,5 mil mortes; OMS mantém emergência internacional",
+      "summary": "Atualização do Centro Europeu de Prevenção e Controle de Doenças publicada em 16 de novembro, com dados até 14 de novembro, registra 11.376 casos confirmados e 5.568 mortes na República Democrática do Congo. O vírus Bundibugyo já atingiu oito províncias. Há casos registrados no Quênia e na Nigéria. A OMS considera o surto uma emergência de saúde pública de importância internacional; a transmissão diminui em algumas áreas, mas novos focos continuam surgindo.",
+      "impact_br": "Não há transmissão ou impacto direto confirmado no Brasil. A expansão exige vigilância sanitária internacional, especialmente de viajantes com exposição em áreas afetadas; não significa risco elevado para a população brasileira.",
+      "category": "Saúde pública",
+      "region": "África Central — República Democrática do Congo",
+      "country": "CD",
+      "source": "Centro Europeu de Prevenção e Controle de Doenças (ECDC)",
+      "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-11-16",
+      "published_on": "2026-11-16",
+      "published_at": "",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial"
+    },
     {
       "title": "Novo ataque ucraniano danifica gravemente ponte de Kerch e interrompe tráfego rodoviário para a Crimeia",
       "summary": "Após novo ataque na noite de 16 para 17 de novembro, autoridades russas confirmaram a suspensão do tráfego na ponte que liga a Rússia à Crimeia ocupada. A Ucrânia afirma que um arco e parte da via rodoviária desabaram. Imagens indicam danos graves, mas a extensão do colapso não foi verificada de forma independente pela Reuters. A Rússia também atacou pontes e infraestrutura em Kyiv.",
