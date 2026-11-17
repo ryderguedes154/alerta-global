@@ -4,6 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <meta name="theme-color" content="#080e1d">
+<meta name="color-scheme" content="dark">
+<meta name="ag-theme-version" content="red-navy-20261117-v2">
 <meta name="description" content="Radar Mundial e Alerta Global: notícias internacionais, alertas de gravidade e monitoramento de terremotos.">
 <meta name="application-name" content="Alerta Global">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -1980,7 +1982,7 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
   updateOffline();
   if ("serviceWorker" in navigator && (location.protocol === "https:" || location.hostname === "localhost")) {
     window.addEventListener("load", () => {
-      navigator.serviceWorker.register("./sw.js", { scope: "./" }).catch(error => console.warn("Modo offline indisponível:", error));
+      navigator.serviceWorker.register("./sw.js?tema=red-navy-v2", { scope: "./", updateViaCache: "none" }).catch(error => console.warn("Modo offline indisponível:", error));
     });
   }
 
