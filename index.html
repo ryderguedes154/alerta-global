@@ -434,8 +434,10 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     </select>
     <div class="row">
       <button id="saveBtn">Salvar</button>
-      <button id="notifyBtn" class="ghost">Ativar notificações do navegador</button>
+      <button id="notifyBtn" class="ghost" type="button">🔔 Ativar notificações</button>
+      <button id="notifyTestBtn" class="ghost" type="button">🧪 Testar notificação</button>
     </div>
+    <p class="note" id="notifyStatus" role="status" aria-live="polite">🚨 Alertas de notícias importantes com título em português, fonte e acesso direto à matéria. O formato final depende do celular e do navegador. As notificações locais funcionam enquanto o site ou aplicativo está em execução; avisos com ele fechado exigem infraestrutura de push.</p>
     <p class="note">
       O app utiliza notícias reais reunidas em noticias.json por uma rotina automática do GitHub. Se ainda não houver coleta, tenta mostrar eventos sísmicos do USGS. Não exibe notícias fictícias. O formato esperado é uma lista de objetos com
       <code>title</code>, <code>summary</code>, <code>detail</code> (resumo detalhado, com quebras de linha), <code>country</code> (código ISO de 2 letras, ex.: BR, US; use GLOBAL para notícias mundiais), <code>category</code>, <code>region</code>, <code>source</code>, <code>url</code> e <code>date</code> (ISO 8601).
@@ -961,15 +963,63 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
       </article>`; }).join("");
   }
 
-  // ---------- Alertas ----------
+  // ---------- Alertas: linguagem clara, prioridade e destino da matéria ----------
   function watchHits(item) {
-    const words = prefs.watch.split(",").map(w => norm(w.trim())).filter(Boolean);
-    const text = norm(item.title + " " + (item.title_pt || "") + " " + item.summary + " " + (item.summary_pt || "") + " " + item.region);
+    const words = String(prefs.watch || "").split(",").map(w => norm(w.trim())).filter(Boolean);
+    const text = norm([item.title,item.title_pt,item.summary,item.summary_pt,item.region].join(" "));
     return words.filter(w => text.includes(w));
   }
 
+  function safeArticleUrl(value) {
+    try {
+      const url = new URL(String(value || ""), location.href);
+      return ["http:","https:"].includes(url.protocol) ? url.href : new URL("./index.html#radar", location.href).href;
+    } catch { return new URL("./index.html#radar", location.href).href; }
+  }
+
+  function notificationData(item, hits = [], test = false) {
+    const severity = item?.sev || "low";
+    const headline = String(item?.title_pt || item?.title || "").replace(/\s+/g," ").trim();
+    const source = String(item?.source || "Alerta Global").replace(/\s+/g," ").slice(0,48);
+    const prefix = severity === "crit"
+      ? "🚨 ALERTA CRÍTICO · Alerta Global"
+      : severity === "high" ? "⚠️ ALERTA IMPORTANTE · Radar Mundial"
+      : "🔔 RADAR MUNDIAL · Alerta Global";
+    const title = test ? "🧪 TESTE · Alerta Global 🚨" : prefix;
+    const clock = item?.ts ? new Date(item.ts).toLocaleTimeString("pt-BR",{hour:"2-digit",minute:"2-digit"}) : "";
+    const lead = test
+      ? "✅ Seu radar está pronto para receber avisos sobre acontecimentos importantes."
+      : "📰 " + (headline.length > 135 ? headline.slice(0,132).trimEnd() + "…" : headline);
+    const context = test ? "Toque para abrir o Alerta Global." :
+      (hits.length ? "🔎 Tema acompanhado: " + hits.slice(0,2).join(", ") + " · " : "") +
+      "🌍 " + source + (clock ? " · " + clock : "");
+    const url = test ? new URL("./index.html#radar",location.href).href : safeArticleUrl(item?.url);
+    const image = !test ? newsImage(item?.image) : "";
+    const tag = test ? "ag-notification-test" :
+      "ag-" + [...String(item?.url || item?.title || "")].reduce((acc,char) =>
+        ((acc * 31 + char.charCodeAt(0)) >>> 0),0).toString(36);
+    const options = {
+      body: lead + "\n" + context,
+      icon: new URL("./icons/icon-512.png",location.href).href,
+      badge: new URL("./icons/icon-192.png",location.href).href,
+      tag,
+      timestamp: item?.ts || Date.now(),
+      data: {url, severity, source, test},
+      silent: false,
+      renotify: false
+    };
+    if (image) options.image = image; // Imagem real da matéria, quando suportada.
+    if (!test && severity === "crit") {
+      options.requireInteraction = true; // O sistema operacional pode ignorar.
+      options.vibrate = [120,75,120]; // Somente onde o dispositivo permitir.
+    }
+    options.actions = test
+      ? [{action:"radar",title:"🌍 Abrir Radar"}]
+      : [{action:"read",title:"📰 Ler notícia"},{action:"radar",title:"🌍 Ver Radar"}];
+    return {title,options,url};
+  }
+
   function checkAlerts() {
-    // Evitar classificar boatos desmentidos como alertas de perigo.
     const critical = items.filter(i =>
       (i.sev === "crit" || i.sev === "high") &&
       !isRumorDebunk(i) && importanceScore(i) >= 3 &&
@@ -978,45 +1028,61 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     const list = document.getElementById("bannerList");
     if (critical.length) {
       banner.classList.add("show");
-      list.innerHTML = critical.slice(0, 6).map(i => `<li><strong>${LABEL[i.sev]}:</strong> ${esc(i.title_pt || i.title)} <em style="color:var(--muted)">(${esc(i.region || "Global")})</em></li>`).join("");
+      list.innerHTML = critical.slice(0,6).map(i =>
+        '<li><strong>' + LABEL[i.sev] + ':</strong> ' +
+        esc(i.title_pt || i.title) + ' <em style="color:var(--muted)">(' +
+        esc(i.region || "Global") + ')</em></li>').join("");
     } else {
       banner.classList.remove("show");
     }
 
-    const newAlerts = [];
-    for (const i of items) {
-      if (isRumorDebunk(i) || importanceScore(i) < 3) continue;
-      const key = i.title + "|" + i.date;
-      const hits = watchHits(i);
-      const critNow = i.sev === "crit";
-      if ((critNow || hits.length) && !seenAlerts.has(key)) {
-        newAlerts.push({ key, text: i.title, reason: hits.length ? "palavra vigiada: " + hits.join(", ") : "risco crítico" });
-      }
+    const now = Date.now();
+    const latest = items.filter(i =>
+      i.ts && i.ts <= now + 5 * 60000 && now-i.ts < 12 * 3600000 &&
+      !isRumorDebunk(i) && importanceScore(i) >= 3 &&
+      i.url && i.url !== "#");
+    const alerts = [];
+    for (const item of latest) {
+      const hits = watchHits(item);
+      const urgent = item.sev === "crit" || (item.sev === "high" && importanceScore(item) >= 7);
+      if (!urgent && !hits.length) continue;
+      const key = String(item.url || item.title + "|" + item.date);
+      if (seenAlerts.has(key)) continue;
+      alerts.push({key,item,hits,priority: (urgent?10:0)+importanceScore(item)});
     }
-    if (newAlerts.length) {
-      newAlerts.forEach(a => seenAlerts.add(a.key));
-      store.set("ag_seen", [...seenAlerts].slice(-300));
-      if ("Notification" in window && Notification.permission === "granted") {
-        newAlerts.slice(0, 3).forEach(a => notifyWhileOpen(a.text + " (" + a.reason + ")"));
-      }
+    alerts.sort((a,b) => b.priority-a.priority || b.item.ts-a.item.ts);
+    // Máximo de duas notificações por atualização para não inundar o aparelho.
+    const eligible = alerts.slice(0,2);
+    if ("Notification" in window && Notification.permission === "granted") {
+      eligible.forEach(a => notifyWhileOpen(a.item,a.hits));
     }
+    // Memorizar os alertas encontrados para evitar repetição em futuras consultas.
+    alerts.forEach(a => seenAlerts.add(a.key));
+    store.set("ag_seen", [...seenAlerts].slice(-750));
   }
 
-  // Notificação local quando a página/app estiver em execução (não é push em segundo plano).
-  async function notifyWhileOpen(body) {
+  // Notificações locais: não é push com o aplicativo fechado.
+  async function notifyWhileOpen(item, hits = [], test = false) {
+    if (!("Notification" in window) || Notification.permission !== "granted") return false;
+    const {title,options,url} = notificationData(item,hits,test);
     try {
       if ("serviceWorker" in navigator) {
         const reg = await navigator.serviceWorker.getRegistration();
-        if (reg && reg.showNotification) {
-          await reg.showNotification("🌍 Alerta Global", {
-            body, icon: "./icons/icon-192.png", badge: "./icons/icon-192.png",
-            data: { url: "./index.html#radar" }
-          });
-          return;
+        if (reg?.showNotification) {
+          await reg.showNotification(title,options);
+          return true;
         }
       }
-      new Notification("🌍 Alerta Global", { body, icon: "./icons/icon-192.png" });
-    } catch (error) { console.warn("Não foi possível exibir a notificação:", error); }
+      const notification = new Notification(title,options);
+      notification.onclick = () => {
+        notification.close();
+        window.open(url,"_blank","noopener,noreferrer");
+      };
+      return true;
+    } catch(error) {
+      console.warn("Não foi possível exibir a notificação:",error);
+      return false;
+    }
   }
 
   // ---------- Instalação e conexão offline ----------
@@ -1265,10 +1331,30 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     setupTimer();
     load();
   };
+  const notifyStatus = document.getElementById("notifyStatus");
+  async function ensureNotificationPermission() {
+    if (!("Notification" in window)) {
+      notifyStatus.textContent = "Seu navegador não suporta notificações deste site.";
+      return false;
+    }
+    const permission = Notification.permission === "default"
+      ? await Notification.requestPermission() : Notification.permission;
+    if (permission !== "granted") {
+      notifyStatus.textContent = "Notificações não autorizadas. Ative a permissão nas configurações do navegador.";
+      return false;
+    }
+    notifyStatus.textContent = "✅ Notificações autorizadas neste dispositivo. O sistema operacional define a apresentação e o som.";
+    return true;
+  }
   document.getElementById("notifyBtn").onclick = async () => {
-    if (!("Notification" in window)) return alert("Seu navegador não suporta notificações.");
-    const p = await Notification.requestPermission();
-    alert(p === "granted" ? "Notificações ativadas." : "Permissão não concedida.");
+    await ensureNotificationPermission();
+  };
+  document.getElementById("notifyTestBtn").onclick = async () => {
+    if (!(await ensureNotificationPermission())) return;
+    const sent = await notifyWhileOpen({source:"Alerta Global",sev:"low",ts:Date.now()},[],true);
+    notifyStatus.textContent = sent
+      ? "✅ Notificação de teste enviada. Verifique a barra de notificações do dispositivo."
+      : "Não foi possível exibir o teste. Confira as permissões do aplicativo e do sistema.";
   };
   ["search", "cat", "sev"].forEach(id => document.getElementById(id).addEventListener("input", () => {
     visibleCount = PAGE_SIZE; render();
