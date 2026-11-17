@@ -427,6 +427,19 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 .archive-card .archive-impact{color:#b6e7d9;border-top:1px solid #31565e;padding-top:8px}
 @media(max-width:1050px){.archive-filters{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:620px){.archive-filters{grid-template-columns:1fr}}
+.curation-live{margin:15px 0 23px;border:1px solid #398d83;border-radius:19px;padding:18px;background:linear-gradient(120deg,#124147,#0c2537 78%);box-shadow:0 10px 34px #06101d6b}
+.curation-live-top{display:flex;gap:12px;flex-wrap:wrap;align-items:center;justify-content:space-between;color:#9bf5db;font-size:11px;font-weight:900}
+.curation-live-pulse{display:inline-block;background:#46e6b5;width:9px;height:9px;border-radius:50%;box-shadow:0 0 0 4px #46e6b51d}
+.curation-live h2{font-size:12px;font-weight:750;letter-spacing:.3px;color:#a6d8e7;margin:13px 0 5px}
+.curation-live-title{font-size:clamp(17px,2.4vw,24px);font-weight:900;text-decoration:none;line-height:1.35;display:block;color:#f5ffff}
+.curation-live-title:hover{text-decoration:underline}
+.curation-live-summary{font-size:13px;color:#cae1ed;line-height:1.65;margin:10px 0}
+.curation-live-impact{font-size:11px;color:#a7e3cd;padding:9px 11px;border-left:3px solid #54ceb3;background:#12383c}
+.curation-live-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:13px}
+.curation-live-actions a{font-size:11px;font-weight:800;color:#e4fff7;text-decoration:none;padding:10px 11px;border:1px solid #467e83;border-radius:10px;background:#22505b}
+.curation-live-actions a:first-child{background:#246f65;border-color:#64bca9}
+.curation-live-note{color:#9ac5ca;font-size:10px;margin:10px 0 0}
+@media(max-width:620px){.curation-live{padding:14px;border-radius:15px}.curation-live-title{font-size:18px}.curation-live-summary{font-size:12px}.curation-live-actions a{min-height:42px;display:inline-flex;align-items:center}}
 </style>
 </head>
 <body>
@@ -469,6 +482,19 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   </section>
 
 <section class="hero" aria-label="Radar Mundial"><div class="hero-copy"><div class="hero-label"><span class="dot"></span> INTELIGÊNCIA DE NOTÍCIAS · RADAR MUNDIAL</div><h2>O mundo não para.<br><em>Você acompanha.</em></h2><p>Notícias globais, riscos e acontecimentos importantes em um só lugar. Entenda o que acontece no mundo, direto das fontes originais.</p><div class="hero-cta"><a href="#agora">🟢 Notícias novas</a><a href="#historico" class="hero-curation-link">🗂️ Ver histórico</a><a href="#curadoria" class="hero-curation-link">🌍 Alertas do ChatGPT</a></div></div></section><div class="status-text" id="statusText">Carregando notícias...</div>
+<section class="curation-live" id="chatgpt-ao-vivo" aria-label="Último alerta enviado pelo ChatGPT">
+  <div class="curation-live-top"><span><span class="curation-live-pulse"></span> 🌍 ALERTAS DO CHATGPT</span><span id="curationPreviewCount">Verificando...</span></div>
+  <h2>Último alerta do Radar Mundial</h2>
+  <a id="curationPreviewHeadline" class="curation-live-title" href="#curadoria">Buscando a última notícia enviada pelo ChatGPT...</a>
+  <p class="curation-live-summary" id="curationLiveSummary">Os alertas novos aparecem aqui depois que são gravados no GitHub.</p>
+  <p class="curation-live-impact" id="curationLiveImpact" hidden></p>
+  <div class="curation-live-actions">
+    <a id="curationLiveOriginal" href="#curadoria" target="_blank" rel="noopener noreferrer">📰 Abrir matéria original ↗</a>
+    <a href="#curadoria">🌍 Ver todos os alertas ↗</a>
+    <a href="#historico">🗂️ Histórico de 15 dias ↗</a>
+  </div>
+  <p id="curationPreviewNote" class="curation-live-note">Consulta automática ao GitHub a cada 10 segundos com o app aberto. A publicação pode sofrer atrasos.</p>
+</section>
   <div class="offline-note" id="offlineNotice" hidden role="status">📡 Sem internet. Exibindo as últimas notícias disponíveis no dispositivo, se houver.</div>
   <section class="levels" aria-label="Filtrar notícias por nível de gravidade">
     <button type="button" class="level crit" data-sev="crit" aria-pressed="false" aria-label="Ver notícias do nível crítico"><strong id="cCrit">0</strong><span>Crítico</span></button>
@@ -482,14 +508,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   <div class="fresh-grid" id="freshFeed"><p>Consultando as notícias recentes...</p></div>
   <div class="fresh-footer"><span id="freshCount">Aguardando primeira consulta</span><span>Consulta a cada 1 minuto · RSS programado a cada 5 minutos</span></div>
 </section>
-<section class="curation-preview" aria-label="Último alerta mundial publicado pelo ChatGPT">
-    <div class="curation-preview-top"><strong>🌍 RADAR MUNDIAL · CHATGPT</strong><span id="curationPreviewCount">Carregando alertas...</span></div>
-    <a href="#curadoria" class="curation-preview-link" aria-label="Abrir as notícias do ChatGPT">
-      <span id="curationPreviewHeadline">Consultando últimos alertas enviados...</span><span aria-hidden="true">Ver todos ↗</span>
-    </a>
-    <small id="curationPreviewNote">As notícias são acompanhadas da fonte jornalística original.</small>
-  </section>
-  <section class="radar" id="radar">
+<section class="radar" id="radar">
     <div class="radar-head"><div><h2>🌐 Radar Mundial</h2><p>Principais acontecimentos internacionais, organizados por urgência. Atualização pelo feed de notícias.</p></div><span id="radarCount">0 destaques</span></div>
     <div id="radarFeed" class="radar-feed"></div>
   </section>
@@ -500,7 +519,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     <div id="editorialFeed" class="editorial-grid"><div class="empty">Carregando destaques...</div></div>
   </section>
   <section class="editorial-section" id="curadoria" aria-label="Notícias enviadas pelo Radar Mundial do ChatGPT">
-    <div class="section-header"><div><div class="eyebrow">Fonte adicional · atualização automática</div><h2>🚨 Alertas enviados pelo ChatGPT</h2><p>Novos alertas aparecem nesta área após serem gravados no GitHub. Consulta a cada minuto com o app aberto. Somente registros dos últimos 15 dias.</p><a class="curation-history-link" href="#historico">🗂️ Ver no histórico de 15 dias ↗</a></div></div>
+    <div class="section-header"><div><div class="eyebrow">Fonte adicional · atualização frequente</div><h2>🚨 Alertas enviados pelo ChatGPT</h2><p>O aplicativo consulta o GitHub a cada 10 segundos quando aberto e mostra os alertas dos últimos 15 dias. A atualização depende da publicação no GitHub.</p><a class="curation-history-link" href="#historico">🗂️ Ver no histórico de 15 dias ↗</a></div></div>
     <p class="editorial-update" id="curationUpdate" aria-live="polite">🔄 Carregando notícias da seleção do ChatGPT…</p>
     <div id="curationFeed" class="editorial-grid"><div class="empty">Carregando alertas publicados…</div></div>
   </section>
