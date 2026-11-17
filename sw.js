@@ -1,5 +1,5 @@
 /* Alerta Global — Service Worker: cache de interface e últimas notícias. */
-const VERSION = "ag-v17-20261117-red-navy-black-white";
+const VERSION = "ag-v18-20261117-reload-theme-no-store";
 const SHELL = "alerta-shell-" + VERSION;
 const DATA = "alerta-dados-" + VERSION;
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/alerta-global.svg"];
@@ -45,7 +45,8 @@ self.addEventListener("fetch", event => {
   if (request.mode === "navigate") {
     event.respondWith((async () => {
       try {
-        const response = await fetch(request);
+        // HTML da página sempre usa a rede, evitando versões antigas do navegador.
+        const response = await fetch(request, {cache:"no-store"});
         if (response.ok) {
           const cache = await caches.open(SHELL);
           await cache.put("./index.html", response.clone());
