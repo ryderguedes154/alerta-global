@@ -673,6 +673,7 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
 }
 
 </style>
+<link rel="stylesheet" href="./portal-claro.css?v=20261117-portal-v1">
 </head>
 <body>
 <!-- Alerta Global — portal jornalístico claro, 2026 -->
@@ -1063,6 +1064,7 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
           typeof item.title === "string" && typeof item.url === "string" &&
           /^https:\/\/[^\s]+$/i.test(item.url) && validChatgptEntry(item));
         latestCurationEntries = entries;
+        renderPortalHeadline();
         const latest = data.updated_at && !Number.isNaN(Date.parse(data.updated_at))
           ? new Date(data.updated_at).toLocaleString("pt-BR", {timeZone:"America/Boa_Vista"})
           : "não informada";
@@ -1445,7 +1447,14 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
     if (!target || !count) return;
     const recent = items.filter(i => i.ts && i.url && i.url !== "#" &&
       Date.now() - i.ts < 6 * 3600000 && i.ts < Date.now() + 10 * 60000);
-    const sample = (recent.length ? recent : items).slice(0, 9);
+    const candidates = recent.length ? recent : items;
+    // O destaque prioriza fotos editoriais realmente presentes no feed.
+    const withPhoto = candidates.filter(i => newsImage(i.image));
+    const chosen = new Set();
+    const sample = [...withPhoto.slice(0, 3),...candidates].filter(i => {
+      if (!i.url || chosen.has(i.url)) return false;
+      chosen.add(i.url); return true;
+    }).slice(0, 9);
     count.textContent = recent.length
       ? recent.length + " notícias disponíveis das últimas 6 horas"
       : "Exibindo publicações recentes disponíveis";
@@ -1461,7 +1470,111 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
         esc(newsPtTitle(i)) + '</strong><em>' + esc(i.category || "Geral") +
         ' · Abrir notícia ↗</em></span></a>';
     }).join("") : '<p>Sem notícias recentes nesta consulta. A próxima verificação é automática.</p>';
+    renderPortalFeatures();
   }
+
+  // Portal jornalístico: identidade, manchete, categorias e histórias com fontes originais.
+  function renderPortalToday() {
+    const el = document.getElementById("portalToday");
+    if (!el) return;
+    const date = new Date().toLocaleDateString("pt-BR", {
+      timeZone:"America/Boa_Vista",weekday:"long",day:"numeric",month:"long",year:"numeric"
+    });
+    el.textContent = date.charAt(0).toUpperCase() + date.slice(1);
+  }
+
+  function renderPortalHeadline() {
+    const title = document.getElementById("portalHeadline");
+    const subtitle = document.getElementById("portalDeck");
+    const open = document.getElementById("portalHeroOriginal");
+    const breaking = document.getElementById("portalBreakingTitle");
+    const curated = latestCurationEntries.find(a => validChatgptEntry(a));
+    if (breaking) breaking.textContent = curated?.title || "Acompanhe o Radar Mundial e os alertas internacionais";
+    const rss = items.find(a => a && a.ts && /^https?:\/\//i.test(String(a.url || "")));
+    const curatedTime = curated ? chatgptEntryTime(curated) : 0;
+    const preferCurated = Boolean(curated &&
+      (!rss || curatedTime >= rss.ts || Date.now() - curatedTime < 2 * 3600000));
+    const lead = preferCurated ? curated : rss;
+    if (!title || !subtitle || !open || !lead) return;
+    const href = String(lead.url || "");
+    if (!/^https?:\/\/[^\s]+$/i.test(href)) return;
+    title.textContent = preferCurated ? lead.title : newsPtTitle(lead);
+    const deck = preferCurated ? lead.summary : newsPtSummary(lead);
+    subtitle.textContent = deck ? String(deck).slice(0,240) : "Leia mais detalhes na matéria original.";
+    open.href = href;
+    open.target = "_blank";
+    open.rel = "noopener noreferrer";
+    open.textContent = "Ler a matéria original ↗";
+  }
+
+  function renderPortalFeatures() {
+    renderPortalHeadline();
+    const rail = document.getElementById("portalStoryRail");
+    const aside = document.getElementById("portalAsideFeed");
+    if (rail) {
+      const pictureItems = items.filter(i =>
+        i && /^https?:\/\//i.test(String(i.url || "")) && newsImage(i.image));
+      const used = new Set();
+      const stories = pictureItems.filter(i => {
+        if (used.has(i.url)) return false;
+        used.add(i.url); return true;
+      }).slice(0, 10);
+      rail.innerHTML = stories.length ? stories.map(i =>
+        '<a class="portal-story-card" target="_blank" rel="noopener noreferrer" href="' + esc(i.url) + '">' +
+        '<img src="' + esc(newsImage(i.image)) +
+        '" alt="Foto da matéria original" loading="lazy" onerror="this.remove()">' +
+        '<span><em>' + esc(i.category || "Mundo") + '</em><strong>' +
+        esc(newsPtTitle(i)) + '</strong></span></a>'
+      ).join("") : '<p>As histórias com fotos aparecerão quando as fontes publicarem imagens verificáveis. <a href="#news">Ver notícias ↗</a></p>';
+    }
+    if (aside) {
+      const used = new Set();
+      const picks = items.filter(i => {
+        if (!i || !/^https?:\/\//i.test(String(i.url || "")) || used.has(i.url)) return false;
+        used.add(i.url);return true;
+      }).slice(3, 13);
+      aside.innerHTML = picks.length ? picks.map(i => {
+        const stamp = i.ts ? new Date(i.ts).toLocaleString("pt-BR", {
+          timeZone:"America/Boa_Vista",day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"
+        }) : "Data não informada";
+        return '<a class="portal-aside-item" href="' + esc(i.url) +
+          '" target="_blank" rel="noopener noreferrer"><small>' +
+          esc(i.category || "Notícias") + ' · ' + esc(stamp) + '</small><strong>' +
+          esc(newsPtTitle(i)) + '</strong></a>';
+      }).join("") : '<p>Mais matérias aparecerão após a coleta das fontes internacionais.</p>';
+    }
+    document.querySelectorAll(".portal-topic[data-portal-category]").forEach(a => {
+      const category = a.dataset.portalCategory;
+      const image = items.find(i => i.category === category && newsImage(i.image));
+      const target = a.querySelector(".portal-topic-picture");
+      if (image && target && !target.querySelector("img")) {
+        target.insertAdjacentHTML("beforeend",'<img src="' +
+          esc(newsImage(image.image)) + '" alt="" loading="lazy" onerror="this.remove()">');
+      }
+    });
+  }
+
+  document.getElementById("portalSearchForm")?.addEventListener("submit", event => {
+    event.preventDefault();
+    const q = document.getElementById("portalSearch").value.trim();
+    document.getElementById("search").value = q;
+    document.getElementById("cat").value = "";
+    document.getElementById("sev").value = "";
+    visibleCount = PAGE_SIZE;
+    render();
+    document.getElementById("news").scrollIntoView({behavior:"smooth",block:"start"});
+    if (!q) document.getElementById("search").focus({preventScroll:true});
+  });
+  document.querySelectorAll("[data-portal-category]").forEach(a => a.addEventListener("click",event => {
+    event.preventDefault();
+    document.getElementById("cat").value = a.dataset.portalCategory;
+    document.getElementById("search").value = "";
+    document.getElementById("sev").value = "";
+    visibleCount = PAGE_SIZE;
+    render();
+    document.getElementById("news").scrollIntoView({behavior:"smooth",block:"start"});
+  }));
+  renderPortalToday();
 
   // Janela móvel de 15 dias: histórico RSS + alertas gravados no ChatGPT.
   let archiveItems = [];
