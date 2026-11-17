@@ -2,9 +2,24 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-17T03:34:50.977Z",
+  "updated_at": "2026-11-17T04:22:43Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "China confirma importância de encontro entre Xi, Trump e Putin nesta semana",
+      "summary": "O Ministério das Relações Exteriores da China afirmou em 16 de novembro que o encontro trilateral entre Xi Jinping, Donald Trump e Vladimir Putin, previsto para quinta-feira, 19 de novembro, tem importância histórica. A Casa Branca informou que Trump pretende abordar a redução de armas nucleares. A reunião ainda não ocorreu e não há acordo anunciado.",
+      "impact_br": "Um eventual entendimento sobre controle de armas e estabilidade entre as três potências poderia reduzir riscos geopolíticos e volatilidade dos mercados, mas não há efeito econômico direto confirmado para o Brasil.",
+      "category": "Diplomacia",
+      "region": "China, Estados Unidos e Rússia",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-says-xi-putin-trump-meeting-has-groundbreaking-significance-2026-11-16/",
+      "published_on": "16/11/2026",
+      "published_at": "16/11/2026 03:45 (Boa Vista; horário de publicação Reuters 07:45 UTC)",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial"
+    },
     {
       "title": "Ucrânia realiza grande ataque com drones contra a Rússia; ponte da Crimeia e refinarias são alvos",
       "summary": "Em 16 de novembro, Ucrânia lançou uma ofensiva de drones de grande escala contra alvos russos, incluindo a ponte de Kerch e instalações ligadas ao petróleo. O Ministério da Defesa russo afirmou ter interceptado 1.336 drones, número não verificado independentemente. Reuters e Associated Press confirmam a ocorrência da ofensiva, mas a extensão dos danos permanece incerta.",
