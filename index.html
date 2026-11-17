@@ -348,6 +348,22 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     font-size:clamp(11.5px,.85vw,13px)
   }
 }
+
+/* Seleção editorial independente: o coletor automático não sobrescreve os destaques. */
+.editorial-section{margin:24px 0 34px}
+.editorial-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px}
+.editorial-card{background:linear-gradient(145deg,#192a42,#101b2b);border:1px solid #344964;border-radius:17px;padding:19px;display:flex;flex-direction:column;gap:10px}
+.editorial-card .editorial-meta{font-size:10px;color:#86e5cf;font-weight:800;letter-spacing:.5px}
+.editorial-card h3{font-size:17px;line-height:1.35;letter-spacing:-.3px;margin:0}
+.editorial-card p{font-size:12px;line-height:1.6;color:#b8c9db;margin:0}
+.editorial-impact{border-top:1px solid #34465e;padding-top:10px}
+.editorial-impact strong{color:#e3eaff}
+.editorial-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:auto;padding-top:6px}
+.editorial-actions a,.editorial-actions button{border-radius:10px;padding:9px 11px;font:800 11px Inter,ui-sans-serif,sans-serif;color:#f6fbff;text-decoration:none;cursor:pointer}
+.editorial-actions a{border:1px solid #7aa8d8;background:#325b86}
+.editorial-actions button{border:1px solid #4bbaa4;background:#14554e}
+@media(max-width:1080px){.editorial-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.editorial-grid{grid-template-columns:1fr}.editorial-card{padding:16px}}
 </style>
 </head>
 <body>
@@ -401,6 +417,10 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     <div id="radarFeed" class="radar-feed"></div>
   </section>
 
+  <section class="editorial-section" id="editorial" aria-label="Destaques selecionados do Radar Mundial">
+    <div class="section-header"><div><div class="eyebrow">Seleção do Radar Mundial</div><h2>📰 Notícias em destaque</h2><p>Resumo em português, impacto para o Brasil e acesso à fonte original. Seleção complementar à atualização automática.</p></div></div>
+    <div id="editorialFeed" class="editorial-grid"><div class="empty">Carregando destaques...</div></div>
+  </section>
   <section id="sources" class="sources-panel" aria-label="Fontes de notícias">
     <div class="sources-head"><div><h2>Fontes e atualização</h2><p>Acompanhe a última coleta automática e os veículos disponíveis.</p></div><span class="source-time" id="sourcesTime">Verificando...</span></div>
     <div class="sources-stats" id="sourcesStats"></div>
@@ -533,6 +553,51 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   const ORDER = { crit: 0, high: 1, med: 2, low: 3 };
   const LABEL = { crit: "Crítico", high: "Alto", med: "Moderado", low: "Informativo" };
 
+
+  // Notícias selecionadas em arquivo próprio, preservadas entre as coletas RSS.
+  async function loadEditorial() {
+    const target = document.getElementById("editorialFeed");
+    if (!target) return;
+    const urls = ["./destaques-radar.json?t=" + Date.now(),
+      "https://raw.githubusercontent.com/ryderguedes154/alerta-global/main/destaques-radar.json?t=" + Date.now()];
+    for (const url of urls) {
+      try {
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 9000);
+        let response;
+        try { response = await fetch(url,{cache:"no-store",signal:controller.signal}); }
+        finally { clearTimeout(timeout); }
+        if (!response.ok) continue;
+        const data = await response.json();
+        if (!Array.isArray(data.items) || !data.items.length) continue;
+        const stories = data.items.filter(i => i.title && i.url && /^https:\/\//.test(i.url));
+        if (!stories.length) continue;
+        target.innerHTML = stories.map(i => `
+          <article class="editorial-card">
+            <div class="editorial-meta">🌍 ${esc(i.region || "Mundo")} · ${esc(i.published_on || "")} · ${esc(i.source || "")}</div>
+            <h3>${esc(i.title)}</h3>
+            <p>${esc(i.summary)}</p>
+            <p class="editorial-impact"><strong>🇧🇷 Impacto possível no Brasil:</strong> ${esc(i.impact_br || "Em avaliação.")}</p>
+            <div class="editorial-actions">
+              <a href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">Abrir notícia ↗</a>
+              <button type="button" class="editorial-share" data-url="${esc(i.url)}" data-title="${esc(i.title)}">↗ Compartilhar</button>
+            </div>
+          </article>`).join("");
+        target.querySelectorAll(".editorial-share").forEach(button => {
+          button.addEventListener("click", async () => {
+            const url = button.dataset.url, title = button.dataset.title;
+            try {
+              if (navigator.share) await navigator.share({title,text:title,url});
+              else if (navigator.clipboard) { await navigator.clipboard.writeText(title + "\n" + url); button.textContent="✅ Copiado"; }
+              else window.open("https://wa.me/?text=" + encodeURIComponent(title + "\n" + url),"_blank","noopener");
+            } catch (error) { if (error.name !== "AbortError") console.warn("Compartilhamento indisponível",error); }
+          });
+        });
+        return;
+      } catch (error) { console.warn("Destaques indisponíveis nesta origem",error); }
+    }
+    target.innerHTML = '<div class="empty">Destaques temporariamente indisponíveis. As notícias automáticas continuam logo abaixo.</div>';
+  }
   // ---------- Estado e preferências (salvas por navegador, com proteção) ----------
   const store = {
     get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch { return d; } },
@@ -1404,6 +1469,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   }
 
   setupTimer();
+  loadEditorial();
   load();
 })();
 </script>
