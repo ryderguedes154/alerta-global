@@ -1,5 +1,5 @@
 /* Alerta Global — Service Worker: cache de interface e últimas notícias. */
-const VERSION = "ag-v13-20261117-curadoria-menu-visivel";
+const VERSION = "ag-v14-20261117-news-history-live";
 const SHELL = "alerta-shell-" + VERSION;
 const DATA = "alerta-dados-" + VERSION;
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/alerta-global.svg"];
@@ -20,10 +20,14 @@ self.addEventListener("fetch", event => {
   if (request.method !== "GET") return;
   const url = new URL(request.url);
   if (url.origin !== self.location.origin) return;
-  if (url.pathname.endsWith("/noticias.json") || url.pathname.endsWith("/status_fontes.json")) {
+  // JSON dinâmico sempre é consultado na rede, sem cache infinito para ?t=...
+  // Uma cópia por arquivo já consultado permanece disponível offline.
+  const dynamicJson = /\/(?:noticias|status_fontes|destaques-radar|curadoria-chatgpt)\.json$/.test(url.pathname)
+    || /\/historico\/(?:indice|\d{4}-\d{2})\.json$/.test(url.pathname);
+  if (dynamicJson) {
     event.respondWith((async () => {
       const cache = await caches.open(DATA);
-      const cacheKey = url.pathname.endsWith("/status_fontes.json") ? SOURCES : NEWS;
+      const cacheKey = url.origin + url.pathname;
       try {
         const response = await fetch(request);
         if (!response.ok) throw new Error("HTTP " + response.status);
@@ -31,8 +35,9 @@ self.addEventListener("fetch", event => {
         return response;
       } catch (error) {
         const saved = await cache.match(cacheKey);
-        const blank = cacheKey === SOURCES ? "{}" : "[]";
-        return saved || new Response(blank, { headers: { "Content-Type": "application/json; charset=utf-8" } });
+        if (saved) return saved;
+        const blank = url.pathname.endsWith("/noticias.json") ? "[]" : "{}";
+        return new Response(blank, { headers: { "Content-Type": "application/json; charset=utf-8" } });
       }
     })());
     return;
