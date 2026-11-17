@@ -237,7 +237,13 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 </aside><div class="workspace"><header class="topbar"><div><div class="breadcrumb">Início / Painel internacional</div><h1>Visão geral <span style="color:#7588a3">/ Mundial</span></h1></div><div class="top-actions"><div class="status-pill"><span class="dot" id="liveDot"></span> Monitor global</div><button class="share-btn" id="shareBtn" type="button" aria-label="Compartilhar o Alerta Global">↗ Compartilhar</button><button class="icon-action" id="refreshBtn" title="Atualizar notícias" aria-label="Atualizar notícias">↻</button><button class="icon-action" id="settingsBtn" title="Configurações" aria-label="Configurações">⚙</button><button class="install-btn" id="installBtn">↓ Instalar app</button></div></header>
 
 <div class="share-modal" id="shareModal" role="dialog" aria-modal="true" aria-label="Compartilhar Alerta Global" hidden><div class="share-panel"><button class="share-close" id="shareClose" type="button" aria-label="Fechar">×</button><h2 id="shareDialogTitle">Compartilhe o Alerta Global 🌍</h2><p id="shareDialogDescription">Envie o link do Radar Mundial para seus contatos pelos aplicativos que você utiliza.</p><div class="share-options"><a id="shareWhatsApp" target="_blank" rel="noopener noreferrer">🟢 WhatsApp</a><button type="button" id="shareNative">📲 Outros aplicativos</button><button type="button" id="shareInstagram">📸 Instagram</button><a id="shareFacebook" target="_blank" rel="noopener noreferrer">Facebook</a><a id="shareX" target="_blank" rel="noopener noreferrer">X / Twitter</a><a id="shareTelegram" target="_blank" rel="noopener noreferrer">Telegram</a><a id="shareEmail">✉️ E-mail</a><button type="button" id="shareCopy">🔗 Copiar link</button></div><p id="shareStatus" role="status" aria-live="polite"></p></div></div>
-<main id="overview"><section class="hero" aria-label="Radar Mundial"><div class="hero-copy"><div class="hero-label"><span class="dot"></span> INTELIGÊNCIA DE NOTÍCIAS · RADAR MUNDIAL</div><h2>O mundo não para.<br><em>Você acompanha.</em></h2><p>Notícias globais, riscos e acontecimentos importantes em um só lugar. Entenda o que acontece no mundo, direto das fontes originais.</p><div class="hero-cta"><a href="#radar">Explorar destaques ↗</a><small>Monitoramento internacional</small></div></div></section><div class="status-text" id="statusText">Carregando notícias...</div>
+<main id="overview">
+  <section class="banner" id="banner">
+    <h2>⚠️ Alerta de perigo global</h2>
+    <ul id="bannerList"></ul>
+  </section>
+
+<section class="hero" aria-label="Radar Mundial"><div class="hero-copy"><div class="hero-label"><span class="dot"></span> INTELIGÊNCIA DE NOTÍCIAS · RADAR MUNDIAL</div><h2>O mundo não para.<br><em>Você acompanha.</em></h2><p>Notícias globais, riscos e acontecimentos importantes em um só lugar. Entenda o que acontece no mundo, direto das fontes originais.</p><div class="hero-cta"><a href="#radar">Explorar destaques ↗</a><small>Monitoramento internacional</small></div></div></section><div class="status-text" id="statusText">Carregando notícias...</div>
   <div class="offline-note" id="offlineNotice" hidden role="status">📡 Sem internet. Exibindo as últimas notícias disponíveis no dispositivo, se houver.</div>
   <section class="levels" aria-label="Filtrar notícias por nível de gravidade">
     <button type="button" class="level crit" data-sev="crit" aria-pressed="false" aria-label="Ver notícias do nível crítico"><strong id="cCrit">0</strong><span>Crítico</span></button>
@@ -249,11 +255,6 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   <section class="radar" id="radar">
     <div class="radar-head"><div><h2>🌐 Radar Mundial</h2><p>Principais acontecimentos internacionais, organizados por urgência. Atualização pelo feed de notícias.</p></div><span id="radarCount">0 destaques</span></div>
     <div id="radarFeed" class="radar-feed"></div>
-  </section>
-
-  <section class="banner" id="banner">
-    <h2>⚠️ Alerta de perigo global</h2>
-    <ul id="bannerList"></ul>
   </section>
 
   <div class="section-header" id="news"><div><div class="eyebrow">Central de informação</div><h2>Notícias de impacto mundial</h2><p>Seleção de notícias internacionais relevantes, com filtros por assunto e país.</p></div></div>
