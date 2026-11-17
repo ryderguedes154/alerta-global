@@ -7,8 +7,9 @@ on:
       - '.github/workflows/atualizar-noticias.yml'
       - 'scripts/coletar_noticias.py'
       - 'scripts/atualizar_destaques.py'
+      - 'scripts/arquivar_noticias.py'
   schedule:
-    - cron: '7,37 * * * *'
+    - cron: '2-59/5 * * * *'
 permissions:
   contents: write
 concurrency:
@@ -17,6 +18,7 @@ concurrency:
 jobs:
   coletar:
     runs-on: ubuntu-latest
+    timeout-minutes: 9
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -24,14 +26,25 @@ jobs:
           python-version: '3.12'
       - name: Coletar RSS e USGS
         run: python scripts/coletar_noticias.py
+      - name: Preservar notícias no histórico mensal
+        run: python scripts/arquivar_noticias.py
       - name: Selecionar destaques globais em português
         run: python scripts/atualizar_destaques.py
-      - name: Publicar notícias coletadas e destaques
+      - name: Publicar feed, destaques e histórico
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add noticias.json status_fontes.json destaques-radar.json
+          git add noticias.json status_fontes.json destaques-radar.json historico/
           if ! git diff --cached --quiet; then
             git commit -m "Atualiza notícias de fontes internacionais"
-            git push
+            for attempt in 1 2 3; do
+              if git push origin HEAD:main; then
+                exit 0
+              fi
+              echo "Mudança concorrente na branch main. Reconciliando (tentativa $attempt/3)."
+              git fetch origin main
+              git rebase origin/main || { git rebase --abort; exit 1; }
+            done
+            echo "Não foi possível publicar após três tentativas."
+            exit 1
           fi
