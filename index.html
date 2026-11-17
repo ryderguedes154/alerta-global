@@ -365,6 +365,17 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 .editorial-actions button{border:1px solid #4bbaa4;background:#14554e}
 @media(max-width:1080px){.editorial-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:620px){.editorial-grid{grid-template-columns:1fr}.editorial-card{padding:16px}}
+
+/* Fonte adicional: seleção do ChatGPT com jornal e autoria originais identificados. */
+.curation-source{display:flex;align-items:center;gap:12px;padding:14px;margin:4px 0 16px;background:#11263a;border:1px solid #407a8c;border-radius:13px;text-decoration:none;color:#f0f8ff}
+.curation-source:hover{border-color:#71ddcc;background:#163247}
+.curation-source-icon{font-size:28px;flex-shrink:0}
+.curation-source span:nth-child(2){min-width:0;flex:1}
+.curation-source strong{display:block;font-size:13px;line-height:1.35}
+.curation-source small{display:block;margin-top:5px;color:#9fc7ce;font-size:11px;line-height:1.45}
+.curation-source span:last-child{font-size:11px;font-weight:800;color:#85ead2;white-space:nowrap}
+.curation-card-stamp{font-size:10px;color:#91cfc1}
+@media(max-width:620px){.curation-source{align-items:flex-start;flex-wrap:wrap}.curation-source span:last-child{margin-left:40px}}
 </style>
 </head>
 <body>
@@ -423,9 +434,19 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     <p class="editorial-update" id="editorialUpdate" aria-live="polite">🔄 Buscando destaques atuais…</p>
     <div id="editorialFeed" class="editorial-grid"><div class="empty">Carregando destaques...</div></div>
   </section>
+  <section class="editorial-section" id="curadoria" aria-label="Notícias enviadas pelo Radar Mundial do ChatGPT">
+    <div class="section-header"><div><div class="eyebrow">Fonte adicional · Curadoria</div><h2>🚨 Radar Mundial no ChatGPT</h2><p>Notícias enviadas nos alertas do ChatGPT, reunidas no site com as fontes jornalísticas originais.</p></div></div>
+    <p class="editorial-update" id="curationUpdate" aria-live="polite">🔄 Carregando notícias da seleção do ChatGPT…</p>
+    <div id="curationFeed" class="editorial-grid"><div class="empty">Carregando alertas publicados…</div></div>
+  </section>
   <section id="sources" class="sources-panel" aria-label="Fontes de notícias">
     <div class="sources-head"><div><h2>Fontes e atualização</h2><p>Acompanhe a última coleta automática e os veículos disponíveis.</p></div><span class="source-time" id="sourcesTime">Verificando...</span></div>
     <div class="sources-stats" id="sourcesStats"></div>
+    <a class="curation-source" href="#curadoria" aria-label="Ver notícias selecionadas pelo Radar Mundial no ChatGPT">
+      <span class="curation-source-icon">🌍</span>
+      <span><strong>Radar Mundial — Seleção do ChatGPT</strong><small id="curationSourceStatus">Fonte de curadoria independente do RSS automático · Carregando seleção…</small></span>
+      <span aria-hidden="true">Ver matérias ↗</span>
+    </a>
     <details class="sources-details"><summary>Ver situação por fonte</summary><div id="sourcesList" class="sources-list"><p>Carregando informações...</p></div></details>
     <p class="sources-disclaimer">O horário de checagem não garante que o jornal publicou uma matéria nova. Notícias são classificadas automaticamente e devem ser verificadas na fonte original.</p>
   </section>
@@ -604,6 +625,78 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     }
     target.innerHTML = '<div class="empty">Destaques temporariamente indisponíveis. As notícias automáticas continuam logo abaixo.</div>';
   }
+
+  // Fonte de curadoria separada do RSS automático. Não se apresenta como agência jornalística.
+  async function loadCuration() {
+    const feed = document.getElementById("curationFeed");
+    const status = document.getElementById("curationUpdate");
+    const sourceInfo = document.getElementById("curationSourceStatus");
+    if (!feed || !status || !sourceInfo) return;
+    const base = "https://raw.githubusercontent.com/ryderguedes154/alerta-global/main/curadoria-chatgpt.json?t=" + Date.now();
+    const urls = [base, "./curadoria-chatgpt.json?t=" + Date.now()];
+    for (const link of urls) {
+      try {
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 10000);
+        let response;
+        try { response = await fetch(link, { cache: "no-store", signal: controller.signal }); }
+        finally { clearTimeout(timeout); }
+        if (!response.ok) continue;
+        const data = await response.json();
+        if (!Array.isArray(data.items)) continue;
+        const entries = data.items.filter(item =>
+          typeof item.title === "string" && typeof item.url === "string" &&
+          /^https:\/\/[^\s]+$/i.test(item.url));
+        const latest = data.updated_at && !Number.isNaN(Date.parse(data.updated_at))
+          ? new Date(data.updated_at).toLocaleString("pt-BR", {timeZone:"America/Boa_Vista"})
+          : "não informada";
+        sourceInfo.textContent = "Curadoria em arquivo próprio · " + entries.length +
+          " notícias · Atualização registrada: " + latest + " (Boa Vista)";
+        status.textContent = "📰 " + entries.length + " notícias selecionadas · Última atualização registrada: " +
+          latest + " (Boa Vista) · Notícias originais: Reuters, AP e outros veículos indicados em cada matéria.";
+        feed.innerHTML = entries.length ? entries.map(item => {
+          const photo = newsImage(item.image);
+          return '<article class="editorial-card">' +
+            (photo ? '<img class="editorial-cover" src="' + esc(photo) +
+              '" alt="Foto associada à matéria original" loading="lazy" onerror="this.remove()">' : "") +
+            '<div class="editorial-meta">🚨 Seleção do ChatGPT · ' + esc(item.region || "Global") +
+              ' · ' + esc(item.published_at || item.published_on || "") + '</div>' +
+            '<h3>' + esc(item.title) + '</h3>' +
+            '<p>' + esc(item.summary || "") + '</p>' +
+            (item.impact_br ? '<p class="editorial-impact"><strong>🇧🇷 Brasil:</strong> ' +
+              esc(item.impact_br) + '</p>' : '') +
+            '<div class="curation-card-stamp">Fonte jornalística: ' + esc(item.source || "Consultar a matéria") + '</div>' +
+            '<div class="editorial-actions"><a href="' + esc(item.url) +
+              '" target="_blank" rel="noopener noreferrer">Ler na fonte ↗</a>' +
+            '<button type="button" class="curation-share" data-url="' + esc(item.url) +
+              '" data-title="' + esc(item.title) + '">↗ Compartilhar</button></div></article>';
+        }).join("") : '<div class="empty">Ainda não há notícias adicionadas a esta seleção.</div>';
+        feed.querySelectorAll(".curation-share").forEach(button =>
+          button.addEventListener("click", async () => {
+            const url = button.dataset.url;
+            const title = button.dataset.title;
+            try {
+              if (navigator.share) await navigator.share({title, text:title, url});
+              else if (navigator.clipboard) {
+                await navigator.clipboard.writeText(title + "\n" + url);
+                button.textContent = "✅ Copiado";
+              } else window.open("https://wa.me/?text=" + encodeURIComponent(title + "\n" + url), "_blank", "noopener");
+            } catch (error) {
+              if (error.name !== "AbortError") console.warn("Falha ao compartilhar", error);
+            }
+          })
+        );
+        return;
+      } catch (error) {
+        console.warn("Não foi possível acessar a seleção do ChatGPT:", error);
+      }
+    }
+    if (feed.querySelector(".empty")) {
+      status.textContent = "⚠️ Não foi possível consultar a seleção agora.";
+      sourceInfo.textContent = "Curadoria temporariamente indisponível; notícias RSS permanecem acessíveis.";
+    }
+  }
+
   // ---------- Estado e preferências (salvas por navegador, com proteção) ----------
   const store = {
     get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch { return d; } },
@@ -1398,7 +1491,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 
   document.getElementById("shareCopy").addEventListener("click", copyShareLink);
   // ---------- Controles ----------
-  document.getElementById("refreshBtn").onclick = () => { load(); loadEditorial(); };
+  document.getElementById("refreshBtn").onclick = () => { load(); loadEditorial(); loadCuration(); };
   document.getElementById("settingsBtn").onclick = () => {
     const s = document.getElementById("settings");
     s.classList.toggle("open");
@@ -1476,11 +1569,13 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 
   setupTimer();
   loadEditorial();
+  loadCuration();
   // Os destaques acompanham as mudanças no GitHub mesmo com a página aberta.
   // O GitHub coleta periodicamente; consultar a cada cinco minutos apenas lê o JSON.
   setInterval(loadEditorial, 5 * 60 * 1000);
+  setInterval(loadCuration, 5 * 60 * 1000);
   document.addEventListener("visibilitychange", () => {
-    if (document.visibilityState === "visible") loadEditorial();
+    if (document.visibilityState === "visible") { loadEditorial(); loadCuration(); }
   });
   load();
 })();
