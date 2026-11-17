@@ -2,9 +2,24 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-17T07:12:55Z",
+  "updated_at": "2026-11-17T08:25:22Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Código malicioso atinge sites de 178 organizações e tenta roubar dados e criptomoedas",
+      "summary": "Pesquisadores identificaram scripts maliciosos distribuídos por uma plataforma usada por sites de grandes empresas, incluindo Zoom, HSBC, CNN, Salesforce e IKEA. O código tentava desviar pagamentos em criptomoedas, capturar dados de cartões e explorar iPhones. A Reuters confirmou relatos técnicos e respostas de empresas, mas não conseguiu verificar quantos ataques tiveram êxito ou quantas pessoas foram afetadas.",
+      "impact_br": "Usuários brasileiros que acessam sites internacionais também podem estar expostos, mas não há vítimas no Brasil confirmadas. Recomenda-se cautela com pagamentos e manter dispositivos atualizados.",
+      "category": "Cibersegurança",
+      "region": "Global — empresas internacionais",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/popular-websites-subverted-bid-steal-crypto-target-iphone-users-2026-11-17/",
+      "published_on": "2026-11-17",
+      "published_at": "2026-11-17T00:53:00-04:00",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial"
+    },
     {
       "title": "EUA passam a exigir licenças para exportar chips avançados de IA ao Brasil e outros quatro países",
       "summary": "Em 16 de novembro, os Estados Unidos anunciaram novas regras de exportação para chips avançados de inteligência artificial destinados ao Brasil, Singapura, Malásia, Indonésia e Tailândia, visando impedir o acesso indireto de empresas chinesas a essa tecnologia. A medida prevê exceção para determinados destinatários ligados a empresas dos EUA e não representa uma proibição geral de importações.",
