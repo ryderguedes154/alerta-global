@@ -436,3 +436,136 @@ button,select,input,textarea{font-weight:650}
 }
 .portal-news-left .card>p,.curation-live-summary,.archive-card p,.editorial-card p,
 .hero p,.portal-masthead-description,.portal-promo small{font-weight:500}
+
+/* Acessibilidade visual — fontes ampliadas no portal (2026-11-17) */
+/* Tipografia maior e respirável, sem alterar a identidade Nunito Sans. */
+body{font-size:16px;line-height:1.63}
+.portal-topline{font-size:12px}
+.portal-topline-inner{min-height:36px}
+.portal-brandtext strong{font-size:clamp(26px,2.9vw,34px)}
+.portal-brandtext small{font-size:11px}
+.portal-masthead-description{font-size:13px}
+.portal-primary-nav a{font-size:13px;padding:15px 15px 13px}
+.portal-topic{font-size:12px;gap:9px}
+.portal-search input{font-size:14px}
+.hero-label{font-size:11px}
+.hero h2{font-size:clamp(31px,3.8vw,49px);line-height:1.16}
+.hero p{font-size:15px;line-height:1.58;max-width:850px}
+.hero-cta a{font-size:13px;padding:11px 16px}
+.status-text{font-size:12px}
+.fresh-header h2{font-size:22px}
+.fresh-header small,.portal-section-heading span,.portal-sidebar-title span{font-size:11px}
+.fresh-header>a{font-size:13px}
+.fresh-card strong{font-size:clamp(17px,2.1vw,23px)!important}
+.fresh-card:first-child strong{font-size:clamp(23px,2.7vw,33px)!important}
+.fresh-card small{font-size:12px}
+.fresh-card em{font-size:12px}
+.fresh-footer{font-size:12px}
+.portal-promo strong{font-size:20px}
+.portal-promo small,.portal-promo a{font-size:13px}
+.portal-section-heading h2,.portal-sidebar-title h2{font-size:25px}
+.portal-section-heading>a{font-size:13px}
+.portal-story-card strong{font-size:14px;line-height:1.32}
+.portal-story-card em{font-size:10px}
+.portal-story-card{height:218px}
+.curation-live h2{font-size:13px}
+.curation-live-top{font-size:12px}
+.curation-live-title{font-size:clamp(21px,2.4vw,28px)}
+.curation-live-summary{font-size:15px;line-height:1.67}
+.curation-live-impact{font-size:14px}
+.curation-live-actions a{font-size:13px}
+.curation-live-note{font-size:12px}
+.portal-news-left .section-header h2{font-size:27px}
+.portal-news-left .section-header p,.portal-news-left .section-header .eyebrow{font-size:13px}
+.portal-news-left .toolbar :is(input,select){font-size:14px}
+.portal-news-left .card>h3{font-size:clamp(18px,1.55vw,21px);line-height:1.36}
+.portal-news-left .card>p{font-size:14px;line-height:1.56;max-height:none}
+.portal-news-left .card>.meta{font-size:12px}
+.portal-news-left .card>.meta .tag{font-size:11px}
+.portal-news-left .card .card-read-more,
+.portal-news-left .card .card-open-button,
+.portal-news-left .card .card-share-button{font-size:12px}
+.portal-news-left .card.has-image{grid-template-columns:195px minmax(0,1fr)}
+.portal-news-left .card.has-image>.card-image{width:195px;height:170px}
+.portal-aside-item small{font-size:12px}
+.portal-aside-item strong{font-size:15px;line-height:1.5}
+.portal-aside-more{font-size:13px}
+.radar-head h2,.section-header h2{font-size:27px}
+.radar-head p,.section-header p{font-size:14px}
+.radar-item small{font-size:12px}
+.radar-item strong{font-size:19px}
+.radar-item:first-child strong{font-size:clamp(23px,2.6vw,31px)}
+.editorial-card h3{font-size:19px;line-height:1.42}
+.editorial-card p{font-size:14px}
+.editorial-card .editorial-meta{font-size:12px}
+.editorial-update,.curation-card-stamp{font-size:12px}
+.archive-head h2,.sources-head h2{font-size:26px}
+.archive-head p,.sources-head p,.sources-disclaimer{font-size:14px}
+.archive-card h3{font-size:18px}
+.archive-card p,.source-row strong{font-size:14px}
+.archive-card small,.source-row small,.archive-status{font-size:12px}
+.archive-filters label,.archive-filters input,.archive-filters select,.archive-filters button{font-size:14px}
+.level strong{font-size:29px}
+.level span{font-size:13px}
+.sources-stat strong{font-size:26px}
+.sources-stat span{font-size:12px}
+.footer{font-size:13px}
+.topbar .share-btn,.topbar .install-btn{font-size:12px}
+.topbar .status-pill{font-size:12px}
+.empty{font-size:14px}
+.settings,.settings :is(label,input,select,button),.share-options :is(a,button){font-size:14px}
+@media(max-width:1100px){
+ .portal-news-left .card.has-image{grid-template-columns:158px minmax(0,1fr)}
+ .portal-news-left .card.has-image>.card-image{width:158px;height:152px}
+ .portal-news-left .card>h3{font-size:18px}
+}
+@media(max-width:900px){
+ .portal-topline{font-size:11px}
+ .portal-topic{font-size:12px}
+ .portal-news-left .card>p{font-size:14px}
+ .bottom-nav a,.bottom-nav button{font-size:12px!important}
+ .mobile-drawer-links a{font-size:15px}
+}
+@media(max-width:620px){
+ body{font-size:15px}
+ .portal-topline{font-size:10px}
+ .portal-brandtext strong{font-size:23px}
+ .portal-brandtext small{font-size:9px}
+ .portal-primary-nav a{font-size:12px;padding:12px 11px}
+ .portal-topic{font-size:11px}
+ .hero-label{font-size:10px}
+ .hero h2{font-size:clamp(28px,7.2vw,36px);line-height:1.2}
+ .hero p{font-size:14px;line-height:1.55}
+ .hero-cta a{font-size:12px;padding:9px 12px}
+ .fresh-header h2{font-size:21px}
+ .fresh-card:first-child strong{font-size:23px!important}
+ .fresh-card:nth-child(2) strong,.fresh-card:nth-child(3) strong{font-size:14px!important;line-height:1.28}
+ .fresh-card:nth-child(2) small,.fresh-card:nth-child(3) small{font-size:10px}
+ .fresh-card:first-child small{font-size:11px}
+ .portal-promo strong{font-size:15px}
+ .portal-promo small{font-size:11px}
+ .portal-section-heading h2,.portal-sidebar-title h2{font-size:22px}
+ .portal-story-card strong{font-size:12px;line-height:1.32}
+ .curation-live-title{font-size:21px}
+ .curation-live-summary{font-size:14px}
+ .curation-live-top{font-size:11px}
+ .curation-live-actions a{font-size:12px}
+ .curation-live-note{font-size:11px}
+ .portal-news-left .section-header h2{font-size:23px}
+ .portal-news-left .card.has-image{grid-template-columns:105px minmax(0,1fr);gap:8px 11px}
+ .portal-news-left .card.has-image>.card-image{width:105px;height:134px}
+ .portal-news-left .card>h3{font-size:16px;line-height:1.34}
+ .portal-news-left .card>p{font-size:13px;line-height:1.47;max-height:none}
+ .portal-news-left .card .meta{font-size:11px}
+ .portal-news-left .card .card-open-button,
+ .portal-news-left .card .card-share-button{font-size:12px}
+ .portal-aside-item strong{font-size:15px}
+ .editorial-card h3{font-size:18px}
+ .editorial-card p{font-size:14px}
+ .archive-head h2,.sources-head h2,.radar-head h2,.section-header h2{font-size:23px}
+ .archive-card h3{font-size:17px}
+ .archive-card p{font-size:14px}
+ .bottom-nav a,.bottom-nav button{font-size:11px!important;min-height:56px}
+ .mobile-drawer-links a{font-size:15px}
+ .footer{font-size:12px}
+}
