@@ -213,6 +213,15 @@ def main():
             break
     if len(selected) < 3:
         print("Menos de três destaques confiáveis e traduzidos; preservando lista anterior.")
+        if OUT.exists():
+            try:
+                previous = json.loads(OUT.read_text(encoding="utf-8"))
+                if isinstance(previous.get("items"), list) and previous["items"]:
+                    previous["checked_at"] = now.isoformat().replace("+00:00", "Z")
+                    previous["status"] = "sem_novas_materias_relevantes"
+                    OUT.write_text(json.dumps(previous, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            except (ValueError, TypeError):
+                pass
         return
     edition = now.astimezone(TIMEZONE).strftime("%d/%m/%Y")
     output = {
@@ -221,6 +230,7 @@ def main():
                         "e oficiais, com links originais. As informações devem ser "
                         "confirmadas na fonte e podem ser atualizadas."),
         "checked_at": now.isoformat().replace("+00:00", "Z"),
+        "status": "checado",
         "items": selected
     }
     if OUT.exists():
@@ -232,6 +242,7 @@ def main():
                 # Checagem executada sem novidade: preservar os resumos já publicados.
                 # Atualizar somente o registro da última verificação, não a data da matéria.
                 old["checked_at"] = output["checked_at"]
+                old["status"] = "sem_novas_materias_relevantes"
                 OUT.write_text(json.dumps(old, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
                 print("Checagem concluída; nenhuma manchete nova entre os destaques.")
                 return
