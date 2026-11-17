@@ -2,9 +2,24 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-17T10:42:00Z",
+  "updated_at": "2026-11-17T12:03:14Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Irã lança drones contra instalação de radar militar dos EUA no Bahrein; defesas aéreas interceptam ataque",
+      "summary": "Em 17 de novembro, o Irã lançou drones contra uma instalação de radar militar norte-americana no Bahrein. O governo do Bahrein afirmou ter interceptado os drones; a extensão de eventuais danos não foi confirmada de forma independente. A ofensiva aumenta o risco de escalada no Golfo Pérsico, enquanto persistem tensões sobre a navegação no Estreito de Hormuz.",
+      "impact_br": "Possível pressão sobre petróleo, combustíveis e fretes marítimos se houver escalada; não há impacto direto adicional confirmado no Brasil.",
+      "category": "Guerras e diplomacia",
+      "region": "Oriente Médio — Irã, Bahrein e Estados Unidos",
+      "country": "BH",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/oman-iran-foreign-ministers-discuss-safeguarding-maritime-corridors-2026-11-17/",
+      "published_on": "2026-11-17",
+      "published_at": "2026-11-17T01:45:00-04:00",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial"
+    },
     {
       "title": "ONU confirma mais de 2.230 civis mortos no Sudão em 2026; drones causaram quase três quartos das mortes",
       "summary": "Relatório divulgado pela ONU em 17 de novembro contabiliza mais de 2.230 mortes de civis confirmadas entre janeiro e outubro de 2026 na guerra do Sudão, incluindo mais de 1.630 provocadas por ataques de drones. Hospitais, mercados e infraestrutura de água e energia foram atingidos. A ONU alerta que o total real pode ser maior e que algumas violações podem constituir crimes de guerra.",
