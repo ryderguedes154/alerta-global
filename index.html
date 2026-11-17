@@ -430,7 +430,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   </section>
 
   <section class="editorial-section" id="editorial" aria-label="Destaques selecionados do Radar Mundial">
-    <div class="section-header"><div><div class="eyebrow">Seleção do Radar Mundial</div><h2>📰 Notícias em destaque</h2><p>Resumo em português, impacto para o Brasil e acesso à fonte original. Seleção complementar à atualização automática.</p></div></div>
+    <div class="section-header"><div><div class="eyebrow">Seleção do Radar Mundial</div><h2>📰 Notícias em destaque</h2><p>Resumo em português, impacto para o Brasil e acesso à fonte original. Seleção complementar à atualização automática. Manchetes e resumos em português.</p></div></div>
     <p class="editorial-update" id="editorialUpdate" aria-live="polite">🔄 Buscando destaques atuais…</p>
     <div id="editorialFeed" class="editorial-grid"><div class="empty">Carregando destaques...</div></div>
   </section>
@@ -450,7 +450,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     <details class="sources-details"><summary>Ver situação por fonte</summary><div id="sourcesList" class="sources-list"><p>Carregando informações...</p></div></details>
     <p class="sources-disclaimer">O horário de checagem não garante que o jornal publicou uma matéria nova. Notícias são classificadas automaticamente e devem ser verificadas na fonte original.</p>
   </section>
-  <div class="section-header" id="news"><div><div class="eyebrow">Central de informação</div><h2>Notícias de impacto mundial</h2><p>Seleção de notícias internacionais relevantes, com filtros por assunto e país.</p></div></div>
+  <div class="section-header" id="news"><div><div class="eyebrow">Central de informação</div><h2>Notícias de impacto mundial</h2><p>Notícias internacionais com títulos em português, filtros por assunto e país. Resumos ainda não traduzidos são sinalizados.</p></div></div>
   <div class="toolbar">
     <input id="search" type="search" placeholder="Buscar por palavra-chave, país ou tema…">
     <select id="cat">
@@ -606,7 +606,8 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
             <p>${esc(i.summary)}</p>
             <p class="editorial-impact"><strong>🇧🇷 Impacto possível no Brasil:</strong> ${esc(i.impact_br || "Em avaliação.")}</p>
             <div class="editorial-actions">
-              <a href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">Abrir notícia ↗</a>
+              <a href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">Abrir original ↗</a>
+              ${newsTranslatedUrl(i) ? `<a href="${esc(newsTranslatedUrl(i))}" target="_blank" rel="noopener noreferrer">🌐 Ler traduzido ↗</a>` : ""}
               <button type="button" class="editorial-share" data-url="${esc(i.url)}" data-title="${esc(i.title)}">↗ Compartilhar</button>
             </div>
           </article>`).join("");
@@ -667,7 +668,9 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
               esc(item.impact_br) + '</p>' : '') +
             '<div class="curation-card-stamp">Fonte jornalística: ' + esc(item.source || "Consultar a matéria") + '</div>' +
             '<div class="editorial-actions"><a href="' + esc(item.url) +
-              '" target="_blank" rel="noopener noreferrer">Ler na fonte ↗</a>' +
+              '" target="_blank" rel="noopener noreferrer">Abrir original ↗</a>' +
+            (newsTranslatedUrl(item) ? '<a href="' + esc(newsTranslatedUrl(item)) +
+              '" target="_blank" rel="noopener noreferrer">🌐 Ler traduzido ↗</a>' : '') +
             '<button type="button" class="curation-share" data-url="' + esc(item.url) +
               '" data-title="' + esc(item.title) + '">↗ Compartilhar</button></div></article>';
         }).join("") : '<div class="empty">Ainda não há notícias adicionadas a esta seleção.</div>';
