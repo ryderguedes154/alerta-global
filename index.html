@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<meta name="theme-color" content="#091629">
+<meta name="theme-color" content="#080e1d">
 <meta name="description" content="Radar Mundial e Alerta Global: notícias internacionais, alertas de gravidade e monitoramento de terremotos.">
 <meta name="application-name" content="Alerta Global">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -440,6 +440,236 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 .curation-live-actions a:first-child{background:#246f65;border-color:#64bca9}
 .curation-live-note{color:#9ac5ca;font-size:10px;margin:10px 0 0}
 @media(max-width:620px){.curation-live{padding:14px;border-radius:15px}.curation-live-title{font-size:18px}.curation-live-summary{font-size:12px}.curation-live-actions a{min-height:42px;display:inline-flex;align-items:center}}
+
+/* Alerta Global — paleta preto / vermelho / azul-marinho / branco (2026)
+   Contraste alto para leitura de notícias; vermelho reservado aos alertas e CTAs.
+   Regras no fim do estilo para harmonizar componentes desktop, tablet e mobile. */
+:root{
+  color-scheme:dark;
+  --bg:#05070d;--panel:#101c2d;--line:#29415f;--text:#f8fbff;--muted:#b5c3d6;
+  --crit:#ff455a;--high:#ff8b94;--med:#b8c9ee;--low:#83b8ff;--ok:#b9d5ff;
+  --ag-black:#05070d;--ag-navy:#0b1728;--ag-navy-2:#142942;
+  --ag-navy-3:#1b3755;--ag-red:#e32e42;--ag-red-hover:#f44557;
+  --ag-white:#f8fbff;--ag-soft:#b5c3d6;--ag-stroke:#29415f;
+}
+html{background:var(--ag-black);scrollbar-color:#3c5574 #091321}
+body{background:var(--ag-black);color:var(--ag-white)}
+body:before{
+  background:
+    radial-gradient(ellipse 56% 42% at 92% 2%,rgba(179,29,49,.12),transparent 66%),
+    radial-gradient(ellipse 52% 48% at 8% 58%,rgba(27,58,100,.24),transparent 70%);
+}
+:where(a,button,input,select,summary):focus-visible{outline:2px solid #ff7181;outline-offset:3px}
+::selection{background:#962638;color:white}
+a:hover{transition:color .16s,border-color .16s,background .16s}
+
+/* Estrutura principal e cabeçalho */
+.side{
+  background:linear-gradient(180deg,#060911 0%,#0a1424 62%,#060a12 100%);
+  border-right:1px solid #263c56;
+  box-shadow:inset -3px 0 0 rgba(196,33,53,.06);
+}
+.logo-symbol{background:#121e31;border:1px solid #593245;box-shadow:0 0 0 3px #df334018,0 10px 28px #0008}
+.logo-type strong,.mobile-brand strong{color:var(--ag-white)}
+.logo-type small,.mobile-brand small{color:#c5d5ee}
+.brand-siren{filter:drop-shadow(0 0 6px rgba(250,60,82,.65))}
+.side-caption,.mobile-drawer-label{color:#a8b9d0}
+.side-link{color:#b5c4d9}
+.side-link .side-link-icon{background:#122037;color:#d3e1f3}
+.side-link:hover,.side-link.active,.side-link[aria-current="page"]{
+  background:linear-gradient(90deg,#411b2d,#132840);
+  color:white;border-color:#883245;
+}
+.side-link.active{box-shadow:inset 3px 0 0 var(--ag-red),0 10px 25px #0003}
+.side-link.active .side-link-icon,.side-link:hover .side-link-icon{background:#642438;color:#fff}
+.side-link.active .side-chevron{color:#ff8d99}
+.side-live,.mobile-live{background:#101f35;color:#d9e7fa;border-color:#31527a}
+.side-live-dot,.side-pulse{background:#a6caff;box-shadow:0 0 0 4px #a6caff20}
+.side-live-tag,.mobile-live-tag{color:#d4e4ff;border-color:#3a5275}
+.side-card{background:linear-gradient(135deg,#182b47,#111a2c 80%);border:1px solid #3b4967}
+.side-card-top{color:#f3b5be}
+.side-card p{color:#b6c6d9}
+.side-card-cta{background:#a72236;border:1px solid #d84658;color:#fff}
+.side-card-cta:hover{background:#cf3046}
+.side-online{color:#bdd4ff}
+.topbar{background:#070e1c;border-bottom:1px solid #2b3e58}
+.topbar h1,.topbar-copy{color:var(--ag-white)}
+.breadcrumb{color:#a5b8d2}
+.status-pill{background:#162843;border-color:#3b597c;color:#dbeaff}
+.dot{background:#a3c7ff;box-shadow:0 0 0 4px #a3c7ff23}
+.dot.off{background:#64748b;box-shadow:none}
+.icon-action,.share-btn{background:#142741;border-color:#3d5575;color:#f6faff}
+.icon-action:hover,.share-btn:hover{background:#223e61;border-color:#7191bb}
+.install-btn{background:linear-gradient(135deg,#ef4357,#b71e34);border:1px solid #ff7180;color:#fff;box-shadow:0 6px 19px #c51e352d}
+.install-btn:hover{background:linear-gradient(135deg,#ff5264,#ca2a43)}
+.mobile-brand img{box-shadow:0 4px 18px #bc2a3d26;border-color:#7c3853}
+
+/* Abertura: preto, azul profundo, detalhe vermelho, tipografia branca */
+.hero{
+  background:radial-gradient(ellipse 56% 90% at 94% 26%,#c72a4133,transparent 64%),
+             linear-gradient(119deg,#132d50 0%,#0c192c 60%,#060b15 100%);
+  border:1px solid #385372;
+  box-shadow:inset 0 1px 0 #ffffff0d,0 20px 50px #0004;
+}
+.hero:before{border-color:#e340515a;box-shadow:0 0 0 27px #e3405110,0 0 0 73px #e3405108;background:repeating-radial-gradient(circle,#ffffff18 0 1px,transparent 2px 41px)}
+.hero:after{border-color:#e3445140}
+.hero-label{background:#401b2e;border:1px solid #a63449;color:#ffd5dc}
+.hero h2{color:white;text-wrap:balance}
+.hero h2 em{background:linear-gradient(105deg,#fff 0%,#ff8190 84%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero p{color:#cad7e9}
+.hero-cta a{background:#e43246;color:#fff;border:1px solid #f36b79;box-shadow:0 9px 21px #ac1b2d31}
+.hero-cta a:hover{background:#fa4a5d}
+.hero-cta .hero-curation-link{background:#12263e;color:#f0f6ff;border:1px solid #536c8c;box-shadow:none}
+.hero-cta .hero-curation-link:hover{background:#203b5c;border-color:#8baccd}
+.status-text,.offline-note{color:#b8c8dd}
+
+/* Alertas ChatGPT: prioridade visual sem ocupar a leitura da manchete */
+.curation-live{
+  background:linear-gradient(125deg,#211727 0%,#101e32 44%,#0a1424 100%);
+  border:1px solid #87374b;
+  box-shadow:inset 4px 0 0 var(--ag-red),0 14px 36px #0005;
+}
+.curation-live-top{color:#ff99a5}
+.curation-live-pulse{background:var(--ag-red);box-shadow:0 0 0 5px #ef435726}
+.curation-live h2{color:#ced7e7}
+.curation-live-title{color:white}
+.curation-live-title:hover{color:#ffc2cb}
+.curation-live-summary{color:#d1dceb}
+.curation-live-impact{background:#172940;border-left-color:var(--ag-red);color:#e5efff}
+.curation-live-actions a{background:#19344f;border:1px solid #445e7e;color:white}
+.curation-live-actions a:hover{background:#26486b}
+.curation-live-actions a:first-child{background:#b8263d;border-color:#ea6474}
+.curation-live-actions a:first-child:hover{background:#d7344b}
+.curation-live-note{color:#a9bad1}
+
+/* Notícias principais, radar e níveis de gravidade */
+.fresh-section,.archive-section,.sources-panel{
+  background:linear-gradient(143deg,#121f34,#0a1424);
+  border:1px solid #2d4565;
+  box-shadow:0 8px 27px #0003;
+}
+.fresh-header small,.archive-head small,.section-header .eyebrow{color:#ff8c9a}
+.fresh-header p,.archive-head p,.section-header p,.radar-head p{color:#b7c7dc}
+.fresh-header>a{background:#a82339;border-color:#e75165;color:#fff}
+.fresh-header>a:hover{background:#d23549}
+.fresh-card,.archive-card,.source-row,.sources-stat{background:#13253d;border:1px solid #314a69;color:#f7faff}
+.fresh-card:hover,.archive-card:hover{background:#1c3351;border-color:#6f8bb2}
+.fresh-card small,.archive-card small{color:#ff9aaa}
+.fresh-card em{color:#adbfda}
+.fresh-footer,.archive-status{color:#afc0d7}
+#archiveTotal{background:#371d30;border-color:#9b3e52;color:#ffdce0}
+.archive-filters select,.archive-filters input,.archive-filters button{
+  background:#0a1628;border-color:#425d7a;color:#f5f9ff;
+}
+.archive-filters button{background:#b3263b;border-color:#db5568;color:white}
+.archive-filters button:hover{background:#d3354b}
+.archive-filters label{color:#cfdaec}
+.archive-card.is-chatgpt{background:linear-gradient(145deg,#261d32,#14253c);border-color:#91475d}
+.archive-card .archive-impact{color:#dce7f9;border-top-color:#415672}
+.archive-card a,.card a{color:#bcd9ff}
+.level{background:linear-gradient(140deg,#172b47,#0c1627);border-color:#2e4262}
+.level:hover{border-color:#6b88ac}
+.level span{color:#ccd7e8}
+.level.crit{border-top-color:#ef4559;background:linear-gradient(135deg,#351b2e,#141e32)}
+.level.crit strong,.level.crit:before{color:#ff6577}
+.level.high{border-top-color:#d74256}
+.level.high strong,.level.high:before{color:#ff8d9b}
+.level.med{border-top-color:#607da5}
+.level.med strong{color:#c7d8f1}
+.level.low{border-top-color:#436ca0}
+.level.low strong{color:#99c4ff}
+.level[aria-pressed="true"]{border-color:#f36376;background:linear-gradient(130deg,#411e30,#192943);box-shadow:0 0 0 2px #ed4a5b31,0 10px 28px #0005}
+.level[aria-pressed="true"]:after{color:#ffbac3}
+.filter-result,.toolbar,.settings{background:#121f33;border:1px solid #304b69;color:#e7effa}
+.filter-result button,.settings button{background:#b72c42;border:1px solid #dc5c70;color:white}
+.settings .ghost{background:#1d3352;border-color:#557499;color:white}
+.toolbar input,.toolbar select,.settings input,.settings select{
+  background:#091526;border:1px solid #385375;color:white;
+}
+:where(input,select)::placeholder{color:#98acc5;opacity:1}
+:where(select,input[type="checkbox"]){accent-color:#ec4054}
+.radar-item{background:radial-gradient(ellipse at 100% 0%,#274d7c58,transparent 48%),linear-gradient(145deg,#152d4b,#0c182a);border-color:#334f6f}
+.radar-item:first-child{background:radial-gradient(ellipse at 100% 0%,#ba243d50,transparent 60%),linear-gradient(135deg,#222039,#0c1b32)}
+.radar-item:hover{border-color:#ee6373;box-shadow:0 12px 28px #0006}
+.radar-item:after{color:#ff9da8}
+.radar-item small{color:#d1deec}
+.radar-item:before{border-color:#e4586930;box-shadow:0 0 0 35px #a1bfff0a,0 0 0 70px #a1bfff04}
+#radarCount{background:#2b1b30;border-color:#763347;color:#ffb2bc}
+.card,.editorial-card{background:linear-gradient(150deg,#14263f,#0a1526);border:1px solid #334a68}
+.card:hover,.card.linked:hover,.editorial-card:hover{border-color:#617eaa}
+.card h3,.editorial-card h3,.archive-card h3{color:#f7fbff}
+.card p,.editorial-card p,.archive-card p{color:#c3d1e3}
+.card .meta{color:#b2c4db}
+.card .country{color:#edf5ff}
+.card-read-more{color:#a9ceff}
+.card-open-button,.editorial-actions a{background:#1e4168;border-color:#547ba5;color:white!important}
+.card-open-button:hover,.editorial-actions a:hover{background:#2b5682}
+.card-share-button,.editorial-actions button{background:#a8293c;border-color:#d54f63;color:white}
+.card-share-button:hover,.editorial-actions button:hover{background:#c8384c}
+.tag{border-color:#45617f;color:#dae7f8}
+.tag.sev-crit{background:#5a1c2c;border-color:#dd4a5d;color:#ffd2d8}
+.tag.sev-high{background:#3e2639;border-color:#a84b66;color:#ffbdc5}
+.tag.sev-med{background:#1f3047;border-color:#5d779f;color:#d6e5fa}
+.tag.sev-low{background:#192a46;border-color:#527ab4;color:#c2dfff}
+.empty{background:#0e192c;border:1px dashed #42587a;color:#bbc9dc}
+.banner{background:linear-gradient(110deg,#451928,#171d31);border:1px solid #a7324b}
+.banner h2{color:#ff94a2}
+.banner li{color:#ffe1e5}
+.curation-source,.curation-source-in-list{background:#19243a;border-color:#824052;color:#fff}
+.curation-source:hover,.curation-source-in-list:hover{background:#2d2338;border-color:#d45165}
+.curation-source small,.curation-card-stamp{color:#bbc9df}
+.curation-source span:last-child{color:#ff9bab}
+.curation-history-link{background:#28243b;border-color:#8b4255;color:#ffcad2}
+.curation-history-link:hover{background:#3c263f}
+.editorial-card .editorial-meta{color:#ff97a5}
+.editorial-impact{border-top-color:#3d5170}
+.source-time{background:#172e4c;border-color:#43658c;color:#dae9ff}
+.source-row .source-ok{color:#cce0ff}
+.source-row .source-partial{color:#e0c9d3}
+.source-row .source-off{color:#ff9dad}
+.feed-pager button{background:linear-gradient(140deg,#243e64,#132c4b);border-color:#617eaa;color:white}
+.feed-pager button:hover{background:#365b86}
+.footer{border-top-color:#304663;color:#9fafc6}
+
+/* Compartilhar, notificações e controles compactos */
+.share-modal{background:#020409e8}
+.share-panel{background:linear-gradient(140deg,#152942,#0b1424);border:1px solid #51698a;color:white}
+.share-panel p{color:#c1d0e4}
+.share-options a,.share-options button{background:#1a3453;border:1px solid #4c698c;color:white}
+.share-options a:hover,.share-options button:hover{background:#2a4d73}
+.share-options #shareInstagram{background:#263451;border-color:#5c6c93}
+.share-options #shareInstagram:hover{background:#35476d}
+.share-options #shareWhatsApp{background:#204064;border-color:#567ca8;color:white}
+.share-options #shareWhatsApp:hover{background:#2a5984}
+.share-close{color:white}
+
+/* Barra inferior e menu lateral do aplicativo no celular */
+.bottom-nav{background:#070d1bf5;border:1px solid #344c69;box-shadow:0 14px 45px #000b}
+.bottom-nav a,.bottom-nav button{color:#bdcde2}
+.bottom-nav a.active,.bottom-nav a[aria-current="page"],.bottom-nav button[aria-expanded="true"]{
+  background:linear-gradient(155deg,#a1263a,#5a223c);border-color:#ce5265;color:white;
+  box-shadow:inset 0 -2px 0 #ff859444;
+}
+.bottom-nav .curation-bottom-link{color:#ffc0c9}
+.mobile-drawer:not([hidden]){background:linear-gradient(165deg,#101e32,#060b14 84%);border-left-color:#754052}
+.mobile-drawer-links a,.mobile-drawer-links button{background:#12263e;border-color:#334e70;color:#f3f8ff}
+.mobile-drawer-links a.active,.mobile-drawer-links a[aria-current="page"]{background:#582036;border-color:#d25367}
+.mobile-drawer-links a>span,.mobile-drawer-links button>span{background:#223855}
+.mobile-drawer-links b{color:#ff8e9c}
+.mobile-drawer-close{background:#a62c42;border-color:#e35c6e;color:#fff}
+.mobile-drawer-footer{color:#bdcde2}
+@media(max-width:900px){
+  .topbar{background:#080e1df5;border-bottom-color:#334861}
+  .bottom-nav{background:#080e1df7}
+  .mobile-brand img{border-color:#9e4055;box-shadow:0 5px 16px #d62d4526}
+  .mobile-live{background:#11213a;border-color:#3f5b7b;color:#e1ebff}
+}
+@media(max-width:620px){
+  .hero{background:radial-gradient(ellipse at 100% 7%,#9d1e382b,transparent 57%),linear-gradient(135deg,#142944,#090f1d)}
+  .curation-live{background:linear-gradient(135deg,#241727,#0e1e31)}
+  .bottom-nav a.active,.bottom-nav a[aria-current="page"],.bottom-nav button[aria-expanded="true"]{background:linear-gradient(145deg,#a92a42,#422239)}
+}
+
 </style>
 </head>
 <body>
