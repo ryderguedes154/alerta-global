@@ -348,6 +348,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
       <a class="side-link active" href="#overview" data-nav="overview"><span class="side-link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/></svg></span><span>Visão geral</span><span class="side-chevron">›</span></a>
       <a class="side-link" href="#radar" data-nav="radar"><span class="side-link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.4" fill="currentColor"/><path d="M12 12l6-6"/></svg></span><span>Radar Mundial</span><span class="side-chevron">›</span></a>
       <a class="side-link" href="#news" data-nav="news"><span class="side-link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8M8 16h5"/></svg></span><span>Últimas notícias</span><span class="side-chevron">›</span></a>
+      <a class="side-link" href="#sources" data-nav="sources"><span class="side-link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 6v6l4 2M8 19h8"/></svg></span><span>Fontes e atualizações</span><span class="side-chevron">›</span></a>
       <a class="side-link" href="#banner" data-nav="banner"><span class="side-link-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M10.3 3.9L2.2 18a2 2 0 001.7 3h16.2a2 2 0 001.7-3L13.7 3.9a2 2 0 00-3.4 0Z"/><path d="M12 9v4M12 17h.01"/></svg></span><span>Alertas de risco</span><span class="side-chevron">›</span></a>
     </nav>
   </div>
@@ -461,6 +462,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     <a href="#banner" data-mobile-nav="banner"><span>🚨</span> Alertas de risco <b>›</b></a>
     <a href="#radar" data-mobile-nav="radar"><span>◎</span> Radar Mundial <b>›</b></a>
     <a href="#news" data-mobile-nav="news"><span>▤</span> Notícias internacionais <b>›</b></a>
+    <a href="#sources" data-mobile-nav="sources"><span>◷</span> Fontes e atualizações <b>›</b></a>
   </nav>
   <div class="mobile-drawer-label">FERRAMENTAS</div>
   <div class="mobile-drawer-links">
@@ -1056,7 +1058,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   // Realce da aba atual na navegação e atalho de compartilhamento.
   function markSidebarActive() {
     const hash = location.hash.slice(1) || "overview";
-    const selected = ["overview","radar","news","banner"].includes(hash) ? hash : "overview";
+    const selected = ["overview","radar","news","banner","sources"].includes(hash) ? hash : "overview";
     document.querySelectorAll(".side-link[data-nav], [data-mobile-nav]").forEach(link => {
       const on = (link.dataset.nav || link.dataset.mobileNav) === selected;
       link.classList.toggle("active", on);
