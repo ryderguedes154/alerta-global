@@ -2,9 +2,24 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-17T04:22:43Z",
+  "updated_at": "2026-11-17T05:42:47Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Cargueiro com trigo afunda no Mar Negro perto da Bulgária; 12 tripulantes são resgatados",
+      "summary": "O cargueiro Betul 8, que transportava cerca de 3 mil toneladas de trigo da Romênia ao Egito, afundou em águas próximas à Bulgária em 16 de novembro. Os 12 tripulantes foram resgatados. Fontes de segurança marítima e tripulantes relatam ataque por drones navais, mas as autoridades ainda não confirmaram a autoria. O episódio aumenta o risco à navegação e ao comércio de grãos no Mar Negro.",
+      "impact_br": "Possível pressão sobre fretes marítimos e preços internacionais de grãos, com reflexos indiretos no Brasil; nenhum efeito direto confirmado.",
+      "category": "Guerras e comércio global",
+      "region": "Mar Negro — Bulgária e Romênia",
+      "country": "BG",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/cargo-ship-sinking-black-sea-off-bulgaria-says-transport-ministry-2026-11-16/",
+      "published_on": "16/11/2026",
+      "published_at": "2026-11-16",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial"
+    },
     {
       "title": "China confirma importância de encontro entre Xi, Trump e Putin nesta semana",
       "summary": "O Ministério das Relações Exteriores da China afirmou em 16 de novembro que o encontro trilateral entre Xi Jinping, Donald Trump e Vladimir Putin, previsto para quinta-feira, 19 de novembro, tem importância histórica. A Casa Branca informou que Trump pretende abordar a redução de armas nucleares. A reunião ainda não ocorreu e não há acordo anunciado.",
