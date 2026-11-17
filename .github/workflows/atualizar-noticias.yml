@@ -8,6 +8,7 @@ on:
       - 'scripts/coletar_noticias.py'
       - 'scripts/atualizar_destaques.py'
       - 'scripts/arquivar_noticias.py'
+      - 'scripts/limpar_noticias_antigas.py'
   schedule:
     - cron: '2-59/5 * * * *'
 permissions:
@@ -28,13 +29,16 @@ jobs:
         run: python scripts/coletar_noticias.py
       - name: Preservar notícias no histórico mensal
         run: python scripts/arquivar_noticias.py
+      - name: Limitar histórico e curadoria ChatGPT aos últimos 15 dias
+        run: python scripts/limpar_noticias_antigas.py
       - name: Selecionar destaques globais em português
         run: python scripts/atualizar_destaques.py
       - name: Publicar feed, destaques e histórico
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add noticias.json status_fontes.json destaques-radar.json historico/
+          git add noticias.json status_fontes.json destaques-radar.json curadoria-chatgpt.json
+          git add -A historico/
           if ! git diff --cached --quiet; then
             git commit -m "Atualiza notícias de fontes internacionais"
             for attempt in 1 2 3; do
