@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-17T16:12:47.577Z",
+  "updated_at": "2026-11-17T17:35:10.510Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Ações de empresas de IA despencam na Ásia após novas restrições dos EUA a chips avançados",
+      "summary": "Em 17 de novembro, ações de empresas ligadas a centros de dados e semicondutores caíram no Sudeste Asiático após os EUA ampliarem exigências de licença para chips avançados. Na Malásia, papéis de duas fornecedoras de infraestrutura de data centers recuaram quase 20%, segundo a Reuters. As regras também afetam Singapura, Tailândia, Indonésia e Brasil e buscam impedir acesso indireto de empresas chinesas à computação americana. Os efeitos futuros sobre investimentos ainda são incertos.",
+      "impact_br": "O Brasil está entre os cinco países sujeitos às novas exigências de licença. O recuo nas bolsas asiáticas não comprova impacto imediato no mercado brasileiro, mas reforça o risco de maior custo e demora para projetos locais de IA e centros de dados.",
+      "category": "Tecnologia e economia global",
+      "region": "Sudeste Asiático / Estados Unidos",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/us-ai-chip-curbs-threaten-southeast-asia-data-centre-boom-shares-tumble-2026-11-17/",
+      "published_on": "2026-11-17",
+      "published_at": "2026-11-17T00:34:00-04:00",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-17T17:35:10.510Z"
+    },
     {
       "title": "OMS e ONU alertam para riscos globais de substâncias que interferem nos hormônios",
       "summary": "Relatório conjunto da OMS e do Programa das Nações Unidas para o Meio Ambiente, divulgado em 17 de novembro, reúne evidências mais fortes de danos à saúde associados à exposição a substâncias desreguladoras endócrinas presentes em alguns plásticos, cosméticos e pesticidas. A exposição pode começar antes do nascimento e afetar desenvolvimento cerebral, fertilidade e metabolismo. Mais de 350 mil substâncias e misturas estão registradas no mundo, mas apenas uma pequena parcela foi avaliada quanto a esses efeitos. Os órgãos recomendam testes, monitoramento e regras mais rigorosas; os riscos variam conforme a substância e a exposição.",
