@@ -2,9 +2,24 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-17T08:25:22Z",
+  "updated_at": "2026-11-17T09:57:00Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Petroleiro sofre segundo ataque no Estreito de Hormuz; situação da tripulação é desconhecida",
+      "summary": "A agência marítima britânica UKMTO informou em 17 de novembro que um petroleiro, atingido inicialmente em 16 de novembro perto de Khasab, em Omã, sofreu um segundo ataque e pegou fogo. A tripulação, antes relatada como segura, está agora sem contato confirmado. A autoria e a extensão dos danos permanecem desconhecidas.",
+      "impact_br": "Novas interrupções no Estreito de Hormuz podem pressionar preços internacionais de petróleo, fretes e combustíveis; não há efeito adicional confirmado no Brasil.",
+      "category": "Conflitos e energia",
+      "region": "Estreito de Hormuz / Omã / Oriente Médio",
+      "country": "OM",
+      "source": "Reuters (com informações da UKMTO)",
+      "url": "https://www.reuters.com/world/middle-east/crew-tanker-unaccounted-after-second-attack-north-omans-khasab-ukmto-says-2026-11-17/",
+      "published_on": "2026-11-17",
+      "published_at": "",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial"
+    },
     {
       "title": "Código malicioso atinge sites de 178 organizações e tenta roubar dados e criptomoedas",
       "summary": "Pesquisadores identificaram scripts maliciosos distribuídos por uma plataforma usada por sites de grandes empresas, incluindo Zoom, HSBC, CNN, Salesforce e IKEA. O código tentava desviar pagamentos em criptomoedas, capturar dados de cartões e explorar iPhones. A Reuters confirmou relatos técnicos e respostas de empresas, mas não conseguiu verificar quantos ataques tiveram êxito ou quantas pessoas foram afetadas.",
