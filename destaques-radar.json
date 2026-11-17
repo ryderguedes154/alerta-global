@@ -1,33 +1,20 @@
 {
   "edition": "17/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-17T10:41:05.185720Z",
+  "checked_at": "2026-11-17T14:22:40.977831Z",
   "status": "checado",
   "items": [
     {
-      "title": "Ponte da Crimeia sofre graves danos enquanto Zelensky celebra ataque \"sem precedentes\" da Ucrânia",
-      "summary": "Zelensky afirma que o ataque levou semanas para ser planejado, enquanto o Kremlin promete reconstruir a ponte estratégica.",
+      "title": "Ponte da Crimeia de Putin desaba parcialmente enquanto Zelensky celebra ataque \"sem precedentes\" da Ucrânia",
+      "summary": "A Ucrânia afirma que o ataque com mísseis e drones à ponte estratégica na Crimeia, anexada pela Rússia, levou semanas para ser planejado.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "GB",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "published_on": "17/11/2026 06:34 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3f8/live/238ed940-e263-11f1-900c-895604014268.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "O Irã afirma que houve outro ataque contra uma base de radares dos EUA no Bahrein",
-      "summary": "O Irã afirmou ter atingido sistemas de radar dos EUA no Bahrein três vezes em menos de uma semana, mas as autoridades disseram que os dois primeiros ataques foram interceptados.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
-      "published_on": "17/11/2026 06:31 (Boa Vista)",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/47fad59b-9212-4a1b-8d00-f893f82225c4/thumbnail/1200x630/b6dae6ee13163727a3eec1fb3c736d2b/gettyimages-2304872718.jpg",
+      "published_on": "17/11/2026 09:01 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
       "selection": "automatic"
     },
     {
@@ -39,8 +26,47 @@
       "country": "GB",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-      "published_on": "17/11/2026 06:12 (Boa Vista)",
+      "published_on": "17/11/2026 10:02 (Boa Vista)",
       "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=874e7d63b7a7739a144ac97643be68eb",
+      "selection": "automatic"
+    },
+    {
+      "title": "O Irã afirma que houve outro ataque contra uma base de radares dos EUA no Bahrein",
+      "summary": "O Irã afirmou ter atingido sistemas de radar dos EUA no Bahrein três vezes em menos de uma semana, mas as autoridades disseram que os dois primeiros ataques foram interceptados.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+      "published_on": "17/11/2026 09:59 (Boa Vista)",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/47fad59b-9212-4a1b-8d00-f893f82225c4/thumbnail/1200x630/b6dae6ee13163727a3eec1fb3c736d2b/gettyimages-2304872718.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Apagão mundial hoje? Veja o que é boato e o que poderia acontecer com a Terra em um colapso, segundo a ciência",
+      "summary": "Teoria que circula nas redes sociais associa um episódio de 'Os Simpsons' a um suposto apagão global; estudos científicos analisam os impactos de interrupções prolongadas de energia",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Geral",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/ciencia/apagao-mundial-hoje-veja-o-que-e-boato-e-o-que-poderia-acontecer-com-a-terra-em-um-colapso-segundo-a-ciencia/",
+      "published_on": "17/11/2026 07:57 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/blue.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
+      "title": "Petroleiro pega fogo no Estreito de Ormuz e Irã faz novo ataque ao Bahrein após volta de tensões no Oriente Médio",
+      "summary": "i Petroleiro pega fogo no Estreito de Ormuz Um petroleiro sofreu graves danos e pegou fogo após atingir uma mina em uma \"zona restrita\" na parte leste do Estreito de Ormuz, informou o Exército iraniano em um comunicado divulgado pela mídia estatal nesta terça-feira (17). Segundo informações da agência de Operações de Comércio Marítimo do Reino Unido (UKMTO),",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/17/petroleiro-estreito-de-ormuz-tripulacao-desaparecida.ghtml",
+      "published_on": "17/11/2026 05:51 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/PdU7gtPB_-ikFeULA_17Vtho4yY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/1/EB67UORiuO0JArqqJWzA/navio.jpg",
       "selection": "automatic"
     },
     {
@@ -71,7 +97,7 @@
     },
     {
       "title": "Série de falhas alimenta teoria de 'apagão mundial' no dia 17: saiba por que é improvável que aconteça",
-      "summary": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas Uma série de falhas nos últimos dias alimentou a teoria da conspiração para um \"apagão mundial\" nesta terça-feira (17). Apagões em sistemas de computação, o colapso aéreo de um dia nos Estados Unidos, falhas em bancos e até ataques hackers ajudaram a disseminar o boato, que é m",
+      "summary": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas Uma série de falhas nos últimos dias alimentou a teoria da conspiração para um \"apagão mundial\" nesta terça-feira (17). Apagões em sistemas de computação, o colapso de um dia no sistema aéreo dos Estados Unidos, falhas em bancos e até ataques hackers ajudaram a disseminar o boa",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Segurança cibernética",
       "region": "Global",
@@ -80,32 +106,6 @@
       "url": "https://g1.globo.com/mundo/noticia/2026/11/17/falhas-teoria-apagao-mundial-17-novembro.ghtml",
       "published_on": "16/11/2026 23:00 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/PsejTvjwMci-UpZZWwu-f4AC50o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/D/cRXBOZRiSYIMbj0ViemA/simpsons2.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "China e Canadá concordam em reduzir ainda mais as tarifas na cúpula da APEC em Shenzhen",
-      "summary": "A China está sediando a cúpula da Cooperação Econômica Ásia-Pacífico (APEC), composta por 21 membros, em Shenzhen esta semana, na esperança de usar a megalópole tecnológica para apresentar sua visão para o comércio internacional e o desenvolvimento. A cúpula também é o local onde a agenda internacional é estabelecida: o primeiro-ministro do Canadá, Mark Carn",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "FR",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/business/20261117-china-canada-agree-to-further-reduce-tariffs-at-apec-summit-in-shenzhen",
-      "published_on": "17/11/2026 05:45 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/36dae0c6-e267-11f1-b463-695cb59fade5/w:1024/p:16x9/capture-672c7708.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "'Apagão mundial' em 17 de novembro: especialista explica por que um colapso elétrico global é improvável",
-      "summary": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas Nas últimas semanas, as redes sociais foram inundadas por uma uma teoria, sem qualquer comprovação, de um suposto \"apagão global\" de até três meses, começando a partir desta terça-feira, 17 de novembro (entenda no vídeo acima). Alertas de suposto 'apagão mundial' em 17 de novem",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Geral",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/16/apagao-mundial-em-17-de-novembro-especialista-explica-por-que-um-colapso-eletrico-global-e-improvavel.ghtml",
-      "published_on": "16/11/2026 14:31 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/G9dhMuMSUpjhfgsNTsHmOCOgDr0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/M/JA2VE2RymHccZzY4uGug/apagao.jpg",
       "selection": "automatic"
     }
   ]
