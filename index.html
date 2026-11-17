@@ -205,6 +205,113 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
 @media(max-width:1160px){.app-layout{grid-template-columns:244px minmax(0,1fr)}.side{padding-left:12px;padding-right:12px}.logo-type strong{font-size:15px}.logo-symbol{width:50px;height:50px;min-width:50px}}
 @media(max-width:900px){.app-layout{display:block}.side{display:none}}
 
+
+/* Alerta Global — experiência mobile integrada ao painel desktop */
+.mobile-brand,.mobile-drawer,.mobile-nav-backdrop{display:none}
+@media(max-width:900px){
+  html{scroll-padding-top:86px}
+  body{overflow-x:hidden}
+  .app-layout{display:block;min-width:0}
+  .side{display:none}
+  .workspace{min-width:0}
+  .topbar{position:sticky;top:0;z-index:15;min-height:70px;padding:10px 18px;gap:10px;background:#0c1728f5;border-bottom:1px solid #31506b;backdrop-filter:blur(18px)}
+  .topbar-copy{display:none}
+  .mobile-brand{display:flex;align-items:center;gap:9px;min-width:0;text-decoration:none}
+  .mobile-brand img{width:44px;height:44px;object-fit:cover;border-radius:12px;border:1px solid #448ed055;box-shadow:0 4px 18px #04c9ff20}
+  .mobile-brand strong{display:block;color:#f3f8ff;font-size:15px;letter-spacing:-.35px;white-space:nowrap}
+  .mobile-brand small{display:block;color:#8fb8cd;font-size:8px;letter-spacing:1.55px;font-weight:850}
+  .top-actions{margin-left:auto;gap:7px;flex-wrap:nowrap}
+  .top-actions .status-pill,.top-actions #settingsBtn,.top-actions #shareBtn{display:none}
+  .top-actions #refreshBtn{width:40px;height:40px;flex:none}
+  .top-actions #installBtn{height:40px;white-space:nowrap;padding:7px 11px}
+  main{max-width:100%;padding:17px 17px calc(118px + env(safe-area-inset-bottom))}
+  .banner{padding:15px 16px;border-radius:17px;margin-bottom:19px}
+  .banner h2{font-size:14px;margin:0 0 12px}
+  .banner ul{gap:9px}
+  .banner li{font-size:12px;line-height:1.6;overflow-wrap:anywhere}
+  .hero{min-height:242px;padding:25px;border-radius:20px}
+  .hero h2{font-size:clamp(30px,4.7vw,43px)}
+  .hero p{font-size:12px;line-height:1.7}
+  .levels{grid-template-columns:repeat(4,minmax(0,1fr));gap:9px}
+  .level{padding:14px;min-height:112px}
+  .level strong{font-size:clamp(25px,4vw,31px)}
+  .radar-feed{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .radar-item:first-child{grid-row:span 2;min-height:305px}
+  #feed{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .card{padding:16px}
+  .card-actions{gap:9px}
+  .card-read-more{flex-basis:100%}
+  .card-open-button,.card-share-button{min-height:42px;padding:10px 12px}
+  .share-panel{max-height:calc(100dvh - 35px);overflow-y:auto}
+  .share-options{gap:9px}
+  .share-options a,.share-options button{min-height:46px}
+  .bottom-nav{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));position:fixed;z-index:28;bottom:max(9px,env(safe-area-inset-bottom));left:10px;right:10px;gap:2px;padding:7px 6px;border:1px solid #3e6284;border-radius:21px;background:#101f34f2;backdrop-filter:blur(20px);box-shadow:0 14px 42px #0009}
+  .bottom-nav a,.bottom-nav button{display:flex;align-items:center;justify-content:center;flex-direction:column;gap:3px;min-height:57px;min-width:0;padding:7px 2px;border:1px solid transparent;border-radius:14px;background:transparent;color:#aac1d8;text-decoration:none;font-size:10px;font-weight:760}
+  .bottom-nav a.active,.bottom-nav a[aria-current="page"],.bottom-nav button[aria-expanded="true"]{background:linear-gradient(155deg,#214667,#193451);color:#f1fbff;border-color:#4e84b7;box-shadow:inset 0 -2px 0 #42dadd55}
+  .bottom-nav .bico{display:grid;place-items:center;width:26px;height:26px}
+  .bottom-nav svg{width:23px;height:23px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linejoin:round;stroke-linecap:round}
+  .mobile-nav-backdrop:not([hidden]){display:block;position:fixed;inset:0;z-index:38;background:#030a14bb;backdrop-filter:blur(4px)}
+  .mobile-drawer:not([hidden]){display:flex;flex-direction:column;gap:15px;position:fixed;top:0;right:0;bottom:0;z-index:39;width:min(360px,91vw);max-height:100dvh;overflow-y:auto;overscroll-behavior:contain;padding:18px 18px max(25px,env(safe-area-inset-bottom));background:linear-gradient(165deg,#10253d,#0a1424 60%,#071121);border-left:1px solid #456d91;box-shadow:-18px 0 70px #000b}
+  .mobile-drawer-head{display:flex;align-items:center;justify-content:space-between;gap:10px}
+  .mobile-drawer-brand{display:flex;align-items:center;gap:11px;min-width:0}
+  .mobile-drawer-brand img{width:56px;height:56px;border-radius:15px;border:1px solid #5281af77}
+  .mobile-drawer-brand strong{display:block;font-size:16px;color:#f3f8ff}
+  .mobile-drawer-brand small{font-size:9px;letter-spacing:1.5px;color:#8cb4d6;font-weight:820}
+  .mobile-drawer-close{width:39px;height:39px;border:1px solid #4a6d90;border-radius:12px;background:#1b304b;color:#fff;font-size:28px}
+  .mobile-live{display:flex;gap:10px;align-items:center;padding:12px 13px;border:1px solid #276857;border-radius:12px;background:#123a36;color:#b5ffe6;font-size:11px}
+  .mobile-live-tag{margin-left:auto;border:1px solid #367765;padding:3px 6px;border-radius:7px;font-size:9px}
+  .mobile-drawer-label{font-size:10px;color:#83a0c4;letter-spacing:1.6px;font-weight:870;margin:8px 5px -7px}
+  .mobile-drawer-links{display:grid;gap:7px}
+  .mobile-drawer-links a,.mobile-drawer-links button{width:100%;display:flex;align-items:center;gap:12px;min-height:49px;padding:9px 12px;border-radius:13px;border:1px solid #2e4767;background:#162840;color:#d9e9fa;text-decoration:none;font-size:13px;font-weight:770;text-align:left}
+  .mobile-drawer-links a.active,.mobile-drawer-links a[aria-current="page"]{background:#1d405c;border-color:#50a6c2;color:#fff}
+  .mobile-drawer-links a>span,.mobile-drawer-links button>span{display:grid;place-items:center;width:28px;height:28px;border-radius:8px;background:#263e5b;font-size:20px}
+  .mobile-drawer-links b{margin-left:auto;color:#6ba7cf;font-size:20px}
+  .mobile-drawer-footer{display:flex;align-items:center;gap:10px;margin-top:auto;color:#8fb4ca;font-size:11px;padding:13px 3px}
+  body.mobile-menu-open{overflow:hidden}
+}
+@media(max-width:620px){
+  .topbar{min-height:64px;padding:8px 12px}
+  .mobile-brand img{width:40px;height:40px}
+  .mobile-brand strong{font-size:13px}
+  .mobile-brand small{font-size:7px;letter-spacing:1px}
+  .top-actions #refreshBtn{width:36px;height:36px}
+  .top-actions #installBtn{height:36px;padding:5px 8px;font-size:10px}
+  main{padding:13px 12px calc(110px + env(safe-area-inset-bottom))}
+  .hero{min-height:218px;padding:22px 19px}
+  .hero h2{font-size:clamp(29px,9vw,36px)}
+  .hero:before{right:-150px;top:-90px;opacity:.26}
+  .hero-label{font-size:9px;letter-spacing:1px}
+  .hero-cta{gap:9px}
+  .banner{padding:14px 13px;margin-bottom:14px}
+  .banner li{font-size:11px;line-height:1.6}
+  .levels{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin:16px 0 24px}
+  .level{padding:13px;min-height:108px}
+  .level strong{font-size:28px}
+  .level span{font-size:11px}
+  .radar-head{align-items:start;flex-wrap:wrap;gap:8px}
+  .radar-feed,#feed{grid-template-columns:minmax(0,1fr)}
+  .radar-item,.radar-item:first-child{min-height:205px;padding:19px;grid-row:auto}
+  .radar-item:first-child strong{font-size:21px}
+  .card{padding:14px}
+  .card-image{height:195px}
+  .card h3{font-size:16px}
+  .card-actions{gap:8px}
+  .card-open-button,.card-share-button{flex:1;min-width:120px;font-size:11px}
+  .toolbar{padding:11px}
+  .toolbar input,.toolbar select{width:100%;font-size:14px}
+  .share-modal{padding:10px}
+  .share-panel{padding:20px 15px}
+  .share-panel h2{font-size:20px}
+  .footer span{font-size:10px}
+}
+@media(max-width:355px){
+  .mobile-brand small{display:none}
+  .mobile-brand strong{font-size:12px}
+  .top-actions #installBtn{font-size:9px;padding:5px}
+  .bottom-nav a,.bottom-nav button{font-size:9px}
+  .card-open-button,.card-share-button{min-width:108px}
+}
+
 </style>
 </head>
 <body>
@@ -234,7 +341,7 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
     </div>
     <div class="side-version"><span>ALERTA GLOBAL · 2026</span><span class="side-online">● ONLINE</span></div>
   </div>
-</aside><div class="workspace"><header class="topbar"><div><div class="breadcrumb">Início / Painel internacional</div><h1>Visão geral <span style="color:#7588a3">/ Mundial</span></h1></div><div class="top-actions"><div class="status-pill"><span class="dot" id="liveDot"></span> Monitor global</div><button class="share-btn" id="shareBtn" type="button" aria-label="Compartilhar o Alerta Global">↗ Compartilhar</button><button class="icon-action" id="refreshBtn" title="Atualizar notícias" aria-label="Atualizar notícias">↻</button><button class="icon-action" id="settingsBtn" title="Configurações" aria-label="Configurações">⚙</button><button class="install-btn" id="installBtn">↓ Instalar app</button></div></header>
+</aside><div class="workspace"><header class="topbar"><div class="topbar-copy"><div class="breadcrumb">Início / Painel internacional</div><h1>Visão geral <span style="color:#7588a3">/ Mundial</span></h1></div><a class="mobile-brand" href="#overview" aria-label="Alerta Global, ir ao início"><img src="./icons/alerta-global.svg" alt="" width="42" height="42"><span><strong>Alerta Global <span aria-hidden="true">🚨</span></strong><small>RADAR MUNDIAL</small></span></a><div class="top-actions"><div class="status-pill"><span class="dot" id="liveDot"></span> Monitor global</div><button class="share-btn" id="shareBtn" type="button" aria-label="Compartilhar o Alerta Global">↗ Compartilhar</button><button class="icon-action" id="refreshBtn" title="Atualizar notícias" aria-label="Atualizar notícias">↻</button><button class="icon-action" id="settingsBtn" title="Configurações" aria-label="Configurações">⚙</button><button class="install-btn" id="installBtn">↓ Instalar app</button></div></header>
 
 <div class="share-modal" id="shareModal" role="dialog" aria-modal="true" aria-label="Compartilhar Alerta Global" hidden><div class="share-panel"><button class="share-close" id="shareClose" type="button" aria-label="Fechar">×</button><h2 id="shareDialogTitle">Compartilhe o Alerta Global 🌍</h2><p id="shareDialogDescription">Envie o link do Radar Mundial para seus contatos pelos aplicativos que você utiliza.</p><div class="share-options"><a id="shareWhatsApp" target="_blank" rel="noopener noreferrer">🟢 WhatsApp</a><button type="button" id="shareNative">📲 Outros aplicativos</button><button type="button" id="shareInstagram">📸 Instagram</button><a id="shareFacebook" target="_blank" rel="noopener noreferrer">Facebook</a><a id="shareX" target="_blank" rel="noopener noreferrer">X / Twitter</a><a id="shareTelegram" target="_blank" rel="noopener noreferrer">Telegram</a><a id="shareEmail">✉️ E-mail</a><button type="button" id="shareCopy">🔗 Copiar link</button></div><p id="shareStatus" role="status" aria-live="polite"></p></div></div>
 <main id="overview">
@@ -305,7 +412,35 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
       Fontes reais (agências de notícias, OMS, USGS, ONU, CISA) podem ser agregadas por um pequeno servidor que gera esse JSON.
     </p>
   </section>
-<footer class="footer"><span>© 2026 Alerta Global · Radar Mundial</span><span>Fontes internacionais e USGS · Verifique sempre a fonte original.</span></footer></main></div></div><nav class="bottom-nav" aria-label="Navegação inferior"><a href="#overview"><span class="bico">◈</span>Início</a><a href="#radar"><span class="bico">◎</span>Radar</a><a href="#news"><span class="bico">▤</span>Notícias</a><button id="bottomSettings" type="button"><span class="bico">⚙</span>Ajustes</button></nav>
+<footer class="footer"><span>© 2026 Alerta Global · Radar Mundial</span><span>Fontes internacionais e USGS · Verifique sempre a fonte original.</span></footer></main></div></div><nav class="bottom-nav" aria-label="Navegação inferior">
+  <a href="#overview" data-mobile-nav="overview" class="active" aria-current="page"><span class="bico" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="m3 11 9-8 9 8v9a1 1 0 0 1-1 1h-5v-7H9v7H4a1 1 0 0 1-1-1z"/></svg></span><span>Início</span></a>
+  <a href="#radar" data-mobile-nav="radar"><span class="bico" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.5"/><path d="m12 12 6-6"/></svg></span><span>Radar</span></a>
+  <a href="#banner" data-mobile-nav="banner"><span class="bico" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 3 2.4 20h19.2L12 3z"/><path d="M12 9v5M12 17h.01"/></svg></span><span>Alertas</span></a>
+  <a href="#news" data-mobile-nav="news"><span class="bico" aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8M8 16h6"/></svg></span><span>Notícias</span></a>
+  <button id="mobileMenuBtn" type="button" aria-label="Abrir menu do aplicativo" aria-controls="mobileDrawer" aria-expanded="false"><span class="bico" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg></span><span>Menu</span></button>
+</nav>
+<div id="mobileNavBackdrop" class="mobile-nav-backdrop" hidden></div>
+<aside id="mobileDrawer" class="mobile-drawer" role="dialog" aria-modal="true" aria-label="Menu do Alerta Global" hidden>
+  <div class="mobile-drawer-head">
+    <div class="mobile-drawer-brand"><img src="./icons/alerta-global.svg" alt="" width="56" height="56"><div><strong>Alerta Global 🚨</strong><small>RADAR MUNDIAL</small></div></div>
+    <button id="mobileDrawerClose" class="mobile-drawer-close" type="button" aria-label="Fechar menu">×</button>
+  </div>
+  <div class="mobile-live"><span class="side-live-dot"></span><span>Monitoramento internacional</span><span class="mobile-live-tag">RADAR</span></div>
+  <div class="mobile-drawer-label">NAVEGAÇÃO</div>
+  <nav class="mobile-drawer-links" aria-label="Seções do aplicativo">
+    <a href="#overview" data-mobile-nav="overview"><span>⌂</span> Visão geral <b>›</b></a>
+    <a href="#banner" data-mobile-nav="banner"><span>🚨</span> Alertas de risco <b>›</b></a>
+    <a href="#radar" data-mobile-nav="radar"><span>◎</span> Radar Mundial <b>›</b></a>
+    <a href="#news" data-mobile-nav="news"><span>▤</span> Notícias internacionais <b>›</b></a>
+  </nav>
+  <div class="mobile-drawer-label">FERRAMENTAS</div>
+  <div class="mobile-drawer-links">
+    <button id="mobileSettingsBtn" type="button"><span>⚙</span> Configurações <b>›</b></button>
+    <button id="mobileShareBtn" type="button"><span>↗</span> Compartilhar app <b>›</b></button>
+    <button id="mobileInstallBtn" type="button"><span>↓</span> Instalar aplicativo <b>›</b></button>
+  </div>
+  <div class="mobile-drawer-footer"><span class="side-pulse"></span> Notícias e alertas em um só lugar</div>
+</aside>
 
 <script>
 (() => {
@@ -812,8 +947,8 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   function markSidebarActive() {
     const hash = location.hash.slice(1) || "overview";
     const selected = ["overview","radar","news","banner"].includes(hash) ? hash : "overview";
-    document.querySelectorAll(".side-link[data-nav]").forEach(link => {
-      const on = link.dataset.nav === selected;
+    document.querySelectorAll(".side-link[data-nav], [data-mobile-nav]").forEach(link => {
+      const on = (link.dataset.nav || link.dataset.mobileNav) === selected;
       link.classList.toggle("active", on);
       if (on) link.setAttribute("aria-current","page");
       else link.removeAttribute("aria-current");
@@ -823,6 +958,47 @@ main{max-width:1480px;padding:25px clamp(18px,3.5vw,48px) 85px;margin:auto}
   markSidebarActive();
   document.getElementById("sideShare")?.addEventListener("click", () =>
     document.getElementById("shareBtn")?.click());
+
+  // Menu mobile: acesso a todas as seções e às ferramentas da versão desktop.
+  const mobileDrawer = document.getElementById("mobileDrawer");
+  const mobileBackdrop = document.getElementById("mobileNavBackdrop");
+  const mobileMenuBtn = document.getElementById("mobileMenuBtn");
+  const mobileDrawerClose = document.getElementById("mobileDrawerClose");
+  function setMobileMenu(open) {
+    mobileDrawer.hidden = !open;
+    mobileBackdrop.hidden = !open;
+    mobileMenuBtn.setAttribute("aria-expanded", String(open));
+    document.body.classList.toggle("mobile-menu-open", open);
+    if (open) mobileDrawerClose.focus();
+    else if (mobileMenuBtn.isConnected) mobileMenuBtn.focus({preventScroll:true});
+  }
+  mobileMenuBtn.addEventListener("click", () => setMobileMenu(mobileDrawer.hidden));
+  mobileDrawerClose.addEventListener("click", () => setMobileMenu(false));
+  mobileBackdrop.addEventListener("click", () => setMobileMenu(false));
+  mobileDrawer.querySelectorAll('a[href^="#"]').forEach(a => a.addEventListener("click", () => setMobileMenu(false)));
+  document.addEventListener("keydown", event => {
+    if (event.key === "Escape" && !mobileDrawer.hidden) setMobileMenu(false);
+  });
+  window.addEventListener("hashchange", () => {
+    if (!mobileDrawer.hidden) setMobileMenu(false);
+  });
+  window.matchMedia("(min-width: 901px)").addEventListener("change", event => {
+    if (event.matches && !mobileDrawer.hidden) setMobileMenu(false);
+  });
+  document.getElementById("mobileSettingsBtn").addEventListener("click", () => {
+    setMobileMenu(false);
+    const settings = document.getElementById("settings");
+    if (!settings.classList.contains("open")) document.getElementById("settingsBtn").click();
+    settings.scrollIntoView({behavior:"smooth",block:"start"});
+  });
+  document.getElementById("mobileShareBtn").addEventListener("click", () => {
+    setMobileMenu(false);
+    document.getElementById("shareBtn").click();
+  });
+  document.getElementById("mobileInstallBtn").addEventListener("click", () => {
+    setMobileMenu(false);
+    document.getElementById("installBtn").click();
+  });
 
   // atalhos para ajustes nas versões desktop e mobile
   for (const id of ["sideSettings", "bottomSettings"]) {
