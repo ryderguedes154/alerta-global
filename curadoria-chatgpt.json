@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-18T19:14:05.779Z",
+  "updated_at": "2026-11-18T23:45:06.547Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "AIEA confirma ampliação de instalação de enriquecimento de urânio na Coreia do Norte",
+      "summary": "A Agência Internacional de Energia Atômica informou em 18 de novembro que uma ampliação externa da instalação de enriquecimento de urânio de Yongbyon foi concluída no fim de outubro. A agência observa atividade nuclear por satélites, pois não tem inspetores no país desde 2009; não confirmou um novo teste nuclear.",
+      "impact_br": "Sem impacto direto confirmado no Brasil; a expansão aumenta preocupações com proliferação nuclear e estabilidade no leste asiático.",
+      "category": "Segurança internacional",
+      "region": "Ásia Oriental",
+      "country": "KP",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/iaea-says-north-korea-is-expanding-uranium-enrichment-plant-yongbyon-2026-11-18/",
+      "published_on": "2026-11-18",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-18T23:45:06.547Z"
+    },
     {
       "title": "Fontes dizem que Arábia Saudita se prepara para prolongar campanha militar no Iêmen até 2027",
       "summary": "Três fontes ouvidas pela Reuters afirmam que autoridades sauditas planejam uma campanha de até seis meses contra os houthis, após reveses militares. O governo saudita não confirmou os planos. A continuidade do conflito pode ampliar os riscos humanitários e para a navegação no Mar Vermelho.",
