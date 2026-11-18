@@ -676,7 +676,7 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300..1000&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="./portal-claro.css?v=20261118-card-foto-v1">
+<link rel="stylesheet" href="./portal-claro.css?v=20261118-card-foto-v2">
 <style>
 /* Páginas por aba: cada item do menu abre uma página própria (#economia, #mundo...) */
 .ag-hidden{display:none!important}
@@ -1942,6 +1942,7 @@ body.ag-story-open{overflow:hidden}
       const parsed = new URL(url);
       if (!["https:", "http:"].includes(parsed.protocol)) return "";
       if (/^(?:news\.)?google\.com$/i.test(parsed.hostname)) return "";
+      if (/(^|\.)guim\.co\.uk$/i.test(parsed.hostname)) return ""; // Fotos do The Guardian ficam ocultas
       return parsed.href;
     } catch { return ""; }
   }
@@ -2097,7 +2098,7 @@ body.ag-story-open{overflow:hidden}
           <span>· ${esc(i.source || "")}</span>
           <span>· ${i.ts ? new Date(i.ts).toLocaleString("pt-BR") : ""}</span>
         </div>
-        ${photo ? `<img class="card-image" src="${esc(photo)}" loading="lazy" decoding="async" referrerpolicy="no-referrer" alt="Imagem da matéria publicada por ${esc(i.source || "fonte original")}" onerror="this.remove()">` : quakeMapHtml(i)}
+        ${photo ? `<img class="card-image" src="${esc(photo)}" loading="lazy" decoding="async" referrerpolicy="no-referrer" alt="Imagem da matéria publicada por ${esc(i.source || "fonte original")}" onerror="this.remove()" onload="if(this.naturalWidth&amp;&amp;this.naturalWidth&lt;480){this.closest('article').classList.remove('has-image');this.remove()}">` : quakeMapHtml(i)}
         <h3>${esc(newsPtTitle(i))}</h3>
         <p>${esc(newsPtSummary(i))}</p>${i.lang && i.lang !== "pt" && i.lang !== "pt-BR" && i.source !== "USGS" ? `<small style="color:var(--muted)">Tradução automática · Confirme informações na fonte original.</small>` : ""}
         ${i.detail ? `<div class="detail"><strong>Resumo detalhado</strong><p>${esc(i.detail)}</p></div>` : ""}
