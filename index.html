@@ -691,6 +691,55 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
 body.ag-subpage .portal-primary-nav a.is-home:not(.is-active):not(:hover){color:#333b45;border-bottom-color:transparent}
 body.ag-category-page #news{display:none}
 @media (max-width:600px){.ag-page-head{padding:16px;margin-bottom:16px}}
+
+/* Stories: os círculos de assuntos abrem as notícias em tela cheia, como no Instagram */
+.portal-topic{cursor:pointer}
+.portal-topic .portal-topic-picture{position:relative}
+.portal-topic.ag-has-story .portal-topic-picture{box-shadow:0 0 0 2px #fff,0 0 0 4.5px #e3273c}
+.portal-topic.ag-has-story.ag-seen .portal-topic-picture{box-shadow:0 0 0 2px #fff,0 0 0 4px #c9ced6}
+body.ag-story-open{overflow:hidden}
+.ag-story{position:fixed;inset:0;z-index:2147483000;background:#0b0f17;display:flex;align-items:center;justify-content:center;font-family:var(--ag-font-ui,system-ui,sans-serif);color:#fff;touch-action:none;-webkit-user-select:none;user-select:none}
+.ag-story[hidden]{display:none}
+.ag-story-card{position:relative;width:min(100vw,calc(100dvh * 9 / 16));height:100dvh;max-height:100dvh;overflow:hidden;background:#151b26}
+@media (min-width:700px){.ag-story-card{height:min(92dvh,860px);width:min(calc(min(92dvh,860px) * 9 / 16),480px);border-radius:16px;box-shadow:0 30px 80px #000a}}
+.ag-story-bg{position:absolute;inset:0;background-size:cover;background-position:center;filter:blur(24px) brightness(.55);transform:scale(1.2)}
+.ag-story-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.ag-story-noimg{position:absolute;inset:0;display:grid;place-items:center;font-size:96px;background:radial-gradient(circle at 30% 20%,#e3273c55,transparent 55%),linear-gradient(160deg,#1a2a46,#0b0f17)}
+.ag-story-shade{position:absolute;inset:0;background:linear-gradient(180deg,#000b 0,#0000 22%,#0000 40%,#000d 72%,#000f 100%)}
+.ag-story-bars{position:absolute;top:10px;left:10px;right:10px;display:flex;gap:4px;z-index:3}
+.ag-story-bars span{flex:1;height:3px;border-radius:3px;background:#ffffff55;overflow:hidden}
+.ag-story-bars i{display:block;height:100%;width:0;background:#fff}
+.ag-story-top{position:absolute;top:22px;left:12px;right:8px;display:flex;align-items:center;gap:10px;z-index:4}
+.ag-story-avatar{width:36px;height:36px;border-radius:50%;background:#fff;display:grid;place-items:center;font-size:19px;box-shadow:0 0 0 2px #e3273c;flex:none}
+.ag-story-who{min-width:0;line-height:1.2}
+.ag-story-who strong{display:block;font-size:14px}
+.ag-story-who small{display:block;font-size:12px;color:#ffffffc0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ag-story-btn{margin-left:auto;display:flex;gap:2px}
+.ag-story-btn button{background:none;border:0;color:#fff;font-size:22px;width:40px;height:40px;cursor:pointer;border-radius:50%}
+.ag-story-btn button:hover{background:#ffffff22}
+.ag-story-tap{position:absolute;top:70px;bottom:190px;z-index:2;background:transparent;border:0;cursor:pointer}
+.ag-story-tap.prev{left:0;width:35%}.ag-story-tap.next{right:0;width:65%}
+.ag-story-body{position:absolute;left:0;right:0;bottom:0;padding:18px 18px calc(22px + env(safe-area-inset-bottom));z-index:3}
+.ag-story-tag{display:inline-block;background:#e3273c;color:#fff;font-size:11px;font-weight:800;letter-spacing:.05em;text-transform:uppercase;padding:4px 8px;border-radius:5px}
+.ag-story-title{margin:10px 0 8px;font-size:clamp(20px,5.4vw,25px);line-height:1.2;font-weight:850;text-shadow:0 2px 10px #0008}
+.ag-story-summary{margin:0 0 16px;font-size:14px;line-height:1.45;color:#ffffffde;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.ag-story-cta{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;padding:14px 16px;border-radius:12px;background:#fff;color:#141b26;font-weight:850;font-size:15px;text-decoration:none;box-shadow:0 8px 24px #0006}
+.ag-story-cta:hover{background:#ffe9eb}
+.ag-story-more{display:block;text-align:center;margin-top:12px;color:#ffffffd0;font-size:13px;text-decoration:underline}
+.ag-story-nav{position:absolute;top:50%;transform:translateY(-50%);width:44px;height:44px;border-radius:50%;border:0;background:#ffffffe6;color:#141b26;font-size:22px;cursor:pointer;display:none;z-index:5}
+@media (min-width:700px){.ag-story-nav{display:block}.ag-story-nav.prev{left:calc(50% - min(calc(min(92dvh,860px) * 9 / 16),480px)/2 - 64px)}.ag-story-nav.next{right:calc(50% - min(calc(min(92dvh,860px) * 9 / 16),480px)/2 - 64px)}}
+.ag-story.ag-paused .ag-story-bars i{opacity:.85}
+.ag-story [hidden]{display:none!important}
+.ag-story-body{max-height:calc(100% - 78px);display:flex;flex-direction:column;justify-content:flex-end}
+.ag-story-tag{align-self:flex-start}
+.ag-story-title{display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}
+@media (max-height:760px){
+  .ag-story-title{font-size:20px;-webkit-line-clamp:4;margin:8px 0 6px}
+  .ag-story-summary{-webkit-line-clamp:3;font-size:13px;margin-bottom:12px}
+  .ag-story-cta{padding:11px 14px;font-size:14px}
+  .ag-story-more{margin-top:8px}
+}
+@media (max-height:560px){.ag-story-summary{display:none}}
 </style>
 </head>
 <body>
@@ -933,6 +982,31 @@ body.ag-category-page #news{display:none}
   </div>
   <div class="mobile-drawer-footer"><span class="side-pulse"></span> Notícias e alertas em um só lugar</div>
 </aside>
+<div class="ag-story" id="agStory" role="dialog" aria-modal="true" aria-label="Notícias em stories" hidden>
+  <button type="button" class="ag-story-nav prev" id="agStoryPrevBtn" aria-label="Notícia anterior">‹</button>
+  <div class="ag-story-card">
+    <div class="ag-story-bg" id="agStoryBg"></div>
+    <img class="ag-story-img" id="agStoryImg" alt="">
+    <div class="ag-story-noimg" id="agStoryNoImg" hidden></div>
+    <div class="ag-story-shade"></div>
+    <div class="ag-story-bars" id="agStoryBars"></div>
+    <div class="ag-story-top">
+      <span class="ag-story-avatar" id="agStoryAvatar"></span>
+      <span class="ag-story-who"><strong id="agStoryWho"></strong><small id="agStoryWhen"></small></span>
+      <span class="ag-story-btn"><button type="button" id="agStoryPause" aria-label="Pausar">❚❚</button><button type="button" id="agStoryClose" aria-label="Fechar">×</button></span>
+    </div>
+    <button type="button" class="ag-story-tap prev" id="agStoryTapPrev" aria-label="Notícia anterior"></button>
+    <button type="button" class="ag-story-tap next" id="agStoryTapNext" aria-label="Próxima notícia"></button>
+    <div class="ag-story-body">
+      <span class="ag-story-tag" id="agStoryTag"></span>
+      <h2 class="ag-story-title" id="agStoryTitle"></h2>
+      <p class="ag-story-summary" id="agStorySummary"></p>
+      <a class="ag-story-cta" id="agStoryCta" target="_blank" rel="noopener noreferrer">Ler matéria completa ↗</a>
+      <a class="ag-story-more" id="agStoryMore" href="#news"></a>
+    </div>
+  </div>
+  <button type="button" class="ag-story-nav next" id="agStoryNextBtn" aria-label="Próxima notícia">›</button>
+</div>
 
 <script>
 (() => {
@@ -1599,6 +1673,7 @@ body.ag-category-page #news{display:none}
   let agPendingCategory = null;
   let agLastPage = "overview";
   document.querySelectorAll("[data-portal-category]").forEach(a => a.addEventListener("click",event => {
+    if (a.classList.contains("portal-topic")) return; // círculos de assuntos abrem os stories
     event.preventDefault();
     const category = a.dataset.portalCategory;
     // Economia, Tecnologia e Saúde têm página própria; os demais temas abrem a página de notícias filtrada.
@@ -2249,6 +2324,209 @@ body.ag-category-page #news{display:none}
   document.getElementById("clearSeverity")?.addEventListener("click", () => { if (AG_PAGES[agPage()].cat) location.hash = "news"; });
   window.addEventListener("hashchange", agApplyPage);
   agApplyPage();
+
+  // ---------- Stories dos assuntos (estilo Instagram) ----------
+  // Cada círculo abre as notícias daquele assunto em tela cheia, com avanço automático
+  // e um botão para ir direto à matéria original.
+  const AG_STORY_MS = 7000;
+  const AG_STORY_MAX = 20;
+  const agTopics = [...document.querySelectorAll(".portal-topic")];
+  const agStoryEl = document.getElementById("agStory");
+  const $s = id => document.getElementById(id);
+  let agStory = { topic: 0, list: [], index: 0, start: 0, elapsed: 0, paused: false, raf: 0, opener: null };
+
+  function agTopicInfo(a) {
+    const label = a.querySelector("span:last-child")?.textContent.trim() || "Notícias";
+    const icon = a.querySelector(".portal-topic-picture")?.childNodes[0]?.textContent?.trim() || "📰";
+    if (a.dataset.topic === "ChatGPT") return { label, icon, kind: "chatgpt", page: "curadoria" };
+    const cat = a.dataset.portalCategory || "";
+    const page = Object.keys(AG_PAGES).find(k => cat && AG_PAGES[k].cat === cat) || (cat ? "news" : "radar");
+    return { label, icon, cat, page };
+  }
+  function agStoryList(info) {
+    const seen = new Set();
+    const uniq = arr => arr.filter(x => x.url && !seen.has(x.url) && seen.add(x.url)).slice(0, AG_STORY_MAX);
+    if (info.kind === "chatgpt") {
+      return uniq((latestCurationEntries || []).map(e => ({
+        title: e.title, summary: e.impact_br ? e.summary + " 🇧🇷 " + e.impact_br : e.summary,
+        url: e.url, image: newsImage(e.image), source: e.source || "Fonte original",
+        region: e.region || "Global", ts: chatgptEntryTime(e)
+      })));
+    }
+    const pool = items.filter(i => i && /^https?:\/\//i.test(String(i.url || "")) && newsPtTitle(i) &&
+      (!info.cat || i.category === info.cat));
+    // Primeiro as que têm foto, mantendo a ordem de publicação.
+    const sorted = [...pool].sort((a, b) => (newsImage(b.image) ? 1 : 0) - (newsImage(a.image) ? 1 : 0) || (b.ts || 0) - (a.ts || 0));
+    return uniq(sorted.map(i => ({
+      title: newsPtTitle(i), summary: newsPtSummary(i), url: i.url, image: newsImage(i.image),
+      source: i.source || "Fonte original", region: regionInPortuguese(i), ts: i.ts || 0, category: i.category
+    })));
+  }
+  function agAgo(ts) {
+    if (!ts) return "";
+    const min = Math.round((Date.now() - ts) / 60000);
+    if (min < 1) return "agora";
+    if (min < 60) return "há " + min + " min";
+    const h = Math.round(min / 60);
+    if (h < 24) return "há " + h + " h";
+    return "há " + Math.round(h / 24) + " d";
+  }
+  const agSeenKey = "ag_story_seen";
+  function agMarkSeen(info, list) {
+    const seen = store.get(agSeenKey, {});
+    seen[info.label] = list[0]?.url || "";
+    store.set(agSeenKey, seen);
+    agRefreshRings();
+  }
+  function agRefreshRings() {
+    const seen = store.get(agSeenKey, {});
+    agTopics.forEach(a => {
+      const info = agTopicInfo(a);
+      const list = agStoryList(info);
+      a.classList.toggle("ag-has-story", list.length > 0);
+      a.classList.toggle("ag-seen", list.length > 0 && seen[info.label] === list[0].url);
+    });
+  }
+  function agStoryOpen(topicIndex, opener) {
+    agStory.topic = topicIndex;
+    agStory.opener = opener || agStory.opener;
+    const info = agTopicInfo(agTopics[topicIndex]);
+    agStory.info = info;
+    agStory.list = agStoryList(info);
+    agStory.index = 0;
+    $s("agStoryAvatar").textContent = info.icon;
+    $s("agStoryWho").textContent = info.label;
+    const more = $s("agStoryMore");
+    more.textContent = "Ver todas as notícias de " + info.label + " no site";
+    more.onclick = event => {
+      event.preventDefault();
+      agStoryClose();
+      if (info.page === "news" && info.cat) { agPendingCategory = info.cat; if (location.hash === "#news") agApplyPage(); else location.hash = "news"; }
+      else location.hash = info.page;
+    };
+    $s("agStoryBars").innerHTML = (agStory.list.length ? agStory.list : [0]).map(() => "<span><i></i></span>").join("");
+    agStoryEl.hidden = false;
+    document.body.classList.add("ag-story-open");
+    agStoryShow();
+    if (agStory.list.length) agMarkSeen(info, agStory.list);
+    $s("agStoryClose").focus({ preventScroll: true });
+  }
+  function agStoryShow() {
+    const item = agStory.list[agStory.index];
+    const bars = [...$s("agStoryBars").children];
+    bars.forEach((b, i) => b.firstChild.style.width = i < agStory.index ? "100%" : "0");
+    const img = $s("agStoryImg"), bg = $s("agStoryBg"), noimg = $s("agStoryNoImg"), cta = $s("agStoryCta");
+    if (!item) {
+      img.hidden = true; bg.style.backgroundImage = ""; noimg.hidden = false; noimg.textContent = agStory.info.icon;
+      $s("agStoryTag").textContent = agStory.info.label;
+      $s("agStoryTitle").textContent = "Ainda não há notícias de " + agStory.info.label + " agora";
+      $s("agStorySummary").textContent = "As novas matérias aparecem aqui assim que forem coletadas das fontes.";
+      $s("agStoryWhen").textContent = "";
+      cta.hidden = true;
+    } else {
+      cta.hidden = false;
+      cta.href = item.url;
+      $s("agStoryTag").textContent = item.category && agStory.info.label === "Mundo" ? item.category : (item.region || agStory.info.label);
+      $s("agStoryTitle").textContent = item.title;
+      $s("agStorySummary").textContent = String(item.summary || "").slice(0, 320);
+      $s("agStoryWhen").textContent = [item.source, agAgo(item.ts)].filter(Boolean).join(" · ");
+      if (item.image) {
+        noimg.hidden = true; img.hidden = false; img.src = item.image;
+        bg.style.backgroundImage = 'url("' + item.image.replace(/"/g, "%22") + '")';
+        img.onerror = () => { img.hidden = true; bg.style.backgroundImage = ""; noimg.hidden = false; noimg.textContent = agStory.info.icon; };
+      } else {
+        img.hidden = true; img.removeAttribute("src"); bg.style.backgroundImage = ""; noimg.hidden = false; noimg.textContent = agStory.info.icon;
+      }
+      // Pré-carrega a próxima foto.
+      const next = agStory.list[agStory.index + 1];
+      if (next?.image) { const pre = new Image(); pre.src = next.image; }
+    }
+    agStory.elapsed = 0;
+    agStory.start = performance.now();
+    agStorySetPaused(false);
+    cancelAnimationFrame(agStory.raf);
+    agStory.raf = requestAnimationFrame(agStoryTick);
+  }
+  function agStoryTick(now) {
+    if (agStoryEl.hidden) return;
+    if (!agStory.paused) {
+      const total = agStory.elapsed + (now - agStory.start);
+      const bar = $s("agStoryBars").children[agStory.index]?.firstChild;
+      if (bar) bar.style.width = Math.min(100, total / AG_STORY_MS * 100) + "%";
+      if (total >= AG_STORY_MS) { agStoryNext(); return; }
+    }
+    agStory.raf = requestAnimationFrame(agStoryTick);
+  }
+  function agStorySetPaused(p) {
+    if (p === agStory.paused) return;
+    if (p) agStory.elapsed += performance.now() - agStory.start; else agStory.start = performance.now();
+    agStory.paused = p;
+    agStoryEl.classList.toggle("ag-paused", p);
+    $s("agStoryPause").textContent = p ? "▶" : "❚❚";
+    $s("agStoryPause").setAttribute("aria-label", p ? "Continuar" : "Pausar");
+  }
+  function agStoryNext() {
+    if (agStory.index < agStory.list.length - 1) { agStory.index++; agStoryShow(); return; }
+    // Fim do assunto: passa para o próximo círculo, como no Instagram.
+    if (agStory.topic < agTopics.length - 1) agStoryOpen(agStory.topic + 1);
+    else agStoryClose();
+  }
+  function agStoryPrev() {
+    if (agStory.index > 0) { agStory.index--; agStoryShow(); return; }
+    if (agStory.topic > 0) {
+      agStoryOpen(agStory.topic - 1);
+      agStory.index = Math.max(0, agStory.list.length - 1);
+      agStoryShow();
+    } else agStoryShow();
+  }
+  function agStoryClose() {
+    cancelAnimationFrame(agStory.raf);
+    agStoryEl.hidden = true;
+    document.body.classList.remove("ag-story-open");
+    agStory.opener?.focus({ preventScroll: true });
+  }
+  agTopics.forEach((a, i) => a.addEventListener("click", event => {
+    event.preventDefault();
+    event.stopImmediatePropagation();
+    agStoryOpen(i, a);
+  }, true));
+  $s("agStoryClose").addEventListener("click", agStoryClose);
+  $s("agStoryPause").addEventListener("click", () => agStorySetPaused(!agStory.paused));
+  $s("agStoryTapNext").addEventListener("click", agStoryNext);
+  $s("agStoryTapPrev").addEventListener("click", agStoryPrev);
+  $s("agStoryNextBtn").addEventListener("click", agStoryNext);
+  $s("agStoryPrevBtn").addEventListener("click", agStoryPrev);
+  // Ao abrir a matéria, o story pausa (a matéria abre em outra aba).
+  $s("agStoryCta").addEventListener("click", () => agStorySetPaused(true));
+  // Segurar o dedo pausa; arrastar para baixo fecha.
+  let agHold = null, agTouchY = null;
+  agStoryEl.addEventListener("pointerdown", e => {
+    if (e.target.closest("a,.ag-story-btn,.ag-story-nav")) return;
+    agTouchY = e.clientY;
+    agHold = setTimeout(() => { agHold = "held"; agStorySetPaused(true); }, 220);
+  });
+  agStoryEl.addEventListener("pointerup", e => {
+    if (agTouchY !== null && e.clientY - agTouchY > 90) { clearTimeout(agHold); agHold = null; agTouchY = null; agStoryClose(); return; }
+    agTouchY = null;
+    if (agHold === "held") { agStorySetPaused(false); e.preventDefault(); }
+    else clearTimeout(agHold);
+  });
+  // Um toque longo não deve contar como "próxima".
+  ["agStoryTapNext","agStoryTapPrev"].forEach(id => $s(id).addEventListener("click", e => {
+    if (agHold === "held") { e.stopImmediatePropagation(); agHold = null; }
+  }, true));
+  agStoryEl.addEventListener("click", e => { if (e.target === agStoryEl) agStoryClose(); });
+  document.addEventListener("keydown", e => {
+    if (agStoryEl.hidden) return;
+    if (e.key === "Escape") agStoryClose();
+    else if (e.key === "ArrowRight") agStoryNext();
+    else if (e.key === "ArrowLeft") agStoryPrev();
+    else if (e.key === " ") { e.preventDefault(); agStorySetPaused(!agStory.paused); }
+  });
+  document.addEventListener("visibilitychange", () => { if (document.hidden && !agStoryEl.hidden) agStorySetPaused(true); });
+  // Anéis vermelhos nos círculos com notícias novas (cinza depois de vistas).
+  setInterval(agRefreshRings, 15000);
+  setTimeout(agRefreshRings, 4000);
 
   // Realce da aba atual na navegação e atalho de compartilhamento.
   function markSidebarActive() {
