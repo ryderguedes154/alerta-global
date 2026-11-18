@@ -1,9 +1,22 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T16:20:21.387651Z",
+  "checked_at": "2026-11-18T16:25:32.964140Z",
   "status": "checado",
   "items": [
+    {
+      "title": "O primeiro-ministro do Canadá acusa Putin de \"mentir\" ao minimizar as sanções",
+      "summary": "Carney acusa Putin de \"mentir\" depois que o líder russo descartou as sanções ocidentais como \"coisa do passado\".",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
+      "published_on": "18/11/2026 12:16 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/thunmb-1795018934.png?resize=1920%2C1080&quality=80",
+      "selection": "automatic"
+    },
     {
       "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
       "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
@@ -41,19 +54,6 @@
       "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
       "published_on": "18/11/2026 11:37 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gulf-attacks-mbvq/18int-gulf-attacks-mbvq-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Ataques russos à Ucrânia matam pelo menos cinco pessoas",
-      "summary": "A maioria das vítimas ocorreu em ataques a Odessa que o presidente Volodymyr Zelenskyy descreveu como \"brutais\".",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
-      "published_on": "18/11/2026 11:32 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T131136Z_2085035474_RC2CQOASEQ7K_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ODESA-1795008854.jpg?resize=1200%2C630",
       "selection": "automatic"
     },
     {
