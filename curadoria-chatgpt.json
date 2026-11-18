@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-17T23:55:16.678Z",
+  "updated_at": "2026-11-18T01:09:25.788Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Rede interna de comunicações sigilosas da NSA sofre interrupção nos EUA",
+      "summary": "A Agência de Segurança Nacional dos EUA confirmou uma interrupção temporária em sua rede interna de comunicações classificadas durante manutenção programada em 17 de novembro. A agência afirma que as capacidades essenciais permaneceram operacionais. A extensão e a duração da falha não foram detalhadas; não há evidência confirmada de ataque cibernético.",
+      "impact_br": "Não há impacto direto confirmado no Brasil. O incidente reforça a atenção internacional à resiliência de infraestruturas digitais críticas.",
+      "category": "tecnologia",
+      "region": "América do Norte",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/22dc6be1bf1d1f5f86a7167f016e9526",
+      "published_on": "2026-11-17",
+      "published_at": "2026-11-17T15:42:59-04:00",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-18T01:09:25.788Z"
+    },
     {
       "title": "Conselho de Paz alerta à ONU para risco de colapso do cessar-fogo em Gaza",
       "summary": "Em relatório apresentado ao Conselho de Segurança da ONU, o Conselho de Paz responsável por acompanhar o cessar-fogo em Gaza advertiu que o acordo pode ruir sem cumprimento das obrigações por Israel e Hamas. O documento aponta ataques, entraves à ajuda humanitária e atrasos na administração civil e na força internacional de estabilização. Trata-se de alerta de risco, não de confirmação do fim da trégua.",
