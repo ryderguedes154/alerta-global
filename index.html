@@ -718,7 +718,8 @@ body.ag-story-open{overflow:hidden}
 .ag-story-btn{margin-left:auto;display:flex;gap:2px}
 .ag-story-btn button{background:none;border:0;color:#fff;font-size:22px;width:40px;height:40px;cursor:pointer;border-radius:50%}
 .ag-story-btn button:hover{background:#ffffff22}
-.ag-story-tap{position:absolute;top:70px;bottom:190px;z-index:2;background:transparent;border:0;cursor:pointer}
+.ag-story-tap{position:absolute;top:70px;bottom:190px;z-index:2;background:transparent;border:0;cursor:pointer;-webkit-tap-highlight-color:transparent;outline:none;-webkit-appearance:none;appearance:none;-webkit-touch-callout:none;user-select:none;-webkit-user-select:none}
+.ag-story-tap:focus,.ag-story-tap:active,.ag-story-tap:hover{background:transparent;outline:none;box-shadow:none}
 .ag-story-tap.prev{left:0;width:35%}.ag-story-tap.next{right:0;width:65%}
 .ag-story-body{position:absolute;left:0;right:0;bottom:0;padding:18px 18px calc(22px + env(safe-area-inset-bottom));z-index:3}
 .ag-story-tag{display:inline-block;background:#e3273c;color:#fff;font-size:11px;font-weight:800;letter-spacing:.05em;text-transform:uppercase;padding:4px 8px;border-radius:5px}
