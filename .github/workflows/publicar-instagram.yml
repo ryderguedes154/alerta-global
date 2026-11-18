@@ -2,7 +2,9 @@ name: Publicar noticias no Instagram
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # a cada 30 minutos. Com 2 posts por vez = ~96 por dia (limite do Instagram: 100)
+    # 1 post por hora, das 7h as 21h no horario de Boa Vista (UTC-4) = 15 posts por dia.
+    # Cabe no plano gratis do Make (1.000 creditos/mes, 2 por post = ~16 por dia).
+    - cron: "0 11-23,0,1 * * *"
   workflow_dispatch:         # permite rodar na mao pela aba "Actions"
 
 permissions:
@@ -26,7 +28,7 @@ jobs:
       IMAGEM_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/instagram/imagens
       NOTICIAS_JSON_URL: ${{ vars.NOTICIAS_JSON_URL }}
       NOME_DO_SITE: ${{ vars.NOME_DO_SITE }}
-      MAX_POSTS_POR_EXECUCAO: ${{ vars.MAX_POSTS_POR_EXECUCAO }}
+      MAX_POSTS_POR_EXECUCAO: ${{ vars.MAX_POSTS_POR_EXECUCAO || '1' }}
       IDADE_MAXIMA_HORAS: ${{ vars.IDADE_MAXIMA_HORAS }}
       USAR_IMAGEM_DA_MATERIA: ${{ vars.USAR_IMAGEM_DA_MATERIA }}
       USAR_CLAUDE: ${{ vars.USAR_CLAUDE }}
