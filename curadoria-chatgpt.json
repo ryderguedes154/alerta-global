@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-18T02:32:27.355Z",
+  "updated_at": "2026-11-18T04:55:06.807Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "EUA e Coreia do Sul emitem alertas urgentes por falhas de segurança no Java",
+      "summary": "Autoridades americanas e sul-coreanas recomendaram atualização imediata do Java após a identificação de vulnerabilidades. A Oracle publicou correções em 17 de novembro; o governo sul-coreano reuniu órgãos de segurança para coordenar medidas preventivas. Não há confirmação de ataque generalizado decorrente dessas falhas.",
+      "impact_br": "Empresas e órgãos públicos brasileiros que utilizam versões vulneráveis do Java devem avaliar e aplicar as atualizações de segurança. Não há interrupção de serviços no Brasil confirmada por esse episódio.",
+      "category": "Cibersegurança",
+      "region": "Global",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/south-korea-holds-emergency-meeting-possible-flaws-java-programming-language-2026-11-18/",
+      "published_on": "2026-11-18",
+      "published_at": "2026-11-17T20:51:00-04:00",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-18T04:55:06.807Z"
+    },
     {
       "title": "Nvidia supera previsões de receita e projeta até US$ 134 bilhões no próximo trimestre",
       "summary": "A Nvidia superou as expectativas de receita e lucro do terceiro trimestre e projetou faturamento entre US$ 126 bilhões e US$ 134 bilhões no trimestre seguinte, acima das estimativas do mercado. A projeção exclui vendas de chips de data center à China. Ações subiram no pós-mercado, em meio à incerteza sobre a liderança da companhia.",
