@@ -1,8 +1,8 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T19:24:14.185887Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-18T19:29:22.804297Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi diz que a Ásia-Pacífico precisa de comércio aberto e Putin condena sanções enquanto Trump chega à China",
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "França confirma envio de pequeno contingente militar à Ucrânia; entenda",
+      "summary": "Autoridade ressaltou que especialistas não participam de combates e encontram-se longe da linha de frente; ação está voltada para o treinamento e a manutenção de equipamentos fornecidos pelo país",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/franca-confirma-envio-de-pequeno-contingente-militar-a-ucrania-entenda/",
+      "published_on": "18/11/2026 14:59 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/Destruicao-deixada-por-ataque-na-Russia.jpeg?w=200",
+      "selection": "automatic"
+    },
+    {
       "title": "Pescadores equatorianos que sobreviveram a ataque de barco nos EUA processam administração Trump",
       "summary": "O primeiro processo movido por sobreviventes do ataque tem como alvo uma campanha militar secreta dos EUA que já matou mais de 240 pessoas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
       "published_on": "18/11/2026 13:21 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-boat-srikes-lawsuit-jvkc/17int-boat-srikes-lawsuit-jvkc-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Guerra na Ucrânia: a França está em conflito direto com a Rússia?",
-      "summary": "Uma investigação publicada pelo canal de rádio público francês RFI em 17 de novembro revelou que uma missão confidencial do exército francês conhecida como \"Volia\" foi usada durante meses para ocultar a presença de pessoal francês na Ucrânia. A Rússia acusou prontamente a França de envolvimento direto no conflito. Isso é verdade?",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "FR",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261118-war-in-ukraine-is-france-in-direct-conflict-with-russia",
-      "published_on": "18/11/2026 12:57 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/8cecea6e-e36a-11f1-b640-7908c4e1a3c7/w:1024/p:16x9/French-troops-Ukraine-10.png",
       "selection": "automatic"
     },
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Integrante da delegação russa carrega maleta nuclear de Putin em visita à China",
-      "summary": "Integrante da delegação russa carrega maleta nuclear de Putin em visita à China Reprodução/CBS TV Um integrante da delegação do presidente Vladimir Putin, da Rússia, foi flagrado carregando a maleta nuclear do país. A imagem foi divulgada pela rede norte-americana de TV CBS. Na cena, o militar é questionado se a mala carrega, de fato, a tecnologia nuclear ru",
+      "title": "Hakeem Jeffries está mais perto de se tornar o primeiro presidente negro da Câmara dos EUA",
+      "summary": "O democrata de Nova Iorque obteve 251 votos a favor e 11 contra, mas enfrenta pressão de legisladores progressistas que exigem compromissos em matéria de saúde, imigração e outras questões importantes.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
+      "category": "Saúde",
       "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/18/delegacao-dputin-maleta-nuclear-russia.ghtml",
-      "published_on": "18/11/2026 14:53 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/4aJLiHCWVzyP_f8bxHtwUU3BV_I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/2/3dqfaITyWBBZ5DfFVXAQ/fotojet-2026-11-18t160316.847.jpg",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
+      "published_on": "18/11/2026 13:44 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/09/99/84/71/696x392_cmsv2_7492a2dd-9b7f-55a2-b272-49696c614452-9998471.jpg",
       "selection": "automatic"
     }
   ]
