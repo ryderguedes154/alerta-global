@@ -59,7 +59,7 @@ jobs:
 
       - name: Enviar imagens para o repositorio (o Instagram baixa daqui)
         if: steps.config.outputs.ok == 'sim'
-        run: bash salvar.sh "Instagram: noticias preparadas"
+        run: bash salvar.sh "Instagram - noticias preparadas"
 
       - name: Publicar no Instagram
         if: steps.config.outputs.ok == 'sim'
@@ -67,4 +67,4 @@ jobs:
 
       - name: Salvar historico do que foi publicado
         if: always() && steps.config.outputs.ok == 'sim'
-        run: bash salvar.sh "Instagram: historico de publicacoes"
+        run: bash salvar.sh "Instagram - historico de publicacoes"
