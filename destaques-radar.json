@@ -1,9 +1,22 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T21:55:46.231498Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-18T22:01:01.263196Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Ataques da Ucrânia reduzem em 45% o refino de petróleo russo em novembro",
+      "summary": "Segundo estimativas de duas fontes do setor, disparos com drones nos últimos 20 dias resultaram na perda de mais de 2,25 milhões de barris por dia",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/ataques-da-ucrania-reduzem-em-45-o-refino-de-petroleo-russo-em-novembro/",
+      "published_on": "18/11/2026 17:57 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/TRUMP-XI-PUTIN-e1795026939930.jpg?w=200",
+      "selection": "automatic"
+    },
     {
       "title": "Xi diz que a Ásia-Pacífico precisa de comércio aberto e Putin condena sanções enquanto Trump chega à China",
       "summary": "SHENZHEN, China (AP) - A Ásia-Pacífico deve buscar um comércio mais aberto e um crescimento equitativo se quiser permanecer estável e dinâmico, disse o presidente chinês, Xi Jinping, a executivos de negócios reunidos na quarta-feira no centro tecnológico e financeiro de Shenzhen, no sul da China, à margem do anual ...",
@@ -41,19 +54,6 @@
       "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
       "published_on": "18/11/2026 13:00 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
-      "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-      "published_on": "18/11/2026 17:42 (Boa Vista)",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
       "selection": "automatic"
     },
     {
