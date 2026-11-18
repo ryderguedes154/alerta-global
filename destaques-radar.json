@@ -1,8 +1,8 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T22:32:36.929512Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-18T22:37:43.248075Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataques da Ucrânia reduzem em 45% o refino de petróleo russo em novembro",
@@ -83,6 +83,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas",
+      "summary": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas Reuters/Divulgação/Reprodução O mundo, de novo, não acabou. Mas a previsão de um \"apagão mundial\" dominou as redes sociais na terça-feira (17), em meio a uma onda de ataques hackers que, desde outubro, atinge de geladeiras de supermercados a bancos. Só no Brasil",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Segurança cibernética",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
+      "published_on": "18/11/2026 10:00 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/StOpkhTXMduUC0pSWqJFLpLDK1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/8/ighTEAQ56v09DkC5HywQ/fotojet-24-.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Sem 'apagão mundial', dia 17 tem falha na segurança nacional dos EUA e ataque hacker contra quase 200 sites",
       "summary": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas A teoria da conspiração para um \"apagão mundial\" nesta terça-feira (17) não se concretizou, mas a data foi marcada por novas falhas tecnológicas e um ataque hacker em série a quase 200 sites. Desde a quinta-feira (12), cinco falhas envolveram sistemas de aviação, bancário ou de",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://g1.globo.com/mundo/noticia/2026/11/18/sem-apagao-mundial-dia-17-falha-seguranca-nacional-eua-ataque-hacker.ghtml",
       "published_on": "17/11/2026 23:00 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/uJzJ9v55GzlqE-lASNnzqrBP00U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/A/7tQNaOSx6rtSZA6xrEFQ/2026-11-13t225544z-1478587479-rc2anoaqfvwc-rtrmadp-3-usa-faa-ground-stop.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump é o 1° presidente dos EUA no cargo a ir à “cidade milagrosa” da China",
-      "summary": "Shenzhen é a resposta do país ao Vale do Silício; uma cidade futurista que serve de base para empreendedores de tecnologia, drones de entrega de alimentos e o supercomputador mais rápido do mundo",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-e-o-1-presidente-dos-eua-no-cargo-a-ir-a-cidade-milagrosa-da-china/",
-      "published_on": "18/11/2026 16:59 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/trump_xi_china_2.jpg?w=200",
       "selection": "automatic"
     }
   ]
