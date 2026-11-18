@@ -1,8 +1,8 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T17:34:22.903783Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-18T17:39:31.002001Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi diz que a Ásia-Pacífico precisa de comércio aberto e Putin condena sanções enquanto Trump chega à China",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Sinais ‘chocantes’ de mudanças climáticas acrescentam urgência às negociações da COP31",
-      "summary": "Do Ártico aos trópicos, o clima incomum e o calor extremo estão a suscitar preocupações sobre a rapidez com que os humanos estão a remodelar os processos naturais da Terra.",
+      "title": "O Nepal chegou à COP31 em extrema necessidade. É um teste para o mundo.",
+      "summary": "O colapso mortal de uma geleira deixou o país com US$ 5 bilhões em custos de recuperação. Até agora, poucos intensificaram a ajuda.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Clima e desastres",
       "region": "Global",
       "country": "US",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
-      "published_on": "18/11/2026 13:24 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-cop31-disruption3-vqwl/18cli-cop31-disruption3-vqwl-mediumSquareAt3X.jpg",
+      "url": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
+      "published_on": "18/11/2026 13:30 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18CLI-COP-NEPAL1-kwcm/18CLI-COP-NEPAL1-kwcm-mediumSquareAt3X.jpg",
       "selection": "automatic"
     }
   ]
