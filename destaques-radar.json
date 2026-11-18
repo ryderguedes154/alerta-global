@@ -1,8 +1,8 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T21:40:21.173881Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-18T21:45:29.675745Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi diz que a Ásia-Pacífico precisa de comércio aberto e Putin condena sanções enquanto Trump chega à China",
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
+      "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+      "published_on": "18/11/2026 17:42 (Boa Vista)",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Nos EUA, chefe da espionagem de Israel defendeu ataques ao Irã, diz fonte",
       "summary": "Primeiro-ministro israelense, Benjamin Netanyahu, acredita que oportunidade para nova ofensiva está acabando, segundo pessoas ouvidas pela Reuters",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/nos-eua-chefe-da-espionagem-de-israel-defendeu-ataques-ao-ira-diz-fonte/",
       "published_on": "18/11/2026 17:26 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2025binary_LYNXMPEL5C0LG-BASEIMAGE.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
-      "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-      "published_on": "18/11/2026 16:43 (Boa Vista)",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
       "selection": "automatic"
     },
     {
