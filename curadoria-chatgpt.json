@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-18T16:28:40.585Z",
+  "updated_at": "2026-11-18T17:35:27.658Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Voyager 1 torna-se o primeiro objeto humano a alcançar um dia-luz da Terra",
+      "summary": "A NASA confirmou que a sonda Voyager 1 atingiu em 18 de novembro de 2026 a distância de aproximadamente 25,9 bilhões de quilômetros da Terra. Lançada em 1977, continua coletando dados no espaço interestelar; seus sinais de rádio levam cerca de 24 horas para chegar à Terra.",
+      "impact_br": "Sem impacto econômico direto confirmado no Brasil. O marco amplia o conhecimento científico e demonstra a capacidade de manter missões de exploração espacial por décadas.",
+      "category": "Ciência e tecnologia",
+      "region": "Espaço interestelar",
+      "country": "GLOBAL",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/resource/voyager-one-light-day-downloads/",
+      "published_on": "2026-11-16",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-18T17:35:27.658Z"
+    },
     {
       "title": "Ataques de drones reduzem em cerca de 45% o refino diário de petróleo da Rússia",
       "summary": "Segundo duas fontes do setor ouvidas pela Reuters em 18 de novembro, ataques ucranianos reduziram o processamento diário de petróleo nas refinarias russas de mais de 700 mil para cerca de 400 mil toneladas desde o fim de outubro. O percentual é uma estimativa das fontes, não uma medição oficial verificada independentemente.",
