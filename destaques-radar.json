@@ -1,8 +1,8 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T18:57:56.647222Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-18T19:03:39.563635Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi diz que a Ásia-Pacífico precisa de comércio aberto e Putin condena sanções enquanto Trump chega à China",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Hakeem Jeffries está mais perto de se tornar o primeiro presidente negro da Câmara dos EUA",
-      "summary": "O democrata de Nova Iorque obteve 251 votos a favor e 11 contra, mas enfrenta pressão de legisladores progressistas que exigem compromissos em matéria de saúde, imigração e outras questões importantes.",
+      "title": "Integrante da delegação de Putin carrega maleta nuclear da Rússia em visita à China",
+      "summary": "Um integrante da delegação do presidente Vladimir Putin, da Rússia, foi flagrado carregando a maleta nuclear do país. A imagem foi captada pela rede de TV CBS. Na cena, o militar é questionado se a mala carrega, de fato, a tecnologia nuclear russa e responde positivamente. Veja abaixo: Initial plugin text Conhecida como Cheget, a maleta permite que Putin man",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Saúde",
+      "category": "Tecnologia",
       "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
-      "published_on": "18/11/2026 13:44 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/09/99/84/71/696x392_cmsv2_7492a2dd-9b7f-55a2-b272-49696c614452-9998471.jpg",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/18/delegacao-dputin-maleta-nuclear-russia.ghtml",
+      "published_on": "18/11/2026 14:53 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/XdZngvlncQCFLYOtausM0y_w-3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/d/kRxXsCT8GRbKG3C9vAoA/2026-11-18t113906z-1386858333-rc2bqoaa6ep9-rtrmadp-3-apec-summit.jpg",
       "selection": "automatic"
     }
   ]
