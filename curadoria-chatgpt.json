@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-18T09:38:03.739Z",
+  "updated_at": "2026-11-18T11:52:37.470Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Irã amplia ataques no Golfo e mira base americana no Kuwait",
+      "summary": "Em 18 de novembro, o Irã afirmou ter atacado instalações militares dos EUA na base Ali Al Salem, no Kuwait. O governo kuwaitiano confirmou a interceptação de drones, sem relatar danos imediatos. O Bahrein também informou novas interceptações. A escalada ocorre após ataques americanos à ilha iraniana de Qeshm e eleva o risco para a segurança regional e a navegação no Estreito de Hormuz.",
+      "impact_br": "Possível pressão indireta sobre preços do petróleo, combustíveis e fretes internacionais; não há impacto direto confirmado no Brasil.",
+      "category": "guerras e diplomacia",
+      "region": "Oriente Médio",
+      "country": "KW",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/b1f0b530cffe951e6fcc1e27b2e1af94",
+      "published_on": "2026-11-18",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-18T11:52:37.470Z"
+    },
     {
       "title": "Coalizão liderada pela Arábia Saudita ataca 60 alvos houthis no Iêmen",
       "summary": "A coalizão liderada pela Arábia Saudita afirmou ter atacado 60 alvos militares houthis em Sanaa, Amran, Saada e Hodeida em 17 de novembro. Autoridades houthis relataram pelo menos 17 mortos, incluindo vítimas em uma fábrica; os números e a natureza de alguns alvos ainda não foram verificados independentemente. A coalizão também afirmou ter interceptado um míssil rumo a Riad.",
