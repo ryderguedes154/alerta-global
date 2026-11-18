@@ -1,8 +1,8 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T16:30:45.365300Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-18T16:35:58.515872Z",
+  "status": "checado",
   "items": [
     {
       "title": "O primeiro-ministro do Canadá acusa Putin de \"mentir\" ao minimizar as sanções",
@@ -83,6 +83,19 @@
       "selection": "automatic"
     },
     {
+      "title": "China busca chips da Nvidia para armas de IA, apesar das restrições dos EUA",
+      "summary": "Relatório de comissão dos EUA aponta que Pequim tenta burlar sanções para fortalecer forças armadas chinesas",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/china-busca-chips-da-nvidia-para-armas-de-ia-apesar-das-restricoes-dos-eua/",
+      "published_on": "18/11/2026 12:00 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/inteligencia-artificial-estados-unidos-x-china.png?w=200",
+      "selection": "automatic"
+    },
+    {
       "title": "Presidente do México diz que negociações comerciais com Trump avançaram",
       "summary": "Claudia Sheinbaum se encontrou com Donald Trump às margens do Fórum da APEC, realizado em Shenzhen, na China; economia dos dois países é intrinsicamente ligada",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/presidente-do-mexico-diz-que-negociacoes-comerciais-com-trump-avancaram/",
       "published_on": "18/11/2026 11:19 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/03/mexico-e1741020159677.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump avalia obrigar empresas americanas a divulgar uso de IA chinesa",
-      "summary": "Autoridades americanas acusam companhias chinesas de copiar tecnologia via destilação de modelos",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/trump-avalia-obrigar-empresas-americanas-a-divulgar-uso-de-ia-chinesa/",
-      "published_on": "18/11/2026 10:46 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/inteligencia-artificial-estados-unidos-x-china.png?w=200",
       "selection": "automatic"
     }
   ]
