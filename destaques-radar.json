@@ -1,8 +1,8 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T19:49:58.038354Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-18T19:55:38.313157Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi diz que a Ásia-Pacífico precisa de comércio aberto e Putin condena sanções enquanto Trump chega à China",
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Quatro pessoas mortas em ataques russos a Odessa, na Ucrânia",
+      "summary": "Pelo menos quatro pessoas foram mortas e outras treze ficaram feridas após ataques russos atingirem a cidade portuária ucraniana de Odessa.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
+      "published_on": "18/11/2026 15:31 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795030284.jpg?resize=1920%2C1080&quality=80",
+      "selection": "automatic"
+    },
+    {
       "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
       "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -67,19 +80,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/franca-confirma-envio-de-pequeno-contingente-militar-a-ucrania-entenda/",
       "published_on": "18/11/2026 14:59 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/Destruicao-deixada-por-ataque-na-Russia.jpeg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Pescadores equatorianos que sobreviveram a ataque de barco nos EUA processam administração Trump",
-      "summary": "O primeiro processo movido por sobreviventes do ataque tem como alvo uma campanha militar secreta dos EUA que já matou mais de 240 pessoas.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
-      "published_on": "18/11/2026 13:21 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-boat-srikes-lawsuit-jvkc/17int-boat-srikes-lawsuit-jvkc-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
