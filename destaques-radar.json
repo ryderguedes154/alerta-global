@@ -1,7 +1,7 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T19:55:38.313157Z",
+  "checked_at": "2026-11-18T20:00:48.294019Z",
   "status": "checado",
   "items": [
     {
@@ -57,6 +57,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Irã diz que responderá a futuros ataques sem “restrições geográficas”",
+      "summary": "Também nesta quarta-feira (18), o Diretor de Inteligência Nacional americano, Jay Clayton, afirmou que as ameaças do Irã contra americanos, tanto dentro quanto fora dos Estados Unidos, aumentaram substancialmente",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/ira-diz-que-respondera-a-futuros-ataques-sem-restricoes-geograficas/",
+      "published_on": "18/11/2026 15:31 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/Captura-de-tela-2026-07-29-234309.png?w=200",
+      "selection": "automatic"
+    },
+    {
       "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
       "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -67,19 +80,6 @@
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
       "published_on": "18/11/2026 15:00 (Boa Vista)",
       "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "França confirma envio de pequeno contingente militar à Ucrânia; entenda",
-      "summary": "Autoridade ressaltou que especialistas não participam de combates e encontram-se longe da linha de frente; ação está voltada para o treinamento e a manutenção de equipamentos fornecidos pelo país",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/franca-confirma-envio-de-pequeno-contingente-militar-a-ucrania-entenda/",
-      "published_on": "18/11/2026 14:59 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/Destruicao-deixada-por-ataque-na-Russia.jpeg?w=200",
       "selection": "automatic"
     },
     {
