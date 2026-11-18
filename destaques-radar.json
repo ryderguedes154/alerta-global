@@ -1,8 +1,8 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T19:13:56.609438Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-18T19:19:05.249989Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi diz que a Ásia-Pacífico precisa de comércio aberto e Putin condena sanções enquanto Trump chega à China",
@@ -31,16 +31,16 @@
       "selection": "automatic"
     },
     {
-      "title": "A conta de energia típica deverá aumentar £ 443 por ano a partir de janeiro, à medida que a taxa de inflação subir novamente",
-      "summary": "Espera-se que as contas de energia aumentem 26% ao ano para uma família típica, à medida que a inflação no Reino Unido atinge a taxa mais alta em um ano.",
+      "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
+      "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Economia",
       "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-      "published_on": "18/11/2026 09:17 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a59/live/128bd8c0-e35b-11f1-99b6-a35a62fa4264.jpg",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+      "published_on": "18/11/2026 15:00 (Boa Vista)",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
       "selection": "automatic"
     },
     {
@@ -96,8 +96,8 @@
       "selection": "automatic"
     },
     {
-      "title": "Integrante da delegação de Putin carrega maleta nuclear da Rússia em visita à China",
-      "summary": "Um integrante da delegação do presidente Vladimir Putin, da Rússia, foi flagrado carregando a maleta nuclear do país. A imagem foi captada pela rede de TV CBS. Na cena, o militar é questionado se a mala carrega, de fato, a tecnologia nuclear russa e responde positivamente. Veja abaixo: Initial plugin text Conhecida como Cheget, a maleta permite que Putin man",
+      "title": "Integrante da delegação russa carrega maleta nuclear de Putin em visita à China",
+      "summary": "Integrante da delegação russa carrega maleta nuclear de Putin em visita à China Reprodução/CBS TV Um integrante da delegação do presidente Vladimir Putin, da Rússia, foi flagrado carregando a maleta nuclear do país. A imagem foi divulgada pela rede norte-americana de TV CBS. Na cena, o militar é questionado se a mala carrega, de fato, a tecnologia nuclear ru",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Tecnologia",
       "region": "Global",
@@ -105,7 +105,7 @@
       "source": "G1 Mundo",
       "url": "https://g1.globo.com/mundo/noticia/2026/11/18/delegacao-dputin-maleta-nuclear-russia.ghtml",
       "published_on": "18/11/2026 14:53 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/XdZngvlncQCFLYOtausM0y_w-3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/d/kRxXsCT8GRbKG3C9vAoA/2026-11-18t113906z-1386858333-rc2bqoaa6ep9-rtrmadp-3-apec-summit.jpg",
+      "image": "https://s2-g1.glbimg.com/4aJLiHCWVzyP_f8bxHtwUU3BV_I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/2/3dqfaITyWBBZ5DfFVXAQ/fotojet-2026-11-18t160316.847.jpg",
       "selection": "automatic"
     }
   ]
