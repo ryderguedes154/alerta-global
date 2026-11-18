@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-18T13:09:05.735Z",
+  "updated_at": "2026-11-18T14:16:54.655Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "OPAS confirma retorno da transmissão endêmica de sarampo nos EUA, México e Bolívia",
+      "summary": "A Organização Pan-Americana da Saúde confirmou em 17 de novembro que EUA, México e Bolívia perderam o status de eliminação do sarampo após ao menos 12 meses de transmissão contínua. A decisão evidencia retrocesso na proteção sanitária regional; vacinação e vigilância são essenciais.",
+      "impact_br": "A circulação nas Américas reforça a necessidade de manter alta cobertura vacinal e vigilância de casos importados no Brasil; não há nova restrição de viagem anunciada.",
+      "category": "saude",
+      "region": "Américas",
+      "country": "GLOBAL",
+      "source": "Organização Pan-Americana da Saúde (OPAS)",
+      "url": "https://www.paho.org/en/news/17-11-2026-paho-urges-countries-step-efforts-stop-measles-outbreaks-and-move-towards",
+      "published_on": "2026-11-17",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-18T14:16:54.655Z"
+    },
     {
       "title": "União Europeia propõe empréstimo adicional de €45 bilhões à Ucrânia para 2027",
       "summary": "A Comissão Europeia apresentou em 18 de novembro proposta de empréstimo adicional de até €45 bilhões para cobrir parte do déficit financeiro ucraniano de 2027. Até €25 bilhões seriam destinados à defesa e €20 bilhões ao orçamento. A proposta ainda precisa de aprovação dos países da UE; não representa liberação imediata dos recursos.",
