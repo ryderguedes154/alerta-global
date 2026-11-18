@@ -1,9 +1,35 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T17:02:03.465003Z",
+  "checked_at": "2026-11-18T17:07:23.696003Z",
   "status": "checado",
   "items": [
+    {
+      "title": "Dentro do antigo gasoduto onde a Ucrânia trava uma guerra subterrânea com a Rússia",
+      "summary": "Assista: Jonathan Beale, da BBC, junta-se às forças ucranianas que travaram a batalha no subsolo e fora da vista dos drones russos.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "published_on": "18/11/2026 13:00 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
+      "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+      "published_on": "18/11/2026 13:03 (Boa Vista)",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Guerra na Ucrânia: a França está em conflito direto com a Rússia?",
       "summary": "Uma investigação publicada pelo canal de rádio público francês RFI em 17 de novembro revelou que uma missão confidencial do exército francês conhecida como \"Volia\" foi usada durante meses para ocultar a presença de pessoal francês na Ucrânia. A Rússia acusou prontamente a França de envolvimento direto no conflito. Isso é verdade?",
@@ -28,32 +54,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
       "published_on": "18/11/2026 12:47 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T071442Z_913088351_RC27QOA8QSRZ_RTRMADP_3_IRAN-CRISIS-1795018749.jpg?resize=1200%2C630",
-      "selection": "automatic"
-    },
-    {
-      "title": "O primeiro-ministro do Canadá acusa Putin de \"mentir\" ao minimizar as sanções",
-      "summary": "Carney acusa Putin de \"mentir\" depois que o líder russo descartou as sanções ocidentais como \"coisa do passado\".",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
-      "published_on": "18/11/2026 12:16 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/thunmb-1795018934.png?resize=1920%2C1080&quality=80",
-      "selection": "automatic"
-    },
-    {
-      "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
-      "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-      "published_on": "18/11/2026 12:15 (Boa Vista)",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
       "selection": "automatic"
     },
     {
@@ -83,6 +83,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Preços da soja dependem do clima no Brasil e de compras da China",
+      "summary": "Relatório do Itaú BBA indica que o bom avanço do plantio no país e a demanda chinesa ditarão o ritmo das cotações da oleaginosa",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/agro/precos-da-soja-dependem-do-clima-no-brasil-e-de-compras-da-china/",
+      "published_on": "18/11/2026 12:58 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/ChatGPT-Image-26-de-mar.-de-2026-09_39_47.png?w=200",
+      "selection": "automatic"
+    },
+    {
       "title": "Funcionário do Banco Mundial diz que reconstrução do Líbano está progredindo lentamente",
       "summary": "Beirute culpa a ocupação de Israel e os ataques ao sul do Líbano pelos atrasos na reconstrução.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
       "published_on": "18/11/2026 12:44 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afdb420046d-1795011616.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "China busca chips da Nvidia para armas de IA, apesar das restrições dos EUA",
-      "summary": "Relatório de comissão dos EUA aponta que Pequim tenta burlar sanções para fortalecer forças armadas chinesas",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/china-busca-chips-da-nvidia-para-armas-de-ia-apesar-das-restricoes-dos-eua/",
-      "published_on": "18/11/2026 12:00 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/inteligencia-artificial-estados-unidos-x-china.png?w=200",
       "selection": "automatic"
     }
   ]
