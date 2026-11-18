@@ -942,6 +942,7 @@ body.ag-story-open{overflow:hidden}
     </select>
     <div class="row">
       <button id="saveBtn">Salvar</button>
+      <button id="updateAppBtn" class="ghost" type="button">⟳ Atualizar aplicativo</button>
       <button id="notifyBtn" class="ghost" type="button">🔔 Ativar notificações</button>
       <button id="notifyTestBtn" class="ghost" type="button">🧪 Testar notificação</button>
     </div>
@@ -2797,6 +2798,31 @@ body.ag-story-open{overflow:hidden}
     notifyStatus.textContent = sent
       ? "✅ Notificação de teste enviada. Verifique a barra de notificações do dispositivo."
       : "Não foi possível exibir o teste. Confira as permissões do aplicativo e do sistema.";
+  };
+  // Atualiza o app: limpa o cache de interface, verifica nova versão do service worker e recarrega.
+  document.getElementById("updateAppBtn").onclick = async () => {
+    const btn = document.getElementById("updateAppBtn");
+    btn.disabled = true;
+    btn.textContent = "Atualizando...";
+    try {
+      if ("caches" in window) {
+        const keys = await caches.keys();
+        await Promise.all(keys.filter(key => key.startsWith("alerta-")).map(key => caches.delete(key)));
+      }
+      if ("serviceWorker" in navigator) {
+        const reg = await navigator.serviceWorker.getRegistration();
+        if (reg) {
+          await reg.update();
+          if (reg.waiting) reg.waiting.postMessage({type: "SKIP_WAITING"});
+        }
+      }
+    } catch (error) {
+      console.warn("Falha ao atualizar o aplicativo:", error);
+    }
+    // Recarrega com cache-busting para buscar a versão nova do HTML, CSS e JS.
+    const url = new URL(location.href);
+    url.searchParams.set("v", Date.now().toString());
+    location.replace(url.href);
   };
   ["search", "cat", "sev"].forEach(id => document.getElementById(id).addEventListener("input", () => {
     visibleCount = PAGE_SIZE; render();

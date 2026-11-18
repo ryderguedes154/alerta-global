@@ -1,5 +1,5 @@
 /* Alerta Global — Service Worker: cache de interface e últimas notícias. */
-const VERSION = "ag-v22-20261117-nova-logo-desktop-mobile";
+const VERSION = "ag-v23-20261118-botao-atualizar";
 const SHELL = "alerta-shell-" + VERSION;
 const DATA = "alerta-dados-" + VERSION;
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./portal-claro.css", "./icons/logo-alerta-global-horizontal.svg", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/alerta-global.svg"];
@@ -8,6 +8,9 @@ const NEWS = new URL("noticias.json", ROOT).href;
 const SOURCES = new URL("status_fontes.json", ROOT).href;
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(SHELL).then(cache => cache.addAll(ASSETS)).then(() => self.skipWaiting()));
+});
+self.addEventListener("message", event => {
+  if (event.data && event.data.type === "SKIP_WAITING") self.skipWaiting();
 });
 self.addEventListener("activate", event => {
   event.waitUntil(Promise.all([
