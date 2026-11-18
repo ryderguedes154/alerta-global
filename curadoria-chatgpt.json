@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-18T04:55:06.807Z",
+  "updated_at": "2026-11-18T09:38:03.739Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Coalizão liderada pela Arábia Saudita ataca 60 alvos houthis no Iêmen",
+      "summary": "A coalizão liderada pela Arábia Saudita afirmou ter atacado 60 alvos militares houthis em Sanaa, Amran, Saada e Hodeida em 17 de novembro. Autoridades houthis relataram pelo menos 17 mortos, incluindo vítimas em uma fábrica; os números e a natureza de alguns alvos ainda não foram verificados independentemente. A coalizão também afirmou ter interceptado um míssil rumo a Riad.",
+      "impact_br": "A escalada pode aumentar riscos para rotas marítimas e preços internacionais de energia e frete, com possível reflexo indireto no Brasil; não há efeito direto confirmado.",
+      "category": "guerras e diplomacia",
+      "region": "Oriente Médio",
+      "country": "YE",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/mideast-news-iran-bahrain-us-november-18-2026-b71b1d25f3cff987b4b125196ecb4c3a",
+      "published_on": "2026-11-18",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-18T09:38:03.739Z"
+    },
     {
       "title": "EUA e Coreia do Sul emitem alertas urgentes por falhas de segurança no Java",
       "summary": "Autoridades americanas e sul-coreanas recomendaram atualização imediata do Java após a identificação de vulnerabilidades. A Oracle publicou correções em 17 de novembro; o governo sul-coreano reuniu órgãos de segurança para coordenar medidas preventivas. Não há confirmação de ataque generalizado decorrente dessas falhas.",
