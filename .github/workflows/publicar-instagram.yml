@@ -35,21 +35,36 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Verificar se o Instagram ja foi configurado
+        id: config
+        run: |
+          if [ -z "$IG_ACCESS_TOKEN" ] || [ -z "$IG_USER_ID" ]; then
+            echo "Faltam os Secrets IG_USER_ID e IG_ACCESS_TOKEN. Nada a fazer por enquanto."
+            echo "ok=nao" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=sim" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-python@v5
+        if: steps.config.outputs.ok == 'sim'
         with:
           python-version: "3.12"
 
       - run: pip install -r requirements.txt
+        if: steps.config.outputs.ok == 'sim'
 
       - name: Buscar noticias novas e gerar imagem + legenda
+        if: steps.config.outputs.ok == 'sim'
         run: python publicar.py preparar
 
       - name: Enviar imagens para o repositorio (o Instagram baixa daqui)
+        if: steps.config.outputs.ok == 'sim'
         run: bash salvar.sh "Instagram: noticias preparadas"
 
       - name: Publicar no Instagram
+        if: steps.config.outputs.ok == 'sim'
         run: python publicar.py publicar
 
       - name: Salvar historico do que foi publicado
-        if: always()
+        if: always() && steps.config.outputs.ok == 'sim'
         run: bash salvar.sh "Instagram: historico de publicacoes"
