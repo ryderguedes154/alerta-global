@@ -704,6 +704,7 @@ body.ag-story-open{overflow:hidden}
 @media (min-width:700px){.ag-story-card{height:min(92dvh,860px);width:min(calc(min(92dvh,860px) * 9 / 16),480px);border-radius:16px;box-shadow:0 30px 80px #000a}}
 .ag-story-bg{position:absolute;inset:0;background-size:cover;background-position:center;filter:blur(24px) brightness(.55);transform:scale(1.2)}
 .ag-story-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.ag-story-img.ag-small{top:13%;left:50%;right:auto;bottom:auto;transform:translateX(-50%);width:auto;height:auto;max-width:92%;max-height:46%;object-fit:contain;border-radius:10px;box-shadow:0 12px 40px #0008}
 .ag-story-noimg{position:absolute;inset:0;display:grid;place-items:center;font-size:96px;background:radial-gradient(circle at 30% 20%,#e3273c55,transparent 55%),linear-gradient(160deg,#1a2a46,#0b0f17)}
 .ag-story-shade{position:absolute;inset:0;background:linear-gradient(180deg,#000b 0,#0000 22%,#0000 40%,#000d 72%,#000f 100%)}
 .ag-story-bars{position:absolute;top:10px;left:10px;right:10px;display:flex;gap:4px;z-index:3}
@@ -2349,18 +2350,44 @@ body.ag-story-open{overflow:hidden}
     if (info.kind === "chatgpt") {
       return uniq((latestCurationEntries || []).map(e => ({
         title: e.title, summary: e.impact_br ? e.summary + " 🇧🇷 " + e.impact_br : e.summary,
-        url: e.url, image: newsImage(e.image), source: e.source || "Fonte original",
+        url: e.url, image: agRealPhoto(newsImage(e.image)), source: e.source || "Fonte original",
         region: e.region || "Global", ts: chatgptEntryTime(e)
       })));
     }
     const pool = items.filter(i => i && /^https?:\/\//i.test(String(i.url || "")) && newsPtTitle(i) &&
       (!info.cat || i.category === info.cat));
     // Primeiro as que têm foto, mantendo a ordem de publicação.
-    const sorted = [...pool].sort((a, b) => (newsImage(b.image) ? 1 : 0) - (newsImage(a.image) ? 1 : 0) || (b.ts || 0) - (a.ts || 0));
+    const photo = i => agRealPhoto(newsImage(i.image));
+    const sorted = [...pool].sort((a, b) => (photo(b) ? 1 : 0) - (photo(a) ? 1 : 0) || (b.ts || 0) - (a.ts || 0));
     return uniq(sorted.map(i => ({
-      title: newsPtTitle(i), summary: newsPtSummary(i), url: i.url, image: newsImage(i.image),
+      title: newsPtTitle(i), summary: newsPtSummary(i), url: i.url, image: photo(i),
       source: i.source || "Fonte original", region: regionInPortuguese(i), ts: i.ts || 0, category: i.category
     })));
+  }
+  // Os feeds RSS mandam miniaturas (BBC 240px, CNN Brasil 200px...). Para tela cheia,
+  // pedimos a versão grande que o próprio site da matéria oferece.
+  function agHiRes(url) {
+    if (!url) return "";
+    try {
+      const u = new URL(url);
+      const h = u.hostname;
+      if (h === "ichef.bbci.co.uk") u.pathname = u.pathname.replace(/\/(standard|news)\/\d+\//, "/$1/976/");
+      else if (/\/wp-content\/uploads\//.test(u.pathname)) {
+        // WordPress (CNN Brasil e outros): ?w=200 ou ?resize=200,150 -> 1080px de largura.
+        const w = Number(u.searchParams.get("w"));
+        if (w && w < 800) { u.searchParams.set("w", "1080"); u.searchParams.delete("h"); }
+        const r = u.searchParams.get("resize");
+        if (r && Number(r.split(",")[0]) < 800) { u.searchParams.delete("resize"); u.searchParams.set("w", "1080"); }
+      }
+      else if (h === "images.euronews.com") u.pathname = u.pathname.replace(/\/\d+x\d+_/, "/1200x675_");
+      else if (h === "static.dw.com") u.pathname = u.pathname.replace(/_(\d{1,2})\.(jpe?g|png|webp)$/i, "_605.$2");
+      else if (h === "ic-cdn.flipboard.com") u.pathname = u.pathname.replace(/\/_(small|medium)\.(\w+)$/, "/_large.$2");
+      return u.href;
+    } catch { return url; }
+  }
+  // Pixels de rastreamento e logotipos de agência não são fotos da matéria.
+  function agRealPhoto(url) {
+    return url && !/rss-pixel|tracking|\/ebc\.png|\/logo[^/]*\.(png|svg)/i.test(url) ? url : "";
   }
   function agAgo(ts) {
     if (!ts) return "";
@@ -2430,16 +2457,23 @@ body.ag-story-open{overflow:hidden}
       $s("agStoryTitle").textContent = item.title;
       $s("agStorySummary").textContent = String(item.summary || "").slice(0, 320);
       $s("agStoryWhen").textContent = [item.source, agAgo(item.ts)].filter(Boolean).join(" · ");
+      const noPhoto = () => { img.hidden = true; img.removeAttribute("src"); bg.style.backgroundImage = ""; noimg.hidden = false; noimg.textContent = agStory.info.icon; };
       if (item.image) {
-        noimg.hidden = true; img.hidden = false; img.src = item.image;
-        bg.style.backgroundImage = 'url("' + item.image.replace(/"/g, "%22") + '")';
-        img.onerror = () => { img.hidden = true; bg.style.backgroundImage = ""; noimg.hidden = false; noimg.textContent = agStory.info.icon; };
-      } else {
-        img.hidden = true; img.removeAttribute("src"); bg.style.backgroundImage = ""; noimg.hidden = false; noimg.textContent = agStory.info.icon;
-      }
-      // Pré-carrega a próxima foto.
+        const big = agHiRes(item.image);
+        noimg.hidden = true; img.hidden = false;
+        img.classList.remove("ag-small");
+        img.onload = () => {
+          // Foto ainda pequena: mostra no tamanho real, nítida, sobre o fundo desfocado (sem esticar).
+          img.classList.toggle("ag-small", img.naturalWidth < 640);
+          bg.style.backgroundImage = 'url("' + img.currentSrc.replace(/"/g, "%22") + '")';
+        };
+        // Se a versão grande não existir, volta para a original do feed.
+        img.onerror = () => { if (img.src !== item.image) img.src = item.image; else noPhoto(); };
+        img.src = big;
+      } else noPhoto();
+      // Pré-carrega a próxima foto já em alta resolução.
       const next = agStory.list[agStory.index + 1];
-      if (next?.image) { const pre = new Image(); pre.src = next.image; }
+      if (next?.image) { const pre = new Image(); pre.src = agHiRes(next.image); }
     }
     agStory.elapsed = 0;
     agStory.start = performance.now();
