@@ -1,5 +1,59 @@
 [
   {
+    "title": "Florida pastor convicted in plot to kill Haitian president",
+    "summary": "A Florida pastor with dual Haitian-American citizenship has been convicted of U.S. charges related to the 2021 assassination of Haitian President Jovenel Moïse.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/news/haitian-president-jovenel-moise-assassination-conviction/",
+    "date": "2026-11-18T23:52:36Z",
+    "lang": "en",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2021/07/07/82bf23c6-cf97-4e98-9904-f15ecb4d668c/thumbnail/1200x630/073542e81649a48f74b0d9a4fe18f9d7/Haitian-president.jpg",
+    "title_pt": "Pastor da Flórida condenado por conspiração para matar o presidente do Haiti",
+    "summary_pt": "Um pastor da Flórida com dupla cidadania haitiano-americana foi condenado nos Estados Unidos por acusações relacionadas ao assassinato do presidente do Haiti, Jovenel Moïse, em 2021."
+  },
+  {
+    "title": "Corpo de homem é encontrado dentro de geladeira no centro de SP",
+    "summary": "Guarda Civil foi acionada na Liberdade ao localizarem a vítima sem identificação, que aparenta ter 30 anos e caso foi registrado como morte suspeita pela Polícia Civil",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/corpo-de-homem-e-encontrado-dentro-de-geladeira-no-centro-de-sp/",
+    "date": "2026-11-18T23:47:23Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Captura-de-tela-2026-09-05-122219.png?w=200",
+    "title_pt": "Corpo de homem é encontrado dentro de geladeira no centro de SP",
+    "summary_pt": "Guarda Civil foi acionada na Liberdade ao localizarem a vítima sem identificação, que aparenta ter 30 anos e caso foi registrado como morte suspeita pela Polícia Civil"
+  },
+  {
+    "title": "Banco do Brasil comunica clientes sobre vazamento de dados",
+    "summary": "Ao identificar ocorrência, BB acionou protocolos de segurança e iniciou apuração do fato ocorrido",
+    "category": "Segurança cibernética",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/banco-do-brasil-comunica-clientes-sobre-vazamento-de-dados/",
+    "date": "2026-11-18T23:47:23Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM3C13Q-BASEIMAGE.jpg?w=200",
+    "title_pt": "Banco do Brasil comunica clientes sobre vazamento de dados",
+    "summary_pt": "Ao identificar ocorrência, BB acionou protocolos de segurança e iniciou apuração do fato ocorrido"
+  },
+  {
+    "title": "Uncontacted Awá of Brazil Emerge From Rainforest Seeking Food",
+    "summary": "A group of 20 people emerged from the forest and asked for food, an Indigenous peoples’ rights group said, raising fears that environmental degradation had left them with no choice but to reach out.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/world/americas/brazil-amazon-indigenous-contact.html",
+    "date": "2026-11-18T23:45:30Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-Brazil-Indigenous-tvjz/18int-Brazil-Indigenous-tvjz-mediumSquareAt3X.jpg"
+  },
+  {
     "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
     "summary": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
     "category": "Geral",
@@ -28,9 +82,21 @@
     "summary_pt": "A Anthropic começou há apenas cinco anos e agora é um dos maiores nomes da inteligência artificial."
   },
   {
+    "title": "190 millones de dólares por un ‘van gogh’: la subasta de ‘Los castaños en flor’ alcanza cifras récord",
+    "summary": "Un acuerdo de última hora entre los actuales propietarios de la obra y los herederos del antiguo dueño judío que habían intentado impugnar la venta permitió que la pieza cambie de manos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/us/2026-11-18/190-millones-de-dolares-por-un-van-gogh-la-subasta-de-los-castanos-en-flor-alcanza-cifras-record.html",
+    "date": "2026-11-18T23:42:09Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/4S77BYP2NJMAZN4NITAVLB5PYU.jpg?auth=460d89efc87fe87bb08769db81b587d417b38410db00a3fabd919d799022118f"
+  },
+  {
     "title": "The seven Anthropic founders who are about to become multi-billionaires",
     "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "category": "Clima e desastres",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -40,6 +106,76 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
     "title_pt": "Os sete fundadores da Anthropic que estão prestes a se tornar multibilionários",
     "summary_pt": "A empresa de IA por trás de Claude está prestes a vender suas ações no mercado de ações dos EUA – tornando seus fundadores muito ricos."
+  },
+  {
+    "title": "Homem é morto a tiros na frente da família em Camboriú",
+    "summary": "Vítima de 35 anos foi atingida no bairro Areias enquanto abria o carro para ir almoçar e não resistiu aos ferimentos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/homem-e-morto-a-tiros-na-frente-da-familia-em-camboriu/",
+    "date": "2026-11-18T23:40:21Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/WhatsApp-Image-2026-11-10-at-13.53.00.jpeg?w=200",
+    "title_pt": "Homem é morto a tiros na frente da família em Camboriú",
+    "summary_pt": "Vítima de 35 anos foi atingida no bairro Areias enquanto abria o carro para ir almoçar e não resistiu aos ferimentos"
+  },
+  {
+    "title": "Valdemar recua após criticar candidatura de Nikolas à presidência da Câmara",
+    "summary": "Presidente do PL afirmou que chamou possível candidatura à Câmara dos Deputados de “loucura” por causa da idade do parlamentar",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/valdemar-recua-apos-criticar-candidatura-de-nikolas-a-presidencia-da-camara/",
+    "date": "2026-11-18T23:36:41Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/paulo-martins-novo-1280x720.jpg.webp?w=200",
+    "title_pt": "Valdemar recua após criticar candidatura de Nikolas à presidência da Câmara",
+    "summary_pt": "Presidente do PL afirmou que chamou possível candidatura à Câmara dos Deputados de “loucura” por causa da idade do parlamentar"
+  },
+  {
+    "title": "Corinthians x Botafogo: escalações e onde assistir ao jogo do Brasileirão",
+    "summary": "Equipes se enfrentam nesta quarta-feira (18), na Neo Química Arena, em São Paulo, em duelo válido pela 35ª rodada do Campeonato Brasileiro",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-x-botafogo-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
+    "date": "2026-11-18T23:35:41Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/rozallah-e1795018471750.jpeg?w=200",
+    "title_pt": "Corinthians x Botafogo: escalações e onde assistir ao jogo do Brasileirão",
+    "summary_pt": "Equipes se enfrentam nesta quarta-feira (18), na Neo Química Arena, em São Paulo, em duelo válido pela 35ª rodada do Campeonato Brasileiro"
+  },
+  {
+    "title": "Andrei entrega a Fachin relatório produzido pela PF sobre ministros do STF",
+    "summary": "Material reúne menções a ministros da Corte encontradas nas investigações do Banco Master; eventual abertura de investigação depende de aprovação do plenário da Corte, e Fachin deve pedir manifestação da PGR sobre o conteúdo",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/andrei-entrega-a-fachin-relatorio-produzido-pela-pf-sobre-ministros-do-stf/",
+    "date": "2026-11-18T23:33:46Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/53150698483_4e0c1bbc4a_k.jpg?w=200",
+    "title_pt": "Andrei entrega a Fachin relatório produzido pela PF sobre ministros do STF",
+    "summary_pt": "Material reúne menções a ministros da Corte encontradas nas investigações do Banco Master; eventual abertura de investigação depende de aprovação do plenário da Corte, e Fachin deve pedir manifestação da PGR sobre o conteúdo"
+  },
+  {
+    "title": "Grêmio x Bahia: escalações e onde assistir ao jogo do Brasileirão",
+    "summary": "Equipes se enfrentam nesta quarta-feira (18), na Arena, em Porto Alegre, pela 35ª rodada da competição nacional de pontos corridos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/gremio-x-bahia-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
+    "date": "2026-11-18T23:31:51Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/bandeirinha_corinthians-e1778447497736.jpg?w=200",
+    "title_pt": "Grêmio x Bahia: escalações e onde assistir ao jogo do Brasileirão",
+    "summary_pt": "Equipes se enfrentam nesta quarta-feira (18), na Arena, em Porto Alegre, pela 35ª rodada da competição nacional de pontos corridos"
   },
   {
     "title": "Iran ramps up attacks on Gulf countries after U.S. strikes",
@@ -54,6 +190,34 @@
     "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
     "title_pt": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
     "summary_pt": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz."
+  },
+  {
+    "title": "Palmeiras informa piora em recuperação de Paulinho após trauma na perna",
+    "summary": "Exames identificaram inflamações persistentes nos tecidos musculares e ósseos; atacante segue sem trabalhar no gramado",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-informa-piora-em-recuperacao-de-paulinho-apos-trauma-na-perna/",
+    "date": "2026-11-18T23:29:51Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/torcida-flamengo-maracana-e1794349148492.jpeg?w=200",
+    "title_pt": "Palmeiras informa piora em recuperação de Paulinho após trauma na perna",
+    "summary_pt": "Exames identificaram inflamações persistentes nos tecidos musculares e ósseos; atacante segue sem trabalhar no gramado"
+  },
+  {
+    "title": "MBRF lidera ranking de ações contra desmatamento, aponta Mighty Earth",
+    "summary": "Relatório apresentado na COP31 identifica riscos em cadeias de soja e carne em 377 mil hectares de vegetação nativa no Brasil; empresa obteve 70 pontos em avaliação de compromissos ambientais",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/agro/mbrf-lidera-ranking-de-acoes-contra-desmatamento-aponta-mighty-earth/",
+    "date": "2026-11-18T23:28:52Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/WhatsApp-Image-2026-10-26-at-20.38.29.jpeg?w=200",
+    "title_pt": "MBRF lidera ranking de ações contra desmatamento, aponta Mighty Earth",
+    "summary_pt": "Relatório apresentado na COP31 identifica riscos em cadeias de soja e carne em 377 mil hectares de vegetação nativa no Brasil; empresa obteve 70 pontos em avaliação de compromissos ambientais"
   },
   {
     "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
@@ -112,6 +276,20 @@
     "summary_pt": "Democratas investigam se Lutnick ajudou a Cantor Fitzgerald a evitar perdas relacionadas à Nvidia Reuters"
   },
   {
+    "title": "Saiba como fica ajuste fiscal com mudança no Senado; impacto cai a R$ 50 bi",
+    "summary": "Casa Alta aprovou texto-base na semana passada e concluiu a análise da proposta nesta quarta (18), após analisar sugestões de mudanças ao projeto",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/saiba-como-fica-ajuste-fiscal-com-mudanca-no-senado-impacto-cai-a-r-50-bi/",
+    "date": "2026-11-18T23:23:31Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/10/53270492984_c784a6773c_4k-e1698258728106.jpg?w=200",
+    "title_pt": "Saiba como fica ajuste fiscal com mudança no Senado; impacto cai a R$ 50 bi",
+    "summary_pt": "Casa Alta aprovou texto-base na semana passada e concluiu a análise da proposta nesta quarta (18), após analisar sugestões de mudanças ao projeto"
+  },
+  {
     "title": "GTA 6 launches after 13-year wait, breaking pre-order records",
     "summary": "Grand Theft Auto’s latest instalment is out, ending a 13-year wait for one of gaming’s biggest franchises.",
     "category": "Geral",
@@ -166,6 +344,20 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/10/53270492984_c784a6773c_4k-e1698258728106.jpg?w=1200&h=630&crop=1",
     "title_pt": "Impacto do pacote fiscal cai em R$ 6 bi após mudança no Senado, diz relator",
     "summary_pt": "Acordo sobre Lei Kandir amplia de R$ 1 bilhão para R$ 2 bilhões os repasses anuais da União aos estados em 2027"
+  },
+  {
+    "title": "Anthropic IPO to mint thousands of millionaires",
+    "summary": "Anthropic IPO to mint thousands of millionaires Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW1QU3VfRndFeVFEODFZbWVTcUVkcE1CelRpYmJWZ0FleXRVd3EwbjFXeHRmbUJQUDBsQXFQc21iVjdCRHFscy1qQjZWeWhIMnF6d0NBR3gxQmRERFdyLXBDNFFpZDQtY05mT3REaThpVWdVSVQzLUtmOUpweHZmc0dvWEFjbmpxWDdadjNzaFI4ajNmNUZsVVlhb05hWm5qRFdNTV9R?oc=5",
+    "date": "2026-11-18T23:06:33Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "IPO da Anthropic vai criar milhares de milionários",
+    "summary_pt": "IPO da Anthropic vai criar milhares de milionários Reuters"
   },
   {
     "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
@@ -250,20 +442,6 @@
     "image": "",
     "title_pt": "Como o IPO da Anthropic se compara ao da SpaceX",
     "summary_pt": "Como o IPO da Anthropic se compara ao da SpaceX Reuters"
-  },
-  {
-    "title": "Florida pastor convicted in plot to kill Haitian president",
-    "summary": "A Florida pastor with dual Haitian-American citizenship has been convicted of U.S. charges related to the 2021 assassination of Haitian President Jovenel Moïse.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/news/haitian-president-jovenel-moise-assassination-conviction/",
-    "date": "2026-11-18T22:49:39Z",
-    "lang": "en",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2021/07/07/82bf23c6-cf97-4e98-9904-f15ecb4d668c/thumbnail/1200x630/073542e81649a48f74b0d9a4fe18f9d7/Haitian-president.jpg",
-    "title_pt": "Pastor da Flórida condenado por conspiração para matar o presidente do Haiti",
-    "summary_pt": "Um pastor da Flórida com dupla cidadania haitiano-americana foi condenado nos Estados Unidos por acusações relacionadas ao assassinato do presidente do Haiti, Jovenel Moïse, em 2021."
   },
   {
     "title": "GTA 6 dazzles gamers in Australia with ‘fully lived-in, breathable world’",
@@ -420,6 +598,18 @@
     "summary_pt": "O príncipe e a princesa de Gales encerraram sua viagem de três dias à Índia na quarta-feira, a primeira turnê internacional do casal desde 2022."
   },
   {
+    "title": "24-month matured Comté crowned world’s best cheese",
+    "summary": "With its nutty flavour and smooth, supple texture, it was aged for two years in a former military fortress in eastern France. Comté, an unpasteurised cow’s milk cheese from the Jura Mountains, has beaten more than five thousand challengers to the top prize at the prestigious annual 'World Cheese Awards'. FRANCE 24's Daniel Whittington has the story.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "FR",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/video/20261118-24-month-matured-comt%C3%A9-crowned-world-s-best-cheese",
+    "date": "2026-11-18T22:32:24Z",
+    "lang": "en",
+    "image": "https://s.france24.com/media/display/1cb81224-e396-11f1-bbfa-c5c0357b2a0c/w:1024/p:16x9/EN-20261118-221442-221615-CS.jpg"
+  },
+  {
     "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
     "summary": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian president Jovenel Moïse. Christian Emmanuel Sanon was found guilty on charges including conspiring t",
     "category": "Geral",
@@ -574,6 +764,18 @@
     "summary_pt": "Palo Alto aumenta previsão anual e assina contrato de US$ 4,5 bilhões com a Applied Compute Reuters"
   },
   {
+    "title": "Inside Limoges City Hall devastated by arson attack",
+    "summary": "Work is underway to restore the city hall of Limoges, in central France, which was devastated by an arson attack during riots on October 17. More than €1.7 million has been raised through an online fundraising campaign in the wake of the disaster. Also on the show, the highly anticipated Grand Theft Auto VI has finally been released, with gamers in Oceania a",
+    "category": "Geral",
+    "region": "Global",
+    "country": "FR",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/tv-shows/business/20261118-inside-limoges-city-hall-devastated-by-arson-attack",
+    "date": "2026-11-18T22:23:48Z",
+    "lang": "en",
+    "image": "https://s.france24.com/media/display/a034574a-e39e-11f1-bfdd-7908c4e1a3c7/w:1024/p:16x9/capture-fa1f6e70.jpg"
+  },
+  {
     "title": "IPO da Anthropic deve criar milhares de milionários",
     "summary": "Oferta deve desencadear uma onda de nova riqueza em todo o setor de inteligência artificial, recompensando desde os primeiros pesquisadores e engenheiros da companhia até a equipe administrativa",
     "category": "Geral",
@@ -612,8 +814,8 @@
     "date": "2026-11-18T22:17:53Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "A Nvidia recua à medida que as boas perspectivas não conseguem dissipar as incertezas Reuters",
-    "title_pt": "A Nvidia recua à medida que as boas perspectivas não conseguem dissipar a incerteza"
+    "title_pt": "A Nvidia recua à medida que as boas perspectivas não conseguem dissipar a incerteza",
+    "summary_pt": "A Nvidia recua à medida que as boas perspectivas não conseguem dissipar as incertezas Reuters"
   },
   {
     "title": "Cavalo que participou de provas de turfe é encontrado morto em caçamba",
@@ -684,6 +886,20 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM431BC-BASEIMAGE.jpg?w=200",
     "title_pt": "Membros do Fed alertam para impacto inflacionário dos investimentos em IA",
     "summary_pt": "Alguns deles avaliaram que o atual ciclo de investimentos pode elevar a demanda agregada em relação à oferta"
+  },
+  {
+    "title": "Como os sócios impulsionam finalistas da Libertadores e Sul-Americana",
+    "summary": "Com Atlético-MG e Boca Juniors acima dos 280 mil associados e Palmeiras arrecadando mais de R$ 80 milhões com o Avanti, programas de fidelidade se consolidam como fontes estratégicas de receita e aproximam torcedores dos clubes",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/como-os-socios-impulsionam-finalistas-da-libertadores-e-sul-americana/",
+    "date": "2026-11-18T22:06:50Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Libertadores-e1792757089760.jpeg?w=1080&h=608&crop=1",
+    "title_pt": "Como os sócios impulsionam finalistas da Libertadores e Sul-Americana",
+    "summary_pt": "Com Atlético-MG e Boca Juniors acima dos 280 mil associados e Palmeiras arrecadando mais de R$ 80 milhões com o Avanti, programas de fidelidade se consolidam como fontes estratégicas de receita e aproximam torcedores dos clubes"
   },
   {
     "title": "Youssef M. Ibrahim, Who Covered Iran’s Revolution for The Times, Dies at 83",
@@ -765,7 +981,7 @@
     "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/remo-x-chapecoense-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
     "date": "2026-11-18T22:04:42Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/mineirao-cruzeiro-sao-paulo-e1756597602350.jpeg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/bandeirinha_corinthians-e1778447497736.jpg?w=200",
     "title_pt": "Remo x Chapecoense: escalações e onde assistir ao jogo do Brasileirão",
     "summary_pt": "Equipes vão a campo nesta quarta-feira (18), no Mangueirão, às 20h (de Brasília), em confronto válido pela 35ª rodada da competição nacional"
   },
@@ -793,7 +1009,7 @@
     "url": "https://www.cnnbrasil.com.br/politica/senado-faz-acordo-sobre-lei-kandir-e-conclui-votacao-do-plp-ajuste-fiscal/",
     "date": "2026-11-18T22:02:52Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportDomesticNews/tagreuters.com2026binary_LYNXMPEM3L1A5-BASEIMAGE.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/53150698483_4e0c1bbc4a_k.jpg?w=200",
     "title_pt": "Senado faz acordo sobre Lei Kandir e conclui votação do ajuste fiscal",
     "summary_pt": "Relator mudou regra que adiava pagamento dos repasses para 2037; texto agora segue para análise da Câmara, que deve se debruçar sobre o texto na próxima semana"
   },
@@ -824,20 +1040,6 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/complexo-de-banhos-jerusalem-e1794498617734.png?w=200",
     "title_pt": "Onde hoje há apenas deserto, caçadores de 100 mil anos atrás usavam veneno de plantas para derrubar hipopótamos",
     "summary_pt": "Achados em antigo lago na Arábia Saudita incluem restos de grandes animais e pontas de pedra com resíduos de uma planta tóxica, possivelmente usada na caça"
-  },
-  {
-    "title": "Anthropic IPO to mint thousands of millionaires",
-    "summary": "Anthropic IPO to mint thousands of millionaires Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW1QU3VfRndFeVFEODFZbWVTcUVkcE1CelRpYmJWZ0FleXRVd3EwbjFXeHRmbUJQUDBsQXFQc21iVjdCRHFscy1qQjZWeWhIMnF6d0NBR3gxQmRERFdyLXBDNFFpZDQtY05mT3REaThpVWdVSVQzLUtmOUpweHZmc0dvWEFjbmpxWDdadjNzaFI4ajNmNUZsVVlhb05hWm5qRFdNTV9R?oc=5",
-    "date": "2026-11-18T22:00:42Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "IPO da Anthropic vai criar milhares de milionários",
-    "summary_pt": "IPO da Anthropic vai criar milhares de milionários Reuters"
   },
   {
     "title": "Bukele confirms airstrike on Haitian gang leader Jeff's luxury mansion",
@@ -961,7 +1163,7 @@
     "url": "https://www.cnnbrasil.com.br/agro/renegociacao-de-dividas-rurais-soma-r-28-bilhoes-aponta-bc/",
     "date": "2026-11-18T21:46:03Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXNPEMA90VA-BASEIMAGE.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/MBRF-Imagem-de-fachada-2.jpg?w=200",
     "title_pt": "Renegociação de dívidas rurais soma R$ 28 bilhões, aponta BC",
     "summary_pt": "Relatório produzido na terça-feira pelo Banco Central aponta que cerca de 70,5 mil operações foram realizadas no período; Banco do Brasil lidera com R$ 13,3 bi renegociados"
   },
@@ -1059,7 +1261,7 @@
     "url": "https://www.cnnbrasil.com.br/politica/pdt-e-psb-oficializam-federacao-partidaria-por-pelo-menos-4-anos/",
     "date": "2026-11-18T21:35:09Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/10/53270492984_c784a6773c_4k-e1698258728106.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/14170_A3FCB08D222D3149.jpeg?w=200",
     "title_pt": "PDT e PSB oficializam federação partidária por pelo menos 4 anos",
     "summary_pt": "Partidos buscam aumentar representação no Congresso e garantir espaço no quarto mandato do presidente Luiz Inácio Lula da Silva (PT)"
   },
@@ -1074,8 +1276,8 @@
     "date": "2026-11-18T21:32:20Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Órgão de proteção de dados investiga vazamento maciço de dados do Deutsche Bank Reuters",
-    "title_pt": "Órgão de proteção de dados investiga vazamento em grande escala no Deutsche Bank"
+    "title_pt": "Órgão de proteção de dados investiga vazamento em grande escala no Deutsche Bank",
+    "summary_pt": "Órgão de proteção de dados investiga vazamento maciço de dados do Deutsche Bank Reuters"
   },
   {
     "title": "Análise: Relatório da Polícia Federal sobre STF não será adjetivado",
@@ -1472,20 +1674,6 @@
     "summary_pt": "Maioria dos consumidores usa tecnologia para encontrar ofertas, mantendo decisão final sob supervisão humana"
   },
   {
-    "title": "Lucas estabelece “limite”, mas segue com futuro indefinido no São Paulo",
-    "summary": "Meia-atacante tem contrato com o clube válido até o final de 2026, mas ainda não avançou em conversas pela renovação; cenário eleitoral no clube dificulta progresso nas conversas",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/lucas-estabelece-limite-mas-segue-com-futuro-indefinido-no-sao-paulo/",
-    "date": "2026-11-18T20:46:33Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Nan-e1795027931406.jpeg?w=200",
-    "title_pt": "Lucas estabelece “limite”, mas segue com futuro indefinido no São Paulo",
-    "summary_pt": "Meia-atacante tem contrato com o clube válido até o final de 2026, mas ainda não avançou em conversas pela renovação; cenário eleitoral no clube dificulta progresso nas conversas"
-  },
-  {
     "title": "Israel launches ground operation in central Gaza, dozens flee",
     "summary": "Israel launches ground operation in central Gaza, dozens flee Reuters",
     "category": "Geral",
@@ -1512,20 +1700,6 @@
     "image": "https://e3.365dm.com/26/11/1920x1080/skynews-islam-mecca_7409895.jpg?20261118210730",
     "title_pt": "Projeta-se que os muçulmanos superem os cristãos em todo o mundo até 2035 – com a maioria no Reino Unido sendo não religiosa até 2070",
     "summary_pt": "Espera-se que o islamismo supere o cristianismo como a maior religião do mundo até 2035, de acordo com projeções detalhadas divulgadas na quarta-feira."
-  },
-  {
-    "title": "Relator da Lei da Dosimetria se reúne com Alexandre de Moraes",
-    "summary": "Relator da Lei da Dosimetria pediu que ações que questionam a norma sejam pautadas ainda neste ano pelo STF; a apuração é do âncora da CNN Gustavo Uribe ao Bastidores CNN",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/politica/relator-da-lei-da-dosimetria-se-reune-com-alexandre-de-moraes/",
-    "date": "2026-11-18T20:41:06Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/55531111375_b4eb595a86_k.jpg?w=200",
-    "title_pt": "Relator da Lei da Dosimetria se reúne com Alexandre de Moraes",
-    "summary_pt": "Relator da Lei da Dosimetria pediu que ações que questionam a norma sejam pautadas ainda neste ano pelo STF; a apuração é do âncora da CNN Gustavo Uribe ao Bastidores CNN"
   },
   {
     "title": "Undoing Brexit",
@@ -1598,34 +1772,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afddda84e-1795022248.jpg?resize=1920%2C1440",
     "title_pt": "Pew Research: O Islã está a caminho de se tornar a maior religião do mundo até 2035",
     "summary_pt": "O relatório projecta aumentos constantes tanto para o Cristianismo como para o Islão de 2020 a 2070."
-  },
-  {
-    "title": "El Niño e o desafio de preparar o sistema elétrico para eventos extremos",
-    "summary": "Em artigo à CNN Infra, Marcio Rea escreve sobre os desafios de preservar a segurança e a confiabilidade do Sistema Interligado Nacional em meio às adversidades climáticas",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/infra/el-nino-como-preparar-a-operacao-do-sistema-eletrico-para-eventos-extremos/",
-    "date": "2026-11-18T20:36:47Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/ons_brasilia_vac_abr_0806220295.webp?w=1170&h=630&crop=1",
-    "title_pt": "El Niño e o desafio de preparar o sistema elétrico para eventos extremos",
-    "summary_pt": "Em artigo à CNN Infra, Marcio Rea escreve sobre os desafios de preservar a segurança e a confiabilidade do Sistema Interligado Nacional em meio às adversidades climáticas"
-  },
-  {
-    "title": "Suspeita de chefiar esquema de fraude fiscal de R$ 1,3 bi é presa em SP",
-    "summary": "Notas falsas geravam créditos indevidos de ICMS sobre operações fictícias no setor de combustíveis; esquema gerou prejuízo aos cofres públicos paulistas",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/suspeita-de-chefiar-esquema-de-fraude-fiscal-de-r-13-bi-e-presa-em-sp/",
-    "date": "2026-11-18T20:33:53Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/whatsapp-image-2026-11-18-at-14-35-38-1-768x1024-1.webp?w=768",
-    "title_pt": "Suspeita de chefiar esquema de fraude fiscal de R$ 1,3 bi é presa em SP",
-    "summary_pt": "Notas falsas geravam créditos indevidos de ICMS sobre operações fictícias no setor de combustíveis; esquema gerou prejuízo aos cofres públicos paulistas"
   },
   {
     "title": "Vídeo, análisis en directo y verificación a tiempo real: así podrás ver el cara a cara entre Sánchez y Feijóo en EL PAÍS",
@@ -1824,20 +1970,6 @@
     "summary_pt": "O presidente Trump está realizando uma reunião de alto risco com o presidente chinês, Xi Jinping, nesta quinta-feira, em meio a um escândalo cada vez maior."
   },
   {
-    "title": "Campeonato Mineiro de 2027 tem datas e rodadas detalhadas; veja tabela",
-    "summary": "Torneio estadual terá início em 3 de janeiro, com três partidas: North x URT, Pouso Alegre x América-MG e Tombense x Democrata; decisão será em 7 de março",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-mineiro/campeonato-mineiro-de-2027-tem-datas-e-rodadas-detalhadas-veja-tabela/",
-    "date": "2026-11-18T20:22:45Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/eduardo-dominguez-barba-atletico-mg-e1784631583636.jpg?w=200",
-    "title_pt": "Campeonato Mineiro de 2027 tem datas e rodadas detalhadas; veja tabela",
-    "summary_pt": "Torneio estadual terá início em 3 de janeiro, com três partidas: North x URT, Pouso Alegre x América-MG e Tombense x Democrata; decisão será em 7 de março"
-  },
-  {
     "title": "Muslims projected to overtake Christians as world’s largest religious group",
     "summary": "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.",
     "category": "Geral",
@@ -1862,8 +1994,8 @@
     "date": "2026-11-18T20:21:22Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Senador republicano Cornyn bloqueia nomeação de juiz de Trump no Texas Reuters",
-    "title_pt": "Senador republicano Cornyn bloqueia nomeação de juiz de Trump no Texas"
+    "title_pt": "Senador republicano Cornyn bloqueia nomeação de juiz de Trump no Texas",
+    "summary_pt": "Senador republicano Cornyn bloqueia nomeação de juiz de Trump no Texas Reuters"
   },
   {
     "title": "Hakeem Jeffries, futur premier président noir de la Chambre des représentants américaine ?",
@@ -1878,34 +2010,6 @@
     "image": "https://img.lemde.fr/2026/11/18/0/0/5887/3925/1440/960/60/0/ab6a6a0_ftp-1-o3nw5msfv3kk-c5bcb7f9537642a891c804ae9b1ece9a-0-15d50fa469aa46efbf541486d7d7c7ff.jpg",
     "title_pt": "Hakeem Jeffries, futuro primeiro presidente negro da Câmara dos Representantes americana?",
     "summary_pt": "A sua eleição prevista para Janeiro teria um peso altamente simbólico, estando o Presidente da Câmara dos Representantes à frente de uma das instituições mais poderosas de Washington e o segundo na ordem de sucessão presidencial, depois do vice-presidente."
-  },
-  {
-    "title": "Petróleo cai mais de 1% após alta nos estoques dos EUA superar expectativas",
-    "summary": "Contratos futuros do Brent fecharam com queda de US$1,19, ou 1,28%, a US$91,95 o barril, e os do WTI dos EUA fecharam com queda de US$2,75, ou 3,2%, a US$83,26, menor nível desde 26 de agosto",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/petroleo-cai-mais-de-1-apos-alta-nos-estoques-dos-eua-superar-expectativas/",
-    "date": "2026-11-18T20:19:35Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/ouro-ia.png?w=200",
-    "title_pt": "Petróleo cai mais de 1% após alta nos estoques dos EUA superar expectativas",
-    "summary_pt": "Contratos futuros do Brent fecharam com queda de US$1,19, ou 1,28%, a US$91,95 o barril, e os do WTI dos EUA fecharam com queda de US$2,75, ou 3,2%, a US$83,26, menor nível desde 26 de agosto"
-  },
-  {
-    "title": "Rihanna celebra 15 anos de álbum e fãs cobram volta aos palcos",
-    "summary": "Cantora está afastada da música há cerca de 10 anos, ano em que lançou sua oitava produção musical, intitulada \"Anti\"",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/pop/musica/rihanna-celebra-15-anos-de-album-e-fas-cobram-volta-aos-palcos/",
-    "date": "2026-11-18T20:19:24Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/zendaya-e-tais-araujo.jpg?w=200",
-    "title_pt": "Rihanna celebra 15 anos de álbum e fãs cobram volta aos palcos",
-    "summary_pt": "Cantora está afastada da música há cerca de 10 anos, ano em que lançou sua oitava produção musical, intitulada \"Anti\""
   },
   {
     "title": "US Pentagon chief Hegseth signs military deal in Venezuela",
@@ -1950,48 +2054,6 @@
     "summary_pt": "Wall Street se prepara para a euforia do IPO da Anthropic, apesar da queda mais ampla das ações de IA Reuters"
   },
   {
-    "title": "“Orçamento está capturado por privilégios”, diz Eduardo Leite à CNN",
-    "summary": "Governador gaúcho questionou medidas financeiras do Executivo e Legislativo nacionais que geram impactos a administrações estaduais e empresas",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/politica/orcamento-esta-capturado-por-privilegios-diz-eduardo-leite-a-cnn/",
-    "date": "2026-11-18T20:15:40Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/durigan-3.jpg?w=200",
-    "title_pt": "“Orçamento está capturado por privilégios”, diz Eduardo Leite à CNN",
-    "summary_pt": "Governador gaúcho questionou medidas financeiras do Executivo e Legislativo nacionais que geram impactos a administrações estaduais e empresas"
-  },
-  {
-    "title": "Crise do BB vai mudar acesso ao crédito rural, diz diretor do Santander",
-    "summary": "Carlos Aguiar, diretor de Agronegócios do Banco Santander no Brasil, prevê financiamento mais seletivo e execução de terras diante de endividamento do setor",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/agro/crise-do-bb-vai-mudar-tomada-de-recursos-no-agro-do-brasil-diz-santander/",
-    "date": "2026-11-18T20:14:36Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/ChatGPT-Image-26-de-mai.-de-2026-13_28_54.png?w=200",
-    "title_pt": "Crise do BB vai mudar acesso ao crédito rural, diz diretor do Santander",
-    "summary_pt": "Carlos Aguiar, diretor de Agronegócios do Banco Santander no Brasil, prevê financiamento mais seletivo e execução de terras diante de endividamento do setor"
-  },
-  {
-    "title": "À CNN, OCB defende garantia do ato cooperativo na reforma tributária",
-    "summary": "À CNN, Tânia Zanella destacou que o setor está atento às mudanças e não espera adiamento da matéria; na avaliação da executiva, a alteração evidencia que o cooperativismo não terá benefícios tributários",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/agro/a-cnn-ocb-defende-garantia-do-ato-cooperativo-na-reforma-tributaria/",
-    "date": "2026-11-18T20:14:12Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/09/1920x1080-1-e1742247481880.png?w=200",
-    "title_pt": "À CNN, OCB defende garantia do ato cooperativo na reforma tributária",
-    "summary_pt": "À CNN, Tânia Zanella destacou que o setor está atento às mudanças e não espera adiamento da matéria; na avaliação da executiva, a alteração evidencia que o cooperativismo não terá benefícios tributários"
-  },
-  {
     "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
     "summary": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
     "category": "Geral",
@@ -2004,20 +2066,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afdcf24-1795018532.jpg?resize=1920%2C1440",
     "title_pt": "Legisladores dos EUA lançam investigação sobre as ações de Lutnick em meio ao escândalo da Nvidia",
     "summary_pt": "A carta alega possível conflito de interesses no fato de o secretário de comércio não adicionar Megaspeed à lista negra comercial dos EUA."
-  },
-  {
-    "title": "Análise: Dólar a R$ 5,80 reflete ceticismo do mercado ao pacote fiscal",
-    "summary": "No CNN 360°, Lucinda Pinto analisa a pressão sobre o real e o pessimismo dos investidores diante do pacote fiscal do governo Lula",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/analise-dolar-a-r-580-reflete-ceticismo-do-mercado-ao-pacote-fiscal/",
-    "date": "2026-11-18T20:13:47Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/09/GettyImages-1051845146.jpg?w=200",
-    "title_pt": "Análise: Dólar a R$ 5,80 reflete ceticismo do mercado ao pacote fiscal",
-    "summary_pt": "No CNN 360°, Lucinda Pinto analisa a pressão sobre o real e o pessimismo dos investidores diante do pacote fiscal do governo Lula"
   },
   {
     "title": "Trump and Putin to meet one-on-one in China Thursday",
@@ -2498,6 +2546,18 @@
     "summary_pt": "Nessas diferentes eleições, não foi a personalidade dos candidatos da oposição, nem suas plataformas, que prevaleceram, mas, em primeiro lugar, a rejeição fervorosa ao lado dos governantes, autoritários e corruptos."
   },
   {
+    "title": "Hegseth makes surprise trip to Venezuela, renews military cooperation",
+    "summary": "US Defence Secretary Pete Hegseth made an unannounced visit to Caracas on Wednesday, announcing a resumption of military cooperation with Venezuela and vowing to crack down on drug traffickers. The trip marks the highest-level US visit since the ouster of Nicolas Maduro in January, signalling a dramatic shift in relations between the two countries.",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "FR",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/americas/20261118-hegseth-makes-surprise-trip-to-venezuela-renews-military-cooperation",
+    "date": "2026-11-18T18:59:20Z",
+    "lang": "en",
+    "image": "https://s.france24.com/media/display/2904ad80-e382-11f1-9862-c5c0357b2a0c/w:1024/p:16x9/599f3f4f72051259cd9b18e30eeb84323754b49b.jpg"
+  },
+  {
     "title": "William and Kate meet India's PM as they wrap up royal visit",
     "summary": "The Prince and Princess of Wales met the prime minister of India on Wednesday to discuss trade and bilateral ‌ties at the end of their three-day visit to the country.",
     "category": "Geral",
@@ -2594,8 +2654,8 @@
     "date": "2026-11-18T18:36:44Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Oligarca russo Potanin luta contra pedido de divórcio de sua ex-esposa no Reino Unido, que envolve bilhões de libras, segundo a Reuters",
-    "title_pt": "Oligarca russo Potanin luta contra pedido de divórcio de sua ex-esposa no Reino Unido, que envolve bilhões de libras"
+    "title_pt": "Oligarca russo Potanin luta contra pedido de divórcio de sua ex-esposa no Reino Unido, que envolve bilhões de libras",
+    "summary_pt": "Oligarca russo Potanin luta contra pedido de divórcio de sua ex-esposa no Reino Unido, que envolve bilhões de libras, segundo a Reuters"
   },
   {
     "title": "Sánchez, en Antena 3: “Absoluta tranquilidad, el PSOE no se ha financiado irregularmente”",
@@ -2664,8 +2724,8 @@
     "date": "2026-11-18T18:29:46Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "À medida que as críticas aumentam, o governo Trump afirma que as interrupções tecnológicas não foram coordenadas Reuters",
-    "title_pt": "À medida que as críticas aumentam, o governo Trump afirma que as interrupções tecnológicas não foram coordenadas"
+    "title_pt": "À medida que as críticas aumentam, o governo Trump afirma que as interrupções tecnológicas não foram coordenadas",
+    "summary_pt": "À medida que as críticas aumentam, o governo Trump afirma que as interrupções tecnológicas não foram coordenadas Reuters"
   },
   {
     "title": "Israel launches new ground operation in Gaza",
@@ -3200,8 +3260,8 @@
     "date": "2026-11-18T17:14:26Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "As opções da Anthropic podem começar a ser negociadas na segunda-feira, com expectativa de atrair uma forte demanda Reuters",
-    "title_pt": "As opções da Anthropic podem começar a ser negociadas na segunda-feira, com expectativa de atrair uma forte demanda"
+    "title_pt": "As opções da Anthropic podem começar a ser negociadas na segunda-feira, com expectativa de atrair uma forte demanda",
+    "summary_pt": "As opções da Anthropic podem começar a ser negociadas na segunda-feira, com expectativa de atrair uma forte demanda Reuters"
   },
   {
     "title": "What makes 'Grand Theft Auto VI' more than just a game?",
@@ -3270,8 +3330,8 @@
     "date": "2026-11-18T17:04:11Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Bulgária descobre operação de ciberespionagem de cinco anos Reuters",
-    "title_pt": "Bulgária descobre operação de ciberespionagem de cinco anos"
+    "title_pt": "Bulgária descobre operação de ciberespionagem de cinco anos",
+    "summary_pt": "Bulgária descobre operação de ciberespionagem de cinco anos Reuters"
   },
   {
     "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
@@ -3634,8 +3694,8 @@
     "date": "2026-11-18T16:13:56Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Os pedidos de patentes globais atingiram um recorde em 2025, com a China impulsionando o crescimento, diz agência da ONU à Reuters",
-    "title_pt": "Os pedidos de patentes globais atingiram um recorde em 2025, com a China impulsionando o crescimento, segundo agência da ONU"
+    "title_pt": "Os pedidos de patentes globais atingiram um recorde em 2025, com a China impulsionando o crescimento, segundo agência da ONU",
+    "summary_pt": "Os pedidos de patentes globais atingiram um recorde em 2025, com a China impulsionando o crescimento, diz agência da ONU à Reuters"
   },
   {
     "title": "Storms Bruna and Charles bring record rain and winds to Portugal and Madeira",
@@ -4059,20 +4119,6 @@
     "summary_pt": "Tony Dokoupil faz uma reportagem da China com Anna Coren, que analisa a revolução da robótica na China, impulsionada por uma população em rápido declínio. Tony Dokoupil também faz uma reportagem."
   },
   {
-    "title": "Alcaraz, un día y tres giros: otro recital, un señor susto y las dulces semifinales",
-    "summary": "El murciano logra ante Medvedev su segunda victoria (6-2 y 6-4) y, tras sufrir un percance muscular, certifica el pase gracias al triunfo de Tiafoe frente a Cobolli",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/deportes/tenis/2026-11-18/alcaraz-mas-y-mejor-contra-medvedev-con-susto-incluido-en-la-pierna.html",
-    "date": "2026-11-18T15:25:30Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/2V27HI4RP5K4RAZYY63N55INTI.jpg?auth=ffd4a7be28c9f80b7cc15b28b47684cc721e4f3ee1c6a0ed751f4575626f3047",
-    "title_pt": "Alcaraz, um dia e três reviravoltas: outro recital, um susto e as doces semifinais",
-    "summary_pt": "O tenista de Múrcia conquista sua segunda vitória sobre Medvedev (6-2 e 6-4) e, após sofrer um problema muscular, garante sua classificação graças à vitória de Tiafoe sobre Cobolli."
-  },
-  {
     "title": "Putin exhibe su maletín nuclear y sus bombarderos antes de su encuentro con Xi Jinping y Trump",
     "summary": "Un asistente muestra a las cámaras el maletín negro del presidente ruso y dos Tu-95MS cruzan Asia horas después de la destrucción parcial del puente de Crimea",
     "category": "Geral",
@@ -4311,20 +4357,6 @@
     "summary_pt": "O presidente Xi Jinping cumprimentou pessoalmente o homólogo dos EUA, Donald Trump, na pista de um aeroporto chinês na quarta-feira, com os dois líderes se abraçando brevemente antes do tão aguardado encontro com o russo Vladimir Putin. Reportando de Shenzhen, Jan Camenzind Broomby, do France 24, diz que a calorosa saudação foi um \"grande sinal de respeito\" de Xi, mas também um cálculo."
   },
   {
-    "title": "Xi welcomes Trump to China ahead of high-stakes Putin meeting",
-    "summary": "President Xi Jinping personally greeted US counterpart Donald Trump on the tarmac at a Chinese airport on Wednesday, with the two leaders briefly hugging ahead of their highly anticipated meeting with Russia's Vladimir Putin. Beijing has indicated the war in Ukraine will not be discussed during the trilateral meeting, but Trump had said the conflict would fi",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261118-xi-welcomes-trump-to-china-ahead-of-high-stakes-putin-meeting",
-    "date": "2026-11-18T14:52:39Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/3a938192-e35b-11f1-9d9c-1ba7ddfab527/w:1024/p:16x9/EN-20261118-143132-143324-CS.jpg",
-    "title_pt": "Xi dá as boas-vindas a Trump na China antes da reunião de alto risco com Putin",
-    "summary_pt": "O presidente Xi Jinping cumprimentou pessoalmente o homólogo dos EUA, Donald Trump, na pista de um aeroporto chinês na quarta-feira, com os dois líderes se abraçando brevemente antes do tão aguardado encontro com o russo Vladimir Putin. Pequim indicou que a guerra na Ucrânia não será discutida durante a reunião trilateral, mas Trump disse que o conflito iria acabar."
-  },
-  {
     "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
     "summary": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations Reuters",
     "category": "Geral",
@@ -4337,20 +4369,6 @@
     "image": "",
     "title_pt": "UE propõe empréstimo de 45 mil milhões de euros à Ucrânia, a ser reembolsado depois de a Rússia pagar reparações",
     "summary_pt": "UE propõe empréstimo de 45 mil milhões de euros à Ucrânia, a ser reembolsado depois de a Rússia pagar reparações Reuters"
-  },
-  {
-    "title": "Three leaders, three agendas: Who wants what from Xi-Trump-Putin summit?",
-    "summary": "Be it curbing arms sales to Taiwan, bouncing back after a midterms shellacking, or the optics of a place at the table with the world's two superpowers, Xi Jinping, Donald Trump and Vladimir Putin are approaching their trilateral meeting in Shenzhen with starkly different aims and agendas. Here's a look at what the Chinese, US and Russian leaders are hoping f",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/asia-pacific/20261118-three-leaders-three-agendas-who-wants-what-from-xi-trump-putin-summit",
-    "date": "2026-11-18T14:52:08Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/846f8b30-e35b-11f1-9492-c5c0357b2a0c/w:1024/p:16x9/AP26316475308509.jpg",
-    "title_pt": "Três líderes, três agendas: quem quer o quê da cimeira Xi-Trump-Putin?",
-    "summary_pt": "Seja na redução das vendas de armas a Taiwan, na recuperação após um bombardeamento a meio do mandato, ou na perspectiva de um lugar à mesa com as duas superpotências mundiais, Xi Jinping, Donald Trump e Vladimir Putin estão a abordar a sua reunião trilateral em Shenzhen com objectivos e agendas totalmente diferentes. Aqui está uma olhada no que os líderes chineses, norte-americanos e russos esperam"
   },
   {
     "title": "Has the 'Parthenon puzzle' been solved? The long quest to reassemble lost eastern pediment",
@@ -4409,20 +4427,6 @@
     "summary_pt": "EXCLUSIVO: Sauditas se preparam para campanha no Iêmen durar até 2027 Reuters"
   },
   {
-    "title": "US strikes Iranian island after Tehran targets Bahrain",
-    "summary": "The US and Iran exchanged fire on Tuesday, with the US striking an Iranian missile launch site after Iran said it targeted a US military radar system in Bahrain, despite talks between Iran and mediators Oman and Qatar.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261118-us-strikes-iranian-island-after-tehran-targets-bahrain",
-    "date": "2026-11-18T14:43:25Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/07d88a16-e358-11f1-bdc2-6d75ed565170/w:1024/p:16x9/EN-20261118-140710-140916-CS.jpg",
-    "title_pt": "EUA atacam ilha iraniana depois que Teerã ataca Bahrein",
-    "summary_pt": "Os EUA e o Irão trocaram tiros na terça-feira, com os EUA a atacarem um local de lançamento de mísseis iraniano depois de o Irão ter dito que tinha como alvo um sistema de radar militar dos EUA no Bahrein, apesar das conversações entre o Irão e os mediadores Omã e Qatar."
-  },
-  {
     "title": "Presidente do México vai à China em voo comercial, cumprimenta passageiros e viraliza no país asiático; VÍDEO",
     "summary": "Presidente do México compartilha roteiro de viagem à China em aeroporto A presidente do México, Claudia Sheinbaum, viralizou na rede social chinesa Weibo após usuários elogiarem sua decisão de viajar para a cúpula da Cooperação Econômica Ásia-Pacífico (APEC), em Shenzhen, em um voo comercial. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp 🌏 O ev",
     "category": "Geral",
@@ -4449,20 +4453,6 @@
     "image": "https://images.euronews.com/articles/stories/09/99/80/55/696x392_cmsv2_4dbe3556-957c-52cb-b065-81e1b1a83ebb-9998055.jpg",
     "title_pt": "A contagem regressiva do GTA 6 começa com outdoors subindo de Tóquio a Sydney",
     "summary_pt": "A febre do GTA VI atinge a Austrália, o Japão e a Nova Zelândia antes do seu lançamento em 19 de novembro, com downloads recordes esperados."
-  },
-  {
-    "title": "Why are measles cases soaring in the US?",
-    "summary": "The United States has lost its long-held status of having eradicated measles as cases of the dangerous and highly contagious virus soar around the country. It follows accusations by medical experts that US President Donald Trump and his health secretary, noted vaccine skeptic Robert F. Kennedy Jr, have fanned distrust in vaccinations, leading to an decline o",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261118-why-are-measles-cases-soaring-in-the-us",
-    "date": "2026-11-18T14:36:26Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/d086f710-e356-11f1-a28f-c5c0357b2a0c/w:1024/p:16x9/EN-20261118-133556-133808-CS.jpg",
-    "title_pt": "Por que os casos de sarampo estão aumentando nos EUA?",
-    "summary_pt": "Os Estados Unidos perderam o estatuto de erradicação do sarampo, à medida que os casos do vírus perigoso e altamente contagioso aumentam em todo o país. Isso segue acusações de especialistas médicos de que o presidente dos EUA, Donald Trump, e seu secretário de saúde, o famoso cético em relação às vacinas, Robert F. Kennedy Jr, alimentaram a desconfiança nas vacinas, levando a um declínio"
   },
   {
     "title": "Uno de cada tres bebés nacidos en 2025 en España tiene una madre de origen extranjero",
@@ -4783,8 +4773,8 @@
     "date": "2026-11-18T13:51:22Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Tribunal Superior da Espanha abre investigação sobre alegações de mulheres contra Julio Iglesias Reuters",
-    "title_pt": "Tribunal Superior da Espanha abre investigação sobre alegações de mulheres contra Julio Iglesias"
+    "title_pt": "Tribunal Superior da Espanha abre investigação sobre alegações de mulheres contra Julio Iglesias",
+    "summary_pt": "Tribunal Superior da Espanha abre investigação sobre alegações de mulheres contra Julio Iglesias Reuters"
   },
   {
     "title": "Putin says EU's Russian energy ban caused a 'humiliating' fall in EU living standards",
@@ -4797,8 +4787,8 @@
     "date": "2026-11-18T13:50:10Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Putin diz que a proibição energética da UE na Rússia causou uma queda “humilhante” nos padrões de vida da UE Reuters",
-    "title_pt": "Putin diz que a proibição energética da UE na Rússia causou uma queda “humilhante” nos padrões de vida da UE"
+    "title_pt": "Putin diz que a proibição energética da UE na Rússia causou uma queda “humilhante” nos padrões de vida da UE",
+    "summary_pt": "Putin diz que a proibição energética da UE na Rússia causou uma queda “humilhante” nos padrões de vida da UE Reuters"
   },
   {
     "title": "Leaders of China and Japan Meet Amid Political Feud",
@@ -5091,8 +5081,8 @@
     "date": "2026-11-18T12:36:03Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Conselho de Paz de Trump culpa Israel e Hamas por não terem conseguido acabar com a guerra em Gaza Reuters",
-    "title_pt": "Conselho de Paz de Trump culpa Israel e Hamas por não terem conseguido acabar com a guerra em Gaza"
+    "title_pt": "Conselho de Paz de Trump culpa Israel e Hamas por não terem conseguido acabar com a guerra em Gaza",
+    "summary_pt": "Conselho de Paz de Trump culpa Israel e Hamas por não terem conseguido acabar com a guerra em Gaza Reuters"
   },
   {
     "title": "Russian military aircraft deployment sends potent message to Asia",
@@ -5105,8 +5095,8 @@
     "date": "2026-11-18T12:34:50Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Implantação de aeronaves militares russas envia mensagem poderosa à Ásia Reuters",
-    "title_pt": "A implantação de aeronaves militares russas envia uma mensagem poderosa à Ásia"
+    "title_pt": "A implantação de aeronaves militares russas envia uma mensagem poderosa à Ásia",
+    "summary_pt": "Implantação de aeronaves militares russas envia mensagem poderosa à Ásia Reuters"
   },
   {
     "title": "Los gamberros la toman con las tenazas del diablillo de Segovia",
@@ -5399,8 +5389,8 @@
     "date": "2026-11-18T11:38:38Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "A votação do presidente dá aos democratas progressistas a chance de desabafar sobre Hakeem Jeffries Reuters",
-    "title_pt": "A votação do presidente dá aos democratas progressistas a chance de desabafar sobre Hakeem Jeffries"
+    "title_pt": "A votação do presidente dá aos democratas progressistas a chance de desabafar sobre Hakeem Jeffries",
+    "summary_pt": "A votação do presidente dá aos democratas progressistas a chance de desabafar sobre Hakeem Jeffries Reuters"
   },
   {
     "title": "Com accedir als beneficis per a famílies nombroses i monoparentals",
@@ -6095,7 +6085,7 @@
   {
     "title": "Security flaw found in Java, world's third-largest programming language",
     "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6795,7 +6785,7 @@
   {
     "title": "Waymo pulls driverless taxis from all US freeways",
     "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6923,7 +6913,7 @@
   {
     "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
     "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
