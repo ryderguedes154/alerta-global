@@ -1,9 +1,22 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T17:23:56.166048Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-18T17:29:14.957141Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Xi diz que a Ásia-Pacífico precisa de comércio aberto e Putin condena sanções enquanto Trump chega à China",
+      "summary": "SHENZHEN, China (AP) - A Ásia-Pacífico deve buscar um comércio mais aberto e um crescimento equitativo se quiser permanecer estável e dinâmico, disse o presidente chinês, Xi Jinping, a executivos de negócios reunidos na quarta-feira no centro tecnológico e financeiro de Shenzhen, no sul da China, à margem do anual ...",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/apec-china-economy-trump-putin-ai-1e3b6161b31196c9716ca02ac8c7720c?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+      "published_on": "18/11/2026 01:20 (Boa Vista)",
+      "image": "https://ic-cdn.flipboard.com/apnews.com/723421dfbe72cca1570446c866d2e78aa3cf8979/_large.webp",
+      "selection": "automatic"
+    },
     {
       "title": "Dentro do antigo gasoduto onde a Ucrânia trava uma guerra subterrânea com a Rússia",
       "summary": "Assista: Jonathan Beale, da BBC, junta-se às forças ucranianas que travaram a batalha no subsolo e fora da vista dos drones russos.",
@@ -31,16 +44,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
-      "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
+      "title": "Pescadores equatorianos que sobreviveram a ataque de barco nos EUA processam administração Trump",
+      "summary": "O primeiro processo movido por sobreviventes do ataque tem como alvo uma campanha militar secreta dos EUA que já matou mais de 240 pessoas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
+      "category": "Conflitos",
       "region": "Global",
       "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-      "published_on": "18/11/2026 13:03 (Boa Vista)",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
+      "published_on": "18/11/2026 13:21 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-boat-srikes-lawsuit-jvkc/17int-boat-srikes-lawsuit-jvkc-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
@@ -54,19 +67,6 @@
       "url": "https://www.france24.com/en/video/20261118-war-in-ukraine-is-france-in-direct-conflict-with-russia",
       "published_on": "18/11/2026 12:57 (Boa Vista)",
       "image": "https://s.france24.com/media/display/8cecea6e-e36a-11f1-b640-7908c4e1a3c7/w:1024/p:16x9/French-troops-Ukraine-10.png",
-      "selection": "automatic"
-    },
-    {
-      "title": "Kuwait e Bahrein enfrentam novos ataques do Irã após ataque dos EUA na Ilha Qeshm",
-      "summary": "Os ataques iranianos aos países do Golfo atraem a condenação de toda a região.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
-      "published_on": "18/11/2026 12:47 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T071442Z_913088351_RC27QOA8QSRZ_RTRMADP_3_IRAN-CRISIS-1795018749.jpg?resize=1200%2C630",
       "selection": "automatic"
     },
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Preços da soja dependem do clima no Brasil e de compras da China",
-      "summary": "Relatório do Itaú BBA indica que o bom avanço do plantio no país e a demanda chinesa ditarão o ritmo das cotações da oleaginosa",
+      "title": "Sinais ‘chocantes’ de mudanças climáticas acrescentam urgência às negociações da COP31",
+      "summary": "Do Ártico aos trópicos, o clima incomum e o calor extremo estão a suscitar preocupações sobre a rapidez com que os humanos estão a remodelar os processos naturais da Terra.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Clima e desastres",
       "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/agro/precos-da-soja-dependem-do-clima-no-brasil-e-de-compras-da-china/",
-      "published_on": "18/11/2026 12:58 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/ChatGPT-Image-26-de-mar.-de-2026-09_39_47.png?w=200",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
+      "published_on": "18/11/2026 13:24 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-cop31-disruption3-vqwl/18cli-cop31-disruption3-vqwl-mediumSquareAt3X.jpg",
       "selection": "automatic"
     }
   ]
