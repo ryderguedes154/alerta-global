@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-18T14:16:54.655Z",
+  "updated_at": "2026-11-18T16:28:40.585Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Ataques de drones reduzem em cerca de 45% o refino diário de petróleo da Rússia",
+      "summary": "Segundo duas fontes do setor ouvidas pela Reuters em 18 de novembro, ataques ucranianos reduziram o processamento diário de petróleo nas refinarias russas de mais de 700 mil para cerca de 400 mil toneladas desde o fim de outubro. O percentual é uma estimativa das fontes, não uma medição oficial verificada independentemente.",
+      "impact_br": "A redução pode afetar a oferta internacional de combustíveis e seus preços, com efeitos indiretos possíveis no Brasil; não há impacto direto confirmado.",
+      "category": "energia",
+      "region": "Europa Oriental",
+      "country": "RU",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/drone-attacks-nearly-halve-russias-november-oil-refining-sources-say-2026-11-18/",
+      "published_on": "2026-11-18",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-18T16:28:40.585Z"
+    },
     {
       "title": "OPAS confirma retorno da transmissão endêmica de sarampo nos EUA, México e Bolívia",
       "summary": "A Organização Pan-Americana da Saúde confirmou em 17 de novembro que EUA, México e Bolívia perderam o status de eliminação do sarampo após ao menos 12 meses de transmissão contínua. A decisão evidencia retrocesso na proteção sanitária regional; vacinação e vigilância são essenciais.",
