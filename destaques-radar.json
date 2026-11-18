@@ -1,8 +1,8 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T20:42:17.080350Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-18T20:47:58.888672Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi diz que a Ásia-Pacífico precisa de comércio aberto e Putin condena sanções enquanto Trump chega à China",
@@ -44,6 +44,32 @@
       "selection": "automatic"
     },
     {
+      "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
+      "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+      "published_on": "18/11/2026 16:43 (Boa Vista)",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "O que o ataque à ponte da Crimeia significa para a Rússia",
+      "summary": "O mais recente ataque da Ucrânia à Ponte de Quérquen interrompeu uma importante ligação de transporte entre a Rússia e a Crimeia. Além dos danos, o ataque pode ter sérias consequências para a logística militar russa e para o prestígio de Putin.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "DE",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/what-the-crimean-bridge-attack-means-for-russia/a-79985991?maca=en-rss-en-all-1573-rdf",
+      "published_on": "18/11/2026 16:30 (Boa Vista)",
+      "image": "https://static.dw.com/image/79968219_6.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Quatro pessoas mortas em ataques russos a Odessa, na Ucrânia",
       "summary": "Pelo menos quatro pessoas foram mortas e outras treze ficaram feridas após ataques russos atingirem a cidade portuária ucraniana de Odessa.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,32 +80,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
       "published_on": "18/11/2026 15:31 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795030284.jpg?resize=1920%2C1080&quality=80",
-      "selection": "automatic"
-    },
-    {
-      "title": "Irã diz que responderá a futuros ataques sem “restrições geográficas”",
-      "summary": "Também nesta quarta-feira (18), o Diretor de Inteligência Nacional americano, Jay Clayton, afirmou que as ameaças do Irã contra americanos, tanto dentro quanto fora dos Estados Unidos, aumentaram substancialmente",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/ira-diz-que-respondera-a-futuros-ataques-sem-restricoes-geograficas/",
-      "published_on": "18/11/2026 15:31 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/Captura-de-tela-2026-07-29-234309.png?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
-      "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-      "published_on": "18/11/2026 15:00 (Boa Vista)",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
       "selection": "automatic"
     },
     {
