@@ -1,8 +1,8 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T22:58:09.894464Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-18T23:03:16.125656Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataques da Ucrânia reduzem em 45% o refino de petróleo russo em novembro",
@@ -57,6 +57,19 @@
       "selection": "automatic"
     },
     {
+      "title": "EUA afirmam que nenhum militar americano ficou ferido em ataques do Irã",
+      "summary": "Teerã afirmou ter atacado instalações de drones e mísseis dos EUA no Kuwait durante a madrugada, após Washington atingir a ilha de Qeshm, no Estreito de Ormuz",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/eua-afirmam-que-nenhum-militar-americano-ficou-ferido-em-ataques-do-ira/",
+      "published_on": "18/11/2026 18:30 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/estados-unidos-ataca-o-ira.png?w=200",
+      "selection": "automatic"
+    },
+    {
       "title": "Ataque à ponte na Crimeia: verificação de vídeos falsos sobre danos após o ataque da Ucrânia",
       "summary": "A Ucrânia atingiu a ponte Kerch que liga a Rússia à Crimeia ocupada, mas nem todas as imagens dramáticas que circulam online são reais. Vários vídeos gerados por IA mostram falsamente a ponte desabou com grandes danos. Alguns até usaram uma marca semelhante a uma agência de notícias ucraniana para parecerem credíveis. Embora a ponte tenha sido de fato atingi",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -67,19 +80,6 @@
       "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20261118-crimea-bridge-strike-fact-checking-fake-videos-of-damage-after-ukraine-s-attack",
       "published_on": "18/11/2026 17:51 (Boa Vista)",
       "image": "https://s.france24.com/media/display/1e5b1bea-e39a-11f1-83bd-6d75ed565170/w:1024/p:16x9/kerch.png",
-      "selection": "automatic"
-    },
-    {
-      "title": "Nos EUA, chefe da espionagem de Israel defendeu ataques ao Irã, diz fonte",
-      "summary": "Primeiro-ministro israelense, Benjamin Netanyahu, acredita que oportunidade para nova ofensiva está acabando, segundo pessoas ouvidas pela Reuters",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/nos-eua-chefe-da-espionagem-de-israel-defendeu-ataques-ao-ira-diz-fonte/",
-      "published_on": "18/11/2026 17:26 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2025binary_LYNXMPEL5C0LG-BASEIMAGE.jpg?w=200",
       "selection": "automatic"
     },
     {
