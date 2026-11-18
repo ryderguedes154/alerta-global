@@ -63,6 +63,9 @@ USAR_IMAGEM_DA_MATERIA = _env("USAR_IMAGEM_DA_MATERIA", "sim").lower() in SIM
 USAR_CLAUDE = _env("USAR_CLAUDE", "sim").lower() in SIM
 COR_DE_FUNDO = _env("COR_DE_FUNDO", "#1a1a2e")  # usada quando não há imagem da matéria
 HASHTAGS_FIXAS = _env("HASHTAGS_FIXAS")  # ex: "#noticias #minhacidade"
+INSTAGRAM_USUARIO = _env("INSTAGRAM_USUARIO", "@radaryder154")  # aparece no rodapé da imagem
+ARQ_LOGO = PASTA / "logo.jpg"  # logo redonda no canto superior esquerdo (se existir)
+LARANJA = (255, 122, 26)
 
 # Caminho 1: Make.com (o Make publica no Instagram). Basta o endereço do webhook do cenário.
 MAKE_WEBHOOK_URL = _env("MAKE_WEBHOOK_URL")
@@ -254,6 +257,18 @@ def cortar_para_preencher(img, largura, altura):
     return img.crop((esq, topo, esq + largura, topo + altura))
 
 
+def colocar_logo(img, x, y, tamanho):
+    """Cola a logo recortada em círculo, com uma borda branca fina."""
+    if not ARQ_LOGO.exists():
+        return
+    logo = Image.open(ARQ_LOGO).convert("RGBA").resize((tamanho, tamanho), Image.LANCZOS)
+    mascara = Image.new("L", (tamanho, tamanho), 0)
+    ImageDraw.Draw(mascara).ellipse([0, 0, tamanho - 1, tamanho - 1], fill=255)
+    borda = 6
+    ImageDraw.Draw(img).ellipse([x - borda, y - borda, x + tamanho + borda, y + tamanho + borda], fill="white")
+    img.paste(logo, (x, y), mascara)
+
+
 def gerar_imagem(noticia, foto, destino):
     titulo = noticia["titulo"]
     if foto is not None:
@@ -287,21 +302,28 @@ def gerar_imagem(noticia, foto, destino):
         y += altura_linha
 
     fonte_pequena = carregar_fonte(32)
-    if NOME_DO_SITE:
-        desenho.text((margem, ALTURA - margem - 30), NOME_DO_SITE.upper(), font=fonte_pequena, fill=(255, 210, 0))
+    rodape = INSTAGRAM_USUARIO or (NOME_DO_SITE or "").upper()
+    if rodape:
+        desenho.text((margem, ALTURA - margem - 30), rodape, font=fonte_pequena, fill=LARANJA)
     if noticia.get("fonte"):
         credito = f"Fonte: {noticia['fonte']}"
         largura_credito = desenho.textlength(credito, font=fonte_pequena)
         desenho.text((LARGURA - margem - largura_credito, ALTURA - margem - 30), credito,
                      font=fonte_pequena, fill=(220, 220, 220))
 
-    # Etiqueta da categoria no topo (ex: CONFLITOS)
+    # Logo redonda no canto superior esquerdo, com borda branca
+    colocar_logo(img, margem - 20, margem - 20, 170)
+
+    # Etiqueta da categoria no canto superior direito (ex: CONFLITOS)
     categoria = (noticia.get("categoria") or "").upper()
     if categoria and categoria != "GERAL":
         caixa = desenho.textbbox((0, 0), categoria, font=fonte_pequena)
         w, h = caixa[2] - caixa[0], caixa[3] - caixa[1]
-        desenho.rectangle([margem, margem, margem + w + 36, margem + h + 30], fill=(220, 30, 50))
-        desenho.text((margem + 18, margem + 15 - caixa[1]), categoria, font=fonte_pequena, fill="white")
+        x1 = LARGURA - margem
+        x0 = x1 - w - 44
+        y0 = margem + 45
+        desenho.rounded_rectangle([x0, y0, x1, y0 + h + 30], radius=(h + 30) // 2, fill=LARANJA)
+        desenho.text((x0 + 22, y0 + 15 - caixa[1]), categoria, font=fonte_pequena, fill="white")
 
     destino.parent.mkdir(parents=True, exist_ok=True)
     img.convert("RGB").save(destino, "JPEG", quality=90)  # o Instagram só aceita JPEG
