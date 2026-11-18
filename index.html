@@ -677,6 +677,21 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300..1000&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="./portal-claro.css?v=20261117-logo-mobile-v4">
+<style>
+/* Páginas por aba: cada item do menu abre uma página própria (#economia, #mundo...) */
+.ag-hidden{display:none!important}
+.ag-page-head{margin:6px 0 22px;padding:22px 24px;border:1px solid #e7e8ec;border-left:5px solid #e3273c;border-radius:14px;background:#fff;color:#1b2330}
+.ag-page-head small{display:block;color:#d7253a;font-weight:800;font-size:11px;letter-spacing:.08em;text-transform:uppercase;margin-top:8px}
+.ag-page-head h1{margin:4px 0 6px;font-size:clamp(24px,3.2vw,34px);line-height:1.15;color:#141b26}
+.ag-page-head p{margin:0;color:#5b6573;font-size:14px;max-width:70ch}
+.ag-crumbs{font-size:12px;color:#7a8492}
+.ag-crumbs a{color:#7a8492;text-decoration:none}
+.ag-crumbs a:hover{color:#d7253a;text-decoration:underline}
+.portal-primary-nav a.is-active{color:#d7253a;border-bottom-color:#e3273c}
+body.ag-subpage .portal-primary-nav a.is-home:not(.is-active):not(:hover){color:#333b45;border-bottom-color:transparent}
+body.ag-category-page #news{display:none}
+@media (max-width:600px){.ag-page-head{padding:16px;margin-bottom:16px}}
+</style>
 </head>
 <body>
 <!-- Alerta Global — portal jornalístico claro, 2026 -->
@@ -691,7 +706,7 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
  </div>
  <nav class="portal-primary-nav" aria-label="Navegação principal">
   <div class="portal-width portal-nav-scroll">
-   <a href="#overview" class="is-home">⌂ Início</a><a href="#agora">Últimas notícias</a><a href="#radar">Mundo</a><a href="#curadoria">Alertas ChatGPT</a><a href="#news" data-portal-category="Economia">Economia</a><a href="#news" data-portal-category="Tecnologia">Tecnologia</a><a href="#news" data-portal-category="Saúde">Saúde</a><a href="#historico">Histórico</a>
+   <a href="#overview" class="is-home" data-page-link="overview">⌂ Início</a><a href="#agora" data-page-link="agora">Últimas notícias</a><a href="#radar" data-page-link="radar">Mundo</a><a href="#curadoria" data-page-link="curadoria">Alertas ChatGPT</a><a href="#economia" data-page-link="economia">Economia</a><a href="#tecnologia" data-page-link="tecnologia">Tecnologia</a><a href="#saude" data-page-link="saude">Saúde</a><a href="#historico" data-page-link="historico">Histórico</a>
   </div>
  </nav>
 </header>
@@ -737,6 +752,7 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
 
 <div class="share-modal" id="shareModal" role="dialog" aria-modal="true" aria-label="Compartilhar Alerta Global" hidden><div class="share-panel"><button class="share-close" id="shareClose" type="button" aria-label="Fechar">×</button><h2 id="shareDialogTitle">Compartilhe o Alerta Global 🌍</h2><p id="shareDialogDescription">Envie o link do Radar Mundial para seus contatos pelos aplicativos que você utiliza.</p><div class="share-options"><a id="shareWhatsApp" target="_blank" rel="noopener noreferrer">🟢 WhatsApp</a><button type="button" id="shareNative">📲 Outros aplicativos</button><button type="button" id="shareInstagram">📸 Instagram</button><a id="shareFacebook" target="_blank" rel="noopener noreferrer">Facebook</a><a id="shareX" target="_blank" rel="noopener noreferrer">X / Twitter</a><a id="shareTelegram" target="_blank" rel="noopener noreferrer">Telegram</a><a id="shareEmail">✉️ E-mail</a><button type="button" id="shareCopy">🔗 Copiar link</button></div><p id="shareStatus" role="status" aria-live="polite"></p></div></div>
 <main id="overview">
+  <div class="ag-page-head" id="agPageHead" hidden><nav class="ag-crumbs" aria-label="Você está em"><a href="#overview">Início</a> <span aria-hidden="true">›</span> <span id="agPageCrumb"></span></nav><small id="agPageEyebrow"></small><h1 id="agPageTitle"></h1><p id="agPageDesc"></p></div>
   <section class="banner" id="banner">
     <h2>⚠️ Alerta de perigo global</h2>
     <ul id="bannerList"></ul>
@@ -1565,14 +1581,31 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
     document.getElementById("news").scrollIntoView({behavior:"smooth",block:"start"});
     if (!q) document.getElementById("search").focus({preventScroll:true});
   });
+  // O que cada página mostra (seletores de seções do <main>). "overview" mostra o portal completo.
+  const AG_NEWS = ["#statusText", "#offlineNotice", ".portal-news-section"];
+  const AG_PAGES = {
+    overview:   { title:"Início" },
+    agora:      { title:"Últimas notícias", eyebrow:"Atualização contínua", desc:"As matérias que acabaram de sair nos veículos monitorados, da mais nova para a mais antiga.", show:["#agora", ...AG_NEWS] },
+    radar:      { title:"Mundo", eyebrow:"Radar Mundial", desc:"Os principais acontecimentos internacionais, organizados por urgência, e a seleção de destaques com impacto para o Brasil.", show:["#banner", "#radar", "#editorial"] },
+    curadoria:  { title:"Alertas ChatGPT", eyebrow:"Alertas enviados pelo ChatGPT", desc:"O último alerta e todos os alertas dos últimos 15 dias, com acesso à matéria original.", show:["#chatgpt-ao-vivo", "#curadoria"] },
+    economia:   { title:"Economia", cat:"Economia", eyebrow:"Editoria", desc:"Mercados, energia, comércio e decisões econômicas pelo mundo.", show:AG_NEWS },
+    tecnologia: { title:"Tecnologia", cat:"Tecnologia", eyebrow:"Editoria", desc:"Inovação, inteligência artificial, empresas de tecnologia e segurança digital.", show:AG_NEWS },
+    saude:      { title:"Saúde", cat:"Saúde", eyebrow:"Editoria", desc:"Surtos, alertas sanitários, ciência e saúde pública no Brasil e no mundo.", show:AG_NEWS },
+    historico:  { title:"Histórico", eyebrow:"Janela móvel de 15 dias", desc:"Pesquise todas as notícias e alertas publicados nos últimos 15 dias.", show:["#historico"] },
+    news:       { title:"Todas as notícias", eyebrow:"Central de informação", desc:"Todas as manchetes recentes. Filtre por tema, gravidade ou palavra-chave.", show:[".levels", ...AG_NEWS] },
+    sources:    { title:"Fontes e atualizações", eyebrow:"Transparência", desc:"Última coleta automática e situação de cada veículo monitorado.", show:["#sources"] },
+    banner:     { title:"Alertas de risco", eyebrow:"Alerta de perigo global", desc:"Os acontecimentos de maior gravidade no momento.", show:["#banner", ".levels"] }
+  };
+  let agPendingCategory = null;
+  let agLastPage = "overview";
   document.querySelectorAll("[data-portal-category]").forEach(a => a.addEventListener("click",event => {
     event.preventDefault();
-    document.getElementById("cat").value = a.dataset.portalCategory;
-    document.getElementById("search").value = "";
-    document.getElementById("sev").value = "";
-    visibleCount = PAGE_SIZE;
-    render();
-    document.getElementById("news").scrollIntoView({behavior:"smooth",block:"start"});
+    const category = a.dataset.portalCategory;
+    // Economia, Tecnologia e Saúde têm página própria; os demais temas abrem a página de notícias filtrada.
+    const own = Object.keys(AG_PAGES).find(k => AG_PAGES[k].cat === category);
+    if (own) { location.hash = own; return; }
+    agPendingCategory = category;
+    if (location.hash === "#news") agApplyPage(); else location.hash = "news";
   }));
   renderPortalToday();
 
@@ -2151,10 +2184,76 @@ a:hover{transition:color .16s,border-color .16s,background .16s}
     });
   }
 
+  // ---------- Páginas por aba ----------
+  // Cada item do menu vira uma página própria, com endereço compartilhável (#economia, #radar...).
+  function agPage() {
+    const hash = decodeURIComponent(location.hash.slice(1));
+    if (hash === "chatgpt-ao-vivo") return "curadoria";
+    return AG_PAGES[hash] ? hash : "overview";
+  }
+  function agApplyPage() {
+    const page = agPage();
+    const cfg = AG_PAGES[page];
+    const main = document.getElementById("overview");
+    const isHome = page === "overview";
+    document.body.dataset.agPage = page;
+    document.body.classList.toggle("ag-subpage", !isHome);
+    document.body.classList.toggle("ag-category-page", !!cfg.cat);
+    document.querySelector(".portal-topics")?.classList.toggle("ag-hidden", !isHome);
+    const keep = isHome ? null : cfg.show.map(sel => document.querySelector(sel)).filter(Boolean);
+    [...main.children].forEach(el => {
+      if (el.id === "agPageHead" || el.id === "settings" || el.tagName === "FOOTER") return;
+      el.classList.toggle("ag-hidden", !!keep && !keep.includes(el));
+    });
+    const head = document.getElementById("agPageHead");
+    head.hidden = isHome;
+    if (!isHome) {
+      document.getElementById("agPageCrumb").textContent = cfg.title;
+      document.getElementById("agPageEyebrow").textContent = cfg.eyebrow;
+      document.getElementById("agPageTitle").textContent = cfg.title;
+      document.getElementById("agPageDesc").textContent = cfg.desc;
+    }
+    document.title = isHome ? "Alerta Global · Radar Mundial" : cfg.title + " · Alerta Global";
+    document.querySelectorAll("[data-page-link]").forEach(a => {
+      const on = a.dataset.pageLink === page;
+      a.classList.toggle("is-active", on);
+      if (on) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current");
+    });
+    // Filtro de notícias: páginas de tema filtram; ao sair delas, a lista volta a mostrar tudo.
+    const catSel = document.getElementById("cat");
+    // Só a página "Todas as notícias" guarda um tema escolhido (ex.: Conflitos, Clima); as outras mostram o seu.
+    let nextCat = cfg.cat || "";
+    if (page === "news") nextCat = agPendingCategory !== null ? agPendingCategory : (AG_PAGES[agLastPage]?.cat ? "" : catSel.value);
+    agPendingCategory = null;
+    if (nextCat !== catSel.value || cfg.cat) {
+      catSel.value = nextCat;
+      if (cfg.cat) { document.getElementById("search").value = ""; document.getElementById("sev").value = ""; }
+      visibleCount = PAGE_SIZE;
+      render();
+    }
+    if (page === "historico" && agLastPage !== "historico" && typeof loadArchiveIndex === "function") loadArchiveIndex(true);
+    agLastPage = page;
+    // Começa sempre no topo da página (o navegador tentaria pular até a âncora #radar, #agora...).
+    const toTop = () => window.scrollTo({ top: 0, left: 0, behavior: "instant" });
+    toTop();
+    requestAnimationFrame(toTop);
+    setTimeout(toTop, 60);
+  }
+  // Busca, níveis de gravidade e "ver todas" levam à página de notícias.
+  function agGoToNews() {
+    if (agPage() === "news") document.getElementById("news").scrollIntoView({behavior:"smooth",block:"start"});
+    else location.hash = "news";
+  }
+  document.getElementById("portalSearchForm")?.addEventListener("submit", agGoToNews);
+  document.querySelectorAll(".level").forEach(el => el.addEventListener("click", agGoToNews));
+  document.getElementById("clearSeverity")?.addEventListener("click", () => { if (AG_PAGES[agPage()].cat) location.hash = "news"; });
+  window.addEventListener("hashchange", agApplyPage);
+  agApplyPage();
+
   // Realce da aba atual na navegação e atalho de compartilhamento.
   function markSidebarActive() {
-    const hash = location.hash.slice(1) || "overview";
-    const selected = ["overview","radar","curadoria","news","historico","banner","sources"].includes(hash) ? hash : "overview";
+    const hash = agPage();
+    const selected = ["overview","radar","curadoria","news","historico","banner","sources"].includes(hash) ? hash : (hash === "agora" ? "news" : "overview");
     document.querySelectorAll(".side-link[data-nav], [data-mobile-nav]").forEach(link => {
       const on = (link.dataset.nav || link.dataset.mobileNav) === selected;
       link.classList.toggle("active", on);
