@@ -1,9 +1,35 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T16:56:40.600536Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-18T17:02:03.465003Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Guerra na Ucrânia: a França está em conflito direto com a Rússia?",
+      "summary": "Uma investigação publicada pelo canal de rádio público francês RFI em 17 de novembro revelou que uma missão confidencial do exército francês conhecida como \"Volia\" foi usada durante meses para ocultar a presença de pessoal francês na Ucrânia. A Rússia acusou prontamente a França de envolvimento direto no conflito. Isso é verdade?",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "FR",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261118-war-in-ukraine-is-france-in-direct-conflict-with-russia",
+      "published_on": "18/11/2026 12:57 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/8cecea6e-e36a-11f1-b640-7908c4e1a3c7/w:1024/p:16x9/French-troops-Ukraine-10.png",
+      "selection": "automatic"
+    },
+    {
+      "title": "Kuwait e Bahrein enfrentam novos ataques do Irã após ataque dos EUA na Ilha Qeshm",
+      "summary": "Os ataques iranianos aos países do Golfo atraem a condenação de toda a região.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
+      "published_on": "18/11/2026 12:47 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T071442Z_913088351_RC27QOA8QSRZ_RTRMADP_3_IRAN-CRISIS-1795018749.jpg?resize=1200%2C630",
+      "selection": "automatic"
+    },
     {
       "title": "O primeiro-ministro do Canadá acusa Putin de \"mentir\" ao minimizar as sanções",
       "summary": "Carney acusa Putin de \"mentir\" depois que o líder russo descartou as sanções ocidentais como \"coisa do passado\".",
@@ -28,32 +54,6 @@
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
       "published_on": "18/11/2026 12:15 (Boa Vista)",
       "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Israel inicia nova operação militar em Gaza",
-      "summary": "Tanques israelenses avançaram em uma área da Faixa de Gaza central na quarta-feira, segundo testemunhas, e as Forças Armadas israelenses disseram que suas tropas estavam atacando a infraestrutura do Hamas fora da \"Linha Amarela\", que define o limite da parte do enclave controlada por Israel. \"As FDI lançaram uma operação precisa dentro da Faixa de Gaza hoje ",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "FR",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/video/20261118-israel-begins-new-military-operation-in-gaza",
-      "published_on": "18/11/2026 12:12 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/8f0f71fe-e36a-11f1-82d9-1ba7ddfab527/w:1024/p:16x9/EN-20261118-170112-170442-CS.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Irã dispara mísseis e drones contra Estados Árabes do Golfo enquanto as negociações de paz vacilam",
-      "summary": "O Kuwait e o Bahrein disseram que foram alvo de ataques na quarta-feira, um sinal de como o Oriente Médio está preso em um limbo entre a paz e uma guerra em grande escala.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
-      "published_on": "18/11/2026 11:37 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gulf-attacks-mbvq/18int-gulf-attacks-mbvq-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
@@ -83,6 +83,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Funcionário do Banco Mundial diz que reconstrução do Líbano está progredindo lentamente",
+      "summary": "Beirute culpa a ocupação de Israel e os ataques ao sul do Líbano pelos atrasos na reconstrução.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
+      "published_on": "18/11/2026 12:44 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afdb420046d-1795011616.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
+    {
       "title": "China busca chips da Nvidia para armas de IA, apesar das restrições dos EUA",
       "summary": "Relatório de comissão dos EUA aponta que Pequim tenta burlar sanções para fortalecer forças armadas chinesas",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/china-busca-chips-da-nvidia-para-armas-de-ia-apesar-das-restricoes-dos-eua/",
       "published_on": "18/11/2026 12:00 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/inteligencia-artificial-estados-unidos-x-china.png?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Presidente do México diz que negociações comerciais com Trump avançaram",
-      "summary": "Claudia Sheinbaum se encontrou com Donald Trump às margens do Fórum da APEC, realizado em Shenzhen, na China; economia dos dois países é intrinsicamente ligada",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/presidente-do-mexico-diz-que-negociacoes-comerciais-com-trump-avancaram/",
-      "published_on": "18/11/2026 11:19 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/03/mexico-e1741020159677.jpg?w=200",
       "selection": "automatic"
     }
   ]
