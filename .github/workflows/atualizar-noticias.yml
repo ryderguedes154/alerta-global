@@ -10,7 +10,7 @@ on:
       - 'scripts/arquivar_noticias.py'
       - 'scripts/limpar_noticias_antigas.py'
   schedule:
-    - cron: '2-59/5 * * * *'
+    - cron: '0 * * * *'
 permissions:
   contents: write
 concurrency:
@@ -19,36 +19,39 @@ concurrency:
 jobs:
   coletar:
     runs-on: ubuntu-latest
-    timeout-minutes: 9
+    timeout-minutes: 58
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Coletar RSS e USGS
-        run: python scripts/coletar_noticias.py
-      - name: Preservar notícias no histórico mensal
-        run: python scripts/arquivar_noticias.py
-      - name: Limitar histórico e curadoria ChatGPT aos últimos 15 dias
-        run: python scripts/limpar_noticias_antigas.py
-      - name: Selecionar destaques globais em português
-        run: python scripts/atualizar_destaques.py
-      - name: Publicar feed, destaques e histórico
+      - name: Coletar a cada 5 minutos durante a hora (11 rodadas)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add noticias.json status_fontes.json destaques-radar.json curadoria-chatgpt.json
-          git add -A historico/
-          if ! git diff --cached --quiet; then
-            git commit -m "Atualiza notícias de fontes internacionais"
-            for attempt in 1 2 3; do
-              if git push origin HEAD:main; then
-                exit 0
-              fi
-              echo "Mudança concorrente na branch main. Reconciliando (tentativa $attempt/3)."
-              git fetch origin main
-              git rebase origin/main || { git rebase --abort; exit 1; }
-            done
-            echo "Não foi possível publicar após três tentativas."
-            exit 1
-          fi
+          for rodada in $(seq 1 11); do
+            echo "Rodada $rodada/11 - $(date -u +%H:%M) UTC"
+            python scripts/coletar_noticias.py || echo "Aviso: coleta falhou nesta rodada"
+            python scripts/arquivar_noticias.py || echo "Aviso: arquivamento falhou nesta rodada"
+            python scripts/limpar_noticias_antigas.py || echo "Aviso: limpeza falhou nesta rodada"
+            python scripts/atualizar_destaques.py || echo "Aviso: destaques falharam nesta rodada"
+            git add noticias.json status_fontes.json destaques-radar.json curadoria-chatgpt.json
+            git add -A historico/
+            if ! git diff --cached --quiet; then
+              git commit -m "Atualiza notícias de fontes internacionais"
+              publicado=0
+              for attempt in 1 2 3; do
+                if git push origin HEAD:main; then publicado=1; break; fi
+                echo "Mudança concorrente na branch main. Reconciliando (tentativa $attempt/3)."
+                git fetch origin main
+                if ! git rebase origin/main; then
+                  git rebase --abort || true
+                  git reset --hard origin/main
+                  break
+                fi
+              done
+              [ "$publicado" = 1 ] || echo "Esta rodada não foi publicada; a próxima recoleta."
+            fi
+            git reset -q --hard HEAD || true
+            if [ "$rodada" -lt 11 ]; then sleep 300; fi
+          done
