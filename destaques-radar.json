@@ -1,7 +1,7 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T17:07:23.696003Z",
+  "checked_at": "2026-11-18T17:12:43.179467Z",
   "status": "checado",
   "items": [
     {
@@ -15,6 +15,19 @@
       "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
       "published_on": "18/11/2026 13:00 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "A conta de energia típica deverá aumentar £ 443 por ano a partir de janeiro, à medida que a taxa de inflação subir novamente",
+      "summary": "Espera-se que as contas de energia aumentem 26% ao ano para uma família típica, à medida que a inflação no Reino Unido atinge a taxa mais alta em um ano.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+      "published_on": "18/11/2026 09:17 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a59/live/128bd8c0-e35b-11f1-99b6-a35a62fa4264.jpg",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://www.cnnbrasil.com.br/agro/precos-da-soja-dependem-do-clima-no-brasil-e-de-compras-da-china/",
       "published_on": "18/11/2026 12:58 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/ChatGPT-Image-26-de-mar.-de-2026-09_39_47.png?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Funcionário do Banco Mundial diz que reconstrução do Líbano está progredindo lentamente",
-      "summary": "Beirute culpa a ocupação de Israel e os ataques ao sul do Líbano pelos atrasos na reconstrução.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
-      "published_on": "18/11/2026 12:44 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afdb420046d-1795011616.jpg?resize=1920%2C1440",
       "selection": "automatic"
     }
   ]
