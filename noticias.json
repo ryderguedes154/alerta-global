@@ -1,5 +1,19 @@
 [
   {
+    "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+    "summary": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+    "date": "2026-11-18T19:31:39Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-promo6am/18trump-summits-promo6am-mediumSquareAt3X.jpg",
+    "title_pt": "Trump, Xi e Putin apertam as mãos enquanto os líderes se reúnem na China",
+    "summary_pt": "O líder da China, Xi Jinping, abraçou o presidente Trump na pista de pouso quando este chegou para uma cúpula regional em Shenzhen. Eles devem realizar uma reunião trilateral na quinta-feira com o presidente da Rússia, Vladimir V. Putin."
+  },
+  {
     "title": "Novo formaliza candidatura de Paulo Martins à presidência da Câmara",
     "summary": "Atual presidente da Casa, Hugo Motta já reúne o apoio de 15 partidos em torno de sua reeleição; PL também deve lançar candidato próprio",
     "category": "Geral",
@@ -40,20 +54,6 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/pzzb9489.jpg?w=1200&h=630&crop=1",
     "title_pt": "Andrei cita “quebra de confiança” com delegados afastados do caso Master",
     "summary_pt": ""
-  },
-  {
-    "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
-    "summary": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
-    "date": "2026-11-18T19:20:23Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-promo6am/18trump-summits-promo6am-mediumSquareAt3X.jpg",
-    "title_pt": "Trump, Xi e Putin apertam as mãos enquanto os líderes se reúnem na China",
-    "summary_pt": "O líder da China, Xi Jinping, abraçou o presidente Trump na pista de pouso quando este chegou para uma cúpula regional em Shenzhen. Eles devem realizar uma reunião trilateral na quinta-feira com o presidente da Rússia, Vladimir V. Putin."
   },
   {
     "title": "Voyager 1 sets distance record of 1 \"light day\" from Earth",
@@ -1544,7 +1544,7 @@
   {
     "title": "Grand Theft Auto 6 is a masterpiece, say critics",
     "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3732,7 +3732,7 @@
   {
     "title": "The seven Anthropic founders who are about to become multi-billionaires",
     "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4576,7 +4576,7 @@
     "summary_pt": "O Príncipe e a Princesa de Gales afirmaram que os inovadores ambientais estão a mudar a vida das gerações futuras ao celebrarem os vencedores deste ano do Prémio Earthshot."
   },
   {
-    "title": "Xi Greets Trump With a Hug as He Arrives in China",
+    "title": "Xi Greets Trump on the Tarmac as He Lands in China for APEC Summit",
     "summary": "The appearance was the first time Xi Jinping had personally received a foreign dignitary at an airport during more than a decade as China’s leader.",
     "category": "Geral",
     "region": "Global",
@@ -4585,9 +4585,7 @@
     "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html",
     "date": "2026-11-18T11:14:00Z",
     "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-carousel-zzz-qglk/18trump-summits-carousel-zzz-qglk-mediumSquareAt3X.jpg",
-    "title_pt": "Xi cumprimenta Trump com um abraço ao chegar à China",
-    "summary_pt": "A aparição foi a primeira vez que Xi Jinping recebeu pessoalmente um dignitário estrangeiro num aeroporto durante mais de uma década como líder da China."
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-carousel-zzz-qglk/18trump-summits-carousel-zzz-qglk-mediumSquareAt3X.jpg"
   },
   {
     "title": "México suspende leilão de obra de Frida Kahlo nos Estados Unidos",
@@ -4760,7 +4758,7 @@
   {
     "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
     "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
-    "category": "Saúde",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6142,7 +6140,7 @@
   {
     "title": "Waymo pulls driverless taxis from all US freeways",
     "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6270,7 +6268,7 @@
   {
     "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
     "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6570,7 +6568,7 @@
   {
     "title": "Fears toxic lagoon fire led to cancer and miscarriages",
     "summary": "The incident took place in Llwyneinion in August 1980.",
-    "category": "Saúde",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
