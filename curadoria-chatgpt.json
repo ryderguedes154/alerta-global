@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-18T17:35:27.658Z",
+  "updated_at": "2026-11-18T19:14:05.779Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Fontes dizem que Arábia Saudita se prepara para prolongar campanha militar no Iêmen até 2027",
+      "summary": "Três fontes ouvidas pela Reuters afirmam que autoridades sauditas planejam uma campanha de até seis meses contra os houthis, após reveses militares. O governo saudita não confirmou os planos. A continuidade do conflito pode ampliar os riscos humanitários e para a navegação no Mar Vermelho.",
+      "impact_br": "Possível pressão indireta sobre fretes marítimos e custos de energia; não há impacto direto confirmado no Brasil.",
+      "category": "guerras e diplomacia",
+      "region": "Oriente Médio",
+      "country": "SA",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/saudis-preparing-yemen-campaign-last-well-into-2027-2026-11-18/",
+      "published_on": "2026-11-18",
+      "published_at": "2026-11-18T09:10:00-04:00",
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-18T19:14:05.779Z"
+    },
     {
       "title": "Voyager 1 torna-se o primeiro objeto humano a alcançar um dia-luz da Terra",
       "summary": "A NASA confirmou que a sonda Voyager 1 atingiu em 18 de novembro de 2026 a distância de aproximadamente 25,9 bilhões de quilômetros da Terra. Lançada em 1977, continua coletando dados no espaço interestelar; seus sinais de rádio levam cerca de 24 horas para chegar à Terra.",
