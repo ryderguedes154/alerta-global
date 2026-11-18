@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-18T11:52:37.470Z",
+  "updated_at": "2026-11-18T13:09:05.735Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "União Europeia propõe empréstimo adicional de €45 bilhões à Ucrânia para 2027",
+      "summary": "A Comissão Europeia apresentou em 18 de novembro proposta de empréstimo adicional de até €45 bilhões para cobrir parte do déficit financeiro ucraniano de 2027. Até €25 bilhões seriam destinados à defesa e €20 bilhões ao orçamento. A proposta ainda precisa de aprovação dos países da UE; não representa liberação imediata dos recursos.",
+      "impact_br": "Sem impacto direto confirmado no Brasil. A continuidade do financiamento pode influenciar a duração da guerra e os mercados internacionais de energia e alimentos.",
+      "category": "guerras e diplomacia",
+      "region": "Europa",
+      "country": "UA",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/eu-proposes-new-45-billion-loan-ukraine-2027-be-repaid-by-russia-2026-11-18/",
+      "published_on": "2026-11-18",
+      "published_at": "2026-11-18T06:30:00-04:00",
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-18T13:09:05.735Z"
+    },
     {
       "title": "Irã amplia ataques no Golfo e mira base americana no Kuwait",
       "summary": "Em 18 de novembro, o Irã afirmou ter atacado instalações militares dos EUA na base Ali Al Salem, no Kuwait. O governo kuwaitiano confirmou a interceptação de drones, sem relatar danos imediatos. O Bahrein também informou novas interceptações. A escalada ocorre após ataques americanos à ilha iraniana de Qeshm e eleva o risco para a segurança regional e a navegação no Estreito de Hormuz.",
