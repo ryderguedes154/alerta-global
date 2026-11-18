@@ -1936,6 +1936,20 @@
     "summary_pt": "Comentários do porta-voz de assuntos internos do Reform levantam questões sobre a unidade na cúpula do partido. Ex-conservadores que desertaram para o Reform UK foram impedidos de influenciar a política de imigração do partido, afirmou seu porta-voz de assuntos internos, excluindo, na prática, a maioria dos deputados do partido. \"Se você se enquadra na categoria de pessoas preocupadas com [ex-membros do Partido Conservador]"
   },
   {
+    "title": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows",
+    "summary": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS21BSEJXWHdIUGpZcWRtZm0tT084cTd5WFpvbFZUeE9wdHkyelI4Y2pFamp5YmY3S09BRm9zMWQ3VE5NcHVnSGZNM20yZ3B5NE1mXzZ4VVg3NUZ5RTVuQ2owQzE4MkxpaTBIcEhCNng4MDE1ZnpyTUVOMUVHVFdzcm14Mkl2TlNGZmNuVFQ1NFMwdGFOT1JSTEFURDNOQ005cWVaUG5ybmtyNWQyTW1QMG82SHhGQXNmb3VMTUtB?oc=5",
+    "date": "2026-11-18T19:32:18Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "EUA reforçam bloqueio ao Irã com restrições às transferências de petróleo no mar, segundo comunicado oficial",
+    "summary_pt": "EUA reforçam bloqueio ao Irã com restrições às transferências de petróleo no mar, mostra comunicado à Reuters"
+  },
+  {
     "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
     "summary": "At least four people have been killed and thirteen more injured after Russian strikes hit Ukraine’s port city of Odesa.",
     "category": "Geral",
@@ -2728,7 +2742,7 @@
   {
     "title": "Grand Theft Auto 6 is a masterpiece, say critics",
     "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4495,7 +4509,7 @@
   {
     "title": "The seven Anthropic founders who are about to become multi-billionaires",
     "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5433,20 +5447,6 @@
     "summary_pt": "À medida que se aproximam as eleições de Janeiro de 2027 na Nigéria, a violência política e a violência em comícios de campanha e reuniões municipais levantam preocupações sobre a segurança dos eleitores."
   },
   {
-    "title": "Bangladesh deploys paramilitary as unrest grows over Hasina's return",
-    "summary": "Bangladesh deploys paramilitary as unrest grows over Hasina's return Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR1dVRWRwQ1k1VHhrUmpzX1pIdEpZcXdpLTFpUktTSzRHTFNZcUJ0X0pfMlVBd2NVWDRWM04yZ21IaUhwV2cwVi1DaERxU2w0TkVwemVSMzFhYlhBcXpjc3Y3YlJMdGd1SDJPcHpBXzdwS2ZrYVR6dERHejNSMzBmdkVSblBVUkxYTkk2U0h4T2FvbU1Pb2ctWDlJRS02SUQ4NjE5QWUxMzRXc0ZKaC1YRGdaN0VKUmhFcUxJ?oc=5",
-    "date": "2026-11-18T10:53:43Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Bangladesh implanta paramilitares à medida que a agitação aumenta devido ao retorno de Hasina",
-    "summary_pt": "Bangladesh implanta forças paramilitares à medida que aumentam os distúrbios devido ao retorno de Hasina Reuters"
-  },
-  {
     "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
     "summary": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
     "category": "Geral",
@@ -5463,7 +5463,7 @@
   {
     "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
     "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
-    "category": "Clima e desastres",
+    "category": "Saúde",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5913,7 +5913,7 @@
   {
     "title": "Security flaw found in Java, world's third-largest programming language",
     "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6627,7 +6627,7 @@
   {
     "title": "Waymo pulls driverless taxis from all US freeways",
     "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6755,7 +6755,7 @@
   {
     "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
     "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6885,7 +6885,7 @@
   {
     "title": "Europe plans to catch the next computer chip wave",
     "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
