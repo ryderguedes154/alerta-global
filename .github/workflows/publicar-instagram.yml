@@ -20,6 +20,7 @@ jobs:
         working-directory: instagram
     env:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
       IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
       IMAGEM_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/instagram/imagens
@@ -38,8 +39,8 @@ jobs:
       - name: Verificar se o Instagram ja foi configurado
         id: config
         run: |
-          if [ -z "$IG_ACCESS_TOKEN" ] || [ -z "$IG_USER_ID" ]; then
-            echo "Faltam os Secrets IG_USER_ID e IG_ACCESS_TOKEN. Nada a fazer por enquanto."
+          if [ -z "$MAKE_WEBHOOK_URL" ] && { [ -z "$IG_ACCESS_TOKEN" ] || [ -z "$IG_USER_ID" ]; }; then
+            echo "Falta o Secret MAKE_WEBHOOK_URL (ou IG_USER_ID + IG_ACCESS_TOKEN). Nada a fazer por enquanto."
             echo "ok=nao" >> "$GITHUB_OUTPUT"
           else
             echo "ok=sim" >> "$GITHUB_OUTPUT"
