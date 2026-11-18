@@ -601,3 +601,6 @@ body{font-size:16px;line-height:1.63}
 
 /* Foto do card preenche toda a altura do texto, sem espaço em branco embaixo */
 .portal-news-left .card.has-image>.card-image{height:auto!important;min-height:100%;align-self:stretch}
+
+/* Enquadramento: mantém o topo da foto (rosto/assunto) visível nos cards */
+.card-image{object-position:center 25%}
