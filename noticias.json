@@ -1,5 +1,17 @@
 [
   {
+    "title": "How high is UK inflation and how will you be affected?",
+    "summary": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18T19:37:27Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/accb/live/ce864ea0-e385-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
     "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
     "summary": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of Russia.",
     "category": "Geral",
@@ -146,6 +158,22 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPELB40T9-BASEIMAGE.jpg?w=200",
     "title_pt": "Aclara produz metal de terras raras para ímãs com pureza de 99,4%",
     "summary_pt": "Companhia com projeto de mineração em Goiás alcançou resultado em planta de demonstração no Chile; tecnologia será utilizada em futura unidade industrial nos EUA"
+  },
+  {
+    "title": "Terremoto de magnitude 6.1 — Pacific-Antarctic Ridge",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "Pacific-Antarctic Ridge",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37",
+    "date": "2026-11-18T19:14:23.713000Z",
+    "lat": -57.7514,
+    "lon": -146.746,
+    "depth_km": 10.0,
+    "forcedSev": "high",
+    "title_pt": "Terremoto de magnitude 6.1 — Pacific-Antarctic Ridge",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
     "title": "México avança em negociações comerciais com os EUA, diz Sheinbaum",
@@ -1544,7 +1572,7 @@
   {
     "title": "Grand Theft Auto 6 is a masterpiece, say critics",
     "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3732,7 +3760,7 @@
   {
     "title": "The seven Anthropic founders who are about to become multi-billionaires",
     "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5634,20 +5662,6 @@
     "summary_pt": "Os democratas controlarão 56 assentos nos 100 assentos do Senado, o que lhes dará o poder de bloquear legislação, lançar amplas investigações sobre a administração de Trump e impedir suas nomeações judiciais e de altos cargos para o governo."
   },
   {
-    "title": "States to debate social security contributions cut",
-    "summary": "The amendment is being brought forward by deputies Gavin St Pier and Tom Rylatt.",
-    "category": "Economia",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cqgm39mwjgjpo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-18T06:17:58Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef8c/live/70ab9930-5a9f-11f1-9626-f75d5d5577d2.jpg",
-    "title_pt": "Estados vão debater corte de contribuições para a segurança social",
-    "summary_pt": "A emenda está sendo apresentada pelos deputados Gavin St Pier e Tom Rylatt."
-  },
-  {
     "title": "What's gone wrong at Britain's worst bathing site?",
     "summary": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
     "category": "Clima e desastres",
@@ -6140,7 +6154,7 @@
   {
     "title": "Waymo pulls driverless taxis from all US freeways",
     "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6268,7 +6282,7 @@
   {
     "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
     "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6844,19 +6858,5 @@
     "image": "https://s2-g1.glbimg.com/aXyNVVWsq60bPQtSWJG7V6w9CH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/9/jd0F5xTUOKSVRgim8nnA/2026-11-16t144017z-1345596019-rc22poaux99k-rtrmadp-3-usa-trump.jpg",
     "title_pt": "Trump minimiza série de falhas tecnológicas nos EUA e diz que está 'tudo bem'",
     "summary_pt": "O presidente dos EUA, Donald Trump, fala com membros da imprensa ao partir para sua viagem às Filipinas e à China, na Casa Branca, em Washington, DC, EUA, em 16 de novembro de 2026 REUTERS/Kevin Lamarque O presidente dos Estados Unidos, Donald Trump, minimizou nesta terça-feira (17) uma série de falhas tecnológicas que afetaram o transporte aéreo, o setor ba"
-  },
-  {
-    "title": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
-    "summary": "As the Ebola virus spreads in eastern Congo, health teams struggle to curb fatal delays in seeking medical care and the widespread desire to treat sick relatives at home.",
-    "category": "Saúde",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
-    "date": "2026-11-17T20:44:22Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-ebola-family-promo-jblp/17int-ebola-family-promo-jblp-mediumSquareAt3X.jpg",
-    "title_pt": "Surto de Ebola no Congo: como o medo e a desconfiança impulsionam a disseminação na comunidade",
-    "summary_pt": "À medida que o vírus Ebola se espalha no leste do Congo, as equipes de saúde lutam para evitar atrasos fatais na busca por atendimento médico e o desejo generalizado de tratar parentes doentes em casa."
   }
 ]

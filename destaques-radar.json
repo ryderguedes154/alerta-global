@@ -1,8 +1,8 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-18T19:34:31.285445Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-18T19:39:41.131547Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi diz que a Ásia-Pacífico precisa de comércio aberto e Putin condena sanções enquanto Trump chega à China",
@@ -15,6 +15,19 @@
       "url": "https://apnews.com/article/apec-china-economy-trump-putin-ai-1e3b6161b31196c9716ca02ac8c7720c?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
       "published_on": "18/11/2026 01:20 (Boa Vista)",
       "image": "https://ic-cdn.flipboard.com/apnews.com/723421dfbe72cca1570446c866d2e78aa3cf8979/_large.webp",
+      "selection": "automatic"
+    },
+    {
+      "title": "Terremoto de magnitude 6.1 — Pacific-Antarctic Ridge",
+      "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Pacific-Antarctic Ridge",
+      "country": "GLOBAL",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37",
+      "published_on": "18/11/2026 15:14 (Boa Vista)",
+      "image": "",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://www.euronews.com/2026/11/18/amazon-pledges-63bn-for-renewable-energy-projects-in-india-who-will-benefit-from-the-clean",
       "published_on": "18/11/2026 11:48 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/09/58/86/99/696x392_cmsv2_f6b866ac-1347-51e3-915e-38765225fc1b-9588699.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Hakeem Jeffries está mais perto de se tornar o primeiro presidente negro da Câmara dos EUA",
-      "summary": "O democrata de Nova Iorque obteve 251 votos a favor e 11 contra, mas enfrenta pressão de legisladores progressistas que exigem compromissos em matéria de saúde, imigração e outras questões importantes.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Saúde",
-      "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
-      "published_on": "18/11/2026 13:44 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/09/99/84/71/696x392_cmsv2_7492a2dd-9b7f-55a2-b272-49696c614452-9998471.jpg",
       "selection": "automatic"
     }
   ]
