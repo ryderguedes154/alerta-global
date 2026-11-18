@@ -64,6 +64,9 @@ USAR_CLAUDE = _env("USAR_CLAUDE", "sim").lower() in SIM
 COR_DE_FUNDO = _env("COR_DE_FUNDO", "#1a1a2e")  # usada quando não há imagem da matéria
 HASHTAGS_FIXAS = _env("HASHTAGS_FIXAS")  # ex: "#noticias #minhacidade"
 
+# Caminho 1: Make.com (o Make publica no Instagram). Basta o endereço do webhook do cenário.
+MAKE_WEBHOOK_URL = _env("MAKE_WEBHOOK_URL")
+# Caminho 2: API oficial do Instagram (precisa de app no Meta for Developers)
 IG_USER_ID = _env("IG_USER_ID")
 IG_ACCESS_TOKEN = _env("IG_ACCESS_TOKEN")
 # graph.instagram.com = "API do Instagram com login do Instagram" (recomendado)
@@ -379,7 +382,8 @@ def preparar(so_testar=False):
 
     if not novas:
         print("Nenhuma notícia nova.")
-    cliente = anthropic.Anthropic() if (USAR_CLAUDE and novas) else None
+    # Sem a chave do Claude, usa título + resumo do site (não trava o robô)
+    cliente = anthropic.Anthropic() if (USAR_CLAUDE and novas and _env("ANTHROPIC_API_KEY")) else None
 
     for noticia in novas:
         print(f"\n▶ {noticia['titulo']}\n  {noticia['link']}")
@@ -425,6 +429,18 @@ def publicar_no_instagram(item, base):
     url_imagem = f"{base}/{item['imagem']}"
     esperar_url_publica(url_imagem)
 
+    if MAKE_WEBHOOK_URL:
+        # O cenário do Make recebe estes campos e cria o post no Instagram
+        r = requests.post(
+            MAKE_WEBHOOK_URL,
+            json={"image_url": url_imagem, "caption": item["legenda"],
+                  "titulo": item["titulo"], "link": item["link"]},
+            timeout=120,
+        )
+        if not r.ok:
+            raise RuntimeError(f"O Make recusou o envio ({r.status_code}): {r.text[:300]}")
+        return f"enviado ao Make ({r.text.strip()[:40]})"
+
     container = _graph("POST", f"{IG_USER_ID}/media", image_url=url_imagem, caption=item["legenda"])
     id_container = container["id"]
 
@@ -441,8 +457,8 @@ def publicar_no_instagram(item, base):
 
 
 def publicar():
-    if not IG_USER_ID or not IG_ACCESS_TOKEN:
-        sys.exit("Defina IG_USER_ID e IG_ACCESS_TOKEN.")
+    if not MAKE_WEBHOOK_URL and not (IG_USER_ID and IG_ACCESS_TOKEN):
+        sys.exit("Defina MAKE_WEBHOOK_URL (Make.com) ou IG_USER_ID + IG_ACCESS_TOKEN (API oficial).")
     fila = carregar_json(ARQ_FILA, [])
     publicados = carregar_json(ARQ_PUBLICADOS, [])
     if not fila:
