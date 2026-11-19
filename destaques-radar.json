@@ -1,8 +1,8 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T18:00:55.363235Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T18:06:14.005193Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi, Trump e Putin, após a cúpula de Shenzhen: \"Uma guerra nuclear não pode ser vencida e nunca deve ser travada\"",
@@ -41,6 +41,19 @@
       "url": "https://g1.globo.com/mundo/noticia/2026/11/19/china-russia-e-eua-manterao-dialogo-sobre-riscos-nucleares.ghtml",
       "published_on": "19/11/2026 07:17 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/A36-0BLPsXruu0REatMVCtv1BD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/P/VS7NyPS1AUoHKimxrHMw/2026-11-19t083332z-1813811123-rc2wqoau4zb0-rtrmadp-3-apec-summit.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "“A Batalha de Kinmen”: Stéphane Malsagne relembra os primeiros dias do conflito entre China e Taiwan",
+      "summary": "Numa nova obra, o historiador relata um momento chave no confronto entre a China e Taiwan: em 1949, a batalha na ilha de Kinmen, que viu prevalecer os nacionalistas, então em completa desordem.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Geral",
+      "region": "Global",
+      "country": "FR",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/19/la-bataille-de-kinmen-stephane-malsagne-revient-sur-les-premiers-jours-du-conflit-entre-la-chine-et-taiwan_6813361_3232.html",
+      "published_on": "19/11/2026 14:00 (Boa Vista)",
+      "image": "https://img.lemde.fr/2026/10/14/0/0/1920/1280/1440/960/60/0/bd1afb5_upload-1-txyfqftwrxn3-generated-1791988353746.jpg",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
       "published_on": "19/11/2026 02:23 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e942/live/68574f50-d14f-11f1-93e1-3b657b665bcf.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "A UE revela que sofreu um ciberataque \"impulsionado por IA\"",
-      "summary": "A UE revelou que sofreu um ataque cibernético impulsionado por IA no mês passado e, como resultado, algumas de suas ferramentas digitais ainda estão offline.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Segurança cibernética",
-      "region": "Global",
-      "country": "GB",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
-      "published_on": "19/11/2026 11:38 (Boa Vista)",
-      "image": "https://e3.365dm.com/24/01/1920x1080/skynews-hacker-cyberattack_6439404.jpg?20240131153309",
       "selection": "automatic"
     }
   ]
