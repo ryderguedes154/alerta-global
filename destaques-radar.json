@@ -1,24 +1,11 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T13:03:38.580561Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T13:08:44.628299Z",
+  "status": "checado",
   "items": [
     {
-      "title": "Xi, Trump e Putin, após a cúpula de Shenzhen: \"Uma guerra nuclear não pode ser vencida e nunca deve ser travada\"",
-      "summary": "Os líderes das três maiores potências se comprometem a promover uma reforma da ONU e a garantir a estabilidade dos fluxos de energia. O republicano, sobre o presidente russo: \"Ele é meu amigo\"",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "ES",
-      "source": "El País",
-      "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
-      "published_on": "19/11/2026 08:54 (Boa Vista)",
-      "image": "https://imagenes.elpais.com/resizer/v2/K5ALE3WIAFB4LF5A6O4UF3B7LU.jpg?auth=74afe4724d852ed7f81dbb85f71248660221ec93e37a776f35f5b96061f20b69",
-      "selection": "automatic"
-    },
-    {
-      "title": "China, Rússia e EUA concordam que 'guerra nuclear nunca deve ser travada' em declaração de paz conjunta",
+      "title": "China, Rússia e EUA concordam, em declaração de paz conjunta, que 'guerra nuclear nunca deve ser travada'",
       "summary": "Reunião histórica: líderes de EUA, Rússia e China se encontram em Shenzhen China, Rússia e Estados Unidos manterão um diálogo sobre riscos nucleares e concordam que uma guerra nuclear nunca deve acontecer, anunciaram os três países em conjunto, por meio de uma \"declaração de paz\". ✅ Siga o canal de notícias internacionais do g1 no WhatsApp ANÁLISE: Trump che",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
@@ -28,6 +15,32 @@
       "url": "https://g1.globo.com/mundo/noticia/2026/11/19/china-russia-e-eua-manterao-dialogo-sobre-riscos-nucleares.ghtml",
       "published_on": "19/11/2026 07:17 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/A36-0BLPsXruu0REatMVCtv1BD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/P/VS7NyPS1AUoHKimxrHMw/2026-11-19t083332z-1813811123-rc2wqoau4zb0-rtrmadp-3-apec-summit.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Xi, Trump e Putin, após a cúpula de Shenzhen: \"Uma guerra nuclear não pode ser vencida e nunca deve ser travada\"",
+      "summary": "Os líderes das três maiores potências se comprometem a promover uma reforma da ONU e a garantir a estabilidade dos fluxos de energia. O republicano, sobre o presidente russo: \"Ele é meu amigo\"",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "ES",
+      "source": "El País",
+      "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
+      "published_on": "19/11/2026 07:11 (Boa Vista)",
+      "image": "https://imagenes.elpais.com/resizer/v2/K5ALE3WIAFB4LF5A6O4UF3B7LU.jpg?auth=74afe4724d852ed7f81dbb85f71248660221ec93e37a776f35f5b96061f20b69",
+      "selection": "automatic"
+    },
+    {
+      "title": "Putin promete resposta “muito mais dolorosa” aos ataques da Ucrânia na ponte da Crimeia",
+      "summary": "O presidente russo disse que a Ponte da Crimeia era uma infra-estrutura civil, o que Kiev contesta.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "published_on": "19/11/2026 09:07 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
       "selection": "automatic"
     },
     {
@@ -41,19 +54,6 @@
       "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
       "published_on": "19/11/2026 08:51 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Aliados da Ucrânia se reúnem em Berlim com defesa aérea, energia e apoio financeiro na pauta – Europe live",
-      "summary": "O encontro ocorre após Trump ter se reunido com Putin na China e tê-lo declarado \"amigo\". Para o que vale, a \"declaração de paz\" entre China, EUA e Rússia emitida após o encontro e publicada pela mídia estatal chinesa não faz absolutamente nenhuma menção à Ucrânia ou à Europa. Há apenas uma frase, bastante genérica, que poderia ser vista como relacionada a e",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-      "published_on": "19/11/2026 08:49 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/177e95c8558613ce433c6415ecde5b3d35ad5857/470_0_3986_3189/master/3986.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2024bfac9f841d8eaa3732fcee5a302e",
       "selection": "automatic"
     },
     {
