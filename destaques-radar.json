@@ -1,8 +1,8 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T03:06:12.566607Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T03:11:19.459590Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi diz que a Ásia-Pacífico precisa de comércio aberto e Putin condena sanções enquanto Trump chega à China",
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Maleta nuclear de Putin: saiba como funciona dispositivo flagrado com militar da Rússia na China",
+      "summary": "Militar carrega maleta nuclear da Rússia em visita à China A imagem de um militar russo carregando uma maleta durante a visita do presidente Vladimir Putin à China seria corriqueira, não fosse por um detalhe: aquele pequeno item guarda o controle do arsenal nuclear da Rússia. Putin tem o poder de levar consigo os meios para acionar armas de imenso poderio de",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/19/maleta-nuclear-de-putin-saiba-como-funciona-dispositivo-flagrado-com-militar-da-russia-na-china.ghtml",
+      "published_on": "18/11/2026 23:00 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/gGVtjw7Mfis4EWrXKTRtksbZpOw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/5/NJRrGKQvCcNgmBqfKQhQ/2026-11-11t165904z-468325874-rc2ploax1ohv-rtrmadp-3-russia-csto-putin.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Trump minimiza as quedas de energia nos EUA e as preocupações de segurança da Nvidia em declarações antes da cúpula com a China – ao vivo",
       "summary": "Questionado pela Fox News sobre a suposta operação de espionagem da China, o presidente disse: \"Nós também espionamos eles. Acho que espionamos melhor do que eles.\" Inscreva-se para receber e-mails com notícias de última hora dos EUA. Em relação a isso, a Casa Branca realizou hoje uma teleconferência com vários repórteres sobre a onda de interrupções tecnoló",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -70,8 +83,8 @@
       "selection": "automatic"
     },
     {
-      "title": "Guerra no Irã ao vivo: coalizão liderada pela Arábia Saudita ataca o Iêmen; navios em chamas em Ormuz",
-      "summary": "A coalizão liderada pela Arábia Saudita afirma ter destruído uma plataforma de mísseis em Saada, no Iêmen, enquanto o Irã alega que três navios atingiram minas.",
+      "title": "Guerra no Irã ao vivo: Trump diz que o Irã busca novas armas; os houthis têm Riad como alvo",
+      "summary": "Trump afirmou que o Irã está buscando desenvolver armas biológicas enquanto a coalizão liderada pela Arábia Saudita combate os mísseis Houthi.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
@@ -80,19 +93,6 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
       "published_on": "18/11/2026 20:01 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe32a94666-1795044009.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "EUA aumentam a pressão sobre o Hezbollah, apoiado pelo Irã, com novas sanções",
-      "summary": "O Departamento do Tesouro dos EUA acusou o Hezbollah de usar organizações de caridade como \"fachadas\" para arrecadar fundos.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
-      "published_on": "18/11/2026 18:56 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afe29a7-1795041703.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
