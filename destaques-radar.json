@@ -1,11 +1,11 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T12:16:41.812312Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T12:22:40.836848Z",
+  "status": "checado",
   "items": [
     {
-      "title": "China, Rússia e EUA dizem em 'declaração de paz' conjunta que 'guerra nuclear nunca deve ser travada'",
+      "title": "China, Rússia e EUA concordam que 'guerra nuclear nunca deve ser travada' em declaração de paz conjunta",
       "summary": "Reunião histórica: líderes de EUA, Rússia e China se encontram em Shenzhen China, Rússia e Estados Unidos manterão um diálogo sobre riscos nucleares e concordam que uma guerra nuclear nunca deve acontecer, anunciaram os três países em conjunto, através de uma \"declaração de paz\". ✅ Siga o canal de notícias internacionais do g1 no WhatsApp ANÁLISE: Trump cheg",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
@@ -31,16 +31,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Aliados europeus se reúnem em Berlim para debater a guerra na Ucrânia",
-      "summary": "Enviados dos EUA apresentam resultados de conversas privadas entre Donald Trump e os líderes da Rússia e da China",
+      "title": "Aliados da Ucrânia se reúnem em Berlim com defesa aérea, energia e apoio financeiro na pauta – Europe live",
+      "summary": "O encontro ocorre após Trump ter se reunido com Putin na China e tê-lo declarado \"amigo\". Para o que vale, a \"declaração de paz\" entre China, EUA e Rússia emitida após o encontro e publicada pela mídia estatal chinesa não faz absolutamente nenhuma menção à Ucrânia ou à Europa. Há apenas uma frase, bastante genérica, que poderia ser vista como relacionada a e",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/aliados-europeus-se-reunem-em-berlim-para-debater-a-guerra-na-ucrania/",
-      "published_on": "19/11/2026 07:27 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/zelensky.jpg?w=200",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+      "published_on": "19/11/2026 08:03 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/177e95c8558613ce433c6415ecde5b3d35ad5857/470_0_3986_3189/master/3986.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2024bfac9f841d8eaa3732fcee5a302e",
       "selection": "automatic"
     },
     {
