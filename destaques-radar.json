@@ -1,8 +1,8 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T08:30:58.285484Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T08:36:06.490816Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ucrânia: quatro mortos e pelo menos 13 feridos em ataque russo a Odessa",
@@ -31,19 +31,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump afirma que o fim da guerra na Ucrânia estará em pauta na reunião com Xi e Putin",
-      "summary": "O republicano se reuniu com o líder russo por 40 minutos em um encontro previamente agendado que não constava na agenda e no qual eles demonstraram estar em sintonia: \"Muitas coisas maravilhosas podem surgir daqui\".",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "ES",
-      "source": "El País",
-      "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
-      "published_on": "19/11/2026 03:33 (Boa Vista)",
-      "image": "https://imagenes.elpais.com/resizer/v2/WFPDTI5FLRPVLAJ2I4A6S3DPZE.jpg?auth=1292f54ef5fdedac7793bc8f1dfa083249e25e702d6704c44a8e4bb2fb934790",
-      "selection": "automatic"
-    },
-    {
       "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
       "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -67,6 +54,19 @@
       "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
       "published_on": "19/11/2026 01:00 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Guerra na Ucrânia: a presença de soldados franceses na Ucrânia torna Paris um \"cobeligerante\" contra o qual a Rússia poderia retaliar?",
+      "summary": "O governo reconheceu ter enviado militares para o território ucraniano no âmbito de missões de treinamento e manutenção, reacendendo o debate sobre os riscos de Moscou ter a França como alvo ou sobre a necessidade de consulta ao Parlamento.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "FR",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/international/article/2026/11/19/guerre-en-ukraine-la-presence-de-soldats-francais-en-ukraine-fait-elle-de-paris-un-cobelligerant-contre-qui-la-russie-pourrait-riposter_6813225_3210.html",
+      "published_on": "19/11/2026 00:30 (Boa Vista)",
+      "image": "https://img.lemde.fr/2026/11/17/0/11/5883/3922/1440/960/60/0/cdf4ab2_upload-1-kt1hdmtv6ocr-15112026-26e00871-modifier.jpg",
       "selection": "automatic"
     },
     {
