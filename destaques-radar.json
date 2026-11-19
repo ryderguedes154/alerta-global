@@ -1,8 +1,8 @@
 {
-  "edition": "18/11/2026",
+  "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T03:58:26.259135Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T04:03:32.468601Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi diz que a Ásia-Pacífico precisa de comércio aberto e Putin condena sanções enquanto Trump chega à China",
@@ -83,6 +83,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Trump diz que inteligência artificial exige cautela, mas rejeita regulação",
+      "summary": "Presidente afirma que tecnologia tem potencial extraordinário, mas reconhece riscos durante discurso na cúpula da APEC",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-inteligencia-artificial-exige-cautela-mas-rejeita-regulacao/",
+      "published_on": "18/11/2026 23:47 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Trump-IA.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
       "title": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas",
       "summary": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas Reuters/Divulgação/Reprodução O mundo, de novo, não acabou. Mas a previsão de um \"apagão mundial\" dominou as redes sociais na terça-feira (17), em meio a uma onda de ataques hackers que, desde outubro, atinge de geladeiras de supermercados a bancos. Só no Brasil",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
       "published_on": "18/11/2026 10:00 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/StOpkhTXMduUC0pSWqJFLpLDK1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/8/ighTEAQ56v09DkC5HywQ/fotojet-24-.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "COP31: Vanuatu pede reforma da cúpula climática da ONU e alerta para retrocessos",
-      "summary": "O ministro do Meio Ambiente de Vanuatu, Ralph Regenvanu, pediu mudanças no processo da cúpula climática da ONU, acusando um pequeno grupo de países de bloquear o progresso e alertando que a COP31 corre o risco de reverter compromissos anteriores.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "FR",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261119-cop31-vanuatu-un-climate-summit-reform-warns-of-backsliding",
-      "published_on": "18/11/2026 22:00 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/e3717e5c-e3bc-11f1-b3ed-6d75ed565170/w:1024/p:16x9/AP26321662340752.jpg",
       "selection": "automatic"
     }
   ]
