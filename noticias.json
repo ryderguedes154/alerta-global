@@ -7,7 +7,7 @@
     "country": "US",
     "source": "CBS News",
     "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
-    "date": "2026-11-19T02:04:29Z",
+    "date": "2026-11-19T02:16:42Z",
     "lang": "en",
     "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/19/1a4e5cee-c824-4e43-8f1c-3825b7b029f4/thumbnail/1200x630/152958fb5fa892e550fa4ff5279a17bb/ap26323071746473.jpg",
     "title_pt": "Xi discursa na cúpula da APEC antes de uma rara reunião com Trump e Putin",
@@ -58,7 +58,7 @@
   {
     "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -423,20 +423,6 @@
     "summary_pt": "Fala foi feita horas antes de uma reunião trilateral histórica entre ele, o líder chinês, Xi Jinping, e o líder russo, Vladimir Putin"
   },
   {
-    "title": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
-    "summary": "Mr. Rajab spent his life fighting for greater political freedoms in his home country, undeterred by years in prison. He died in exile.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
-    "date": "2026-11-19T01:14:12Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/17int-bahrain-2-fqzp-print1/17int-bahrain-2-fqzp-mediumSquareAt3X.jpg",
-    "title_pt": "Nabeel Rajab, ativista bahreinita dos direitos humanos, morre aos 62 anos",
-    "summary_pt": "O Sr. Rajab passou a vida lutando por maiores liberdades políticas em seu país de origem, sem se deixar intimidar por anos de prisão. Ele morreu no exílio."
-  },
-  {
     "title": "Campinas confirma terceira morte por febre maculosa em 2026",
     "summary": "Vítima de 54 anos era funcionário terceirizado e pode ter sido infectada no campus da Unicamp; em 2025, na cidade, foram registradas seis mortes",
     "category": "Geral",
@@ -449,6 +435,20 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/13701_A2DDE58675547AB9.jpg?w=200",
     "title_pt": "Campinas confirma terceira morte por febre maculosa em 2026",
     "summary_pt": "Vítima de 54 anos era funcionário terceirizado e pode ter sido infectada no campus da Unicamp; em 2025, na cidade, foram registradas seis mortes"
+  },
+  {
+    "title": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
+    "summary": "Mr. Rajab spent his life fighting for greater political freedoms in his home country, undeterred by years in prison. He died in exile.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
+    "date": "2026-11-19T01:14:12Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/17int-bahrain-2-fqzp-print1/17int-bahrain-2-fqzp-mediumSquareAt3X.jpg",
+    "title_pt": "Nabeel Rajab, ativista bahreinita dos direitos humanos, morre aos 62 anos",
+    "summary_pt": "O Sr. Rajab passou a vida lutando por maiores liberdades políticas em seu país de origem, sem se deixar intimidar por anos de prisão. Ele morreu no exílio."
   },
   {
     "title": "Settler rams into Palestinians at multiple locations in central Israel",
@@ -1279,7 +1279,7 @@
   {
     "title": "Why has Waymo pulled all its driverless cars from US freeways?",
     "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1363,7 +1363,7 @@
   {
     "title": "The seven Anthropic founders who are about to become multi-billionaires",
     "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2179,7 +2179,7 @@
   {
     "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
     "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2229,8 +2229,8 @@
     "date": "2026-11-18T21:26:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Anthropic fecha o maior IPO de todos os tempos, com uma oferta de US$ 81 bilhões Reuters",
-    "title_pt": "A Anthropic fecha o maior IPO de todos os tempos com uma oferta de US$ 81 bilhões"
+    "title_pt": "A Anthropic fecha o maior IPO de todos os tempos com uma oferta de US$ 81 bilhões",
+    "summary_pt": "Anthropic fecha o maior IPO de todos os tempos, com uma oferta de US$ 81 bilhões Reuters"
   },
   {
     "title": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
@@ -6422,7 +6422,7 @@
   {
     "title": "Security flaw found in Java, world's third-largest programming language",
     "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
