@@ -1,7 +1,7 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T14:00:49.876167Z",
+  "checked_at": "2026-11-19T14:06:30.216647Z",
   "status": "checado",
   "items": [
     {
@@ -70,19 +70,6 @@
       "selection": "automatic"
     },
     {
-      "title": "EUA, China e Rússia anunciam aumento na produção de petróleo após reunião",
-      "summary": "Reunião de uma hora e meia em Shenzhen resultou em documento com compromissos sobre energia e diplomacia; leia carta na íntegra",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/china-eua-e-russia-anunciam-declaracao-conjunta-diz-midia-chinesa/",
-      "published_on": "19/11/2026 06:53 (Boa Vista)",
-      "image": "https://img.youtube.com/vi/f0ynWw782Q8/sddefault.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Aumento das cremações diretas desde a pandemia",
       "summary": "Um relatório de 2026 sobre o custo de falecer constatou que a cremação direta agora é escolhida em cerca de um em cada cinco funerais.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
       "published_on": "19/11/2026 09:56 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-cop31-disruption-top-fctl/18cli-cop31-disruption-top-fctl-mediumSquareAt3X.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Putin diz que reunião com Trump e Xi não definiu compromissos obrigatórios; Rússia pode participar de encontro do G20",
+      "summary": "Armas nucleares, guerras e economia: saiba o que Trump, Xi Jinping e Putin discutiram O presidente da Rússia, Vladimir Putin, afirmou nesta quinta-feira (19) que a reunião com os presidentes dos Estados Unidos, Donald Trump, e da China, Xi Jinping, não teve objetivos ambiciosos nem estabeleceu compromissos obrigatórios para os três países. Segundo ele, os lí",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/19/putin-diz-que-reuniao-com-trump-e-xi-nao-definiu-compromissos-obrigatorios.ghtml",
+      "published_on": "19/11/2026 08:48 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/tYHTYWImWwOiiNralPTM1-4CFlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/m/ShCvTbTxmNj23mP6Skng/2026-11-19t115551z-488661160-rc2zqoajzp2q-rtrmadp-3-apec-summit-putin-presser.jpg",
       "selection": "automatic"
     }
   ]
