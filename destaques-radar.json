@@ -1,7 +1,7 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T11:45:48.044998Z",
+  "checked_at": "2026-11-19T11:50:59.384285Z",
   "status": "checado",
   "items": [
     {
@@ -28,19 +28,6 @@
       "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
       "published_on": "19/11/2026 07:11 (Boa Vista)",
       "image": "https://imagenes.elpais.com/resizer/v2/K5ALE3WIAFB4LF5A6O4UF3B7LU.jpg?auth=74afe4724d852ed7f81dbb85f71248660221ec93e37a776f35f5b96061f20b69",
-      "selection": "automatic"
-    },
-    {
-      "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
-      "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-      "published_on": "19/11/2026 07:37 (Boa Vista)",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
       "selection": "automatic"
     },
     {
@@ -80,6 +67,19 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37",
       "published_on": "18/11/2026 15:14 (Boa Vista)",
       "image": "",
+      "selection": "automatic"
+    },
+    {
+      "title": "EUA, China e Rússia anunciam aumento na produção de petróleo após reunião",
+      "summary": "Reunião de uma hora e meia em Shenzhen resultou em documento com compromissos sobre energia e diplomacia; leia carta na íntegra",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/china-eua-e-russia-anunciam-declaracao-conjunta-diz-midia-chinesa/",
+      "published_on": "19/11/2026 06:53 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/trump_xi_putin2.jpg?w=200",
       "selection": "automatic"
     },
     {
