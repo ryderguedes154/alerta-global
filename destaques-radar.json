@@ -1,8 +1,8 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T02:24:58.670425Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T02:30:03.400779Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi diz que a Ásia-Pacífico precisa de comércio aberto e Putin condena sanções enquanto Trump chega à China",
@@ -44,19 +44,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump minimiza as quedas de energia nos EUA e as preocupações de segurança da Nvidia em declarações antes da cúpula com a China – ao vivo",
-      "summary": "Questionado pela Fox News sobre a suposta operação de espionagem da China, o presidente disse: \"Nós também espionamos eles. Acho que espionamos melhor do que eles.\" Inscreva-se para receber e-mails com notícias de última hora dos EUA. Em relação a isso, a Casa Branca realizou hoje uma teleconferência com vários repórteres sobre a onda de interrupções tecnoló",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Geral",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-      "published_on": "18/11/2026 21:43 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e39b145e8bd198f7317106c1412082ff",
-      "selection": "automatic"
-    },
-    {
       "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
       "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -65,8 +52,21 @@
       "country": "US",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-      "published_on": "18/11/2026 20:46 (Boa Vista)",
+      "published_on": "18/11/2026 22:27 (Boa Vista)",
       "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Trump minimiza as quedas de energia nos EUA e as preocupações de segurança da Nvidia em declarações antes da cúpula com a China – ao vivo",
+      "summary": "Questionado pela Fox News sobre a suposta operação de espionagem da China, o presidente disse: \"Nós também espionamos eles. Acho que espionamos melhor do que eles.\" Inscreva-se para receber e-mails com notícias de última hora dos EUA. Em relação a isso, a Casa Branca realizou hoje uma teleconferência com vários repórteres sobre a onda de interrupções tecnoló",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Geral",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "published_on": "18/11/2026 22:22 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e39b145e8bd198f7317106c1412082ff",
       "selection": "automatic"
     },
     {
