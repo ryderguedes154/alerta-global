@@ -1,17 +1,31 @@
 [
   {
-    "title": "El máximo tribunal de la ONU concluye que Myanmar cometió genocidio contra los rohinyás",
-    "summary": "Esta es la primera vez en su historia que el Tribunal Internacional de Justicia considera a un Estado responsable de ese gravísimo delito. La decisión puede repercutir en el caso iniciado por Sudáfrica contra Israel",
+    "title": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
+    "summary": "Early efforts to contain coronavirus \"were doomed to fail\", the public inquiry has found. Here's what you need to know.",
+    "category": "Saúde",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-19T12:47:27Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/907e/live/c7d0e7d0-e37d-11f1-b879-03485a55c082.png",
+    "title_pt": "Relatório de inquérito da Covid: principais conclusões sobre testes, rastreamento e 'pingdemia'",
+    "summary_pt": "Os primeiros esforços para conter o coronavírus “estavam fadados ao fracasso”, concluiu o inquérito público. Aqui está o que você precisa saber."
+  },
+  {
+    "title": "What to Know About the Myanmar Genocide Case at the World Court",
+    "summary": "The International Court of Justice issued a landmark verdict on Thursday, finding that the state of Myanmar had committed genocide.",
     "category": "Geral",
     "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-19/el-tribunal-internacional-de-justicia-concluye-que-el-ejercito-de-myanmar-mato-a-miles-de-rohinyas-y-cometio-actos-de-violencia-extrema-contra-ellos.html",
-    "date": "2026-11-19T12:40:59Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/XKC722ZDURCRRPR6F23OS2QEUU.jpg?auth=94114cd015dbbce4a623e44fdc335cdb70158d24a1bb3b34a352926d5ccbc953",
-    "title_pt": "O mais alto tribunal da ONU conclui que Mianmar cometeu genocídio contra os rohingyas",
-    "summary_pt": "Esta é a primeira vez na história que o Tribunal Internacional de Justiça considera um Estado responsável por esse crime gravíssimo."
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
+    "date": "2026-11-19T12:44:49Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-myanmar-icj-wtk-mtwg/18int-myanmar-icj-wtk-mtwg-mediumSquareAt3X.jpg",
+    "title_pt": "O que saber sobre o caso do genocídio de Mianmar no Tribunal Mundial",
+    "summary_pt": "O Tribunal Internacional de Justiça está a emitir um veredicto histórico sobre se o estado de Myanmar cometeu genocídio."
   },
   {
     "title": "Live Updates: U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
@@ -21,25 +35,11 @@
     "country": "US",
     "source": "The New York Times",
     "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
-    "date": "2026-11-19T12:40:07Z",
+    "date": "2026-11-19T12:44:20Z",
     "lang": "en",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/live-blog-20261119-myanmar-icj-ruling-genocide-header-ghjq/live-blog-20261119-myanmar-icj-ruling-genocide-header-ghjq-mediumSquareAt3X.jpg",
     "title_pt": "Atualizações ao vivo: tribunal da ONU decide que Mianmar cometeu genocídio contra os rohingyas",
     "summary_pt": "Mianmar se tornou o primeiro Estado responsabilizado por violar a Convenção sobre Genocídio de 1948. A decisão da Corte Internacional de Justiça pode ter amplas implicações."
-  },
-  {
-    "title": "Wife of Trump ally Todd Blanche promoted treatments with unproven medical claims",
-    "summary": "Kristine Blanche, named to US health advisory role, offered purported treatments for Epstein-Barr virus and HPV Attorney general Todd Blanche’s wife, Kristine Blanche, who was appointed earlier this year to a US government advisory board on alternative medicine, has a website on which she marketed dietary supplements and treatments with unproven medical and ",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website",
-    "date": "2026-11-19T12:39:20Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/84bb349ef8eb955f382b5b9fd8dd9f42453e5324/0_358_6259_5008/master/6259.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1aa6608b14ba9802559c24ebdc2507d",
-    "summary_pt": "Kristine Blanche, nomeada para o cargo de consultora de saúde nos EUA, ofereceu supostos tratamentos para o vírus Epstein-Barr e HPV. A esposa do procurador-geral Todd Blanche, Kristine Blanche, que foi nomeada no início deste ano para um conselho consultivo do governo dos EUA sobre medicina alternativa, tem um site no qual comercializa suplementos dietéticos e tratamentos com medicamentos não comprovados e",
-    "title_pt": "A esposa do aliado de Trump, Todd Blanche, promoveu tratamentos com alegações médicas não comprovadas"
   },
   {
     "title": "Live Updates: Trump Departs China After First-Ever Summit With Xi and Putin",
@@ -49,25 +49,53 @@
     "country": "US",
     "source": "The New York Times",
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
-    "date": "2026-11-19T12:38:43Z",
+    "date": "2026-11-19T12:44:20Z",
     "lang": "en",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-promo-7am-et/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg",
     "title_pt": "Atualizações ao vivo: Trump deixa a China após a primeira cúpula com Xi e Putin",
     "summary_pt": "Antes da reunião, o presidente Trump disse que queria discutir as armas nucleares e as guerras na Ucrânia e no Irã. Mas os três líderes pareciam se referir aos temas apenas de forma vaga."
   },
   {
-    "title": "Car rams into Palestinian residents four times in Israeli city, injuring eight",
-    "summary": "Arab MPs accuse Israeli politicians of fuelling hostility as footage shows driver accelerating towards pedestrians at several locations in Kafr Qasim Eight people were injured on Wednesday evening when a driver struck Palestinian residents at four separate locations in Kafr Qasim, a city in central Israel. Footage shared on social media appears to show the c",
+    "title": "Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power",
+    "summary": "President Trump joined the Chinese and Russian leaders for a summit in Shenzhen, even though the two autocrats are trying to reverse America’s victory in the Cold War.",
     "category": "Geral",
     "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim",
-    "date": "2026-11-19T12:36:37Z",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
+    "date": "2026-11-19T12:41:50Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/27c6d49b5afd211b6d8c81bc6ee840f04db172e9/323_0_4715_3772/master/4715.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ccdf3e68903538f0302e93d361b7a99",
-    "summary_pt": "Deputados árabes acusam políticos israelenses de alimentar a hostilidade enquanto imagens mostram motorista acelerando em direção a pedestres em vários locais em Kafr Qasim Oito pessoas ficaram feridas na noite de quarta-feira quando um motorista atingiu residentes palestinos em quatro locais diferentes em Kafr Qasim, uma cidade no centro de Israel. Imagens compartilhadas nas redes sociais parecem mostrar o c",
-    "title_pt": "Carro atropela residentes palestinos quatro vezes em cidade israelense, ferindo oito"
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-xi-putin-kzfw/19int-xi-putin-kzfw-mediumSquareAt3X.jpg",
+    "title_pt": "Por trás da reunião com Trump, Xi e Putin compartilham uma visão de usurpar o poder dos EUA",
+    "summary_pt": "O Presidente Trump juntou-se aos líderes chinês e russo para uma cimeira em Shenzhen, apesar de os dois autocratas estarem a tentar reverter a vitória da América na Guerra Fria."
+  },
+  {
+    "title": "El máximo tribunal de la ONU concluye que Myanmar cometió genocidio contra los rohinyás",
+    "summary": "Esta es la primera vez en su historia que el Tribunal Internacional de Justicia considera a un Estado responsable de ese gravísimo delito. La decisión puede repercutir en el caso iniciado por Sudáfrica contra Israel",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-19/el-tribunal-internacional-de-justicia-concluye-que-el-ejercito-de-myanmar-mato-a-miles-de-rohinyas-y-cometio-actos-de-violencia-extrema-contra-ellos.html",
+    "date": "2026-11-19T12:41:26Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/XKC722ZDURCRRPR6F23OS2QEUU.jpg?auth=94114cd015dbbce4a623e44fdc335cdb70158d24a1bb3b34a352926d5ccbc953",
+    "title_pt": "O mais alto tribunal da ONU conclui que Mianmar cometeu genocídio contra os rohingyas",
+    "summary_pt": "Esta é a primeira vez na história que o Tribunal Internacional de Justiça considera um Estado responsável por esse crime gravíssimo."
+  },
+  {
+    "title": "Anthropic's historic debut to put AI's promise and peril on Wall St trial",
+    "summary": "Anthropic's historic debut to put AI's promise and peril on Wall St trial Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
+    "date": "2026-11-19T12:39:45Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "A estreia histórica da Anthropic para colocar a promessa e o perigo da IA ​​​​no julgamento de Wall St Reuters",
+    "title_pt": "A estreia histórica da Anthropic para colocar a promessa e o perigo da IA ​​​​no julgamento de Wall St"
   },
   {
     "title": "Myanmar committed genocide against Rohingya, U.N. top court rules",
@@ -80,8 +108,8 @@
     "date": "2026-11-19T12:35:04Z",
     "lang": "en",
     "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/19/81a45d96-e856-4ff4-8093-d2ce7294622d/thumbnail/1200x630/478591beb234052d3c1dfea6408abedf/gettyimages-2305284178.jpg",
-    "summary_pt": "O tribunal superior da ONU decidiu, num julgamento histórico, que Mianmar cometeu genocídio contra a minoria Rohingya numa brutal operação militar em 2017.",
-    "title_pt": "Mianmar cometeu genocídio contra Rohingya, decide tribunal superior da ONU"
+    "title_pt": "Mianmar cometeu genocídio contra Rohingya, decide tribunal superior da ONU",
+    "summary_pt": "O tribunal superior da ONU decidiu, num julgamento histórico, que Mianmar cometeu genocídio contra a minoria Rohingya numa brutal operação militar em 2017."
   },
   {
     "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
@@ -113,7 +141,7 @@
   },
   {
     "title": "First Thing: Trump, Xi and Putin hold historic trilateral meeting in China",
-    "summary": "The three leaders spoke about international peace and nuclear weapons as Trump hailed Putin as a ‘friend’. Plus, yes, GTA IV is really finally here, and the critics have their verdict – masterpiece Good morning. Donald Trump has met Vladimir Putin and Xi Jinping at the Apec summit in Shenzhen, and said the three leaders were “really making history”. The tril",
+    "summary": "The three leaders spoke about international peace and nuclear weapons as Trump hailed Putin as a ‘friend’. Plus, yes, GTA IV is really finally here, and the critics have their verdict – masterpiece Good morning. Donald Trump has hailed his meeting with Vladimir Putin and Xi Jinping by saying the three leaders were “really making history”. The trilateral meet",
     "category": "Geral",
     "region": "Global",
     "country": "GB",
@@ -122,8 +150,8 @@
     "date": "2026-11-19T12:31:41Z",
     "lang": "en",
     "image": "https://i.guim.co.uk/img/media/fe3fd3648dd9414ddf04cdd936e7a16097507170/200_0_1799_1440/master/1799.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d54a652b01864d51880c3d2945d902a",
-    "summary_pt": "Os três líderes falaram sobre a paz internacional e as armas nucleares enquanto Trump saudava Putin como um “amigo”. Além disso, sim, GTA IV finalmente chegou, e os críticos deram seu veredicto – obra-prima Bom dia. Donald Trump encontrou-se com Vladimir Putin e Xi Jinping na cimeira da Apec em Shenzhen e disse que os três líderes estavam “realmente a fazer história”. O tril",
-    "title_pt": "Primeira coisa: Trump, Xi e Putin realizam reunião trilateral histórica na China"
+    "title_pt": "Primeira coisa: Trump, Xi e Putin realizam reunião trilateral histórica na China",
+    "summary_pt": "Os três líderes falaram sobre a paz internacional e as armas nucleares enquanto Trump saudava Putin como um “amigo”. Além disso, sim, GTA IV finalmente chegou, e os críticos deram seu veredicto – obra-prima Bom dia. Donald Trump encontrou-se com Vladimir Putin e Xi Jinping na cimeira da Apec em Shenzhen e disse que os três líderes estavam “realmente a fazer história”. O tril"
   },
   {
     "title": "Top U.N. court rules Myanmar committed genocide against the Rohingya",
@@ -136,12 +164,12 @@
     "date": "2026-11-19T12:29:41Z",
     "lang": "en",
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7626x5084+0+0/resize/7626x5084!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F3b%2F65170ca542b4b8f2a8692418a464%2Fgettyimages-2305284448.jpg",
-    "summary_pt": "O Tribunal Internacional de Justiça concluiu que as forças de segurança de Mianmar “agiram com intenções genocidas” contra os Rohingya durante as operações militares de 2017 no norte do estado de Rakhine.",
-    "title_pt": "Tribunal da ONU decide que Mianmar cometeu genocídio contra os Rohingya"
+    "title_pt": "Tribunal da ONU decide que Mianmar cometeu genocídio contra os Rohingya",
+    "summary_pt": "O Tribunal Internacional de Justiça concluiu que as forças de segurança de Mianmar “agiram com intenções genocidas” contra os Rohingya durante as operações militares de 2017 no norte do estado de Rakhine."
   },
   {
     "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-    "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Sign up for the Breanking News US email An anti-vaccine group led for years by Robert F Kennedy Jr said Meta has “taken down” posts on its accounts, after a Guardian report found the group was sharing false and misleading information about v",
+    "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Democrats nominate Jeffries as first Black House speaker Trump leaves China after Apec meeting – follow live Sign up for the Breanking News US email An anti-vaccine group led for years by Robert F Kennedy Jr said Meta has “taken down” posts ",
     "category": "Geral",
     "region": "Global",
     "country": "GB",
@@ -533,7 +561,7 @@
   },
   {
     "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
-    "summary": "Judgment ends seven-year legal battle and is seen as critical test for dealing with most serious of all state crimes Myanmar committed genocide against its Rohingya minority in its 2016-17 military campaign, the world’s highest court has ruled. The judgment from the international court of justice (ICJ) – which has never previously found a state responsible f",
+    "summary": "Judgment ends seven-year legal battle and is seen as critical test for dealing with most serious of all state crimes Myanmar committed genocide against its Rohingya minority nearly a decade ago, the world’s highest court has ruled. The judgment from the international court of justice (ICJ) – which has never previously found a state responsible for genocide –",
     "category": "Geral",
     "region": "Global",
     "country": "GB",
@@ -782,6 +810,20 @@
     "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/19/9743ccfd-4adc-40ef-9329-3183d175efbc/thumbnail/1200x630g8/ac23d7ad9b03758fce3da5fbc547a98d/gettyimages-2305276533.jpg",
     "title_pt": "Trump, Xi e Putin sentam-se para rara reunião a três na China",
     "summary_pt": "O presidente Trump, o presidente chinês Xi Jinping e o presidente russo Vladimir Putin iniciaram um raro encontro presencial na China."
+  },
+  {
+    "title": "China's Xi says US should do 'right thing' on Taiwan to avoid setbacks in relations",
+    "summary": "China's Xi says US should do 'right thing' on Taiwan to avoid setbacks in relations Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcEdkaW85aF8zYUdyVGZ2U3NuYU9ZQm1wX1F3d1l3eW1STEgyVGt4aWJUUEU2eW9VMUJBaG5vWlRCNGZBd3U3N1lhZ2lWQ0lTVUVIX3JhbTN2OHl5XzNUY3ZRTm9MRmo3eGdHWFk5SlpjbVAtZ2Y4WVh3RXZMYmZ6VjY2bUF0TmNDVVBCMU5mNDJ3WUU1anY1VzQtSGpDU2pCa3c2T2gwX1A2YWFJWVNHNUpmRFd5bVhYTm1F?oc=5",
+    "date": "2026-11-19T11:46:18Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Xi da China diz que os EUA deveriam fazer a 'coisa certa' em relação a Taiwan para evitar reveses nas relações",
+    "summary_pt": "Xi diz que EUA deveriam fazer a 'coisa certa' em relação a Taiwan para evitar reveses nas relações Reuters"
   },
   {
     "title": "Megashow internacional na Avenida Paulista será em janeiro; veja data",
@@ -2391,8 +2433,8 @@
     "summary_pt": "O machismo e o classismo sempre aparecem quando se trata de esquerda. Aconteceu quando os ministros socialistas apareceram na 'Vogue' e acontece quando Sánchez aparece na capa falando sobre as mulheres de sua vida"
   },
   {
-    "title": "FIFA confirms candidates to stand against Gianni Infantino in presidential election",
-    "summary": "FIFA has confirmed which three candidates have been put forward for next year's presidential election.",
+    "title": "Two candidates to stand against Infantino in FIFA election",
+    "summary": "FIFA has confirmed which candidates will stand in next year's presidential election - as UEFA challenges restrictions placed on documents relating to the World Cup sell-off scandal.",
     "category": "Geral",
     "region": "Global",
     "country": "GB",
@@ -2401,8 +2443,8 @@
     "date": "2026-11-19T09:32:00Z",
     "lang": "en",
     "image": "https://e3.365dm.com/26/11/1920x1080/skynews-philippe-diallo-gianni-infantino_7410244.jpg?20261119095059",
-    "title_pt": "A FIFA confirma os candidatos que concorrerão contra Gianni Infantino na eleição presidencial",
-    "summary_pt": "A FIFA confirmou quais são os três candidatos que foram indicados para a eleição presidencial do próximo ano."
+    "title_pt": "Dois candidatos enfrentarão Infantino nas eleições da FIFA",
+    "summary_pt": "A FIFA confirmou quais os candidatos que concorrerão às eleições presidenciais do próximo ano - enquanto a UEFA desafia as restrições impostas aos documentos relacionados com o escândalo de liquidação do Campeonato do Mundo."
   },
   {
     "title": "Dans les camps de réfugiés au Bangladesh, la situation des Rohingya se détériore en raison de la crise de financement",
@@ -2712,20 +2754,6 @@
     "image": "https://img.lemde.fr/2026/03/05/0/0/1500/1000/1440/960/60/0/d09a6fb_upload-1-ufawt3i05por-frame-1461.jpg",
     "title_pt": "“A impopularidade dos direitos aduaneiros impostos por Donald Trump revela os limites da sua política económica, baseada numa ilusão”",
     "summary_pt": "O economista Antoine Bouët enumera, numa coluna do “Le Monde”, as cinco promessas não cumpridas de protecionismo implementadas pelo presidente norte-americano e que explicam, em grande medida, a derrota do campo republicano nas eleições intercalares, em 3 de novembro."
-  },
-  {
-    "title": "What to Know About the Myanmar Genocide Case at the World Court",
-    "summary": "The International Court of Justice is issuing a landmark verdict on whether the state of Myanmar committed genocide.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
-    "date": "2026-11-19T08:58:46Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-myanmar-icj-wtk-mtwg/18int-myanmar-icj-wtk-mtwg-mediumSquareAt3X.jpg",
-    "title_pt": "O que saber sobre o caso do genocídio de Mianmar no Tribunal Mundial",
-    "summary_pt": "O Tribunal Internacional de Justiça está a emitir um veredicto histórico sobre se o estado de Myanmar cometeu genocídio."
   },
   {
     "title": "India: Nearly 50,000 evacuated as Cyclone Akvan nears the coast",
@@ -3843,8 +3871,8 @@
     "date": "2026-11-19T05:27:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Langley, cantor de 'Choosin' Texas', vence Taylor Swift no caminho para a conquista do Country Music Awards Reuters",
-    "title_pt": "O cantor de 'Choosin' Texas' Langley vence Taylor Swift no caminho para a varredura do Country Music Awards"
+    "title_pt": "O cantor de 'Choosin' Texas' Langley vence Taylor Swift no caminho para a varredura do Country Music Awards",
+    "summary_pt": "Langley, cantor de 'Choosin' Texas', vence Taylor Swift no caminho para a conquista do Country Music Awards Reuters"
   },
   {
     "title": "‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking",
@@ -4323,18 +4351,18 @@
     "summary_pt": "Pela primeira vez, uma crise é superada com mais empregos, sem ser arrastada pela estagnação dos países vizinhos nem sofrer cortes sociais. Mas os graves problemas de moradia e o alto custo de vida ofuscam a brilhante gestão"
   },
   {
-    "title": "Comunidad Iberoamericana: zona de convergencia",
-    "summary": "El supuesto equilibrio geopolítico que algunos atribuyen a un mundo organizado en zonas de influencia es apenas un espejismo",
+    "title": "Un lector: “A quién vota el que no recoge los excrementos de su mascota”",
+    "summary": "Los correos que recibe el director tratan del civismo, de la entrevista de Broncano a Abascal, del acuerdo para las deportaciones a Ruanda y la violencia machista",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
     "source": "El País",
-    "url": "https://elpais.com/opinion/2026-11-19/comunidad-iberoamericana-zona-de-convergencia.html",
+    "url": "https://elpais.com/opinion/2026-11-19/un-lector-a-quien-vota-el-que-no-recoge-los-excrementos-de-su-mascota.html",
     "date": "2026-11-19T04:30:01Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/DWWK27TSWZEP7JOIQD5GMDJKOI.jpg?auth=63d40931f569f5c9be479f74246694ff659639beecb1739bdaeb38d1fdd62627",
-    "title_pt": "Comunidade Ibero-Americana: zona de convergência",
-    "summary_pt": "O suposto equilíbrio geopolítico que alguns atribuem a um mundo organizado em zonas de influência é apenas uma miragem."
+    "image": "https://imagenes.elpais.com/resizer/v2/DU25PLND5NAUXMDYIRTD2YVTPE.JPG?auth=cbbf59d52734597e11ce328604bd111e5eccc2d3164a2c49b74f63e83071df13",
+    "title_pt": "Um leitor: “Em quem vota a pessoa que não recolhe os excrementos do seu animal de estimação?”",
+    "summary_pt": "Os e-mails que o diretor recebe tratam da civilidade, da entrevista de Broncano com Abascal, do acordo de deportações para Ruanda e da violência sexista."
   },
   {
     "title": "El ‘anticatalanismo’ del PP de Feijóo",
@@ -4617,6 +4645,20 @@
     "summary_pt": "O presidente Trump está realizando uma reunião de alto risco com o presidente chinês, Xi Jinping, nesta quinta-feira, em meio a um escândalo cada vez maior."
   },
   {
+    "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – as it happened",
+    "summary": "This live blog is now closed. Follow our live coverage of the Asia-Pacific economic cooperation summit Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries. CNN reported that officials said the administration underscored that what has h",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+    "date": "2026-11-19T03:11:52Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e39b145e8bd198f7317106c1412082ff",
+    "title_pt": "Trump minimiza as interrupções nos EUA e as preocupações com a segurança da Nvidia em comentários antes da cúpula da China – como aconteceu",
+    "summary_pt": "Este blog ao vivo está fechado. Acompanhe a nossa cobertura ao vivo da cimeira de cooperação económica da Ásia-Pacífico Inscreva-se para receber um e-mail de notícias de última hora dos EUA Ligado a isso, a Casa Branca realizou hoje uma teleconferência com vários repórteres sobre a onda de interrupções tecnológicas que afectam várias indústrias. A CNN informou que as autoridades disseram que o governo ressaltou que o que aconteceu"
+  },
+  {
     "title": "'GTA VI' to supercharge Sony — but not so much in Japan",
     "summary": "'GTA VI' to supercharge Sony — but not so much in Japan Reuters",
     "category": "Geral",
@@ -4717,7 +4759,7 @@
   {
     "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5240,7 +5282,7 @@
   {
     "title": "The seven Anthropic founders who are about to become multi-billionaires",
     "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5608,7 +5650,7 @@
   {
     "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
     "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5702,34 +5744,6 @@
     "image": "https://images.euronews.com/articles/stories/09/99/86/14/696x392_cmsv2_2d81b41a-d5fb-5d6f-8796-471016fb7c82-9998614.jpg",
     "title_pt": "Secretário de Defesa dos EUA anuncia cooperação militar em visita surpresa a Caracas",
     "summary_pt": "O secretário de Defesa dos EUA se reuniu com Delcy Rodríguez em Caracas antes de uma visita programada à Colômbia, onde deve discutir a cooperação bilateral em matéria de segurança."
-  },
-  {
-    "title": "Sanofi's pill becomes first US-approved drug for rare neurological disorder",
-    "summary": "Sanofi's pill becomes first US-approved drug for rare neurological disorder Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHpfNllEdVdGTWN5cmhTR1Q4XzlPYkxubEplQ0xkNGJzNE14QU5paFBQeXd5UXBYamEwZVAtaUFiZlhYSnNRYXlOR0NjQVRrYWx5YlZQd0F1SU5iT2NtdFE4bE5jTHJqeWpDTmhRRGlzMW5oa0RJaE14WWJfNjZkYldOeXdldHN5ckYxeWFYRTM4R3lybUJOUnNjaEZlWmJ1TDN4d3lONUhIdXJqaXhQSTZyTnAxNzhj?oc=5",
-    "date": "2026-11-18T20:56:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Pílula da Sanofi se torna o primeiro medicamento aprovado nos EUA para doença neurológica rara",
-    "summary_pt": "Pílula da Sanofi se torna primeiro medicamento aprovado nos EUA para doença neurológica rara Reuters"
-  },
-  {
-    "title": "Anthropic IPO to mint thousands of millionaires",
-    "summary": "Anthropic IPO to mint thousands of millionaires Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW1QU3VfRndFeVFEODFZbWVTcUVkcE1CelRpYmJWZ0FleXRVd3EwbjFXeHRmbUJQUDBsQXFQc21iVjdCRHFscy1qQjZWeWhIMnF6d0NBR3gxQmRERFdyLXBDNFFpZDQtY05mT3REaThpVWdVSVQzLUtmOUpweHZmc0dvWEFjbmpxWDdadjNzaFI4ajNmNUZsVVlhb05hWm5qRFdNTV9R?oc=5",
-    "date": "2026-11-18T20:48:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "IPO antrópico para cunhar milhares de milionários",
-    "summary_pt": "IPO antrópico para cunhar milhares de milionários Reuters"
   },
   {
     "title": "Muslims projected to outnumber Christians worldwide by 2035",
@@ -7002,19 +7016,5 @@
     "image": "https://static01.nyt.com/images/2026/11/18/world/asia/18vid-trump-jollibee-COVER/18vid-trump-jollibee-COVER-mediumSquareAt3X.jpg",
     "title_pt": "Frango frito e bate-papo com um velho amigo: como Marcos atendeu Trump",
     "summary_pt": "O presidente Ferdinand R. Marcos Jr. das Filipinas elogiou o presidente Trump durante sua breve visita a Manila. Não está claro quais dividendos a estratégia produzirá."
-  },
-  {
-    "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
-    "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
-    "category": "Tecnologia",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-18T13:16:53Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4986/live/43b39be0-e34c-11f1-99aa-0f40b013ad11.jpg",
-    "title_pt": "Hacks, IA ou apenas atualizações atrasadas – por que houve tantas interrupções?",
-    "summary_pt": "Não há evidências de que estejam ligados, mas a série constante de interrupções tecnológicas pode ser enervante."
   }
 ]
