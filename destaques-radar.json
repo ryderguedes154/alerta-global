@@ -1,9 +1,22 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T09:29:21.236797Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T09:34:35.484524Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Como a guerra no Irã vai remodelar a ordem energética global",
+      "summary": "A Agência Internacional de Energia, em sua análise mais abrangente das consequências da guerra, constatou que o choque do petróleo pode acelerar a adoção de fontes de energia alternativas.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+      "published_on": "19/11/2026 05:25 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Ucrânia: quatro mortos e pelo menos 13 feridos em ataque russo a Odessa",
       "summary": "Os ataques russos ao centro histórico de Odessa, na Ucrânia, mataram quatro pessoas e feriram pelo menos outras 13 na quarta-feira, 18 de novembro de 2026, de acordo com a administração militar da cidade.",
@@ -41,19 +54,6 @@
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
       "published_on": "19/11/2026 03:26 (Boa Vista)",
       "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Como a guerra no Irã vai remodelar a ordem energética global",
-      "summary": "A Agência Internacional de Energia, em sua análise mais abrangente das consequências da guerra, constatou que o choque do petróleo pode acelerar a adoção de fontes de energia alternativas.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
-      "published_on": "19/11/2026 01:00 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
