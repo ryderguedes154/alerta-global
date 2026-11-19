@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-19T19:05:25.274Z",
+  "updated_at": "2026-11-19T19:40:31.438Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "COP31 retira menção aos combustíveis fósseis de nova minuta de acordo",
+      "summary": "Negociadores da COP31, na Turquia, divulgaram em 19 de novembro nova minuta sem referência explícita aos combustíveis fósseis. O texto ainda não é um acordo final e enfrenta oposição de países vulneráveis, incluindo ameaça de bloqueio pelo Panamá.",
+      "impact_br": "O resultado final pode influenciar compromissos climáticos, financiamento para adaptação e políticas de energia e florestas relevantes para o Brasil; não há mudança obrigatória confirmada.",
+      "category": "clima",
+      "region": "Global / Turquia",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/cop/cop31-negotiators-publish-revised-deal-text-with-no-mention-fossil-fuels-2026-11-19/",
+      "published_on": "2026-11-19",
+      "published_at": "2026-11-19T08:13:00-04:00",
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-19T19:40:31.438Z"
+    },
     {
       "title": "Anthropic estreia na Nasdaq e chega a cerca de US$ 2 trilhões em valor de mercado",
       "summary": "Em 19 de novembro, as ações da Anthropic estrearam na Nasdaq a US$ 111,50, alta de 34% sobre o preço da oferta de US$ 83, levando a avaliação da companhia a aproximadamente US$ 2 trilhões na abertura. Depois, os papéis reduziram os ganhos, indicando volatilidade. A oferta inicial já havia sido anunciada anteriormente.",
