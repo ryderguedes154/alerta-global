@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-19T01:12:58.321Z",
+  "updated_at": "2026-11-19T03:30:03.688Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Conselho de Paz dos EUA aponta descumprimentos de Israel e Hamas no cessar-fogo em Gaza",
+      "summary": "Relatório do Conselho de Paz criado por Donald Trump afirma que Israel e Hamas não cumpriram compromissos do plano de cessar-fogo em Gaza, colocando a trégua em risco. O Hamas rejeitou as conclusões; não há anúncio de rompimento formal do acordo.",
+      "impact_br": "Sem impacto direto confirmado no Brasil; eventual agravamento pode aumentar tensões diplomáticas e riscos no Oriente Médio.",
+      "category": "geopolitica",
+      "region": "Oriente Médio",
+      "country": "PS",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/trumps-board-peace-faults-israel-hamas-failure-end-gaza-war-2026-11-18/",
+      "published_on": "2026-11-18",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-19T03:30:03.688Z"
+    },
     {
       "title": "Estados Unidos e Venezuela anunciam acordo para restabelecer cooperação militar",
       "summary": "Em 18 de novembro, o secretário de Defesa americano Pete Hegseth anunciou em Caracas, ao lado da presidente interina Delcy Rodríguez, um acordo de cooperação militar que prevê treinamento conjunto e compartilhamento de inteligência. Reuters e Associated Press confirmaram o anúncio; os detalhes de implementação ainda não foram divulgados.",
