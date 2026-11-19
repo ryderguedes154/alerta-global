@@ -10,8 +10,8 @@
     "date": "2026-11-19T05:34:11Z",
     "lang": "en",
     "image": "https://images.euronews.com/articles/stories/09/99/88/45/696x392_cmsv2_26cfb35a-bdc1-528e-ad72-f1a219621dd4-9998845.jpg",
-    "summary_pt": "Zelenskyy espera informações dos enviados dos EUA sobre as negociações de Trump com Xi e Putin",
-    "title_pt": "Zelenskyy diz que espera informações dos enviados dos EUA sobre as negociações de Trump com Xi e Putin"
+    "title_pt": "Zelenskyy diz que espera informações dos enviados dos EUA sobre as negociações de Trump com Xi e Putin",
+    "summary_pt": "Zelenskyy espera informações dos enviados dos EUA sobre as negociações de Trump com Xi e Putin"
   },
   {
     "title": "‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking",
@@ -161,7 +161,7 @@
     "country": "FR",
     "source": "Le Monde",
     "url": "https://www.lemonde.fr/economie/article/2026/11/19/la-crise-du-detroit-d-ormuz-favorise-une-etroite-convergence-entre-securite-energetique-et-objectifs-climatiques-selon-le-directeur-de-l-aie-fatih-birol_6813236_3234.html",
-    "date": "2026-11-19T05:00:41Z",
+    "date": "2026-11-19T05:00:28Z",
     "lang": "fr",
     "image": "https://img.lemde.fr/2026/11/13/0/0/2562/1708/1440/960/60/0/82c0be6_ftp-1-acpw647fk74z-afp-d7dv4pg.jpg",
     "title_pt": "A crise no Estreito de Ormuz favorece \"uma estreita convergência entre a segurança energética e as metas climáticas\", segundo o diretor da AIE, Fatih Birol.",
@@ -1452,8 +1452,8 @@
     "date": "2026-11-19T03:19:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Ameaça de mísseis Houthi contra Riad causa danos, diz coalizão liderada pela Arábia Saudita Reuters",
-    "title_pt": "Ameaça de mísseis Houthi contra Riad causa danos, diz coalizão liderada pela Arábia Saudita"
+    "title_pt": "Ameaça de mísseis Houthi contra Riad causa danos, diz coalizão liderada pela Arábia Saudita",
+    "summary_pt": "Ameaça de mísseis Houthi contra Riad causa danos, diz coalizão liderada pela Arábia Saudita Reuters"
   },
   {
     "title": "What to know about Trump's meeting with Xi in China",
@@ -1668,7 +1668,7 @@
   {
     "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-    "category": "Clima e desastres",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2385,20 +2385,6 @@
     "summary_pt": "Fala foi feita horas antes de uma reunião trilateral histórica entre ele, o líder chinês, Xi Jinping, e o líder russo, Vladimir Putin"
   },
   {
-    "title": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
-    "summary": "Mr. Rajab spent his life fighting for greater political freedoms in his home country, undeterred by years in prison. He died in exile.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
-    "date": "2026-11-19T01:14:12Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/17int-bahrain-2-fqzp-print1/17int-bahrain-2-fqzp-mediumSquareAt3X.jpg",
-    "title_pt": "Nabeel Rajab, ativista bahreinita dos direitos humanos, morre aos 62 anos",
-    "summary_pt": "O Sr. Rajab passou a vida lutando por maiores liberdades políticas em seu país de origem, sem se deixar intimidar por anos de prisão. Ele morreu no exílio."
-  },
-  {
     "title": "Campinas confirma terceira morte por febre maculosa em 2026",
     "summary": "Vítima de 54 anos era funcionário terceirizado e pode ter sido infectada no campus da Unicamp; em 2025, na cidade, foram registradas seis mortes",
     "category": "Geral",
@@ -2411,6 +2397,20 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/13701_A2DDE58675547AB9.jpg?w=200",
     "title_pt": "Campinas confirma terceira morte por febre maculosa em 2026",
     "summary_pt": "Vítima de 54 anos era funcionário terceirizado e pode ter sido infectada no campus da Unicamp; em 2025, na cidade, foram registradas seis mortes"
+  },
+  {
+    "title": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
+    "summary": "Mr. Rajab spent his life fighting for greater political freedoms in his home country, undeterred by years in prison. He died in exile.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
+    "date": "2026-11-19T01:14:12Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/17int-bahrain-2-fqzp-print1/17int-bahrain-2-fqzp-mediumSquareAt3X.jpg",
+    "title_pt": "Nabeel Rajab, ativista bahreinita dos direitos humanos, morre aos 62 anos",
+    "summary_pt": "O Sr. Rajab passou a vida lutando por maiores liberdades políticas em seu país de origem, sem se deixar intimidar por anos de prisão. Ele morreu no exílio."
   },
   {
     "title": "Settler rams into Palestinians at multiple locations in central Israel",
@@ -2493,8 +2493,8 @@
     "date": "2026-11-19T01:07:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Fiji declara estado de desastre em meio à seca provocada pelo El Niño Reuters",
-    "title_pt": "Fiji declara estado de desastre em meio à seca provocada pelo El Niño"
+    "title_pt": "Fiji declara estado de desastre em meio à seca provocada pelo El Niño",
+    "summary_pt": "Fiji declara estado de desastre em meio à seca provocada pelo El Niño Reuters"
   },
   {
     "title": "Com aprovação de pacote fiscal, Lula avalia Moretti para a Fazenda",
@@ -2619,8 +2619,8 @@
     "date": "2026-11-19T00:56:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Musk diz que se sentiu “muito tolo” sobre a escala dos gastos de médio prazo após a derrota republicana Reuters",
-    "title_pt": "Musk diz que se sentiu “muito tolo” sobre a escala dos gastos de médio prazo após a derrota republicana"
+    "title_pt": "Musk diz que se sentiu “muito tolo” sobre a escala dos gastos de médio prazo após a derrota republicana",
+    "summary_pt": "Musk diz que se sentiu “muito tolo” sobre a escala dos gastos de médio prazo após a derrota republicana Reuters"
   },
   {
     "title": "Jetour vai fabricar carros no Brasil em 2027 com aporte de R$ 400 milhões",
@@ -3045,7 +3045,7 @@
   {
     "title": "Why has Waymo pulled all its driverless cars from US freeways?",
     "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3087,7 +3087,7 @@
   {
     "title": "The seven Anthropic founders who are about to become multi-billionaires",
     "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "category": "Clima e desastres",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3193,8 +3193,8 @@
     "date": "2026-11-18T23:27:04Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Mais alto tribunal da ONU decidirá sobre suposto genocídio dos rohingyas de Mianmar Reuters",
-    "title_pt": "Supremo tribunal da ONU decidirá sobre suposto genocídio dos Rohingya de Mianmar"
+    "title_pt": "Supremo tribunal da ONU decidirá sobre suposto genocídio dos Rohingya de Mianmar",
+    "summary_pt": "Mais alto tribunal da ONU decidirá sobre suposto genocídio dos rohingyas de Mianmar Reuters"
   },
   {
     "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
@@ -3263,8 +3263,8 @@
     "date": "2026-11-18T23:19:26Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "EXCLUSIVO: Anthropic conquista o maior IPO de todos os tempos com oferta de US$ 81 bilhões à Reuters",
-    "title_pt": "EXCLUSIVO: Anthropic conquista o maior IPO de todos os tempos com oferta de US$ 81 bilhões"
+    "title_pt": "EXCLUSIVO: Anthropic conquista o maior IPO de todos os tempos com oferta de US$ 81 bilhões",
+    "summary_pt": "EXCLUSIVO: Anthropic conquista o maior IPO de todos os tempos com oferta de US$ 81 bilhões à Reuters"
   },
   {
     "title": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance",
@@ -3619,20 +3619,6 @@
     "summary_pt": "A Ucrânia atingiu a ponte Kerch que liga a Rússia à Crimeia ocupada, mas nem todas as imagens dramáticas que circulam online são reais. Vários vídeos gerados por IA mostram falsamente a ponte desabou com grandes danos. Alguns até usaram uma marca semelhante a uma agência de notícias ucraniana para parecerem credíveis. Embora a ponte tenha sido de fato atingida e danificada, os vídeos virais que"
   },
   {
-    "title": "Grand Theft Auto VI draws rave reviews as gamers enter Vice City",
-    "summary": "Grand Theft Auto VI draws rave reviews as gamers enter Vice City Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVVqRHRmV1VIanMwYjl6bHB4R0FTSWZOVFY5RXVYSmtaOVZQMVhXNkoxVjM1NF9ZUUZYa2hneUMxeTBzRC1WTFJQZVJBOTAweVhHOFhfZFJIVmt6cTdHMGxwYnFDUjZaYUZJVGlvV2dOVGFvVWVDY3FaX2VHQWZ4dlhlRGxQdDhETVN5aFA0OG9hOVVHMFBYbHFESkxEY0ZPeUV0a0U3LTFvZFRnWk9oQkhwdTVSbmdGQUZHSk02UzE?oc=5",
-    "date": "2026-11-18T21:39:54Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Grand Theft Auto VI recebe ótimas críticas quando os jogadores entram em Vice City",
-    "summary_pt": "Grand Theft Auto VI recebe ótimas críticas quando os jogadores entram em Vice City Reuters"
-  },
-  {
     "title": "Data watchdog probes massive Deutsche Bank leak",
     "summary": "Data watchdog probes massive Deutsche Bank leak Reuters",
     "category": "Geral",
@@ -3679,7 +3665,7 @@
   {
     "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
     "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3729,8 +3715,8 @@
     "date": "2026-11-18T21:26:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Anthropic levanta recorde de US$ 81 bilhões em IPO com avaliação de US$ 1,5 trilhão Reuters",
-    "title_pt": "Anthropic levanta recorde de US$ 81 bilhões em IPO com avaliação de US$ 1,5 trilhão"
+    "title_pt": "Anthropic levanta recorde de US$ 81 bilhões em IPO com avaliação de US$ 1,5 trilhão",
+    "summary_pt": "Anthropic levanta recorde de US$ 81 bilhões em IPO com avaliação de US$ 1,5 trilhão Reuters"
   },
   {
     "title": "Bassirou Diomaye Faye excluded from Senegal's ruling party",
@@ -3827,8 +3813,8 @@
     "date": "2026-11-18T21:05:46Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Newsmax processa Fox para cancelar aquisição da Roku por US$ 22 bilhões Reuters",
-    "title_pt": "Newsmax processa Fox para cancelar aquisição da Roku por US$ 22 bilhões"
+    "title_pt": "Newsmax processa Fox para cancelar aquisição da Roku por US$ 22 bilhões",
+    "summary_pt": "Newsmax processa Fox para cancelar aquisição da Roku por US$ 22 bilhões Reuters"
   },
   {
     "title": "US Defence Secretary announces military cooperation in surprise Caracas visit",
@@ -3897,8 +3883,8 @@
     "date": "2026-11-18T20:43:20Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Israel lança operação terrestre no centro de Gaza, dezenas fogem Reuters",
-    "title_pt": "Israel lança operação terrestre no centro de Gaza, dezenas de pessoas fogem"
+    "title_pt": "Israel lança operação terrestre no centro de Gaza, dezenas de pessoas fogem",
+    "summary_pt": "Israel lança operação terrestre no centro de Gaza, dezenas fogem Reuters"
   },
   {
     "title": "Muslims projected to outnumber Christians worldwide by 2035",
@@ -4011,8 +3997,8 @@
     "date": "2026-11-18T20:31:31Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Democratas nomeiam Hakeem Jeffries para próximo presidente da Câmara dos EUA Reuters",
-    "title_pt": "Democratas nomeiam Hakeem Jeffries para próximo presidente da Câmara dos EUA"
+    "title_pt": "Democratas nomeiam Hakeem Jeffries para próximo presidente da Câmara dos EUA",
+    "summary_pt": "Democratas nomeiam Hakeem Jeffries para próximo presidente da Câmara dos EUA Reuters"
   },
   {
     "title": "What the Crimean bridge attack means for Russia",
@@ -4151,8 +4137,8 @@
     "date": "2026-11-18T20:16:28Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Wall Street se prepara para o frenesi antrópico de IPO, apesar da queda mais ampla das ações de IA Reuters",
-    "title_pt": "Wall Street se prepara para o frenesi antrópico de IPO, apesar da queda mais ampla das ações de IA"
+    "title_pt": "Wall Street se prepara para o frenesi antrópico de IPO, apesar da queda mais ampla das ações de IA",
+    "summary_pt": "Wall Street se prepara para o frenesi antrópico de IPO, apesar da queda mais ampla das ações de IA Reuters"
   },
   {
     "title": "Guerre en Ukraine : la Commission européenne met sur la table un nouvel emprunt européen pour financer l’aide à Kiev",
@@ -4361,8 +4347,8 @@
     "date": "2026-11-18T19:25:15Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Ford envia as primeiras células de bateria usando tecnologia CATL Reuters",
-    "title_pt": "Ford envia as primeiras células de bateria com tecnologia CATL"
+    "title_pt": "Ford envia as primeiras células de bateria com tecnologia CATL",
+    "summary_pt": "Ford envia as primeiras células de bateria usando tecnologia CATL Reuters"
   },
   {
     "title": "Voyager 1 sets distance record of 1 \"light day\" from Earth",
@@ -4589,8 +4575,8 @@
     "date": "2026-11-18T18:31:56Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Take-Two, editora de 'GTA VI', salta enquanto os jogadores apreciam o lançamento de grande sucesso Reuters",
-    "title_pt": "A editora de 'GTA VI', Take-Two, salta enquanto os jogadores apreciam o lançamento de grande sucesso"
+    "title_pt": "A editora de 'GTA VI', Take-Two, salta enquanto os jogadores apreciam o lançamento de grande sucesso",
+    "summary_pt": "Take-Two, editora de 'GTA VI', salta enquanto os jogadores apreciam o lançamento de grande sucesso Reuters"
   },
   {
     "title": "Israel launches new ground operation in Gaza",
@@ -4985,8 +4971,8 @@
     "date": "2026-11-18T17:04:11Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Bulgária descobre operação de ciberespionagem de cinco anos Reuters",
-    "title_pt": "Bulgária descobre operação de ciberespionagem de cinco anos"
+    "title_pt": "Bulgária descobre operação de ciberespionagem de cinco anos",
+    "summary_pt": "Bulgária descobre operação de ciberespionagem de cinco anos Reuters"
   },
   {
     "title": "Threats from Iran have increased substantially, US intelligence director says",
@@ -5336,7 +5322,9 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbEE1dGhXVGJrYlFUZHZySzRlNDdaQ0dKckl1MFpkdE94V1JaODhValBDZDYxUjl3NXhTc1c2SS1xQUIzZ2hDWUoyYi12T2RCdV9HczFJZnhKZGpsZl80dzB2bnpKMU5yZ3BtMVVhRGJXRHFONE1BQVFQMzFaNlA0X1ZQNXh3RUJKR0JvcF9GVkVYY29sREppRnlmRGVjZ0NmY19MOGlWdWs0a0QwYk5mTzloODFUQ2VVU3liQi1JS21FUzBYN3VJNA?oc=5",
     "date": "2026-11-18T15:54:00Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "À medida que as críticas aumentam, a administração Trump diz que as interrupções tecnológicas não são coordenadas",
+    "summary_pt": "À medida que as críticas aumentam, a administração Trump diz que interrupções tecnológicas não foram coordenadas Reuters"
   },
   {
     "title": "Amazon pledges €6.3bn for renewable energy projects in India: Who will benefit from the clean electricity?",
@@ -5362,7 +5350,9 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkJqT2oyYk82bDFiWGJYTVlhX2hxNWs5NzFWY01GTUZVLV8zbWgycFhsTjhuOEcxUTF4Y1BiTWNxUWp4THZhdjBYVnMxd1lCY0d0YlpIWlltUV9JckxaMG5zSURFaW5VV1hGVnBzcm04TENiQWpjWFVwU211MW9qYTdwbERzX19CQkY4UVNseVFMSERmemJPTGY5bmRScXRmaUNEOGhhbm4yOHVGRmtZLXgyN1VBRnJvVngw?oc=5",
     "date": "2026-11-18T15:46:19Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "summary_pt": "Chefe da espionagem israelense fez lobby por ataques conjuntos ao Irã em visita aos EUA, dizem fontes Reuters",
+    "title_pt": "Chefe da espionagem israelense fez lobby por ataques conjuntos ao Irã em visita aos EUA, dizem fontes"
   },
   {
     "title": "US House Democrats nominate Hakeem Jeffries for speaker",
@@ -5555,7 +5545,9 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWZxREZPaThlNEtsN1Z2V2s3bVpMbkpiOEYyV19nS2paZndRczh0SG5pcURzTmFSMzYyNDlPbDJFRTIwZTBScFpSLUVrMDNtWm9xMndPT1JHdk00WTFNVlZOdGE1LS1TdHJJX0hsMXI4eEV2cEhEVTkzWVp6ZkNxWVdMbl9lS2FqRnl3TWlEbnRDb1NqLU1iYmtvSkxDa19GWEJpckk1bEI3U09TcDdvQ1ViS25jRXZTZ1U5RA?oc=5",
     "date": "2026-11-18T15:10:58Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "summary_pt": "EXCLUSIVO: Ataques de drones reduzem quase pela metade o refino de petróleo da Rússia em novembro, dizem fontes Reuters",
+    "title_pt": "EXCLUSIVO: Ataques de drones reduzem quase pela metade o refino de petróleo da Rússia em novembro, dizem fontes"
   },
   {
     "title": "'Coalition of the Willing' meets in Berlin: Europe remains committed to Ukraine",
@@ -5595,7 +5587,9 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
     "date": "2026-11-18T14:52:22Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "summary_pt": "UE propõe empréstimo de 45 mil milhões de euros à Ucrânia, a ser reembolsado depois de a Rússia pagar reparações Reuters",
+    "title_pt": "UE propõe empréstimo de 45 mil milhões de euros à Ucrânia, a ser reembolsado depois de a Rússia pagar reparações"
   },
   {
     "title": "Has the 'Parthenon puzzle' been solved? The long quest to reassemble lost eastern pediment",
@@ -5635,7 +5629,9 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0txUndxQmRJNU1nMUZSVFc5d29OSDkwSWMyOHB5VC1iVVZwY3IwaEs3VlRkbEtHVGRmazVueE1YSjA4N0N4OElZRVdfM0trQ0dnaVptanRtRWVoWERLMWlUUjlac2ozVlRjMWdqMDQ1ODBOZEtPb2FKVFA0UXJpeGdjck1OMDMzdEhhQ2piTDd4QnFXcm12Vlh2MHVKcXNQUTdJWVZlV1E?oc=5",
     "date": "2026-11-18T14:43:54Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "EXCLUSIVO: Sauditas se preparam para que a campanha no Iêmen dure até 2027",
+    "summary_pt": "EXCLUSIVO: Sauditas se preparam para campanha no Iêmen durar até 2027 Reuters"
   },
   {
     "title": "Presidente do México vai à China em voo comercial, cumprimenta passageiros e viraliza no país asiático; VÍDEO",
@@ -5759,7 +5755,9 @@
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDZSN1l6SEx3bUd6UVNNNk5NaDM3YVlhTXVRMmZSSWhKSy1zRllaRGQ0cmYwdXpUNjNDV25kUUFjQXVOejl5NVRCY01ITE1QalY5ZHhLb3lEUGhTNEhfMm1oeGZrWmRSaXlOUEViaGZRLV9tQW80UWJURV9Yc3U5WWg5SnlqeGlEYlZGdGpIUHRoOUx6U3d1QkhRd3BPaVRNNnVhZFctUzg?oc=5",
     "date": "2026-11-18T14:16:43Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Ameaças de bomba falsas forçam a evacuação de várias escolas na Espanha",
+    "summary_pt": "Ameaças de bomba falsas forçam evacuação de várias escolas na Espanha Reuters"
   },
   {
     "title": "Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?",
@@ -6040,6 +6038,20 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492e/live/f37939a0-e346-11f1-99aa-0f40b013ad11.jpg",
     "title_pt": "Kuwait diz que repeliu primeiro ataque iraniano em dois meses após ataque dos EUA à ilha",
     "summary_pt": "O Bahrein diz que também foi atacado pelo Irã após um ataque aéreo dos EUA na ilha iraniana de Qeshm, no Golfo, na terça-feira."
+  },
+  {
+    "title": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say",
+    "summary": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say Reuters",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEJBNVB0dkdmX1h1VU1fRTJkVGdQN3oyWWZlOTBqaFVPOHBIcWk2YlJ1M2poeFpLcWxlNV9rOHBQYTRwdzRaN2ZKbkNveGgyMkFBRmY1b2t4REJSampnVjdaZnlmYVA3Vm1oU0o5T093T0t0QjNQZU8xeHRzWGZRaERvVXJpUFNqZDhQcjZfSVFHSktmVGZ5anIzZWpxMXlfU0VqR2VybTFlSzl1R0M1R01IY1BEanRJSFJQQU5pLWFXMGs?oc=5",
+    "date": "2026-11-18T13:04:03Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "Etiópia e Eritreia reúnem forças ao longo da fronteira, aumentando os temores de guerra, dizem fontes Reuters",
+    "title_pt": "Etiópia e Eritreia reúnem forças ao longo da fronteira, aumentando os temores de guerra, dizem fontes"
   },
   {
     "title": "Fossil fuel exit becomes COP31 flashpoint – but four more European countries are taking the leap",
@@ -6438,7 +6450,7 @@
   {
     "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
     "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
-    "category": "Clima e desastres",
+    "category": "Saúde",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
