@@ -1,8 +1,8 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T18:21:35.188166Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T18:27:18.587712Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi, Trump e Putin, após a cúpula de Shenzhen: \"Uma guerra nuclear não pode ser vencida e nunca deve ser travada\"",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Aumento das cremações diretas desde a pandemia",
-      "summary": "Um relatório de 2026 sobre o custo de falecer constatou que a cremação direta agora é escolhida em cerca de um em cada cinco funerais.",
+      "title": "A UE revela que sofreu um ciberataque \"impulsionado por IA\"",
+      "summary": "A UE revelou que sofreu um ataque cibernético impulsionado por IA no mês passado e, como resultado, algumas de suas ferramentas digitais ainda estão offline.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Saúde",
+      "category": "Segurança cibernética",
       "region": "Global",
       "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
-      "published_on": "19/11/2026 02:23 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e942/live/68574f50-d14f-11f1-93e1-3b657b665bcf.jpg",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
+      "published_on": "19/11/2026 11:38 (Boa Vista)",
+      "image": "https://e3.365dm.com/24/01/1920x1080/skynews-hacker-cyberattack_6439404.jpg?20240131153309",
       "selection": "automatic"
     }
   ]
