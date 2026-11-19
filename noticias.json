@@ -1,5 +1,81 @@
 [
   {
+    "title": "Rare stonefly found beside vanishing glacier on Chile's Navarino Island",
+    "summary": "An international team of scientists, including researchers from the University of Barcelona, has discovered a rare insect beside the remains of a glacier in Chilean Patagonia.",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/2026/11/19/rare-stonefly-found-beside-vanishing-glacier-on-chiles-navarino-island",
+    "date": "2026-11-19T06:04:44Z",
+    "lang": "en",
+    "image": "https://images.euronews.com/articles/stories/09/99/73/79/696x392_cmsv2_2489be45-28a8-5cf4-bba9-2d0524868dff-9997379.jpg"
+  },
+  {
+    "title": "Leftover pumpkins help deliver 1,000th free meal",
+    "summary": "\"It's a really tough time for a lot of people,\" a sustainable food organisation says.",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-19T06:04:30Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f0/live/0f7739c0-e3df-11f1-95b9-4f56547154ff.jpg"
+  },
+  {
+    "title": "Trump y Putin interactúan en Shenzhen antes de las reuniones con Xi",
+    "summary": "“Nos conocemos desde hace mucho tiempo y creo que de aquí pueden salir muchas cosas maravillosas, o al menos empezar a gestarse”, le ha confiado Trump a Putin",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
+    "date": "2026-11-19T06:03:26Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/PAW6W42Q5RMMBHT3K5I7U2FTLY.jpg?auth=9dbe5453ab96f0d1d15f2220fc9bebcc19583183d5a3dbb6d56f79a486d26c3d",
+    "title_pt": "Trump e Putin interagem em Shenzhen antes das reuniões com Xi",
+    "summary_pt": "\"Nos conhecemos há muito tempo e acho que muitas coisas maravilhosas podem surgir daqui, ou pelo menos começar a se formar\", disse Trump a Putin."
+  },
+  {
+    "title": "After A.I. Cheating Scandal, South Korea Adopts New Restrictions for Grueling College Entrance Exam",
+    "summary": "South Korea is sending loud emergency alerts to every phone in the country as part of a campaign to keep students taking a grueling test honest.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
+    "date": "2026-11-19T06:02:52Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-skorea-exam-klmw/18int-skorea-exam-klmw-mediumSquareAt3X.jpg",
+    "title_pt": "Após escândalo de trapaça com IA, Coreia do Sul adota novas restrições para o rigoroso vestibular universitário",
+    "summary_pt": "A Coreia do Sul está enviando alertas de emergência para todos os telefones do país como parte de uma campanha para garantir a honestidade dos estudantes que estão fazendo uma prova extenuante."
+  },
+  {
+    "title": "The dark side of AI: US data centres emit more carbon than all of Denmark",
+    "summary": "The Harvard study has revealed that pledges alone might not be enough, even as COP31 negotiators push for cleaner energy use in data centres.",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/2026/11/19/the-dark-side-of-ai-us-data-centres-emit-more-carbon-than-all-of-denmark",
+    "date": "2026-11-19T06:02:27Z",
+    "lang": "en",
+    "image": "https://images.euronews.com/articles/stories/09/99/83/24/696x392_cmsv2_e9f8c8eb-8807-5434-906e-9b68e63b6d8d-9998324.jpg"
+  },
+  {
+    "title": "Latest news bulletin | November 19th, 2026 – Morning",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/video/2026/11/19/latest-news-bulletin-november-19th-2026-morning",
+    "date": "2026-11-19T06:00:33Z",
+    "lang": "en",
+    "image": "https://images.euronews.com/articles/stories/09/99/89/10/696x392_cmsv2_3b2dbe3e-7860-56c6-b0dd-c188726f7767-9998910.jpg"
+  },
+  {
     "title": "Trump praises Putin ahead of rare joint meeting with Xi in China",
     "summary": "President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare face-to-face meeting in China.",
     "category": "Geral",
@@ -134,20 +210,6 @@
     "image": "https://i.guim.co.uk/img/media/9734e9d44f73179fe8d05ffbe6249bf97bea3d45/0_41_1284_1027/master/1284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64c2a90f04414c3656212b0c588f84c0",
     "title_pt": "\"Sorte notável\": destroços do primeiro navio de guerra construído na Austrália são descobertos exatamente 128 anos após o naufrágio",
     "summary_pt": "O HMCS Spitfire foi comissionado pelo governo colonial para proteger o país contra os navios de guerra russos baseados em Vladivostok durante a Guerra da Crimeia. Os destroços do primeiro navio de guerra construído localmente na Austrália foram descobertos 128 anos após o naufrágio na costa do extremo norte de Queensland. Arqueólogos marinhos encontraram os destroços do Ex-HMCS Spitfire em 21 de agosto, aniversário do seu naufrágio."
-  },
-  {
-    "title": "Trump y Putin interactúan en Shenzhen antes de las reuniones con Xi",
-    "summary": "“Nos conocemos desde hace mucho tiempo y creo que de aquí pueden salir muchas cosas maravillosas, o al menos empezar a gestarse”, le ha confiado Trump a Putin",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
-    "date": "2026-11-19T05:19:27Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/PAW6W42Q5RMMBHT3K5I7U2FTLY.jpg?auth=9dbe5453ab96f0d1d15f2220fc9bebcc19583183d5a3dbb6d56f79a486d26c3d",
-    "title_pt": "Trump e Putin interagem em Shenzhen antes das reuniões com Xi",
-    "summary_pt": "\"Nos conhecemos há muito tempo e acho que muitas coisas maravilhosas podem surgir daqui, ou pelo menos começar a se formar\", disse Trump a Putin."
   },
   {
     "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
@@ -1548,20 +1610,6 @@
     "summary_pt": "O presidente Trump está realizando uma reunião de alto risco com o presidente chinês, Xi Jinping, nesta quinta-feira, em meio a um escândalo cada vez maior."
   },
   {
-    "title": "After A.I. Cheating Scandal, South Korea Adopts New Restrictions for Grueling College Entrance Exam",
-    "summary": "South Korea is sending emergency alerts to every phone in the country as part of a campaign to keep students taking a grueling test honest.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html",
-    "date": "2026-11-19T03:15:42Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-skorea-exam-klmw/18int-skorea-exam-klmw-mediumSquareAt3X.jpg",
-    "title_pt": "Após escândalo de trapaça com IA, Coreia do Sul adota novas restrições para o rigoroso vestibular universitário",
-    "summary_pt": "A Coreia do Sul está enviando alertas de emergência para todos os telefones do país como parte de uma campanha para garantir a honestidade dos estudantes que estão fazendo uma prova extenuante."
-  },
-  {
     "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – as it happened",
     "summary": "This live blog is now closed. Follow our live coverage of the Asia-Pacific economic cooperation summit Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries. CNN reported that officials said the administration underscored that what has h",
     "category": "Geral",
@@ -1746,7 +1794,7 @@
   {
     "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-    "category": "Clima e desastres",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3123,7 +3171,7 @@
   {
     "title": "Why has Waymo pulled all its driverless cars from US freeways?",
     "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3343,6 +3391,18 @@
     "image": "https://s2-g1.glbimg.com/xmxYN48n-wQfEUTdUdQPfZJ1BhU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/b/9JDl6ETv61CuUmgjjsQw/afp-20261118-d7wn6zu-v1-highres-elsalvadorelectioncandidates.jpg",
     "title_pt": "Ex-deputada de direita se inscreve para disputar a Presidência de El Salvador",
     "summary_pt": "Maytee Iraheta, ex-deputada de direita, se inscreveu para disputar as eleições em El Salvador Marvin Recinos/AFP A ex-deputada de direita Mayteé Iraheta, do partido Arena, se inscreveu nesta quarta-feira (18) para disputar as eleições de fevereiro de 2027 em El Salvador, nas quais o presidente Nayib Bukele buscará um terceiro mandato. ✅ Siga o canal de notíc"
+  },
+  {
+    "title": "EXCLUSIVE: UniCredit and Germany reach broad agreement on Commerzbank takeover",
+    "summary": "EXCLUSIVE: UniCredit and Germany reach broad agreement on Commerzbank takeover Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbzY3bmFvcDFWWmUtWmRlTkg1OElfODl6Z1BCWG1LQlp3U0xsbXktUlo3SXRKczAxdEI2bGRSTmxLRDUwMXRMZU9LOGJuX0QyTkxLNHVnS254WkF6MVNRNmNsUkxZRXZreWh2d0R5M2JmZk1pUWZHYVg0R1BjUDBXNVlFOXpZRGhtRUxLd1F6UnViV0VQcHBGSWw0VjF4ZUU2dk9zQ3liMzNmY3k0TExRXzlVMA?oc=5",
+    "date": "2026-11-18T23:09:00Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Trump says historic summit with Xi, Putin already a 'win' before event",
@@ -3715,7 +3775,7 @@
   {
     "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
     "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3867,8 +3927,8 @@
     "summary_pt": "Newsmax processa Fox para cancelar aquisição da Roku por US$ 22 bilhões Reuters"
   },
   {
-    "title": "US Defence Secretary announces military cooperation in surprise Caracas visit",
-    "summary": "The US Defence Secretary met Delcy Rodríguez in Caracas ahead of a planned visit to Colombia, where he is due to discuss bilateral security cooperation.",
+    "title": "US Defense Secretary announces military cooperation in surprise Caracas visit",
+    "summary": "The US Defense Secretary met Delcy Rodríguez in Caracas ahead of a planned visit to Colombia, where he is due to discuss bilateral security cooperation.",
     "category": "Conflitos",
     "region": "Global",
     "country": "EU",
@@ -3876,9 +3936,7 @@
     "url": "https://www.euronews.com/2026/11/18/us-defence-secretary-announces-military-cooperation-in-surprise-caracas-visit",
     "date": "2026-11-18T21:02:43Z",
     "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/09/99/84/72/696x392_cmsv2_98b2d4a0-312f-5624-903e-88bfd513f7bd-9998472.jpg",
-    "title_pt": "Secretário de Defesa dos EUA anuncia cooperação militar em visita surpresa a Caracas",
-    "summary_pt": "O secretário da Defesa dos EUA encontrou-se com Delcy Rodríguez em Caracas antes de uma visita planeada à Colômbia, onde deverá discutir a cooperação bilateral em segurança."
+    "image": "https://images.euronews.com/articles/stories/09/99/86/14/696x392_cmsv2_2d81b41a-d5fb-5d6f-8796-471016fb7c82-9998614.jpg"
   },
   {
     "title": "Trois « revenantes » françaises condamnées à des peines de cinq à douze ans de prison pour avoir rejoint l’organisation Etat islamique",
@@ -6062,20 +6120,6 @@
     "summary_pt": "O Bahrein diz que também foi atacado pelo Irã após um ataque aéreo dos EUA na ilha iraniana de Qeshm, no Golfo, na terça-feira."
   },
   {
-    "title": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say",
-    "summary": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say Reuters",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEJBNVB0dkdmX1h1VU1fRTJkVGdQN3oyWWZlOTBqaFVPOHBIcWk2YlJ1M2poeFpLcWxlNV9rOHBQYTRwdzRaN2ZKbkNveGgyMkFBRmY1b2t4REJSampnVjdaZnlmYVA3Vm1oU0o5T093T0t0QjNQZU8xeHRzWGZRaERvVXJpUFNqZDhQcjZfSVFHSktmVGZ5anIzZWpxMXlfU0VqR2VybTFlSzl1R0M1R01IY1BEanRJSFJQQU5pLWFXMGs?oc=5",
-    "date": "2026-11-18T13:04:03Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Etiópia e Eritreia reúnem forças ao longo da fronteira, aumentando os temores de guerra, dizem fontes",
-    "summary_pt": "Etiópia e Eritreia reúnem forças ao longo da fronteira, aumentando os temores de guerra, dizem fontes Reuters"
-  },
-  {
     "title": "Fossil fuel exit becomes COP31 flashpoint – but four more European countries are taking the leap",
     "summary": "Four more EU countries have joined Finland, France, Germany and the Netherlands in publishing national roadmaps for the transition away from fossil fuels.",
     "category": "Clima e desastres",
@@ -6822,20 +6866,6 @@
     "summary_pt": "Xi Jinping e Vladimir Putin reúnem-se em Shenzhen antes de uma rara cimeira trilateral com Donald Trump, com foco em energia, finanças e segurança global."
   },
   {
-    "title": "MP urges council to speed up heating oil payments",
-    "summary": "About 23,000 households use heating oil in Northumberland and face increasing bills this winter.",
-    "category": "Economia",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cm792dqz4qvyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-18T08:48:26Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d421/live/2dc9e9f0-4399-11f0-ab6c-0dce3e1729a7.jpg",
-    "title_pt": "Deputado insta Câmara a acelerar pagamentos de óleo para aquecimento",
-    "summary_pt": "Cerca de 23.000 famílias usam óleo para aquecimento em Northumberland e enfrentam contas crescentes neste inverno."
-  },
-  {
     "title": "Security flaw found in Java, world's third-largest programming language",
     "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
     "category": "Tecnologia",
@@ -6974,47 +7004,5 @@
     "image": "https://images.euronews.com/articles/stories/09/99/72/56/696x392_cmsv2_454879e9-8c2d-58a5-abf9-fd2f6a351ece-9997256.jpg",
     "title_pt": "Haiti formaliza pacto de segurança com El Salvador enquanto milhares de pessoas marcham em apoio a Bukele",
     "summary_pt": "Nos primeiros 10 meses de 2026, a ONU registou 4.595 mortes e 2.050 feridos devido à violência armada no Haiti."
-  },
-  {
-    "title": "Rubio Says Cyberattacks Are Not the Cause of Recent Tech Outages",
-    "summary": "Secretary of State Marco Rubio suggested the rush to patch systems, whose vulnerabilities are exposed by A.I., may explain recent failures with air traffic controls, banks and government agencies.",
-    "category": "Segurança cibernética",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
-    "date": "2026-11-18T06:46:29Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-rubio-systems-qlkb/18int-rubio-systems-qlkb-mediumSquareAt3X.jpg",
-    "title_pt": "Rubio afirma que os ataques cibernéticos não são a causa das recentes interrupções tecnológicas",
-    "summary_pt": "O secretário de Estado, Marco Rubio, sugeriu que a pressa em corrigir sistemas, cujas vulnerabilidades são expostas pela IA, pode explicar as recentes falhas nos controlos de tráfego aéreo, bancos e agências governamentais."
-  },
-  {
-    "title": "Democrat defeats Republican in Alaska in final midterms Senate race",
-    "summary": "Democrat Mary Peltola has defeated incumbent Republican Dan Sullivan to complete a sweeping victory for the party in the Senate in the US midterm elections.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "Sky News",
-    "url": "https://news.sky.com/story/democrat-defeats-republican-in-alaska-in-final-midterms-senate-race-13613459",
-    "date": "2026-11-18T06:46:00Z",
-    "lang": "en",
-    "image": "https://e3.365dm.com/26/11/1920x1080/skynews-mary-peltola-alaska_7409289.jpg?20261118081251",
-    "title_pt": "Democrata derrota republicano no Alasca na corrida final de meio de mandato para o Senado",
-    "summary_pt": "A democrata Mary Peltola derrotou o atual republicano Dan Sullivan para completar uma vitória arrebatadora do partido no Senado nas eleições intercalares dos EUA."
-  },
-  {
-    "title": "Conservationists searching for large river eels",
-    "summary": "The Tees Rivers Trust has been searching for eels to tag and track as they migrate out to sea.",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/ck3rgl783xqro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-18T06:19:28Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55ec/live/b074fa60-df75-11f1-b441-2b33b063138f.jpg",
-    "title_pt": "Conservacionistas em busca de grandes enguias fluviais",
-    "summary_pt": "O Tees Rivers Trust tem procurado enguias para marcar e rastrear enquanto migram para o mar."
   }
 ]
