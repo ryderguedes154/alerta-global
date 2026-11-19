@@ -1,11 +1,11 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T13:34:58.863052Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T13:40:09.262463Z",
+  "status": "checado",
   "items": [
     {
-      "title": "China, Rússia e EUA concordam, em declaração de paz conjunta, que 'guerra nuclear nunca deve ser travada'",
+      "title": "China, Rússia e EUA dizem, em declaração de paz conjunta, que 'guerra nuclear nunca deve ser travada'",
       "summary": "Reunião histórica: líderes de EUA, Rússia e China se encontram em Shenzhen China, Rússia e Estados Unidos manterão um diálogo sobre riscos nucleares e concordam que uma guerra nuclear nunca deve acontecer, anunciaram os três países em conjunto, por meio de uma \"declaração de paz\". ✅ Siga o canal de notícias internacionais do g1 no WhatsApp ANÁLISE: Trump che",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
@@ -79,20 +79,7 @@
       "source": "CNN Brasil",
       "url": "https://www.cnnbrasil.com.br/internacional/china-eua-e-russia-anunciam-declaracao-conjunta-diz-midia-chinesa/",
       "published_on": "19/11/2026 06:53 (Boa Vista)",
-      "image": "https://img.youtube.com/vi/AIZPdH8h-9Q/sddefault.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas",
-      "summary": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas Reuters/Divulgação/Reprodução O mundo, de novo, não acabou. Mas a previsão de um \"apagão mundial\" dominou as redes sociais na terça-feira (17), em meio a uma onda de ataques hackers que, desde outubro, atinge de geladeiras de supermercados a bancos. Só no Brasil",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Segurança cibernética",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
-      "published_on": "18/11/2026 10:00 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/StOpkhTXMduUC0pSWqJFLpLDK1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/8/ighTEAQ56v09DkC5HywQ/fotojet-24-.jpg",
+      "image": "https://img.youtube.com/vi/f0ynWw782Q8/sddefault.jpg",
       "selection": "automatic"
     },
     {
@@ -106,6 +93,19 @@
       "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
       "published_on": "19/11/2026 02:23 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e942/live/68574f50-d14f-11f1-93e1-3b657b665bcf.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Combustíveis fósseis retirados do projeto de acordo da COP31, apesar do crescente impulso",
+      "summary": "A transição para longe dos combustíveis fósseis (TAFF) se tornou um ponto crucial de discussão na cúpula anual da ONU sobre o clima.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/19/fossil-fuels-scrubbed-from-cop31-draft-deal-despite-growing-momentum",
+      "published_on": "19/11/2026 09:10 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/09/99/97/32/696x392_cmsv2_6d4c7392-70b0-5720-a392-26d5c944568d-9999732.jpg",
       "selection": "automatic"
     }
   ]
