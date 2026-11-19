@@ -1,8 +1,8 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T03:21:53.758832Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T03:27:04.168675Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi diz que a Ásia-Pacífico precisa de comércio aberto e Putin condena sanções enquanto Trump chega à China",
@@ -57,19 +57,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump minimiza as quedas de energia nos EUA e as preocupações de segurança da Nvidia em declarações antes da cúpula com a China – ao vivo",
-      "summary": "Questionado pela Fox News sobre a suposta operação de espionagem da China, o presidente disse: \"Nós também espionamos eles. Acho que espionamos melhor do que eles.\" Inscreva-se para receber e-mails com notícias de última hora dos EUA. Em relação a isso, a Casa Branca realizou hoje uma teleconferência com vários repórteres sobre a onda de interrupções tecnoló",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Geral",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-      "published_on": "18/11/2026 22:47 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e39b145e8bd198f7317106c1412082ff",
-      "selection": "automatic"
-    },
-    {
       "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
       "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
       "published_on": "18/11/2026 10:00 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/StOpkhTXMduUC0pSWqJFLpLDK1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/8/ighTEAQ56v09DkC5HywQ/fotojet-24-.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Sem 'apagão mundial', dia 17 tem falha na segurança nacional dos EUA e ataque hacker contra quase 200 sites",
+      "summary": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas A teoria da conspiração para um \"apagão mundial\" nesta terça-feira (17) não se concretizou, mas a data foi marcada por novas falhas tecnológicas e um ataque hacker em série a quase 200 sites. Desde a quinta-feira (12), cinco falhas envolveram sistemas de aviação, bancário ou de",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Segurança cibernética",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/18/sem-apagao-mundial-dia-17-falha-seguranca-nacional-eua-ataque-hacker.ghtml",
+      "published_on": "17/11/2026 23:00 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/uJzJ9v55GzlqE-lASNnzqrBP00U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/A/7tQNaOSx6rtSZA6xrEFQ/2026-11-13t225544z-1478587479-rc2anoaqfvwc-rtrmadp-3-usa-faa-ground-stop.jpg",
       "selection": "automatic"
     }
   ]
