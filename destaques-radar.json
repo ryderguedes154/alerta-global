@@ -1,9 +1,22 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T10:27:05.967599Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T10:32:14.515239Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Como a guerra no Irã vai remodelar a ordem energética global",
+      "summary": "A Agência Internacional de Energia, em sua análise mais abrangente das consequências da guerra, constatou que o choque do petróleo pode acelerar a adoção de fontes de energia alternativas.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+      "published_on": "19/11/2026 06:27 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Putin diz que EUA e China compartilham interesses na Guerra da Ucrânia",
       "summary": "Líder russo afirmou ter abordado a busca por soluções para a guerra na Ucrânia em encontros bilaterais",
@@ -15,19 +28,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/putin-diz-que-eua-e-china-compartilham-interesses-na-guerra-da-ucrania/",
       "published_on": "19/11/2026 05:55 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/trump_xi_putin.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Como a guerra no Irã vai remodelar a ordem energética global",
-      "summary": "A Agência Internacional de Energia, em sua análise mais abrangente das consequências da guerra, constatou que o choque do petróleo pode acelerar a adoção de fontes de energia alternativas.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
-      "published_on": "19/11/2026 05:25 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
