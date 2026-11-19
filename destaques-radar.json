@@ -1,9 +1,22 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T07:39:45.304108Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T07:44:51.974202Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "EUA e China podem ajudar a acabar com a guerra na Ucrânia, diz Trump a Xi antes de reunião trilateral com Putin",
+      "summary": "Trump, Xi e Putin se encontram na China antes da reunião trilateral O presidente dos EUA, Donald Trump, disse a seu homólogo chinês, Xi Jinping, na quinta-feira (19), que ambos deveriam ajudar a pôr fim à guerra na Ucrânia, antes do encontro trilateral sem precedentes com o presidente russo, Vladimir Putin. Analistas afirmam que o encontro diplomático dos lí",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/19/eua-e-china-podem-ajudar-a-acabar-com-a-guerra-na-ucrania-diz-trump-a-xi.ghtml",
+      "published_on": "19/11/2026 03:35 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/l--14niqseD7wxzJCmNvwTfKFhQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/0/0UoDN2SAWEVZvJJ9IFvw/2026-11-19t064026z-940439656-rc2oqoadksim-rtrmadp-3-apec-summit.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Trump afirma que o fim da guerra na Ucrânia estará em pauta na reunião com Xi e Putin",
       "summary": "O republicano se reuniu com o líder russo por 40 minutos em um encontro previamente agendado que não constava na agenda e no qual eles demonstraram estar em sintonia: \"Muitas coisas maravilhosas podem surgir daqui\".",
@@ -13,7 +26,7 @@
       "country": "ES",
       "source": "El País",
       "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
-      "published_on": "19/11/2026 03:28 (Boa Vista)",
+      "published_on": "19/11/2026 03:33 (Boa Vista)",
       "image": "https://imagenes.elpais.com/resizer/v2/WFPDTI5FLRPVLAJ2I4A6S3DPZE.jpg?auth=1292f54ef5fdedac7793bc8f1dfa083249e25e702d6704c44a8e4bb2fb934790",
       "selection": "automatic"
     },
@@ -28,19 +41,6 @@
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
       "published_on": "19/11/2026 03:26 (Boa Vista)",
       "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Os Estados Unidos e a China querem ajudar a pôr fim à guerra na Ucrânia, afirma Trump antes da reunião trilateral com a Rússia",
-      "summary": "A reunião dos três presidentes na Vila Kylin, em Shenzhen, que os analistas esperam que seja mais simbólica do que repleta de avanços concretos, ocorre no momento em que a ofensiva da Rússia na Ucrânia se aproxima da marca de cinco anos.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/19/us-and-china-want-to-help-end-ukraine-war-trump-says-ahead-of-trilateral-with-russia",
-      "published_on": "19/11/2026 02:33 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/09/99/89/11/696x392_cmsv2_ff191d15-053d-56a7-a3cd-f84a78b15b00-9998911.jpg",
       "selection": "automatic"
     },
     {
