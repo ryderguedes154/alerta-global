@@ -1,8 +1,8 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T06:33:11.276568Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T06:38:17.096714Z",
+  "status": "checado",
   "items": [
     {
       "title": "Terremoto de magnitude 6.1 — Pacific-Antarctic Ridge",
@@ -15,6 +15,19 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37",
       "published_on": "18/11/2026 15:14 (Boa Vista)",
       "image": "",
+      "selection": "automatic"
+    },
+    {
+      "title": "Os Estados Unidos e a China querem ajudar a pôr fim à guerra na Ucrânia, afirma Trump antes da reunião trilateral com a Rússia",
+      "summary": "A reunião dos três presidentes na Vila Kylin, em Shenzhen, que os analistas esperam que seja mais simbólica do que repleta de avanços concretos, ocorre no momento em que a ofensiva da Rússia na Ucrânia se aproxima da marca de cinco anos.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/19/us-and-china-want-to-help-end-ukraine-war-trump-says-ahead-of-trilateral-with-russia",
+      "published_on": "19/11/2026 02:33 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/09/99/89/11/696x392_cmsv2_ff191d15-053d-56a7-a3cd-f84a78b15b00-9998911.jpg",
       "selection": "automatic"
     },
     {
@@ -54,19 +67,6 @@
       "url": "https://elpais.com/internacional/2026-11-19/resistencia-y-barbarie-las-dos-caras-de-la-guerra-en-una-granja-de-ucrania.html",
       "published_on": "19/11/2026 00:30 (Boa Vista)",
       "image": "https://imagenes.elpais.com/resizer/v2/CL6UFQ2YBNBJXH3OBLMXZHOLGM.jpg?auth=cd207472fdd00c09c4d105dbd3910a78e9c7172355d1b6fa6637a175ab6e93ac",
-      "selection": "automatic"
-    },
-    {
-      "title": "Acompanhando a intensificação da guerra de palavras da China contra o Japão",
-      "summary": "Pequim está conduzindo uma campanha coordenada para retratar o Japão como um agressor e uma ameaça militar ressurgente, de acordo com uma análise do Times.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
-      "published_on": "18/11/2026 23:32 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
