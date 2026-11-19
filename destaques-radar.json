@@ -1,22 +1,9 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T07:29:32.918484Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T07:34:38.869970Z",
+  "status": "checado",
   "items": [
-    {
-      "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
-      "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-      "published_on": "19/11/2026 03:17 (Boa Vista)",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
-      "selection": "automatic"
-    },
     {
       "title": "Trump afirma que o fim da guerra na Ucrânia estará em pauta na reunião com Xi e Putin",
       "summary": "O republicano se reuniu com o líder russo por 40 minutos em um encontro previamente agendado que não constava na agenda e no qual eles demonstraram estar em sintonia: \"Muitas coisas maravilhosas podem surgir daqui\".",
@@ -26,8 +13,21 @@
       "country": "ES",
       "source": "El País",
       "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
-      "published_on": "19/11/2026 03:10 (Boa Vista)",
-      "image": "https://imagenes.elpais.com/resizer/v2/MTNEL3B67BITLMQPF5QOQ23NLY.jpg?auth=e5925843ea7ba877202b1c7b8653f5cc91373e14fc932d639aaa12d5596e47b0",
+      "published_on": "19/11/2026 03:28 (Boa Vista)",
+      "image": "https://imagenes.elpais.com/resizer/v2/WFPDTI5FLRPVLAJ2I4A6S3DPZE.jpg?auth=1292f54ef5fdedac7793bc8f1dfa083249e25e702d6704c44a8e4bb2fb934790",
+      "selection": "automatic"
+    },
+    {
+      "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
+      "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+      "published_on": "19/11/2026 03:26 (Boa Vista)",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
       "selection": "automatic"
     },
     {

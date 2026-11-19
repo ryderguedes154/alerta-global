@@ -1,5 +1,47 @@
 [
   {
+    "title": "Crimean Bridge attacked again, Russia says",
+    "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-19T07:32:06Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
+    "title_pt": "Ponte da Crimeia atacada novamente, diz a Rússia",
+    "summary_pt": "O líder da Crimeia disse que o tráfego foi suspenso após outro ataque à ligação entre a Rússia e o território ocupado."
+  },
+  {
+    "title": "Giving a solo founder the horsepower of a multinational — affordably",
+    "summary": "European small businesses have ambition and creativity, but lack time and budgets. As Kuo Zhang of Alibaba.com writes in an op-ed for Euronews, affordable, ready-to-use AI and global supply chain tools give even solo founders the capabilities of global companies, freeing them to focus on growth.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/2026/11/19/giving-a-solo-founder-the-horsepower-of-a-multinational-affordably",
+    "date": "2026-11-19T07:30:21Z",
+    "lang": "en",
+    "image": "https://images.euronews.com/articles/stories/09/99/86/84/696x392_cmsv2_20f637ac-762f-5d00-8743-05f1b8557d8b-9998684.jpg",
+    "title_pt": "Dar a um fundador individual a força de uma multinacional — a um preço acessível",
+    "summary_pt": "As pequenas empresas europeias têm ambição e criatividade, mas lhes faltam tempo e orçamento. Como Kuo Zhang, do Alibaba.com, escreve em um artigo de opinião para a Euronews, as ferramentas de IA e de cadeia de suprimentos global acessíveis e prontas para uso oferecem até mesmo a fundadores independentes os recursos de empresas globais, permitindo que eles se concentrem no crescimento."
+  },
+  {
+    "title": "Carlos Slim recibe el primer Premio EL PAÍS América a la Excelencia: “México es un país fantástico porque siempre ha salido adelante”",
+    "summary": "El diario líder en español reconoce la trayectoria del empresario durante la celebración en Ciudad México del 50 aniversario del periódico",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/mexico/2026-11-19/carlos-slim-recibe-el-primer-premio-el-pais-america-a-la-excelencia-mexico-es-un-pais-fantastico-porque-siempre-ha-salido-adelante.html",
+    "date": "2026-11-19T07:30:12Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/3FAEYV4ZAZF5HCAWIWR3VFKPDY.JPG?auth=1ec8ea92562c1be7bbcfce75f3daeaafe0871c4fe4d855d5e652dcdf46882241",
+    "title_pt": "Carlos Slim recebe o primeiro Prêmio EL PAÍS América de Excelência: \"O México é um país fantástico porque sempre superou as dificuldades\"",
+    "summary_pt": "O principal jornal em espanhol reconhece a trajetória do empresário durante a celebração do 50º aniversário do jornal na Cidade do México"
+  },
+  {
     "title": "Tomate deve seguir mais caro e puxar inflação; explicação está no campo",
     "summary": "Dias nublados e temperaturas amenas provocam alterações no ciclo de produção e reduzem a oferta no mercado; Cepea projeta preços altos ainda em 2027",
     "category": "Economia",
@@ -12,6 +54,20 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Infografico-Dourado-de-Precos-do-Tomate.png?w=200",
     "title_pt": "Tomate deve seguir mais caro e puxar inflação; explicação está no campo",
     "summary_pt": "Dias nublados e temperaturas amenas provocam alterações no ciclo de produção e reduzem a oferta no mercado; Cepea projeta preços altos ainda em 2027"
+  },
+  {
+    "title": "Trump asegura que el fin de la guerra en Ucrania estará sobre la mesa en la reunión con Xi y Putin",
+    "summary": "El republicano se reúne con el líder ruso durante 40 minutos en una cita que no figuraba en la agenda y en la que han mostrado su sintonía: “De aquí pueden salir muchas cosas maravillosas”",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
+    "date": "2026-11-19T07:28:19Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/WFPDTI5FLRPVLAJ2I4A6S3DPZE.jpg?auth=1292f54ef5fdedac7793bc8f1dfa083249e25e702d6704c44a8e4bb2fb934790",
+    "title_pt": "Trump afirma que o fim da guerra na Ucrânia estará em pauta na reunião com Xi e Putin",
+    "summary_pt": "O republicano se reuniu com o líder russo por 40 minutos em um encontro previamente agendado que não constava na agenda e no qual eles demonstraram estar em sintonia: \"Muitas coisas maravilhosas podem surgir daqui\"."
   },
   {
     "title": "Iran ramps up attacks on Gulf countries after U.S. strikes",
@@ -96,34 +152,6 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM2H0V0-BASEIMAGE.jpg?w=200",
     "title_pt": "Por que o Brasil entrou na lista de restrições de chips dos Estados Unidos",
     "summary_pt": "Regra americana tenta conter avanço tecnológico chinês ao exigir autorização prévia de Washington para compra de chips"
-  },
-  {
-    "title": "Trump asegura que el fin de la guerra en Ucrania estará sobre la mesa en la reunión con Xi y Putin",
-    "summary": "El republicano se reúne con el líder ruso durante 40 minutos en una cita previa que no figuraba en la agenda y en la que han mostrado su sintonía: “De aquí pueden salir muchas cosas maravillosas”",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
-    "date": "2026-11-19T07:10:04Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/WFPDTI5FLRPVLAJ2I4A6S3DPZE.jpg?auth=1292f54ef5fdedac7793bc8f1dfa083249e25e702d6704c44a8e4bb2fb934790",
-    "title_pt": "Trump afirma que o fim da guerra na Ucrânia estará em pauta na reunião com Xi e Putin",
-    "summary_pt": "O republicano se reuniu com o líder russo por 40 minutos em um encontro previamente agendado que não constava na agenda e no qual eles demonstraram estar em sintonia: \"Muitas coisas maravilhosas podem surgir daqui\"."
-  },
-  {
-    "title": "Carlos Slim recibe el primer Premio EL PAÍS América a la Excelencia: “México es un país fantástico porque siempre ha salido adelante”",
-    "summary": "El diario líder en español reconoce la trayectoria del empresario durante la celebración en Ciudad México del 50 aniversario del periódico",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/mexico/2026-11-19/carlos-slim-recibe-el-primer-premio-el-pais-america-a-la-excelencia-mexico-es-un-pais-fantastico-porque-siempre-ha-salido-adelante.html",
-    "date": "2026-11-19T07:09:16Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/3FAEYV4ZAZF5HCAWIWR3VFKPDY.JPG?auth=1ec8ea92562c1be7bbcfce75f3daeaafe0871c4fe4d855d5e652dcdf46882241",
-    "title_pt": "Carlos Slim recebe o primeiro Prêmio EL PAÍS América de Excelência: \"O México é um país fantástico porque sempre superou as dificuldades\"",
-    "summary_pt": "O principal jornal em espanhol reconhece a trajetória do empresário durante a celebração do 50º aniversário do jornal na Cidade do México"
   },
   {
     "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
@@ -462,6 +490,20 @@
     "summary_pt": "Os programas eleitorais são cada vez mais elaborados nos bastidores dos partidos, com os impostos como principal campo de batalha."
   },
   {
+    "title": "Ukraine was main topic at Trump-Putin meeting, Kremlin says",
+    "summary": "Ukraine was main topic at Trump-Putin meeting, Kremlin says Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNDJ3ZUp3ZjhsQ01rN3VaRGlJNkx3SVpycUdaVENpLUtwT01aQmJ0c01ielVrbW0zcUtjVHlMbjlXc1IxaFFCYnhyWHpoY19vY0N0MVk5dXplemZKM0hSaWpIMndSMzBoZ3lndFpyeEhhUE5pTWVlRWpjMDhDYXpmNEJqZVRiMXgzWVRtNHE4cE1LNE1sWTNSM0lRQ2w5cU00MDE5dmdn?oc=5",
+    "date": "2026-11-19T06:38:00Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "A Ucrânia foi o principal tópico da reunião entre Trump e Putin, diz o Kremlin à Reuters",
+    "title_pt": "A Ucrânia foi o principal tema da reunião entre Trump e Putin, segundo o Kremlin"
+  },
+  {
     "title": "TV russa mostra assessor de Putin com suposta maleta nuclear na China",
     "summary": "Exibição incomum ocorreu durante a cúpula da APEC; equipamento permite ao presidente manter o comando sobre o arsenal atômico do país",
     "category": "Geral",
@@ -477,7 +519,7 @@
   },
   {
     "title": "US and China want to help end Ukraine war, Trump says ahead of trilateral with Russia",
-    "summary": "The three-president meeting at the Kylin Villa in Shenzhen, which analysts expect to be heavier in symbolism than concrete breakthroughs, comes with Russia's offensive in Ukraine approaching the five-year mark.",
+    "summary": "The three-president meeting at the Kylin Villa in Shenzhen, which analysts expect to be heavier in symbolism than concrete breakthroughs, comes with Russia's offensive in Ukraine approaching the five-year mark. Trump had separate meetings with Xi and with Putin ahead of the trilateral meeting.",
     "category": "Conflitos",
     "region": "Global",
     "country": "EU",
@@ -810,6 +852,20 @@
     "image": "https://imagenes.elpais.com/resizer/v2/XM365A7D2ZC3FIAX4YOTKWKBFI.jpg?auth=7ea229e234f7cf0f523a0bf6297c0f6328f2d7b2a85eab6241dba231b37703e4",
     "title_pt": "Assim está o mercado de trabalho de tecnologia: uma em cada seis vagas exige IA, mas apenas um em cada 60 programadores a coloca no seu currículo.",
     "summary_pt": "As vagas de emprego para desenvolvedores na Espanha mostram o rápido crescimento da inteligência artificial e as dificuldades em encontrar cargos júnior"
+  },
+  {
+    "title": "Amazon, Temu y AliExpress suben precios por el nuevo arancel europeo a los pedidos de bajo coste",
+    "summary": "Los comercios electrónicos extracomunitarios encarecen de media un 11% la factura final con recargos opacos, según la Organización Europea de Consumidores",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/economia/2026-11-19/amazon-temu-y-aliexpress-suben-precios-por-el-nuevo-arancel-europeo-a-los-pedidos-de-bajo-coste.html",
+    "date": "2026-11-19T06:00:00Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/3ET67YVYTBP4PGEYV4LSPESQE4.jpg?auth=c3e4d16ec150916f825f7f8ad11b866ef8618f5e592db9c0cf0a90057a08fc82",
+    "title_pt": "Amazon, Temu e AliExpress aumentam os preços devido à nova tarifa europeia sobre pedidos de baixo valor",
+    "summary_pt": "Os e-commerces de fora da União Europeia encarecem, em média, 11% o valor final da fatura com cobranças adicionais não transparentes, segundo a Organização Europeia dos Consumidores."
   },
   {
     "title": "« Inside Deutsche Bank » : derrière la façade verte, les coulisses du « greenwashing » de la banque allemande",
@@ -1318,20 +1374,6 @@
     "summary_pt": "O encontro apresenta desafios, pois há assuntos que Xi não parece disposto a discutir com Putin e Trump."
   },
   {
-    "title": "Crimean Bridge attacked again, Russian official says",
-    "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-19T04:37:17Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
-    "title_pt": "Ponte da Crimeia foi atacada novamente, diz autoridade russa",
-    "summary_pt": "O líder da Crimeia disse que o tráfego foi suspenso após outro ataque à ligação entre a Rússia continental e o território ocupado."
-  },
-  {
     "title": "Guerre en Ukraine : la présence de soldats français en Ukraine fait-elle de Paris un « cobelligérant » contre qui la Russie pourrait riposter ?",
     "summary": "Le gouvernement a reconnu avoir déployé des militaires sur le territoire ukrainien dans le cadre de missions de formation et de maintenance, ravivant le débat sur les risques de voir Moscou prendre la France pour cible ou sur la nécessité d’une consultation du Parlement.",
     "category": "Conflitos",
@@ -1458,18 +1500,18 @@
     "summary_pt": "Os dados dos últimos ciclos eleitorais mostram um padrão que se repete: nos bairros com maior renda, as pessoas votam mais do que nos bairros mais pobres. Com algumas exceções."
   },
   {
-    "title": "Luis Figo: “Nadie me ha regalado nada en la vida, sé perfectamente lo que significa pasar por momentos complicados”",
-    "summary": "El exfutbolista ve la vida de un modo muy distinto a cuando estaba en activo. En su variada faceta como empresario, presenta la nueva colección de la firma de moda masculina que lanzó en 2024. “Que esté tu nombre puede ayudar en la promoción del proyecto, pero se tiene que mantener por su calidad y por lo que puede ofrecer. El nombre no te asegura nada”, ase",
+    "title": "Camila Gutiérrez, después de OnlyFans: “La mayoría de la gente ve porno, solo que a algunos les parece indigno pagar”",
+    "summary": "Tras un debut deslumbrante, la escritora y guionista chilena pasó por una crisis económica y vital que la acabó llevando a decidir apostar por OnlyFans como fuente de ingresos. Ahora cuenta la historia en ‘Pedid y se os dará’, un conciso pero contundente relato",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
     "source": "El País",
-    "url": "https://elpais.com/gente/2026-11-19/luis-figo-nadie-me-ha-regalado-nada-en-la-vida-se-perfectamente-lo-que-significa-pasar-por-momentos-complicados.html",
+    "url": "https://elpais.com/smoda/2026-11-19/camila-gutierrez-despues-de-onlyfans-la-mayoria-de-la-gente-ve-porno-solo-que-a-algunos-les-parece-indigno-pagar.html",
     "date": "2026-11-19T04:30:01Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/BC62WLDLQBBTLJCZOI4ZHGQPKU.jpg?auth=d91bfdeef08f2ac49b3e533920879e074d0cd8c05933e852c23b39c6981eeb18",
-    "title_pt": "Luís Figo: \"Ninguém me deu nada na vida. Sei perfeitamente o que significa passar por momentos difíceis.\"",
-    "summary_pt": "O ex-jogador de futebol vê a vida de uma forma muito diferente de quando estava em atividade. Em sua variada faceta como empresário, ele apresenta a nova coleção da marca de moda masculina que lançou em 2024. “Ter seu nome pode ajudar na promoção do projeto, mas ele precisa se sustentar pela sua qualidade e pelo que pode oferecer. O nome não garante nada”, afirma."
+    "image": "https://imagenes.elpais.com/resizer/v2/34DXTZPZDFBDRAKMNL36RK22DA.jpg?auth=e840efffc7f2ae1dbaf4819d5cde111e20841d615bdcbf530e67c25bb05c28a7",
+    "title_pt": "Camila Gutiérrez, depois do OnlyFans: “A maioria das pessoas assiste a pornografia, só que algumas acham que não vale a pena pagar”",
+    "summary_pt": "Depois de uma estreia deslumbrante, a escritora e roteirista chilena passou por uma crise econômica e pessoal que acabou levando-a a decidir apostar no OnlyFans como fonte de renda. Agora, ela conta sua história em \"Pedid e se vos dará\", um relato conciso, mas contundente."
   },
   {
     "title": "¿Cómo de grande es ‘GTA’? Los mapas y cifras que explican el éxito de la saga",
@@ -1500,6 +1542,20 @@
     "summary_pt": "Especialistas alertam para o perigo de se envolver em relacionamentos amorosos com personagens de videogames e para os comportamentos prejudiciais que podem levar ao vício."
   },
   {
+    "title": "Luis Figo: “Nadie me ha regalado nada en la vida, sé perfectamente lo que significa pasar por momentos complicados”",
+    "summary": "El exfutbolista ve la vida de un modo muy distinto a cuando estaba en activo. En su variada faceta como empresario, presenta la nueva colección de la firma de moda masculina que lanzó en 2024. “Que esté tu nombre puede ayudar en la promoción del proyecto, pero se tiene que mantener por su calidad y por lo que puede ofrecer. El nombre no te asegura nada”, ase",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/gente/2026-11-19/luis-figo-nadie-me-ha-regalado-nada-en-la-vida-se-perfectamente-lo-que-significa-pasar-por-momentos-complicados.html",
+    "date": "2026-11-19T04:30:01Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/BC62WLDLQBBTLJCZOI4ZHGQPKU.jpg?auth=d91bfdeef08f2ac49b3e533920879e074d0cd8c05933e852c23b39c6981eeb18",
+    "title_pt": "Luís Figo: \"Ninguém me deu nada na vida. Sei perfeitamente o que significa passar por momentos difíceis.\"",
+    "summary_pt": "O ex-jogador de futebol vê a vida de uma forma muito diferente de quando estava em atividade. Em sua variada faceta como empresário, ele apresenta a nova coleção da marca de moda masculina que lançou em 2024. “Ter seu nome pode ajudar na promoção do projeto, mas ele precisa se sustentar pela sua qualidade e pelo que pode oferecer. O nome não garante nada”, afirma."
+  },
+  {
     "title": "Nicholas Hoult: “Ya no me importa lo que la gente piense de mí. Eso no solo me lo enseñó la paternidad, sino la vida”",
     "summary": "La precoz estrella de ‘Un niño grande’ es hoy un hombre de familia que interpreta a un padre en busca de venganza en ‘Cómo robar un banco’, un ‘thriller’ con denuncia social",
     "category": "Geral",
@@ -1512,20 +1568,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/YVCQVE6NTBBRVKLDGO36WSAH2E.jpg?auth=94d2fe8f12aff6499441b562eb255160c8fec4277bab571867da30919d4d3566",
     "title_pt": "Nicholas Hoult: “Eu não me importo mais com o que as pessoas pensam de mim. Isso não foi apenas a paternidade que me ensinou, mas a vida.”",
     "summary_pt": "A estrela precoce de \"Um garoto grande\" é hoje um homem de família que interpreta um pai em busca de vingança em \"Como roubar um banco\", um thriller com denúncia social"
-  },
-  {
-    "title": "Camila Gutiérrez, después de OnlyFans: “La mayoría de la gente ve porno, solo que a algunos les parece indigno pagar”",
-    "summary": "Tras un debut deslumbrante, la escritora y guionista chilena pasó por una crisis económica y vital que la acabó llevando a decidir apostar por OnlyFans como fuente de ingresos. Ahora cuenta la historia en ‘Pedid y se os dará’, un conciso pero contundente relato",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/smoda/2026-11-19/camila-gutierrez-despues-de-onlyfans-la-mayoria-de-la-gente-ve-porno-solo-que-a-algunos-les-parece-indigno-pagar.html",
-    "date": "2026-11-19T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/34DXTZPZDFBDRAKMNL36RK22DA.jpg?auth=e840efffc7f2ae1dbaf4819d5cde111e20841d615bdcbf530e67c25bb05c28a7",
-    "title_pt": "Camila Gutiérrez, depois do OnlyFans: “A maioria das pessoas assiste a pornografia, só que algumas acham que não vale a pena pagar”",
-    "summary_pt": "Depois de uma estreia deslumbrante, a escritora e roteirista chilena passou por uma crise econômica e pessoal que acabou levando-a a decidir apostar no OnlyFans como fonte de renda. Agora, ela conta sua história em \"Pedid e se vos dará\", um relato conciso, mas contundente."
   },
   {
     "title": "Pedro, chico ‘Lecturas’",
@@ -2685,7 +2727,7 @@
     "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-19T02:20:15Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5445/live/2966d1e0-e3eb-11f1-a16c-7de3762c094b.jpg",
     "title_pt": "A gigante da IA Anthropic foi avaliada em US$ 1,5 trilhão antes da estreia no mercado de ações",
     "summary_pt": "A empresa por trás do chatbot Claude se tornará uma das empresas mais valiosas do mundo."
   },
@@ -3157,20 +3199,6 @@
     "summary_pt": "Fala foi feita horas antes de uma reunião trilateral histórica entre ele, o líder chinês, Xi Jinping, e o líder russo, Vladimir Putin"
   },
   {
-    "title": "Campinas confirma terceira morte por febre maculosa em 2026",
-    "summary": "Vítima de 54 anos era funcionário terceirizado e pode ter sido infectada no campus da Unicamp; em 2025, na cidade, foram registradas seis mortes",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/campinas-confirma-terceira-morte-por-febre-maculosa-em-2026/",
-    "date": "2026-11-19T01:14:12Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/13701_A2DDE58675547AB9.jpg?w=200",
-    "title_pt": "Campinas confirma terceira morte por febre maculosa em 2026",
-    "summary_pt": "Vítima de 54 anos era funcionário terceirizado e pode ter sido infectada no campus da Unicamp; em 2025, na cidade, foram registradas seis mortes"
-  },
-  {
     "title": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
     "summary": "Mr. Rajab spent his life fighting for greater political freedoms in his home country, undeterred by years in prison. He died in exile.",
     "category": "Geral",
@@ -3183,6 +3211,20 @@
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/17int-bahrain-2-fqzp-print1/17int-bahrain-2-fqzp-mediumSquareAt3X.jpg",
     "title_pt": "Nabeel Rajab, ativista bahreinita dos direitos humanos, morre aos 62 anos",
     "summary_pt": "O Sr. Rajab passou a vida lutando por maiores liberdades políticas em seu país de origem, sem se deixar intimidar por anos de prisão. Ele morreu no exílio."
+  },
+  {
+    "title": "Campinas confirma terceira morte por febre maculosa em 2026",
+    "summary": "Vítima de 54 anos era funcionário terceirizado e pode ter sido infectada no campus da Unicamp; em 2025, na cidade, foram registradas seis mortes",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/campinas-confirma-terceira-morte-por-febre-maculosa-em-2026/",
+    "date": "2026-11-19T01:14:12Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/13701_A2DDE58675547AB9.jpg?w=200",
+    "title_pt": "Campinas confirma terceira morte por febre maculosa em 2026",
+    "summary_pt": "Vítima de 54 anos era funcionário terceirizado e pode ter sido infectada no campus da Unicamp; em 2025, na cidade, foram registradas seis mortes"
   },
   {
     "title": "Settler rams into Palestinians at multiple locations in central Israel",
@@ -3565,7 +3607,7 @@
   {
     "title": "Why has Waymo pulled all its driverless cars from US freeways?",
     "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4143,7 +4185,7 @@
   {
     "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
     "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4379,20 +4421,6 @@
     "forcedSev": "low",
     "title_pt": "Terremoto de magnitude 4.7 — 134 km SW of Lorengau, Papua New Guinea",
     "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
-  },
-  {
-    "title": "Vídeo, análisis en directo y verificación a tiempo real: así podrás ver el cara a cara entre Sánchez y Feijóo en EL PAÍS",
-    "summary": "El periódico despliega un equipo de analistas y de especialistas en todas las áreas para seguir el único debate a dos de la campaña del 29-N",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/video-analisis-en-directo-y-verificacion-a-tiempo-real-asi-podras-ver-el-cara-a-cara-entre-sanchez-y-feijoo-en-el-pais.html",
-    "date": "2026-11-18T20:33:23Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/SH26JHNQGNFDTCUTKOKKMKANBY.jpg?auth=f66abec58e20ecf5e8b324af325dfe2fbe26b1f0cc2ff061e6e81d0712b5c18a",
-    "title_pt": "Vídeo, análise ao vivo e verificação em tempo real: é assim que você poderá assistir ao confronto entre Sánchez e Feijóo no EL PAÍS",
-    "summary_pt": "O jornal mobiliza uma equipe de analistas e especialistas em todas as áreas para acompanhar o único debate a dois da campanha do 29 de novembro."
   },
   {
     "title": "Reconstruction begins at Limoges City Hall after devastating fire",
@@ -5916,20 +5944,6 @@
     "summary_pt": "Daithi O’Corrain se isolou dentro de um C-130 da Guarda Nacional no aeroporto de Shannon, na Irlanda, em abril, por horas, causando tantos danos que a aeronave foi retirada de serviço, disseram os promotores."
   },
   {
-    "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
-    "summary": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
-    "date": "2026-11-18T14:52:22Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "UE propõe empréstimo de 45 mil milhões de euros à Ucrânia, a ser reembolsado depois de a Rússia pagar reparações",
-    "summary_pt": "UE propõe empréstimo de 45 mil milhões de euros à Ucrânia, a ser reembolsado depois de a Rússia pagar reparações Reuters"
-  },
-  {
     "title": "Has the 'Parthenon puzzle' been solved? The long quest to reassemble lost eastern pediment",
     "summary": "The depiction of the birth of the goddess Athena above the Parthenon's entrance is considered a masterpiece of ancient art. Now, a German research team has pieced together all the surviving fragments.",
     "category": "Geral",
@@ -7010,19 +7024,5 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee74/live/b9842e30-e337-11f1-9479-d17d3e98c29d.png",
     "title_pt": "Hacker britânico que roubou US$ 11 milhões por meio de esquema de mensagens de texto é preso por seis anos nos EUA",
     "summary_pt": "Tyler Buchanan, de Dundee, era membro do famoso grupo Scattered Spider e começou a hackear quando era adolescente."
-  },
-  {
-    "title": "Ghana's new $60m presidential jet sparks public outrage",
-    "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-18T09:27:51Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377e/live/9eb7bde0-e31b-11f1-81d5-99b8785f3e51.jpg",
-    "title_pt": "Novo jato presidencial de US$ 60 milhões de Gana provoca indignação pública",
-    "summary_pt": "A compra provocou indignação relativamente ao seu custo, uma vez que muitos ganenses lutam com o aumento do custo de vida."
   }
 ]
