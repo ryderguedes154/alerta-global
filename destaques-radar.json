@@ -1,9 +1,22 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T15:55:44.656329Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T16:00:52.532488Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Xi, Trump e Putin, após a cúpula de Shenzhen: \"Uma guerra nuclear não pode ser vencida e nunca deve ser travada\"",
+      "summary": "Os líderes das três maiores potências se comprometem a promover uma reforma da ONU e a garantir a estabilidade dos fluxos de energia. O republicano, sobre o presidente russo: \"Ele é meu amigo\"",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "ES",
+      "source": "El País",
+      "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
+      "published_on": "19/11/2026 11:53 (Boa Vista)",
+      "image": "https://imagenes.elpais.com/resizer/v2/K5ALE3WIAFB4LF5A6O4UF3B7LU.jpg?auth=74afe4724d852ed7f81dbb85f71248660221ec93e37a776f35f5b96061f20b69",
+      "selection": "automatic"
+    },
     {
       "title": "Putin, Trump e Xi condenam a guerra nuclear enquanto a Europa observa de perto",
       "summary": "Após a cimeira, os líderes da Rússia, dos Estados Unidos e da China concordaram que “uma guerra nuclear não pode ser vencida e nunca deve ser travada”. Alguns analistas estão céticos de que isso resultará em mudanças reais.",
@@ -18,8 +31,8 @@
       "selection": "automatic"
     },
     {
-      "title": "China, Rússia e EUA dizem, em declaração de paz conjunta, que 'guerra nuclear nunca deve ser travada'",
-      "summary": "Reunião histórica: líderes de EUA, Rússia e China se encontram em Shenzhen China, Rússia e Estados Unidos manterão um diálogo sobre riscos nucleares e concordam que uma guerra nuclear nunca deve acontecer, anunciaram os três países em conjunto, por meio de uma \"declaração de paz\". ✅ Siga o canal de notícias internacionais do g1 no WhatsApp ANÁLISE: Trump che",
+      "title": "China, Rússia e EUA dizem, em declaração de paz conjunta, que 'guerra nuclear nunca deve acontecer'",
+      "summary": "Reunião histórica: líderes de EUA, Rússia e China se encontram em Shenzhen China, Rússia e Estados Unidos manterão um diálogo sobre riscos nucleares e concordam que uma guerra nuclear nunca deve acontecer, anunciaram os três países em conjunto, por meio de uma \"declaração de paz\". ✅ Siga o canal de notícias internacionais do g1 no WhatsApp ANÁLISE: Trump, Xi",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
@@ -28,19 +41,6 @@
       "url": "https://g1.globo.com/mundo/noticia/2026/11/19/china-russia-e-eua-manterao-dialogo-sobre-riscos-nucleares.ghtml",
       "published_on": "19/11/2026 07:17 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/A36-0BLPsXruu0REatMVCtv1BD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/P/VS7NyPS1AUoHKimxrHMw/2026-11-19t083332z-1813811123-rc2wqoau4zb0-rtrmadp-3-apec-summit.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Xi, Trump e Putin, após a cúpula de Shenzhen: \"Uma guerra nuclear não pode ser vencida e nunca deve ser travada\"",
-      "summary": "Os líderes das três maiores potências se comprometem a promover uma reforma da ONU e a garantir a estabilidade dos fluxos de energia. O republicano, sobre o presidente russo: \"Ele é meu amigo\"",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "ES",
-      "source": "El País",
-      "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
-      "published_on": "19/11/2026 07:11 (Boa Vista)",
-      "image": "https://imagenes.elpais.com/resizer/v2/K5ALE3WIAFB4LF5A6O4UF3B7LU.jpg?auth=74afe4724d852ed7f81dbb85f71248660221ec93e37a776f35f5b96061f20b69",
       "selection": "automatic"
     },
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Comissão Europeia confirma que foi alvo de um ciberataque usando ferramentas de IA",
-      "summary": "A Comissão Europeia foi alvo de uma \"cibercampanha gerada por IA\", disse um porta-voz. Esta é a primeira vez que o bloco relata publicamente um ciberataque baseado em IA.",
+      "title": "A UE revela que sofreu um ciberataque \"impulsionado por IA\"",
+      "summary": "A UE revelou que sofreu um ataque cibernético impulsionado por IA no mês passado e, como resultado, algumas de suas ferramentas digitais ainda estão offline.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Segurança cibernética",
       "region": "Global",
-      "country": "DE",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-all-1573-rdf",
-      "published_on": "19/11/2026 10:58 (Boa Vista)",
-      "image": "https://static.dw.com/image/79958544_6.jpg",
+      "country": "GB",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
+      "published_on": "19/11/2026 11:38 (Boa Vista)",
+      "image": "https://e3.365dm.com/24/01/1920x1080/skynews-hacker-cyberattack_6439404.jpg?20240131153309",
       "selection": "automatic"
     }
   ]
