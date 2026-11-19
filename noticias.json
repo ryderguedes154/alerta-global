@@ -1,5 +1,19 @@
 [
   {
+    "title": "Trump says Iran may be working on biological weapons",
+    "summary": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war drags on toward its ninth month.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+    "date": "2026-11-19T14:20:46Z",
+    "lang": "en",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/19/9513f300-fddd-4761-90a0-bbd7814014ce/thumbnail/1200x630/16082d281adb90c9282151b40fc76df2/gettyimages-2305027666.jpg",
+    "title_pt": "Trump diz que o Irã pode estar trabalhando em armas biológicas",
+    "summary_pt": "O presidente Trump disse à Fox News que há indícios de que o Irã possa estar trabalhando em armas biológicas ou químicas, à medida que a guerra se arrasta para seu nono mês."
+  },
+  {
     "title": "Ben Shelton - Rafa Jódar en directo | habrá desempate en el primer set",
     "summary": "El tenista madrileño necesita vencer para conservar sus escasas opciones de pasar a las semifinales del certamen",
     "category": "Geral",
@@ -7,7 +21,7 @@
     "country": "ES",
     "source": "El País",
     "url": "https://elpais.com/deportes/tenis/2026-11-19/ben-shelton-rafa-jodar-en-directo-el-partido-de-las-atp-finals-en-vivo.html",
-    "date": "2026-11-19T14:12:45Z",
+    "date": "2026-11-19T14:17:05Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/V2UYCNC7ZNMMZK57OHG3WNW6O4.jpg?auth=fb8b85a60baa5a70d072875ae53f7f9890802a939010d524ddd3f6e23e50fba9"
   },
@@ -19,9 +33,33 @@
     "country": "US",
     "source": "The New York Times",
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
-    "date": "2026-11-19T14:11:41Z",
+    "date": "2026-11-19T14:15:17Z",
     "lang": "en",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-promo-7am-et/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg"
+  },
+  {
+    "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine prévient que « toute forme de coopération militaire » entre Kiev et l’Europe dans un éventuel accord de paix « pose évidemment un problème »",
+    "summary": "Alors qu’une réunion de la coalition des volontaires rassemble, jeudi après-midi, à Berlin, les alliés de l’Ukraine, le président russe a également dit avoir invité « des Européens » à Moscou pour participer à des futurs pourparlers.",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "FR",
+    "source": "Le Monde",
+    "url": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-vladimir-poutine-previent-que-toute-forme-de-cooperation-militaire-entre-kiev-et-l-europe-dans-un-eventuel-accord-de-paix-pose-evidemment-un-probleme_6810982_3210.html",
+    "date": "2026-11-19T14:14:13Z",
+    "lang": "fr",
+    "image": "https://img.lemde.fr/2026/11/19/821/0/4839/2419/1440/720/60/0/1d2bd02_ftp-1-mknq6hsnrz0b-2026-11-19t081734z-784978749-rc2vqoaqb5o3-rtrmadp-3-ukraine-crisis-germany.JPG"
+  },
+  {
+    "title": "Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?",
+    "summary": "An emerging field of psychology suggests that it’s probably not what you think — and that there might be reason for optimism.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html",
+    "date": "2026-11-19T14:13:07Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11authoritarian-heirarchy-01-vctz/11authoritarian-heirarchy-01-vctz-mediumSquareAt3X.jpg"
   },
   {
     "title": "Live Updates: U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
@@ -85,7 +123,7 @@
     "country": "GB",
     "source": "The Guardian",
     "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-    "date": "2026-11-19T14:08:56Z",
+    "date": "2026-11-19T14:04:17Z",
     "lang": "en",
     "image": "https://i.guim.co.uk/img/media/177e95c8558613ce433c6415ecde5b3d35ad5857/470_0_3986_3189/master/3986.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2024bfac9f841d8eaa3732fcee5a302e",
     "title_pt": "Aliados da Ucrânia se reúnem em Berlim com defesa aérea, energia e apoio financeiro na pauta – Europe live",
@@ -396,20 +434,6 @@
     "summary_pt": "Empresa de inteligência artificial atinge valor de mercado de US$ 1,5 trilhão com abertura de capital na bolsa de valores americana"
   },
   {
-    "title": "Trump says Iran may be working on biological weapons",
-    "summary": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war drags on toward its ninth month.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-    "date": "2026-11-19T13:39:34Z",
-    "lang": "en",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/19/9513f300-fddd-4761-90a0-bbd7814014ce/thumbnail/1200x630/16082d281adb90c9282151b40fc76df2/gettyimages-2305027666.jpg",
-    "title_pt": "Trump diz que o Irã pode estar trabalhando em armas biológicas",
-    "summary_pt": "O presidente Trump disse à Fox News que há indícios de que o Irã possa estar trabalhando em armas biológicas ou químicas, à medida que a guerra se arrasta para seu nono mês."
-  },
-  {
     "title": "El máximo tribunal de la ONU concluye que Myanmar cometió genocidio contra los rohinyás",
     "summary": "Esta es la primera vez en su historia que el Tribunal Internacional de Justicia considera a un Estado responsable de ese gravísimo delito. La decisión puede repercutir en el caso iniciado por Sudáfrica contra Israel",
     "category": "Geral",
@@ -636,18 +660,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afee4a201-1795089570.jpg?resize=1920%2C1440"
   },
   {
-    "title": "In South Korea, women forced into prostitution on US military bases seek justice",
-    "summary": "Tens of thousands of women were forced to work in South Korean state-sanctioned brothels used by American soldiers based in the country after the Korean War. They were raped, physically abused and forcibly confined. Now, after decades of silence, some of these women are speaking out.",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/focus/20261119-in-south-korea-women-forced-into-prostitution-on-us-military-bases-seek-justice",
-    "date": "2026-11-19T13:21:41Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/937659ce-e3fb-11f1-b17d-6d75ed565170/w:1024/p:16x9/capture-fae65078.jpg"
-  },
-  {
     "title": "Lack of early border controls made UK ‘extremely vulnerable’ to Covid, inquiry finds",
     "summary": "Latest report also says test-and-trace failures allowed virus to spread quickly and unchecked UK politics live – latest updates The lack of international border controls at the start of the Covid-19 pandemic left the UK in an “extremely vulnerable position”, an inquiry has concluded. In the latest report from the Covid-19 inquiry, the chair, Heather Hallett,",
     "category": "Geral",
@@ -660,18 +672,6 @@
     "image": "https://i.guim.co.uk/img/media/9f48ca68c40f6949ad41db2c7f564ebe5dd7e8e6/484_0_3334_2667/master/3334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c97762f5a5dec32e9e0d6f3858cb62e",
     "title_pt": "Uma investigação constatou que a falta de controles fronteiriços precoces tornou o Reino Unido \"extremamente vulnerável\" à Covid",
     "summary_pt": "O relatório mais recente também afirma que as falhas nos testes e no rastreamento permitiram que o vírus se espalhasse rapidamente e sem controle Política do Reino Unido ao vivo – últimas notícias Uma investigação concluiu que a falta de controles nas fronteiras internacionais no início da pandemia de Covid-19 deixou o Reino Unido em uma \"posição extremamente vulnerável\". No relatório mais recente da investigação sobre a Covid-19, a presidente, Heather Hallett,"
-  },
-  {
-    "title": "'Their lives, their rights, their history': Not the end of accountability for the Rohingya people'",
-    "summary": "Oliver Farry welcomes Sonya Sceats, Director and CEO of the British Institute of International and Comparative Law. The case brought by The Gambia against Myanmar before the ICJ, and the court ruling, both have great significance for the Rohingya people, the interpretation of the Genocide Convention and the possibility of future criminal proceedings. The cas",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/their-lives-their-rights-their-history-not-the-end-of-accountability-for-the-rohingya-people",
-    "date": "2026-11-19T13:19:21Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/51e634f6-e415-11f1-a6b4-ebb478925cf0/w:1024/p:16x9/EN-20261119-081406-081457-CS.jpg"
   },
   {
     "title": "IPO da Anthropic supera estreia da SpaceX ao levantar US$ 81,3 bilhões",
@@ -750,20 +750,6 @@
     "date": "2026-11-19T13:11:38Z",
     "lang": "en",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/4-DSC052001-1795091096.jpg?resize=1920%2C1440"
-  },
-  {
-    "title": "What to know about Xi, Putin and Trump's historic trilateral summit",
-    "summary": "China's Xi Jinping, Russian President Vladimir Putin and his US counterpart Donald Trump met for a historic summit in Shenzhen, China, on Thursday, where they agreed on a \"peace declaration\". The three leaders pledged to reform the UN, increase supplies of refined petroleum products and uphold the immunity enjoyed by officials in international courts.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/asia-pacific/20261119-what-to-know-about-xi-putin-and-trump-s-historic-trilateral-summit",
-    "date": "2026-11-19T13:11:27Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/1625fff6-e35b-11f1-9206-ff16da94d1fe/w:1024/p:16x9/2026-11-18T132731Z-1890202118-RC2BQOA4C91Q-RTRMADP-3-APEC-SUMMIT.jpg",
-    "title_pt": "O que saber sobre a cúpula trilateral histórica de Xi, Putin e Trump",
-    "summary_pt": "Xi Jinping, da China, o presidente russo Vladimir Putin e seu homólogo dos EUA, Donald Trump, se reuniram para uma cúpula histórica em Shenzhen, China, na quinta-feira, onde chegaram a um acordo sobre uma \"declaração de paz\". Os três líderes se comprometeram a reformar a ONU, aumentar o fornecimento de produtos petrolíferos refinados e manter a imunidade de que gozam as autoridades nos tribunais internacionais."
   },
   {
     "title": "What is at stake at the EU-UK summit in Brussels?",
@@ -1217,7 +1203,7 @@
     "url": "https://news.sky.com/story/putin-vows-to-retaliate-as-ukraine-hits-prized-crimea-bridge-for-third-time-in-four-days-13613963",
     "date": "2026-11-19T12:38:00Z",
     "lang": "en",
-    "image": "https://e3.365dm.com/25/06/1920x1080/skynews-crimean-crimea-bridge_6933756.jpg?20250603135906"
+    "image": "https://e3.365dm.com/26/11/1920x1080/skynews-kerch-bridge-crimea_7408385.png?20261117082400"
   },
   {
     "title": "Do GTA V ao VI: como era e como está o mercado dos carros no Brasil",
@@ -1456,20 +1442,6 @@
     "summary_pt": "O líder do Se Acabó La Fiesta (SALF) publica em suas redes um suposto ataque na casa de seu candidato ao Congresso, mas a realidade é muito diferente"
   },
   {
-    "title": "'Grand Theft Auto VI', a 'masterpiece' 13 years in the making",
-    "summary": "PRESS REVIEW – Thursday, November 19: An historic trilateral summit takes place in Shenzhen between Xi Jinping, Donald Trump and Vladimir Putin. But is it more optics than substance? Also, a highly awaited decision from the International Court of Justice could redefine genocide. Finally, a huge cultural moment: \"Grand Theft Auto VI\" is out and the reviews ar",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/press-review/20261119-grand-theft-auto-vi-a-masterpiece-13-years-in-the-making",
-    "date": "2026-11-19T12:22:53Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/47d4f970-e3e8-11f1-9b46-6d75ed565170/w:1024/p:16x9/Anglais-2026-11-19T06-26-17-269Z.jpg",
-    "title_pt": "'Grand Theft Auto VI', uma 'obra-prima' de 13 anos em produção",
-    "summary_pt": "REVISÃO DE IMPRENSA – Quinta-feira, 19 de novembro: Uma cúpula trilateral histórica acontece em Shenzhen entre Xi Jinping, Donald Trump e Vladimir Putin. Mas será que é mais óptica do que substância? Além disso, uma decisão altamente aguardada do Tribunal Internacional de Justiça poderá redefinir o genocídio. Por fim, um grande momento cultural: “Grand Theft Auto VI” foi lançado e as críticas estão"
-  },
-  {
     "title": "Home of Bangladesh’s former leader Muhammad Yunus set on fire",
     "summary": "The blaze broke out during heightened violence before ousted Prime Minister Sheikh Hasina's planned return.",
     "category": "Geral",
@@ -1496,20 +1468,6 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/07/Motociclista-faixa-azul-e1753787110914.jpg?w=200",
     "title_pt": "Mortes de motociclistas em SP batem recorde nos dez primeiros meses de 2026",
     "summary_pt": "Número de vítimas aumentou cerca de 42% em comparação com 2015, quando 289 motociclistas morreram entre janeiro e outubro; dados de 2026 ainda são parciais, já que não incluem os meses de novembro e dezembro"
-  },
-  {
-    "title": "Nigeria: States set to get their own police forces",
-    "summary": "Nigeria has moved a step closer to letting its 36 states set up their own police forces. The National Assembly has sent a constitutional amendment bill to the president, as authorities seek state-run police to complement the federal force amid growing insecurity. Many states currently fund vigilante groups to fight armed groups like Boko Haram, but these gro",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/nigeria-states-set-to-get-their-own-police-forces",
-    "date": "2026-11-19T12:20:35Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/85e5a052-e410-11f1-8151-6b451f569414/w:1024/p:16x9/EN-20261118-214527-214725-CS.jpg",
-    "title_pt": "Nigéria: estados devem ter suas próprias forças policiais",
-    "summary_pt": "A Nigéria deu mais um passo para permitir que seus 36 estados criem suas próprias forças policiais. A Assembleia Nacional enviou um projeto de emenda constitucional ao presidente, enquanto as autoridades buscam polícias estaduais para complementar a força federal em meio à crescente insegurança. Muitos estados atualmente financiam grupos de vigilantes para combater grupos armados como o Boko Haram, mas esses grupos"
   },
   {
     "title": "ICJ rules Myanmar committed genocide against the Rohingya",
@@ -1694,20 +1652,6 @@
     "summary_pt": "Os motoristas saberão se as condições meteorológicas estão afetando o trânsito com base na cor do alerta: branco, amarelo, laranja, vermelho ou preto."
   },
   {
-    "title": "French 2027 presidential race: Green leader Tondelier draws closer to hard-left Mélenchon",
-    "summary": "Six months before the first round of France’s presidential election, Green party leader Marine Tondelier is moving closer to Jean-Luc Mélenchon, the leader of the radical left. The move has caught the other candidates on the left and in the centre off guard, notably Raphaël Glucksmann. FRANCE 24's Clovis Casali explains.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/french-2027-presidential-race-green-leader-tondelier-draws-closer-to-hard-left-melenchon",
-    "date": "2026-11-19T12:09:45Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/eb283620-e40e-11f1-87c4-1bac47ab2f5d/w:1024/p:16x9/EN-20261119-120842-121320-CS.jpg",
-    "title_pt": "Corrida presidencial francesa de 2027: o líder dos Verdes, Tondelier, se aproxima de Mélenchon, da extrema-esquerda",
-    "summary_pt": "Seis meses antes do primeiro turno da eleição presidencial francesa, a líder do Partido Verde, Marine Tondelier, está se aproximando de Jean-Luc Mélenchon, o líder da esquerda radical. A manobra pegou os outros candidatos de esquerda e de centro desprevenidos, principalmente Raphaël Glucksmann. Clovis Casali, da FRANCE 24, explica."
-  },
-  {
     "title": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
     "summary": "The exclusion of the reporter after she shouted a question to President Trump is an example of how tightly China tries to stage-manage events.",
     "category": "Geral",
@@ -1734,20 +1678,6 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-18T101925Z_1_LYNXNPEMAH0WU_RTROPTP_4_APEC-SUMMIT-CEO.jpg?w=1200&h=630&crop=1",
     "title_pt": "“Putin não é nosso amigo”, diz premiê polonês após fala de Trump",
     "summary_pt": "Em uma publicação no X, Donald Tusk afirmou: “Deus nos proteja de amigos assim”"
-  },
-  {
-    "title": "Senegal: Pastef removes President Faye from its ranks",
-    "summary": "In Senegal, Pastef, the majority party led by National Assembly president Ousmane Sonko, has made official the departure of President Bassirou Diomaye Faye. It is the latest episode in a split with his former Prime minister that was already largely complete, and it comes in the middle of an economic crisis.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/senegal-pastef-removes-president-faye-from-its-ranks",
-    "date": "2026-11-19T12:05:40Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/a851556a-e40f-11f1-b1b5-e56ab3dc0809/w:1024/p:16x9/EN-20261118-214326-214524-CS.jpg",
-    "title_pt": "Senegal: o Pastef remove o presidente Faye de suas fileiras",
-    "summary_pt": "No Senegal, o Pastef, partido majoritário liderado pelo presidente da Assembleia Nacional, Ousmane Sonko, oficializou a saída do presidente Bassirou Diomaye Faye. Este é o episódio mais recente de uma ruptura com seu ex-primeiro-ministro que já estava praticamente consumada e ocorre em meio a uma crise econômica."
   },
   {
     "title": "Projeções para a economia atualizadas e seus impactos nos investimentos",
@@ -2000,19 +1930,6 @@
     "summary_pt": "O presidente de Madrid compartilhou uma fotografia sem contexto do deputado Más Madrid em uma sala de espera"
   },
   {
-    "title": "🔴 Myanmar committed genocide against Muslim Rohingya minority, UN court finds",
-    "summary": "",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/asia-pacific/20261119-top-un-court-to-rule-if-myanmar-s-rohingya-crackdown-was-genocide",
-    "date": "2026-11-19T11:41:40Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/56e0cd94-e3c6-11f1-8a1c-7908c4e1a3c7/w:1280/p:16x9/53464cad601ed7dba3fadf5b86e7daa8cb9931bc.jpg",
-    "title_pt": "🔴 Tribunal da ONU conclui que Mianmar cometeu genocídio contra a minoria muçulmana rohingya"
-  },
-  {
     "title": "Myanmar committed genocide against Rohingya, top UN court rules",
     "summary": "The International Court of Justice has upheld large parts of a genocide case against Myanmar linked to the 2017 conflict with its Rohingya minority. It called for it to pay reparations and let refugees return safely.",
     "category": "Geral",
@@ -2195,20 +2112,6 @@
     "summary_pt": "Putin diz que EUA, China e Rússia podem fortalecer a estabilidade global"
   },
   {
-    "title": "Myanmar's Rohingya case: how does the ICJ define genocide?",
-    "summary": "The ICJ is preparing to rule on whether Myanmar committed genocide against the Rohingya, in a case brought by The Gambia after the 2017 crackdown. The key legal test is proving intent to destroy a group, which is notoriously hard, and the court’s reading of it could also weigh on South Africa’s case against Israel.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/myanmar-s-rohingya-case-how-does-the-icj-define-genocide",
-    "date": "2026-11-19T11:22:31Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/92ec7f8c-e406-11f1-8385-6d75ed565170/w:1024/p:16x9/EN-20261119-111234-111441-CS.jpg",
-    "title_pt": "O caso dos rohingyas de Mianmar: como a CIJ define genocídio?",
-    "summary_pt": "A CIJ está se preparando para decidir se Mianmar cometeu genocídio contra os rohingyas, em um processo instaurado pela Gâmbia após a repressão de 2017. O principal teste jurídico é provar a intenção de destruir um grupo, o que é notoriamente difícil, e a interpretação do tribunal a respeito disso também pode influenciar o processo da África do Sul contra Israel."
-  },
-  {
     "title": "Germany news: Pistorius to visit Auschwitz memorial in Poland trip",
     "summary": "Germany's Defense Minister's first stop in Poland will be at the memorial site of the former Nazi extermination camp Auschwitz-Birkenau. Follow DW for more.",
     "category": "Geral",
@@ -2347,19 +2250,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/K5ALE3WIAFB4LF5A6O4UF3B7LU.jpg?auth=74afe4724d852ed7f81dbb85f71248660221ec93e37a776f35f5b96061f20b69",
     "title_pt": "Xi, Trump e Putin, após a cúpula de Shenzhen: \"Uma guerra nuclear não pode ser vencida e nunca deve ser travada\"",
     "summary_pt": "Os líderes das três maiores potências se comprometem a promover uma reforma da ONU e a garantir a estabilidade dos fluxos de energia. O republicano, sobre o presidente russo: \"Ele é meu amigo\""
-  },
-  {
-    "title": "🔴 Historic trilateral summit live: Trump, Xi and Putin agree that a nuclear war must never be fought",
-    "summary": "",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
-    "date": "2026-11-19T11:11:03Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/32c34c44-e401-11f1-b14b-ff16da94d1fe/w:1280/p:16x9/AP26323309275576-1.jpg",
-    "title_pt": "🔴 Cúpula trilateral histórica ao vivo: Trump, Xi e Putin concordam que uma guerra nuclear nunca deve ser travada"
   },
   {
     "title": "El corazón se cuida en la mesa",
@@ -2516,34 +2406,6 @@
     "summary_pt": "As árvores, destinadas a um comprador não identificado na Geórgia, teriam sido desenterradas sem as licenças necessárias. Ambientalistas na África do Sul estão a correr para replantar cinco embondeiros centenários depois de as árvores de 20 toneladas terem sido desenterradas por um exportador, que tentou enviá-las para a Geórgia por milhares de quilómetros. Os baobás chegaram a uma reserva em Timbavati, no nordeste"
   },
   {
-    "title": "AI lab Anthropic sets stock market record with $81 billion IPO",
-    "summary": "Anthropic becomes the first \"pure play\" AI lab to go public, with an eye-watering $1.5 trillion valuation, a bellwether moment amid growing concerns of a financial bubble in the sector. Meanwhile, a scientific study shows US data centres are emitting as much greenhouse gas as entire nations.",
-    "category": "Economia",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/business/20261119-ai-lab-anthropic-sets-stock-market-record-with-81-billion-ipo",
-    "date": "2026-11-19T11:02:54Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/432826a6-e3fa-11f1-af2c-1ba7ddfab527/w:1024/p:16x9/191126-BUSINESS-DAILY.jpg",
-    "title_pt": "Laboratório de IA Anthropic bate recorde no mercado de ações com IPO de US$ 81 bilhões",
-    "summary_pt": "A Anthropic se torna o primeiro laboratório de IA “puro jogo” a abrir o capital, com uma avaliação impressionante de US$ 1,5 trilhão, um momento de referência em meio às preocupações crescentes de uma bolha financeira no setor. Entretanto, um estudo científico mostra que os centros de dados dos EUA estão a emitir tantos gases com efeito de estufa como nações inteiras."
-  },
-  {
-    "title": "'We are making history,' says Trump at historic trilateral with Xi and Putin",
-    "summary": "The first meeting in history between US, Chinese and Russian leaders has kicked off in Shenzhen, China. \"We are really making history,\" said the US president to his counterparts.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261119-we-are-making-history-says-trump-at-historic-trilateral-with-xi-and-putin",
-    "date": "2026-11-19T11:02:02Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/4411e162-e402-11f1-9df0-c5c0357b2a0c/w:1024/p:16x9/Trump-in-Shenzhen-10.png",
-    "title_pt": "‘Estamos fazendo história’, diz Trump em trilateral histórico com Xi e Putin",
-    "summary_pt": "A primeira reunião da história entre os líderes dos EUA, da China e da Rússia começou em Shenzhen, na China. “Estamos realmente fazendo história”, disse o presidente dos EUA aos seus homólogos."
-  },
-  {
     "title": "Alfama investe 13,5 milhões de euros em fábrica de Portugal e mira expansão",
     "summary": "Com incentivo de € 6 milhões da União Europeia, companhia prevê iniciar vendas em 2028 e aposta em produção local e distribuição especializada para avançar no continente; operação poderá representar 30% da receita total no futuro",
     "category": "Geral",
@@ -2658,20 +2520,6 @@
     "summary_pt": "A empresa por trás do chatbot Claude se tornará uma das empresas mais valiosas do mundo."
   },
   {
-    "title": "APEC Summit: Lots of gloss, little real progress?",
-    "summary": "Xi Jinping, Donald Trump and Vladimir Putin are holding their first-ever trilateral meeting in Shenzhen, on the sidelines of the APEC forum. It is a historic moment in more ways than one, with the leaders of the world’s three most powerful countries around the same table. Ukraine, the war in Iran, nuclear disarmament and artificial intelligence are all expec",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/apec-summit-lots-of-gloss-little-real-progress",
-    "date": "2026-11-19T10:47:03Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/997c2f9a-e3fd-11f1-ad0f-c5c0357b2a0c/w:1024/p:16x9/EN-20261119-100153-100636-CS.jpg",
-    "title_pt": "Cúpula da APEC: Muito brilho, pouco progresso real?",
-    "summary_pt": "Xi Jinping, Donald Trump e Vladimir Putin realizam a sua primeira reunião trilateral em Shenzhen, à margem do fórum da APEC. É um momento histórico em vários aspectos, com os líderes dos três países mais poderosos do mundo à volta da mesma mesa. A Ucrânia, a guerra no Irão, o desarmamento nuclear e a inteligência artificial são todos esperados."
-  },
-  {
     "title": "Mianmar cometeu genocídio contra os muçulmanos rohingya, diz ONU",
     "summary": "ONU afirma que Mianmar está promovendo uma limpeza étnica contra a minoria muçulmana O mais alto tribunal das Organizações das Nações Unidas (ONU) decidiu, nesta quinta-feira (19), que os milhares de assassinatos e a violência sexual generalizada perpetrados pelas forças de segurança de Mianmar contra a minoria muçulmana Rohingya em 2017 configuram genocídio",
     "category": "Geral",
@@ -2728,20 +2576,6 @@
     "summary_pt": "O chefe do futebol francês, Philippe Diallo, e o japonês Kozo Tashima serão os únicos candidatos a concorrer à presidência da FIFA."
   },
   {
-    "title": "Xi, Trump, Putin: historic summit ends, outcome unclear",
-    "summary": "The unprecedented trilateral summit between Xi Jinping, Donald Trump and Vladimir Putin ended on Thursday in Shenzhen after about an hour and 20 minutes. No details have emerged yet, but the three leaders talking face to face is already an event. Each has their own agenda: Putin wants to be back on the world stage, Trump needs a win at home, and Xi is assert",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/xi-trump-putin-historic-summit-ends-outcome-unclear",
-    "date": "2026-11-19T10:42:44Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/7fdd47ee-e403-11f1-b15f-7908c4e1a3c7/w:1024/p:16x9/EN-20261119-110128-110945-CS.jpg",
-    "title_pt": "Xi, Trump, Putin: cimeira histórica termina, resultado incerto",
-    "summary_pt": "A cimeira trilateral sem precedentes entre Xi Jinping, Donald Trump e Vladimir Putin terminou na quinta-feira em Shenzhen, após cerca de uma hora e 20 minutos. Nenhum detalhe surgiu ainda, mas os três líderes conversando cara a cara já é um acontecimento. Cada um tem a sua própria agenda: Putin quer voltar ao cenário mundial, Trump precisa de uma vitória em casa e Xi está determinado"
-  },
-  {
     "title": "El Parlamento de Dinamarca ratifica por unanimidad el acuerdo con Estados Unidos por Groenlandia",
     "summary": "El pacto, que aumentará la presencia militar estadounidense en la isla, entrará en vigor en cuanto Copenague informe a Washington",
     "category": "Geral",
@@ -2767,20 +2601,6 @@
     "lang": "en",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nuclear-02-tpbq/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg",
     "title_pt": "Sobre as armas nucleares, Trump diz: “É muito difícil desistir delas”."
-  },
-  {
-    "title": "Gianni Infantino 'is not eligible' for FIFA presidency, Sepp Blatter says",
-    "summary": "In an interview with FRANCE 24, former FIFA president Joseph (Sepp) Blatter claimed that Gianni Infantino \"is not eligible\" to run in the upcoming election for FIFA president because he's running for the fourth time, which is forbidden \"according to the existing statutes of FIFA\". Blatter also accused Infantino of buying votes and of \"using FIFA's money to g",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261119-gianni-infantino-is-not-eligible-for-fifa-presidency-sepp-blatter-says",
-    "date": "2026-11-19T10:41:31Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/7573ed4e-e36d-11f1-8b14-1ba7ddfab527/w:1024/p:16x9/SEPP-BLATTER.png",
-    "title_pt": "Gianni Infantino “não é elegível” para a presidência da FIFA, diz Joseph Blatter",
-    "summary_pt": "Numa entrevista ao FRANCE 24, o ex-presidente da FIFA Joseph (Sepp) Blatter afirmou que Gianni Infantino \"não é elegível\" para concorrer nas próximas eleições para presidente da FIFA porque está concorrendo pela quarta vez, o que é proibido \"de acordo com os estatutos existentes da FIFA\". Blatter também acusou Infantino de comprar votos e de “usar o dinheiro da FIFA para"
   },
   {
     "title": "Israel says it concludes Gaza tank raid",
@@ -2809,6 +2629,18 @@
     "image": "https://s2-g1.glbimg.com/jsTEaHeyzVTXu7OYJHqx0X7QeM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/a/xXAlsrSL66Z7o6qfO2NA/2026-11-05t131316z-102853543-rc2ohoaq4evm-rtrmadp-3-paraguay-politics.jpg",
     "title_pt": "Perdas do Ueno Bank se aproximam de US$ 1 bilhão, segundo Banco Central do Paraguai",
     "summary_pt": "O Escândalo do banco Ueno no Paraguai As perdas causadas pela quebra do banco paraguaio Ueno podem chegar a cerca de US$ 1 bilhão (R$ 5,8 bilhões), no pior cenário, estimou o novo presidente do Banco Central do Paraguai (BCP), Jorge Luis Schreiner, em entrevista à agência France Presse (AFP). A falência de um dos maiores bancos do Paraguai levou à destituiçã"
+  },
+  {
+    "title": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure",
+    "summary": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2lFRzhLTFFzUDAyQlFERWhQTjQwbzExSnlMaEVMYnhnOEdTRm9yNTJxWWgwRjluUHkxZVFWUnJYTXVOaVhoRGtGRE5PRXhiRF9WX3RtVVJGTkVIV3BLRDZPWVJQUFN0RjY3UXBpUktQSlNHQzlmS1N5Q0lCQkpLSjU4c29PQTM3bXI1cDlzSjAwTG95Vkt1Sk90NGlid0ptUG1v?oc=5",
+    "date": "2026-11-19T10:32:36Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
@@ -2881,20 +2713,6 @@
     "summary_pt": "O poeta cordovês recebe o prêmio por uma obra traduzida, \"Centroeuropa\""
   },
   {
-    "title": "Lynch yacht crew unaware of wind risk before fatal sinking, UK report finds",
-    "summary": "Lynch yacht crew unaware of wind risk before fatal sinking, UK report finds Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3p5RGx3OWRJNHIwc0w5Q0hjQjFOQngxMmpjMjM5RTI4aUV5MmJYZ19Bc2UyajhsX1hYSnhSa1NSeFVQWW4tMDRWaV9EQWJLanJkM3hpeHRRQ3l6Rkx3Z0dCT3EyVExCR0xROVdDWE1SWHZuenQxUlJQT3ZWR2kxejVpckxEN2NmWmYzdVB5cHFZeW9VWGl4bHBGdTQ0Zm1VNTFTYTlyMHhCUm1LOFlVeGluWndNVlE?oc=5",
-    "date": "2026-11-19T10:22:33Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Relatório do Reino Unido revela que a tripulação do iate de Lynch desconhecia o risco do vento antes do naufrágio fatal",
-    "summary_pt": "Relatório do Reino Unido revela que a tripulação do iate de Lynch não estava ciente do risco do vento antes do naufrágio fatal, segundo a Reuters"
-  },
-  {
     "title": "Groenland : le Parlement danois ratifie l’accord de sécurité avec les Etats-Unis et le territoire autonome",
     "summary": "Les 109 députés présents ont voté en faveur du texte, qui a été adopté sans opposition ni abstention.",
     "category": "Geral",
@@ -2907,20 +2725,6 @@
     "image": "https://img.lemde.fr/2026/11/12/0/0/5616/3744/1440/960/60/0/6893b8f_ftp-1-7ttvhvvcjf1c-afp-d7a96cm.jpg",
     "title_pt": "Groenlândia: o Parlamento dinamarquês ratifica o acordo de segurança com os Estados Unidos e o território autônomo",
     "summary_pt": "Os 109 deputados presentes votaram a favor do texto, que foi aprovado sem votos contrários nem abstenções."
-  },
-  {
-    "title": "APEC Summit: Trump, Putin, Xi hold 'historic' meeting",
-    "summary": "🇺🇸 🇨🇳 🇷🇺 US President Donald #Trump, Russia's Vladimir #Putin and Chinese leader #Xi Jinping kicked off their first trilateral talks in Shenzhen. Beijing said the meeting is aimed at \"safeguarding world peace\", but it has raised fears of a carve up of the globe into \"spheres of influence\".",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261119-apec-summit-trump-putin-xi-hold-historic-meeting",
-    "date": "2026-11-19T10:19:42Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/5f96f0b2-e3fd-11f1-9395-ff16da94d1fe/w:1024/p:16x9/mini-apec.png",
-    "title_pt": "Cúpula da APEC: Trump, Putin e Xi realizam encontro \"histórico\"",
-    "summary_pt": "🇺🇸 🇨🇳 🇷🇺 O presidente dos EUA, Donald #Trump, o russo Vladimir #Putin e o líder chinês #Xi Jinping iniciaram suas primeiras conversas trilaterais em Shenzhen. Pequim afirmou que o objetivo da reunião é \"preservar a paz mundial\", mas ela gerou temores de uma divisão do globo em \"esferas de influência\"."
   },
   {
     "title": "Loi contre le méthane : accord au sein de l’Union européenne pour un report de deux ans de son application",
@@ -3018,19 +2822,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A0709-copy-1794143945.jpeg?resize=1920%2C1440",
     "title_pt": "\"Deslocamento planejado\": o plano de paz de Trump para Gaza é um fracasso, dizem grupos humanitários",
     "summary_pt": "Com dois milhões de palestinos confinados a uma área de menos de 130 km², o plano de paz para Gaza apoiado pela ONU fracassou."
-  },
-  {
-    "title": "🔴 Live: Historic trilateral Xi-Putin-Trump summit ends in Shenzhen, China",
-    "summary": "",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
-    "date": "2026-11-19T10:04:28Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/32c34c44-e401-11f1-b14b-ff16da94d1fe/w:1280/p:16x9/AP26323309275576-1.jpg",
-    "title_pt": "🔴 Ao vivo: cúpula trilateral histórica entre Xi, Putin e Trump termina em Shenzhen, China"
   },
   {
     "title": "Crimea bridge has been attacked again, says Russian-installed governor",
@@ -3131,18 +2922,6 @@
     "summary_pt": "Muhammad Hafizuddin Roslin, que ganhou uma medalha de ouro nos Jogos da Commonwealth de 2026, teve o braço amputado após um acidente."
   },
   {
-    "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine dit avoir invité « des Européens » à Moscou avant leur éventuelle participation aux pourparlers sur l’Ukraine",
-    "summary": "Une réunion de la coalition des volontaires rassemble, jeudi après-midi, à Berlin, les alliés de l’Ukraine. Les émissaires américains Steve Witkoff et Jared Kushner y participent aux côtés du chancelier allemand, Friedrich Merz, des présidents ukrainien et français, Volodymyr Zelensky et Emmanuel Macron, et du premier ministre britannique, Andy Burnham.",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "FR",
-    "source": "Le Monde",
-    "url": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-etats-unis-chine-et-russie-dans-une-position-unique-pour-reduire-les-arsenaux-nucleaires-affirme-donald-tump_6810982_3210.html",
-    "date": "2026-11-19T09:54:07Z",
-    "lang": "fr",
-    "image": "https://img.lemde.fr/2026/11/19/821/0/4839/2419/1440/720/60/0/1d2bd02_ftp-1-mknq6hsnrz0b-2026-11-19t081734z-784978749-rc2vqoaqb5o3-rtrmadp-3-ukraine-crisis-germany.JPG"
-  },
-  {
     "title": "APEC summit, GTA VI launch, wine parade... Today’s top No Comment videos from around the world",
     "summary": "Watch today's top stories from around the world in this edition of Euronews' No Comment.",
     "category": "Geral",
@@ -3183,20 +2962,6 @@
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4147x2765+0+0/resize/4147x2765!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F42%2F55%2Fab53a66d41cea788e3772c0daf20%2Fap26323327946792.jpg",
     "title_pt": "Trump, Xi e Putin reúnem-se enquanto alianças globais estão em jogo",
     "summary_pt": "O presidente Trump, Xi e Putin reuniram-se em Shenzhen para uma reunião trilateral histórica, com a Ucrânia, o Irão e o desarmamento nuclear na agenda."
-  },
-  {
-    "title": "Infantino to face France's Diallo and Japan's Tashima in FIFA presidential election",
-    "summary": "FIFA confirmed on Thursday that France's Philippe Diallo and Japan's Kozo Tashima will run against incumbent Gianni Infantino in next year's presidential election. Infantino has faced criticism since July over his aborted plan to sell stakes in World Cup profits to private investors.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/sport/20261119-infantino-to-face-france-s-diallo-and-japan-s-tashima-in-fifa-presidential-election",
-    "date": "2026-11-19T09:39:22Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/82098b82-e3fd-11f1-939d-6d75ed565170/w:1024/p:16x9/main-95.png",
-    "title_pt": "Infantino enfrentará Diallo da França e Tashima do Japão nas eleições presidenciais da FIFA",
-    "summary_pt": "A FIFA confirmou na quinta-feira que o francês Philippe Diallo e o japonês Kozo Tashima concorrerão contra o atual Gianni Infantino nas eleições presidenciais do próximo ano. Infantino tem enfrentado críticas desde julho por seu plano abortado de vender participações nos lucros da Copa do Mundo a investidores privados."
   },
   {
     "title": "Trump diz que é 'difícil se desfazer de armas nucleares' e prega cooperação para não proliferação",
@@ -3285,7 +3050,7 @@
   {
     "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
     "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3339,20 +3104,6 @@
     "summary_pt": "Rússia e EUA têm 90% do arsenal nuclear do mundo O presidente da China, Xi Jinping, defendeu um \"mundo livre de armas nucleares\" durante suas declarações iniciais na histórica reunião trilateral com Donald Trump, dos Estados Unidos, e Vladimir Putin, da Rússia, nesta quinta-feira (19). ✅ Siga o canal de notícias internacionais do g1 no WhatsApp ANÁLISE: Trum"
   },
   {
-    "title": "France: Seven masculinists stand trial in Paris",
-    "summary": "Seven masculinists are facing trial in Paris on November 18 and 19. Aged between 26 and 54, the defendants are accused of sharing misogynistic, racist and anti-Semitic comments on a Telegram channel.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261119-france-seven-masculinists-stand-trial-in-paris",
-    "date": "2026-11-19T09:09:39Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/bf41e9e0-e376-11f1-88b7-ff16da94d1fe/w:1024/p:16x9/Mascu-trial-10.png",
-    "title_pt": "França: sete masculinistas são julgados em Paris",
-    "summary_pt": "Sete masculinistas serão julgados em Paris nos dias 18 e 19 de novembro. Com idades entre 26 e 54 anos, os réus são acusados de compartilhar comentários misóginos, racistas e antissemitas em um canal do Telegram."
-  },
-  {
     "title": "Terremoto de magnitude 4.7 — 92 km W of San Juan, Peru",
     "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
     "category": "Clima e desastres",
@@ -3380,20 +3131,6 @@
     "lang": "en",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-assk-kbzv/19myanmar-icj-assk-kbzv-mediumSquareAt3X.jpg",
     "title_pt": "Aung San Suu Kyi não condenou os pogroms contra os rohingyas."
-  },
-  {
-    "title": "Xi Jinping, Donald Trump and Vladimir Putin begin unprecedented summit in China",
-    "summary": "Xi Jinping, Donald Trump and Vladimir Putin opened their first trilateral talks in Shenzhen on the sidelines of the APEC forum, a meeting analysts expect to offer more symbolism than breakthroughs and that critics fear could carve the world into spheres of influence. Ukraine, the Iran war, nuclear disarmament and AI are all expected to come up, while Trump a",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/xi-jinping-donald-trump-and-vladimir-putin-begin-unprecedented-summit-in-china",
-    "date": "2026-11-19T09:07:17Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/5f550b2c-e3f6-11f1-aad1-ff16da94d1fe/w:1024/p:16x9/EN-20261119-093449-094417-CS.jpg",
-    "title_pt": "Xi Jinping, Donald Trump e Vladimir Putin iniciam cúpula sem precedentes na China",
-    "summary_pt": "Xi Jinping, Donald Trump e Vladimir Putin abriram as suas primeiras conversações trilaterais em Shenzhen à margem do fórum da APEC, uma reunião que os analistas esperam oferecer mais simbolismo do que avanços e que os críticos temem que possa dividir o mundo em esferas de influência. Espera-se que a Ucrânia, a guerra do Irão, o desarmamento nuclear e a IA surjam, enquanto Trump"
   },
   {
     "title": "Iran balances ties with China and Russia as Trump ramps up pressure",
@@ -3508,20 +3245,6 @@
     "summary_pt": "O ciclone Akvan, a terceira tempestade severa a atingir a costa leste da Índia em um mês, deve chegar ao continente no dia 20 de novembro. Enquanto isso, o primeiro-ministro Modi presidiu uma reunião do seu Conselho de Ministros."
   },
   {
-    "title": "South Korea tightens security for national exam over AI cheating scandal",
-    "summary": "More than 550,000 candidates sat South Korea’s Suneung university entrance exam under extraordinary security, after an AI cheating scandal in which a top scorer on a national tax accountant exam admitted using a hidden mini camera to send questions to an AI system. Authorities inspected students’ glasses, deployed thousands of extra supervisors and ordered s",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/south-korea-tightens-security-for-national-exam-over-ai-cheating-scandal",
-    "date": "2026-11-19T08:55:02Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/3847c0a2-e3f5-11f1-ba0e-c5c0357b2a0c/w:1024/p:16x9/EN-20261119-091253-091442-CS.jpg",
-    "title_pt": "Coreia do Sul reforça segurança para exame nacional devido a escândalo de trapaça em IA",
-    "summary_pt": "Mais de 550.000 candidatos realizaram o exame de admissão à Universidade Suneung da Coreia do Sul sob segurança extraordinária, após um escândalo de fraude na IA, no qual um dos melhores marcadores num exame nacional de contabilista fiscal admitiu ter utilizado uma minicâmara escondida para enviar perguntas a um sistema de IA. As autoridades inspecionaram os óculos dos alunos, mobilizaram milhares de supervisores extras e encomendaram óculos"
-  },
-  {
     "title": "Half a world from The Hague, Rohingya refugees know nothing of a genocide trial.",
     "summary": "",
     "category": "Geral",
@@ -3533,20 +3256,6 @@
     "lang": "en",
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-preruling-reax-htvm/19myanmar-icj-preruling-reax-htvm-mediumSquareAt3X.jpg",
     "title_pt": "A meio mundo de Haia, os refugiados rohingyas não sabem nada sobre um julgamento por genocídio."
-  },
-  {
-    "title": "Nuclear arms at the center of the Shenzhen trilateral meeting",
-    "summary": "Nuclear weapons are at the top of Donald Trump’s agenda at the trilateral summit in Beijing. The US president wants the United States, Russia and China to reduce their nuclear stockpiles, and FRANCE 24’s Philip Turle expects him to push hard for a three-way agreement on the issue. Iran is also a key part of the discussion. The three leaders share an interest",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/nuclear-arms-at-the-center-of-the-schenzhen-trilateral-meeting",
-    "date": "2026-11-19T08:36:29Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/ca689c6e-e3ef-11f1-82ff-1ba7ddfab527/w:1024/p:16x9/EN-20261119-080626-081405-CS.jpg",
-    "title_pt": "Armas nucleares no centro da reunião trilateral de Shenzhen",
-    "summary_pt": "As armas nucleares estão no topo da agenda de Donald Trump na cúpula trilateral em Pequim. O presidente dos Estados Unidos quer que os Estados Unidos, a Rússia e a China reduzam seus estoques nucleares, e Philip Turle, da FRANCE 24, espera que ele pressione fortemente por um acordo tripartido sobre o assunto. O Irã também é um elemento fundamental da discussão. Os três líderes compartilham um interesse"
   },
   {
     "title": "How to Decode the Xi-Trump Hug",
@@ -5131,7 +4840,7 @@
   {
     "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5239,18 +4948,6 @@
     "image": "https://s.france24.com/media/display/cd8e0060-e3d0-11f1-9616-7908c4e1a3c7/w:1024/p:16x9/000-D7VU8WE.jpg",
     "title_pt": "COP31: Vanuatu pede reforma da cúpula climática da ONU e alerta para retrocessos",
     "summary_pt": "O ministro do Meio Ambiente de Vanuatu, Ralph Regenvanu, pediu mudanças no processo da cúpula climática da ONU, acusando um pequeno grupo de países de bloquear o progresso e alertando que a COP31 corre o risco de reverter compromissos anteriores."
-  },
-  {
-    "title": "UNHCR halts refugee registration in Malaysia",
-    "summary": "UNHCR halts refugee registration in Malaysia Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUFhWGU5ZjJqV1U5MkZwMnVva3BWaDlOWUJ1emtjZUY1aXMtTjN0cDZTMVdCMG94U19WOXk1Z2pZX2JPUHZBV3gtazFrTlQzMGxuTml6bEctbENqVHBsV3BCT2RRNUY4Z0RTM1JvRmZpd0NhaDBJa3lBdFBkUWt5ajJ3WVlqVld6NC1KVE5zNEQ1RndRek5UUlRpVjc?oc=5",
-    "date": "2026-11-19T01:58:00Z",
-    "lang": "en",
-    "image": ""
   },
   {
     "title": "Stocks look to blockbuster Anthropic IPO to break losing streak",
@@ -5648,7 +5345,7 @@
   {
     "title": "The seven Anthropic founders who are about to become multi-billionaires",
     "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5700,6 +5397,18 @@
     "image": "",
     "title_pt": "Conclusões do segundo dia da viagem de Trump à Ásia: o aperto de mão de Putin, o frango frito e a diplomacia de alto risco",
     "summary_pt": "Conclusões do segundo dia da viagem de Trump à Ásia: o aperto de mão de Putin, o frango frito e a diplomacia de alto risco Reuters"
+  },
+  {
+    "title": "EXCLUSIVE: Anthropic clinches biggest-ever IPO with $81 billion offering",
+    "summary": "EXCLUSIVE: Anthropic clinches biggest-ever IPO with $81 billion offering Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnFyUlh5WE5VSFRRSWxnVGRUXzlROFRSb0VOdmZwamRWYjJ2SWhvTGp4ZTB3eGNYYWZtdkR0WkJLMDIxX2RZa20wOG4yY2xjdVhuTFpWakVUVDJ3X0NJQURrVkNuR0xPZmxtMm56NDQ0OHl2TzdZVDVSc04yYUlmY2hPSHJ1U2JLamhzallLeEZDVWozbGVObjBEWWNvY205Rmh3Rk9lTWE?oc=5",
+    "date": "2026-11-18T23:19:26Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Ex-deputada de direita se inscreve para disputar a Presidência de El Salvador",
@@ -5890,7 +5599,7 @@
   {
     "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
     "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6920,5 +6629,263 @@
     "image": "https://s2-g1.glbimg.com/9iaXqond-csFY_CRsA_PWke67Xc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/V/TIAAJLTuW9WoR8xRZySQ/fotojet-10-.jpg",
     "title_pt": "Polícia das Filipinas pede indiciamento do pai de Meghan Markle",
     "summary_pt": "Thomas Markle, pai da duquesa de Sussex, em entrevista à emissora britânica ITV Good Morning Britain/ITV handout via Reuters Um promotor regional das Filipinas afirmou nesta quarta-feira (18) à agência AFP que a polícia pediu o indiciamento de Thomas Markle, pai de Meghan Markle, por suspeita de posse e distribuição de material de abuso sexual infantil. ✅ Si"
+  },
+  {
+    "title": "Avião de companhia aérea russa faz pouso na Turquia após falsa ameaça de bomba",
+    "summary": "SukhoiSuperjet 100 da companhia Azimuth Airlines Reprodução/Azimuth Airlines Um avião de passageiros russo recebeu uma ameaça de bomba enquanto voava em direção ao sul da Turquia nesta quarta-feira (18), mas pousou sem incidentes, e seus passageiros e tripulantes foram retirados, informaram agências de notícias turcas. 📱Favorite o g1 no Google e acompanhe as",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "G1 Mundo",
+    "url": "https://g1.globo.com/mundo/noticia/2026/11/18/aviao-de-companhia-aerea-russa-faz-pouso-na-turquia-apos-falsa-ameaca-de-bomba.ghtml",
+    "date": "2026-11-18T14:17:02Z",
+    "lang": "pt",
+    "image": "https://s2-g1.glbimg.com/3IbOtg_aowFyRRwtP5U5ue7gd5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/m/NAhUuLTDOgzzODHXQfUQ/fotojet-27-.jpg",
+    "title_pt": "Avião de companhia aérea russa faz pouso na Turquia após falsa ameaça de bomba",
+    "summary_pt": "SukhoiSuperjet 100 da companhia Azimuth Airlines Reprodução/Azimuth Airlines Um avião de passageiros russo recebeu uma ameaça de bomba enquanto voava em direção ao sul da Turquia nesta quarta-feira (18), mas pousou sem incidentes, e seus passageiros e tripulantes foram retirados, informaram agências de notícias turcas. 📱Favorite o g1 no Google e acompanhe as"
+  },
+  {
+    "title": "Trump lands in China ahead of historic meeting with Xi and Putin",
+    "summary": "President Trump landed in Shenzhen, China, on Wednesday ahead of his historic meeting with Xi Jinping and Russia's Vladimir Putin. Tony Dokoupil and Nancy Cordes report.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/video/trump-lands-in-china-ahead-of-historic-meeting-with-xi-and-putin/",
+    "date": "2026-11-18T14:14:36Z",
+    "lang": "en",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/18/a09db6f4-1ab1-4eff-8151-ad085bf86ac6/thumbnail/1200x630/f5d40e50c28e850aa3f79cc979de077b/cbsn-fusion-trump-lands-in-china-ahead-of-historic-meeting-with-xi-and-putin-thumbnail.jpg"
+  },
+  {
+    "title": "Putin renews his warm bond with Xi.",
+    "summary": "The Russian leader demonstrated that despite his isolation from many Western nations over the war in Ukraine, he remains on good terms with much of the rest of the world.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/putin-renews-his-warm-bond-with-xi",
+    "date": "2026-11-18T14:14:34Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-PUTIN-SHENZHEN-tgbm/18trump-summits-PUTIN-SHENZHEN-tgbm-mediumSquareAt3X.jpg"
+  },
+  {
+    "title": "Baku, Tbilisi and Astana join forces to expand Middle Corridor as Belgian firms eye investment",
+    "summary": "Azerbaijan, Georgia and Kazakhstan have drawn up a joint plan to increase Middle Corridor freight capacity to around 30 million tonnes a year by 2029, as Belgian companies discuss a logistics hub in Kazakhstan and digital upgrades to the Asia-Europe trade route.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/2026/11/18/baku-tbilisi-and-astana-join-forces-to-expand-middle-corridor-as-belgian-firms-eye-investm",
+    "date": "2026-11-18T14:14:22Z",
+    "lang": "en",
+    "image": "https://images.euronews.com/articles/stories/09/99/59/87/696x392_cmsv2_367a56fe-089d-56f3-8eb6-49a18dfabdda-9995987.jpg"
+  },
+  {
+    "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
+    "summary": "Attorney general says E1 settlement decision should not be taken by caretaker government led by Netanyahu Israel has postponed issuing contracts for the construction of a large settlement on the West Bank seen as likely to render a two-state solution unviable, days after the UK imposed sanctions against building firms operating in the area. Israeli diplomats",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
+    "date": "2026-11-18T14:05:38Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/3b267577fe18325ce20cce7e2fbe3114054210c2/0_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7065332fe4b08ae84f7931e83bbaed06"
+  },
+  {
+    "title": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas",
+    "summary": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas Reuters/Divulgação/Reprodução O mundo, de novo, não acabou. Mas a previsão de um \"apagão mundial\" dominou as redes sociais na terça-feira (17), em meio a uma onda de ataques hackers que, desde outubro, atinge de geladeiras de supermercados a bancos. Só no Brasil",
+    "category": "Segurança cibernética",
+    "region": "Global",
+    "country": "BR",
+    "source": "G1 Mundo",
+    "url": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
+    "date": "2026-11-18T14:00:43Z",
+    "lang": "pt",
+    "image": "https://s2-g1.glbimg.com/StOpkhTXMduUC0pSWqJFLpLDK1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/8/ighTEAQ56v09DkC5HywQ/fotojet-24-.jpg",
+    "title_pt": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas",
+    "summary_pt": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas Reuters/Divulgação/Reprodução O mundo, de novo, não acabou. Mas a previsão de um \"apagão mundial\" dominou as redes sociais na terça-feira (17), em meio a uma onda de ataques hackers que, desde outubro, atinge de geladeiras de supermercados a bancos. Só no Brasil"
+  },
+  {
+    "title": "Iraq pumps oil to Turkey again after 12 years to bypass Hormuz disruption",
+    "summary": "The line, which can carry up to 750,000 barrels a day, was shut in 2014 after attacks by the so-called Islamic State terrorist group, and Iraq and Turkey agreed in August on a one-year arrangement for shipments while talks on a longer deal continue.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/2026/11/18/iraq-pumps-oil-to-turkey-again-after-12-years-to-bypass-hormuz-disruption",
+    "date": "2026-11-18T13:53:07Z",
+    "lang": "en",
+    "image": "https://images.euronews.com/articles/stories/09/99/74/70/696x392_cmsv2_e5ea5ff4-12a9-556e-b24e-4d4a47dbd07a-9997470.jpg"
+  },
+  {
+    "title": "Leaders of China and Japan Meet Amid Political Feud",
+    "summary": "Xi Jinping, China’s leader, greeted Sanae Takaichi, Japan’s prime minister, in Shenzhen a year after China began punishing Japan over her comments on Taiwan.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html",
+    "date": "2026-11-18T13:46:45Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-xi-takaichi-lcmk/18int-xi-takaichi-lcmk-mediumSquareAt3X.jpg"
+  },
+  {
+    "title": "VÍDEO: Trump, Xi e Putin se encontram antes de reunião trilateral",
+    "summary": "Trump chega à China para reunião trilateral Os presidentes dos Estados Unidos, Donald Trump, da China, Xi Jinping, e da Rússia, já travaram o primeiro encontro em território chinês, onde estão para uma reunião trilateral histórica. Trump, Xi e Putin se cumprimentaram nesta quarta-feira (18) na chegada a um jantar que o presidente chinês oferece para líderes ",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "G1 Mundo",
+    "url": "https://g1.globo.com/mundo/noticia/2026/11/18/video-trump-xi-e-putin-se-encontram-antes-de-reuniao-trilateral.ghtml",
+    "date": "2026-11-18T13:31:19Z",
+    "lang": "pt",
+    "image": "https://s2-g1.glbimg.com/XdZngvlncQCFLYOtausM0y_w-3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/d/kRxXsCT8GRbKG3C9vAoA/2026-11-18t113906z-1386858333-rc2bqoaa6ep9-rtrmadp-3-apec-summit.jpg",
+    "title_pt": "VÍDEO: Trump, Xi e Putin se encontram antes de reunião trilateral",
+    "summary_pt": "Trump chega à China para reunião trilateral Os presidentes dos Estados Unidos, Donald Trump, da China, Xi Jinping, e da Rússia, já travaram o primeiro encontro em território chinês, onde estão para uma reunião trilateral histórica. Trump, Xi e Putin se cumprimentaram nesta quarta-feira (18) na chegada a um jantar que o presidente chinês oferece para líderes "
+  },
+  {
+    "title": "Trump and Marcos Share a Moment Over Jollibee Fried Chicken",
+    "summary": "President Trump’s host in Manila put in a late-night order from the Filipino fast-food chain Jollibee for the American leader.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/18/world/asia/trump-marcos-philippines-fried-chicken-jollibee.html",
+    "date": "2026-11-18T13:29:27Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/12/17/multimedia/17trump-summits-fast-food-jgwq/17trump-summits-fast-food-jgwq-mediumSquareAt3X-v2.jpg"
+  },
+  {
+    "title": "China's Xi greets Trump at airport ahead of planned summit with Putin",
+    "summary": "President Trump arrived Wednesday in China, where the Kremlin said he had an informal meeting with Vladimir Putin.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+    "date": "2026-11-18T13:29:00Z",
+    "lang": "en",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/4b9f8626-0eb2-4906-a4b2-5e31f3f667ca/thumbnail/1200x630g2/d70a6945fd5d8836165ee1d84a8d150c/gettyimages-2305160465.jpg"
+  },
+  {
+    "title": "Toilets: Are you a squatter or a sitter?",
+    "summary": "Did you know the average time it takes to pass a bowel movement is shorter if you're squatting rather than sitting? Josie Peters explores why.",
+    "category": "Saúde",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/videos/c804wngelw22o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18T13:25:05Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1de/live/e68a9020-e352-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+    "title": "2,000-year-old bog woman was beheaded in possible ritual killing",
+    "summary": "The \"Ballymacombs More Woman,\" whose body lay in a Northern Ireland bog for 2,000 years, was beheaded, possibly in a \"ritualized killing,\" researchers say.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/news/northern-ireland-ballymacombs-more-bog-woman-beheaded-ritual-killing/",
+    "date": "2026-11-18T13:25:00Z",
+    "lang": "en",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/18/45bef93f-fd7d-436b-bb32-88ce84458cf8/thumbnail/1200x630/91a2f8afe2a17296f5b346d702bdf3a8/remains.jpg"
+  },
+  {
+    "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+    "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18T13:17:06Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a59/live/128bd8c0-e35b-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+    "title": "Fried chicken and a chat with an old friend: How Marcos catered to Trump",
+    "summary": "President Ferdinand R. Marcos Jr. of the Philippines flattered President Trump during his brief visit to Manila. It is unclear what dividends the strategy will yield.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/fried-chicken-and-a-chat-with-an-old-friend-how-marcos-catered-to-trump",
+    "date": "2026-11-18T13:17:06Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/18/world/asia/18vid-trump-jollibee-COVER/18vid-trump-jollibee-COVER-mediumSquareAt3X.jpg"
+  },
+  {
+    "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
+    "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
+    "category": "Tecnologia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18T13:16:53Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4986/live/43b39be0-e34c-11f1-99aa-0f40b013ad11.jpg"
+  },
+  {
+    "title": "Trump and Putin shake hands in first encounter since 2025",
+    "summary": "Donald Trump, Vladimir Putin and Xi Jinping are preparing for historic three-way talks in China, bringing the three leaders together in person for the first time.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/2026/11/18/trump-and-putin-shake-hands-in-first-encounter-since-2025",
+    "date": "2026-11-18T13:13:00Z",
+    "lang": "en",
+    "image": "https://images.euronews.com/articles/stories/09/99/79/97/696x392_cmsv2_4068fcdd-eaca-50d0-9f91-a0073b430b62-9997997.jpg"
+  },
+  {
+    "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+    "summary": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18T13:10:01Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f6a/live/8100d500-e345-11f1-99aa-0f40b013ad11.jpg"
+  },
+  {
+    "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+    "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18T13:04:48Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492e/live/f37939a0-e346-11f1-99aa-0f40b013ad11.jpg"
+  },
+  {
+    "title": "Fossil fuel exit becomes COP31 flashpoint – but four more European countries are taking the leap",
+    "summary": "Four more EU countries have joined Finland, France, Germany and the Netherlands in publishing national roadmaps for the transition away from fossil fuels.",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/2026/11/18/cop31-is-once-again-shying-away-from-a-fossil-fuel-exit-but-one-european-country-is-taking",
+    "date": "2026-11-18T13:02:31Z",
+    "lang": "en",
+    "image": "https://images.euronews.com/articles/stories/09/99/15/05/696x392_cmsv2_136a0785-182b-5072-8994-b480f5fbc16f-9991505.jpg"
+  },
+  {
+    "title": "Police in Bangladesh clash with garment workers demanding higher minimum wages",
+    "summary": "Workers are demanding a minimum monthly wage of 30,000 takas (€215), up from 12,500 takas (€89) and say rising living costs have eroded their purchasing power.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/2026/11/18/police-in-bangladesh-clash-with-garment-workers-demanding-higher-minimum-wages",
+    "date": "2026-11-18T12:45:21Z",
+    "lang": "en",
+    "image": "https://images.euronews.com/articles/stories/09/99/79/04/696x392_cmsv2_e830c484-b9df-5c62-860a-fc8eb9a0f491-9997904.jpg"
   }
 ]

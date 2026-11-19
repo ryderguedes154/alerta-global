@@ -1,8 +1,8 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T14:16:55.171454Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T14:22:08.100011Z",
+  "status": "checado",
   "items": [
     {
       "title": "China, Rússia e EUA dizem, em declaração de paz conjunta, que 'guerra nuclear nunca deve ser travada'",
@@ -83,29 +83,29 @@
       "selection": "automatic"
     },
     {
-      "title": "Sinais ‘chocantes’ de mudanças climáticas acrescentam urgência às negociações da COP31",
-      "summary": "Do Ártico aos trópicos, o clima incomum e o calor extremo estão a suscitar preocupações sobre a rapidez com que os humanos estão a remodelar os processos naturais da Terra.",
+      "title": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas",
+      "summary": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas Reuters/Divulgação/Reprodução O mundo, de novo, não acabou. Mas a previsão de um \"apagão mundial\" dominou as redes sociais na terça-feira (17), em meio a uma onda de ataques hackers que, desde outubro, atinge de geladeiras de supermercados a bancos. Só no Brasil",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
-      "published_on": "19/11/2026 09:56 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-cop31-disruption-top-fctl/18cli-cop31-disruption-top-fctl-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Putin diz que reunião com Trump e Xi não definiu compromissos obrigatórios; Rússia pode participar de encontro do G20",
-      "summary": "Armas nucleares, guerras e economia: saiba o que Trump, Xi Jinping e Putin discutiram O presidente da Rússia, Vladimir Putin, afirmou nesta quinta-feira (19) que a reunião com os presidentes dos Estados Unidos, Donald Trump, e da China, Xi Jinping, não teve objetivos ambiciosos nem estabeleceu compromissos obrigatórios para os três países. Segundo ele, os lí",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
+      "category": "Segurança cibernética",
       "region": "Global",
       "country": "BR",
       "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/19/putin-diz-que-reuniao-com-trump-e-xi-nao-definiu-compromissos-obrigatorios.ghtml",
-      "published_on": "19/11/2026 08:48 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/tYHTYWImWwOiiNralPTM1-4CFlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/m/ShCvTbTxmNj23mP6Skng/2026-11-19t115551z-488661160-rc2zqoajzp2q-rtrmadp-3-apec-summit-putin-presser.jpg",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
+      "published_on": "18/11/2026 10:00 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/StOpkhTXMduUC0pSWqJFLpLDK1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/8/ighTEAQ56v09DkC5HywQ/fotojet-24-.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Sobreviventes do deslizamento de terra mortal em Uganda buscam justiça na ONU",
+      "summary": "Os sobreviventes rejeitam os planos de realocação, alegando que eles ignoram sua segurança, seus direitos à terra e seus meios de subsistência.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+      "published_on": "19/11/2026 05:21 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f49/live/977f9e30-e3f2-11f1-a1b0-810734adec41.jpg",
       "selection": "automatic"
     }
   ]
