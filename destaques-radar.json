@@ -1,7 +1,7 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T16:36:59.900958Z",
+  "checked_at": "2026-11-19T16:42:53.015692Z",
   "status": "checado",
   "items": [
     {
@@ -70,16 +70,16 @@
       "selection": "automatic"
     },
     {
-      "title": "China, Rússia e EUA planejam ampliar oferta de petróleo orgânico",
-      "summary": "Acordo divulgado pela mídia chinesa prevê fornecimento global e destaca a importância da estabilidade nos fluxos energéticos mundiais",
+      "title": "Grandes potências prometem aumentar o fornecimento de petróleo em meio à transição energética global",
+      "summary": "Os Estados Unidos, a China e a Rússia concordaram em aumentar a oferta de produtos petrolíferos refinados, já que os preços do petróleo estão subindo devido à guerra no Irã.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Economia",
       "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/china-russia-e-eua-planejam-ampliar-oferta-de-petroleo-organico/",
-      "published_on": "19/11/2026 10:21 (Boa Vista)",
-      "image": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/cnn-brasil-placeholder.jpeg?w=200",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
+      "published_on": "19/11/2026 12:31 (Boa Vista)",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
       "selection": "automatic"
     },
     {
