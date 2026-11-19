@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-19T17:20:18.019Z",
+  "updated_at": "2026-11-19T19:05:25.274Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Anthropic estreia na Nasdaq e chega a cerca de US$ 2 trilhões em valor de mercado",
+      "summary": "Em 19 de novembro, as ações da Anthropic estrearam na Nasdaq a US$ 111,50, alta de 34% sobre o preço da oferta de US$ 83, levando a avaliação da companhia a aproximadamente US$ 2 trilhões na abertura. Depois, os papéis reduziram os ganhos, indicando volatilidade. A oferta inicial já havia sido anunciada anteriormente.",
+      "impact_br": "Pode influenciar o sentimento de investidores em empresas de tecnologia e IA, inclusive ativos negociados no Brasil; não há efeito econômico direto confirmado.",
+      "category": "economia e tecnologia",
+      "region": "América do Norte",
+      "country": "US",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "published_on": "2026-11-19",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-19T19:05:25.274Z"
+    },
     {
       "title": "Putin descarta trégua para ataques à energia e à navegação no Mar Negro",
       "summary": "Após novos ataques ucranianos à Ponte da Crimeia, o presidente russo Vladimir Putin afirmou em 19 de novembro que não considerará um acordo para suspender ataques contra instalações energéticas e alvos marítimos e prometeu retaliação. Trata-se de uma declaração oficial, não de confirmação de novos ataques.",
