@@ -1,9 +1,22 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T05:26:08.865901Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T05:31:24.165825Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Xi diz que a Ásia-Pacífico precisa de comércio aberto e Putin condena sanções enquanto Trump chega à China",
+      "summary": "SHENZHEN, China (AP) - A Ásia-Pacífico deve buscar um comércio mais aberto e um crescimento equitativo se quiser permanecer estável e dinâmico, disse o presidente chinês, Xi Jinping, a executivos de negócios reunidos na quarta-feira no centro tecnológico e financeiro de Shenzhen, no sul da China, à margem do anual ...",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/apec-china-economy-trump-putin-ai-1e3b6161b31196c9716ca02ac8c7720c?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+      "published_on": "18/11/2026 01:20 (Boa Vista)",
+      "image": "https://ic-cdn.flipboard.com/apnews.com/723421dfbe72cca1570446c866d2e78aa3cf8979/_large.webp",
+      "selection": "automatic"
+    },
     {
       "title": "Terremoto de magnitude 6.1 — Pacific-Antarctic Ridge",
       "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
@@ -67,19 +80,6 @@
       "url": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
       "published_on": "18/11/2026 23:32 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
-      "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-      "published_on": "18/11/2026 22:27 (Boa Vista)",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
       "selection": "automatic"
     },
     {
