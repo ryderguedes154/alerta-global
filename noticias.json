@@ -7,7 +7,7 @@
     "country": "ES",
     "source": "El País",
     "url": "https://elpais.com/espana/madrid/2026-11-19/la-comunidad-de-madrid-prohibe-a-los-centros-educativos-colocar-carteles-sobre-la-huelga-o-implicar-a-los-alumnos-en-la-protesta.html",
-    "date": "2026-11-19T17:39:54Z",
+    "date": "2026-11-19T17:46:36Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/MTS4TMAKTVAV7JJDA6ESDL2ZQM.jpg?auth=f81802bd70708f6701b7049b9799c7b99232cbfef26d0812f49e5db127a8bb66"
   },
@@ -35,7 +35,7 @@
     "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-19T17:35:05Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f737/live/e79442a0-e43c-11f1-a094-5fdc692f3e33.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dea/live/12de9420-e441-11f1-99a1-253766e7ad8b.jpg"
   },
   {
     "title": "Trump pressiona Congresso a aprovar projeto de lei agrícola ainda neste ano",
@@ -142,6 +142,20 @@
     "date": "2026-11-19T17:30:04Z",
     "lang": "fr",
     "image": "https://img.lemde.fr/2026/11/19/0/0/3772/2515/1440/960/60/0/a6ecf1d_upload-1-qumrybrnpxam-ap26043497255367.jpg"
+  },
+  {
+    "title": "Anthropic blows past $2 trillion in Nasdaq debut, tops SpaceX's June listing",
+    "summary": "Anthropic blows past $2 trillion in Nasdaq debut, tops SpaceX's June listing Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
+    "date": "2026-11-19T17:29:48Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "A Anthropic ultrapassa US$ 2 trilhões em sua estreia na Nasdaq, superando a listagem da SpaceX em junho",
+    "summary_pt": "Anthropic ultrapassa US$ 2 trilhões na estreia na Nasdaq, superando a listagem da SpaceX em junho Reuters"
   },
   {
     "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
@@ -376,20 +390,6 @@
     "image": "https://images.euronews.com/articles/stories/10/00/01/62/696x392_cmsv2_50db40b4-9815-5c42-9e90-d63a0568a143-10000162.jpg",
     "title_pt": "AIE alerta que o conflito no Oriente Médio representa a maior ameaça à segurança energética global da história",
     "summary_pt": "A interrupção do fornecimento de petróleo pelo Estreito de Ormuz está aumentando os custos para as famílias, enquanto a agência afirma que, quanto mais tempo a crise durar, mais difícil será para os mercados globais de energia se recuperarem."
-  },
-  {
-    "title": "Anthropic blows past $2 trillion in Nasdaq debut, tops SpaceX's June listing",
-    "summary": "Anthropic blows past $2 trillion in Nasdaq debut, tops SpaceX's June listing Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
-    "date": "2026-11-19T17:17:16Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "A Anthropic ultrapassa US$ 2 trilhões em sua estreia na Nasdaq, superando a listagem da SpaceX em junho",
-    "summary_pt": "Anthropic ultrapassa US$ 2 trilhões na estreia na Nasdaq, superando a listagem da SpaceX em junho Reuters"
   },
   {
     "title": "‘Not an acquittal’: After impeachment vote, Hegseth still under microscope",
@@ -3833,7 +3833,7 @@
   {
     "title": "Indian driver wins $1.3m in life-changing lottery prize",
     "summary": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6334,7 +6334,7 @@
   {
     "title": "Why has Waymo pulled all its driverless cars from US freeways?",
     "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6517,7 +6517,7 @@
   },
   {
     "title": "Crimea bridge strike: Fact-checking fake videos of damage after Ukraine's attack",
-    "summary": "Ukraine struck the Kerch Bridge linking Russia to occupied Crimea, but not all the dramatic footage circulating online is real. Multiple AI-generated videos falsely show the bridge collapsed with extensive damage. Some even used branding resembling a Ukrainian news agency to appear credible. While the bridge was indeed struck and damaged, the viral videos we",
+    "summary": "Ukraine has struck the Kerch Bridge linking Russia to occupied Crimea, but not all the dramatic footage circulating online is real. Multiple AI-generated videos falsely show the bridge collapsed with extensive damage. Some even used branding resembling a Ukrainian news agency to appear credible. While the bridge was indeed struck and damaged, the viral video",
     "category": "Geral",
     "region": "Global",
     "country": "FR",
