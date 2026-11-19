@@ -7,7 +7,7 @@
     "country": "US",
     "source": "CBS News",
     "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
-    "date": "2026-11-19T06:53:18Z",
+    "date": "2026-11-19T06:57:38Z",
     "lang": "en",
     "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/19/dca4ce94-dadc-451c-80d0-d9e7d8a7fbda/thumbnail/1200x630/e0b4c7cdf2d41b5258732a8d5adac400/ap26323154078465-1.jpg",
     "title_pt": "Trump, Xi e Putin se preparam para uma rara reunião conjunta na China",
@@ -211,7 +211,7 @@
   },
   {
     "title": "Gilts v kilts: What is happening with Scottish government bonds?",
-    "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
+    "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market.",
     "category": "Economia",
     "region": "Global",
     "country": "GB",
@@ -432,6 +432,20 @@
     "image": "https://i.guim.co.uk/img/media/8855d537c98024a3980af1a52e6d724b5a59685c/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9fcf71529c3b46714c18f4b35a09c44",
     "title_pt": "Tulip Siddiq diz que está pensando em entrar com uma ação judicial contra a ex-líder de Bangladesh",
     "summary_pt": "Ex-ministra, que foi condenada à prisão em Bangladesh na sua ausência, diz que foi vítima de \"perseguição maliciosa\". A ex-ministra Tulip Siddiq disse que está pensando em entrar com uma ação judicial contra o ex-líder interino de Bangladesh por causa das acusações de corrupção feitas por seu governo, que a levaram a renunciar ao governo do Reino Unido no ano passado."
+  },
+  {
+    "title": "Así está el mercado laboral de tecnología: una de cada seis ofertas pide IA, solo uno de cada 60 programadores la pone en su currículum",
+    "summary": "Los puestos de trabajo en España para desarrolladores muestran el crecimiento rápido de la inteligencia artificial y las dificultades para encontrar puestos júnior",
+    "category": "Tecnologia",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/tecnologia/2026-11-19/asi-esta-el-mercado-laboral-de-tecnologia-una-de-cada-seis-ofertas-pide-ia-solo-uno-de-cada-60-programadores-la-pone-en-su-curriculum.html",
+    "date": "2026-11-19T06:00:00Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/XM365A7D2ZC3FIAX4YOTKWKBFI.jpg?auth=7ea229e234f7cf0f523a0bf6297c0f6328f2d7b2a85eab6241dba231b37703e4",
+    "summary_pt": "As vagas de emprego para desenvolvedores na Espanha mostram o rápido crescimento da inteligência artificial e as dificuldades em encontrar cargos júnior",
+    "title_pt": "Assim está o mercado de trabalho de tecnologia: uma em cada seis vagas exige IA, mas apenas um em cada 60 programadores a coloca no seu currículo."
   },
   {
     "title": "« Inside Deutsche Bank » : derrière la façade verte, les coulisses du « greenwashing » de la banque allemande",
@@ -1456,20 +1470,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/6PWQ5RI3QBF7NFDI3WQOCANNYY.jpg?auth=487baa04a5a13e1b3ebfd3ab594826f0ebed5d63d3e994ffd2abb3995896bf06",
     "title_pt": "Aly Tandian, sociólogo senegalês: \"Não se parte apenas em busca de um salário, mas para deixar de ser dependente e se tornar alguém\"",
     "summary_pt": "O diretor do Observatório das Migrações Senegalesas destaca o fracasso do controlo fronteiriço que “desloca rotas, fortalece os traficantes e torna as viagens mais mortíferas” e propõe “abordar as causas a médio prazo e abrir vias legais credíveis”."
-  },
-  {
-    "title": "Agnès Bénassy-Quéré: “El temor a una fuga de depósitos por el euro digital está fuera de lugar”",
-    "summary": "La subgobernadora del Banco de Francia aboga por la adaptación de los bancos centrales a la tecnología descentralizada y el carácter estratégico de un euro con peso en el mundo",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/economia/2026-11-19/agnes-benassy-quere-el-temor-a-una-fuga-de-depositos-por-el-euro-digital-esta-fuera-de-lugar.html",
-    "date": "2026-11-19T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/V4J43XK3ONBPVJBS5BTWYAUBAA.jpg?auth=f545b7e2623fe29008f9b47e5353ac69e327ae98be80d1fa3f6d6b65fc3c27d7",
-    "title_pt": "Agnès Bénassy-Quéré: “O medo de uma fuga de depósitos devido ao euro digital é infundado”",
-    "summary_pt": "O vice-governador do Banco de França defende a adaptação dos bancos centrais à tecnologia descentralizada e o carácter estratégico de um euro com peso no mundo"
   },
   {
     "title": "Al menos el 10% de la población mundial sufre un uso problemático del internet: “Hay que priorizar la salud pública frente a la industria”",
