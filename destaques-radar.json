@@ -1,9 +1,22 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T14:27:22.903486Z",
+  "checked_at": "2026-11-19T14:32:48.423677Z",
   "status": "checado",
   "items": [
+    {
+      "title": "Putin, Trump e Xi condenam a guerra nuclear enquanto a Europa observa de perto",
+      "summary": "Após a cimeira, os líderes da Rússia, dos Estados Unidos e da China concordaram que “uma guerra nuclear não pode ser vencida e nunca deve ser travada”. Alguns analistas estão céticos de que isso resultará em mudanças reais.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
+      "published_on": "19/11/2026 10:23 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nukes-europe-1-zwgv/19trump-summits-nukes-europe-1-zwgv-mediumSquareAt3X.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "China, Rússia e EUA dizem, em declaração de paz conjunta, que 'guerra nuclear nunca deve ser travada'",
       "summary": "Reunião histórica: líderes de EUA, Rússia e China se encontram em Shenzhen China, Rússia e Estados Unidos manterão um diálogo sobre riscos nucleares e concordam que uma guerra nuclear nunca deve acontecer, anunciaram os três países em conjunto, por meio de uma \"declaração de paz\". ✅ Siga o canal de notícias internacionais do g1 no WhatsApp ANÁLISE: Trump che",
@@ -28,19 +41,6 @@
       "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
       "published_on": "19/11/2026 07:11 (Boa Vista)",
       "image": "https://imagenes.elpais.com/resizer/v2/K5ALE3WIAFB4LF5A6O4UF3B7LU.jpg?auth=74afe4724d852ed7f81dbb85f71248660221ec93e37a776f35f5b96061f20b69",
-      "selection": "automatic"
-    },
-    {
-      "title": "Putin promete resposta “muito mais dolorosa” aos ataques da Ucrânia na ponte da Crimeia",
-      "summary": "O presidente russo disse que a Ponte da Crimeia era uma infra-estrutura civil, o que Kiev contesta.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "published_on": "19/11/2026 09:07 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc7/live/1a9ba6c0-e424-11f1-b782-6bf340d7e154.jpg",
       "selection": "automatic"
     },
     {
@@ -70,6 +70,19 @@
       "selection": "automatic"
     },
     {
+      "title": "China, Rússia e EUA planejam ampliar oferta de petróleo orgânico",
+      "summary": "Acordo divulgado pela mídia chinesa prevê fornecimento global e destaca a importância da estabilidade nos fluxos energéticos mundiais",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/china-russia-e-eua-planejam-ampliar-oferta-de-petroleo-organico/",
+      "published_on": "19/11/2026 10:21 (Boa Vista)",
+      "image": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/cnn-brasil-placeholder.jpeg?w=200",
+      "selection": "automatic"
+    },
+    {
       "title": "Aumento das cremações diretas desde a pandemia",
       "summary": "Um relatório de 2026 sobre o custo de falecer constatou que a cremação direta agora é escolhida em cerca de um em cada cinco funerais.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
       "published_on": "19/11/2026 09:56 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-cop31-disruption-top-fctl/18cli-cop31-disruption-top-fctl-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Putin diz que reunião com Trump e Xi não definiu compromissos obrigatórios; Rússia pode participar de encontro do G20",
-      "summary": "Armas nucleares, guerras e economia: saiba o que Trump, Xi Jinping e Putin discutiram O presidente da Rússia, Vladimir Putin, afirmou nesta quinta-feira (19) que a reunião com os presidentes dos Estados Unidos, Donald Trump, e da China, Xi Jinping, não teve objetivos ambiciosos nem estabeleceu compromissos obrigatórios para os três países. Segundo ele, os lí",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/19/putin-diz-que-reuniao-com-trump-e-xi-nao-definiu-compromissos-obrigatorios.ghtml",
-      "published_on": "19/11/2026 08:48 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/tYHTYWImWwOiiNralPTM1-4CFlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/m/ShCvTbTxmNj23mP6Skng/2026-11-19t115551z-488661160-rc2zqoajzp2q-rtrmadp-3-apec-summit-putin-presser.jpg",
       "selection": "automatic"
     }
   ]

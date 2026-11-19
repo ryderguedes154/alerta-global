@@ -7,9 +7,95 @@
     "country": "US",
     "source": "The New York Times",
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
-    "date": "2026-11-19T14:25:18Z",
+    "date": "2026-11-19T14:31:48Z",
     "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-promo-7am-et/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg"
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-promo-7am-et/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg",
+    "title_pt": "Atualizações ao vivo: Trump, Xi e Putin procuram projetar poder em sua primeira cúpula",
+    "summary_pt": "A reunião na China pareceu ser em grande parte simbólica. Após a partida do presidente Trump, o presidente Vladimir V. Putin disse que a Rússia não negociaria um cessar-fogo com a Ucrânia."
+  },
+  {
+    "title": "Ben Shelton - Rafa Jódar en directo | El americano se lleva el primer set (7-6)",
+    "summary": "El tenista madrileño necesita vencer para conservar sus escasas opciones de pasar a las semifinales del certamen",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/tenis/2026-11-19/ben-shelton-rafa-jodar-en-directo-el-partido-de-las-atp-finals-en-vivo.html",
+    "date": "2026-11-19T14:31:05Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/V2UYCNC7ZNMMZK57OHG3WNW6O4.jpg?auth=fb8b85a60baa5a70d072875ae53f7f9890802a939010d524ddd3f6e23e50fba9",
+    "title_pt": "Ben Shelton - Rafa Jódar ao vivo | O americano vence o primeiro set (7-6)",
+    "summary_pt": "O tenista madrilenho precisa vencer para manter as poucas chances de avançar às semifinais da competição."
+  },
+  {
+    "title": "Márcio Elias Rosa ganha força para assumir Defesa no Lula 4",
+    "summary": "Aliado do vice-presidente Geraldo Alckmin, o ministro que comanda o MDIC desde abril e ganhou créditos com Lula em negociações do tarifaço",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/marcio-elias-rosa-ganha-forca-para-assumir-defesa-no-lula-4/",
+    "date": "2026-11-19T14:30:19Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/55657060036_56e92421c3_k-e1794875567846.jpg?w=200",
+    "title_pt": "Márcio Elias Rosa ganha força para assumir Defesa no Lula 4",
+    "summary_pt": "Aliado do vice-presidente Geraldo Alckmin, o ministro que comanda o MDIC desde abril e ganhou créditos com Lula em negociações do tarifaço"
+  },
+  {
+    "title": "Zé Neto sobre reação à morte de Marília: “Acharam que eu ia entrar em coma”",
+    "summary": "Sertanejo deu detalhes de impacto da morte da cantora, que morreu em 2021, e contou que passou muitas horas sem nem conseguir conversar",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/ze-neto-sobre-reacao-a-morte-de-marilia-acharam-que-eu-ia-entrar-em-coma/",
+    "date": "2026-11-19T14:28:16Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/alexander-haskin-e1795040119579.webp?w=200",
+    "title_pt": "Zé Neto sobre reação à morte de Marília: “Acharam que eu ia entrar em coma”",
+    "summary_pt": "Sertanejo deu detalhes de impacto da morte da cantora, que morreu em 2021, e contou que passou muitas horas sem nem conseguir conversar"
+  },
+  {
+    "title": "Rio anuncia show de Natal com Zeca Pagodinho, Alcione e Jorge Aragão",
+    "summary": "Prefeitura da cidade disse que pretende ampliar calendário de eventos do fim de ano",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/pop/musica/rio-anuncia-show-de-natal-com-zeca-pagodinho-alcione-e-jorge-aragao/",
+    "date": "2026-11-19T14:28:08Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/12/show-paulista.png?w=200",
+    "title_pt": "Rio anuncia show de Natal com Zeca Pagodinho, Alcione e Jorge Aragão",
+    "summary_pt": "Prefeitura da cidade disse que pretende ampliar calendário de eventos do fim de ano"
+  },
+  {
+    "title": "Une cyberattaque assistée par l’IA a ciblé la Commission européenne en octobre",
+    "summary": "L’exécutif européen a dit avoir été victime d’une « cyber campagne générée par l’IA », liée à un « usage abusif d’un outil d’IA » et détectée le 22 octobre. Mais aucune violation de données n’a été prouvée à ce stade, selon un porte-parole.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "FR",
+    "source": "Le Monde",
+    "url": "https://www.lemonde.fr/pixels/article/2026/11/19/une-cyberattaque-assistee-par-l-ia-a-cible-la-commission-europeenne-en-octobre_6813314_4408996.html",
+    "date": "2026-11-19T14:27:55Z",
+    "lang": "fr",
+    "image": "https://img.lemde.fr/2026/06/23/226/0/8064/5376/1440/960/60/0/6fd910e_ftp-1-6lln4gdpccs4-2026-06-23t172433z-682814178-rc21zka620c9-rtrmadp-3-eu-afghanistan.JPG",
+    "title_pt": "Um ataque cibernético assistido por IA teve como alvo a Comissão Europeia em outubro",
+    "summary_pt": "O executivo europeu disse ter sido vítima de uma “campanha cibernética gerada por IA”, ligada ao “uso abusivo de uma ferramenta de IA” e detectada em 22 de outubro. Mas nenhuma violação de dados foi comprovada neste momento, de acordo com um porta-voz."
+  },
+  {
+    "title": "Rafa Câmara vive dilema entre F1 e luta pelo título na F2; entenda",
+    "summary": "Jovem piloto brasileiro lidera a Fórmula 2, mas pode assumir Haas na Fórmula 1 já em 2026, com contrato para 2027",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/rafa-camara-vive-dilema-entre-f1-e-luta-pelo-titulo-na-f2-entenda/",
+    "date": "2026-11-19T14:26:30Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/Cadillac-e1756209209987.jpeg?w=200",
+    "title_pt": "Rafa Câmara vive dilema entre F1 e luta pelo título na F2; entenda",
+    "summary_pt": "Jovem piloto brasileiro lidera a Fórmula 2, mas pode assumir Haas na Fórmula 1 já em 2026, com contrato para 2027"
   },
   {
     "title": "Putin, Trump and Xi Condemn Nuclear War as Europe Watches Closely",
@@ -21,19 +107,37 @@
     "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
     "date": "2026-11-19T14:23:07Z",
     "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nukes-europe-1-zwgv/19trump-summits-nukes-europe-1-zwgv-mediumSquareAt3X.jpg"
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nukes-europe-1-zwgv/19trump-summits-nukes-europe-1-zwgv-mediumSquareAt3X.jpg",
+    "summary_pt": "Após a cimeira, os líderes da Rússia, dos Estados Unidos e da China concordaram que “uma guerra nuclear não pode ser vencida e nunca deve ser travada”. Alguns analistas estão céticos de que isso resultará em mudanças reais.",
+    "title_pt": "Putin, Trump e Xi condenam a guerra nuclear enquanto a Europa observa de perto"
   },
   {
-    "title": "Ben Shelton - Rafa Jódar en directo | El americano se lleva el primer set (7-6)",
-    "summary": "El tenista madrileño necesita vencer para conservar sus escasas opciones de pasar a las semifinales del certamen",
+    "title": "Moretti descarta mudanças no salário mínimo em eventual novo pacote fiscal",
+    "summary": "Após avanço de medidas de ajuste fiscal no Senado, equipe econômica do presidente Luiz Inácio Lula da Silva já estuda novas medidas",
     "category": "Geral",
     "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/deportes/tenis/2026-11-19/ben-shelton-rafa-jodar-en-directo-el-partido-de-las-atp-finals-en-vivo.html",
-    "date": "2026-11-19T14:23:05Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/V2UYCNC7ZNMMZK57OHG3WNW6O4.jpg?auth=fb8b85a60baa5a70d072875ae53f7f9890802a939010d524ddd3f6e23e50fba9"
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/moretti-descarta-mudancas-no-salario-minimo-em-eventual-novo-pacote-fiscal/",
+    "date": "2026-11-19T14:22:04Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-19T110339Z_1_LYNXNPEMAI13R_RTROPTP_4_APEC-SUMMIT.jpg?w=200",
+    "title_pt": "Moretti descarta mudanças no salário mínimo em eventual novo pacote fiscal",
+    "summary_pt": "Após avanço de medidas de ajuste fiscal no Senado, equipe econômica do presidente Luiz Inácio Lula da Silva já estuda novas medidas"
+  },
+  {
+    "title": "China, Rússia e EUA planejam ampliar oferta de petróleo orgânico",
+    "summary": "Acordo divulgado pela mídia chinesa prevê fornecimento global e destaca a importância da estabilidade nos fluxos energéticos mundiais",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/china-russia-e-eua-planejam-ampliar-oferta-de-petroleo-organico/",
+    "date": "2026-11-19T14:21:04Z",
+    "lang": "pt",
+    "image": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/cnn-brasil-placeholder.jpeg?w=200",
+    "title_pt": "China, Rússia e EUA planejam ampliar oferta de petróleo orgânico",
+    "summary_pt": "Acordo divulgado pela mídia chinesa prevê fornecimento global e destaca a importância da estabilidade nos fluxos energéticos mundiais"
   },
   {
     "title": "Trump says Iran may be working on biological weapons",
@@ -50,7 +154,7 @@
     "summary_pt": "O presidente Trump disse à Fox News que há indícios de que o Irã possa estar trabalhando em armas biológicas ou químicas, à medida que a guerra se arrasta para seu nono mês."
   },
   {
-    "title": "Tribunal da ONU conclui que Mianmar cometeu genocídio",
+    "title": "Tribunal da ONU conclui que Mianmar cometeu genocídio contra rohingyas",
     "summary": "O tribunal superior das Nações Unidas determinou, nesta quinta-feira (19), que milhares de assassinatos e atos generalizados de violência sexual cometidos pelas forças de segurança de Mianmar contra a minoria muçulmana rohingya em 2017 constituíram genocídio patrocinado pelo Estado. A decisão, sete anos após a ação ter sido movida pela Gâmbia — país de maior",
     "category": "Geral",
     "region": "Global",
@@ -60,7 +164,7 @@
     "date": "2026-11-19T14:20:00Z",
     "lang": "pt",
     "image": "https://agenciabrasil.ebc.com.br/ebc.png?id=1709378&o=rss",
-    "title_pt": "Tribunal da ONU conclui que Mianmar cometeu genocídio",
+    "title_pt": "Tribunal da ONU conclui que Mianmar cometeu genocídio contra rohingyas",
     "summary_pt": "O tribunal superior das Nações Unidas determinou, nesta quinta-feira (19), que milhares de assassinatos e atos generalizados de violência sexual cometidos pelas forças de segurança de Mianmar contra a minoria muçulmana rohingya em 2017 constituíram genocídio patrocinado pelo Estado. A decisão, sete anos após a ação ter sido movida pela Gâmbia — país de maior"
   },
   {
@@ -73,7 +177,9 @@
     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
     "date": "2026-11-19T14:19:37Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/1c435763e1f54d8b07eec454718b99204e42d6e1/485_0_6520_5216/master/6520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a348d1a546b095f69c5cd6d1ea59e323"
+    "image": "https://i.guim.co.uk/img/media/1c435763e1f54d8b07eec454718b99204e42d6e1/485_0_6520_5216/master/6520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a348d1a546b095f69c5cd6d1ea59e323",
+    "title_pt": "Jenrick zombou depois de criticar as políticas de Thatcher, apesar de dar o nome dela à filha – Política do Reino Unido ao vivo",
+    "summary_pt": "O parlamentar reformista do Reino Unido diz que as políticas deixaram uma “cicatriz profunda” nas comunidades. Estas são do meu colega Peter Walker, que esteve no evento conservador onde James Cleverly foi nomeado candidato do partido a prefeito de Londres. Peter postou isso antes do resultado ser anunciado. Khan (que pode ou não resistir pela quarta vez) até agora enfrentou um diletante que decidiu fazer campanha em um r"
   },
   {
     "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
@@ -90,6 +196,20 @@
     "summary_pt": "O encontro ocorre após Trump ter se reunido com Putin na China e tê-lo declarado \"amigo\". Para o que vale, a \"declaração de paz\" entre China, EUA e Rússia emitida após o encontro e publicada pela mídia estatal chinesa não faz absolutamente nenhuma menção à Ucrânia ou à Europa. Há apenas uma frase, bastante genérica, que poderia ser vista como relacionada a essas questões: \"Os três"
   },
   {
+    "title": "Lula assina decreto que regulamenta jornada de trabalho 5×2",
+    "summary": "Primeira etapa de transição começa em 16 de dezembro; jornada passará de 44 para 42 horas semanais, já com os dois dias de descanso e sem corte salarial",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/lula-assina-decreto-que-regulamenta-jornada-de-trabalho-5x2/",
+    "date": "2026-11-19T14:16:56Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM0S0PR-BASEIMAGE.jpg?w=200",
+    "title_pt": "Lula assina decreto que regulamenta jornada de trabalho 5×2",
+    "summary_pt": "Primeira etapa de transição começa em 16 de dezembro; jornada passará de 44 para 42 horas semanais, já com os dois dias de descanso e sem corte salarial"
+  },
+  {
     "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine prévient que « toute forme de coopération militaire » entre Kiev et l’Europe dans un éventuel accord de paix « pose évidemment un problème »",
     "summary": "Alors qu’une réunion de la coalition des volontaires rassemble, jeudi après-midi, à Berlin, les alliés de l’Ukraine, le président russe a également dit avoir invité « des Européens » à Moscou pour participer à des futurs pourparlers.",
     "category": "Conflitos",
@@ -99,7 +219,9 @@
     "url": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-vladimir-poutine-previent-que-toute-forme-de-cooperation-militaire-entre-kiev-et-l-europe-dans-un-eventuel-accord-de-paix-pose-evidemment-un-probleme_6810982_3210.html",
     "date": "2026-11-19T14:14:11Z",
     "lang": "fr",
-    "image": "https://img.lemde.fr/2026/11/19/821/0/4839/2419/1440/720/60/0/1d2bd02_ftp-1-mknq6hsnrz0b-2026-11-19t081734z-784978749-rc2vqoaqb5o3-rtrmadp-3-ukraine-crisis-germany.JPG"
+    "image": "https://img.lemde.fr/2026/11/19/821/0/4839/2419/1440/720/60/0/1d2bd02_ftp-1-mknq6hsnrz0b-2026-11-19t081734z-784978749-rc2vqoaqb5o3-rtrmadp-3-ukraine-crisis-germany.JPG",
+    "summary_pt": "Embora uma reunião da coligação de interessados ​​tenha reunido os aliados da Ucrânia na tarde de quinta-feira em Berlim, o presidente russo também disse que convidou \"europeus\" a Moscovo para participarem em futuras conversações.",
+    "title_pt": "AO VIVO, guerra na Ucrânia: Vladimir Putin alerta que “qualquer forma de cooperação militar” entre Kiev e a Europa num possível acordo de paz “obviamente representa um problema”"
   },
   {
     "title": "Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?",
@@ -111,7 +233,9 @@
     "url": "https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html",
     "date": "2026-11-19T14:13:07Z",
     "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11authoritarian-heirarchy-01-vctz/11authoritarian-heirarchy-01-vctz-mediumSquareAt3X.jpg"
+    "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11authoritarian-heirarchy-01-vctz/11authoritarian-heirarchy-01-vctz-mediumSquareAt3X.jpg",
+    "title_pt": "Os eleitores estão punindo os autocratas. Mas muitos ainda os abraçam. Por que?",
+    "summary_pt": "Um campo emergente da psicologia sugere que provavelmente não é o que você pensa – e que pode haver motivos para otimismo."
   },
   {
     "title": "Live Updates: U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
@@ -126,6 +250,20 @@
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-hkzc/19myanmar-icj-hkzc-mediumSquareAt3X-v2.jpg",
     "title_pt": "Atualizações ao vivo: tribunal da ONU decide que Mianmar cometeu genocídio contra os rohingyas",
     "summary_pt": "Mianmar se tornou o primeiro Estado responsabilizado por violar a Convenção sobre Genocídio de 1948. A decisão da Corte Internacional de Justiça pode ter amplas implicações."
+  },
+  {
+    "title": "Governo federal prevê R$ 6,1 bilhões em investimentos em hidrovias",
+    "summary": "Carteira de investimentos busca ampliar a infraestrutura hidroviária em todas as regiões do país; na Região Norte, estão previstas intervenções em cinco estados",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/infra/governo-federal-preve-r-61-bilhoes-em-investimentos-em-hidrovias/",
+    "date": "2026-11-19T14:09:59Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPEL6M0QP-BASEIMAGE.jpg?w=200",
+    "title_pt": "Governo federal prevê R$ 6,1 bilhões em investimentos em hidrovias",
+    "summary_pt": "Carteira de investimentos busca ampliar a infraestrutura hidroviária em todas as regiões do país; na Região Norte, estão previstas intervenções em cinco estados"
   },
   {
     "title": "Here’s the latest.",
@@ -165,7 +303,23 @@
     "url": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
     "date": "2026-11-19T14:09:33Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "summary_pt": "A Rússia prometeu restaurar rapidamente a estrutura, mas especialistas em engenharia dizem que o trabalho pode levar anos.",
+    "title_pt": "Putin promete retaliar após ataques à ponte na Crimeia"
+  },
+  {
+    "title": "Relator do ajuste fiscal busca bancadas para evitar mudanças na Câmara",
+    "summary": "Deputado Mauro Benevides Filho (União-CE) conversou com PT, União Brasil e PSD e pretende procurar PP, MDB e PL antes da votação de segunda-feira (23)",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/relator-do-ajuste-fiscal-busca-bancadas-para-evitar-mudancas-na-camara/",
+    "date": "2026-11-19T14:08:46Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/55227342991_42c62b48c5_o.jpg?w=200",
+    "title_pt": "Relator do ajuste fiscal busca bancadas para evitar mudanças na Câmara",
+    "summary_pt": "Deputado Mauro Benevides Filho (União-CE) conversou com PT, União Brasil e PSD e pretende procurar PP, MDB e PL antes da votação de segunda-feira (23)"
   },
   {
     "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
@@ -191,7 +345,9 @@
     "url": "https://www.france24.com/en/china-summit-ends-with-little-new-europe-backs-ukraine-in-berlin",
     "date": "2026-11-19T14:04:03Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/edf9490a-e41f-11f1-8a6b-e56ab3dc0809/w:1024/p:16x9/EN-20261119-140128-140711-CS.jpg"
+    "image": "https://s.france24.com/media/display/edf9490a-e41f-11f1-8a6b-e56ab3dc0809/w:1024/p:16x9/EN-20261119-140128-140711-CS.jpg",
+    "title_pt": "Cimeira da China termina com poucas novidades, Europa apoia Ucrânia em Berlim",
+    "summary_pt": "Os líderes da China, dos Estados Unidos e da Rússia reuniram-se em Shenzhen pela primeira vez na história, mas a cimeira trouxe poucas novidades: declarações não vinculativas sobre a paz e nenhum plano para se reunirem regularmente. Em Berlim, os europeus reuniram-se para mostrar o seu apoio à Ucrânia, uma resposta incisiva a uma cimeira onde a Europa não tinha assento, como explica Kethevane Gorjestani, da FRANCE 24."
   },
   {
     "title": "Trump, Xi and Putin sit down for rare 3-way meeting in China",
@@ -203,7 +359,37 @@
     "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
     "date": "2026-11-19T14:03:08Z",
     "lang": "en",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/19/9743ccfd-4adc-40ef-9329-3183d175efbc/thumbnail/1200x630g8/ac23d7ad9b03758fce3da5fbc547a98d/gettyimages-2305276533.jpg"
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/19/9743ccfd-4adc-40ef-9329-3183d175efbc/thumbnail/1200x630g8/ac23d7ad9b03758fce3da5fbc547a98d/gettyimages-2305276533.jpg",
+    "title_pt": "Trump, Xi e Putin sentam-se para rara reunião a três na China",
+    "summary_pt": "A Rússia diz que Putin, Trump e Xi da China concordaram durante uma rara reunião em aumentar a produção de gás e petróleo, e “reafirmaram que não pode haver vencedores numa guerra nuclear”."
+  },
+  {
+    "title": "Miss Universo: veja as candidatas mais cotadas ao título",
+    "summary": "A grande final da 75ª edição do concurso acontece no dia 24 de novembro, em Porto Rico, reunindo mais de 100 candidatas; Brasil busca coroa após jejum de 58 anos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/miss-universo-veja-as-candidatas-mais-cotadas-ao-titulo/",
+    "date": "2026-11-19T14:02:50Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/MISS.jpg?w=200",
+    "title_pt": "Miss Universo: veja as candidatas mais cotadas ao título",
+    "summary_pt": "A grande final da 75ª edição do concurso acontece no dia 24 de novembro, em Porto Rico, reunindo mais de 100 candidatas; Brasil busca coroa após jejum de 58 anos"
+  },
+  {
+    "title": "Quem será rebaixado? Simule as rodadas finais do Brasileirão 2026",
+    "summary": "Ferramenta auxilia o torcedor a projetar como ficará o Z4 ao fim da competição; Grêmio, Internacional e Corinthians são algumas equipes que lutam contra a degola nesta reta final",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/quem-sera-rebaixado-simule-as-rodadas-finais-do-brasileirao-2026/",
+    "date": "2026-11-19T14:02:26Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/palmeiras-cruzeiro.png?w=200",
+    "title_pt": "Quem será rebaixado? Simule as rodadas finais do Brasileirão 2026",
+    "summary_pt": "Ferramenta auxilia o torcedor a projetar como ficará o Z4 ao fim da competição; Grêmio, Internacional e Corinthians são algumas equipes que lutam contra a degola nesta reta final"
   },
   {
     "title": "Inside a Rohingya Camp After a Genocide Ruling",
@@ -215,7 +401,9 @@
     "url": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
     "date": "2026-11-19T14:01:42Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Dentro de um acampamento Rohingya após uma decisão de genocídio",
+    "summary_pt": "Na quinta-feira, o Tribunal Internacional de Justiça decidiu que as atrocidades cometidas contra a minoria étnica Rohingya constituíam um genocídio perpetrado pelo Estado de Myanmar. Antes da decisão, Hannah Beech, correspondente do New York Times, passou uma semana nos campos de refugiados em Cox’s Bazar, Bangladesh, onde vivem pelo menos 1,2 milhões de Rohingya."
   },
   {
     "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
@@ -241,7 +429,9 @@
     "url": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
     "date": "2026-11-19T14:00:52Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f713b67a86b8386b7f04c5e329faf82"
+    "image": "https://i.guim.co.uk/img/media/a97bdc0f91639c96d197dd5d8f13df1d8ae98f29/0_671_3022_2418/master/3022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f713b67a86b8386b7f04c5e329faf82",
+    "title_pt": "A indústria musical australiana rejeita a proposta de “dividir para conquistar” para dar aos músicos isenção da destruição de IA",
+    "summary_pt": "A proposta relatada para dar tratamento especial aos músicos é “inviável”, diz o CEO da Aria, prometendo apoiar outros criativos Receba nosso e-mail político diário, aplicativo gratuito ou podcast de notícias diárias A indústria da música não aceitará um acordo de exclusão de IA que deixe outros setores criativos para trás, rejeitando uma proposta relatada para dar tratamento especial aos músicos enquanto"
   },
   {
     "title": "‘A new day in the Senate’: 56-seat majority gives Democrats fuel to take on Trump",
@@ -253,7 +443,9 @@
     "url": "https://www.theguardian.com/us-news/2026/nov/19/democrats-senate-majority-midterms-trump",
     "date": "2026-11-19T14:00:52Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/66d34449fdb1226b80de3ca1d1edac1bb661a80b/348_0_3480_2784/master/3480.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=059bc25c5415584a70b49d4f0c6af5d9"
+    "image": "https://i.guim.co.uk/img/media/66d34449fdb1226b80de3ca1d1edac1bb661a80b/348_0_3480_2784/master/3480.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=059bc25c5415584a70b49d4f0c6af5d9",
+    "summary_pt": "Partido obtém a maior maioria desde Obama e uma impensável há dois anos – agora começa o árduo trabalho de investigação e legislação É oficial: quando os Democratas assumirem o controlo do Senado no próximo ano, terão 56 assentos, a maior maioria em quase duas décadas e uma que parecia impensável no início do regresso de Donald Trump ao poder, dois anos",
+    "title_pt": "‘Um novo dia no Senado’: maioria de 56 assentos dá aos democratas combustível para enfrentar Trump"
   },
   {
     "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
@@ -265,7 +457,9 @@
     "url": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
     "date": "2026-11-19T14:00:50Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/9c8e312834f5121b01c6908ad465910f3ea52394/81_0_800_640/master/800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b767f15002b2d4eb124587eb29f4f780"
+    "image": "https://i.guim.co.uk/img/media/9c8e312834f5121b01c6908ad465910f3ea52394/81_0_800_640/master/800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b767f15002b2d4eb124587eb29f4f780",
+    "title_pt": "Um elevador, uma parede de tijolos e um banheiro: cientistas usam a gravidade para enviar mensagem ‘praticamente desbloqueável’",
+    "summary_pt": "Físicos australianos optaram por transmitir a palavra “gravidade” em código binário através de uma parede de tijolos Receba nosso e-mail de notícias de última hora, aplicativo gratuito ou podcast de notícias diárias Cientistas australianos usaram a gravidade como meio de comunicação, em um experimento de prova de conceito envolvendo um elevador em ritmo de caracol da década de 1950, uma parede de tijolos e um banheiro masculino. Físicos da Universidade"
   },
   {
     "title": "« En attaquant l’Iran, Trump voulait se dégager du Moyen-Orient, il s’y installe »",
@@ -277,7 +471,9 @@
     "url": "https://www.lemonde.fr/idees/article/2026/11/19/en-attaquant-l-iran-trump-voulait-se-degager-du-moyen-orient-il-s-y-installe_6813312_3232.html",
     "date": "2026-11-19T14:00:10Z",
     "lang": "fr",
-    "image": "https://img.lemde.fr/2026/10/21/0/0/7566/5044/1440/960/60/0/be9e35d_ftp-1-pudrknyuzsdi-336257d9320648d29501d504df260d14-0-de210275bcd54e209b51a37562867e6e.jpg"
+    "image": "https://img.lemde.fr/2026/10/21/0/0/7566/5044/1440/960/60/0/be9e35d_ftp-1-pudrknyuzsdi-336257d9320648d29501d504df260d14-0-de210275bcd54e209b51a37562867e6e.jpg",
+    "title_pt": "“Ao atacar o Irão, Trump quis libertar-se do Médio Oriente, está a instalar-se lá”",
+    "summary_pt": "Não tendo os quarenta dias de ofensiva aérea levada a cabo contra a República Islâmica cumprido nenhum dos objectivos definidos pela Casa Branca, a América entrou noutra destas “pequenas guerras intermináveis” que os eleitores já não querem, nota Alain Frachon, colunista do “Le Monde”."
   },
   {
     "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
@@ -303,7 +499,9 @@
     "url": "https://www.dw.com/en/wadephul-coalition-of-the-willing-talks-in-berlin-send-strong-signal-to-moscow/a-79990664?maca=en-rss-en-all-1573-rdf",
     "date": "2026-11-19T13:56:00Z",
     "lang": "en",
-    "image": "https://static.dw.com/image/79985542_6.jpg"
+    "image": "https://static.dw.com/image/79985542_6.jpg",
+    "title_pt": "Wadephul: Negociações da 'Coalizão dos Dispostos' em Berlim enviam um forte sinal a Moscou",
+    "summary_pt": "O ministro das Relações Exteriores da Alemanha, Wadephul, disse que a reunião da Coalizão dos Dispostos em Berlim envia uma mensagem clara a Moscou para levar a sério as negociações de paz. Ele também alertou que a Ucrânia deveria estar preparada para o fracasso das negociações de paz."
   },
   {
     "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
@@ -315,7 +513,9 @@
     "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
     "date": "2026-11-19T13:54:10Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1795096333.jpg?resize=1920%2C1080&quality=80"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1795096333.jpg?resize=1920%2C1080&quality=80",
+    "summary_pt": "O trauma que os soldados israelitas trazem para casa – e as consequências do genocídio de Israel em Gaza.",
+    "title_pt": "‘Síndrome de Gaza’: Soldados de Israel assombrados pelo genocídio – Custo da guerra"
   },
   {
     "title": "Welsh NHS in strongest pre-winter position ever, says health minister",
@@ -327,7 +527,9 @@
     "url": "https://www.bbc.co.uk/news/articles/cq702e33el83o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-19T13:52:35Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e3/live/ca6c9fe0-e402-11f1-877f-2bb5452e5ffc.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e3/live/ca6c9fe0-e402-11f1-877f-2bb5452e5ffc.jpg",
+    "title_pt": "NHS galês na posição pré-inverno mais forte de todos os tempos, diz ministro da saúde",
+    "summary_pt": "Isso ocorre no momento em que o número de espera por tratamento planejado do NHS no País de Gales aumenta pelo sexto mês."
   },
   {
     "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
@@ -353,7 +555,8 @@
     "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj",
     "date": "2026-11-19T13:50:10Z",
     "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-rohingya-camps-bfcp/19myanmar-icj-rohingya-camps-bfcp-mediumSquareAt3X.jpg"
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-rohingya-camps-bfcp/19myanmar-icj-rohingya-camps-bfcp-mediumSquareAt3X.jpg",
+    "title_pt": "A vida nos campos Rohingya no Bangladesh está a tornar-se mais precária."
   },
   {
     "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
@@ -365,7 +568,9 @@
     "url": "https://www.aljazeera.com/features/2026/11/19/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal?traffic_source=rss",
     "date": "2026-11-19T13:49:49Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2014-08-27T000000Z_2093782590_GM1EA8R0WP001_RTRMADP_3_TIM-HORTONS-BURGER-KG-WLD-SHARES-1795085925.jpg?resize=1920%2C1440"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2014-08-27T000000Z_2093782590_GM1EA8R0WP001_RTRMADP_3_TIM-HORTONS-BURGER-KG-WLD-SHARES-1795085925.jpg?resize=1920%2C1440",
+    "summary_pt": "Os defensores levantaram preocupações sobre a privacidade do consumidor e o compartilhamento de dados, envolvendo uma empresa com ligações com as forças armadas de Israel.",
+    "title_pt": "O amado Tim Hortons do Canadá provoca ira por causa do acordo “excessivo” de dados israelenses"
   },
   {
     "title": "Polícia investiga fraude de R$ 5 milhões em produtos hospitalares em SP",
@@ -391,7 +596,9 @@
     "url": "https://www.dw.com/en/no-mention-of-fossil-fuels-in-latest-cop31-draft-deal/a-79992394?maca=en-rss-en-all-1573-rdf",
     "date": "2026-11-19T13:49:00Z",
     "lang": "en",
-    "image": "https://static.dw.com/image/79992106_6.jpg"
+    "image": "https://static.dw.com/image/79992106_6.jpg",
+    "summary_pt": "Um dos debates mais tensos nas negociações climáticas da ONU na Turquia girou em torno do futuro do carvão, do petróleo e do gás. Agora, todas as menções aos combustíveis fósseis foram removidas do novo projecto de acordo da cimeira.",
+    "title_pt": "Nenhuma menção aos combustíveis fósseis no último rascunho do acordo COP31"
   },
   {
     "title": "EUA sugeriram que Guiana cedesse Essequibo à Venezuela, diz Reuters",
@@ -417,7 +624,9 @@
     "url": "https://www.aljazeera.com/sports/2026/11/19/fifa-under-17-world-cup-2026-gets-under-way-in-qatar-despite-usa-withdrawal?traffic_source=rss",
     "date": "2026-11-19T13:47:50Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Aspire-Zone-4-1795090308.jpeg?resize=1920%2C1440"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Aspire-Zone-4-1795090308.jpeg?resize=1920%2C1440",
+    "title_pt": "Copa do Mundo Sub-17 da FIFA 2026 começa no Catar, apesar da desistência dos EUA",
+    "summary_pt": "O torneio de 25 dias contará com 48 seleções, com a República Dominicana substituindo os EUA, enquanto a FIFA minimiza as preocupações com segurança."
   },
   {
     "title": "Rick Riordan, autor de “Percy Jackson”, vem ao Brasil pela 1ª vez em 2027",
@@ -443,7 +652,9 @@
     "url": "https://www.lemonde.fr/planete/article/2026/11/19/pfas-l-agence-europeenne-des-produits-chimiques-favorable-a-des-restrictions-des-polluants-eternels-dans-l-union-europeenne_6813311_3244.html",
     "date": "2026-11-19T13:44:48Z",
     "lang": "fr",
-    "image": "https://img.lemde.fr/2026/11/18/0/0/8256/5504/1440/960/60/0/1f1cc62_upload-1-cxv4vyexc64g-000-a22k2t4.jpg"
+    "image": "https://img.lemde.fr/2026/11/18/0/0/8256/5504/1440/960/60/0/1f1cc62_upload-1-cxv4vyexc64g-000-a22k2t4.jpg",
+    "title_pt": "PFAS: novo passo dado para a restrição universal de “poluentes eternos” à escala europeia",
+    "summary_pt": "PFAS, essas moléculas onipresentes em objetos do cotidiano (embalagens, cosméticos, utensílios de cozinha) acumulam-se no meio ambiente e no corpo humano, com efeitos deletérios à saúde."
   },
   {
     "title": "UN warns against misuse of security laws as UK weighs Palestine Action ban",
@@ -455,7 +666,9 @@
     "url": "https://www.theguardian.com/uk-news/2026/nov/19/un-warns-misuse-security-laws-uk-palestine-action-ban",
     "date": "2026-11-19T13:43:15Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/9f4d93b1adf994df308ddfcb361659b6251a1fe9/938_0_4671_3739/master/4671.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a834d590dc4c661ac620fd1c3be7dca"
+    "image": "https://i.guim.co.uk/img/media/9f4d93b1adf994df308ddfcb361659b6251a1fe9/938_0_4671_3739/master/4671.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a834d590dc4c661ac620fd1c3be7dca",
+    "title_pt": "ONU alerta contra uso indevido de leis de segurança enquanto Reino Unido avalia proibição da Ação Palestina",
+    "summary_pt": "Comitê de direitos humanos publica orientações sobre liberdade de associação, que critica leis vagas que visam o 'extremismo' O comitê de direitos humanos da ONU alertou contra o uso indevido da legislação antiterrorista e de segurança nacional enquanto o mais alto tribunal do Reino Unido considera a legalidade da proibição da Ação Palestina. Na sua primeira orientação abrangente sobre a liberdade"
   },
   {
     "title": "Conheça a Anthropic, gigante de IA com estreia histórica na bolsa dos EUA",
@@ -495,7 +708,9 @@
     "url": "https://www.cbsnews.com/video/trump-sits-down-with-xi-jinping-and-vladimir-putin-for-historic-meeting/",
     "date": "2026-11-19T13:39:00Z",
     "lang": "en",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/19/4e45285f-1f37-4542-ab0f-a7a6e43ccde0/thumbnail/1200x630/576db58f12a130432ec2ac5479804078/cbsn-fusion-trump-sits-down-with-xi-jinping-and-vladimir-putin-for-historic-meeting-thumbnail.jpg"
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/19/4e45285f-1f37-4542-ab0f-a7a6e43ccde0/thumbnail/1200x630/576db58f12a130432ec2ac5479804078/cbsn-fusion-trump-sits-down-with-xi-jinping-and-vladimir-putin-for-historic-meeting-thumbnail.jpg",
+    "title_pt": "Trump se reúne com Xi Jinping e Vladimir Putin para encontro histórico",
+    "summary_pt": "O presidente Trump reuniu-se com o presidente chinês, Xi Jinping, e com o presidente russo, Vladimir Putin, na quinta-feira, numa histórica cimeira presencial. Relatório de Tony Dokoupil e Nancy Cordes."
   },
   {
     "title": "Some leaders flew private to the APEC summit in Manila, but not Mexico’s president.",
@@ -507,7 +722,9 @@
     "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec",
     "date": "2026-11-19T13:37:50Z",
     "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-sheinbaum-flight-gkpq/19trump-summits-sheinbaum-flight-gkpq-mediumSquareAt3X.jpg"
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-sheinbaum-flight-gkpq/19trump-summits-sheinbaum-flight-gkpq-mediumSquareAt3X.jpg",
+    "title_pt": "Alguns líderes viajaram em privado para a cimeira da APEC em Manila, mas não o presidente do México.",
+    "summary_pt": "A presidente Claudia Sheinbaum voou comercial, uma viagem que envolveu um trecho de 15 horas. Foi um símbolo do compromisso do seu governo com a austeridade."
   },
   {
     "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
@@ -533,7 +750,9 @@
     "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-19T13:35:29Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a1f/live/36fc5700-e411-11f1-b37c-b3a71d7200af.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a1f/live/36fc5700-e411-11f1-b37c-b3a71d7200af.jpg",
+    "summary_pt": "Um pássaro surpreendeu os conservacionistas ao completar uma viagem de ida e volta de 6.800 milhas até a Sibéria.",
+    "title_pt": "Pássaro pernalta chamado Phil rastreado em migração épica para a Sibéria e vice-versa"
   },
   {
     "title": "Las dos oleadas de nerviosismo global por el lanzamiento de GTA VI: así se sufrieron las caídas más importantes de la PlayStation Network",
@@ -545,7 +764,9 @@
     "url": "https://elpais.com/tecnologia/2026-11-19/las-dos-oleadas-de-nerviosismo-global-por-el-lanzamiento-de-gta-vi-asi-se-sufrieron-las-caidas-mas-importantes-de-la-playstation-network.html",
     "date": "2026-11-19T13:33:18Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/PBTJHWPPZFD3FNF4OLKOCQGNZU.jpg?auth=f5ba6cd31478610ea4d04e48967af23bb11ea773f743e75746d0b510b00a177d"
+    "image": "https://imagenes.elpais.com/resizer/v2/PBTJHWPPZFD3FNF4OLKOCQGNZU.jpg?auth=f5ba6cd31478610ea4d04e48967af23bb11ea773f743e75746d0b510b00a177d",
+    "title_pt": "As duas ondas de nervosismo global com o lançamento de GTA VI: foi assim que foram sofridas as quedas mais importantes na PlayStation Network",
+    "summary_pt": "O maior número de problemas é relatado pouco antes do lançamento na Índia e o segundo pico coincide aproximadamente com o lançamento nos EUA, mas não coincide com a meia-noite, horário do lançamento."
   },
   {
     "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
@@ -557,7 +778,9 @@
     "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-19T13:31:23Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg",
+    "summary_pt": "O Secretário da Defesa dos EUA afirma que a Venezuela “passou da nossa ameaça regional mais agressiva a um parceiro de segurança complacente”.",
+    "title_pt": "Venezuela assina acordo militar com EUA menos de um ano após destituição de Maduro"
   },
   {
     "title": "Europa se preocupa com resultado de reunião trilateral entre Estados Unidos, China e Rússia",
@@ -597,7 +820,9 @@
     "url": "https://www.lemonde.fr/international/video/2026/11/19/les-images-de-la-rencontre-entre-xi-jinping-donald-trump-et-vladimir-poutine-au-sommet-de-l-apec_6813309_3210.html",
     "date": "2026-11-19T13:30:51Z",
     "lang": "fr",
-    "image": "https://img.lemde.fr/2026/11/19/0/0/7435/4956/1440/960/60/0/2eed97f_ftp-1-imgwtmsuaaqn-4fe235370bb1440991f60d1e51aece45-2-877e568423d040ef856774389887ed6a.jpg"
+    "image": "https://img.lemde.fr/2026/11/19/0/0/7435/4956/1440/960/60/0/2eed97f_ftp-1-imgwtmsuaaqn-4fe235370bb1440991f60d1e51aece45-2-877e568423d040ef856774389887ed6a.jpg",
+    "title_pt": "Imagens do encontro entre Xi Jinping, Donald Trump e Vladimir Putin na cúpula da Apec",
+    "summary_pt": "A reunião durou aproximadamente oitenta minutos. Os três líderes reuniram-se à margem de uma reunião da Cooperação Económica Ásia-Pacífico (APEC)."
   },
   {
     "title": "Where Roots Lie: Surviving Child Grooming and Exploitation",
@@ -609,7 +834,9 @@
     "url": "https://www.aljazeera.com/video/witness/2026/11/19/where-roots-lie-surviving-child-grooming-and-exploitation?traffic_source=rss",
     "date": "2026-11-19T13:30:00Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Witness-Thumbnail-1794988167.jpg?resize=1920%2C1080&quality=80"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Witness-Thumbnail-1794988167.jpg?resize=1920%2C1080&quality=80",
+    "title_pt": "Onde estão as raízes: sobrevivendo ao cuidado e à exploração infantil",
+    "summary_pt": "Sosa, um sobrevivente do tráfico e da exploração de gangues no Reino Unido, retorna à Nigéria em busca de sua mãe desaparecida."
   },
   {
     "title": "Un ciberataque con una herramienta de IA accede a los servidores internos de la Comisión Europea",
@@ -621,7 +848,9 @@
     "url": "https://elpais.com/internacional/2026-11-19/un-ciberataque-con-una-herramienta-de-ia-accede-a-los-servidores-internos-de-la-comision-europea.html",
     "date": "2026-11-19T13:26:59Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/5JTBGFKH2RLIZIGNYJYRCN7W6U.jpg?auth=3c008201e9af6f6d8e9b823d4b0e96cb9be96e268c252bb9df0378a87ebee825"
+    "image": "https://imagenes.elpais.com/resizer/v2/5JTBGFKH2RLIZIGNYJYRCN7W6U.jpg?auth=3c008201e9af6f6d8e9b823d4b0e96cb9be96e268c252bb9df0378a87ebee825",
+    "title_pt": "Um ataque cibernético com uma ferramenta de IA acessa os servidores internos da Comissão Europeia",
+    "summary_pt": "Bruxelas investiga se a incursão informática expôs dados pessoais sensíveis de funcionários comunitários"
   },
   {
     "title": "Trump unveils $17 billion of Southeast Asia deals for US firms, White House says",
@@ -633,7 +862,9 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMlRBdU1MbG9haFIzV3RrZEx0YkN0R0FvdEtnaWVrdWV1Q0FRUFRiVTdQalV4d3p2UDVrUWFHZUZsMV9QMGtTM2VnUHUtSzhtZXlRXzhFbEdocGExeXhKRXZZbU91NjNSNVlVNklWQS1pcGlzeDdSOWxJaWFPQ1hMT1c0a2pyU01jU0pfUzR0WXByakIyYU01eVNJaTFURWZaeVFTYnBLV3lrMmpGWi1peUVOUnlTeldYcGgzeVU1WjhwSXFmQThNMW43RV9VVXM?oc=5",
     "date": "2026-11-19T13:26:38Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "summary_pt": "Trump revela acordos de US$ 17 bilhões no Sudeste Asiático para empresas dos EUA, diz Casa Branca Reuters",
+    "title_pt": "Trump revela acordos de US$ 17 bilhões no Sudeste Asiático para empresas dos EUA, diz Casa Branca"
   },
   {
     "title": "Pakistan minister to visit India, but no breakthrough expected",
@@ -645,7 +876,9 @@
     "url": "https://www.dw.com/en/pakistan-minister-to-visit-india-but-no-breakthrough-expected/a-79991717?maca=en-rss-en-all-1573-rdf",
     "date": "2026-11-19T13:26:00Z",
     "lang": "en",
-    "image": "https://static.dw.com/image/72483175_6.jpg"
+    "image": "https://static.dw.com/image/72483175_6.jpg",
+    "summary_pt": "A visita de um ministro paquistanês à Índia para um fórum da Organização de Cooperação de Xangai marca um raro contacto de alto nível entre os dois arquirrivais, mas analistas dizem que isso não sinaliza uma retoma do envolvimento bilateral.",
+    "title_pt": "Ministro do Paquistão visitará a Índia, mas nenhum avanço é esperado"
   },
   {
     "title": "Lawyer calls for urgent review of Letby convictions after expert witness revelations",
@@ -657,7 +890,9 @@
     "url": "https://www.theguardian.com/uk-news/2026/nov/19/lawyers-urgent-review-lucy-letby-convictions-after-expert-witness-revelations",
     "date": "2026-11-19T13:24:54Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/8fec28db27c549906d4acae834ff9bedc38fb853/0_0_2399_1920/master/2399.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=161f79927ea463c65e8816605df35350"
+    "image": "https://i.guim.co.uk/img/media/8fec28db27c549906d4acae834ff9bedc38fb853/0_0_2399_1920/master/2399.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=161f79927ea463c65e8816605df35350",
+    "title_pt": "Advogado pede revisão urgente das condenações de Letby após revelações de testemunhas especializadas",
+    "summary_pt": "A não divulgação da exclusão de Peter Hindmarsh da prática levanta “questões fundamentais” sobre o caso da enfermeira. A advogada de Lucy Letby disse que o tribunal de recurso deve rever urgentemente as suas condenações, depois de ter sido revelado que uma testemunha médica importante no caso da acusação foi impedida de tratar pacientes por questões de segurança. O Guardian revelou isso"
   },
   {
     "title": "Aitana, ante las próximas elecciones del 29 de noviembre: “Sigamos avanzando y no retrocediendo”",
@@ -669,7 +904,9 @@
     "url": "https://elpais.com/gente/2026-11-19/aitana-ante-las-proximas-elecciones-del-29-de-noviembre-sigamos-avanzando-y-no-retrocediendo.html",
     "date": "2026-11-19T13:24:26Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZSYCDSOF2VKDHIZYO5O7MLCJOM.jpg?auth=06dd280a037752c62d8bc66f8e3fbdc2c86125d6cf71d9681b8ed6fad189eee4"
+    "image": "https://imagenes.elpais.com/resizer/v2/ZSYCDSOF2VKDHIZYO5O7MLCJOM.jpg?auth=06dd280a037752c62d8bc66f8e3fbdc2c86125d6cf71d9681b8ed6fad189eee4",
+    "summary_pt": "A cantora refletiu sobre os problemas de sua geração e a importância de falar da mulher em seu discurso após receber o prêmio Mulher do Ano 2026 da revista ‘GQ’",
+    "title_pt": "Aitana, perante as próximas eleições de 29 de novembro: “Vamos seguir em frente e não retroceder”"
   },
   {
     "title": "Mosque set on fire in Israel, politicians blame Netanyahu’s ‘incitement’",
@@ -681,7 +918,9 @@
     "url": "https://www.aljazeera.com/news/2026/11/19/mosque-set-on-fire-in-israel-politicians-blame-netanyahus-incitement?traffic_source=rss",
     "date": "2026-11-19T13:24:12Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afeeb0c-1795091212.jpg?resize=1920%2C1440"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afeeb0c-1795091212.jpg?resize=1920%2C1440",
+    "title_pt": "Mesquita incendiada em Israel, políticos culpam o ‘incitamento’ de Netanyahu",
+    "summary_pt": "Os deputados do Knesset chamam o incidente de “um crime de ódio”, enquanto o Hamas culpa as “gangues de colonos” israelitas."
   },
   {
     "title": "Putin repete narrativas falsas sobre a guerra da Rússia contra a Ucrânia",
@@ -707,7 +946,9 @@
     "url": "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt?traffic_source=rss",
     "date": "2026-11-19T13:22:17Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afee4a201-1795089570.jpg?resize=1920%2C1440"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afee4a201-1795089570.jpg?resize=1920%2C1440",
+    "title_pt": "Tribunal sul-coreano ordena novo julgamento do ex-primeiro-ministro Han por tentativa de lei marcial",
+    "summary_pt": "O Tribunal Superior de Seul irá agora julgar novamente o caso com base na interpretação jurídica da insurreição do Supremo Tribunal."
   },
   {
     "title": "In South Korea, women forced into prostitution on US military bases seek justice",
@@ -719,7 +960,9 @@
     "url": "https://www.france24.com/en/tv-shows/focus/20261119-in-south-korea-women-forced-into-prostitution-on-us-military-bases-seek-justice",
     "date": "2026-11-19T13:21:41Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/937659ce-e3fb-11f1-b17d-6d75ed565170/w:1024/p:16x9/capture-fae65078.jpg"
+    "image": "https://s.france24.com/media/display/937659ce-e3fb-11f1-b17d-6d75ed565170/w:1024/p:16x9/capture-fae65078.jpg",
+    "title_pt": "Na Coreia do Sul, mulheres forçadas à prostituição em bases militares dos EUA procuram justiça",
+    "summary_pt": "Dezenas de milhares de mulheres foram forçadas a trabalhar em bordéis sancionados pelo Estado sul-coreano, usados ​​por soldados americanos baseados no país após a Guerra da Coreia. Elas foram estupradas, abusadas fisicamente e confinadas à força. Agora, depois de décadas de silêncio, algumas destas mulheres estão a falar."
   },
   {
     "title": "Lack of early border controls made UK ‘extremely vulnerable’ to Covid, inquiry finds",
@@ -745,7 +988,9 @@
     "url": "https://www.france24.com/en/their-lives-their-rights-their-history-not-the-end-of-accountability-for-the-rohingya-people",
     "date": "2026-11-19T13:19:21Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/51e634f6-e415-11f1-a6b4-ebb478925cf0/w:1024/p:16x9/EN-20261119-081406-081457-CS.jpg"
+    "image": "https://s.france24.com/media/display/51e634f6-e415-11f1-a6b4-ebb478925cf0/w:1024/p:16x9/EN-20261119-081406-081457-CS.jpg",
+    "summary_pt": "Oliver Farry dá as boas-vindas a Sonya Sceats, Diretora e CEO do Instituto Britânico de Direito Internacional e Comparado. O caso apresentado pela Gâmbia contra Mianmar perante o TIJ e a decisão do tribunal têm grande significado para o povo Rohingya, para a interpretação da Convenção sobre Genocídio e para a possibilidade de futuros processos penais. O caso",
+    "title_pt": "‘As suas vidas, os seus direitos, a sua história’: não é o fim da responsabilização do povo Rohingya’"
   },
   {
     "title": "IPO da Anthropic supera estreia da SpaceX ao levantar US$ 81,3 bilhões",
@@ -785,7 +1030,9 @@
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzZlQXBMbFU3Qzl0M2E2b0tJZHVzejVGQXczQTUxaHJmV1ZMZ3dVTWFGRzhsT1ZvNmdMMVRQVlNyMnVmX1RoUWo4UmtCT2RSX3Y5Q0JjWm9paEtmbXhCLXM0bTR4aXg5eUQ2dWRSZGlaT09VWTF6Q3FuUHFMR0ZqSmc3UWdDRHc2OHpJNE9pX2FmZldBME1xc29YRENBQkE0ZGhORjlTWkpyMzBCSzF5R21lRmcwMFFRNWltZ1FQYmdROXEtVUxXekp5RQ?oc=5",
     "date": "2026-11-19T13:17:44Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Supremo tribunal da ONU conclui que Mianmar cometeu genocídio contra os muçulmanos Rohingya",
+    "summary_pt": "Supremo tribunal da ONU conclui que Mianmar cometeu genocídio contra muçulmanos Rohingya Reuters"
   },
   {
     "title": "‘Groundbreaking’ Trump-Xi-Putin summit: Five key takeaways",
@@ -797,7 +1044,9 @@
     "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways?traffic_source=rss",
     "date": "2026-11-19T13:13:53Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2305839919-1795078098.jpg?resize=1920%2C1440"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2305839919-1795078098.jpg?resize=1920%2C1440",
+    "title_pt": "Cimeira ‘inovadora’ Trump-Xi-Putin: cinco conclusões principais",
+    "summary_pt": "Os líderes saudaram a reunião sem precedentes como histórica, com discussões que abrangem os riscos nucleares e os fluxos de energia."
   },
   {
     "title": "Ele foi levado ao necrotério e coberto para o funeral, mas despertou horas depois pedindo apenas um cigarro e um isqueiro",
@@ -823,7 +1072,9 @@
     "url": "https://www.aljazeera.com/news/2026/11/19/two-years-in-dutch-churchs-nonstop-service-shields-family-seeking-asylum?traffic_source=rss",
     "date": "2026-11-19T13:11:38Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/4-DSC052001-1795091096.jpg?resize=1920%2C1440"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/4-DSC052001-1795091096.jpg?resize=1920%2C1440",
+    "title_pt": "Dois anos depois, o serviço ininterrupto da igreja holandesa protege famílias que procuram asilo",
+    "summary_pt": "Segundo a lei holandesa, a polícia não pode entrar numa igreja enquanto estiver a decorrer um serviço religioso."
   },
   {
     "title": "What to know about Xi, Putin and Trump's historic trilateral summit",
@@ -835,7 +1086,9 @@
     "url": "https://www.france24.com/en/asia-pacific/20261119-what-to-know-about-xi-putin-and-trump-s-historic-trilateral-summit",
     "date": "2026-11-19T13:11:27Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/1625fff6-e35b-11f1-9206-ff16da94d1fe/w:1024/p:16x9/2026-11-18T132731Z-1890202118-RC2BQOA4C91Q-RTRMADP-3-APEC-SUMMIT.jpg"
+    "image": "https://s.france24.com/media/display/1625fff6-e35b-11f1-9206-ff16da94d1fe/w:1024/p:16x9/2026-11-18T132731Z-1890202118-RC2BQOA4C91Q-RTRMADP-3-APEC-SUMMIT.jpg",
+    "title_pt": "O que saber sobre a histórica cimeira trilateral de Xi, Putin e Trump",
+    "summary_pt": "O presidente chinês, Xi Jinping, o presidente russo, Vladimir Putin, e o seu homólogo norte-americano, Donald Trump, reuniram-se para uma cimeira histórica em Shenzhen, China, na quinta-feira, onde concordaram numa “declaração de paz”. Os três líderes comprometeram-se a reformar a ONU, aumentar o fornecimento de produtos petrolíferos refinados e defender a imunidade de que gozam os funcionários nos tribunais internacionais."
   },
   {
     "title": "What is at stake at the EU-UK summit in Brussels?",
@@ -847,7 +1100,9 @@
     "url": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
     "date": "2026-11-19T13:11:23Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/21ddeb28259d25b93c94905de55f645b5eb1d446/620_27_3852_3082/master/3852.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c8f830fde33d7a26405edec5c9fedce"
+    "image": "https://i.guim.co.uk/img/media/21ddeb28259d25b93c94905de55f645b5eb1d446/620_27_3852_3082/master/3852.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c8f830fde33d7a26405edec5c9fedce",
+    "title_pt": "O que está em jogo na cimeira UE-Reino Unido em Bruxelas?",
+    "summary_pt": "Os líderes lutarão para aliviar a burocracia do Brexit, restaurar o comércio de emissões e abrir a mobilidade dos jovens Política do Reino Unido ao vivo – atualizações mais recentes A UE e o Reino Unido realizarão uma cimeira há muito aguardada em Bruxelas na sexta-feira – a segunda desde o Brexit – para definir a relação de longo prazo do Reino Unido com o bloco. Contará com a presença do primeiro-ministro, Andy Burnham, o"
   },
   {
     "title": "Fossil fuels scrubbed from COP31 draft deal despite growing momentum",
@@ -973,7 +1228,9 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/pakistans-footballers-show-india-sportsmanship-after-saff-final-defeat?traffic_source=rss",
     "date": "2026-11-19T12:59:28Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795093144.jpg?resize=1200%2C675"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795093144.jpg?resize=1200%2C675",
+    "title_pt": "Jogadores de futebol do Paquistão mostram espírito esportivo da Índia após derrota na final do SAFF",
+    "summary_pt": "A seleção paquistanesa de futebol formou uma guarda de honra para a Índia depois de perder a final do Campeonato SAFF por 2 a 1 em Bangladesh."
   },
   {
     "title": "Trump, Xi e Putin encerram reunião histórica na China",
@@ -1041,7 +1298,7 @@
     "url": "https://www.cnnbrasil.com.br/infra/anp-rejeita-pedido-de-transportadoras-de-gas-pela-revisao-tarifaria/",
     "date": "2026-11-19T12:52:35Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Copel.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Divulgacao-MPor.jpeg?w=200",
     "title_pt": "ANP rejeita pedido de transportadoras de gás pela revisão tarifária",
     "summary_pt": "A decisão conclui a segunda das três fases do plano de revisão de tarifas no transporte de gás natural por gasodutos"
   },
@@ -1125,7 +1382,9 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1pDUGRULVJNeGdkT21ERVNzMEl6RHJKTEtLRWFFQjFpYjdxWU5NMmM3Zl8zUzlHQUd3UzJlNE1UV2tlZnZFTEZrNnRKSWU1Y1lkSU1ISmF6U1JGNWNEeUJETVpHNDI5QTEwMWJTTmRraUgyaDR2RUJ1UlRadVJZMW9MUTZCeXdpZHRZRWl1X1VIZ0xBbllSWEUxMGxmdmllVFgxbmxuTmljOFFBTUkyUGR2NDRfTmM0Rm5xcXFxaHk?oc=5",
     "date": "2026-11-19T12:48:08Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "summary_pt": "TSMC aperta restrições aos chips de IA da China à medida que novas regras dos EUA fecham lacuna de fabricação, dizem fontes Reuters",
+    "title_pt": "TSMC aperta restrições aos chips de IA da China à medida que novas regras dos EUA fecham lacuna de fabricação, dizem fontes"
   },
   {
     "title": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
@@ -1235,7 +1494,9 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
     "date": "2026-11-19T12:40:59Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Os futuros da Nasdaq saltam com o otimismo renovado da IA ​​​​antes da estreia da Anthropic no mercado",
+    "summary_pt": "Os futuros da Nasdaq saltam com otimismo renovado em IA antes da estreia da Anthropic no mercado Reuters"
   },
   {
     "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
@@ -1289,7 +1550,9 @@
     "url": "https://news.sky.com/story/putin-vows-to-retaliate-as-ukraine-hits-prized-crimea-bridge-for-third-time-in-four-days-13613963",
     "date": "2026-11-19T12:38:00Z",
     "lang": "en",
-    "image": "https://e3.365dm.com/26/11/1920x1080/skynews-kerch-bridge-crimea_7408385.png?20261117082400"
+    "image": "https://e3.365dm.com/26/11/1920x1080/skynews-kerch-bridge-crimea_7408385.png?20261117082400",
+    "title_pt": "Putin promete retaliar quando a Ucrânia atingir a premiada ponte da Crimeia pela terceira vez em quatro dias",
+    "summary_pt": "A Ucrânia lançou um terceiro ataque aéreo em quatro dias à ponte Kerch – uma ligação vital entre a Rússia e a Crimeia – com Vladimir Putin a prometer retaliação."
   },
   {
     "title": "Do GTA V ao VI: como era e como está o mercado dos carros no Brasil",
@@ -1460,18 +1723,6 @@
     "summary_pt": "O jogo teve muito entusiasmo, mas seu criador foi acusado de demitir trabalhadores sindicalizados."
   },
   {
-    "title": "COMMENTARY: Morning Bid: ANTics",
-    "summary": "COMMENTARY: Morning Bid: ANTics Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1J4Y0gtYXhsdUJmcDVmN1k1eEMyOS1lZUJHYkFvbkNfV1FzNkJNLUgyMGpVSHlweUhQSDdVbXRxYUdnT2FQN0pKLXBmTmgyREdVMDVISi1uYnVTMEltS3RLT05uc3J3M1dCN1NQZk5LWWF2RTdlWWlLT194YWhWVHlSdm9oOFRkTDVtUnFpUVZZSnBiY1FN?oc=5",
-    "date": "2026-11-19T12:26:30Z",
-    "lang": "en",
-    "image": ""
-  },
-  {
     "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
     "summary": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
     "category": "Geral",
@@ -1537,7 +1788,9 @@
     "url": "https://www.france24.com/en/tv-shows/press-review/20261119-grand-theft-auto-vi-a-masterpiece-13-years-in-the-making",
     "date": "2026-11-19T12:22:53Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/47d4f970-e3e8-11f1-9b46-6d75ed565170/w:1024/p:16x9/Anglais-2026-11-19T06-26-17-269Z.jpg"
+    "image": "https://s.france24.com/media/display/47d4f970-e3e8-11f1-9b46-6d75ed565170/w:1024/p:16x9/Anglais-2026-11-19T06-26-17-269Z.jpg",
+    "summary_pt": "REVISÃO DE IMPRENSA – Quinta-feira, 19 de novembro: Uma cúpula trilateral histórica acontece em Shenzhen entre Xi Jinping, Donald Trump e Vladimir Putin. Mas é mais óptica do que substância? Além disso, uma decisão altamente aguardada do Tribunal Internacional de Justiça poderá redefinir o genocídio. Por fim, um grande momento cultural: “Grand Theft Auto VI” foi lançado e as críticas estão",
+    "title_pt": "'Grand Theft Auto VI', uma 'obra-prima' de 13 anos em produção"
   },
   {
     "title": "Home of Bangladesh’s former leader Muhammad Yunus set on fire",
@@ -1577,7 +1830,8 @@
     "url": "https://www.france24.com/en/nigeria-states-set-to-get-their-own-police-forces",
     "date": "2026-11-19T12:20:35Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/85e5a052-e410-11f1-8151-6b451f569414/w:1024/p:16x9/EN-20261118-214527-214725-CS.jpg"
+    "image": "https://s.france24.com/media/display/85e5a052-e410-11f1-8151-6b451f569414/w:1024/p:16x9/EN-20261118-214527-214725-CS.jpg",
+    "title_pt": "Nigéria: Estados devem ter as suas próprias forças policiais"
   },
   {
     "title": "ICJ rules Myanmar committed genocide against the Rohingya",
@@ -1608,7 +1862,7 @@
     "summary_pt": "Promotoria afirma que homem matou Anna Gabriela por asfixia e sufocou o menino para causar sofrimento à mãe; órgão também pediu a prisão preventiva do acusado"
   },
   {
-    "title": "Dólar sobe até R$ 5,91 atenção em torno de medidas fiscais; Ibovespa avança",
+    "title": "Dólar bate R$ 5,91 diante de medidas fiscais e IPO da Anthropic; Bolsa sobe",
     "summary": "Anthropic capta US$ 81 bilhões em maior IPO da história e movimenta mercado de tecnologia mundo afora; acionistas brasileiros também se preparam para pregão depois de decisão do Senado sobre pacote de ajustes",
     "category": "Geral",
     "region": "Global",
@@ -1618,7 +1872,7 @@
     "date": "2026-11-19T12:18:49Z",
     "lang": "pt",
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPELAK0LJ-BASEIMAGE.jpg?w=200",
-    "title_pt": "Dólar sobe até R$ 5,91 atenção em torno de medidas fiscais; Ibovespa avança",
+    "title_pt": "Dólar bate R$ 5,91 diante de medidas fiscais e IPO da Anthropic; Bolsa sobe",
     "summary_pt": "Anthropic capta US$ 81 bilhões em maior IPO da história e movimenta mercado de tecnologia mundo afora; acionistas brasileiros também se preparam para pregão depois de decisão do Senado sobre pacote de ajustes"
   },
   {
@@ -2188,34 +2442,6 @@
     "summary_pt": "Estrutura contava com milhares de chips de telefonia e cerca de 700 mini modems 4G e 5G em funcionamento simultâneo; um homem foi preso em flagrante"
   },
   {
-    "title": "Bolsas da Ásia fecham sem direção única com estreia da Anthropic em NY",
-    "summary": "Estreia é acompanhada de perto por investidores em busca de sinais sobre os rumos do setor de inteligência artificial e sobre a capacidade de as empresas transformarem a expansão do uso da tecnologia",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-asia-fecham-sem-direcao-unica-com-estreia-da-anthropic-em-ny/",
-    "date": "2026-11-19T11:32:41Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTechnologyNews/tagreuters.com2026binary_LYNXNPEMAC1XV-BASEIMAGE-e1794614040685.jpg?w=200",
-    "title_pt": "Bolsas da Ásia fecham sem direção única com estreia da Anthropic em NY",
-    "summary_pt": "Estreia é acompanhada de perto por investidores em busca de sinais sobre os rumos do setor de inteligência artificial e sobre a capacidade de as empresas transformarem a expansão do uso da tecnologia"
-  },
-  {
-    "title": "Aliados europeus se reúnem em Berlim para debater a guerra na Ucrânia",
-    "summary": "Enviados dos EUA apresentam resultados de conversas privadas entre Donald Trump e os líderes da Rússia e da China",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/internacional/aliados-europeus-se-reunem-em-berlim-para-debater-a-guerra-na-ucrania/",
-    "date": "2026-11-19T11:27:56Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/zelensky.jpg?w=200",
-    "title_pt": "Aliados europeus se reúnem em Berlim para debater a guerra na Ucrânia",
-    "summary_pt": "Enviados dos EUA apresentam resultados de conversas privadas entre Donald Trump e os líderes da Rússia e da China"
-  },
-  {
     "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
     "summary": "Former NSW opposition leader warns party against becoming ‘Labor lite’ or ‘One Nation lite’ in late-night speech Get our breaking news email , free app or daily news podcast Former New South Wales opposition leader, Mark Speakman, will not contest his seat at the March state election, the latest in a mass exodus of MPs under the Liberal leader who replaced h",
     "category": "Geral",
@@ -2312,20 +2538,6 @@
     "summary_pt": "O uso de lasers está aumentando na guerra — quais países estão usando-os e como?"
   },
   {
-    "title": "Fifa oficializa concorrentes de Infantino em eleição pela presidência",
-    "summary": "Presidentes das federações francesa e japonesa, Philippe Diallo e Kozo Tashima concorrerão contra o atual mandatário da entidade que comanda o futebol mundial",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/fifa-oficializa-concorrentes-de-infantino-em-eleicao-pela-presidencia/",
-    "date": "2026-11-19T11:17:41Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Tratada.jpg-e1795017386980.jpeg?w=200",
-    "title_pt": "Fifa oficializa concorrentes de Infantino em eleição pela presidência",
-    "summary_pt": "Presidentes das federações francesa e japonesa, Philippe Diallo e Kozo Tashima concorrerão contra o atual mandatário da entidade que comanda o futebol mundial"
-  },
-  {
     "title": "China, Rússia e EUA dizem, em declaração de paz conjunta, que 'guerra nuclear nunca deve ser travada'",
     "summary": "Reunião histórica: líderes de EUA, Rússia e China se encontram em Shenzhen China, Rússia e Estados Unidos manterão um diálogo sobre riscos nucleares e concordam que uma guerra nuclear nunca deve acontecer, anunciaram os três países em conjunto, por meio de uma \"declaração de paz\". ✅ Siga o canal de notícias internacionais do g1 no WhatsApp ANÁLISE: Trump che",
     "category": "Conflitos",
@@ -2352,20 +2564,6 @@
     "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/19/33e2ed57-a281-480a-9d5d-8431b8be1b11/thumbnail/1200x630/5e2351bbe8d28d57f245938b97599659/ap26316528383309.jpg",
     "title_pt": "Legisladores dinamarqueses aprovam acordo de segurança da Groenlândia com os EUA",
     "summary_pt": "O Parlamento da Dinamarca aprovou por unanimidade um acordo árduo com a Groenlândia e os Estados Unidos para fortalecer a segurança no Ártico e no Atlântico Norte."
-  },
-  {
-    "title": "O Grande Debate: Câmara vai endurecer ou esvaziar ajuste fiscal?",
-    "summary": "Após aprovação no Senado, projeto com impacto de até R$ 56 bilhões vai à Câmara; debate analisa os próximos passos do ajuste fiscal",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/politica/o-grande-debate-camara-vai-endurecer-ou-esvaziar-ajuste-fiscal/",
-    "date": "2026-11-19T11:14:53Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Plenario-Ulysses-Guimaraes.jpg?w=200",
-    "title_pt": "O Grande Debate: Câmara vai endurecer ou esvaziar ajuste fiscal?",
-    "summary_pt": "Após aprovação no Senado, projeto com impacto de até R$ 56 bilhões vai à Câmara; debate analisa os próximos passos do ajuste fiscal"
   },
   {
     "title": "'Dad was deteriorating': Two-hour ambulance target missed more than 2,000 times",
@@ -2436,20 +2634,6 @@
     "summary_pt": "Duas investigações galardoadas com os Prémios Jesús Serra da Fundação Ocidente demonstram que uma alimentação adequada ajuda quem sofreu um ataque cardíaco e, nas grávidas, reduz o nascimento de bebés com baixo peso."
   },
   {
-    "title": "Copel anuncia R$ 21,1 bilhões entre 2027 e 2030, com foco em distribuição",
-    "summary": "Segmento de distribuição de energia concentrará R$ 14 bilhões do plano apresentado em Nova York; projetos do leilão de capacidade receberão R$ 4 bilhões",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/infra/copel-anuncia-r-21-bilhoes-em-investimentos-de-2027-a-2030/",
-    "date": "2026-11-19T11:09:56Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Copel.jpg?w=1200&h=630&crop=1",
-    "title_pt": "Copel anuncia R$ 21,1 bilhões entre 2027 e 2030, com foco em distribuição",
-    "summary_pt": "Segmento de distribuição de energia concentrará R$ 14 bilhões do plano apresentado em Nova York; projetos do leilão de capacidade receberão R$ 4 bilhões"
-  },
-  {
     "title": "UN could soon be leaderless as race to succeed Guterres stalls",
     "summary": "UN could soon be leaderless as race to succeed Guterres stalls Reuters",
     "category": "Geral",
@@ -2478,20 +2662,6 @@
     "summary_pt": "Todos os 109 legisladores dinamarqueses presentes aprovaram o acordo, aliviando as tensões em torno do desejo de Trump de anexar a ilha do Ártico."
   },
   {
-    "title": "Galã de 1970, Tony Correia volta à TV em “Quem Ama Cuida”; relembre",
-    "summary": "A última novela do ator foi \"Nos Tempos do Imperador\", exibida entre 2021 e 2022; na trama de Walcyr Carrasco e Claudia Souto, o personagem promete destruir a reputação de Diná (Rosi Campos)",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/pop/tv/gala-de-1970-tony-correia-volta-a-tv-em-quem-ama-cuida-relembre/",
-    "date": "2026-11-19T11:07:59Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/lipe-e-mau-mau.jpg?w=200",
-    "title_pt": "Galã de 1970, Tony Correia volta à TV em “Quem Ama Cuida”; relembre",
-    "summary_pt": "A última novela do ator foi \"Nos Tempos do Imperador\", exibida entre 2021 e 2022; na trama de Walcyr Carrasco e Claudia Souto, o personagem promete destruir a reputação de Diná (Rosi Campos)"
-  },
-  {
     "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
     "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
     "category": "Conflitos",
@@ -2504,48 +2674,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
     "title_pt": "Militares israelenses completam operação terrestre em Gaza além da Linha Amarela",
     "summary_pt": "O Hamas condenou a incursão, que os militares israelenses disseram ter como objetivo desmantelar um \"túnel do terror\", como uma violação \"flagrante\" do cessar-fogo."
-  },
-  {
-    "title": "Por que o lançamento de “GTA VI” fez várias pessoas pedirem folga no trabalho?",
-    "summary": "Fãs demonstraram grande expectativa para conferir antecipadamente imagens da jogabilidade e, finalmente, experimentar o novo jogo no lançamento, marcado para quinta-feira (19)",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-o-lancamento-de-gta-vi-fez-varias-pessoas-pedirem-folga-no-trabalho/",
-    "date": "2026-11-19T11:06:47Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/anitta-no-gta.png?w=200",
-    "title_pt": "Por que o lançamento de “GTA VI” fez várias pessoas pedirem folga no trabalho?",
-    "summary_pt": "Fãs demonstraram grande expectativa para conferir antecipadamente imagens da jogabilidade e, finalmente, experimentar o novo jogo no lançamento, marcado para quinta-feira (19)"
-  },
-  {
-    "title": "IPO da Anthropic: BDRs serão negociados na B3; veja como investir",
-    "summary": "Gigante da inteligência artificial faz estreia na bolsa americana nesta quinta (19); Companhia arrecadou US$ 81,3 bilhões na maior estreia já registrada",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/ipo-da-anthropic-bdrs-serao-negociados-na-b3-veja-como-investir/",
-    "date": "2026-11-19T11:06:45Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTechnologyNews/tagreuters.com2026binary_LYNXMPEM8R1VA-BASEIMAGE-e1790642954368.jpg?w=200",
-    "title_pt": "IPO da Anthropic: BDRs serão negociados na B3; veja como investir",
-    "summary_pt": "Gigante da inteligência artificial faz estreia na bolsa americana nesta quinta (19); Companhia arrecadou US$ 81,3 bilhões na maior estreia já registrada"
-  },
-  {
-    "title": "Polícia faz operação contra “Gangue da Hilux” no Rio e em Minas Gerais",
-    "summary": "Ação cumpre 34 mandados de busca e apreensão; um dos principais investigados é apontado como liderança do grupo e acumula 350 anotações criminais",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-faz-operacao-contra-gangue-da-hilux-no-rio-e-em-minas-gerais/",
-    "date": "2026-11-19T11:05:02Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2024binary_LYNXMPEK7L0HZ-FILEDIMAGE.jpg?w=200",
-    "title_pt": "Polícia faz operação contra “Gangue da Hilux” no Rio e em Minas Gerais",
-    "summary_pt": "Ação cumpre 34 mandados de busca e apreensão; um dos principais investigados é apontado como liderança do grupo e acumula 350 anotações criminais"
   },
   {
     "title": "El Constitucional absuelve al tuitero que culpó al “Estado policial” de la muerte de un ‘mantero’ en Madrid",
@@ -2598,34 +2726,6 @@
     "date": "2026-11-19T11:02:02Z",
     "lang": "en",
     "image": "https://s.france24.com/media/display/4411e162-e402-11f1-9df0-c5c0357b2a0c/w:1024/p:16x9/Trump-in-Shenzhen-10.png"
-  },
-  {
-    "title": "Alfama investe 13,5 milhões de euros em fábrica de Portugal e mira expansão",
-    "summary": "Com incentivo de € 6 milhões da União Europeia, companhia prevê iniciar vendas em 2028 e aposta em produção local e distribuição especializada para avançar no continente; operação poderá representar 30% da receita total no futuro",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/agro/alfama-investe-135-milhoes-de-euros-em-fabrica-em-portugal-e-mira-expansao/",
-    "date": "2026-11-19T11:00:44Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM8F0Y6-BASEIMAGE.jpg?w=200",
-    "title_pt": "Alfama investe 13,5 milhões de euros em fábrica de Portugal e mira expansão",
-    "summary_pt": "Com incentivo de € 6 milhões da União Europeia, companhia prevê iniciar vendas em 2028 e aposta em produção local e distribuição especializada para avançar no continente; operação poderá representar 30% da receita total no futuro"
-  },
-  {
-    "title": "Direito Delas: entenda o decreto que visa proteger mulheres na internet",
-    "summary": "Decreto em vigor desde julho dá duas horas para plataformas tirarem do ar imagem íntima publicada sem autorização; regras também alcançam ameaças, perseguição e ataques coordenados",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/nacional/brasil/direito-delas-entenda-o-decreto-que-visa-proteger-mulheres-na-internet/",
-    "date": "2026-11-19T11:00:26Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/ChatGPT-Image-14-de-set.-de-2026-07_21_14.png?w=200",
-    "title_pt": "Direito Delas: entenda o decreto que visa proteger mulheres na internet",
-    "summary_pt": "Decreto em vigor desde julho dá duas horas para plataformas tirarem do ar imagem íntima publicada sem autorização; regras também alcançam ameaças, perseguição e ataques coordenados"
   },
   {
     "title": "Latest news bulletin | November 19th, 2026 – Midday",
@@ -4442,20 +4542,6 @@
     "summary_pt": "O órgão de vigilância da energia global prevê um enorme aumento à medida que os EUA e a China recorrem aos combustíveis fósseis para impulsionar as agendas de crescimento da IA. Os centros de dados mundiais criarão 70% mais emissões de carbono nos próximos quatro anos, à medida que os EUA e a China recorrem aos combustíveis fósseis para impulsionar as suas agendas de crescimento da IA, de acordo com o órgão de vigilância da energia mundial. A Agência Internacional de Energia (AIE) alertou que"
   },
   {
-    "title": "Un demi-milliard de dollars dépensé pour les midterms 2026 : Elon Musk avoue se sentir « un peu idiot » après la victoire écrasante des démocrates",
-    "summary": "Le multimilliardaire a notamment déboursé plus de 220 millions de dollars en faveur du sénateur sortant du Texas, Ken Paxton, finalement battu. Il a expliqué que son engagement avait pour objectif « d’avoir un certain équilibre des pouvoirs ».",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "Le Monde",
-    "url": "https://www.lemonde.fr/international/article/2026/11/19/un-demi-milliard-de-dollars-depense-pour-les-midterms-2026-elon-musk-avoue-se-sentir-un-peu-idiot-apres-la-victoire-ecrasante-des-democrates_6813228_3210.html",
-    "date": "2026-11-19T04:52:01Z",
-    "lang": "fr",
-    "image": "https://img.lemde.fr/2026/11/18/0/0/5909/3939/1440/960/60/0/408f463_ftp-1-idq2u697i06u-2305779157.jpg",
-    "title_pt": "Meio bilhão de dólares gastos nas eleições legislativas de 2026: Elon Musk admite que se sente \"um pouco idiota\" após a vitória esmagadora dos democratas",
-    "summary_pt": "O multimilionário desembolsou mais de US$ 220 milhões em favor do senador texano em fim de mandato, Ken Paxton, que acabou sendo derrotado. Ele explicou que seu compromisso visava \"ter um certo equilíbrio de poderes\"."
-  },
-  {
     "title": "Así acabó Blackstone con la molesta campaña de una inquilina: habló con un cargo de la Comunidad de Madrid y ella obtuvo un piso",
     "summary": "Elsa Riquelme esperó 10 años una vivienda pública hasta que el fondo estadounidense movió sus hilos para acabar con una campaña protagonizada por ella",
     "category": "Geral",
@@ -5116,7 +5202,7 @@
   {
     "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5607,7 +5693,7 @@
   {
     "title": "Why has Waymo pulled all its driverless cars from US freeways?",
     "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5621,7 +5707,7 @@
   {
     "title": "The seven Anthropic founders who are about to become multi-billionaires",
     "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5673,6 +5759,18 @@
     "image": "",
     "title_pt": "Conclusões do segundo dia da viagem de Trump à Ásia: o aperto de mão de Putin, o frango frito e a diplomacia de alto risco",
     "summary_pt": "Conclusões do segundo dia da viagem de Trump à Ásia: o aperto de mão de Putin, o frango frito e a diplomacia de alto risco Reuters"
+  },
+  {
+    "title": "EXCLUSIVE: Anthropic clinches biggest-ever IPO with $81 billion offering",
+    "summary": "EXCLUSIVE: Anthropic clinches biggest-ever IPO with $81 billion offering Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnFyUlh5WE5VSFRRSWxnVGRUXzlROFRSb0VOdmZwamRWYjJ2SWhvTGp4ZTB3eGNYYWZtdkR0WkJLMDIxX2RZa20wOG4yY2xjdVhuTFpWakVUVDJ3X0NJQURrVkNuR0xPZmxtMm56NDQ0OHl2TzdZVDVSc04yYUlmY2hPSHJ1U2JLamhzallLeEZDVWozbGVObjBEWWNvY205Rmh3Rk9lTWE?oc=5",
+    "date": "2026-11-18T23:19:26Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Ex-deputada de direita se inscreve para disputar a Presidência de El Salvador",
@@ -5863,7 +5961,7 @@
   {
     "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
     "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
