@@ -214,7 +214,7 @@
   {
     "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -565,20 +565,6 @@
     "summary_pt": "Fala foi feita horas antes de uma reunião trilateral histórica entre ele, o líder chinês, Xi Jinping, e o líder russo, Vladimir Putin"
   },
   {
-    "title": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
-    "summary": "Mr. Rajab spent his life fighting for greater political freedoms in his home country, undeterred by years in prison. He died in exile.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
-    "date": "2026-11-19T01:14:12Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/17int-bahrain-2-fqzp-print1/17int-bahrain-2-fqzp-mediumSquareAt3X.jpg",
-    "title_pt": "Nabeel Rajab, ativista bahreinita dos direitos humanos, morre aos 62 anos",
-    "summary_pt": "O Sr. Rajab passou a vida lutando por maiores liberdades políticas em seu país de origem, sem se deixar intimidar por anos de prisão. Ele morreu no exílio."
-  },
-  {
     "title": "Campinas confirma terceira morte por febre maculosa em 2026",
     "summary": "Vítima de 54 anos era funcionário terceirizado e pode ter sido infectada no campus da Unicamp; em 2025, na cidade, foram registradas seis mortes",
     "category": "Geral",
@@ -591,6 +577,20 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/13701_A2DDE58675547AB9.jpg?w=200",
     "title_pt": "Campinas confirma terceira morte por febre maculosa em 2026",
     "summary_pt": "Vítima de 54 anos era funcionário terceirizado e pode ter sido infectada no campus da Unicamp; em 2025, na cidade, foram registradas seis mortes"
+  },
+  {
+    "title": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
+    "summary": "Mr. Rajab spent his life fighting for greater political freedoms in his home country, undeterred by years in prison. He died in exile.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html",
+    "date": "2026-11-19T01:14:12Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/17int-bahrain-2-fqzp-print1/17int-bahrain-2-fqzp-mediumSquareAt3X.jpg",
+    "title_pt": "Nabeel Rajab, ativista bahreinita dos direitos humanos, morre aos 62 anos",
+    "summary_pt": "O Sr. Rajab passou a vida lutando por maiores liberdades políticas em seu país de origem, sem se deixar intimidar por anos de prisão. Ele morreu no exílio."
   },
   {
     "title": "Settler rams into Palestinians at multiple locations in central Israel",
@@ -1477,7 +1477,7 @@
   {
     "title": "The seven Anthropic founders who are about to become multi-billionaires",
     "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6452,7 +6452,7 @@
   {
     "title": "Security flaw found in Java, world's third-largest programming language",
     "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
