@@ -12,6 +12,20 @@
     "image": "https://s.france24.com/media/display/25b84e6c-e444-11f1-a13d-ebb478925cf0/w:1024/p:16x9/2026-11-19T175030Z-1149809636-RC24ROAX76LX-RTRMADP-3-UKRAINE-CRISIS-GERMANY-BRITAIN.jpg"
   },
   {
+    "title": "Debate electoral 29-N, en directo | Sánchez y Feijóo llegan para el cara a cara y apuran los últimos minutos para prepararse con sus equipos",
+    "summary": "Los dos candidatos están acompañados por sus asesores hasta el inicio del debate | El cara a cara empieza a las 22.00 y lo modera María Casado",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/debate-electoral-entre-pedro-sanchez-y-alberto-nunez-feijoo-en-directo.html",
+    "date": "2026-11-19T20:39:49Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/H2CEHRHP5VFBNN6JAUSKAM42LM.jpg?auth=08a69b1f2269c1bacf35790900c8ee7aa170a97b6376235953f967ae95d27279",
+    "title_pt": "Debate eleitoral de 29 de novembro, ao vivo | Sánchez e Feijóo chegam para o confronto direto e aproveitam os últimos minutos para se preparar com suas equipes",
+    "summary_pt": "Os dois candidatos estão acompanhados por seus assessores até o início do debate | O debate começa às 22h e é moderado por María Casado"
+  },
+  {
     "title": "U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company",
     "summary": "The first-ever lease sale took place over the objections of a federal judge. The company is leasing the seabed for mapping and preparation, not actual mining.",
     "category": "Geral",
@@ -24,20 +38,6 @@
     "image": "https://static01.nyt.com/images/2026/11/19/climate/19cli-seabed-mining/19cli-seabed-mining-mediumSquareAt3X.jpg",
     "title_pt": "EUA leiloam 31,5 milhões de acres do Oceano Pacífico para empresa de mineração de águas profundas",
     "summary_pt": "A primeira venda de concessão de todos os tempos ocorreu apesar das objeções de um juiz federal. A empresa está arrendando o fundo do mar para mapeamento e preparação, não para mineração propriamente dita."
-  },
-  {
-    "title": "Debate electoral 29-N, en directo | Sánchez y Feijóo llegan para el cara a cara y apuran los últimos minutos para prepararse con sus equipos",
-    "summary": "Los dos candidatos están acompañados por sus asesores hasta el inicio del debate | El cara a cara empieza a las 22.00 y lo modera María Casado",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/debate-electoral-entre-pedro-sanchez-y-alberto-nunez-feijoo-en-directo.html",
-    "date": "2026-11-19T20:37:58Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/H2CEHRHP5VFBNN6JAUSKAM42LM.jpg?auth=08a69b1f2269c1bacf35790900c8ee7aa170a97b6376235953f967ae95d27279",
-    "title_pt": "Debate eleitoral de 29 de novembro, ao vivo | Sánchez e Feijóo chegam para o confronto direto e aproveitam os últimos minutos para se preparar com suas equipes",
-    "summary_pt": "Os dois candidatos estão acompanhados por seus assessores até o início do debate | O debate começa às 22h e é moderado por María Casado"
   },
   {
     "title": "How vaccine fears fuelled a major measles comeback in the US",
@@ -4618,7 +4618,7 @@
   {
     "title": "Indian driver wins $1.3m in life-changing lottery prize",
     "summary": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6262,7 +6262,7 @@
   {
     "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6533,7 +6533,7 @@
   {
     "title": "Why has Waymo pulled all its driverless cars from US freeways?",
     "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6547,7 +6547,7 @@
   {
     "title": "The seven Anthropic founders who are about to become multi-billionaires",
     "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6761,7 +6761,7 @@
   {
     "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
     "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
