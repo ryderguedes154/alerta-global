@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-19T09:42:30.987Z",
+  "updated_at": "2026-11-19T11:27:27.055Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Corte Internacional de Justiça conclui que Mianmar cometeu atos de genocídio contra os rohingyas",
+      "summary": "A Corte Internacional de Justiça concluiu em 19 de novembro que a campanha militar de Mianmar contra a minoria rohingya em 2016–2017 incluiu atos de genocídio e intenção de destruir parte substancial do grupo. O julgamento encerra processo iniciado pela Gâmbia em 2019; a execução da decisão enfrenta obstáculos.",
+      "impact_br": "Sem impacto direto confirmado no Brasil. A decisão pode influenciar debates diplomáticos, sanções e outros processos internacionais sobre genocídio.",
+      "category": "Direitos humanos e justiça internacional",
+      "region": "Sudeste Asiático / Haia",
+      "country": "MM",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
+      "published_on": "2026-11-19",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-19T11:27:27.055Z"
+    },
     {
       "title": "Anthropic capta US$ 81,3 bilhões no maior IPO da história e alcança avaliação de US$ 1,5 trilhão",
       "summary": "A desenvolvedora do Claude precificou 980 milhões de ações a US$ 83 e captou US$ 81,3 bilhões em sua oferta pública inicial, recorde mundial. A operação avalia a empresa em cerca de US$ 1,5 trilhão; as ações têm estreia prevista na Nasdaq em 19 de novembro. Reuters e AP confirmam os valores.",
