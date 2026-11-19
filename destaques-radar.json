@@ -1,22 +1,9 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T01:22:51.481048Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T01:28:21.167110Z",
+  "status": "checado",
   "items": [
-    {
-      "title": "Ataques da Ucrânia reduzem em 45% o refino de petróleo russo em novembro",
-      "summary": "Segundo estimativas de duas fontes do setor, disparos com drones nos últimos 20 dias resultaram na perda de mais de 2,25 milhões de barris por dia",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/ataques-da-ucrania-reduzem-em-45-o-refino-de-petroleo-russo-em-novembro/",
-      "published_on": "18/11/2026 17:57 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/TRUMP-XI-PUTIN-e1795026939930.jpg?w=200",
-      "selection": "automatic"
-    },
     {
       "title": "Xi diz que a Ásia-Pacífico precisa de comércio aberto e Putin condena sanções enquanto Trump chega à China",
       "summary": "SHENZHEN, China (AP) - A Ásia-Pacífico deve buscar um comércio mais aberto e um crescimento equitativo se quiser permanecer estável e dinâmico, disse o presidente chinês, Xi Jinping, a executivos de negócios reunidos na quarta-feira no centro tecnológico e financeiro de Shenzhen, no sul da China, à margem do anual ...",
@@ -57,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Irã intensifica ataques a países do Golfo após ataques dos EUA",
+      "summary": "Os aliados dos Estados Unidos no Golfo Pérsico e os navios-tanque de petróleo estão sob ataque, enquanto o Irã parece estar reagindo aos ataques dos EUA a uma ilha estratégica no Estreito de Ormuz.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+      "published_on": "18/11/2026 20:46 (Boa Vista)",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Guerra no Irã ao vivo: coalizão liderada pela Arábia Saudita ataca o Iêmen; navios em chamas em Ormuz",
       "summary": "A coalizão liderada pela Arábia Saudita afirma ter destruído uma plataforma de mísseis em Saada, no Iêmen, enquanto o Irã alega que três navios atingiram minas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -83,29 +83,29 @@
       "selection": "automatic"
     },
     {
-      "title": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas",
-      "summary": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas Reuters/Divulgação/Reprodução O mundo, de novo, não acabou. Mas a previsão de um \"apagão mundial\" dominou as redes sociais na terça-feira (17), em meio a uma onda de ataques hackers que, desde outubro, atinge de geladeiras de supermercados a bancos. Só no Brasil",
+      "title": "O Nepal chegou à COP31 em extrema necessidade. É um teste para o mundo.",
+      "summary": "O colapso mortal de uma geleira deixou o país com US$ 5 bilhões em custos de recuperação. Até agora, poucos intensificaram a ajuda.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Segurança cibernética",
+      "category": "Clima e desastres",
       "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
-      "published_on": "18/11/2026 10:00 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/StOpkhTXMduUC0pSWqJFLpLDK1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/8/ighTEAQ56v09DkC5HywQ/fotojet-24-.jpg",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
+      "published_on": "18/11/2026 16:08 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18CLI-COP-NEPAL1-kwcm/18CLI-COP-NEPAL1-kwcm-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
-      "title": "Sem 'apagão mundial', dia 17 tem falha na segurança nacional dos EUA e ataque hacker contra quase 200 sites",
-      "summary": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas A teoria da conspiração para um \"apagão mundial\" nesta terça-feira (17) não se concretizou, mas a data foi marcada por novas falhas tecnológicas e um ataque hacker em série a quase 200 sites. Desde a quinta-feira (12), cinco falhas envolveram sistemas de aviação, bancário ou de",
+      "title": "Hakeem Jeffries está mais perto de se tornar o primeiro presidente negro da Câmara dos EUA",
+      "summary": "O democrata de Nova Iorque obteve 251 votos a favor e 11 contra, mas enfrenta pressão de legisladores progressistas que exigem compromissos em matéria de saúde, imigração e outras questões importantes.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Segurança cibernética",
+      "category": "Saúde",
       "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/18/sem-apagao-mundial-dia-17-falha-seguranca-nacional-eua-ataque-hacker.ghtml",
-      "published_on": "17/11/2026 23:00 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/uJzJ9v55GzlqE-lASNnzqrBP00U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/A/7tQNaOSx6rtSZA6xrEFQ/2026-11-13t225544z-1478587479-rc2anoaqfvwc-rtrmadp-3-usa-faa-ground-stop.jpg",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
+      "published_on": "18/11/2026 13:44 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/09/99/84/71/696x392_cmsv2_7492a2dd-9b7f-55a2-b272-49696c614452-9998471.jpg",
       "selection": "automatic"
     }
   ]
