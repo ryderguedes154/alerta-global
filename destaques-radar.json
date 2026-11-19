@@ -1,9 +1,22 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T11:09:21.951811Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T11:14:30.057956Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Xi, Trump e Putin, após o seu encontro histórico em Shenzhen: “Uma guerra nuclear não pode ser vencida e nunca deve ser travada”",
+      "summary": "Os líderes das três maiores potências comprometem-se a promover a reforma da ONU e a garantir a estabilidade dos fluxos energéticos. O Republicano, sobre o presidente russo: “Ele é meu amigo”",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "ES",
+      "source": "El País",
+      "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
+      "published_on": "19/11/2026 07:11 (Boa Vista)",
+      "image": "https://imagenes.elpais.com/resizer/v2/ASO4PJGZ3RC6DCMKCN6SJ7A5HY.jpg?auth=6bf0eec431f8b3acdfca678cd861c0f7f0c45fc235a5499fb778bfd0547d3f7c",
+      "selection": "automatic"
+    },
     {
       "title": "Como a guerra no Irã vai remodelar a ordem energética global",
       "summary": "A Agência Internacional de Energia, em sua análise mais abrangente das consequências da guerra, constatou que o choque do petróleo pode acelerar a adoção de fontes de energia alternativas.",
@@ -41,19 +54,6 @@
       "url": "https://www.euronews.com/video/2026/11/19/ukraine-four-killed-and-at-least-13-injured-in-russian-strike-on-odesa",
       "published_on": "19/11/2026 03:45 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/09/99/90/36/696x392_cmsv2_7a81b3d7-374f-5fa0-ae03-ff59a82d1502-9999036.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "EUA e China podem ajudar a acabar com a guerra na Ucrânia, diz Trump a Xi antes de reunião trilateral com Putin",
-      "summary": "Trump, Xi e Putin se encontram na China antes da reunião trilateral O presidente dos EUA, Donald Trump, disse a seu homólogo chinês, Xi Jinping, na quinta-feira (19), que ambos deveriam ajudar a pôr fim à guerra na Ucrânia, antes do encontro trilateral sem precedentes com o presidente russo, Vladimir Putin. Analistas afirmam que o encontro diplomático dos lí",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/19/eua-e-china-podem-ajudar-a-acabar-com-a-guerra-na-ucrania-diz-trump-a-xi.ghtml",
-      "published_on": "19/11/2026 03:35 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/l--14niqseD7wxzJCmNvwTfKFhQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/0/0UoDN2SAWEVZvJJ9IFvw/2026-11-19t064026z-940439656-rc2oqoadksim-rtrmadp-3-apec-summit.jpg",
       "selection": "automatic"
     },
     {
