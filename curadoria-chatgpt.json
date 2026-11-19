@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-19T12:26:09.445Z",
+  "updated_at": "2026-11-19T14:08:56.886Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Comissão Europeia confirma ciberataque com uso de inteligência artificial",
+      "summary": "A Comissão Europeia confirmou em 19 de novembro que foi alvo de campanha cibernética com ferramentas de IA, detectada em 22 de outubro. Aplicações foram desligadas preventivamente e a maioria já voltou a funcionar. A investigação prossegue; não há evidência de vazamento generalizado de dados de funcionários nem identificação confirmada dos responsáveis.",
+      "impact_br": "Sem impacto direto confirmado no Brasil. O caso reforça riscos de ataques com IA a instituições públicas e a necessidade de proteção de sistemas digitais.",
+      "category": "Cibersegurança e tecnologia",
+      "region": "Europa / União Europeia",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/eu-commission-targeted-cyberattack-politico-reports-2026-11-19/",
+      "published_on": "2026-11-19",
+      "published_at": "2026-11-19T04:03:00-04:00",
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-19T14:08:56.886Z"
+    },
     {
       "title": "EUA, China e Rússia divulgam declaração conjunta sobre ONU, energia e riscos nucleares",
       "summary": "Após reunião trilateral na China, Trump, Xi e Putin divulgaram compromissos de discutir reformas da ONU, ampliar a oferta de petróleo e manter diálogo para reduzir riscos nucleares. Não houve acordo anunciado sobre as guerras na Ucrânia ou no Oriente Médio.",
