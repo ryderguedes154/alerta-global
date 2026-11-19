@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-19T03:30:03.688Z",
+  "updated_at": "2026-11-19T09:42:30.987Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Anthropic capta US$ 81,3 bilhões no maior IPO da história e alcança avaliação de US$ 1,5 trilhão",
+      "summary": "A desenvolvedora do Claude precificou 980 milhões de ações a US$ 83 e captou US$ 81,3 bilhões em sua oferta pública inicial, recorde mundial. A operação avalia a empresa em cerca de US$ 1,5 trilhão; as ações têm estreia prevista na Nasdaq em 19 de novembro. Reuters e AP confirmam os valores.",
+      "impact_br": "Pode influenciar investimentos globais em inteligência artificial, empresas de tecnologia e o mercado financeiro brasileiro; não há efeito direto confirmado sobre preços ou empregos no Brasil.",
+      "category": "Tecnologia e economia",
+      "region": "América do Norte",
+      "country": "US",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/",
+      "published_on": "2026-11-18",
+      "published_at": "2026-11-18T17:26:00-04:00",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-19T09:42:30.987Z"
+    },
     {
       "title": "Conselho de Paz dos EUA aponta descumprimentos de Israel e Hamas no cessar-fogo em Gaza",
       "summary": "Relatório do Conselho de Paz criado por Donald Trump afirma que Israel e Hamas não cumpriram compromissos do plano de cessar-fogo em Gaza, colocando a trégua em risco. O Hamas rejeitou as conclusões; não há anúncio de rompimento formal do acordo.",
