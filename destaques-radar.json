@@ -1,8 +1,8 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T10:16:47.971189Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T10:21:55.928272Z",
+  "status": "checado",
   "items": [
     {
       "title": "Putin diz que EUA e China compartilham interesses na Guerra da Ucrânia",
@@ -83,19 +83,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Pelo menos 10% da população mundial sofre com o uso problemático da Internet: “A saúde pública deve ser priorizada em relação à indústria”",
-      "summary": "A revista 'The Lancet' insta os governos a agirem para combater as perturbações causadas pelos jogos de azar e videojogos online, pelo consumo viciante de pornografia ou pela hipocondria gerada pela Internet",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Saúde",
-      "region": "Global",
-      "country": "ES",
-      "source": "El País",
-      "url": "https://elpais.com/salud-y-bienestar/2026-11-19/al-menos-el-10-de-la-poblacion-mundial-sufre-un-uso-problematico-del-internet-hay-que-priorizar-la-salud-publica-frente-a-la-industria.html",
-      "published_on": "19/11/2026 00:30 (Boa Vista)",
-      "image": "https://imagenes.elpais.com/resizer/v2/YA3QDGJQ6ZETBDQWRXWUMXI674.jpg?auth=f10b71ab933c0666aa12bee818ef8eafec62e33c515ffc82f79c2ad1804d7d19",
-      "selection": "automatic"
-    },
-    {
       "title": "Aumento das cremações diretas desde a pandemia",
       "summary": "Um relatório de 2026 sobre o custo de falecer constatou que a cremação direta agora é escolhida em cerca de um em cada cinco funerais.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
       "published_on": "19/11/2026 02:23 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e942/live/68574f50-d14f-11f1-93e1-3b657b665bcf.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Trump diz que inteligência artificial exige cautela, mas rejeita regulação",
+      "summary": "Presidente afirma que tecnologia tem potencial extraordinário, mas reconhece riscos durante discurso na cúpula da APEC",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-inteligencia-artificial-exige-cautela-mas-rejeita-regulacao/",
+      "published_on": "18/11/2026 23:47 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Trump-IA.jpg?w=200",
       "selection": "automatic"
     }
   ]
