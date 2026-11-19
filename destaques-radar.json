@@ -1,8 +1,8 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T04:59:49.414790Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T05:05:12.074734Z",
+  "status": "checado",
   "items": [
     {
       "title": "Terremoto de magnitude 6.1 — Pacific-Antarctic Ridge",
@@ -18,16 +18,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Dentro do antigo gasoduto onde a Ucrânia trava uma guerra subterrânea com a Rússia",
-      "summary": "Assista: Jonathan Beale, da BBC, junta-se às forças ucranianas que travaram a batalha no subsolo e fora da vista dos drones russos.",
+      "title": "Como a guerra no Irã vai remodelar a ordem energética global",
+      "summary": "A Agência Internacional de Energia, em sua análise mais abrangente das consequências da guerra, constatou que o choque do petróleo pode acelerar a adoção de fontes de energia alternativas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
+      "category": "Economia",
       "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "published_on": "18/11/2026 13:00 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+      "published_on": "19/11/2026 01:00 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
@@ -41,6 +41,19 @@
       "url": "https://www.lemonde.fr/international/article/2026/11/19/guerre-en-ukraine-la-presence-de-soldats-francais-en-ukraine-fait-elle-de-paris-un-cobelligerant-contre-qui-la-russie-pourrait-riposter_6813225_3210.html",
       "published_on": "19/11/2026 00:30 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/11/17/0/11/5883/3922/1440/960/60/0/cdf4ab2_upload-1-kt1hdmtv6ocr-15112026-26e00871-modifier.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Resistência e barbárie, as duas faces da guerra em uma fazenda na Ucrânia",
+      "summary": "Após a evacuação de 3 mil porcos em meio a ataques de drones, os trabalhadores que permaneceram arriscam suas vidas em uma fazenda aberta em Kherson desde a época soviética.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "ES",
+      "source": "El País",
+      "url": "https://elpais.com/internacional/2026-11-19/resistencia-y-barbarie-las-dos-caras-de-la-guerra-en-una-granja-de-ucrania.html",
+      "published_on": "19/11/2026 00:30 (Boa Vista)",
+      "image": "https://imagenes.elpais.com/resizer/v2/CL6UFQ2YBNBJXH3OBLMXZHOLGM.jpg?auth=cd207472fdd00c09c4d105dbd3910a78e9c7172355d1b6fa6637a175ab6e93ac",
       "selection": "automatic"
     },
     {
@@ -70,16 +83,16 @@
       "selection": "automatic"
     },
     {
-      "title": "A conta de energia típica deverá aumentar £ 443 por ano a partir de janeiro, à medida que a taxa de inflação subir novamente",
-      "summary": "Espera-se que as contas de energia aumentem 26% ao ano para uma família típica, à medida que a inflação no Reino Unido atinge a taxa mais alta em um ano.",
+      "title": "Pelo menos 10% da população mundial sofre com o uso problemático da Internet: “A saúde pública deve ser priorizada em relação à indústria”",
+      "summary": "A revista 'The Lancet' insta os governos a agirem para combater as perturbações causadas pelos jogos de azar e videojogos online, pelo consumo viciante de pornografia ou pela hipocondria gerada pela Internet",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
+      "category": "Saúde",
       "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-      "published_on": "18/11/2026 09:17 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a59/live/128bd8c0-e35b-11f1-99b6-a35a62fa4264.jpg",
+      "country": "ES",
+      "source": "El País",
+      "url": "https://elpais.com/salud-y-bienestar/2026-11-19/al-menos-el-10-de-la-poblacion-mundial-sufre-un-uso-problematico-del-internet-hay-que-priorizar-la-salud-publica-frente-a-la-industria.html",
+      "published_on": "19/11/2026 00:30 (Boa Vista)",
+      "image": "https://imagenes.elpais.com/resizer/v2/YA3QDGJQ6ZETBDQWRXWUMXI674.jpg?auth=f10b71ab933c0666aa12bee818ef8eafec62e33c515ffc82f79c2ad1804d7d19",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-inteligencia-artificial-exige-cautela-mas-rejeita-regulacao/",
       "published_on": "18/11/2026 23:47 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Trump-IA.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas",
-      "summary": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas Reuters/Divulgação/Reprodução O mundo, de novo, não acabou. Mas a previsão de um \"apagão mundial\" dominou as redes sociais na terça-feira (17), em meio a uma onda de ataques hackers que, desde outubro, atinge de geladeiras de supermercados a bancos. Só no Brasil",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Segurança cibernética",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
-      "published_on": "18/11/2026 10:00 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/StOpkhTXMduUC0pSWqJFLpLDK1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/8/ighTEAQ56v09DkC5HywQ/fotojet-24-.jpg",
       "selection": "automatic"
     }
   ]
