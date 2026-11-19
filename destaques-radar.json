@@ -1,8 +1,8 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T19:13:28.122110Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T19:18:59.731860Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi, Trump e Putin, após a cúpula de Shenzhen: \"Uma guerra nuclear não pode ser vencida e nunca deve ser travada\"",
@@ -83,19 +83,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Terremoto de magnitude 6.0 — Pacific-Antarctic Ridge",
-      "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Pacific-Antarctic Ridge",
-      "country": "GLOBAL",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37",
-      "published_on": "18/11/2026 15:14 (Boa Vista)",
-      "image": "",
-      "selection": "automatic"
-    },
-    {
       "title": "A UE revela que sofreu um ciberataque \"impulsionado por IA\"",
       "summary": "A UE revelou que sofreu um ataque cibernético impulsionado por IA no mês passado e, como resultado, algumas de suas ferramentas digitais ainda estão offline.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
       "published_on": "19/11/2026 11:38 (Boa Vista)",
       "image": "https://e3.365dm.com/24/01/1920x1080/skynews-hacker-cyberattack_6439404.jpg?20240131153309",
+      "selection": "automatic"
+    },
+    {
+      "title": "Comissão Europeia confirma que foi alvo de um ciberataque usando ferramentas de IA",
+      "summary": "A Comissão Europeia foi alvo de uma \"cibercampanha gerada por IA\", disse um porta-voz. Esta é a primeira vez que o bloco relata publicamente um ciberataque baseado em IA.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Segurança cibernética",
+      "region": "Global",
+      "country": "DE",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-all-1573-rdf",
+      "published_on": "19/11/2026 10:58 (Boa Vista)",
+      "image": "https://static.dw.com/image/79958544_6.jpg",
       "selection": "automatic"
     }
   ]
