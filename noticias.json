@@ -1,5 +1,43 @@
 [
   {
+    "title": "Un hombre mata a puñaladas en Parla a una mujer con la que mantenía una relación",
+    "summary": "La policía investiga el episodio como un caso de violencia machista",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/sociedad/2026-11-19/muere-una-mujer-en-parla-apunalada-por-un-hombre-con-el-que-mantenia-una-relacion.html",
+    "date": "2026-11-19T06:10:03Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/V5ZINV5A6BIT5LQXQR4EGW32YY.jpg?auth=0e15eb7967f55f84b42f3292698b5c78f0b767aa29110e5d7f8cc3dd6fe9a712"
+  },
+  {
+    "title": "Trump praises Putin ahead of rare joint meeting with Xi in China",
+    "summary": "President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare face-to-face meeting in China.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
+    "date": "2026-11-19T06:09:57Z",
+    "lang": "en",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/19/dca4ce94-dadc-451c-80d0-d9e7d8a7fbda/thumbnail/1200x630/e0b4c7cdf2d41b5258732a8d5adac400/ap26323154078465-1.jpg",
+    "title_pt": "Trump elogia Putin antes de rara reunião conjunta com Xi na China",
+    "summary_pt": "Espera-se que o presidente Trump, o presidente chinês Xi Jinping e o presidente russo Vladimir Putin realizem uma rara reunião presencial na China."
+  },
+  {
+    "title": "Developer accused of 'environmental vandalism'",
+    "summary": "Bellway says the work has been done with an ecologist on site and in compliance with planning consent.",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-19T06:09:25Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5d/live/f7ab8f50-e35f-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
     "title": "Rare stonefly found beside vanishing glacier on Chile's Navarino Island",
     "summary": "An international team of scientists, including researchers from the University of Barcelona, has discovered a rare insect beside the remains of a glacier in Chilean Patagonia.",
     "category": "Clima e desastres",
@@ -76,18 +114,28 @@
     "image": "https://images.euronews.com/articles/stories/09/99/89/10/696x392_cmsv2_3b2dbe3e-7860-56c6-b0dd-c188726f7767-9998910.jpg"
   },
   {
-    "title": "Trump praises Putin ahead of rare joint meeting with Xi in China",
-    "summary": "President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare face-to-face meeting in China.",
+    "title": "Car use in London forecast to rise by 10% in next decade",
+    "summary": "Modelling in draft of 10-year London plan threatens Sadiq Khan’s promises on improving air quality Car use in London will rise by 10% over the next decade with cycling and walking falling as a proportion of trips, according to an official forecast by the city’s mayoralty, putting into doubt Sadiq Khan’s promises on air quality and the environment. Based on p",
     "category": "Geral",
     "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
-    "date": "2026-11-19T05:59:49Z",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/19/car-use-in-london-forecast-to-rise-by-10-in-next-decade",
+    "date": "2026-11-19T06:00:20Z",
     "lang": "en",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/19/dca4ce94-dadc-451c-80d0-d9e7d8a7fbda/thumbnail/1200x630/e0b4c7cdf2d41b5258732a8d5adac400/ap26323154078465-1.jpg",
-    "title_pt": "Trump elogia Putin antes de rara reunião conjunta com Xi na China",
-    "summary_pt": "Espera-se que o presidente Trump, o presidente chinês Xi Jinping e o presidente russo Vladimir Putin realizem uma rara reunião presencial na China."
+    "image": "https://i.guim.co.uk/img/media/2923a1d980f6a5b8579e7c5bb6a3aef3fb3542d7/1476_591_3344_2674/master/3344.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b83b53294abf15d9048070e539222b9a"
+  },
+  {
+    "title": "Tulip Siddiq says she is considering legal action against former Bangladesh leader",
+    "summary": "Former minister, who was sentenced to prison in Bangladesh in her absence, says she was victim of ‘malicious prosecution’ The former minister Tulip Siddiq has said she is considering taking legal action against the former interim leader of Bangladesh over corruption allegations made by his administration led her to resign from the UK government last year. Th",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/19/tulip-siddiq-says-she-is-considering-legal-action-against-former-bangladesh-leader",
+    "date": "2026-11-19T06:00:18Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/8855d537c98024a3980af1a52e6d724b5a59685c/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9fcf71529c3b46714c18f4b35a09c44"
   },
   {
     "title": "« Inside Deutsche Bank » : derrière la façade verte, les coulisses du « greenwashing » de la banque allemande",
@@ -154,6 +202,22 @@
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-Brazil-Indigenous-tvjz/18int-Brazil-Indigenous-tvjz-mediumSquareAt3X.jpg",
     "title_pt": "Awá isolados do Brasil saem da floresta tropical em busca de alimentos",
     "summary_pt": "Um grupo de 20 pessoas emergiu da floresta e pediu comida, disse um grupo de direitos dos povos indígenas, o que gerou temores de que a degradação ambiental os tenha deixado sem outra opção a não ser pedir ajuda."
+  },
+  {
+    "title": "Terremoto de magnitude 4.8 — 23 km SSE of Guayaquil, Ecuador",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "23 km SSE of Guayaquil, Ecuador",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uby4",
+    "date": "2026-11-19T05:49:26.623000Z",
+    "lat": -2.4019,
+    "lon": -79.8204,
+    "depth_km": 69.493,
+    "forcedSev": "low",
+    "title_pt": "Terremoto de magnitude 4.8 — 23 km SSE of Guayaquil, Ecuador",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
     "title": "Undoing Brexit",
@@ -826,6 +890,20 @@
     "summary_pt": "O relacionamento de Jensen Huang com uma possível espiã chinesa e com duas funcionárias serve como um alerta sobre os riscos das crises de meia-idade"
   },
   {
+    "title": "Resistencia y barbarie, las dos caras de la guerra en una granja de Ucrania",
+    "summary": "Tras la evacuación de 3.000 cerdos entre ataques de drones, los trabajadores que quedan se juegan la vida en una explotación abierta en Jersón desde tiempos soviéticos",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-19/resistencia-y-barbarie-las-dos-caras-de-la-guerra-en-una-granja-de-ucrania.html",
+    "date": "2026-11-19T04:30:01Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/CL6UFQ2YBNBJXH3OBLMXZHOLGM.jpg?auth=cd207472fdd00c09c4d105dbd3910a78e9c7172355d1b6fa6637a175ab6e93ac",
+    "title_pt": "Resistência e barbárie, as duas faces da guerra em uma fazenda na Ucrânia",
+    "summary_pt": "Após a evacuação de 3 mil porcos em meio a ataques de drones, os trabalhadores que permaneceram arriscam suas vidas em uma fazenda aberta em Kherson desde a época soviética."
+  },
+  {
     "title": "COP31: Nueve claves de la cumbre de clima de Antalya",
     "summary": "Turquía y Australia quieren cerrar la cita con un texto que incluya algún compromiso, como un objetivo de electrificación para 2035 que ayude a desplazar los combustibles fósiles",
     "category": "Clima e desastres",
@@ -852,20 +930,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/KC3XPKL7IRDD3P4QPRUHBEOQYQ.jpg?auth=f14976b8b8af09de4ec99945698a56a9142866db81393a271bc77ba84351b9ea",
     "title_pt": "O ímpeto colonizador israelense chega às portas de Jericó",
     "summary_pt": "Um morador do novo assentamento, composto por oito casas nos arredores da cidade da Cisjordânia, atira e mata uma palestina de 72 anos, sem que haja prisões."
-  },
-  {
-    "title": "Resistencia y barbarie, las dos caras de la guerra en una granja de Ucrania",
-    "summary": "Tras la evacuación de 3.000 cerdos entre ataques de drones, los trabajadores que quedan se juegan la vida en una explotación abierta en Jersón desde tiempos soviéticos",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-19/resistencia-y-barbarie-las-dos-caras-de-la-guerra-en-una-granja-de-ucrania.html",
-    "date": "2026-11-19T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/CL6UFQ2YBNBJXH3OBLMXZHOLGM.jpg?auth=cd207472fdd00c09c4d105dbd3910a78e9c7172355d1b6fa6637a175ab6e93ac",
-    "title_pt": "Resistência e barbárie, as duas faces da guerra em uma fazenda na Ucrânia",
-    "summary_pt": "Após a evacuação de 3 mil porcos em meio a ataques de drones, os trabalhadores que permaneceram arriscam suas vidas em uma fazenda aberta em Kherson desde a época soviética."
   },
   {
     "title": "Igualdad y el Poder Judicial chocan sobre los 350 metros de seguridad para las pulseras antimaltrato y la formación de los jueces",
@@ -1272,20 +1336,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/6DVGYZSUJNV7XZGQK5PZKGH2W4.jpg?auth=59484d5ea30c32d9afa9a63f2a8d4301406818507f19a6ec86f8f502e93b33b9",
     "title_pt": "Os irmãos Riu ganham 95,3 milhões através da holding com a qual controlam os seus hotéis",
     "summary_pt": "O veículo da família Saranja distribui 15,3 milhões em dividendos aos seus acionistas"
-  },
-  {
-    "title": "Indra pesca en una industria del automóvil en crisis: realiza 14 fichajes en tres años",
-    "summary": "La compañía acaba de traer de Seat a su nuevo jefe de producto, Beltrán Sanz. La mayoría de las incorporaciones vienen de Renault y Seat",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://cincodias.elpais.com/companias/2026-11-19/indra-aprovecha-la-crisis-del-automovil-para-fichar-en-el-sector-mas-de-una-decena-de-cargos-directivos-altos-y-medios.html",
-    "date": "2026-11-19T04:15:00Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/PO3JFVYPFRFH5BRE6GOKXTECYM.jpg?auth=415210c372ca5d9b5ee77af2f883e2b1203a867bb251f58920c0a55106e55141",
-    "title_pt": "Indra pesca em indústria automobilística em crise: faz 14 contratações em três anos",
-    "summary_pt": "A empresa acaba de trazer seu novo gerente de produto, Beltrán Sanz, da Seat. A maioria das adições vem da Renault e Seat"
   },
   {
     "title": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk",
@@ -1794,7 +1844,7 @@
   {
     "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2511,20 +2561,6 @@
     "summary_pt": "Fala foi feita horas antes de uma reunião trilateral histórica entre ele, o líder chinês, Xi Jinping, e o líder russo, Vladimir Putin"
   },
   {
-    "title": "Campinas confirma terceira morte por febre maculosa em 2026",
-    "summary": "Vítima de 54 anos era funcionário terceirizado e pode ter sido infectada no campus da Unicamp; em 2025, na cidade, foram registradas seis mortes",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/campinas-confirma-terceira-morte-por-febre-maculosa-em-2026/",
-    "date": "2026-11-19T01:14:12Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/13701_A2DDE58675547AB9.jpg?w=200",
-    "title_pt": "Campinas confirma terceira morte por febre maculosa em 2026",
-    "summary_pt": "Vítima de 54 anos era funcionário terceirizado e pode ter sido infectada no campus da Unicamp; em 2025, na cidade, foram registradas seis mortes"
-  },
-  {
     "title": "Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62",
     "summary": "Mr. Rajab spent his life fighting for greater political freedoms in his home country, undeterred by years in prison. He died in exile.",
     "category": "Geral",
@@ -2537,6 +2573,20 @@
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/17int-bahrain-2-fqzp-print1/17int-bahrain-2-fqzp-mediumSquareAt3X.jpg",
     "title_pt": "Nabeel Rajab, ativista bahreinita dos direitos humanos, morre aos 62 anos",
     "summary_pt": "O Sr. Rajab passou a vida lutando por maiores liberdades políticas em seu país de origem, sem se deixar intimidar por anos de prisão. Ele morreu no exílio."
+  },
+  {
+    "title": "Campinas confirma terceira morte por febre maculosa em 2026",
+    "summary": "Vítima de 54 anos era funcionário terceirizado e pode ter sido infectada no campus da Unicamp; em 2025, na cidade, foram registradas seis mortes",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/campinas-confirma-terceira-morte-por-febre-maculosa-em-2026/",
+    "date": "2026-11-19T01:14:12Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/13701_A2DDE58675547AB9.jpg?w=200",
+    "title_pt": "Campinas confirma terceira morte por febre maculosa em 2026",
+    "summary_pt": "Vítima de 54 anos era funcionário terceirizado e pode ter sido infectada no campus da Unicamp; em 2025, na cidade, foram registradas seis mortes"
   },
   {
     "title": "Settler rams into Palestinians at multiple locations in central Israel",
@@ -3199,7 +3249,7 @@
   {
     "title": "The seven Anthropic founders who are about to become multi-billionaires",
     "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "category": "Clima e desastres",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3787,20 +3837,6 @@
     "summary_pt": "O tão esperado IPO da Anthropic deve colocá-la entre as 10 empresas mais valiosas dos Estados Unidos, mas o futuro é incerto."
   },
   {
-    "title": "Member of anti-migrant group found guilty of Staffordshire murder",
-    "summary": "Raise the Colours activist Billy Allison, 36, killed man in ‘completely unprovoked and unjustified’ attack, say police A member of anti-migrant group Raise the Colours has been found guilty of murdering a man in a “completely unprovoked and unjustified” attack. Billy Allison, 36, delivered a “very, very hard” punch with the “stance and skill of an experience",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/18/member-anti-migrant-group-guilty-murder-raise-colours-billy-allison",
-    "date": "2026-11-18T21:27:54Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/dbcd869de1ff99860883223def87446984285467/0_350_812_649/master/812.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2fd40cee02f4d0db1816db2d9c61d70e",
-    "title_pt": "Membro de grupo anti-imigração considerado culpado de assassinato em Staffordshire",
-    "summary_pt": "O ativista do Raise the Colors Billy Allison, 36, matou um homem em um ataque “completamente não provocado e injustificado”, diz a polícia. Um membro do grupo anti-migrante Raise the Colors foi considerado culpado de assassinar um homem em um ataque “completamente não provocado e injustificado”. Billy Allison, 36 anos, deu um soco “muito, muito forte” com a “postura e habilidade de um experiente"
-  },
-  {
     "title": "UAE court orders freeze on crypto tokens stolen from Binance wallets",
     "summary": "UAE court orders freeze on crypto tokens stolen from Binance wallets Reuters",
     "category": "Geral",
@@ -4051,20 +4087,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/SH26JHNQGNFDTCUTKOKKMKANBY.jpg?auth=f66abec58e20ecf5e8b324af325dfe2fbe26b1f0cc2ff061e6e81d0712b5c18a",
     "title_pt": "Vídeo, análise ao vivo e verificação em tempo real: é assim que você poderá assistir ao confronto entre Sánchez e Feijóo no EL PAÍS",
     "summary_pt": "O jornal mobiliza uma equipe de analistas e especialistas em todas as áreas para acompanhar o único debate a dois da campanha do 29 de novembro."
-  },
-  {
-    "title": "Birmingham council granted interim ban on union jacks on lamp-posts",
-    "summary": "High court judge issues order against Raise the Colours over flags on council-owned street furniture The campaign group Raise the Colours has been temporarily banned from placing union jacks on lamp-posts and roundabouts in Birmingham after a legal challenge by the local council. The high court judge Emma Kelly granted an interim injunction banning the placi",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours",
-    "date": "2026-11-18T20:32:58Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/8894065417af832fc62326275bc5ede991d87eb1/0_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b5e25e0dfddcead0a2322f79d5a41f8",
-    "title_pt": "A prefeitura de Birmingham concedeu uma proibição temporária de pendurar bandeiras do Reino Unido em postes de iluminação",
-    "summary_pt": "Juíza do Tribunal Superior emite ordem contra o grupo Raise the Colours por causa de bandeiras em mobiliário urbano de propriedade da prefeitura O grupo de campanha Raise the Colours foi temporariamente proibido de colocar bandeiras do Reino Unido em postes de iluminação e rotatórias em Birmingham após uma ação judicial da prefeitura local. A juíza do Tribunal Superior, Emma Kelly, concedeu uma liminar proibindo a colocação"
   },
   {
     "title": "Reconstruction begins at Limoges City Hall after devastating fire",
@@ -6976,33 +6998,5 @@
     "image": "https://images.euronews.com/articles/stories/09/99/71/81/696x392_cmsv2_8b6bfba4-0195-5829-82ad-6fc7001e541b-9997181.jpg",
     "title_pt": "Enormes explosões e fumaça preta saem de fábrica no Iêmen",
     "summary_pt": "Em Hodeida, no Iémen, uma fábrica foi envolvida pelas chamas após um alegado ataque aéreo saudita. Houthis relatam pelo menos sete mortos e nove feridos."
-  },
-  {
-    "title": "EUA ainda não sabem causa de falha que cancelou 18 mil voos, diz secretário de Trump",
-    "summary": "Passageiros aguardam no Aeroporto Internacional Logan após a Administração Federal de Aviação dos EUA (FAA) emitir uma ordem nacional de suspensão de voos em solo \"devido a circunstâncias extraordinárias e razões de segurança\", na sequência de um relatório anterior da agência sobre graves problemas de comunicação no controle de tráfego aéreo, em East Boston,",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "G1 Mundo",
-    "url": "https://g1.globo.com/mundo/noticia/2026/11/18/eua-ainda-nao-sabem-causa-de-falha-que-cancelou-18-mil-voos-diz-secretario-de-trump.ghtml",
-    "date": "2026-11-18T06:55:25Z",
-    "lang": "pt",
-    "image": "https://s2-g1.glbimg.com/vBuZuo7bMKzbG0-1zYpf3YgaTVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/r8UqR9QRKHZ6cpPBv4fw/2026-11-13t225544z-1478587479-rc2anoaqfvwc-rtrmadp-3-usa-faa-ground-stop.jpg",
-    "title_pt": "EUA ainda não sabem causa de falha que cancelou 18 mil voos, diz secretário de Trump",
-    "summary_pt": "Passageiros aguardam no Aeroporto Internacional Logan após a Administração Federal de Aviação dos EUA (FAA) emitir uma ordem nacional de suspensão de voos em solo \"devido a circunstâncias extraordinárias e razões de segurança\", na sequência de um relatório anterior da agência sobre graves problemas de comunicação no controle de tráfego aéreo, em East Boston,"
-  },
-  {
-    "title": "Haiti formalises security pact with El Salvador as thousands march in support of Bukele",
-    "summary": "In the first 10 months of 2026, the UN recorded 4,595 deaths and 2,050 injuries to armed violence in Haiti.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "EU",
-    "source": "Euronews",
-    "url": "https://www.euronews.com/2026/11/18/haiti-formalises-security-pact-with-el-salvador-as-thousands-march-in-support-of-bukele",
-    "date": "2026-11-18T06:48:28Z",
-    "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/09/99/72/56/696x392_cmsv2_454879e9-8c2d-58a5-abf9-fd2f6a351ece-9997256.jpg",
-    "title_pt": "Haiti formaliza pacto de segurança com El Salvador enquanto milhares de pessoas marcham em apoio a Bukele",
-    "summary_pt": "Nos primeiros 10 meses de 2026, a ONU registou 4.595 mortes e 2.050 feridos devido à violência armada no Haiti."
   }
 ]
