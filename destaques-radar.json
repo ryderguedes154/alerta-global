@@ -1,8 +1,8 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T17:29:29.398623Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T17:35:07.376164Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi, Trump e Putin, após a cúpula de Shenzhen: \"Uma guerra nuclear não pode ser vencida e nunca deve ser travada\"",
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "AIE alerta que o conflito no Oriente Médio representa a maior ameaça à segurança energética global da história",
+      "summary": "A interrupção do fornecimento de petróleo pelo Estreito de Ormuz está aumentando os custos para as famílias, enquanto a agência afirma que, quanto mais tempo a crise durar, mais difícil será para os mercados globais de energia se recuperarem.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/19/middle-east-conflict-poses-biggest-threat-to-global-energy-security-in-history-iea-warns",
+      "published_on": "19/11/2026 13:18 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/10/00/01/62/696x392_cmsv2_50db40b4-9815-5c42-9e90-d63a0568a143-10000162.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Como a guerra no Irã vai remodelar a ordem energética global",
       "summary": "A Agência Internacional de Energia, em sua análise mais abrangente das consequências da guerra, constatou que o choque do petróleo pode acelerar a adoção de fontes de energia alternativas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -57,7 +70,7 @@
       "selection": "automatic"
     },
     {
-      "title": "Terremoto de magnitude 6.1 — Pacific-Antarctic Ridge",
+      "title": "Terremoto de magnitude 6.0 — Pacific-Antarctic Ridge",
       "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Clima e desastres",
@@ -67,19 +80,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz37",
       "published_on": "18/11/2026 15:14 (Boa Vista)",
       "image": "",
-      "selection": "automatic"
-    },
-    {
-      "title": "Grandes potências prometem aumentar o fornecimento de petróleo em meio à transição energética global",
-      "summary": "Os Estados Unidos, a China e a Rússia concordaram em aumentar a oferta de produtos petrolíferos refinados, já que os preços do petróleo estão subindo devido à guerra no Irã.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
-      "published_on": "19/11/2026 12:31 (Boa Vista)",
-      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
       "selection": "automatic"
     },
     {
