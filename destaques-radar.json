@@ -1,9 +1,22 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T11:40:37.729748Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T11:45:48.044998Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "China, Rússia e EUA dizem em 'declaração de paz' conjunta que 'guerra nuclear nunca deve ser travada'",
+      "summary": "Reunião histórica: líderes de EUA, Rússia e China se encontram em Shenzhen China, Rússia e Estados Unidos manterão um diálogo sobre riscos nucleares e concordam que uma guerra nuclear nunca deve acontecer, anunciaram os três países em conjunto, através de uma \"declaração de paz\". ✅ Siga o canal de notícias internacionais do g1 no WhatsApp ANÁLISE: Trump cheg",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/19/china-russia-e-eua-manterao-dialogo-sobre-riscos-nucleares.ghtml",
+      "published_on": "19/11/2026 07:17 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/A36-0BLPsXruu0REatMVCtv1BD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/P/VS7NyPS1AUoHKimxrHMw/2026-11-19t083332z-1813811123-rc2wqoau4zb0-rtrmadp-3-apec-summit.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Xi, Trump e Putin, após a cúpula de Shenzhen: \"Uma guerra nuclear não pode ser vencida e nunca deve ser travada\"",
       "summary": "Os líderes das três maiores potências se comprometem a promover uma reforma da ONU e a garantir a estabilidade dos fluxos de energia. O republicano, sobre o presidente russo: \"Ele é meu amigo\"",
@@ -26,7 +39,7 @@
       "country": "US",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-      "published_on": "19/11/2026 07:32 (Boa Vista)",
+      "published_on": "19/11/2026 07:37 (Boa Vista)",
       "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
       "selection": "automatic"
     },
@@ -54,19 +67,6 @@
       "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
       "published_on": "19/11/2026 06:27 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Putin diz que EUA e China compartilham interesses na Guerra da Ucrânia",
-      "summary": "Líder russo afirmou ter abordado a busca por soluções para a guerra na Ucrânia em encontros bilaterais",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/putin-diz-que-eua-e-china-compartilham-interesses-na-guerra-da-ucrania/",
-      "published_on": "19/11/2026 05:55 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/trump_xi_putin.jpg?w=200",
       "selection": "automatic"
     },
     {
