@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-19T19:40:31.438Z",
+  "updated_at": "2026-11-19T21:13:54.726Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "AIE alerta que crise no Estreito de Hormuz está redesenhando o mercado mundial de energia",
+      "summary": "Em seu World Energy Outlook 2026, divulgado em 19 de novembro, a Agência Internacional de Energia estima perdas acumuladas de 2,8 bilhões de barris de petróleo e 60 bilhões de metros cúbicos de gás no Golfo. Em um cenário de resposta acelerada à crise, a demanda mundial de petróleo em 2035 pode ficar 4,4 milhões de barris por dia abaixo do cenário de políticas anunciadas. São projeções condicionais, não resultados já observados.",
+      "impact_br": "A instabilidade energética pode afetar preços de combustíveis, fretes e fertilizantes no Brasil; o relatório não quantifica um efeito direto específico para o país.",
+      "category": "energia",
+      "region": "GLOBAL",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/energy-security-response-iran-war-could-cut-oil-demand-by-4-by-2035-iea-says-2026-11-19/",
+      "published_on": "2026-11-19",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-19T21:13:54.726Z"
+    },
     {
       "title": "COP31 retira menção aos combustíveis fósseis de nova minuta de acordo",
       "summary": "Negociadores da COP31, na Turquia, divulgaram em 19 de novembro nova minuta sem referência explícita aos combustíveis fósseis. O texto ainda não é um acordo final e enfrenta oposição de países vulneráveis, incluindo ameaça de bloqueio pelo Panamá.",
