@@ -63,9 +63,10 @@ USAR_IMAGEM_DA_MATERIA = _env("USAR_IMAGEM_DA_MATERIA", "sim").lower() in SIM
 USAR_CLAUDE = _env("USAR_CLAUDE", "sim").lower() in SIM
 COR_DE_FUNDO = _env("COR_DE_FUNDO", "#1a1a2e")  # usada quando não há imagem da matéria
 HASHTAGS_FIXAS = _env("HASHTAGS_FIXAS")  # ex: "#noticias #minhacidade"
-INSTAGRAM_USUARIO = _env("INSTAGRAM_USUARIO", "@radaryder154")  # aparece no rodapé da imagem
-ARQ_LOGO = PASTA / "logo.jpg"  # logo redonda no canto superior esquerdo (se existir)
-LARANJA = (255, 122, 26)
+# Texto do rodapé da imagem. Vazio = usa o NOME_DO_SITE em maiúsculas (ALERTA GLOBAL).
+INSTAGRAM_USUARIO = _env("INSTAGRAM_USUARIO")
+ARQ_LOGO = PASTA / "logo.png"  # logo horizontal do Alerta Global no canto superior esquerdo
+VERMELHO = (223, 35, 55)  # vermelho da marca Alerta Global (#df2337)
 
 # Caminho 1: Make.com (o Make publica no Instagram). Basta o endereço do webhook do cenário.
 MAKE_WEBHOOK_URL = _env("MAKE_WEBHOOK_URL")
@@ -257,16 +258,19 @@ def cortar_para_preencher(img, largura, altura):
     return img.crop((esq, topo, esq + largura, topo + altura))
 
 
-def colocar_logo(img, x, y, tamanho):
-    """Cola a logo recortada em círculo, com uma borda branca fina."""
+def colocar_logo(img, x, y, largura):
+    """Cola a logo horizontal sobre um cartão branco de cantos arredondados."""
     if not ARQ_LOGO.exists():
-        return
-    logo = Image.open(ARQ_LOGO).convert("RGBA").resize((tamanho, tamanho), Image.LANCZOS)
-    mascara = Image.new("L", (tamanho, tamanho), 0)
-    ImageDraw.Draw(mascara).ellipse([0, 0, tamanho - 1, tamanho - 1], fill=255)
-    borda = 6
-    ImageDraw.Draw(img).ellipse([x - borda, y - borda, x + tamanho + borda, y + tamanho + borda], fill="white")
-    img.paste(logo, (x, y), mascara)
+        return 0
+    logo = Image.open(ARQ_LOGO).convert("RGBA")
+    altura = round(logo.height * largura / logo.width)
+    logo = logo.resize((largura, altura), Image.LANCZOS)
+    folga = 10
+    ImageDraw.Draw(img).rounded_rectangle(
+        [x - folga, y - folga, x + largura + folga, y + altura + folga], radius=22, fill="white"
+    )
+    img.paste(logo, (x, y), logo)
+    return altura + 2 * folga
 
 
 def gerar_imagem(noticia, foto, destino):
@@ -304,15 +308,15 @@ def gerar_imagem(noticia, foto, destino):
     fonte_pequena = carregar_fonte(32)
     rodape = INSTAGRAM_USUARIO or (NOME_DO_SITE or "").upper()
     if rodape:
-        desenho.text((margem, ALTURA - margem - 30), rodape, font=fonte_pequena, fill=LARANJA)
+        desenho.text((margem, ALTURA - margem - 30), rodape, font=fonte_pequena, fill=VERMELHO)
     if noticia.get("fonte"):
         credito = f"Fonte: {noticia['fonte']}"
         largura_credito = desenho.textlength(credito, font=fonte_pequena)
         desenho.text((LARGURA - margem - largura_credito, ALTURA - margem - 30), credito,
                      font=fonte_pequena, fill=(220, 220, 220))
 
-    # Logo redonda no canto superior esquerdo, com borda branca
-    colocar_logo(img, margem - 20, margem - 20, 170)
+    # Logo do Alerta Global no canto superior esquerdo, num cartão branco
+    altura_logo = colocar_logo(img, margem - 20, margem - 20, 400)
 
     # Etiqueta da categoria no canto superior direito (ex: CONFLITOS)
     categoria = (noticia.get("categoria") or "").upper()
@@ -321,8 +325,9 @@ def gerar_imagem(noticia, foto, destino):
         w, h = caixa[2] - caixa[0], caixa[3] - caixa[1]
         x1 = LARGURA - margem
         x0 = x1 - w - 44
-        y0 = margem + 45
-        desenho.rounded_rectangle([x0, y0, x1, y0 + h + 30], radius=(h + 30) // 2, fill=LARANJA)
+        # centraliza a etiqueta na altura do cartão da logo
+        y0 = margem - 30 + max(0, (altura_logo - (h + 30)) // 2)
+        desenho.rounded_rectangle([x0, y0, x1, y0 + h + 30], radius=(h + 30) // 2, fill=VERMELHO)
         desenho.text((x0 + 22, y0 + 15 - caixa[1]), categoria, font=fonte_pequena, fill="white")
 
     destino.parent.mkdir(parents=True, exist_ok=True)
