@@ -1,8 +1,8 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T01:01:55.183764Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T01:07:30.824047Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataques da Ucrânia reduzem em 45% o refino de petróleo russo em novembro",
@@ -57,6 +57,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Guerra no Irã ao vivo: coalizão liderada pela Arábia Saudita ataca o Iêmen; navios em chamas em Ormuz",
+      "summary": "A coalizão liderada pela Arábia Saudita afirma ter destruído uma plataforma de mísseis em Saada, no Iêmen, enquanto o Irã alega que três navios atingiram minas.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+      "published_on": "18/11/2026 20:01 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe32a94666-1795044009.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
+    {
       "title": "EUA aumentam a pressão sobre o Hezbollah, apoiado pelo Irã, com novas sanções",
       "summary": "O Departamento do Tesouro dos EUA acusou o Hezbollah de usar organizações de caridade como \"fachadas\" para arrecadar fundos.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -67,19 +80,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
       "published_on": "18/11/2026 18:56 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afe29a7-1795041703.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "EUA afirmam que nenhum militar americano ficou ferido em ataques do Irã",
-      "summary": "Teerã afirmou ter atacado instalações de drones e mísseis dos EUA no Kuwait durante a madrugada, após Washington atingir a ilha de Qeshm, no Estreito de Ormuz",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/eua-afirmam-que-nenhum-militar-americano-ficou-ferido-em-ataques-do-ira/",
-      "published_on": "18/11/2026 18:30 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/estados-unidos-ataca-o-ira.png?w=200",
       "selection": "automatic"
     },
     {
