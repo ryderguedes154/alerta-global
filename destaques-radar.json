@@ -1,7 +1,7 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T11:30:14.038350Z",
+  "checked_at": "2026-11-19T11:35:25.133996Z",
   "status": "checado",
   "items": [
     {
@@ -26,21 +26,34 @@
       "country": "US",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-      "published_on": "19/11/2026 07:21 (Boa Vista)",
+      "published_on": "19/11/2026 07:32 (Boa Vista)",
       "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
       "selection": "automatic"
     },
     {
-      "title": "China, Rússia e Estados Unidos anunciam acordo sobre energia e paz",
-      "summary": "Países projetam elevar a produção de derivados de petróleo e reafirmam compromisso contra o uso de armas nucleares",
+      "title": "Aliados europeus se reúnem em Berlim para debater a guerra na Ucrânia",
+      "summary": "Enviados dos EUA apresentam resultados de conversas privadas entre Donald Trump e os líderes da Rússia e da China",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
+      "category": "Conflitos",
       "region": "Global",
       "country": "BR",
       "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/china-eua-e-russia-anunciam-declaracao-conjunta-diz-midia-chinesa/",
-      "published_on": "19/11/2026 06:53 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-19T110339Z_1_LYNXNPEMAI13R_RTROPTP_4_APEC-SUMMIT.jpg?w=1200&h=630&crop=1",
+      "url": "https://www.cnnbrasil.com.br/internacional/aliados-europeus-se-reunem-em-berlim-para-debater-a-guerra-na-ucrania/",
+      "published_on": "19/11/2026 07:27 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/zelensky.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
+      "title": "Como a guerra no Irã vai remodelar a ordem energética global",
+      "summary": "A Agência Internacional de Energia, em sua análise mais abrangente das consequências da guerra, constatou que o choque do petróleo pode acelerar a adoção de fontes de energia alternativas.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+      "published_on": "19/11/2026 06:27 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
@@ -54,19 +67,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/putin-diz-que-eua-e-china-compartilham-interesses-na-guerra-da-ucrania/",
       "published_on": "19/11/2026 05:55 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/trump_xi_putin.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Ucrânia: quatro mortos e pelo menos 13 feridos em ataque russo a Odessa",
-      "summary": "Os ataques russos ao centro histórico de Odessa, na Ucrânia, mataram quatro pessoas e feriram pelo menos outras 13 na quarta-feira, 18 de novembro de 2026, de acordo com a administração militar da cidade.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/video/2026/11/19/ukraine-four-killed-and-at-least-13-injured-in-russian-strike-on-odesa",
-      "published_on": "19/11/2026 03:45 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/09/99/90/36/696x392_cmsv2_7a81b3d7-374f-5fa0-ae03-ff59a82d1502-9999036.jpg",
       "selection": "automatic"
     },
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump diz que inteligência artificial exige cautela, mas rejeita regulação",
-      "summary": "Presidente afirma que tecnologia tem potencial extraordinário, mas reconhece riscos durante discurso na cúpula da APEC",
+      "title": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas",
+      "summary": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas Reuters/Divulgação/Reprodução O mundo, de novo, não acabou. Mas a previsão de um \"apagão mundial\" dominou as redes sociais na terça-feira (17), em meio a uma onda de ataques hackers que, desde outubro, atinge de geladeiras de supermercados a bancos. Só no Brasil",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
+      "category": "Segurança cibernética",
       "region": "Global",
       "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-inteligencia-artificial-exige-cautela-mas-rejeita-regulacao/",
-      "published_on": "18/11/2026 23:47 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Trump-IA.jpg?w=200",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
+      "published_on": "18/11/2026 10:00 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/StOpkhTXMduUC0pSWqJFLpLDK1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/8/ighTEAQ56v09DkC5HywQ/fotojet-24-.jpg",
       "selection": "automatic"
     }
   ]
