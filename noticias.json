@@ -1,17 +1,5 @@
 [
   {
-    "title": "Un hombre mata a puñaladas en Parla a una mujer con la que mantenía una relación",
-    "summary": "La policía investiga el episodio como un caso de violencia machista",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/sociedad/2026-11-19/muere-una-mujer-en-parla-apunalada-por-un-hombre-con-el-que-mantenia-una-relacion.html",
-    "date": "2026-11-19T06:10:03Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/V5ZINV5A6BIT5LQXQR4EGW32YY.jpg?auth=0e15eb7967f55f84b42f3292698b5c78f0b767aa29110e5d7f8cc3dd6fe9a712"
-  },
-  {
     "title": "Trump praises Putin ahead of rare joint meeting with Xi in China",
     "summary": "President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare face-to-face meeting in China.",
     "category": "Geral",
@@ -19,11 +7,53 @@
     "country": "US",
     "source": "CBS News",
     "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
-    "date": "2026-11-19T06:09:57Z",
+    "date": "2026-11-19T06:17:32Z",
     "lang": "en",
     "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/19/dca4ce94-dadc-451c-80d0-d9e7d8a7fbda/thumbnail/1200x630/e0b4c7cdf2d41b5258732a8d5adac400/ap26323154078465-1.jpg",
     "title_pt": "Trump elogia Putin antes de rara reunião conjunta com Xi na China",
     "summary_pt": "Espera-se que o presidente Trump, o presidente chinês Xi Jinping e o presidente russo Vladimir Putin realizem uma rara reunião presencial na China."
+  },
+  {
+    "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+    "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-19T06:15:57Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg",
+    "title_pt": "Gilts x kilts: o que está acontecendo com os títulos do governo escocês?",
+    "summary_pt": "Os MSPs ouviram os prós e os contras do plano do governo de lançar seu primeiro título no mercado?"
+  },
+  {
+    "title": "El Museo Soumaya devela la ‘Puerta del Paraíso’",
+    "summary": "El monumental pórtico de oro y bronce de Ghiberti conversará en el vestíbulo del museo de Ciudad de México con ‘La Puerta del Infierno’ de Rodin",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/mexico/2026-11-19/el-museo-soumaya-devela-la-puerta-del-paraiso.html",
+    "date": "2026-11-19T06:10:14Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/XVC36BSLBZAUPPCTP6XX27GTTY.JPG?auth=4aa6597aed16f1bb3de1d2634af36c3977bee22753c7bf3a388402c60fde4f02",
+    "summary_pt": "O monumental pórtico de ouro e bronze de Ghiberti dialogará no saguão do museu da Cidade do México com \"A Porta do Inferno\" de Rodin.",
+    "title_pt": "O Museu Soumaya revela a \"Porta do Paraíso\""
+  },
+  {
+    "title": "Un hombre mata a puñaladas en Parla a una mujer con la que mantenía una relación",
+    "summary": "La policía investiga el episodio, del que alertó el propio agresor, como un caso de violencia machista",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/sociedad/2026-11-19/muere-una-mujer-en-parla-apunalada-por-un-hombre-con-el-que-mantenia-una-relacion.html",
+    "date": "2026-11-19T06:10:03Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/V5ZINV5A6BIT5LQXQR4EGW32YY.jpg?auth=0e15eb7967f55f84b42f3292698b5c78f0b767aa29110e5d7f8cc3dd6fe9a712",
+    "title_pt": "Um homem esfaqueia em Parla uma mulher com quem mantinha um relacionamento",
+    "summary_pt": "A polícia investiga o episódio, denunciado pelo próprio agressor, como um caso de violência machista."
   },
   {
     "title": "Developer accused of 'environmental vandalism'",
@@ -35,7 +65,23 @@
     "url": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-19T06:09:25Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5d/live/f7ab8f50-e35f-11f1-a094-5fdc692f3e33.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5d/live/f7ab8f50-e35f-11f1-a094-5fdc692f3e33.jpg",
+    "summary_pt": "A Bellway afirma que o trabalho foi realizado com um ecologista no local e em conformidade com a licença de construção.",
+    "title_pt": "Incorporadora acusada de \"vandalismo ambiental\""
+  },
+  {
+    "title": "Ecuadorian footballer gets eight-year ban for throwing rock at referee",
+    "summary": "Jhon Perlaza threw a stone that struck an assistant referee, who later required surgery, during a third-tier match.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/sports/2026/11/19/ecuadorian-footballer-gets-eight-year-ban-for-throwing-rock-at-referee?traffic_source=rss",
+    "date": "2026-11-19T06:06:23Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-08-09T043731Z_1606379635_MT1USATODAY29546786_RTRMADP_3_NWSL-UTAH-ROYALS-FC-AT-DENVER-SUMMIT-FC-1795067295.jpg?resize=1920%2C1440",
+    "title_pt": "Jogador de futebol equatoriano recebe suspensão de oito anos por jogar uma pedra no árbitro",
+    "summary_pt": "Jhon Perlaza arremessou uma pedra que atingiu um árbitro assistente, que mais tarde precisou passar por uma cirurgia, durante uma partida da terceira divisão."
   },
   {
     "title": "Rare stonefly found beside vanishing glacier on Chile's Navarino Island",
@@ -47,7 +93,9 @@
     "url": "https://www.euronews.com/2026/11/19/rare-stonefly-found-beside-vanishing-glacier-on-chiles-navarino-island",
     "date": "2026-11-19T06:04:44Z",
     "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/09/99/73/79/696x392_cmsv2_2489be45-28a8-5cf4-bba9-2d0524868dff-9997379.jpg"
+    "image": "https://images.euronews.com/articles/stories/09/99/73/79/696x392_cmsv2_2489be45-28a8-5cf4-bba9-2d0524868dff-9997379.jpg",
+    "title_pt": "Plecóptero raro encontrado ao lado de uma geleira em desaparecimento na Ilha Navarino, no Chile",
+    "summary_pt": "Uma equipe internacional de cientistas, incluindo pesquisadores da Universidade de Barcelona, descobriu um inseto raro ao lado dos restos de uma geleira na Patagônia chilena."
   },
   {
     "title": "Leftover pumpkins help deliver 1,000th free meal",
@@ -59,7 +107,9 @@
     "url": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-19T06:04:30Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f0/live/0f7739c0-e3df-11f1-95b9-4f56547154ff.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f0/live/0f7739c0-e3df-11f1-95b9-4f56547154ff.jpg",
+    "title_pt": "Sobras de abóbora ajudam a entregar a milésima refeição gratuita",
+    "summary_pt": "\"É um momento muito difícil para muitas pessoas\", afirma uma organização de alimentos sustentáveis."
   },
   {
     "title": "Trump y Putin interactúan en Shenzhen antes de las reuniones con Xi",
@@ -99,7 +149,9 @@
     "url": "https://www.euronews.com/2026/11/19/the-dark-side-of-ai-us-data-centres-emit-more-carbon-than-all-of-denmark",
     "date": "2026-11-19T06:02:27Z",
     "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/09/99/83/24/696x392_cmsv2_e9f8c8eb-8807-5434-906e-9b68e63b6d8d-9998324.jpg"
+    "image": "https://images.euronews.com/articles/stories/09/99/83/24/696x392_cmsv2_e9f8c8eb-8807-5434-906e-9b68e63b6d8d-9998324.jpg",
+    "title_pt": "O lado sombrio da IA: os data centers dos EUA emitem mais carbono do que toda a Dinamarca",
+    "summary_pt": "O estudo de Harvard revelou que os compromissos por si só podem não ser suficientes, mesmo que os negociadores da COP31 pressionem pelo uso de energia mais limpa nos data centers."
   },
   {
     "title": "Latest news bulletin | November 19th, 2026 – Morning",
@@ -111,7 +163,9 @@
     "url": "https://www.euronews.com/video/2026/11/19/latest-news-bulletin-november-19th-2026-morning",
     "date": "2026-11-19T06:00:33Z",
     "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/09/99/89/10/696x392_cmsv2_3b2dbe3e-7860-56c6-b0dd-c188726f7767-9998910.jpg"
+    "image": "https://images.euronews.com/articles/stories/09/99/89/10/696x392_cmsv2_3b2dbe3e-7860-56c6-b0dd-c188726f7767-9998910.jpg",
+    "title_pt": "Último boletim de notícias | 19 de novembro de 2026 – Manhã",
+    "summary_pt": "Fique por dentro das notícias mais importantes da Europa e de outras partes do mundo neste dia 19 de novembro de 2026. Últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens."
   },
   {
     "title": "Car use in London forecast to rise by 10% in next decade",
@@ -123,7 +177,9 @@
     "url": "https://www.theguardian.com/uk-news/2026/nov/19/car-use-in-london-forecast-to-rise-by-10-in-next-decade",
     "date": "2026-11-19T06:00:20Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/2923a1d980f6a5b8579e7c5bb6a3aef3fb3542d7/1476_591_3344_2674/master/3344.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b83b53294abf15d9048070e539222b9a"
+    "image": "https://i.guim.co.uk/img/media/2923a1d980f6a5b8579e7c5bb6a3aef3fb3542d7/1476_591_3344_2674/master/3344.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b83b53294abf15d9048070e539222b9a",
+    "title_pt": "Previsão de aumento de 10% no uso de carros em Londres na próxima década",
+    "summary_pt": "A modelagem na minuta do plano decenal de Londres ameaça as promessas de Sadiq Khan de melhorar a qualidade do ar. O uso de carros em Londres aumentará 10% na próxima década, enquanto o uso de bicicletas e caminhadas diminuirá em termos proporcionais de deslocamentos, de acordo com uma previsão oficial da prefeitura da cidade, colocando em dúvida as promessas de Sadiq Khan sobre a qualidade do ar e o meio ambiente. Com base em"
   },
   {
     "title": "Tulip Siddiq says she is considering legal action against former Bangladesh leader",
@@ -135,7 +191,9 @@
     "url": "https://www.theguardian.com/world/2026/nov/19/tulip-siddiq-says-she-is-considering-legal-action-against-former-bangladesh-leader",
     "date": "2026-11-19T06:00:18Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/8855d537c98024a3980af1a52e6d724b5a59685c/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9fcf71529c3b46714c18f4b35a09c44"
+    "image": "https://i.guim.co.uk/img/media/8855d537c98024a3980af1a52e6d724b5a59685c/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9fcf71529c3b46714c18f4b35a09c44",
+    "title_pt": "Tulip Siddiq diz que está pensando em entrar com uma ação judicial contra a ex-líder de Bangladesh",
+    "summary_pt": "Ex-ministra, que foi condenada à prisão em Bangladesh na sua ausência, diz que foi vítima de \"perseguição maliciosa\". A ex-ministra Tulip Siddiq disse que está pensando em entrar com uma ação judicial contra o ex-líder interino de Bangladesh por causa das acusações de corrupção feitas por seu governo, que a levaram a renunciar ao governo do Reino Unido no ano passado."
   },
   {
     "title": "« Inside Deutsche Bank » : derrière la façade verte, les coulisses du « greenwashing » de la banque allemande",
@@ -147,7 +205,9 @@
     "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/19/inside-deutsche-bank-derriere-la-facade-verte-les-coulisses-du-greenwashing-de-la-banque-allemande_6813239_4355770.html",
     "date": "2026-11-19T05:58:07Z",
     "lang": "fr",
-    "image": "https://img.lemde.fr/2026/11/18/0/0/3000/2000/1440/960/60/0/e5170dd_upload-1-gxlaqwqpfpro-db-08-greenwashing.jpg"
+    "image": "https://img.lemde.fr/2026/11/18/0/0/3000/2000/1440/960/60/0/e5170dd_upload-1-gxlaqwqpfpro-db-08-greenwashing.jpg",
+    "title_pt": "\"Inside Deutsche Bank\": por trás da fachada verde, os bastidores do \"greenwashing\" do banco alemão",
+    "summary_pt": "Após o Acordo de Paris em 2015, o banco multiplicou os anúncios para reduzir sua pegada climática. O vazamento de dados \"Inside Deutsche Bank\" mostra que o grupo burlou ou ignorou suas próprias promessas em diversas ocasiões."
   },
   {
     "title": "Is the AI bubble bursting just as Anthropic goes public?",
@@ -159,21 +219,23 @@
     "url": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-rdf",
     "date": "2026-11-19T05:58:00Z",
     "lang": "en",
-    "image": "https://static.dw.com/image/79429800_6.jpg"
+    "image": "https://static.dw.com/image/79429800_6.jpg",
+    "title_pt": "A bolha da IA está estourando justamente quando a Anthropic abre o capital?",
+    "summary_pt": "A forte liquidação de ações de tecnologia após as eleições de meio de mandato nos EUA e o escândalo da Nvidia lançaram dúvidas sobre o IPO da Anthropic. No entanto, com centenas de bilhões ainda sendo investidos, alguns acham que a festa da IA ainda está a todo vapor."
   },
   {
-    "title": "EN DIRECT, guerre en Ukraine : peu avant leur rencontre tripartite en Chine, Donald Trump s’entretient séparément avec Vladimir Poutine et Xi Jinping",
-    "summary": "Les présidents américain et russe ont échangé pendant environ quarante minutes à Shenzhen, sans que l’on sache quels ont été les thèmes abordés. Par ailleurs, le pont de Crimée a de nouveau été touché, mercredi soir, deux jours après des frappes ukrainiennes ayant sérieusement endommagé l’infrastructure.",
+    "title": "EN DIRECT, guerre en Ukraine : peu avant la rencontre tripartite en Chine, Donald Trump s’entretient séparément avec Vladimir Poutine et Xi Jinping",
+    "summary": "Les présidents américain et russe ont discuté pendant environ quarante minutes à Shenzhen, sans que l’on sache quels ont été les thèmes abordés. Par ailleurs, le pont de Crimée a de nouveau été touché, mercredi soir, deux jours après des frappes ukrainiennes ayant sérieusement endommagé l’infrastructure.",
     "category": "Conflitos",
     "region": "Global",
     "country": "FR",
     "source": "Le Monde",
     "url": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-peu-avant-leur-rencontre-tripartite-en-chine-donald-trump-s-entretient-separement-avec-vladimir-poutine-et-xi-jinping_6810982_3210.html",
-    "date": "2026-11-19T05:52:43Z",
+    "date": "2026-11-19T05:52:41Z",
     "lang": "fr",
     "image": "https://img.lemde.fr/2026/11/19/105/0/1333/666/1440/720/60/0/274f973_ftp-1-q9cyzkid8bbz-afp-d7xj9x9.jpg",
-    "title_pt": "AO VIVO, guerra na Ucrânia: pouco antes da reunião tripartida na China, Donald Trump fala separadamente com Vladimir Putin e Xi Jinping",
-    "summary_pt": "Os presidentes americano e russo falaram durante cerca de quarenta minutos em Shenzhen, sem que soubéssemos quais os temas discutidos. Além disso, a ponte da Crimeia foi novamente atingida na noite de quarta-feira, dois dias depois de os ataques ucranianos terem danificado gravemente a infra-estrutura."
+    "title_pt": "AO VIVO, guerra na Ucrânia: pouco antes da reunião tripartida na China, Donald Trump conversa separadamente com Vladimir Putin e Xi Jinping",
+    "summary_pt": "Os presidentes dos Estados Unidos e da Rússia conversaram por cerca de quarenta minutos em Shenzhen, sem que se saiba quais foram os temas abordados. Além disso, a ponte da Crimeia foi novamente atingida na noite de quarta-feira, dois dias após ataques ucranianos que danificaram gravemente a infraestrutura."
   },
   {
     "title": "Here’s the latest.",
@@ -523,7 +585,9 @@
     "url": "https://elpais.com/mexico/2026-11-19/jan-martinez-ahrens-los-periodicos-de-calidad-debemos-reafirmarnos-en-nuestra-mision.html",
     "date": "2026-11-19T04:49:11Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/3BCEBRXQXBA5RN4YIPZXHXKNV4.JPG?auth=67fba89483a62bc6d32dee6edeae8711aa9b4e9e916d92fa27dd41299582829c"
+    "image": "https://imagenes.elpais.com/resizer/v2/3BCEBRXQXBA5RN4YIPZXHXKNV4.JPG?auth=67fba89483a62bc6d32dee6edeae8711aa9b4e9e916d92fa27dd41299582829c",
+    "title_pt": "Jan Martínez Ahrens: \"Os jornais de qualidade devem reafirmar sua missão\"",
+    "summary_pt": "O diretor do EL PAÍS celebra os 500 mil assinantes e o alcance global ampliado na entrega do Prêmio EL PAÍS América à Excelência ao empresário mexicano Carlos Slim Helú"
   },
   {
     "title": "Trump makes third Supreme Court bid to end Venezuelan migrant protections",
@@ -1324,20 +1388,6 @@
     "summary_pt": "As ações da empresa não sobem apesar dos resultados recordes e do compromisso de manter a remuneração multimilionária aos investidores"
   },
   {
-    "title": "Los hermanos Riu ganan 95,3 millones a través de la sociedad patrimonial con la que controlan sus hoteles",
-    "summary": "El vehículo familiar Saranja reparte a sus accionistas 15,3 millones en dividendos",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://cincodias.elpais.com/companias/2026-11-19/los-hermanos-riu-ganan-953-millones-a-traves-de-la-sociedad-patrimonial-con-la-que-controlan-sus-hoteles.html",
-    "date": "2026-11-19T04:15:00Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/6DVGYZSUJNV7XZGQK5PZKGH2W4.jpg?auth=59484d5ea30c32d9afa9a63f2a8d4301406818507f19a6ec86f8f502e93b33b9",
-    "title_pt": "Os irmãos Riu ganham 95,3 milhões através da holding com a qual controlam os seus hotéis",
-    "summary_pt": "O veículo da família Saranja distribui 15,3 milhões em dividendos aos seus acionistas"
-  },
-  {
     "title": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk",
     "summary": "Australian fashion chain becomes latest retailer in trouble after David Jones, Cue and Veronika Maine Get our breaking news email , free app or daily news podcast The youth fashion chain General Pants Co has become the latest major retailer to slide into voluntary administration, putting nearly 500 jobs at risk as Australia’s retail sector continues to strug",
     "category": "Geral",
@@ -1588,6 +1638,20 @@
     "image": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/19/None",
     "title_pt": "O encontro inédito de Trump, Putin e Xi Jinping, e o que o Brasil ganha com isso - O Assunto #1849",
     "summary_pt": "Na madrugada desta quinta-feira (19), os líderes de Estados Unidos, China e Rússia se encontram pela primeira vez, em Shenzhen, cidade que é um dos símbolos do crescimento chinês. O encontro trilateral envolve várias discussões sobre a paz global: a busca por resoluções para as guerras da Ucrânia e do Irã e por acordos que reduzam o arsenal de armas nucleare"
+  },
+  {
+    "title": "Japan says PM Takaichi, Putin held talks at APEC summit in China",
+    "summary": "Japan says PM Takaichi, Putin held talks at APEC summit in China Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGFYWEJrZkpsMjh1dWNROWxsODdhQzUxYmR2WEhqNFIxRjNLM2l6QWlNZ2lHSlFIeGhQQnJBQTN4MGNpVXBIVkxSU1lLOVZkTk9LRXJfb0RDeXJKaFM5X245bFg5WnQ0WEtQQktxSzhGbjNPMVNFRmNLb25zM1JqcUE1Z1dFSXRjSjJUS1hzZXpEREFiejN4V1dWc05kbnA5Yi1sUjBUcjU?oc=5",
+    "date": "2026-11-19T03:25:00Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Japão diz que a primeira-ministra Takaichi e Putin mantiveram conversas na cúpula da APEC na China",
+    "summary_pt": "Japão diz que a primeira-ministra Takaichi e Putin mantiveram conversas na cúpula da APEC na China Reuters"
   },
   {
     "title": "Corinthians perde meia para próxima rodada do Brasileirão",
@@ -1844,7 +1908,7 @@
   {
     "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3249,7 +3313,7 @@
   {
     "title": "The seven Anthropic founders who are about to become multi-billionaires",
     "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "category": "Tecnologia",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3273,20 +3337,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261118__D7WJ6DK__v1__HighRes__SenegalMigrationAccident-1795038583.jpg?resize=1920%2C1440",
     "title_pt": "Barco de migrantes vira ao largo do Senegal, deixando pelo menos uma pessoa morta",
     "summary_pt": "O incidente ocorreu dias após outro barco ter virado nas águas senegalesas, e a Espanha ter declarado emergência migratória."
-  },
-  {
-    "title": "NASA’s Voyager 1 hits record one light-day distance, 50 years after launch",
-    "summary": "Voyager 1 reaches one light-day from Earth, marking a historic milestone nearly 50 years after its 1977 launch.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss",
-    "date": "2026-11-18T23:35:12Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afe1e9f-1795038879.jpg?resize=1920%2C1440",
-    "title_pt": "A Voyager 1 da NASA atinge a distância recorde de um dia-luz, 50 anos após o lançamento",
-    "summary_pt": "A Voyager 1 chega a um dia-luz de distância da Terra, marcando um marco histórico quase 50 anos após seu lançamento em 1977."
   },
   {
     "title": "11/18: CBS Evening News",
@@ -3452,7 +3502,9 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbzY3bmFvcDFWWmUtWmRlTkg1OElfODl6Z1BCWG1LQlp3U0xsbXktUlo3SXRKczAxdEI2bGRSTmxLRDUwMXRMZU9LOGJuX0QyTkxLNHVnS254WkF6MVNRNmNsUkxZRXZreWh2d0R5M2JmZk1pUWZHYVg0R1BjUDBXNVlFOXpZRGhtRUxLd1F6UnViV0VQcHBGSWw0VjF4ZUU2dk9zQ3liMzNmY3k0TExRXzlVMA?oc=5",
     "date": "2026-11-18T23:09:00Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "EXCLUSIVO: UniCredit e Alemanha chegam a um amplo acordo sobre a aquisição do Commerzbank",
+    "summary_pt": "EXCLUSIVO: UniCredit e Alemanha chegam a um amplo acordo sobre a aquisição do Commerzbank Reuters"
   },
   {
     "title": "Trump says historic summit with Xi, Putin already a 'win' before event",
@@ -3481,20 +3533,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fc/live/b89f41e0-e336-11f1-9479-d17d3e98c29d.jpg",
     "title_pt": "Mianmar enfrenta veredicto histórico de genocídio no tribunal da ONU sobre os massacres dos rohingyas",
     "summary_pt": "Nenhum Estado jamais foi considerado culpado por um tribunal internacional por cometer genocídio."
-  },
-  {
-    "title": "Gilts v kilts: What is happening with Scottish government bonds?",
-    "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
-    "category": "Economia",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-18T23:01:09Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg",
-    "title_pt": "Gilts x kilts: o que está acontecendo com os títulos do governo escocês?",
-    "summary_pt": "Os MSPs ouviram os prós e os contras do plano do governo de lançar seu primeiro título no mercado?"
   },
   {
     "title": "How the Anthropic IPO stacks up against SpaceX",
@@ -3972,7 +4010,9 @@
     "url": "https://www.euronews.com/2026/11/18/us-defence-secretary-announces-military-cooperation-in-surprise-caracas-visit",
     "date": "2026-11-18T21:02:43Z",
     "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/09/99/86/14/696x392_cmsv2_2d81b41a-d5fb-5d6f-8796-471016fb7c82-9998614.jpg"
+    "image": "https://images.euronews.com/articles/stories/09/99/86/14/696x392_cmsv2_2d81b41a-d5fb-5d6f-8796-471016fb7c82-9998614.jpg",
+    "title_pt": "Secretário de Defesa dos EUA anuncia cooperação militar em visita surpresa a Caracas",
+    "summary_pt": "O secretário de Defesa dos EUA se reuniu com Delcy Rodríguez em Caracas antes de uma visita programada à Colômbia, onde deve discutir a cooperação bilateral em matéria de segurança."
   },
   {
     "title": "Trois « revenantes » françaises condamnées à des peines de cinq à douze ans de prison pour avoir rejoint l’organisation Etat islamique",
@@ -5848,20 +5888,6 @@
     "summary_pt": "SukhoiSuperjet 100 da companhia Azimuth Airlines Reprodução/Azimuth Airlines Um avião de passageiros russo recebeu uma ameaça de bomba enquanto voava em direção ao sul da Turquia nesta quarta-feira (18), mas pousou sem incidentes, e seus passageiros e tripulantes foram retirados, informaram agências de notícias turcas. 📱Favorite o g1 no Google e acompanhe as"
   },
   {
-    "title": "Hoax bomb threats force evacuation of several schools in Spain",
-    "summary": "Hoax bomb threats force evacuation of several schools in Spain Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDZSN1l6SEx3bUd6UVNNNk5NaDM3YVlhTXVRMmZSSWhKSy1zRllaRGQ0cmYwdXpUNjNDV25kUUFjQXVOejl5NVRCY01ITE1QalY5ZHhLb3lEUGhTNEhfMm1oeGZrWmRSaXlOUEViaGZRLV9tQW80UWJURV9Yc3U5WWg5SnlqeGlEYlZGdGpIUHRoOUx6U3d1QkhRd3BPaVRNNnVhZFctUzg?oc=5",
-    "date": "2026-11-18T14:16:43Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Ameaças de bomba falsas forçam a evacuação de várias escolas na Espanha",
-    "summary_pt": "Ameaças de bomba falsas forçam evacuação de várias escolas na Espanha Reuters"
-  },
-  {
     "title": "Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?",
     "summary": "An emerging field of psychology suggests that it’s probably not what you think — and that there might be reason for optimism.",
     "category": "Geral",
@@ -6890,7 +6916,7 @@
   {
     "title": "Security flaw found in Java, world's third-largest programming language",
     "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
