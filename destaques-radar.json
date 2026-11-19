@@ -1,7 +1,7 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T13:55:39.043766Z",
+  "checked_at": "2026-11-19T14:00:49.876167Z",
   "status": "checado",
   "items": [
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Combustíveis fósseis retirados do projeto de acordo da COP31, apesar do crescente impulso",
-      "summary": "A transição para longe dos combustíveis fósseis (TAFF) se tornou um ponto crucial de discussão na cúpula anual da ONU sobre o clima.",
+      "title": "Sinais ‘chocantes’ de mudanças climáticas acrescentam urgência às negociações da COP31",
+      "summary": "Do Ártico aos trópicos, o clima incomum e o calor extremo estão a suscitar preocupações sobre a rapidez com que os humanos estão a remodelar os processos naturais da Terra.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Clima e desastres",
       "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/19/fossil-fuels-scrubbed-from-cop31-draft-deal-despite-growing-momentum",
-      "published_on": "19/11/2026 09:10 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/09/99/97/32/696x392_cmsv2_6d4c7392-70b0-5720-a392-26d5c944568d-9999732.jpg",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
+      "published_on": "19/11/2026 09:56 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-cop31-disruption-top-fctl/18cli-cop31-disruption-top-fctl-mediumSquareAt3X.jpg",
       "selection": "automatic"
     }
   ]
