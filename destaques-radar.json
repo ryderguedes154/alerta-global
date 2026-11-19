@@ -1,7 +1,7 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T01:53:53.748652Z",
+  "checked_at": "2026-11-19T01:59:33.671971Z",
   "status": "checado",
   "items": [
     {
@@ -41,6 +41,19 @@
       "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
       "published_on": "18/11/2026 13:00 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Trump minimiza as quedas de energia nos EUA e as preocupações de segurança da Nvidia em declarações antes da cúpula com a China – ao vivo",
+      "summary": "Questionado pela Fox News sobre a suposta operação de espionagem da China, o presidente disse: \"Nós também espionamos eles. Acho que espionamos melhor do que eles.\" Inscreva-se para receber e-mails com notícias de última hora dos EUA. Em relação a isso, a Casa Branca realizou hoje uma teleconferência com vários repórteres sobre a onda de interrupções tecnoló",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Geral",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "published_on": "18/11/2026 21:43 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e39b145e8bd198f7317106c1412082ff",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
       "published_on": "18/11/2026 10:00 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/StOpkhTXMduUC0pSWqJFLpLDK1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/8/ighTEAQ56v09DkC5HywQ/fotojet-24-.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump diz a americanos para relaxarem após falhas em serviços de tecnologia",
-      "summary": "Presidente dos Estados Unidos afirmou que eventos são isolados e descartou envolvimento de outra nação nos apagções",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-a-americanos-para-relaxarem-apos-falhas-em-servicos-de-tecnologia/",
-      "published_on": "18/11/2026 21:44 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM4B0WY-BASEIMAGE.jpg?w=200",
       "selection": "automatic"
     }
   ]
