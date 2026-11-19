@@ -1,7 +1,7 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T03:32:19.763252Z",
+  "checked_at": "2026-11-19T03:37:24.965928Z",
   "status": "checado",
   "items": [
     {
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Acompanhando a intensificação da guerra de palavras da China contra o Japão",
+      "summary": "Pequim está conduzindo uma campanha coordenada para retratar o Japão como um agressor e uma ameaça militar ressurgente, de acordo com uma análise do Times.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
+      "published_on": "18/11/2026 23:32 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-mediumSquareAt3X.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Maleta nuclear de Putin: saiba como funciona dispositivo flagrado com militar da Rússia na China",
       "summary": "Militar carrega maleta nuclear da Rússia em visita à China A imagem de um militar russo carregando uma maleta durante a visita do presidente Vladimir Putin à China seria corriqueira, não fosse por um detalhe: aquele pequeno item guarda o controle do arsenal nuclear da Rússia. Putin tem o poder de levar consigo os meios para acionar armas de imenso poderio de",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -67,19 +80,6 @@
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
       "published_on": "18/11/2026 22:27 (Boa Vista)",
       "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/edfd483c-3de9-4d0e-bc5d-fde9c05be0e7/thumbnail/1200x630/b879f62e2e23efebf0b288761f8fbcdd/gettyimages-1701828933.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Guerra no Irã ao vivo: Trump diz que o Irã busca novas armas; os houthis têm Riad como alvo",
-      "summary": "Trump afirmou que o Irã está buscando desenvolver armas biológicas enquanto a coalizão liderada pela Arábia Saudita combate os mísseis Houthi.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
-      "published_on": "18/11/2026 20:01 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe32a94666-1795044009.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
