@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-19T11:27:27.055Z",
+  "updated_at": "2026-11-19T12:26:09.445Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "EUA, China e Rússia divulgam declaração conjunta sobre ONU, energia e riscos nucleares",
+      "summary": "Após reunião trilateral na China, Trump, Xi e Putin divulgaram compromissos de discutir reformas da ONU, ampliar a oferta de petróleo e manter diálogo para reduzir riscos nucleares. Não houve acordo anunciado sobre as guerras na Ucrânia ou no Oriente Médio.",
+      "impact_br": "Uma eventual ampliação da oferta de petróleo pode influenciar preços internacionais e combustíveis no Brasil, mas não há efeito confirmado.",
+      "category": "Diplomacia internacional",
+      "region": "Global / Ásia",
+      "country": "GLOBAL",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/a04dc76ed8e786b087e2c1ea9598783a",
+      "published_on": "2026-11-19",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-19T12:26:09.445Z"
+    },
     {
       "title": "Corte Internacional de Justiça conclui que Mianmar cometeu atos de genocídio contra os rohingyas",
       "summary": "A Corte Internacional de Justiça concluiu em 19 de novembro que a campanha militar de Mianmar contra a minoria rohingya em 2016–2017 incluiu atos de genocídio e intenção de destruir parte substancial do grupo. O julgamento encerra processo iniciado pela Gâmbia em 2019; a execução da decisão enfrenta obstáculos.",
