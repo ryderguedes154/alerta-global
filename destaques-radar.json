@@ -1,7 +1,7 @@
 {
   "edition": "18/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T03:48:02.711843Z",
+  "checked_at": "2026-11-19T03:53:21.626127Z",
   "status": "checado",
   "items": [
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Sem 'apagão mundial', dia 17 tem falha na segurança nacional dos EUA e ataque hacker contra quase 200 sites",
-      "summary": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas A teoria da conspiração para um \"apagão mundial\" nesta terça-feira (17) não se concretizou, mas a data foi marcada por novas falhas tecnológicas e um ataque hacker em série a quase 200 sites. Desde a quinta-feira (12), cinco falhas envolveram sistemas de aviação, bancário ou de",
+      "title": "COP31: Vanuatu pede reforma da cúpula climática da ONU e alerta para retrocessos",
+      "summary": "O ministro do Meio Ambiente de Vanuatu, Ralph Regenvanu, pediu mudanças no processo da cúpula climática da ONU, acusando um pequeno grupo de países de bloquear o progresso e alertando que a COP31 corre o risco de reverter compromissos anteriores.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Segurança cibernética",
+      "category": "Clima e desastres",
       "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/18/sem-apagao-mundial-dia-17-falha-seguranca-nacional-eua-ataque-hacker.ghtml",
-      "published_on": "17/11/2026 23:00 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/uJzJ9v55GzlqE-lASNnzqrBP00U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/A/7tQNaOSx6rtSZA6xrEFQ/2026-11-13t225544z-1478587479-rc2anoaqfvwc-rtrmadp-3-usa-faa-ground-stop.jpg",
+      "country": "FR",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261119-cop31-vanuatu-un-climate-summit-reform-warns-of-backsliding",
+      "published_on": "18/11/2026 22:00 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/e3717e5c-e3bc-11f1-b3ed-6d75ed565170/w:1024/p:16x9/AP26321662340752.jpg",
       "selection": "automatic"
     }
   ]
