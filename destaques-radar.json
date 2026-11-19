@@ -1,7 +1,7 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T12:22:40.836848Z",
+  "checked_at": "2026-11-19T12:27:46.846697Z",
   "status": "checado",
   "items": [
     {
@@ -39,7 +39,7 @@
       "country": "GB",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-      "published_on": "19/11/2026 08:03 (Boa Vista)",
+      "published_on": "19/11/2026 08:09 (Boa Vista)",
       "image": "https://i.guim.co.uk/img/media/177e95c8558613ce433c6415ecde5b3d35ad5857/470_0_3986_3189/master/3986.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2024bfac9f841d8eaa3732fcee5a302e",
       "selection": "automatic"
     },
@@ -83,19 +83,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Aumento das cremações diretas desde a pandemia",
-      "summary": "Um relatório de 2026 sobre o custo de falecer constatou que a cremação direta agora é escolhida em cerca de um em cada cinco funerais.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Saúde",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
-      "published_on": "19/11/2026 02:23 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e942/live/68574f50-d14f-11f1-93e1-3b657b665bcf.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas",
       "summary": "Boato de 'apagão mundial' e onda de ataques hackers: o que aconteceu no mundo nas últimas semanas Reuters/Divulgação/Reprodução O mundo, de novo, não acabou. Mas a previsão de um \"apagão mundial\" dominou as redes sociais na terça-feira (17), em meio a uma onda de ataques hackers que, desde outubro, atinge de geladeiras de supermercados a bancos. Só no Brasil",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://g1.globo.com/tecnologia/noticia/2026/11/18/boato-de-apagao-mundial-e-onda-de-ataques-hackers-o-que-aconteceu-no-mundo-nas-ultimas-semanas.ghtml",
       "published_on": "18/11/2026 10:00 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/StOpkhTXMduUC0pSWqJFLpLDK1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/8/ighTEAQ56v09DkC5HywQ/fotojet-24-.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Aumento das cremações diretas desde a pandemia",
+      "summary": "Um relatório de 2026 sobre o custo de falecer constatou que a cremação direta agora é escolhida em cerca de um em cada cinco funerais.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Saúde",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
+      "published_on": "19/11/2026 02:23 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e942/live/68574f50-d14f-11f1-93e1-3b657b665bcf.jpg",
       "selection": "automatic"
     }
   ]
