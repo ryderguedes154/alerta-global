@@ -1,8 +1,8 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-19T09:45:36.658528Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-19T09:51:04.502329Z",
+  "status": "checado",
   "items": [
     {
       "title": "Como a guerra no Irã vai remodelar a ordem energética global",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump diz que inteligência artificial exige cautela, mas rejeita regulação",
-      "summary": "Presidente afirma que tecnologia tem potencial extraordinário, mas reconhece riscos durante discurso na cúpula da APEC",
+      "title": "Aumento das cremações diretas desde a pandemia",
+      "summary": "Um relatório de 2026 sobre o custo de falecer constatou que a cremação direta agora é escolhida em cerca de um em cada cinco funerais.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
+      "category": "Saúde",
       "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-inteligencia-artificial-exige-cautela-mas-rejeita-regulacao/",
-      "published_on": "18/11/2026 23:47 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Trump-IA.jpg?w=200",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
+      "published_on": "19/11/2026 02:23 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e942/live/68574f50-d14f-11f1-93e1-3b657b665bcf.jpg",
       "selection": "automatic"
     }
   ]
