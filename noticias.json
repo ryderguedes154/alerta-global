@@ -1,5 +1,18 @@
 [
   {
+    "title": "India is not in the room at Shenzhen, but it’s watching closely.",
+    "summary": "",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/india-is-not-in-the-room-at-shenzhen-but-its-watching-closely",
+    "date": "2026-11-19T01:08:08Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-india-zmwc/18trump-summits-india-zmwc-mediumSquareAt3X.jpg",
+    "title_pt": "A Índia não está presente em Shenzhen, mas está acompanhando de perto."
+  },
+  {
     "title": "Crimean Bridge attacked again, Russian official says",
     "summary": "The head of Crimea said traffic was suspended after another attack on the link between mainland Russia and the occupied territory.",
     "category": "Geral",
@@ -80,8 +93,8 @@
     "date": "2026-11-19T00:49:19Z",
     "lang": "en",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg",
-    "summary_pt": "\"Châtaigniers en fleurs\" foi pintado em 1890, nos dois últimos meses da vida de Vincent van Gogh.",
-    "title_pt": "Pintura de Van Gogh é vendida por valor recorde de US$ 190,4 milhões após controvérsia sobre sua história nazista"
+    "title_pt": "Pintura de Van Gogh é vendida por valor recorde de US$ 190,4 milhões após controvérsia sobre sua história nazista",
+    "summary_pt": "\"Châtaigniers en fleurs\" foi pintado em 1890, nos dois últimos meses da vida de Vincent van Gogh."
   },
   {
     "title": "Unemployment rate jumps to 4.9% – the highest level in five years",
@@ -196,8 +209,8 @@
     "summary_pt": "As reformas de Mohamud prometem um governo mais forte, mas a resistência regional e a violência ameaçam o frágil acordo de 2012."
   },
   {
-    "title": "Trump diz que não discutiu a situação do ex-CEO da Nvidia com Xi Jinping",
-    "summary": "Donald Trump e Xi Jinping se abraçam na chegada do presidente americano para a cúpula da APEC REUTERS/Carlos Barria O presidente dos Estados Unidos, Donald Trump, afirmou na noite desta quarta-feira (18), em entrevista à rede de TV americana Fox News, que conversou com o presidente chinês, Xi Jinping, sobre Inteligência Artificial, mas que não discutiu a sit",
+    "title": "Trump diz que discutiu IA com Xi Jinping e que mencionou apenas 'brevemente' situação do ex-CEO da Nvidia",
+    "summary": "Donald Trump e Xi Jinping se abraçam na chegada do presidente americano para a cúpula da APEC REUTERS/Carlos Barria O presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (18) que conversou com o presidente chinês, Xi Jinping, sobre inteligência artificial, mas que o ex-CEO da Nvidia, Jensen Huang, foi mencionado apenas “brevemente” durant",
     "category": "Geral",
     "region": "Global",
     "country": "BR",
@@ -206,8 +219,8 @@
     "date": "2026-11-19T00:34:25Z",
     "lang": "pt",
     "image": "https://s2-g1.glbimg.com/9H7RFCdRmC2MglCVzzqTyAGIAIk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/L/6jYQxiRZK7HTyor8v0kg/2026-11-18t090745z-1186125737-rc29qoadt42e-rtrmadp-3-apec-summit-trump-arrival.jpg",
-    "title_pt": "Trump diz que não discutiu a situação do ex-CEO da Nvidia com Xi Jinping",
-    "summary_pt": "Donald Trump e Xi Jinping se abraçam na chegada do presidente americano para a cúpula da APEC REUTERS/Carlos Barria O presidente dos Estados Unidos, Donald Trump, afirmou na noite desta quarta-feira (18), em entrevista à rede de TV americana Fox News, que conversou com o presidente chinês, Xi Jinping, sobre Inteligência Artificial, mas que não discutiu a sit"
+    "title_pt": "Trump diz que discutiu IA com Xi Jinping e que mencionou apenas 'brevemente' situação do ex-CEO da Nvidia",
+    "summary_pt": "Donald Trump e Xi Jinping se abraçam na chegada do presidente americano para a cúpula da APEC REUTERS/Carlos Barria O presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (18) que conversou com o presidente chinês, Xi Jinping, sobre inteligência artificial, mas que o ex-CEO da Nvidia, Jensen Huang, foi mencionado apenas “brevemente” durant"
   },
   {
     "title": "Almost 1 in 4 children live in conflict zones — report",
@@ -1834,6 +1847,19 @@
     "image": "",
     "title_pt": "Órgão de proteção de dados investiga vazamento em grande escala no Deutsche Bank",
     "summary_pt": "Órgão de proteção de dados investiga vazamento maciço de dados do Deutsche Bank Reuters"
+  },
+  {
+    "title": "Business Daily",
+    "summary": "We examine the business of the Claude chatbot maker as it starts selling shares in NYC",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct8gm9?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18T21:30:00Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0png5qs.jpg",
+    "summary_pt": "Analisamos os negócios da empresa criadora do chatbot Claude, que começa a vender ações em Nova York"
   },
   {
     "title": "Terremoto de magnitude 5.2 — 169 km S of Attu Station, Alaska",
@@ -5801,7 +5827,7 @@
   {
     "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
     "summary": "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire.",
-    "category": "Clima e desastres",
+    "category": "Saúde",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6909,7 +6935,7 @@
   {
     "title": "Waymo pulls driverless taxis from all US freeways",
     "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -7005,33 +7031,5 @@
     "image": "https://i.guim.co.uk/img/media/291cc6ecd5e65b702c8158243baa0233602cba73/501_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=787a18999719b95db36330f92b1f35e3",
     "title_pt": "Exames universitários de alto risco da Coreia do Sul anulados por escândalo de trapaça de IA",
     "summary_pt": "A Coreia do Sul foi tomada por revelações de trapaça auxiliada por IA, poucos dias antes de mais de meio milhão de estudantes realizarem exames de admissão de alto risco. A integridade do exame de admissão à universidade que define a carreira da Coreia do Sul foi colocada em dúvida depois que o melhor pontuador em um exame profissional recente admitiu ter usado uma câmera escondida e IA para trapacear. Em T"
-  },
-  {
-    "title": "With heightened stakes, the world's small islands demand 'more action' at UN climate talks",
-    "summary": "ANTALYA, Turkey (AP) — In the global power game of U.N. climate talks, tiny islands form a small, but vocal bloc of nations demanding the world act on the climate crisis that threatens their existence. This year’s climate conference is in its second and final week in Turkey’s resort town of Antalya. …",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "US",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/cop31-turkey-climate-change-small-islands-6d0afe638c93be3150b5bb3b5cd3fd23?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-    "date": "2026-11-18T02:02:56Z",
-    "lang": "en",
-    "image": "https://ic-cdn.flipboard.com/apnews.com/9ef08e0bbe484fc3fbdc8c9bd8f49fca49135a2c/_xlarge.jpeg",
-    "title_pt": "Com riscos aumentados, as pequenas ilhas do mundo exigem “mais ação” nas negociações climáticas da ONU",
-    "summary_pt": "ANTALYA, Turquia (AP) – No jogo de poder global das negociações climáticas da ONU, pequenas ilhas formam um pequeno, mas expressivo bloco de nações que exigem que o mundo aja sobre a crise climática que ameaça a sua existência. A conferência sobre o clima deste ano está na sua segunda e última semana na cidade turística de Antalya, na Turquia. …"
-  },
-  {
-    "title": "Irishman charged with destroying US military aircraft with axe",
-    "summary": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-18T02:00:37Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60e7/live/998637c0-e2ee-11f1-8fb4-dbb4511af007.jpg",
-    "title_pt": "Irlandês acusado de destruir avião militar dos EUA com machado",
-    "summary_pt": "O avião de US$ 60 milhões (£ 45 milhões) foi destruído em uma operação de uma hora por um manifestante anti-guerra, de acordo com o FBI."
   }
 ]
