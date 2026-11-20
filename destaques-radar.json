@@ -1,9 +1,22 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T14:46:19.934559Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T14:51:44.198709Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Trump, Xi e Putin reafirmam lema histórico contra guerra nuclear",
+      "summary": "Declaração conjunta de cúpula tripartite retoma princípio da Guerra Fria sem garantir avanços imediatos no controle de armas",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/trump-xi-e-putin-reafirmam-lema-historico-contra-guerra-nuclear/",
+      "published_on": "20/11/2026 10:36 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/O-chanceler-alemao-Friedrich-Merz-o-presidente-ucraniano-Volodymyr-Zelenskiy-o-presidente-frances-Emmanuel-Macron-o-primeiro-ministro-britanico-Andy-Burnham-os-enviados-dos-EUA-Jared-Kushner-e-Steve-Witkof.jpg?w=200",
+      "selection": "automatic"
+    },
     {
       "title": "Míssil russo atinge a Polônia enquanto aliados da Ucrânia realizam exercício militar, diz Tusk",
       "summary": "O primeiro-ministro Donald Tusk disse que não parecia ter sido um acidente quando os exercícios militares ocidentais estavam ocorrendo na região.",
@@ -28,19 +41,6 @@
       "url": "https://apnews.com/article/poland-ukraine-military-exercise-peace-france-britain-a28d60d1b37093199dd017472028d7ac?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
       "published_on": "20/11/2026 06:56 (Boa Vista)",
       "image": "https://ic-cdn.flipboard.com/apnews.com/9b018c68960397ccd729261f05636fdeb21c651d/_xlarge.jpeg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Grupos de direitos humanos pedem sanções após o principal tribunal da ONU concluir que Mianmar cometeu genocídio contra os rohingyas",
-      "summary": "NAÇÕES UNIDAS (AP) — Grupos de direitos humanos estão pedindo sanções militares e econômicas contra Mianmar depois que o mais alto tribunal das Nações Unidas, na primeira decisão desse tipo, determinou que o governo do país cometeu genocídio contra a minoria rohingya em uma operação militar brutal em 2017. O...",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/un-international-court-myanmar-genocide-rohingya-reparations-d32c2f2a58942b9a3edb81866a850e65?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-      "published_on": "20/11/2026 06:32 (Boa Vista)",
-      "image": "https://ic-cdn.flipboard.com/apnews.com/d3a0860f810186baec69ff4ebdfa19d46cd49faa/_large.webp",
       "selection": "automatic"
     },
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Os países buscam reduções mais significativas no uso de combustíveis fósseis, à medida que a cúpula anual da ONU sobre o clima entra em seu último dia",
-      "summary": "ANTALIA, Turquia (AP) — À medida que as negociações climáticas da ONU deste ano se encerram na Turquia, os negociadores ainda estão debatendo como lidar com o aquecimento global, mesmo com o aumento dos alertas de que apenas a redução dos combustíveis fósseis pode evitar seus efeitos mais catastróficos. A sexta-feira marca o encerramento programado da cúpula",
+      "title": "Terremoto de magnitude 5,1 atinge condado na Califórnia, diz agência",
+      "summary": "O tremor ocorreu a uma profundidade de 6,7 km, segundo o USGS.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Clima e desastres",
       "region": "Global",
-      "country": "US",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/climate-change-warming-turkey-a683c5c87a7ee64caf4e9257948b6e40?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-      "published_on": "20/11/2026 03:43 (Boa Vista)",
-      "image": "https://ic-cdn.flipboard.com/apnews.com/58ba8e3098b7c92d258d4bb94ebbca4992672337/_xlarge.jpeg",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-51-atinge-condado-na-california-diz-agencia/",
+      "published_on": "20/11/2026 10:39 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Terremoto-de-magnitude-59-atingiu-a-costa-do-Peru.png?w=200",
       "selection": "automatic"
     }
   ]
