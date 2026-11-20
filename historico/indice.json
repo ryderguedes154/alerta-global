@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "total": 3712,
+  "total": 3713,
   "months": [
     {
       "month": "2026-11",
       "path": "historico/2026-11.json",
-      "count": 3712,
+      "count": 3713,
       "latest_at": "2026-11-20T14:21:00Z"
     }
   ],
   "retention_days": 15,
   "retention_policy": "rolling_window",
-  "updated_at": "2026-11-20T14:25:40.503314Z"
+  "updated_at": "2026-11-20T14:30:49.540543Z"
 }
