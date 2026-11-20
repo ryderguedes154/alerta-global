@@ -1,8 +1,8 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T06:35:17.529844Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T06:40:40.632514Z",
+  "status": "checado",
   "items": [
     {
       "title": "Putin, Trump e Xi condenam a guerra nuclear enquanto a Europa observa de perto",
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "O Ministério da Economia estuda limitar as comissões por transferência de conta Finanças Europa",
+      "summary": "O governo inicia o processo de regulamentação com as instruções para transferir o novo produto para outra instituição. Os investidores poderão migrar para a concorrência uma vez por ano, mantendo todas as vantagens",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "ES",
+      "source": "El País",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-20/economia-estudia-limitar-las-comisiones-por-traspasar-la-cuenta-financia-europa.html",
+      "published_on": "20/11/2026 00:30 (Boa Vista)",
+      "image": "https://imagenes.elpais.com/resizer/v2/KA73VMDEGBMC5CQA3NUDRKHWSY.jpg?auth=92526242b084ecedcb6b98666b764d33b5a6a6ec2314effaaea938d461d052b9",
+      "selection": "automatic"
+    },
+    {
       "title": "“A Batalha de Kinmen”: Stéphane Malsagne relembra os primeiros dias do conflito entre China e Taiwan",
       "summary": "Numa nova obra, o historiador relata um momento chave no confronto entre a China e Taiwan: em 1949, a batalha na ilha de Kinmen, que viu prevalecer os nacionalistas, então em completa desordem.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -67,19 +80,6 @@
       "url": "https://www.euronews.com/2026/11/19/middle-east-conflict-poses-biggest-threat-to-global-energy-security-in-history-iea-warns",
       "published_on": "19/11/2026 13:18 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/01/62/696x392_cmsv2_50db40b4-9815-5c42-9e90-d63a0568a143-10000162.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Como a guerra no Irã vai remodelar a ordem energética global",
-      "summary": "A Agência Internacional de Energia, em sua análise mais abrangente das consequências da guerra, constatou que o choque do petróleo pode acelerar a adoção de fontes de energia alternativas.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
-      "published_on": "19/11/2026 08:51 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
