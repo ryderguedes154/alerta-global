@@ -390,8 +390,8 @@
     "date": "2026-11-20T01:46:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Ações asiáticas caminham para a pior semana desde 2020 à medida que a queda da IA se intensifica Reuters",
-    "title_pt": "Ações asiáticas caminham para a pior semana desde 2020 à medida que a queda da IA se aprofunda"
+    "title_pt": "Ações asiáticas caminham para a pior semana desde 2020 à medida que a queda da IA se aprofunda",
+    "summary_pt": "Ações asiáticas caminham para a pior semana desde 2020 à medida que a queda da IA se intensifica Reuters"
   },
   {
     "title": "Polícia prende homem suspeito de matar dois cães de ONG em SP",
@@ -2272,20 +2272,6 @@
     "summary_pt": "EXCLUSIVO: Autoridade de Trump sugeriu ceder território da Guiana à Venezuela, dizem fontes Reuters"
   },
   {
-    "title": "Saudi's tallest skyscraper damaged in Houthi attack",
-    "summary": "Saudi Arabia's tallest skyscraper, the headquarters of the Saudi sovereign wealth fund, was struck in ​a Houthi attack in the latest in a series of strikes on the Gulf state, Riyadh said.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "Sky News",
-    "url": "https://news.sky.com/story/saudis-tallest-skyscraper-damaged-in-houthi-attack-13614147",
-    "date": "2026-11-19T22:00:00Z",
-    "lang": "en",
-    "image": "https://e3.365dm.com/26/11/1920x1080/skynews-houthi-attack-riyadh_7410746.jpg?20261119211843",
-    "title_pt": "O arranha-céu mais alto da Arábia Saudita foi danificado em um ataque dos houthis",
-    "summary_pt": "O arranha-céu mais alto da Arábia Saudita, sede do fundo soberano saudita, foi atingido em um ataque dos houthis, o mais recente de uma série de ataques ao país do Golfo, segundo Riade."
-  },
-  {
     "title": "11/19: The Takeout with Major Garrett",
     "summary": "Trump meets with Putin and Xi in historic summit; Anthropic goes public with record IPO.",
     "category": "Geral",
@@ -2298,6 +2284,20 @@
     "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/20/ad41473d-f2ac-4c55-84b2-5cf3d135488d/thumbnail/1200x630/6f4e6bda674d5014111352ec01576960/trumpsummit4.jpg",
     "title_pt": "19/11: The Takeout com Major Garrett",
     "summary_pt": "Trump se reúne com Putin e Xi em cúpula histórica; Anthropic abre o capital com IPO recorde."
+  },
+  {
+    "title": "Saudi's tallest skyscraper damaged in Houthi attack",
+    "summary": "Saudi Arabia's tallest skyscraper, the headquarters of the Saudi sovereign wealth fund, was struck in ​a Houthi attack in the latest in a series of strikes on the Gulf state, Riyadh said.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "Sky News",
+    "url": "https://news.sky.com/story/saudis-tallest-skyscraper-damaged-in-houthi-attack-13614147",
+    "date": "2026-11-19T22:00:00Z",
+    "lang": "en",
+    "image": "https://e3.365dm.com/26/11/1920x1080/skynews-houthi-attack-riyadh_7410746.jpg?20261119211843",
+    "title_pt": "O arranha-céu mais alto da Arábia Saudita foi danificado em um ataque dos houthis",
+    "summary_pt": "O arranha-céu mais alto da Arábia Saudita, sede do fundo soberano saudita, foi atingido em um ataque dos houthis, o mais recente de uma série de ataques ao país do Golfo, segundo Riade."
   },
   {
     "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
@@ -2414,7 +2414,7 @@
     "summary_pt": "A polícia afirma que a operação teve como alvo a área de Martissant, localizada em uma rota importante de saída de Porto Príncipe, controlada por gangues desde 2021."
   },
   {
-    "title": "Thomas Markle fit to stand trial, US court rules",
+    "title": "Thomas Markle fit to stand trial over child abuse images, US court rules",
     "summary": "Thomas Markle is fit to stand trial on charges of possessing child sexual abuse material, a US court has ruled.",
     "category": "Geral",
     "region": "Global",
@@ -2424,8 +2424,8 @@
     "date": "2026-11-19T21:39:00Z",
     "lang": "en",
     "image": "https://e3.365dm.com/26/11/1920x1080/skynews-thomas-markle-us_7411020.jpg?20261119231423",
-    "title_pt": "Tribunal dos EUA decide que Thomas Markle está apto para ser julgado",
-    "summary_pt": "Thomas Markle está apto para ser julgado sob a acusação de posse de material de abuso sexual infantil, decidiu um tribunal dos EUA."
+    "title_pt": "Tribunal dos EUA decide que Thomas Markle está apto para ser julgado por imagens de abuso infantil",
+    "summary_pt": "Thomas Markle está apto para ser julgado pelas acusações de posse de material de abuso sexual infantil, decidiu um tribunal dos Estados Unidos."
   },
   {
     "title": "Kenyan marathon champion banned for doping",
