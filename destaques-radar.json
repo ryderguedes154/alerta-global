@@ -1,22 +1,9 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T04:56:57.119603Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T05:02:12.603769Z",
+  "status": "checado",
   "items": [
-    {
-      "title": "Xi, Trump e Putin, após a cúpula de Shenzhen: \"Uma guerra nuclear não pode ser vencida e nunca deve ser travada\"",
-      "summary": "Os líderes das três maiores potências se comprometem a promover uma reforma da ONU e a garantir a estabilidade dos fluxos de energia. O republicano, sobre o presidente russo: \"Ele é meu amigo\"",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "ES",
-      "source": "El País",
-      "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
-      "published_on": "19/11/2026 11:53 (Boa Vista)",
-      "image": "https://imagenes.elpais.com/resizer/v2/K5ALE3WIAFB4LF5A6O4UF3B7LU.jpg?auth=74afe4724d852ed7f81dbb85f71248660221ec93e37a776f35f5b96061f20b69",
-      "selection": "automatic"
-    },
     {
       "title": "Putin, Trump e Xi condenam a guerra nuclear enquanto a Europa observa de perto",
       "summary": "Após a cimeira, os líderes da Rússia, dos Estados Unidos e da China concordaram que “uma guerra nuclear não pode ser vencida e nunca deve ser travada”. Alguns analistas estão céticos de que isso resultará em mudanças reais.",
@@ -41,6 +28,19 @@
       "url": "https://g1.globo.com/mundo/noticia/2026/11/19/china-russia-e-eua-manterao-dialogo-sobre-riscos-nucleares.ghtml",
       "published_on": "19/11/2026 07:17 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/A36-0BLPsXruu0REatMVCtv1BD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/P/VS7NyPS1AUoHKimxrHMw/2026-11-19t083332z-1813811123-rc2wqoau4zb0-rtrmadp-3-apec-summit.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "A Europa está pronta para iniciar negociações com a Rússia sobre o fim da guerra na Ucrânia, afirmam os líderes",
+      "summary": "Os aliados europeus da Ucrânia afirmam ter uma posição de negociação \"unida\" em uma cúpula em Berlim.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "published_on": "19/11/2026 20:50 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
       "selection": "automatic"
     },
     {
