@@ -1,8 +1,8 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T23:25:59.157592Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T23:31:05.554025Z",
+  "status": "checado",
   "items": [
     {
       "title": "Míssil russo atinge a Polônia enquanto aliados da Ucrânia realizam exercício militar, diz Tusk",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Legisladores dos EUA pressionam por regras mais rígidas para chips de IA em meio à repressão às exportações para a China",
-      "summary": "Washington tem novas regras que restringem o acesso remoto a chips de IA avançados dos EUA, mas os legisladores querem mais.",
+      "title": "Trump ameaça proibir empresas dos EUA de construir data centers de IA no exterior",
+      "summary": "O presidente dos EUA forneceu poucos detalhes sobre a possível política, dizendo que outras pessoas de sua equipe estavam ouvindo falar dela pela primeira vez.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Tecnologia",
       "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-      "published_on": "20/11/2026 18:15 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00920d55d3-1795199501.jpg?resize=1920%2C1440",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "published_on": "20/11/2026 16:54 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
       "selection": "automatic"
     }
   ]
