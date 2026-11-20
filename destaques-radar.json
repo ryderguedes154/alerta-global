@@ -1,8 +1,8 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T13:43:58.814215Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T13:49:05.698792Z",
+  "status": "checado",
   "items": [
     {
       "title": "Putin, Trump e Xi condenam a guerra nuclear enquanto a Europa observa de perto",
@@ -31,8 +31,8 @@
       "selection": "automatic"
     },
     {
-      "title": "Rússia bombardeia a Ucrânia, matando pelo menos 8 pessoas depois que Putin prometeu retaliação pelo ataque à ponte Kerch",
-      "summary": "QUIIV, Ucrânia (AP) - Mísseis e drones russos atingiram alvos em toda a Ucrânia em um ataque noturno prolongado, disseram autoridades na sexta-feira, horas depois de Vladimir Putin ter prometido retaliar contra Kiev por ataques aéreos esta semana em uma ponte que liga a Crimeia ocupada ao continente russo que é ...",
+      "title": "Varsóvia afirma que a queda de um míssil russo na Polônia é uma provocação, enquanto os aliados da Ucrânia realizam exercícios militares",
+      "summary": "QUIEV, Ucrânia (AP) — Um míssil russo caiu na Polônia na sexta-feira no que o primeiro-ministro polonês, Donald Tusk, disse ser provavelmente uma provocação deliberada que coincidiu com exercícios militares europeus no país, como parte dos preparativos para uma possível missão pós-guerra na Ucrânia. O incidente provocou...",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
@@ -54,6 +54,19 @@
       "url": "https://www.france24.com/en/video/20261120-spain-s-leaders-clash-over-corruption-economy-in-tense-election-debate",
       "published_on": "20/11/2026 06:39 (Boa Vista)",
       "image": "https://s.france24.com/media/display/fad0b33e-e4c9-11f1-889a-e56ab3dc0809/w:1024/p:16x9/EN-20261120-100959-101135-CS.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "PBoC mantém juros inalterados na China pelo 18º mês seguido",
+      "summary": "LPR de um ano permaneceu em 3,0%, enquanto a taxa de cinco anos foi mantida em 3,5%",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Geral",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pboc-mantem-juros-inalterados-na-china-pelo-18o-mes-seguido/",
+      "published_on": "20/11/2026 09:40 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2024binary_LYNXMPEK740KO-FILEDIMAGE.jpg?w=200",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
       "published_on": "20/11/2026 01:03 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "A UE revela que sofreu um ciberataque \"impulsionado por IA\"",
-      "summary": "A UE revelou que sofreu um ataque cibernético impulsionado por IA no mês passado e, como resultado, algumas de suas ferramentas digitais ainda estão offline.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Segurança cibernética",
-      "region": "Global",
-      "country": "GB",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
-      "published_on": "19/11/2026 11:38 (Boa Vista)",
-      "image": "https://e3.365dm.com/24/01/1920x1080/skynews-hacker-cyberattack_6439404.jpg?20240131153309",
       "selection": "automatic"
     }
   ]
