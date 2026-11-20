@@ -1,7 +1,7 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T13:49:05.698792Z",
+  "checked_at": "2026-11-20T13:54:12.691619Z",
   "status": "checado",
   "items": [
     {
@@ -26,7 +26,7 @@
       "country": "GB",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "published_on": "20/11/2026 08:56 (Boa Vista)",
+      "published_on": "20/11/2026 09:52 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9c/live/c3767190-e4e1-11f1-a094-5fdc692f3e33.jpg",
       "selection": "automatic"
     },
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Mais dinheiro climático para África? Europa diz usar o que já foi prometido",
-      "summary": "Os países africanos presentes na cimeira da ONU sobre o clima, na Turquia, exigem mais financiamento dos países desenvolvidos para os ajudar a lidar com as alterações climáticas.",
+      "title": "Os países buscam reduções mais significativas no uso de combustíveis fósseis, à medida que a cúpula anual da ONU sobre o clima entra em seu último dia",
+      "summary": "ANTALIA, Turquia (AP) — À medida que as negociações climáticas da ONU deste ano se encerram na Turquia, os negociadores ainda estão debatendo como lidar com o aquecimento global, mesmo com o aumento dos alertas de que apenas a redução dos combustíveis fósseis pode evitar seus efeitos mais catastróficos. A sexta-feira marca o encerramento programado da cúpula",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Clima e desastres",
       "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-      "published_on": "20/11/2026 01:03 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/climate-change-warming-turkey-a683c5c87a7ee64caf4e9257948b6e40?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+      "published_on": "20/11/2026 03:43 (Boa Vista)",
+      "image": "https://ic-cdn.flipboard.com/apnews.com/58ba8e3098b7c92d258d4bb94ebbca4992672337/_xlarge.jpeg",
       "selection": "automatic"
     }
   ]
