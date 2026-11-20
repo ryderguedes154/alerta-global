@@ -1,8 +1,8 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T13:28:16.309830Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T13:33:43.946240Z",
+  "status": "checado",
   "items": [
     {
       "title": "Putin, Trump e Xi condenam a guerra nuclear enquanto a Europa observa de perto",
@@ -15,19 +15,6 @@
       "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
       "published_on": "19/11/2026 10:23 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nukes-europe-1-zwgv/19trump-summits-nukes-europe-1-zwgv-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Burnham elogia o acordo \"histórico\" entre a UE e o Reino Unido sobre comércio, energia e mobilidade juvenil como um \"bom dia\" para a Europa",
-      "summary": "O Reino Unido e a União Europeia chegaram a um novo acordo sobre comércio, energia e mobilidade de jovens na sexta-feira, o que o primeiro-ministro do Reino Unido, Andy Burnham, chamou de \"um bom dia\" tanto para Londres quanto para o bloco. Burnham – que disse esperar ver o Reino Unido voltar a integrar a UE em vida – argumenta que os acordos ajudarão a repa",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "FR",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261120-eu-and-uk-set-to-sign-deals-on-trade-energy-youth-mobility-at-brussels-summit",
-      "published_on": "19/11/2026 22:00 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/203b3d22-e486-11f1-9e19-e56ab3dc0809/w:1024/p:16x9/c90a23b59a6d01ee8ae6acbb2cad20e56147ea25.jpg",
       "selection": "automatic"
     },
     {
@@ -80,6 +67,19 @@
       "url": "https://www.euronews.com/2026/11/20/world-is-being-held-hostage-by-oil-mafia-how-one-tiny-country-is-putting-its-foot-down-at-",
       "published_on": "20/11/2026 07:02 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/14/92/696x392_cmsv2_cba898b5-b1d6-5e68-b8da-2b7bac2db3b2-10001492.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "O Irã prepara um comboio de petroleiros na Ilha de Kharg para testar o bloqueio de petróleo dos EUA",
+      "summary": "Mais de 14 petroleiros receberam tripulações e bandeiras iranianas no terminal que processa até 90% das exportações de petróleo bruto do país, de acordo com imagens de satélite e dados de rastreamento de navios, com um comboio previsto para seguir em direção ao Mar de Omã nos próximos dias.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/20/iran-readies-tanker-convoy-at-kharg-island-to-test-us-oil-blockade",
+      "published_on": "20/11/2026 06:06 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/10/00/12/73/696x392_cmsv2_70290719-679c-58bb-bc5e-6fd76b1067e8-10001273.jpg",
       "selection": "automatic"
     },
     {
