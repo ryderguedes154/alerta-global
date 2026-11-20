@@ -1,8 +1,8 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T09:34:26.455666Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T09:39:32.774746Z",
+  "status": "checado",
   "items": [
     {
       "title": "Putin, Trump e Xi condenam a guerra nuclear enquanto a Europa observa de perto",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "A UE revela que sofreu um ciberataque \"impulsionado por IA\"",
-      "summary": "A UE revelou que sofreu um ataque cibernético impulsionado por IA no mês passado e, como resultado, algumas de suas ferramentas digitais ainda estão offline.",
+      "title": "A Califórnia mira na Nvidia em investigação sobre chips de IA na China",
+      "summary": "A investigação da Califórnia, onde a fabricante de chips de IA tem sua sede global, ocorre após a saída do ex-CEO Jensen Huang.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Segurança cibernética",
+      "category": "Tecnologia",
       "region": "Global",
       "country": "GB",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
-      "published_on": "19/11/2026 11:38 (Boa Vista)",
-      "image": "https://e3.365dm.com/24/01/1920x1080/skynews-hacker-cyberattack_6439404.jpg?20240131153309",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "published_on": "19/11/2026 19:04 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
       "selection": "automatic"
     }
   ]
