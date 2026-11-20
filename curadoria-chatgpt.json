@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-19T23:38:02.589Z",
+  "updated_at": "2026-11-20T02:43:18.431Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Bolsas asiáticas caminham para pior semana desde 2020 após queda global de ações",
+      "summary": "Em 20 de novembro, o índice MSCI Ásia-Pacífico recuava 2,5% na sessão e acumulava perda de cerca de 7% na semana, a maior desde março de 2020. Japão e Coreia do Sul também registravam fortes quedas. Os números são parciais, não fechamento definitivo.",
+      "impact_br": "A aversão global ao risco pode pressionar o Ibovespa, o câmbio e investimentos brasileiros; ainda não há impacto direto quantificado.",
+      "category": "economia",
+      "region": "Ásia-Pacífico",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-20/",
+      "published_on": "2026-11-20",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-20T02:43:18.431Z"
+    },
     {
       "title": "Wall Street despenca: Dow Jones perde 1.101 pontos e Nasdaq recua 2,3%",
       "summary": "No fechamento de 19 de novembro, as bolsas americanas sofreram queda generalizada: Dow Jones -2,2% (1.101 pontos), S&P 500 -2,0% e Nasdaq -2,3%. O S&P 500 acumulou seis sessões consecutivas de perdas. A estreia recorde da Anthropic na Nasdaq não impediu a venda de ações, em meio a preocupações com avaliações de empresas de IA e juros elevados.",
