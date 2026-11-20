@@ -84,9 +84,25 @@
     "summary_pt": "Este blog ao vivo está encerrado agora. O Departamento de Justiça de Trump toma medidas para desistir da contestação judicial contra a vitória de Mary Peltola no Senado do Alasca. Cadastre-se para receber o e-mail de Últimas Notícias dos EUA. A Agência de Segurança Nacional está enfrentando o terceiro dia de interrupções em sua rede interna, a NSA Net, que permite que os funcionários compartilhem informações altamente confidenciais entre si, de acordo com o New York Times. O Ti"
   },
   {
+    "title": "Terremoto de magnitude 4.8 — 24 km ESE of Calingasta, Argentina",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "24 km ESE of Calingasta, Argentina",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s",
+    "date": "2026-11-20T02:57:18.070000Z",
+    "lat": -31.4302,
+    "lon": -69.1883,
+    "depth_km": 113.86,
+    "forcedSev": "low",
+    "title_pt": "Terremoto de magnitude 4.8 — 24 km ESE of Calingasta, Argentina",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
+  },
+  {
     "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
     "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -250,6 +266,20 @@
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-uk-abuse-guilty-lbwt/19int-uk-abuse-guilty-lbwt-mediumSquareAt3X.jpg",
     "title_pt": "4 homens britânicos condenados por agredir sexualmente Joanne Young",
     "summary_pt": "Um júri rejeitou a defesa dos homens de que se baseavam nas garantias do marido de Joanne Young – que se declarou culpado de violação – de que ela tinha consentido."
+  },
+  {
+    "title": "Oil prices edge higher as Houthi attacks on Riyadh raise supply concerns",
+    "summary": "Oil prices edge higher as Houthi attacks on Riyadh raise supply concerns Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3pQREZDSHE2RmNHdDdGdExDUXhYeWljc2VualVoQ09oQV90WnFQQlZkYW1rWnl5ODJ6N2haaVBDVUY4VmFvRmtLSlZKbU5kR1lHNklrUUR3X3JGc181OHZCUHpXalZFUllBZXVEczJPUUdZZUt1MmpsTEN0MkJGSDNCVHhoa25pZFBSb1lldS1US0VJNVNBWWN1U2VwQmd0WmlQR1RKWmgyS2lyUDVfNHdWeWhzaFhmZ1E?oc=5",
+    "date": "2026-11-20T02:00:00Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "Preços do petróleo sobem à medida que ataques dos houthis a Riade aumentam as preocupações com a oferta Reuters",
+    "title_pt": "Os preços do petróleo sobem ligeiramente à medida que os ataques dos houthis a Riade aumentam as preocupações com a oferta"
   },
   {
     "title": "Vasco quebra dois tabus inusitados em vitória sobre o Internacional",
@@ -4868,20 +4898,6 @@
     "summary_pt": "A Comissão Europeia foi alvo de uma \"cibercampanha gerada por IA\", disse um porta-voz. Esta é a primeira vez que o bloco relata publicamente um ciberataque baseado em IA."
   },
   {
-    "title": "Soccer - Baller League to launch new global tournament in 2027",
-    "summary": "Soccer - Baller League to launch new global tournament in 2027 Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUkVLQWhOQnMtenR0Yi1yc0UtNnJpNXppYVFFQ2phcTRBSEI2U01FcS15ZjBEZlo2TGRqcC1tMGtxd3NBQ3FCRDNpb1dEM2hqcGFaNmltZkt6aG0xZk1Lam5NbHMxbmRKcWdncUxKbkVzUElNQWx5WW1WSUFVVXA2Mm55MzBuMUlGX0RpZ3ZFRDBkOVljOEdfT205T0t0dGN2MWNiT01zMA?oc=5",
-    "date": "2026-11-19T14:39:43Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Futebol - Baller League lançará novo torneio global em 2027",
-    "summary_pt": "Futebol - Baller League lançará novo torneio global em 2027 Reuters"
-  },
-  {
     "title": "Putin, Trump and Xi Condemn Nuclear War as Europe Watches Closely",
     "summary": "After their summit, the leaders of Russia, the United States and China agreed that “a nuclear war cannot be won and must never be fought.” Some analysts are skeptical that real change will result.",
     "category": "Conflitos",
@@ -6931,7 +6947,7 @@
   {
     "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6996,19 +7012,5 @@
     "lang": "en",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-india-zmwc/18trump-summits-india-zmwc-mediumSquareAt3X.jpg",
     "title_pt": "A Índia não está presente em Shenzhen, mas está acompanhando de perto."
-  },
-  {
-    "title": "Amid China's high-tech future, its population is crashing",
-    "summary": "Friendly neighborhood humanoids are spreading throughout China, but its youngest citizens are feeling skeptical. Tony Dokoupil has more.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/video/amid-chinas-high-tech-future-its-population-is-crashing/",
-    "date": "2026-11-19T01:35:24Z",
-    "lang": "en",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/19/337fd252-e55d-412b-9156-0e8c6e559fe5/thumbnail/1200x630/191288d37496ebd12c6438abd49ba7a3/cbsn-fusion-amid-chinas-high-tech-future-its-population-is-crashing-thumbnail.jpg",
-    "title_pt": "Em meio ao futuro de alta tecnologia da China, sua população está em declínio",
-    "summary_pt": "Humanoides simpáticos de bairro estão se espalhando por toda a China, mas seus cidadãos mais jovens estão céticos. Tony Dokoupil tem mais informações."
   }
 ]
