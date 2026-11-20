@@ -1,8 +1,8 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T17:43:50.920855Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T17:49:07.982341Z",
+  "status": "checado",
   "items": [
     {
       "title": "Trump, Xi e Putin reafirmam lema histórico contra guerra nuclear",
@@ -41,6 +41,19 @@
       "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
       "published_on": "20/11/2026 11:14 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f6/live/3145d4a0-e4f0-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Na COP31, o conflito sobre a ciência climática retarda a ação sobre o aquecimento global",
+      "summary": "Os ataques à ciência climática e à desinformação correm o risco de atrasar medidas importantes na COP31 em Antalya. À medida que as negociações climáticas da ONU se aproximam do fim, como é que isso afectará os esforços para chegar a um acordo?",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "DE",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/at-cop31-conflict-over-climate-science-slows-action-on-global-warming/a-80004894?maca=en-rss-en-all-1573-rdf",
+      "published_on": "20/11/2026 13:46 (Boa Vista)",
+      "image": "https://static.dw.com/image/80005230_6.jpg",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://www.euronews.com/2026/11/20/iran-readies-tanker-convoy-at-kharg-island-to-test-us-oil-blockade",
       "published_on": "20/11/2026 06:06 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/12/73/696x392_cmsv2_70290719-679c-58bb-bc5e-6fd76b1067e8-10001273.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Terremoto de magnitude 5,1 atinge condado na Califórnia, diz agência",
-      "summary": "O tremor ocorreu a uma profundidade de 6,7 km, segundo o USGS.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-51-atinge-condado-na-california-diz-agencia/",
-      "published_on": "20/11/2026 10:39 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Terremoto-de-magnitude-59-atingiu-a-costa-do-Peru.png?w=200",
       "selection": "automatic"
     }
   ]
