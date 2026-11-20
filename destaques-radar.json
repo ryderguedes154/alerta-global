@@ -1,22 +1,9 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T14:14:45.496826Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T14:19:57.058041Z",
+  "status": "checado",
   "items": [
-    {
-      "title": "Putin, Trump e Xi condenam a guerra nuclear enquanto a Europa observa de perto",
-      "summary": "Após a cimeira, os líderes da Rússia, dos Estados Unidos e da China concordaram que “uma guerra nuclear não pode ser vencida e nunca deve ser travada”. Alguns analistas estão céticos de que isso resultará em mudanças reais.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
-      "published_on": "19/11/2026 10:23 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nukes-europe-1-zwgv/19trump-summits-nukes-europe-1-zwgv-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
     {
       "title": "Míssil russo atinge a Polônia enquanto aliados da Ucrânia realizam exercício militar, diz Tusk",
       "summary": "O primeiro-ministro Donald Tusk disse que não parecia ter sido um acidente quando os exercícios militares ocidentais estavam ocorrendo na região.",
@@ -27,7 +14,7 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
       "published_on": "20/11/2026 09:52 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9c/live/c3767190-e4e1-11f1-a094-5fdc692f3e33.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
       "selection": "automatic"
     },
     {
@@ -41,6 +28,19 @@
       "url": "https://apnews.com/article/ukraine-russia-war-kyiv-attacks-putin-crimea-433e18f00cbd37a2a9da94e60fce0e07?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
       "published_on": "20/11/2026 07:54 (Boa Vista)",
       "image": "https://ic-cdn.flipboard.com/apnews.com/044bd10cb72ba87b28cc72e6747b13fe17b5c706/_large.jpeg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Tropas europeias de 11 países realizam um exercício na Polônia para uma possível missão na Ucrânia pós-guerra",
+      "summary": "NOWA DEBA, Polônia (AP) — Milhares de soldados europeus estão participando de um exercício militar sem precedentes no sudeste da Polônia para se prepararem para uma possível missão pós-guerra na Ucrânia, com o objetivo de ajudar a estabilizar o país e reconstruir suas Forças Armadas quando a guerra terminar. Liderados pela França e pelos Estados Unidos...",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/poland-ukraine-military-exercise-peace-france-britain-a28d60d1b37093199dd017472028d7ac?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+      "published_on": "20/11/2026 06:56 (Boa Vista)",
+      "image": "https://ic-cdn.flipboard.com/apnews.com/9b018c68960397ccd729261f05636fdeb21c651d/_xlarge.jpeg",
       "selection": "automatic"
     },
     {
