@@ -1,20 +1,20 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T18:56:32.439566Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T19:01:52.000878Z",
+  "status": "checado",
   "items": [
     {
-      "title": "Trump, Xi e Putin reafirmam lema histórico contra guerra nuclear",
-      "summary": "Declaração conjunta de cúpula tripartite retoma princípio da Guerra Fria sem garantir avanços imediatos no controle de armas",
+      "title": "Putin, Trump e Xi condenam a guerra nuclear enquanto a Europa observa de perto",
+      "summary": "Após a cimeira, os líderes da Rússia, dos Estados Unidos e da China concordaram que “uma guerra nuclear não pode ser vencida e nunca deve ser travada”. Alguns analistas estão céticos de que isso resultará em mudanças reais.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-xi-e-putin-reafirmam-lema-historico-contra-guerra-nuclear/",
-      "published_on": "20/11/2026 10:36 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/O-chanceler-alemao-Friedrich-Merz-o-presidente-ucraniano-Volodymyr-Zelenskiy-o-presidente-frances-Emmanuel-Macron-o-primeiro-ministro-britanico-Andy-Burnham-os-enviados-dos-EUA-Jared-Kushner-e-Steve-Witkof.jpg?w=200",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
+      "published_on": "19/11/2026 10:23 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nukes-europe-1-zwgv/19trump-summits-nukes-europe-1-zwgv-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
