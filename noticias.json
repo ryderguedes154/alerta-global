@@ -1,5 +1,43 @@
 [
   {
+    "title": "Does our ethnicity change how we experience death?",
+    "summary": "Death is the one certainty we all share - but could our ethnicity change how we go through it?",
+    "category": "Saúde",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cv7028g0j3yxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-20T01:29:43Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/eeca2fc0-e2b2-11f1-8226-87dfa5049e9a.jpg"
+  },
+  {
+    "title": "White House fires national cyber director over widespread outages",
+    "summary": "The White House fired national cyber director Sean Cairncross on Thursday following a week of technology disruptions affecting US air travel, email services and national security systems. The departure comes as the Trump administration faces criticism over its response to the outages, which officials say were unrelated incidents.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "FR",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages",
+    "date": "2026-11-20T01:28:47Z",
+    "lang": "en",
+    "image": "https://s.france24.com/media/display/e56edbae-d878-11f1-8aa8-bf1914cabd52/w:1024/p:16x9/AP26294693498447.jpg"
+  },
+  {
+    "title": "New Ukraine talks including Europe to be held 'soon' — Merz",
+    "summary": "Germany's Chancellor Friedrich Merz says European leaders could take part in fresh Ukraine talks on \"neutral ground.\" The UK and EU countries have urged a seat at the table in meetings between the US, Russia and Ukraine.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "DE",
+    "source": "Deutsche Welle",
+    "url": "https://www.dw.com/en/new-ukraine-talks-including-europe-to-be-held-soon-merz/a-79997961?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-11-20T01:27:00Z",
+    "lang": "en",
+    "image": "https://static.dw.com/image/79997050_6.jpg",
+    "title_pt": "Novas negociações sobre a Ucrânia, incluindo a Europa, serão realizadas \"em breve\" — Merz",
+    "summary_pt": "O chanceler alemão, Friedrich Merz, afirma que os líderes europeus poderiam participar de novas negociações sobre a Ucrânia em \"terreno neutro\". O Reino Unido e os países da UE pediram um lugar à mesa nas reuniões entre os Estados Unidos, a Rússia e a Ucrânia."
+  },
+  {
     "title": "California’s top lawyer subpoenas Nvidia over Jensen Huang’s affair with suspected Chinese spy – live",
     "summary": "State’s attorney general Rob Bonta says ‘conduct of Nvidia and its former CEO raises bright red flags’ as he opens investigation Sign up for the Breaking News US email The National Security Agency is seeing a third day of disruptions to its internal network, NSA Net, which allows staff to share highly classified information with each other , according to the",
     "category": "Geral",
@@ -203,9 +241,9 @@
     "country": "GLOBAL",
     "source": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc4v",
-    "date": "2026-11-20T00:49:13.772000Z",
-    "lat": -24.7018,
-    "lon": 171.1601,
+    "date": "2026-11-20T00:49:14.102000Z",
+    "lat": -24.6996,
+    "lon": 171.2326,
     "depth_km": 10.0,
     "forcedSev": "med",
     "title_pt": "Terremoto de magnitude 5.6 — southeast of the Loyalty Islands",
@@ -1100,20 +1138,6 @@
     "summary_pt": "Um porta-voz havia anunciado anteriormente que o astro havia falecido após uma \"breve e comovente jornada contra a doença de Alzheimer e a demência com corpos de Lewy\""
   },
   {
-    "title": "New Ukraine talks including Europe to be held 'soon' — Merz",
-    "summary": "Germany's Chancellor Friedrich Merz says European leaders could take part in fresh Ukraine talks on \"neutral ground.\" The UK and EU countries have urged a seat at the table in meetings between the US, Russia and Ukraine.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "DE",
-    "source": "Deutsche Welle",
-    "url": "https://www.dw.com/en/new-ukraine-talks-including-europe-to-be-held-soon-merz/a-79997961?maca=en-rss-en-all-1573-rdf",
-    "date": "2026-11-19T23:19:00Z",
-    "lang": "en",
-    "image": "https://static.dw.com/image/79997050_6.jpg",
-    "title_pt": "Novas negociações sobre a Ucrânia, incluindo a Europa, serão realizadas \"em breve\" — Merz",
-    "summary_pt": "O chanceler alemão, Friedrich Merz, afirma que os líderes europeus poderiam participar de novas negociações sobre a Ucrânia em \"terreno neutro\". O Reino Unido e os países da UE pediram um lugar à mesa nas reuniões entre os Estados Unidos, a Rússia e a Ucrânia."
-  },
-  {
     "title": "Florida to carry out record-breaking 20th execution of the year",
     "summary": "State to execute man convicted of two counts of first-degree murder while Texas also plans to put a man to death Florida is set Thursday to carry out a record-breaking 20th execution of the year on a man convicted of killing a pregnant woman and her husband during a home invasion, while Texas plans to put a man to death for the killing of a Houston jeweler d",
     "category": "Geral",
@@ -1214,7 +1238,7 @@
   {
     "title": "California targets Nvidia in China AI chip probe",
     "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4375,20 +4399,6 @@
     "image": ""
   },
   {
-    "title": "Gender pay gap: French women work \"for free” from today",
-    "summary": "Women in Europe are still paid less than men, with the gap falling from 15.1% in 2016 to 11.1% in 2024, according to Eurostat. In France, women symbolically start working for free from 10:51 am on Thursday, 19 November, and at the current pace equality would not be reached until 2062. Experts warn that AI could make things worse by eliminating administrative",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/gender-pay-gap-french-women-work-for-free-from-today",
-    "date": "2026-11-19T15:24:32Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/c258a9ba-e42b-11f1-a355-1bac47ab2f5d/w:1024/p:16x9/EN-20261119-153611-153735-CS.jpg",
-    "title_pt": "Diferença salarial entre gêneros: as mulheres francesas trabalham \"de graça\" a partir de hoje",
-    "summary_pt": "As mulheres na Europa ainda recebem menos do que os homens, com a diferença caindo de 15,1% em 2016 para 11,1% em 2024, de acordo com o Eurostat. Na França, as mulheres começam simbolicamente a trabalhar de graça a partir das 10h51 de quinta-feira, 19 de novembro, e, no ritmo atual, a igualdade não seria alcançada até 2062. Especialistas alertam que a IA pode piorar as coisas ao eliminar tarefas administrativas."
-  },
-  {
     "title": "Volkswagen seeks pay freeze, flexible hours in showdown with union",
     "summary": "Volkswagen seeks pay freeze, flexible hours in showdown with union Reuters",
     "category": "Geral",
@@ -5351,7 +5361,7 @@
   {
     "title": "Indian driver wins $1.3m in life-changing lottery prize",
     "summary": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6577,7 +6587,7 @@
   {
     "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6704,22 +6714,6 @@
     "summary_pt": "A ex-namorada de Kurt Van Dyke, que vem de uma lendária família de surfistas, foi presa, junto com outro homem, sob suspeita de assassinato."
   },
   {
-    "title": "Terremoto de magnitude 4.8 — 40 km NNE of Kilimatinde, Tanzania",
-    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
-    "category": "Clima e desastres",
-    "region": "40 km NNE of Kilimatinde, Tanzania",
-    "country": "GLOBAL",
-    "source": "USGS",
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxa",
-    "date": "2026-11-19T01:29:33.145000Z",
-    "lat": -5.5109,
-    "lon": 35.0903,
-    "depth_km": 10.0,
-    "forcedSev": "low",
-    "title_pt": "Terremoto de magnitude 4.8 — 40 km NNE of Kilimatinde, Tanzania",
-    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
-  },
-  {
     "title": "Who are the investors ready to jump on Anthropic?",
     "summary": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.",
     "category": "Economia",
@@ -6748,20 +6742,6 @@
     "summary_pt": "Uma reunião de Churchill, Estaline e Franklin Roosevelt em 1945 definiu o rumo da Europa durante décadas. Aqui está o que aconteceu."
   },
   {
-    "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-    "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-19T00:49:19Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a424/live/fe3f6bb0-e428-11f1-99b6-a35a62fa4264.jpg",
-    "title_pt": "Pintura de Van Gogh é vendida por valor recorde de US$ 190,4 milhões após controvérsia sobre sua história nazista",
-    "summary_pt": "\"Châtaigniers en fleurs\" foi pintado em 1890, nos dois últimos meses da vida de Vincent van Gogh."
-  },
-  {
     "title": "Trump diz que discutiu IA com Xi Jinping e que mencionou apenas 'brevemente' situação do ex-CEO da Nvidia",
     "summary": "Donald Trump e Xi Jinping se abraçam na chegada do presidente americano para a cúpula da APEC REUTERS/Carlos Barria O presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (18) que conversou com o presidente chinês, Xi Jinping, sobre inteligência artificial, mas que o ex-CEO da Nvidia, Jensen Huang, foi mencionado apenas \"brevemente\" durant",
     "category": "Geral",
@@ -6774,5 +6754,17 @@
     "image": "https://s2-g1.glbimg.com/9H7RFCdRmC2MglCVzzqTyAGIAIk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/L/6jYQxiRZK7HTyor8v0kg/2026-11-18t090745z-1186125737-rc29qoadt42e-rtrmadp-3-apec-summit-trump-arrival.jpg",
     "title_pt": "Trump diz que discutiu IA com Xi Jinping e que mencionou apenas 'brevemente' situação do ex-CEO da Nvidia",
     "summary_pt": "Donald Trump e Xi Jinping se abraçam na chegada do presidente americano para a cúpula da APEC REUTERS/Carlos Barria O presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (18) que conversou com o presidente chinês, Xi Jinping, sobre inteligência artificial, mas que o ex-CEO da Nvidia, Jensen Huang, foi mencionado apenas \"brevemente\" durant"
+  },
+  {
+    "title": "Florida pastor convicted in plot to kill Haitian president",
+    "summary": "A Florida pastor with dual Haitian-American citizenship has been convicted of U.S. charges related to the 2021 assassination of Haitian President Jovenel Moïse.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/news/haitian-president-jovenel-moise-assassination-conviction/",
+    "date": "2026-11-18T23:52:36Z",
+    "lang": "en",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2021/07/07/82bf23c6-cf97-4e98-9904-f15ecb4d668c/thumbnail/1200x630/073542e81649a48f74b0d9a4fe18f9d7/Haitian-president.jpg"
   }
 ]
