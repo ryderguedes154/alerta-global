@@ -1,8 +1,8 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T14:35:58.172876Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T14:41:09.831492Z",
+  "status": "checado",
   "items": [
     {
       "title": "Míssil russo atinge a Polônia enquanto aliados da Ucrânia realizam exercício militar, diz Tusk",
@@ -18,19 +18,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Varsóvia afirma que a queda de um míssil russo na Polônia é uma provocação, enquanto os aliados da Ucrânia realizam exercícios militares",
-      "summary": "QUIEV, Ucrânia (AP) — Um míssil russo caiu na Polônia na sexta-feira no que o primeiro-ministro polonês, Donald Tusk, disse ser provavelmente uma provocação deliberada que coincidiu com exercícios militares europeus no país, como parte dos preparativos para uma possível missão pós-guerra na Ucrânia. O incidente provocou...",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/ukraine-russia-war-kyiv-attacks-putin-crimea-433e18f00cbd37a2a9da94e60fce0e07?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-      "published_on": "20/11/2026 07:54 (Boa Vista)",
-      "image": "https://ic-cdn.flipboard.com/apnews.com/044bd10cb72ba87b28cc72e6747b13fe17b5c706/_large.jpeg",
-      "selection": "automatic"
-    },
-    {
       "title": "Tropas europeias de 11 países realizam um exercício na Polônia para uma possível missão na Ucrânia pós-guerra",
       "summary": "NOWA DEBA, Polônia (AP) — Milhares de soldados europeus estão participando de um exercício militar sem precedentes no sudeste da Polônia para se prepararem para uma possível missão pós-guerra na Ucrânia, com o objetivo de ajudar a estabilizar o país e reconstruir suas Forças Armadas quando a guerra terminar. Liderados pela França e pelos Estados Unidos...",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,6 +28,19 @@
       "url": "https://apnews.com/article/poland-ukraine-military-exercise-peace-france-britain-a28d60d1b37093199dd017472028d7ac?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
       "published_on": "20/11/2026 06:56 (Boa Vista)",
       "image": "https://ic-cdn.flipboard.com/apnews.com/9b018c68960397ccd729261f05636fdeb21c651d/_xlarge.jpeg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Grupos de direitos humanos pedem sanções após o principal tribunal da ONU concluir que Mianmar cometeu genocídio contra os rohingyas",
+      "summary": "NAÇÕES UNIDAS (AP) — Grupos de direitos humanos estão pedindo sanções militares e econômicas contra Mianmar depois que o mais alto tribunal das Nações Unidas, na primeira decisão desse tipo, determinou que o governo do país cometeu genocídio contra a minoria rohingya em uma operação militar brutal em 2017. O...",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/un-international-court-myanmar-genocide-rohingya-reparations-d32c2f2a58942b9a3edb81866a850e65?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+      "published_on": "20/11/2026 06:32 (Boa Vista)",
+      "image": "https://ic-cdn.flipboard.com/apnews.com/d3a0860f810186baec69ff4ebdfa19d46cd49faa/_large.webp",
       "selection": "automatic"
     },
     {
