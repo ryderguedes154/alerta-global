@@ -2,9 +2,24 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-20T12:49:59.261Z",
+  "updated_at": "2026-11-20T14:22:13.531Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "ONU reduz meta de ajuda alimentar e alerta para risco de nova crise global em 2027",
+      "summary": "O Programa Mundial de Alimentos anunciou em 20 de novembro plano de US$ 12,1 bilhões para atender 91 milhões de pessoas em 2027, diante de 266 milhões que enfrentavam fome aguda em 2025. A falta de financiamento, guerras e extremos climáticos elevam o risco de agravamento da insegurança alimentar.",
+      "impact_br": "Não há impacto direto imediato confirmado no Brasil; uma eventual crise alimentar internacional pode pressionar preços de alimentos, insumos e fretes.",
+      "category": "crise_humanitaria",
+      "region": "Global",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/un-cuts-food-aid-target-despite-looming-hunger-crisis-2026-11-20/",
+      "published_on": "2026-11-20",
+      "published_at": "2026-11-20T07:26:00-04:00",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-20T14:22:13.531Z"
+    },
     {
       "title": "Ataque russo em larga escala atinge infraestrutura energética da Ucrânia",
       "summary": "Rússia lançou mais de 400 drones e mais de 110 mísseis contra a Ucrânia em 20 de novembro. Autoridades ucranianas relatam ao menos oito mortos, danos a pontes, instalações de energia e interrupções elétricas; usinas nucleares reduziram a geração devido à instabilidade da rede. Reuters e AP confirmam a ofensiva, enquanto números de armas e vítimas são atribuídos às autoridades.",
