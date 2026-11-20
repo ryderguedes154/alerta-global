@@ -1,5 +1,17 @@
 [
   {
+    "title": "Should AI be judging our credit worthiness?",
+    "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+    "category": "Tecnologia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-20T07:32:19Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
     "title": "Tinned goods and UHT milk boost retail sales after 'Be Ready' campaign launch",
     "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
     "category": "Economia",
@@ -7,11 +19,37 @@
     "country": "GB",
     "source": "BBC News",
     "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-20T07:26:25Z",
+    "date": "2026-11-20T07:30:13Z",
     "lang": "en",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f3/live/5b4f20a0-e4b2-11f1-a1dc-9f4190df3aa7.jpg",
     "title_pt": "Produtos enlatados e leite UHT impulsionam as vendas no varejo após o lançamento da campanha \"Be Ready\"",
     "summary_pt": "As pessoas que estocaram alimentos de longa duração impulsionaram as vendas no varejo em outubro, de acordo com dados oficiais."
+  },
+  {
+    "title": "El sindicato de maquinistas Semaf desconvoca la huelga del 23 de noviembre tras llegar a un acuerdo con Transportes y Renfe en materia de seguridad ferroviaria",
+    "summary": "La organización de maquinistas se suma a UGT, CC OO y SCF y firma la paz con el Gobierno para poner fin al conflicto laboral",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/economia/2026-11-20/el-sindicato-de-maquinistas-semaf-desconvoca-la-huelga-del-23-de-noviembre-tras-alcanzar-acuerdos-en-materia-de-seguridad-ferroviaria.html",
+    "date": "2026-11-20T07:28:37Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/SLONDDIJ7BIOPGWTOVUASP4AA4.jpg?auth=0ae5506eeae7f32ebea80f3606c99d00e5d601ad789757f6e7e42ead7b54a385",
+    "title_pt": "O sindicato de maquinistas Semaf cancela a greve de 23 de novembro após chegar a um acordo com a Transportes e a Renfe sobre segurança ferroviária",
+    "summary_pt": "A organização dos maquinistas se junta à UGT, à CC OO e à SCF e assina um acordo com o governo para encerrar o conflito trabalhista"
+  },
+  {
+    "title": "Vape users hospitalised after losing consciousness, prompting public health warning in New South Wales",
+    "summary": "NSW health issues public warning about vape liquids containing etomidate, a strong and fast-acting sedative used as a general anaesthetic overseas Three people who lost consciousness and were hospitalised in New South Wales after using certain vapes have tested positive for the unregulated anaesthetic agent etomidate, health officials have said. NSW health o",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales",
+    "date": "2026-11-20T07:17:01Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/a8c083df952ff966868d4c06e9dd4da0fa335d1a/481_0_3661_2929/master/3661.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df808602ad58b9028520292ff436692f"
   },
   {
     "title": "UK and EU to agree youth mobility scheme, BBC understands",
@@ -52,8 +90,8 @@
     "date": "2026-11-20T07:11:13Z",
     "lang": "en",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ad/live/c4c548e0-e456-11f1-a094-5fdc692f3e33.jpg",
-    "summary_pt": "A cirurgia geral de emergência foi temporariamente suspensa no SWAH em dezembro de 2022.",
-    "title_pt": "\"Melhores resultados para os pacientes\" desde a suspensão da cirurgia no SWAH, afirma o diretor de saúde"
+    "title_pt": "\"Melhores resultados para os pacientes\" desde a suspensão da cirurgia no SWAH, afirma o diretor de saúde",
+    "summary_pt": "A cirurgia geral de emergência foi temporariamente suspensa no SWAH em dezembro de 2022."
   },
   {
     "title": "Consciência Negra: Congresso tem ao menos 57 propostas de inclusão",
@@ -124,20 +162,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/OHU5GA4SQFAS5MI47SXCQ6Z6FA.jpg?auth=f530a53f9eb19baf8044f3055d5d2c4f1e7d3f1ceb223564d35308047bd0361e",
     "title_pt": "A Prefeitura de Madri dispensará os seguranças nos novos centros para vítimas de violência de gênero",
     "summary_pt": "O governo de Almeida (PP) elimina o serviço nos espaços, apesar de, até agora, ele ter sido exigido como requisito nos contratos. A prefeitura afirma que nunca houve incidentes e que alguns recursos já operavam sem vigilância."
-  },
-  {
-    "title": "El sindicato de maquinistas Semaf desconvoca la huelga del 23 de noviembre tras llegar a un acuerdo con Transportes y Renfe en materia de seguridad ferroviaria",
-    "summary": "La organización de maquinistas se suma a UGT, CC OO y SCF y firma la paz con el Gobierno para poner fin al conflicto laboral",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/economia/2026-11-20/el-sindicato-de-maquinistas-semaf-desconvoca-la-huelga-del-23-de-noviembre-tras-alcanzar-acuerdos-en-materia-de-seguridad-ferroviaria.html",
-    "date": "2026-11-20T07:02:21Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/SLONDDIJ7BIOPGWTOVUASP4AA4.jpg?auth=0ae5506eeae7f32ebea80f3606c99d00e5d601ad789757f6e7e42ead7b54a385",
-    "title_pt": "O sindicato de maquinistas Semaf cancela a greve de 23 de novembro após chegar a um acordo com a Transportes e a Renfe sobre segurança ferroviária",
-    "summary_pt": "A organização dos maquinistas se junta à UGT, à CC OO e à SCF e assina um acordo com o governo para encerrar o conflito trabalhista"
   },
   {
     "title": "Trump derrotado: como a 'onda azul' chegou a redutos republicanos e mudou o mapa político dos EUA",
@@ -1246,8 +1270,8 @@
     "date": "2026-11-20T04:30:01Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/TRSOP4BXBJD45BOCKRW57Y5N6Q.jpg?auth=4019f4b92db6b3fa69af1cf15da461b13fff762f1e65db5a59b22b20da35ac67",
-    "summary_pt": "Mais de um milhão de pessoas do grupo étnico de maioria muçulmana de Mianmar estão refugiadas em Bangladesh há quase uma década, sem esperança de poder voltar ao seu país ou construir uma nova vida.",
-    "title_pt": "O infortúnio sem fim dos rohingyas, perseguidos em seu país e esquecidos no exílio"
+    "title_pt": "O infortúnio sem fim dos rohingyas, perseguidos em seu país e esquecidos no exílio",
+    "summary_pt": "Mais de um milhão de pessoas do grupo étnico de maioria muçulmana de Mianmar estão refugiadas em Bangladesh há quase uma década, sem esperança de poder voltar ao seu país ou construir uma nova vida."
   },
   {
     "title": "Lucia Caminos: hay por fin una chica en ‘GTA’ que no está nada mal",
@@ -1556,20 +1580,6 @@
     "image": "https://static.dw.com/image/79998547_6.jpg",
     "title_pt": "Casa Branca substitui chefe de cibersegurança após interrupções tecnológicas",
     "summary_pt": "Sean Cairncross está deixando seu cargo de diretor nacional de cibersegurança após uma semana caótica de interrupções tecnológicas. Kirsten Davies, diretora de informações do Pentágono, assumirá o cargo interinamente."
-  },
-  {
-    "title": "‘Perfect weapon’: diabetic woman found guilty of murdering her 94-year-old parents with insulin",
-    "summary": "Jury convicts Raelene Polymiadis after four-month trial in South Australian supreme court Get our breaking news email , free app or daily news podcast A jury has convicted a diabetic woman of murdering both her elderly parents with insulin after a marathon criminal trial. Raelene Polymiadis, 66, will face two mandatory life sentences after jurors on Friday d",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/20/diabetic-woman-found-guilty-murdering-94-year-old-parents-with-insulin-ntwnfb",
-    "date": "2026-11-20T04:15:16Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/526c54d5025c65a86473a42bf78176c1075209bc/0_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d988f2af1e431456892c928e318e29b1",
-    "title_pt": "\"Arma perfeita\": mulher diabética é considerada culpada pelo assassinato de seus pais de 94 anos com insulina",
-    "summary_pt": "Júri condena Raelene Polymiadis após julgamento de quatro meses no Supremo Tribunal da Austrália do Sul Receba nosso e-mail de notícias de última hora, nosso aplicativo gratuito ou nosso podcast diário de notícias Um júri condenou uma mulher diabética pelo assassinato de seus pais idosos com insulina após um longo julgamento criminal. Raelene Polymiadis, de 66 anos, enfrentará duas penas obrigatórias de prisão perpétua depois que os jurados, na sexta-feira,"
   },
   {
     "title": "Au Brésil, l’apparition d’une ethnie autochtone non contactée suscite l’inquiétude pour sa survie",
@@ -1948,8 +1958,8 @@
     "date": "2026-11-20T02:34:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Ações indianas fazem pausa perto das máximas de nove meses; a queda do mercado asiático se aprofunda Reuters",
-    "title_pt": "Ações indianas fazem pausa perto das máximas de nove meses; queda no mercado asiático se intensifica"
+    "title_pt": "Ações indianas fazem pausa perto das máximas de nove meses; queda no mercado asiático se intensifica",
+    "summary_pt": "Ações indianas fazem pausa perto das máximas de nove meses; a queda do mercado asiático se aprofunda Reuters"
   },
   {
     "title": "US army postpones plan to detonate bomb-making chemical amid outcry",
@@ -2074,8 +2084,8 @@
     "date": "2026-11-20T02:00:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Preços do petróleo sobem à medida que ataques dos houthis a Riade aumentam as preocupações com a oferta Reuters",
-    "title_pt": "Preços do petróleo sobem à medida que ataques dos houthis a Riade aumentam as preocupações com a oferta"
+    "title_pt": "Preços do petróleo sobem à medida que ataques dos houthis a Riade aumentam as preocupações com a oferta",
+    "summary_pt": "Preços do petróleo sobem à medida que ataques dos houthis a Riade aumentam as preocupações com a oferta Reuters"
   },
   {
     "title": "Vasco quebra dois tabus inusitados em vitória sobre o Internacional",
@@ -3576,20 +3586,6 @@
     "summary_pt": "Um juiz na Flórida afirma que um especialista determinou que o pai afastado de 82 anos da Duquesa de Sussex está mentalmente apto para enfrentar acusações. Um especialista determinou que Thomas Markle, o pai afastado de 82 anos da Duquesa de Sussex, está mentalmente apto para enfrentar acusações de manter material de abuso sexual infantil armazenado na Califórnia, disse um juiz."
   },
   {
-    "title": "11/19: The Takeout with Major Garrett",
-    "summary": "Trump meets with Putin and Xi in historic summit; Anthropic goes public with record IPO.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/video/111926-the-takeout-with-major-garrett/",
-    "date": "2026-11-19T22:00:00Z",
-    "lang": "en",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/20/ad41473d-f2ac-4c55-84b2-5cf3d135488d/thumbnail/1200x630/6f4e6bda674d5014111352ec01576960/trumpsummit4.jpg",
-    "title_pt": "19/11: The Takeout com Major Garrett",
-    "summary_pt": "Trump se reúne com Putin e Xi em cúpula histórica; Anthropic abre o capital com IPO recorde."
-  },
-  {
     "title": "Saudi's tallest skyscraper damaged in Houthi attack",
     "summary": "Saudi Arabia's tallest skyscraper, the headquarters of the Saudi sovereign wealth fund, was struck in ​a Houthi attack in the latest in a series of strikes on the Gulf state, Riyadh said.",
     "category": "Geral",
@@ -3602,6 +3598,20 @@
     "image": "https://e3.365dm.com/26/11/1920x1080/skynews-houthi-attack-riyadh_7410746.jpg?20261119211843",
     "title_pt": "O arranha-céu mais alto da Arábia Saudita foi danificado em um ataque dos houthis",
     "summary_pt": "O arranha-céu mais alto da Arábia Saudita, sede do fundo soberano saudita, foi atingido em um ataque dos houthis, o mais recente de uma série de ataques ao país do Golfo, segundo Riade."
+  },
+  {
+    "title": "11/19: The Takeout with Major Garrett",
+    "summary": "Trump meets with Putin and Xi in historic summit; Anthropic goes public with record IPO.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/video/111926-the-takeout-with-major-garrett/",
+    "date": "2026-11-19T22:00:00Z",
+    "lang": "en",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/20/ad41473d-f2ac-4c55-84b2-5cf3d135488d/thumbnail/1200x630/6f4e6bda674d5014111352ec01576960/trumpsummit4.jpg",
+    "title_pt": "19/11: The Takeout com Major Garrett",
+    "summary_pt": "Trump se reúne com Putin e Xi em cúpula histórica; Anthropic abre o capital com IPO recorde."
   },
   {
     "title": "England handed suspended away ticket ban for fans' chants during Spain win",
@@ -6136,20 +6146,6 @@
     "image": "https://static.dw.com/image/79988751_6.jpg",
     "title_pt": "Mianmar cometeu genocídio contra Rohingya, decide tribunal da ONU",
     "summary_pt": "O Tribunal Internacional de Justiça confirmou grande parte de um caso de genocídio contra Mianmar ligado ao conflito de 2017 com a sua minoria Rohingya. Apelou a que pagasse reparações e permitisse que os refugiados regressassem em segurança."
-  },
-  {
-    "title": "Indian driver wins $1.3m in life-changing lottery prize",
-    "summary": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-19T11:38:09Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31eb/live/93fec7f0-e40a-11f1-99a1-253766e7ad8b.jpg",
-    "title_pt": "Motorista indiano ganha US$ 1,3 milhão em prêmio de loteria que muda sua vida",
-    "summary_pt": "A sorte de um caminhoneiro mudou da noite para o dia depois que ele ganhou uma loteria de Diwali no estado indiano setentrional de Punjab."
   },
   {
     "title": "After A.I. Cheating Scandal, South Korea Adopts New Restrictions for Grueling College Entrance Exam",
