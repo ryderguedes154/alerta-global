@@ -1,8 +1,8 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T18:40:42.591174Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T18:46:08.733871Z",
+  "status": "checado",
   "items": [
     {
       "title": "Trump, Xi e Putin reafirmam lema histórico contra guerra nuclear",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "A Califórnia investiga a Nvidia para saber se as exportações de chips acabaram na China",
-      "summary": "O procurador-geral do Estado afirma que o escândalo \"acende sinais de alerta bem evidentes\" e tem como objetivo descobrir se a empresa enganou os investidores. A Califórnia emitiu uma intimação para investigação contra a Nvidia após um escândalo que levou à saída do cofundador e diretor-executivo de longa data, Jensen Huang. Rob Bonta, procurador-geral do es",
+      "title": "A Ucrânia ataca a Ponte de Quersh enquanto aliado de Putin declara que \"ninguém precisa da Europa\"",
+      "summary": "As tensões entre a Rússia e a Europa aumentam à medida que a Ucrânia usa suas próprias armas e tecnologia de comunicações para atacar a Ponte de Quersoneso.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Tecnologia",
       "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-      "published_on": "20/11/2026 05:18 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba5ae30a51442a04ba6a938dbed986dd",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
+      "published_on": "20/11/2026 14:37 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0083a18a423-1795195809.jpg?resize=1920%2C1440",
       "selection": "automatic"
     }
   ]
