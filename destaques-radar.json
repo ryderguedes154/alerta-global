@@ -1,8 +1,8 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T20:55:22.383033Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T21:00:27.822083Z",
+  "status": "checado",
   "items": [
     {
       "title": "Míssil russo atinge a Polônia enquanto aliados da Ucrânia realizam exercício militar, diz Tusk",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "A Ucrânia ataca a Ponte de Quersh enquanto aliado de Putin declara que \"ninguém precisa da Europa\"",
-      "summary": "As tensões entre a Rússia e a Europa aumentam à medida que a Ucrânia usa suas próprias armas e tecnologia de comunicações para atacar a Ponte de Quersoneso.",
+      "title": "Trump diz que apenas chips antigos devem ser vendidos à China",
+      "summary": "Declarações ocorreram depois de uma resposta ⁠anterior a uma ⁠pergunta sobre se ele estaria considerando flexibilizar as ‌proibições de exportação de chips ao país",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Tecnologia",
       "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
-      "published_on": "20/11/2026 14:37 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0083a18a423-1795195809.jpg?resize=1920%2C1440",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/trump-diz-que-apenas-chips-antigos-devem-ser-vendidos-a-china/",
+      "published_on": "20/11/2026 14:43 (Boa Vista)",
+      "image": "https://admin.preprod.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXNPEL4R178-BASEIMAGE.jpg?w=200",
       "selection": "automatic"
     }
   ]
