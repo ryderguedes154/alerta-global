@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-20T02:43:18.431Z",
+  "updated_at": "2026-11-20T12:49:59.261Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Ataque russo em larga escala atinge infraestrutura energética da Ucrânia",
+      "summary": "Rússia lançou mais de 400 drones e mais de 110 mísseis contra a Ucrânia em 20 de novembro. Autoridades ucranianas relatam ao menos oito mortos, danos a pontes, instalações de energia e interrupções elétricas; usinas nucleares reduziram a geração devido à instabilidade da rede. Reuters e AP confirmam a ofensiva, enquanto números de armas e vítimas são atribuídos às autoridades.",
+      "impact_br": "Sem impacto direto confirmado no Brasil; eventual agravamento da guerra pode aumentar a volatilidade dos mercados de energia e alimentos.",
+      "category": "guerras e diplomacia",
+      "region": "Europa Oriental",
+      "country": "UA",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/433e18f00cbd37a2a9da94e60fce0e07",
+      "published_on": "2026-11-20",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-20T12:49:59.261Z"
+    },
     {
       "title": "Bolsas asiáticas caminham para pior semana desde 2020 após queda global de ações",
       "summary": "Em 20 de novembro, o índice MSCI Ásia-Pacífico recuava 2,5% na sessão e acumulava perda de cerca de 7% na semana, a maior desde março de 2020. Japão e Coreia do Sul também registravam fortes quedas. Os números são parciais, não fechamento definitivo.",
