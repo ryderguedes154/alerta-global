@@ -1,5 +1,33 @@
 [
   {
+    "title": "Turkey’s Van Cats Contend With Rising Temperatures",
+    "summary": "A feline research center uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
+    "date": "2026-11-20T10:02:10Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
+    "summary_pt": "Um centro de pesquisa felina usa ar-condicionado e piscinas para manter os residentes confortáveis enquanto seu número se recupera. E sim, eles gostam de nadar.",
+    "title_pt": "Os gatos de Van da Turquia enfrentam o aumento das temperaturas"
+  },
+  {
+    "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
+    "summary": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
+    "date": "2026-11-20T10:00:26Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
+    "summary_pt": "A guerra na Ucrânia teve consequências incalculáveis para golfinhos, alces, cegonhas e uma enorme variedade de outros animais silvestres cujos habitats agora estão repletos de redes antidrones, campos minados ou na linha de fogo direta.",
+    "title_pt": "A guerra também está devastando a vida selvagem da Ucrânia"
+  },
+  {
     "title": "Ukraine updates: Kyiv targeted by missile strikes, bridges hit",
     "summary": "Ukraine's capital has been struck by Russian missiles with at least 3 deaths reported. The latest strikes come after Vladimir Putin warned of a \"painful\" response following the Kerch bridge strikes. Follow DW.",
     "category": "Conflitos",
@@ -10,8 +38,8 @@
     "date": "2026-11-20T09:58:00Z",
     "lang": "en",
     "image": "https://static.dw.com/image/79999836_6.jpg",
-    "summary_pt": "A capital da Ucrânia foi atingida por mísseis russos, com pelo menos 3 mortes relatadas. Os últimos ataques ocorreram depois que Vladimir Putin alertou sobre uma resposta “dolorosa” após os ataques na ponte de Kerch. Siga DW.",
-    "title_pt": "Atualizações da Ucrânia: Kyiv alvo de ataques com mísseis, pontes atingidas"
+    "title_pt": "Atualizações da Ucrânia: Kyiv alvo de ataques com mísseis, pontes atingidas",
+    "summary_pt": "A capital da Ucrânia foi atingida por mísseis russos, com pelo menos 3 mortes relatadas. Os últimos ataques ocorreram depois que Vladimir Putin alertou sobre uma resposta “dolorosa” após os ataques na ponte de Kerch. Siga DW."
   },
   {
     "title": "Airbnb's divisive new house rules come into force",
@@ -28,6 +56,20 @@
     "summary_pt": "Novas regras sobre o que os anfitriões do Airbnb podem razoavelmente pedir aos hóspedes podem significar menos tarefas, mas custos mais elevados para os clientes."
   },
   {
+    "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
+    "summary": "The attack follows Putin's pledge of 'painful' response to Ukraine's attack on symbolic Crimean bridge.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+    "date": "2026-11-20T09:54:00Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afffbfc-1795161084.jpg?resize=1920%2C1440",
+    "summary_pt": "O ataque ocorre após a promessa de Putin de uma resposta \"dolorosa\" ao ataque da Ucrânia à ponte simbólica da Crimeia.",
+    "title_pt": "Rússia lança bombardeio de retaliação contra pontes de Kiev"
+  },
+  {
     "title": "COP31: UN Climate summit enters final phase with no deal in sight",
     "summary": "After nearly two weeks of negotiations, countries remain divided on how to fight global warming. A new draft declaration doesn't mention the phaseout of fossil fuels, the main drivers of climate change. DW has more.",
     "category": "Clima e desastres",
@@ -38,8 +80,8 @@
     "date": "2026-11-20T09:52:00Z",
     "lang": "en",
     "image": "https://static.dw.com/image/79999578_6.jpg",
-    "summary_pt": "Após quase duas semanas de negociações, os países continuam divididos sobre como combater o aquecimento global. Um novo projecto de declaração não menciona a eliminação progressiva dos combustíveis fósseis, os principais motores das alterações climáticas. DW tem mais.",
-    "title_pt": "COP31: Cimeira do Clima da ONU entra na fase final sem acordo à vista"
+    "title_pt": "COP31: Cimeira do Clima da ONU entra na fase final sem acordo à vista",
+    "summary_pt": "Após quase duas semanas de negociações, os países continuam divididos sobre como combater o aquecimento global. Um novo projecto de declaração não menciona a eliminação progressiva dos combustíveis fósseis, os principais motores das alterações climáticas. DW tem mais."
   },
   {
     "title": "EU says Brexit reset deal with UK will not come into force without agreement on tuition fees – live",
@@ -71,7 +113,7 @@
   },
   {
     "title": "Rusia ataca los puentes de Kiev y la infraestructura energética de Ucrania tras la ofensiva en el estrecho de Kerch",
-    "summary": "Los bombardeos han matado a una decena de personas, herido a otras 28 y ha causado apagones en diez regiones del país",
+    "summary": "Los bombardeos han matado a una decena de personas, herido a otras 28 y ha causado apagones en diez regiones del país. Polonia investiga la caída de un proyectil en su territorio, cerca de la frontera",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
@@ -80,8 +122,8 @@
     "date": "2026-11-20T09:49:25Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/P3XQEL2BRFMZRBAVTTDTSJL2EI.jpg?auth=63051dd69d063767c81fe9b8cade31caeabf0fa4195e84b1b8f2f65f0d7608c6",
-    "summary_pt": "Os bombardeamentos mataram uma dúzia de pessoas, feriram outras 28 e causaram apagões em dez regiões do país.",
-    "title_pt": "Rússia ataca pontes de Kyiv e infraestrutura energética da Ucrânia após ofensiva no Estreito de Kerch"
+    "title_pt": "Rússia ataca pontes de Kyiv e infraestrutura energética da Ucrânia após ofensiva no Estreito de Kerch",
+    "summary_pt": "Os bombardeamentos mataram uma dúzia de pessoas, feriram outras 28 e causaram apagões em dez regiões do país."
   },
   {
     "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
@@ -1056,7 +1098,7 @@
   {
     "title": "Should AI be judging our credit worthiness?",
     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2965,7 +3007,7 @@
   {
     "title": "GTA 6 breaks records as estimated sales top $2.3bn",
     "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3339,20 +3381,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/eeca2fc0-e2b2-11f1-8226-87dfa5049e9a.jpg",
     "title_pt": "Nossa etnia muda a forma como vivenciamos a morte?",
     "summary_pt": "A morte é a única certeza que todos partilhamos – mas poderá a nossa etnia mudar a forma como passamos por ela?"
-  },
-  {
-    "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
-    "summary": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
-    "date": "2026-11-20T01:29:28Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6affa5c2-1795139010.jpg?resize=1920%2C1440",
-    "title_pt": "Meta repensa as metas climáticas para 2030 à medida que os data centers de IA aumentam as emissões",
-    "summary_pt": "As crescentes necessidades energéticas dos data centers forçam a Meta a rever as metas de sustentabilidade em meio ao crescente retrocesso climático corporativo."
   },
   {
     "title": "White House fires national cyber director over widespread outages",
@@ -4597,7 +4625,7 @@
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
-    "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct978m?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-19T21:00:00Z",
     "lang": "en",
     "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
@@ -5071,20 +5099,6 @@
     "summary_pt": "EXCLUSIVO: Empresa sul-coreana planeja um aporte de US$ 150 milhões para fabricante de robôs apoiada por Eric Trump Reuters"
   },
   {
-    "title": "Netherlands summons Russian ambassador as Kyiv embassy hit",
-    "summary": "Netherlands summons Russian ambassador as Kyiv embassy hit Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSlhpc3VjQlJUMS1pb2FxdTNFSFlNODl6NFB5RXlnMlljcXI5dGl0emdoTkpFNmRRWnJzOXhVakxhQWdWb1hvb2tnaFZkLWZoYUFTc1lEQ0VmOXBETkp6TDQ0Tk84QWhWWlVqUFM3bG0tVXk5YVVveU91TU1MUHpvdVk4TTdBLVQtZGs0enhlZ290bjUzbDRQU1liWmVpUQ?oc=5",
-    "date": "2026-11-19T18:49:39Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Países Baixos convocam embaixador russo após ataque à embaixada em Kiev",
-    "summary_pt": "Países Baixos convocam embaixador russo após ataque à embaixada em Kiev — Reuters"
-  },
-  {
     "title": "Some leaders flew private to the APEC summit, but not Mexico’s president.",
     "summary": "President Claudia Sheinbaum flew commercial, a journey that involved a 15-hour leg. It was a symbol of her government’s commitment to austerity.",
     "category": "Geral",
@@ -5339,6 +5353,20 @@
     "image": "",
     "title_pt": "FCC vota para proibir as telecomunicações chinesas de acesso direto a números de telefone dos EUA",
     "summary_pt": "FCC vota para proibir as telecomunicações chinesas de acesso direto a números de telefone dos EUA Reuters"
+  },
+  {
+    "title": "Netherlands summons Russian ambassador as Kyiv embassy hit",
+    "summary": "Netherlands summons Russian ambassador as Kyiv embassy hit Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSlhpc3VjQlJUMS1pb2FxdTNFSFlNODl6NFB5RXlnMlljcXI5dGl0emdoTkpFNmRRWnJzOXhVakxhQWdWb1hvb2tnaFZkLWZoYUFTc1lEQ0VmOXBETkp6TDQ0Tk84QWhWWlVqUFM3bG0tVXk5YVVveU91TU1MUHpvdVk4TTdBLVQtZGs0enhlZ290bjUzbDRQU1liWmVpUQ?oc=5",
+    "date": "2026-11-19T17:41:00Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Países Baixos convocam embaixador russo após ataque à embaixada em Kiev",
+    "summary_pt": "Países Baixos convocam embaixador russo após ataque à embaixada em Kiev — Reuters"
   },
   {
     "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
@@ -6989,33 +7017,5 @@
     "image": "https://images.euronews.com/articles/stories/09/99/74/68/696x392_cmsv2_da62bc72-b22f-5559-969f-44acca998eab-9997468.jpg",
     "title_pt": "Geopolítica e laços genuínos: negociadores sobre como são os bastidores à medida que as tensões da COP aumentam",
     "summary_pt": "'Estamos constantemente rodeados de gente e dormimos muito pouco, cinco horas por noite no máximo.'"
-  },
-  {
-    "title": "North Korea expanding original uranium enrichment facility, UN nuclear watchdog says",
-    "summary": "The IAEA has not had access to Yongbyon or other locations in North Korea since the country kicked out the agency’s inspectors in 2009.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "EU",
-    "source": "Euronews",
-    "url": "https://www.euronews.com/2026/11/19/north-korea-expanding-original-uranium-enrichment-facility-un-nuclear-watchdog-says",
-    "date": "2026-11-19T07:00:42Z",
-    "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/09/99/90/87/696x392_cmsv2_8b9d877d-a644-50e4-935f-5f85e4689166-9999087.jpg",
-    "title_pt": "Coreia do Norte expande instalação original de enriquecimento de urânio, diz órgão de vigilância nuclear da ONU",
-    "summary_pt": "A AIEA não teve acesso a Yongbyon ou a outros locais na Coreia do Norte desde que o país expulsou os inspetores da agência em 2009."
-  },
-  {
-    "title": "Usina parada e equipamentos obsoletos: o que reportagem encontrou em instalações ligadas a Ricardo Magro nos EUA",
-    "summary": "Por onde anda o maior sonegador de impostos do Brasil? Uma usina praticamente vazia e sem operar, uma fazenda de mineração de bitcoin com equipamentos considerados antigos e lentos e endereços onde várias empresas dividem o mesmo espaço. Foi esse o cenário encontrado nos Estados Unidos durante uma investigação sobre negócios ligados ao grupo do empresário Ri",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "G1 Mundo",
-    "url": "https://g1.globo.com/fantastico/noticia/2026/11/19/usina-parada-e-equipamentos-obsoletos-o-que-reportagem-encontrou-em-instalacoes-ligadas-a-ricardo-magro-nos-eua.ghtml",
-    "date": "2026-11-19T07:00:00Z",
-    "lang": "pt",
-    "image": "https://s2-g1.glbimg.com/orr-37Pv4jO65F5NmKzxzTgB-gg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/D/eCuC6uTlmdKvuaUjKrqw/videoframe-6515194.png",
-    "title_pt": "Usina parada e equipamentos obsoletos: o que reportagem encontrou em instalações ligadas a Ricardo Magro nos EUA",
-    "summary_pt": "Por onde anda o maior sonegador de impostos do Brasil? Uma usina praticamente vazia e sem operar, uma fazenda de mineração de bitcoin com equipamentos considerados antigos e lentos e endereços onde várias empresas dividem o mesmo espaço. Foi esse o cenário encontrado nos Estados Unidos durante uma investigação sobre negócios ligados ao grupo do empresário Ri"
   }
 ]
