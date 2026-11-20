@@ -1,5 +1,19 @@
 [
   {
+    "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
+    "summary": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
+    "date": "2026-11-20T02:02:53Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-uk-abuse-guilty-lbwt/19int-uk-abuse-guilty-lbwt-mediumSquareAt3X.jpg",
+    "title_pt": "4 homens britânicos condenados por agredir sexualmente Joanne Young",
+    "summary_pt": "Um júri rejeitou a defesa dos homens de que se baseavam nas garantias do marido de Joanne Young – que se declarou culpado de violação – de que ela tinha consentido."
+  },
+  {
     "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska – live",
     "summary": "Democrat Mary Peltola was declared winner earlier this week in highly scrutinized Senate race that featured two Dan Sullivans on the ballot Sign up for the Breaking News US email The National Security Agency is seeing a third day of disruptions to its internal network, NSA Net, which allows staff to share highly classified information with each other , accor",
     "category": "Geral",
@@ -462,20 +476,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/ICBQVTIF4RGNTDEQ4EKHPKLGYA.jpg?auth=e51dfd5e1ced909238dedacc0fd76f1d22ddc18ef1abb13b19249d4bf48fb3df",
     "title_pt": "O cara a cara entre Sánchez e Feijóo resumido em um vídeo de cinco minutos",
     "summary_pt": "Do pedido de perdão de Sánchez pelos acidentes de trem ou das acusações de corrupção de Feijóo aos silêncios e interrupções entre os dois candidatos"
-  },
-  {
-    "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
-    "summary": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
-    "date": "2026-11-20T00:38:53Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-uk-abuse-guilty-lbwt/19int-uk-abuse-guilty-lbwt-mediumSquareAt3X.jpg",
-    "title_pt": "4 homens britânicos condenados por agredir sexualmente Joanne Young",
-    "summary_pt": "Um júri rejeitou a defesa dos homens de que se baseavam nas garantias do marido de Joanne Young – que se declarou culpado de violação – de que ela tinha consentido."
   },
   {
     "title": "Religious messages US agriculture secretary emailed to staff deemed unconstitutional",
@@ -1404,7 +1404,7 @@
   {
     "title": "California targets Nvidia in China AI chip probe",
     "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2086,6 +2086,22 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/caramuru-1200x900-1.webp?w=200",
     "title_pt": "Agro deve perder R$ 40 bilhões em faturamento neste ano, estima governo",
     "summary_pt": "condições climáticas adversas, com excesso de chuvas em algumas regiões e períodos de estiagem em outras, afetaram a produtividade de diferentes culturas ao longo do ano"
+  },
+  {
+    "title": "Terremoto de magnitude 4.5 — 236 km W of Tual, Indonesia",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "236 km W of Tual, Indonesia",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc3v",
+    "date": "2026-11-19T21:49:33.219000Z",
+    "lat": -6.0263,
+    "lon": 130.6505,
+    "depth_km": 124.788,
+    "forcedSev": "low",
+    "title_pt": "Terremoto de magnitude 4.5 — 236 km W of Tual, Indonesia",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
     "title": "Trump's $15 billion defamation case against New York Times may proceed, judge rules",
@@ -4000,20 +4016,6 @@
     "summary_pt": "Em entrevista à FRANCE 24, o ministro das Relações Exteriores de Ruanda, Olivier Nduhungirehe, afirmou que o governo Trump teve \"uma abordagem desequilibrada\" na implementação do acordo de paz na República Democrática do Congo que ele mediou. Ele também disse que a recente disputa pelo principal cargo da Organização Internacional da Francofonia foi \"fabricada em Paris e em Kinshasa\". Por fim, ele defendeu um acordo"
   },
   {
-    "title": "US weekly jobless claims edge up, but labor market remains resilient",
-    "summary": "US weekly jobless claims edge up, but labor market remains resilient Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUjdpV0lCY3lUWlhjZzVkdTNNa1hrazREdFRCMjFSRlpzYmpXNlpYeXdOeXJyZk44NGQwT0FuN1cxdWRyUWtLenNCTGNDSVM0NERhNW5PemtfbTI1UkFtcDdvUklKdjZZM2c4NTZlUVBlYVF5SVBubVFnbkhueHNTWDhLd1c4MVJLM2g1ekQ3bHo?oc=5",
-    "date": "2026-11-19T17:06:57Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Pedidos semanais de seguro-desemprego nos EUA aumentam, mas o mercado de trabalho permanece resiliente",
-    "summary_pt": "Pedidos semanais de auxílio-desemprego nos EUA aumentam, mas mercado de trabalho permanece resiliente Reuters"
-  },
-  {
     "title": "At Summit With Xi and Putin, Trump Seeks to Project Power Abroad While Sharing It at Home",
     "summary": "Weakened by the midterm elections, President Trump offered hugs, arm pats and smiles to autocrats from Russia and China in contrast to the threats he is making to ascendant Democrats in Washington.",
     "category": "Geral",
@@ -4683,6 +4685,20 @@
     "image": "",
     "title_pt": "Putin diz que a Rússia convidou europeus a Moscovo para esclarecer a posição sobre as conversações com a Ucrânia",
     "summary_pt": "Putin diz que a Rússia convidou europeus a Moscou para esclarecer posição sobre negociações sobre a Ucrânia Reuters"
+  },
+  {
+    "title": "Gazans return to battered camp after Israel says it concluded tank raid",
+    "summary": "Gazans return to battered camp after Israel says it concluded tank raid Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTlHeU1CNWItYmpkOXVld21mVVRpNm9EbHhicnE3d1BQcmJ3em1HREh3NkFTUVNSUVFxMjFrWVU5V1dhT2Q2TWZEZ3VwYW9WSjB0SkhJU0JNMUxVMlAyU0RWYnZTekpLUS1oT0xPUXNzUWpjT0dhSktadFFXalBlcG1EaUJXaU1HMnBYb3pxd0V6OVBGdElzYg?oc=5",
+    "date": "2026-11-19T15:09:40Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Gaza retorna ao campo danificado depois que Israel afirma ter concluído ataque com tanques",
+    "summary_pt": "Gaza retorna ao campo destruído após Israel afirmar ter concluído ataque com tanques Reuters"
   },
   {
     "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
@@ -5597,7 +5613,7 @@
   {
     "title": "Indian driver wins $1.3m in life-changing lottery prize",
     "summary": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6487,8 +6503,8 @@
     "date": "2026-11-19T06:02:27Z",
     "lang": "en",
     "image": "https://images.euronews.com/articles/stories/09/99/83/24/696x392_cmsv2_e9f8c8eb-8807-5434-906e-9b68e63b6d8d-9998324.jpg",
-    "summary_pt": "O estudo de Harvard revelou que os compromissos por si só podem não ser suficientes, mesmo quando os negociadores da COP31 pressionam pela utilização de energia mais limpa nos centros de dados.",
-    "title_pt": "O lado negro da IA: os data centers dos EUA emitem mais carbono do que toda a Dinamarca"
+    "title_pt": "O lado negro da IA: os data centers dos EUA emitem mais carbono do que toda a Dinamarca",
+    "summary_pt": "O estudo de Harvard revelou que os compromissos por si só podem não ser suficientes, mesmo quando os negociadores da COP31 pressionam pela utilização de energia mais limpa nos centros de dados."
   },
   {
     "title": "Latest news bulletin | November 19th, 2026 – Morning",
@@ -6845,7 +6861,7 @@
   {
     "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
     "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6996,19 +7012,5 @@
     "image": "https://s2-g1.glbimg.com/9H7RFCdRmC2MglCVzzqTyAGIAIk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/L/6jYQxiRZK7HTyor8v0kg/2026-11-18t090745z-1186125737-rc29qoadt42e-rtrmadp-3-apec-summit-trump-arrival.jpg",
     "title_pt": "Trump diz que discutiu IA com Xi Jinping e que mencionou apenas 'brevemente' situação do ex-CEO da Nvidia",
     "summary_pt": "Donald Trump e Xi Jinping se abraçam na chegada do presidente americano para a cúpula da APEC REUTERS/Carlos Barria O presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (18) que conversou com o presidente chinês, Xi Jinping, sobre inteligência artificial, mas que o ex-CEO da Nvidia, Jensen Huang, foi mencionado apenas \"brevemente\" durant"
-  },
-  {
-    "title": "Florida pastor convicted in plot to kill Haitian president",
-    "summary": "A Florida pastor with dual Haitian-American citizenship has been convicted of U.S. charges related to the 2021 assassination of Haitian President Jovenel Moïse.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/news/haitian-president-jovenel-moise-assassination-conviction/",
-    "date": "2026-11-18T23:52:36Z",
-    "lang": "en",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2021/07/07/82bf23c6-cf97-4e98-9904-f15ecb4d668c/thumbnail/1200x630/073542e81649a48f74b0d9a4fe18f9d7/Haitian-president.jpg",
-    "title_pt": "Pastor da Flórida condenado por conspiração para matar presidente haitiano",
-    "summary_pt": "Um pastor da Flórida com dupla cidadania haitiano-americana foi condenado por acusações dos EUA relacionadas ao assassinato do presidente haitiano Jovenel Moïse em 2021."
   }
 ]
