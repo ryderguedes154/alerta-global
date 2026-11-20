@@ -1,8 +1,8 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T18:25:20.094214Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T18:30:27.744124Z",
+  "status": "checado",
   "items": [
     {
       "title": "Trump, Xi e Putin reafirmam lema histórico contra guerra nuclear",
@@ -57,6 +57,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Trump afirma que taxas de juros estão altas porque Fed é “político”",
+      "summary": "Expectativa por parte do mercado passou a ser de que o Fed deve elevar os juros no país na próxima reunião em dezembro",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/trump-afirma-que-taxas-de-juros-estao-altas-porque-fed-e-politico/",
+      "published_on": "20/11/2026 14:05 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Presidente-dos-EUA-Donald-Trump-na-Casa-Branca-2-de-setembro-de-2026.jpg?w=800&h=533&crop=1",
+      "selection": "automatic"
+    },
+    {
       "title": "Na Cúpula da APEC, EUA, China e Rússia prometem aumentar a oferta de petróleo em meio à transição energética global",
       "summary": "Os Estados Unidos, a China e a Rússia concordaram em aumentar o fornecimento de produtos petrolíferos refinados, à medida que os preços do petróleo disparam devido à guerra no Irão.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -70,32 +83,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump, Putin e Xi prometem aumentar o fornecimento global de petróleo – mas como?",
-      "summary": "Os analistas estão céticos quanto à forma como isso será alcançado em meio às guerras em curso na Ucrânia e no Irã.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss",
-      "published_on": "20/11/2026 09:42 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-20T163141Z_958203687_RC23TKA36O31_RTRMADP_3_OIL-INVENTORIES-EIA-1778555463.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "PBoC mantém juros inalterados na China pelo 18º mês seguido",
-      "summary": "LPR de um ano permaneceu em 3,0%, enquanto a taxa de cinco anos foi mantida em 3,5%",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Geral",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pboc-mantem-juros-inalterados-na-china-pelo-18o-mes-seguido/",
-      "published_on": "20/11/2026 09:40 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2024binary_LYNXMPEK740KO-FILEDIMAGE.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
       "title": "O mundo está sendo \"mantido refém pela máfia do petróleo\": como um pequeno país está se impondo na COP31",
       "summary": "No último dia da COP31, um país afirma que \"não emprestará seu nome\" a \"linguagem complacente ou ineficaz\" no pacto final, que requer consenso.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://www.euronews.com/2026/11/20/world-is-being-held-hostage-by-oil-mafia-how-one-tiny-country-is-putting-its-foot-down-at-",
       "published_on": "20/11/2026 07:02 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/14/92/696x392_cmsv2_cba898b5-b1d6-5e68-b8da-2b7bac2db3b2-10001492.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "A Califórnia investiga a Nvidia para saber se as exportações de chips acabaram na China",
+      "summary": "O procurador-geral do Estado afirma que o escândalo \"acende sinais de alerta bem evidentes\" e tem como objetivo descobrir se a empresa enganou os investidores. A Califórnia emitiu uma intimação para investigação contra a Nvidia após um escândalo que levou à saída do cofundador e diretor-executivo de longa data, Jensen Huang. Rob Bonta, procurador-geral do es",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+      "published_on": "20/11/2026 05:18 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba5ae30a51442a04ba6a938dbed986dd",
       "selection": "automatic"
     }
   ]
