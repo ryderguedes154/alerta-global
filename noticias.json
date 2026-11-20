@@ -1,5 +1,35 @@
 [
   {
+    "title": "Terremoto de magnitude 5.4 — 19 km NNE of Soledad, California",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "19 km NNE of Soledad, California",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ew1795157360",
+    "date": "2026-11-20T06:49:16Z",
+    "lat": 36.5798,
+    "lon": -121.2325,
+    "depth_km": 9.0,
+    "forcedSev": "med",
+    "title_pt": "Terremoto de magnitude 5.4 — 19 km NNE of Soledad, California",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
+  },
+  {
+    "title": "Ajuste fiscal chega à Câmara sob pressão após resistências no Senado",
+    "summary": "Relator manteve texto aprovado por senadores; proposta deve ser analisada por deputados na segunda-feira (23), mas depende de um pedido de urgência",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/ajuste-fiscal-chega-a-camara-sob-pressao-apos-resistencias-no-senado/",
+    "date": "2026-11-20T06:45:29Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/lula.png?w=200",
+    "title_pt": "Ajuste fiscal chega à Câmara sob pressão após resistências no Senado",
+    "summary_pt": "Relator manteve texto aprovado por senadores; proposta deve ser analisada por deputados na segunda-feira (23), mas depende de um pedido de urgência"
+  },
+  {
     "title": "Germany news: Lufthansa to cut 1,000 jobs, reports say",
     "summary": "The job cuts come as Lufthansa Airlines is struggling to turn a profit. Meanwhile, further youth-led protests are expected. DW has the latest.",
     "category": "Geral",
@@ -12,6 +42,62 @@
     "image": "https://static.dw.com/image/78315422_6.jpg"
   },
   {
+    "title": "Mulheres negras são 65% das vítimas de feminicídio no país, diz relatório",
+    "summary": "No Dia Nacional da Consciência Negra, especialistas explicam que o combate à misoginia precisa vir acompanhado do combate à discriminação racial no Brasil",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/nacional/brasil/mulheres-negras-sao-65-das-vitimas-de-feminicidio-no-pais-diz-relatorio/",
+    "date": "2026-11-20T06:37:08Z",
+    "lang": "pt",
+    "image": "https://public.flourish.studio/visualisation/29764780/thumbnail",
+    "title_pt": "Mulheres negras são 65% das vítimas de feminicídio no país, diz relatório",
+    "summary_pt": "No Dia Nacional da Consciência Negra, especialistas explicam que o combate à misoginia precisa vir acompanhado do combate à discriminação racial no Brasil"
+  },
+  {
+    "title": "Pai lança livro em homenagem a estudante de medicina morto em SP",
+    "summary": "Obra escrita por Julio Navarro busca eternizar a memória do jovem morto durante uma abordagem policial em 2024",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/pai-lanca-livro-em-homenagem-a-estudante-de-medicina-morto-em-sp/",
+    "date": "2026-11-20T06:36:12Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Jose-Manuel-Diogo-e1794683492248.jpeg?w=200",
+    "title_pt": "Pai lança livro em homenagem a estudante de medicina morto em SP",
+    "summary_pt": "Obra escrita por Julio Navarro busca eternizar a memória do jovem morto durante uma abordagem policial em 2024"
+  },
+  {
+    "title": "Chance de uma pessoa negra ser assassinada é 2,7 vezes maior, diz relatório",
+    "summary": "Aumento nos episódios de discriminação e injúria racial acompanha o crescimento do temor da violência entre a população negra, aponta",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/nacional/brasil/chance-de-uma-pessoa-negra-ser-assassinada-e-27-vezes-maior-diz-relatorio/",
+    "date": "2026-11-20T06:36:10Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Racismo-na-escola-e1794911485416.webp?w=200",
+    "title_pt": "Chance de uma pessoa negra ser assassinada é 2,7 vezes maior, diz relatório",
+    "summary_pt": "Aumento nos episódios de discriminação e injúria racial acompanha o crescimento do temor da violência entre a população negra, aponta"
+  },
+  {
+    "title": "Casos de racismo aumentaram em 13% no Brasil, aponta relatório",
+    "summary": "Chance de um cidadão negro ser assassinado no país é 2,7 vezes maior em comparação a uma pessoa não negra; especialistas explicam os desafios de combate ao preconceito racial",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/nacional/brasil/casos-de-racismo-aumentaram-em-13-no-brasil-aponta-relatorio/",
+    "date": "2026-11-20T06:35:22Z",
+    "lang": "pt",
+    "image": "https://public.flourish.studio/visualisation/30978138/thumbnail",
+    "title_pt": "Casos de racismo aumentaram em 13% no Brasil, aponta relatório",
+    "summary_pt": "Chance de um cidadão negro ser assassinado no país é 2,7 vezes maior em comparação a uma pessoa não negra; especialistas explicam os desafios de combate ao preconceito racial"
+  },
+  {
     "title": "Henar Álvarez anuncia el final de ‘Al cielo con ella’: “No tiene nada que ver con las elecciones ni con la derecha”",
     "summary": "El espacio se va de la parrilla de RTVE tras dos años de emisiones y este domingo se emitirá por última vez",
     "category": "Geral",
@@ -22,6 +108,34 @@
     "date": "2026-11-20T06:34:45Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/DRJYBDTXXRCRBGCF7264GMWJ7U.jpg?auth=8ba43f5a1800b3719c41b0a0c0113b5c9eeb5f391acf809d34157dac19653e00"
+  },
+  {
+    "title": "A arte mais antiga da humanidade está sendo apagada pelas mudanças climáticas",
+    "summary": "Cristalização de sal acelerada pelas altas temperaturas faz a rocha rachar e desprender pinturas milenares em cavernas da Indonésia",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/ciencia/a-arte-mais-antiga-da-humanidade-esta-sendo-apagada-pelas-mudancas-climaticas/",
+    "date": "2026-11-20T06:34:29Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/03/1cd7ed9a-fa52-474c-9ffb-80baeb6e5580-e1742991539850.jpg?w=200",
+    "title_pt": "A arte mais antiga da humanidade está sendo apagada pelas mudanças climáticas",
+    "summary_pt": "Cristalização de sal acelerada pelas altas temperaturas faz a rocha rachar e desprender pinturas milenares em cavernas da Indonésia"
+  },
+  {
+    "title": "Inmet emite alertas de temporal para estados no Centro-Sul neste feriado",
+    "summary": "Previsão é de chuva com acumulados de 100 milímetros ao longo do dia, ventos de até 100 km/h e queda de granizo; áreas de SC, RS, PR, SP, MG, ES, MS e BA estão sob aviso",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/inmet-emite-alertas-de-temporal-para-estados-no-centro-sul-neste-feriado/",
+    "date": "2026-11-20T06:33:37Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/defesa-civil-chuvas-sp.jpg?w=200",
+    "title_pt": "Inmet emite alertas de temporal para estados no Centro-Sul neste feriado",
+    "summary_pt": "Previsão é de chuva com acumulados de 100 milímetros ao longo do dia, ventos de até 100 km/h e queda de granizo; áreas de SC, RS, PR, SP, MG, ES, MS e BA estão sob aviso"
   },
   {
     "title": "Live: Deadly Russian attacks damage two bridges in Kyiv, mayor says",
@@ -1865,7 +1979,7 @@
     "url": "https://www.cnnbrasil.com.br/politica/oposicao-ve-como-inutil-moraes-pautar-dosimetria-no-stf/",
     "date": "2026-11-20T01:19:27Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/img20250201164242302.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/1-CONGRESSO-NACIONAL-12-11-25.jpg?w=200",
     "title_pt": "Oposição vê como inútil Moraes pautar dosimetria no STF",
     "summary_pt": "Parlamentares da oposição afirmam que gesto de Alexandre de Moraes não muda votos na eleição do Congresso nem alivia pressão pelo impeachment; a apuração é da analista de Política da CNN Jussara Soares ao CNN Prime Time"
   },
@@ -2257,7 +2371,7 @@
     "url": "https://www.cnnbrasil.com.br/politica/moraes-se-antecipa-a-fachin-para-marcar-posicao-sobre-dosimetria/",
     "date": "2026-11-20T00:17:41Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/lula.png?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/1-CONGRESSO-NACIONAL-12-11-25.jpg?w=200",
     "title_pt": "Moraes se antecipa a Fachin para marcar posição sobre dosimetria",
     "summary_pt": "Relator atende a apelo do Congresso ao pautar julgamento sobre lei aprovada pelo Congresso para 4 de dezembro, mas já prevê adiamento para 2027"
   },
@@ -2360,7 +2474,7 @@
     "summary_pt": "O comprimido diário de daraxonrasibe parece reduzir e, possivelmente, até eliminar tumores em alguns pacientes com um dos cânceres mais letais."
   },
   {
-    "title": "Emmanuel Macron va rencontrer à Paris Kamala Harris, possible candidate démocrate à l’élection américaine de 2028",
+    "title": "Emmanuel Macron va rencontrer, à Paris, Kamala Harris, possible candidate démocrate à l’élection américaine de 2028",
     "summary": "Le président français va, selon son entourage, recevoir l’ancienne vice-présidente des Etats-Unis « pour un bref entretien de courtoisie en présence de son époux », Doug Emhoff, « comme il lui arrive de le faire à la demande de certains anciens dirigeants ».",
     "category": "Geral",
     "region": "Global",
@@ -2369,9 +2483,7 @@
     "url": "https://www.lemonde.fr/politique/article/2026/11/20/a-paris-emmanuel-macron-va-rencontrer-kamala-harris-possible-candidate-democrate-a-l-election-americaine-de-2028_6813448_823448.html",
     "date": "2026-11-20T00:03:49Z",
     "lang": "fr",
-    "image": "https://img.lemde.fr/2026/11/02/1/0/6485/4323/1440/960/60/0/783232a_ftp-1-hovnhjlozmfj-495a49782b2147e0bdbc013f5630ec4c-0-534a0b2a9ce34772a34c48c0a540b888.jpg",
-    "title_pt": "Emmanuel Macron se encontrará com Kamala Harris, possível candidata democrata nas eleições americanas de 2028, em Paris",
-    "summary_pt": "O Presidente francês irá, segundo a sua comitiva, receber a ex-vice-presidente dos Estados Unidos “para uma breve entrevista de cortesia na presença do seu marido”, Doug Emhoff, “como faz por vezes a pedido de alguns ex-líderes”."
+    "image": "https://img.lemde.fr/2026/11/02/1/0/6485/4323/1440/960/60/0/783232a_ftp-1-hovnhjlozmfj-495a49782b2147e0bdbc013f5630ec4c-0-534a0b2a9ce34772a34c48c0a540b888.jpg"
   },
   {
     "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
@@ -3130,20 +3242,6 @@
     "summary_pt": "Cantora está no Brasil para realizar os shows da turnê de natal,\"Mariah Carey's Christmas Time\", que já passou por São Paulo na terça-feira (17)"
   },
   {
-    "title": "Miss Universo: brasileira retorna à competição após afastamento",
-    "summary": "Marcella Kozinski compartilhou foto pronta para as entrevistas preliminares nesta quinta-feira (19), o que gerou reações na torcida brasileira",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/miss-universo-brasileira-retorna-a-competicao-apos-afastamento/",
-    "date": "2026-11-19T22:56:14Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/marcella-kozinski.png?w=200",
-    "title_pt": "Miss Universo: brasileira retorna à competição após afastamento",
-    "summary_pt": "Marcella Kozinski compartilhou foto pronta para as entrevistas preliminares nesta quinta-feira (19), o que gerou reações na torcida brasileira"
-  },
-  {
     "title": "From premature baby to social media star - Famed hippo Fiona dies",
     "summary": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
     "category": "Geral",
@@ -3172,20 +3270,6 @@
     "summary_pt": "Markle, que negou possuir imagens de abuso sexual infantil, foi considerado capaz após uma avaliação feita por um psiquiatra nomeado pelo tribunal."
   },
   {
-    "title": "Bruno Mars lamenta morte do pai nas redes: “Me ensinou tudo o que sei”",
-    "summary": "Artista prestou homenagem a Peter Hernandez e citou que abraçou o pai pela última vez na semana passada",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/pop/musica/bruno-mars-lamenta-morte-do-pai-nas-redes-me-ensinou-tudo-o-que-sei/",
-    "date": "2026-11-19T22:41:18Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/mari-gonzalez.jpg?w=200",
-    "title_pt": "Bruno Mars lamenta morte do pai nas redes: “Me ensinou tudo o que sei”",
-    "summary_pt": "Artista prestou homenagem a Peter Hernandez e citou que abraçou o pai pela última vez na semana passada"
-  },
-  {
     "title": "Voyager 1 spacecraft reaches one light-day milestone",
     "summary": "NASA's Voyager 1 probe, which has been traveling through space for nearly 50 years, hit a milestone distance of one light-day away from Earth on Wednesday. Already the most distant man-made object in the universe, the spacecraft is now about 26 billion kilometers (16 billion miles) away, according to the US space agency. That is the distance a particle of li",
     "category": "Geral",
@@ -3198,34 +3282,6 @@
     "image": "https://s.france24.com/media/display/b60de9c0-e469-11f1-bc67-e56ab3dc0809/w:1024/p:16x9/EN-20261119-231241-231429-CS.jpg",
     "title_pt": "A espaçonave Voyager 1 atinge o marco de um dia-luz",
     "summary_pt": "A sonda Voyager 1 da NASA, que viaja pelo espaço há quase 50 anos, atingiu uma distância marcante de um dia-luz de distância da Terra na quarta-feira. Sendo já o objeto artificial mais distante do Universo, a nave espacial está agora a cerca de 26 mil milhões de quilómetros (16 mil milhões de milhas) de distância, de acordo com a agência espacial dos EUA. Essa é a distância que uma partícula de li"
-  },
-  {
-    "title": "Fachin envia à PGR relatórios sobre Moraes, Kassio, Toffoli e Mendonça",
-    "summary": "Documentos produzidos pela PF sobre a relação de outros ministros do STF com o caso Master foram arquivados",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/politica/fachin-envia-a-pgr-relatorios-sobre-moraes-kassio-toffoli-e-mendonca/",
-    "date": "2026-11-19T22:38:13Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/lula.png?w=200",
-    "title_pt": "Fachin envia à PGR relatórios sobre Moraes, Kassio, Toffoli e Mendonça",
-    "summary_pt": "Documentos produzidos pela PF sobre a relação de outros ministros do STF com o caso Master foram arquivados"
-  },
-  {
-    "title": "Trump diz que não está se apressando para tomar decisão sobre o Irã",
-    "summary": "Presidente americano deu entrevista por telefone ao site Axios a bordo do Air Force One, enquanto viajava da China de volta aos Estados Unidos",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-nao-esta-se-apressando-para-tomar-decisao-sobre-o-ira/",
-    "date": "2026-11-19T22:37:34Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/trump-olhos-fechados.png?w=200",
-    "title_pt": "Trump diz que não está se apressando para tomar decisão sobre o Irã",
-    "summary_pt": "Presidente americano deu entrevista por telefone ao site Axios a bordo do Air Force One, enquanto viajava da China de volta aos Estados Unidos"
   },
   {
     "title": "Haiti police operation kills 34 suspected gang members in capital",
@@ -3268,34 +3324,6 @@
     "image": "https://s.france24.com/media/display/181d54d6-e1f7-11f1-a490-f71d22e7fea9/w:1024/p:16x9/2026-11-12T233346Z-695546907-RC24MOACBCCE-RTRMADP-3-HAITI-VIOLENCE-EL-SALVADOR.jpg",
     "title_pt": "Forças armadas no Haiti matam pelo menos 34 membros de gangues para recuperar o controle de corredor importante",
     "summary_pt": "As forças de segurança haitianas lançaram uma grande ofensiva na quinta-feira para retomar Martissant, um corredor estratégico que liga Porto Príncipe às regiões oeste e sul do país que as gangues controlam há cinco anos. A polícia disse que pelo menos 34 supostos membros de gangue foram mortos em confrontos envolvendo uma força-tarefa de segurança privada."
-  },
-  {
-    "title": "Fumaça encobre Santarém e qualidade do ar chega a nível ruim no Pará",
-    "summary": "Poluição foi agravada pela estiagem prolongada e pelas queimadas na região. Situações semelhantes também foram registradas no Marajó e no Amazonas",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/nacional/norte/pa/fumaca-encobre-santarem-e-qualidade-do-ar-chega-a-nivel-ruim-no-para/",
-    "date": "2026-11-19T22:31:19Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/APURACAO-CNN-27-1.png?w=200",
-    "title_pt": "Fumaça encobre Santarém e qualidade do ar chega a nível ruim no Pará",
-    "summary_pt": "Poluição foi agravada pela estiagem prolongada e pelas queimadas na região. Situações semelhantes também foram registradas no Marajó e no Amazonas"
-  },
-  {
-    "title": "Relator do ajuste fiscal na Câmara mantém texto aprovado pelo Senado",
-    "summary": "Deputado Mauro Benevides Filho (União-CE) quer acelerar a tramitação para votar proposta em plenário na noite de segunda-feira (23)",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/politica/relator-do-ajuste-fiscal-na-camara-mantem-texto-aprovado-pelo-senado/",
-    "date": "2026-11-19T22:29:59Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/lula.png?w=200",
-    "title_pt": "Relator do ajuste fiscal na Câmara mantém texto aprovado pelo Senado",
-    "summary_pt": "Deputado Mauro Benevides Filho (União-CE) quer acelerar a tramitação para votar proposta em plenário na noite de segunda-feira (23)"
   },
   {
     "title": "Trump ousts cyber director after tech outages spark criticism",
@@ -3352,20 +3380,6 @@
     "image": "",
     "title_pt": "De físico anti-guerra a corretor de poder de IA, Amodei torna pública sua abordagem de segurança",
     "summary_pt": "De físico anti-guerra a corretor de poder de IA, Amodei torna pública sua abordagem de segurança Reuters"
-  },
-  {
-    "title": "Atores criticam Isabel Teixeira por defender influenciadores em novelas",
-    "summary": "Atores como Marcelo Médici e Silvero Pereira discordaram da opinião da artista sobre a presença de não profissionais na televisão",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/pop/tv/atores-criticam-isabel-teixeira-ao-defender-influenciadores-em-novelas/",
-    "date": "2026-11-19T22:17:35Z",
-    "lang": "pt",
-    "image": "https://admin.preprod.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/12/isabel-veloso_07a9ed-e1733180809270.jpg?w=200",
-    "title_pt": "Atores criticam Isabel Teixeira por defender influenciadores em novelas",
-    "summary_pt": "Atores como Marcelo Médici e Silvero Pereira discordaram da opinião da artista sobre a presença de não profissionais na televisão"
   },
   {
     "title": "Le Brésil reconnaît le territoire ancestral du chef indigène Raoni",
@@ -5383,18 +5397,6 @@
     "image": ""
   },
   {
-    "title": "Volkswagen seeks pay freeze, flexible hours in showdown with union",
-    "summary": "Volkswagen seeks pay freeze, flexible hours in showdown with union Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcnJaX3pNVzZnQURyeHVEbU13X05JNXVBcDZzWUdaWV9qT01yZEctV0d0VGZXclFaQWE2cGZMZFRGQkduVlpQdEE4cEZjVzdJSTI0bWU1R3RDZldEQTc4WkJqMGJVakM3UUxPMkpSZUNMc3FOMGJNNVFNUkhJTFFweDVkeUhZNW5XaUctbGI2NlhXMmdKTFYzWEI0clg2RXhaY1NrNGFvQklUYzJsVUxlMzJucEFJM3dKOWIxaVRrUEk0WkRmSXZobnc0VQ?oc=5",
-    "date": "2026-11-19T15:23:13Z",
-    "lang": "en",
-    "image": ""
-  },
-  {
     "title": "More support for households reliant on heating oil",
     "summary": "North Northamptonshire Council is encouraging eligible residents to apply for more support.",
     "category": "Economia",
@@ -5570,6 +5572,18 @@
     "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17trump-summits-promo-jgmt/17trump-summits-promo-jgmt-facebookJumbo.jpg",
     "title_pt": "Aqui está o mais recente.",
     "summary_pt": "Atualização rápida do veículo, sem detalhes no resumo disponível. Consulte a matéria original para os fatos."
+  },
+  {
+    "title": "Turkey's trade minister urges EU to include it in 'Made in Europe' rules",
+    "summary": "Turkey's trade minister urges EU to include it in 'Made in Europe' rules Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ1VieDRqVWYwR1U2UGktMXMwdDJUSnZOWmZFbmtncUMyNUIzZl9NR1VWdTVvWmFWLUhpUmZJZWpnazRFVUFDVHhDcVpvR3NscmJ4UDE0NW5rbnRiTFA2TnMtWTRJYXZnOElBRzNTOEdRaUUxZlhlWUJDbXg4a0ZFeUZoUDE0T0R5RUFmcEwxUHpFZlB3Mjd4YzBaUDVheFNfd3B4dU9QejZCdUND?oc=5",
+    "date": "2026-11-19T14:09:43Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Putin Vows to Retaliate After Crimea Bridge Attacks",
@@ -6943,17 +6957,5 @@
     "image": "https://s2-g1.glbimg.com/XdZngvlncQCFLYOtausM0y_w-3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/d/kRxXsCT8GRbKG3C9vAoA/2026-11-18t113906z-1386858333-rc2bqoaa6ep9-rtrmadp-3-apec-summit.jpg",
     "title_pt": "O encontro inédito de Trump, Putin e Xi Jinping, e o que o Brasil ganha com isso - O Assunto #1849",
     "summary_pt": "Na madrugada desta quinta-feira (19), os líderes de Estados Unidos, China e Rússia se encontram pela primeira vez, em Shenzhen, cidade que é um dos símbolos do crescimento chinês. O encontro trilateral envolve várias discussões sobre a paz global: a busca por resoluções para as guerras da Ucrânia e do Irã e por acordos que reduzam o arsenal de armas nucleare"
-  },
-  {
-    "title": "Colombia Rejects Joint Plan With U.S. to Target Drug Gangs",
-    "summary": "The Colombian president said his nation would not allow American forces to take part in anti-cartel military operations on its soil, according to U.S. officials. He later denied that his government had rejected a cooperation plan.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/18/world/americas/colombia-us-joint-military.html",
-    "date": "2026-11-19T03:23:24Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-colombia-us-military-fvzp/18int-colombia-us-military-fvzp-mediumSquareAt3X.jpg"
   }
 ]
