@@ -1,8 +1,8 @@
 {
   "edition": "19/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T02:53:55.483194Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T02:59:02.100397Z",
+  "status": "checado",
   "items": [
     {
       "title": "Xi, Trump e Putin, após a cúpula de Shenzhen: \"Uma guerra nuclear não pode ser vencida e nunca deve ser travada\"",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Comissão Europeia confirma que foi alvo de um ciberataque usando ferramentas de IA",
-      "summary": "A Comissão Europeia foi alvo de uma \"cibercampanha gerada por IA\", disse um porta-voz. Esta é a primeira vez que o bloco relata publicamente um ciberataque baseado em IA.",
+      "title": "Aumento das cremações diretas desde a pandemia",
+      "summary": "Um relatório de 2026 sobre o custo de falecer constatou que a cremação direta agora é escolhida em cerca de um em cada cinco funerais.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Segurança cibernética",
+      "category": "Saúde",
       "region": "Global",
-      "country": "DE",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-all-1573-rdf",
-      "published_on": "19/11/2026 10:58 (Boa Vista)",
-      "image": "https://static.dw.com/image/79958544_6.jpg",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
+      "published_on": "19/11/2026 02:23 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e942/live/68574f50-d14f-11f1-93e1-3b657b665bcf.jpg",
       "selection": "automatic"
     }
   ]
