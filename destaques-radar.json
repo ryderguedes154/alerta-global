@@ -1,7 +1,7 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T23:51:31.360595Z",
+  "checked_at": "2026-11-20T23:56:54.289870Z",
   "status": "checado",
   "items": [
     {
@@ -31,16 +31,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Mísseis russos caem na Polônia, enquanto a Europa realizava exercícios militares nas proximidades. A OTAN considera isso uma violação",
-      "summary": "NOWA DEBA, Polônia (AP) — Dois mísseis russos e um suposto drone caíram na Polônia na sexta-feira no que o primeiro-ministro do país disse ser provavelmente uma provocação programada para coincidir com os exercícios militares europeus em seu país para uma possível missão pós-guerra na Ucrânia. Os incidentes ocorreram enquanto a Rússia...",
+      "title": "Rahul Gandhi apoia fortes laços entre Índia e Israel, apesar da guerra em Gaza",
+      "summary": "O líder da oposição da Índia, Rahul Gandhi, diz que Nova Deli deve continuar a manter laços fortes com Israel.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "US",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/ukraine-russia-war-kyiv-attacks-putin-crimea-433e18f00cbd37a2a9da94e60fce0e07?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-      "published_on": "20/11/2026 07:54 (Boa Vista)",
-      "image": "https://ic-cdn.flipboard.com/apnews.com/a4e95dad25415dd7bea3456c4c0d7372408879aa/_large.webp",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+      "published_on": "20/11/2026 19:20 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/cms-wide-thumb-raga2011-1795216805.png?resize=1920%2C1080&quality=80",
       "selection": "automatic"
     },
     {
