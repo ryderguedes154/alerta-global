@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-20T15:16:22.901Z",
+  "updated_at": "2026-11-20T17:14:31.585Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Polônia confirma entrada de dois mísseis e um drone russos em seu território",
+      "summary": "O governo polonês informou que três objetos russos, provavelmente dois mísseis e um drone, violaram seu espaço aéreo durante ataques à Ucrânia em 20 de novembro. Não houve feridos. Varsóvia considera a hipótese de provocação deliberada e buscará reforço da OTAN; a intenção russa não está comprovada.",
+      "impact_br": "Sem efeito direto confirmado no Brasil. Uma escalada entre Rússia e OTAN pode aumentar a volatilidade nos mercados globais de energia e câmbio.",
+      "category": "geopolitica",
+      "region": "Europa Oriental",
+      "country": "PL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/polish-army-investigates-report-unknown-objects-near-ukraine-border-2026-11-20/",
+      "published_on": "2026-11-20",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-20T17:14:31.585Z"
+    },
     {
       "title": "Reino Unido e União Europeia fecham novos acordos comerciais após o Brexit",
       "summary": "Reino Unido e União Europeia concluíram em 20 de novembro acordos para facilitar o comércio de alimentos, conectar mercados de carbono e ampliar a mobilidade de jovens. As medidas principais têm implementação prevista a partir de 2028; negociações sobre taxas universitárias continuam.",
