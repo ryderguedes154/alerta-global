@@ -35,7 +35,7 @@
     "country": "FR",
     "source": "Le Monde",
     "url": "https://www.lemonde.fr/afrique/article/2026/11/20/au-mali-une-nouvelle-societe-militaire-turque-epaule-secretement-la-junte-d-assimi-goita_6813684_3212.html",
-    "date": "2026-11-20T17:57:03Z",
+    "date": "2026-11-20T17:56:59Z",
     "lang": "fr",
     "image": "https://img.lemde.fr/2026/11/20/0/150/1620/1080/1440/960/60/0/7b2cb67_upload-1-hrg6fr5ju6vr-image-satok.jpg",
     "title_pt": "No Mali, uma nova empresa militar turca apoia secretamente a junta de Assimi Goïta",
@@ -211,13 +211,13 @@
   },
   {
     "title": "Malgré l’arrêt historique de la Cour internationale de justice, les Rohingya ne sont pas près de rentrer en Birmanie",
-    "summary": "En dépit des preuves d’un génocide contre cette minorité à majorité musulmane, la Birmanie juge « injuste » l’arrêt de la Cour et considère qu’elle « outrepasse ses compétences ».",
+    "summary": "En dépit des preuves d’un génocide contre cette minorité à majorité musulmane, la Birmanie juge « injuste » l’arrêt de la CIJ et considère qu’elle « outrepasse ses compétences ».",
     "category": "Geral",
     "region": "Global",
     "country": "FR",
     "source": "Le Monde",
     "url": "https://www.lemonde.fr/international/article/2026/11/20/malgre-l-arret-historique-de-la-cour-internationale-de-justice-les-rohingya-ne-sont-pas-pres-de-rentrer-en-birmanie_6813682_3210.html",
-    "date": "2026-11-20T17:41:12Z",
+    "date": "2026-11-20T17:41:10Z",
     "lang": "fr",
     "image": "https://img.lemde.fr/2026/11/18/0/0/8256/5504/1440/960/60/0/e11d33f_ftp-1-a0fepietezoj-afp-d7u2469.jpg",
     "title_pt": "Apesar da decisão histórica do Tribunal Internacional de Justiça, os Rohingya não pretendem regressar à Birmânia",
@@ -1199,8 +1199,8 @@
     "date": "2026-11-20T16:30:09Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Protestos estudantis ocorrem em toda a Europa com reivindicações que vão desde financiamento escolar até questões climáticas Reuters",
-    "title_pt": "Protestos estudantis realizados em toda a Europa com reivindicações que vão desde o financiamento escolar até o clima"
+    "title_pt": "Protestos estudantis realizados em toda a Europa com reivindicações que vão desde o financiamento escolar até o clima",
+    "summary_pt": "Protestos estudantis ocorrem em toda a Europa com reivindicações que vão desde financiamento escolar até questões climáticas Reuters"
   },
   {
     "title": "Live: Trump hails 'great relationship' with China's Xi after three-way talks with Putin",
@@ -2337,20 +2337,6 @@
     "summary_pt": "Um artigo do “Mediapart”, publicado quinta-feira, 19 de novembro, afirma que uma empresa propriedade do judoca, candidato presidencial, beneficiou de encomendas do soberano marroquino “por milhões de euros”. Uma investigação que ilustra os laços estreitos entre os dois homens."
   },
   {
-    "title": "Blood Gold: The Munduruku’s fight for survival in the Brazilian Amazon",
-    "summary": "Fault Lines investigates how illegal gold mining poisons and threatens Indigenous communities in the Brazilian Amazon.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/video/fault-lines/2026/11/20/blood-gold-the-mundurukus-fight-for-survival-in-the-brazilian-amazon?traffic_source=rss",
-    "date": "2026-11-20T15:00:00Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795185238.jpg?resize=1920%2C1080&quality=80",
-    "title_pt": "Ouro de Sangue: A luta dos Munduruku pela sobrevivência na Amazônia brasileira",
-    "summary_pt": "Fault Lines investiga como a mineração ilegal de ouro envenena e ameaça as comunidades indígenas na Amazônia brasileira."
-  },
-  {
     "title": "Elena Anaya: “Pensar en la muerte puede servir para conectar con la vida, con el aquí y ahora”",
     "summary": "En el séptimo episodio de esta temporada de ‘Tercer Acto’, la actriz habla de la ilusión por aprender cada día, sus comienzos, cómo gestionó su carrera tras la llamada de Hollywood y sus prioridades vitales",
     "category": "Geral",
@@ -2363,6 +2349,20 @@
     "image": "https://imagenes.elpais.com/resizer/v2/6AWS7JHZCRDG7MCPVAB2R6OHXY.jpg?auth=2c2af0548dc50ac9369fa20072ed7c8e350524205ea51a2fbc496f48b8ebe27a",
     "title_pt": "Elena Anaya: “Pensar na morte pode ajudá-lo a se conectar com a vida, com o aqui e agora”",
     "summary_pt": "No sétimo episódio desta temporada de ‘Terceiro Ato’, a atriz fala sobre seu entusiasmo em aprender todos os dias, seus começos, como administrou sua carreira após a ligação de Hollywood e suas prioridades de vida"
+  },
+  {
+    "title": "Blood Gold: The Munduruku’s fight for survival in the Brazilian Amazon",
+    "summary": "Fault Lines investigates how illegal gold mining poisons and threatens Indigenous communities in the Brazilian Amazon.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/video/fault-lines/2026/11/20/blood-gold-the-mundurukus-fight-for-survival-in-the-brazilian-amazon?traffic_source=rss",
+    "date": "2026-11-20T15:00:00Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795185238.jpg?resize=1920%2C1080&quality=80",
+    "title_pt": "Ouro de Sangue: A luta dos Munduruku pela sobrevivência na Amazônia brasileira",
+    "summary_pt": "Fault Lines investiga como a mineração ilegal de ouro envenena e ameaça as comunidades indígenas na Amazônia brasileira."
   },
   {
     "title": "Trump holds press conference after meeting with Xi and Putin",
@@ -2615,20 +2615,6 @@
     "image": "https://images.euronews.com/articles/stories/10/00/19/24/696x392_cmsv2_cd1dd9c7-a3d3-55d5-b8b8-3b27a44178e7-10001924.jpg",
     "title_pt": "Estônia fechará fronteira com a Rússia por causa de ataque de sabotagem ligado ao GRU",
     "summary_pt": "Os cinco postos de controlo serão encerrados a partir de 1 de Dezembro, com uma possível revisão dentro de seis meses, após uma tentativa de incêndio criminoso numa instalação de defesa perto de Tallinn, que as autoridades estonianas dizem ter sido ordenada pela inteligência militar russa. Os serviços ferroviários permanecerão inalterados."
-  },
-  {
-    "title": "ECB to make euro swaps more accessible in global push, Lagarde says",
-    "summary": "ECB to make euro swaps more accessible in global push, Lagarde says Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2NCeURnMlNOTWoyc0lXdTQ4dFM4aUNNTVVDaVI5TEFQY0ZCU3hXcEVIalBnRGFLOS1qM195dG9qTlB5R2pXcG93eVFuVElWTnpJbW4wbUxicUl1aWxITjRYeTZHZVFtc09ha0JiX0J3NDlFa0w5bmZtNXozSGtDd2lMVGRIeWFXb0M0dUJTWktGUjdKWGRUeUsxOGdQUVF1SFdSYVdneHVITVFkNC1wci1wUQ?oc=5",
-    "date": "2026-11-20T14:41:52Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "BCE tornará os swaps do euro mais acessíveis em impulso global, diz Lagarde",
-    "summary_pt": "BCE tornará os swaps do euro mais acessíveis em impulso global, diz Lagarde à Reuters"
   },
   {
     "title": "La contención de Sánchez en el cara a cara divide al PSOE por su “pasividad” ante Feijóo",
@@ -3993,6 +3979,20 @@
     "summary_pt": "“Não vamos encerrar a guerra”, disse o senador Ron Johnson enquanto republicanos e democratas lutam para chegar a um acordo de financiamento governamental."
   },
   {
+    "title": "Scientists are learning more about the rare Ebola virus in Congo outbreak",
+    "summary": "Scientists are learning more about the rare Ebola virus in Congo outbreak Reuters",
+    "category": "Saúde",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSlFDZ0t2LWZfOElkUERrS0d5RVdaVERpejI2Q2lYdTNIY0RLSHVqQTM2UFJGVVlYNm9veHRzVHYxRmRyVjVCWlJhRnlXQTRpOF9MYVZ2d180X0tZM09sZnVUbzFJalZBbmVmRjJaUkJrbHpJUjI3Y0cwUl9zTlNuSnhsdHByUXNkOVRxV2RwaEkwYzVBeHJRMXdGY3VIdkJGdXZHOEVONmdWVmFOX2hQSkdFT2J1SjZaUXpsTnZ2UmlOUzdEOEhjOWFLX2U3UjBCb2ZjeA?oc=5",
+    "date": "2026-11-20T11:32:42Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "Cientistas estão aprendendo mais sobre o raro surto do vírus Ebola no Congo Reuters",
+    "title_pt": "Cientistas estão aprendendo mais sobre o raro vírus Ebola no surto no Congo"
+  },
+  {
     "title": "España se cita otra vez con Francia en los cuartos de final de la Nations League",
     "summary": "La campeona del mundo se medirá a la selección de Zidane, con la ida en la despedida de Mestalla, en una nueva edición del duelo entre Lamine Yamal y Mbappé",
     "category": "Geral",
@@ -4145,6 +4145,20 @@
     "image": "https://images.euronews.com/articles/stories/10/00/15/24/696x392_cmsv2_92953732-065d-5d1a-becb-48acb767c586-10001524.jpg",
     "title_pt": "Último boletim de notícias | 20 de novembro de 2026 – Meio-dia",
     "summary_pt": "Fique por dentro das notícias mais importantes da Europa e de outros lugares no dia 20 de novembro de 2026. Últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens."
+  },
+  {
+    "title": "European troops from 11 countries hold a drill in Poland for a potential postwar Ukraine mission",
+    "summary": "NOWA DEBA, Poland (AP) — Thousands of European troops are taking part in an unprecedented military exercise in southeastern Poland to prepare for a potential postwar mission in Ukraine aimed at helping to stabilize the country and rebuild its military once the war ends. Meanwhile, as the drill was …",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/poland-ukraine-military-exercise-peace-france-britain-a28d60d1b37093199dd017472028d7ac?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+    "date": "2026-11-20T10:56:00Z",
+    "lang": "en",
+    "image": "https://ic-cdn.flipboard.com/apnews.com/9b018c68960397ccd729261f05636fdeb21c651d/_xlarge.jpeg",
+    "title_pt": "Tropas europeias de 11 países realizam um exercício na Polônia para uma possível missão na Ucrânia pós-guerra",
+    "summary_pt": "NOWA DEBA, Polônia (AP) — Milhares de soldados europeus estão participando de um exercício militar sem precedentes no sudeste da Polônia para se prepararem para uma possível missão pós-guerra na Ucrânia, com o objetivo de ajudar a estabilizar o país e reconstruir suas forças armadas quando a guerra terminar. Enquanto isso, durante o exercício..."
   },
   {
     "title": "Más de la mitad de los jóvenes se encuentra a menudo con imágenes o vídeos falsos sobre el cambio climático: “Ya no me puedo creer nada”",
@@ -5337,7 +5351,7 @@
   {
     "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
     "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -7015,19 +7029,5 @@
     "image": "https://ic-cdn.flipboard.com/apnews.com/936875df7129fcf6919d9653ce9e8a626d9cde1e/_large.jpeg",
     "title_pt": "Não há como voltar “ao que era antes” do choque energético da guerra do Irão, afirma a AIE",
     "summary_pt": "O maior choque energético da história e as crescentes preocupações com as alterações climáticas estão a remodelar a forma como o mundo irá abastecer as casas, conduzir os automóveis e abastecer as indústrias, afirma um relatório da Agência Internacional de Energia divulgado quinta-feira. As repercussões da guerra do Irão “deixarão marcas duradouras” na energia mundial…"
-  },
-  {
-    "title": "Latest news bulletin | November 19th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "EU",
-    "source": "Euronews",
-    "url": "https://www.euronews.com/video/2026/11/19/latest-news-bulletin-november-19th-2026-evening",
-    "date": "2026-11-19T17:00:26Z",
-    "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/10/00/02/42/696x392_cmsv2_fa597336-4656-58a6-a4ae-45290b2539d9-10000242.jpg",
-    "title_pt": "Último boletim de notícias | 19 de novembro de 2026 – Noite",
-    "summary_pt": "Acompanhe as histórias mais importantes de toda a Europa e além neste dia 19 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens."
   }
 ]
