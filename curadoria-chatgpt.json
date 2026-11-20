@@ -2,9 +2,24 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-20T14:22:13.531Z",
+  "updated_at": "2026-11-20T15:16:22.901Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Reino Unido e União Europeia fecham novos acordos comerciais após o Brexit",
+      "summary": "Reino Unido e União Europeia concluíram em 20 de novembro acordos para facilitar o comércio de alimentos, conectar mercados de carbono e ampliar a mobilidade de jovens. As medidas principais têm implementação prevista a partir de 2028; negociações sobre taxas universitárias continuam.",
+      "impact_br": "Sem impacto direto confirmado no Brasil. Mudanças nas regras comerciais e de carbono europeias podem influenciar indiretamente exportadores brasileiros e cadeias internacionais de fornecimento.",
+      "category": "economia",
+      "region": "Europa",
+      "country": "GB",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/britain-eu-set-agree-reset-but-divisions-persist-2026-11-20/",
+      "published_on": "2026-11-20",
+      "published_at": "2026-11-20T00:02:00-04:00",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-20T15:16:22.901Z"
+    },
     {
       "title": "ONU reduz meta de ajuda alimentar e alerta para risco de nova crise global em 2027",
       "summary": "O Programa Mundial de Alimentos anunciou em 20 de novembro plano de US$ 12,1 bilhões para atender 91 milhões de pessoas em 2027, diante de 266 milhões que enfrentavam fome aguda em 2025. A falta de financiamento, guerras e extremos climáticos elevam o risco de agravamento da insegurança alimentar.",
