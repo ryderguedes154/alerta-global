@@ -2186,20 +2186,6 @@
     "summary_pt": "Ator relembrou a infância em propriedade nos Estados Unidos e revelou a origem da fortuna familiar, além das dificuldades que enfrentou na juventude"
   },
   {
-    "title": "Saudi's tallest skyscraper damaged in Houthi attack",
-    "summary": "Saudi Arabia's tallest skyscraper, the headquarters of the Saudi sovereign wealth fund, was struck in ​a Houthi attack in the latest in a series of strikes on the Gulf state, Riyadh said.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "Sky News",
-    "url": "https://news.sky.com/story/saudis-tallest-skyscraper-damaged-in-houthi-attack-13614147",
-    "date": "2026-11-19T22:00:00Z",
-    "lang": "en",
-    "image": "https://e3.365dm.com/26/11/1920x1080/skynews-houthi-attack-riyadh_7410746.jpg?20261119211843",
-    "title_pt": "O arranha-céu mais alto da Arábia Saudita foi danificado em um ataque dos houthis",
-    "summary_pt": "O arranha-céu mais alto da Arábia Saudita, sede do fundo soberano saudita, foi atingido em um ataque dos houthis, o mais recente de uma série de ataques ao país do Golfo, segundo Riade."
-  },
-  {
     "title": "11/19: The Takeout with Major Garrett",
     "summary": "Trump meets with Putin and Xi in historic summit; Anthropic goes public with record IPO.",
     "category": "Geral",
@@ -2212,6 +2198,20 @@
     "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/20/ad41473d-f2ac-4c55-84b2-5cf3d135488d/thumbnail/1200x630/6f4e6bda674d5014111352ec01576960/trumpsummit4.jpg",
     "title_pt": "19/11: The Takeout com Major Garrett",
     "summary_pt": "Trump se reúne com Putin e Xi em cúpula histórica; Anthropic abre o capital com IPO recorde."
+  },
+  {
+    "title": "Saudi's tallest skyscraper damaged in Houthi attack",
+    "summary": "Saudi Arabia's tallest skyscraper, the headquarters of the Saudi sovereign wealth fund, was struck in ​a Houthi attack in the latest in a series of strikes on the Gulf state, Riyadh said.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "Sky News",
+    "url": "https://news.sky.com/story/saudis-tallest-skyscraper-damaged-in-houthi-attack-13614147",
+    "date": "2026-11-19T22:00:00Z",
+    "lang": "en",
+    "image": "https://e3.365dm.com/26/11/1920x1080/skynews-houthi-attack-riyadh_7410746.jpg?20261119211843",
+    "title_pt": "O arranha-céu mais alto da Arábia Saudita foi danificado em um ataque dos houthis",
+    "summary_pt": "O arranha-céu mais alto da Arábia Saudita, sede do fundo soberano saudita, foi atingido em um ataque dos houthis, o mais recente de uma série de ataques ao país do Golfo, segundo Riade."
   },
   {
     "title": "Tremor de terra de magnitude 2,7 atinge Martinho Campos, em MG",
@@ -6103,7 +6103,7 @@
   {
     "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
     "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
-    "category": "Clima e desastres",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
