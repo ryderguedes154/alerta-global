@@ -780,8 +780,8 @@
     "date": "2026-11-20T17:59:12Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/YXA5Y4W2IBBCNK5YHSYYMHDN7I.jpg?auth=320b4ac2114c7899cddc2b0b21a1ac82d008f880862e4e8bafa13fd0da3884af",
-    "summary_pt": "Revisamos os looks dos convidados da grande gala de música realizada no Palau Sant Jordi em Barcelona",
-    "title_pt": "Rosalía, com um grande pássaro branco na cabeça: tapete vermelho do LOS40 Music Awards Santander"
+    "title_pt": "Rosalía, com um grande pássaro branco na cabeça: tapete vermelho do LOS40 Music Awards Santander",
+    "summary_pt": "Revisamos os looks dos convidados da grande gala de música realizada no Palau Sant Jordi em Barcelona"
   },
   {
     "title": "Burnham seals trade and youth mobility deals in biggest step towards EU since Brexit",
@@ -799,7 +799,7 @@
   },
   {
     "title": "Au Mali, une nouvelle société militaire turque épaule secrètement la junte d’Assimi Goïta",
-    "summary": "Des instructeurs d’Equipped Tactical Academy ont formé des éléments des forces spéciales maliennes fin 2025. Si la Russie reste, avec environ 2 000 militaires d’Africa Corps, le premier partenaire du Mali dans le secteur de la défense, la Turquie est également un allié sûr du pouvoir d’Assimi Goïta.",
+    "summary": "Des instructeurs d’Equipped Tactical Academy ont formé des éléments des forces spéciales maliennes, fin 2025. Si la Russie reste, avec environ 2 000 militaires d’Africa Corps, le premier partenaire du Mali dans le secteur de la défense, la Turquie est également un allié sûr du pouvoir d’Assimi Goïta.",
     "category": "Geral",
     "region": "Global",
     "country": "FR",
@@ -2927,20 +2927,6 @@
     "summary_pt": "Fault Lines investiga como a mineração ilegal de ouro envenena e ameaça as comunidades indígenas na Amazônia brasileira."
   },
   {
-    "title": "Elena Anaya: “Pensar en la muerte puede servir para conectar con la vida, con el aquí y ahora”",
-    "summary": "En el séptimo episodio de esta temporada de ‘Tercer Acto’, la actriz habla de la ilusión por aprender cada día, sus comienzos, cómo gestionó su carrera tras la llamada de Hollywood y sus prioridades vitales",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/eps/2026-11-20/elena-anaya-no-puede-existir-la-amistad-sin-la-empatia-de-saberse-poner-en-el-lugar-del-otro.html",
-    "date": "2026-11-20T15:00:00Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/6AWS7JHZCRDG7MCPVAB2R6OHXY.jpg?auth=2c2af0548dc50ac9369fa20072ed7c8e350524205ea51a2fbc496f48b8ebe27a",
-    "title_pt": "Elena Anaya: “Pensar na morte pode ajudá-lo a se conectar com a vida, com o aqui e agora”",
-    "summary_pt": "No sétimo episódio desta temporada de ‘Terceiro Ato’, a atriz fala sobre seu entusiasmo em aprender todos os dias, seus começos, como administrou sua carreira após a ligação de Hollywood e suas prioridades de vida"
-  },
-  {
     "title": "Trump touts meeting with Xi and Putin but offers little results",
     "summary": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
     "category": "Geral",
@@ -2953,6 +2939,20 @@
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5742x3827+0+0/resize/5742x3827!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fd9%2F6666a29741a3a9cd3bf00907418d%2Fgettyimages-2306087994.jpg",
     "title_pt": "Trump divulga encontros com Xi e Putin, mas oferece poucos resultados",
     "summary_pt": "Trump não respondeu formalmente a perguntas enquanto estava na China no final de sua viagem, embora isso seja normalmente esperado em viagens presidenciais ao exterior."
+  },
+  {
+    "title": "Elena Anaya: “Pensar en la muerte puede servir para conectar con la vida, con el aquí y ahora”",
+    "summary": "En el séptimo episodio de esta temporada de ‘Tercer Acto’, la actriz habla de la ilusión por aprender cada día, sus comienzos, cómo gestionó su carrera tras la llamada de Hollywood y sus prioridades vitales",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/eps/2026-11-20/elena-anaya-no-puede-existir-la-amistad-sin-la-empatia-de-saberse-poner-en-el-lugar-del-otro.html",
+    "date": "2026-11-20T15:00:00Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/6AWS7JHZCRDG7MCPVAB2R6OHXY.jpg?auth=2c2af0548dc50ac9369fa20072ed7c8e350524205ea51a2fbc496f48b8ebe27a",
+    "title_pt": "Elena Anaya: “Pensar na morte pode ajudá-lo a se conectar com a vida, com o aqui e agora”",
+    "summary_pt": "No sétimo episódio desta temporada de ‘Terceiro Ato’, a atriz fala sobre seu entusiasmo em aprender todos os dias, seus começos, como administrou sua carreira após a ligação de Hollywood e suas prioridades de vida"
   },
   {
     "title": "Un poquito de Alcaraz, excesivo para el abatido Cobolli: prueba superada",
@@ -3759,7 +3759,7 @@
   {
     "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
     "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5169,7 +5169,7 @@
   {
     "title": "Should AI be judging our credit worthiness?",
     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5657,8 +5657,8 @@
     "date": "2026-11-20T05:02:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Rúpia ultrapassa 93/USD enquanto investidores buscam abrigo nas ações indianas e posições vendidas se desenrolam Reuters",
-    "title_pt": "A rupia ultrapassa 93/USD enquanto os investidores buscam abrigo nas ações indianas e as posições vendidas se desenrolam"
+    "title_pt": "A rupia ultrapassa 93/USD enquanto os investidores buscam abrigo nas ações indianas e as posições vendidas se desenrolam",
+    "summary_pt": "Rúpia ultrapassa 93/USD enquanto investidores buscam abrigo nas ações indianas e posições vendidas se desenrolam Reuters"
   },
   {
     "title": "Race to be next UN secretary general exposes divisions among world powers",
@@ -5713,8 +5713,8 @@
     "date": "2026-11-20T04:58:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Indonésia pede ao Google que esclareça remoção de 19 mil canais do YouTube, diz ministério Reuters",
-    "title_pt": "Indonésia pede ao Google que esclareça remoção de 19 mil canais do YouTube, diz ministério"
+    "title_pt": "Indonésia pede ao Google que esclareça remoção de 19 mil canais do YouTube, diz ministério",
+    "summary_pt": "Indonésia pede ao Google que esclareça remoção de 19 mil canais do YouTube, diz ministério Reuters"
   },
   {
     "title": "Xi hails 'comprehensive turnaround' in China-Australia ties",
