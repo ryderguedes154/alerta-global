@@ -24,8 +24,8 @@
     "date": "2026-11-20T11:30:46Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/ADBO2XH7OVPFRDAZMWS5APIFEQ.jpg?auth=84f34bfa0201e1c5865d64991d929f517794fa37a7a2c5568c9baa4f6a05f972",
-    "summary_pt": "O campeão mundial jogará contra a equipe de Zidane por uma vaga na Final Four",
-    "title_pt": "Espanha enfrentará a França nas quartas de final da Liga das Nações"
+    "title_pt": "Espanha enfrentará a França nas quartas de final da Liga das Nações",
+    "summary_pt": "O campeão mundial jogará contra a equipe de Zidane por uma vaga na Final Four"
   },
   {
     "title": "El Reino Unido y la UE buscan fijar un acuerdo limitado de movilidad juvenil que supere el bloqueo del Brexit",
@@ -52,8 +52,8 @@
     "date": "2026-11-20T11:30:00Z",
     "lang": "en",
     "image": "https://static.dw.com/image/80001113_6.jpg",
-    "summary_pt": "Autoridades da União Europeia e o primeiro-ministro do Reino Unido, Andy Burnham, reuniram-se em Bruxelas para discutir os esforços para reconstruir os laços após o Brexit.",
-    "title_pt": "UE e Reino Unido realizam uma rara cimeira na tentativa de “reconstruir laços”"
+    "title_pt": "UE e Reino Unido realizam uma rara cimeira na tentativa de “reconstruir laços”",
+    "summary_pt": "Autoridades da União Europeia e o primeiro-ministro do Reino Unido, Andy Burnham, reuniram-se em Bruxelas para discutir os esforços para reconstruir os laços após o Brexit."
   },
   {
     "title": "Malaysia's unwanted refugees: The plight of the Rohingya",
@@ -458,8 +458,8 @@
     "date": "2026-11-20T10:56:02Z",
     "lang": "en",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1a9/live/1f7166f0-e4c2-11f1-87df-79d8910e0f29.jpg",
-    "summary_pt": "Os agentes da polícia apelaram a \"maiores esforços para prevenir... a violência\" contra mulheres e crianças.",
-    "title_pt": "Quase 600 mulheres mortas na África do Sul em três meses"
+    "title_pt": "Quase 600 mulheres mortas na África do Sul em três meses",
+    "summary_pt": "Os agentes da polícia apelaram a \"maiores esforços para prevenir... a violência\" contra mulheres e crianças."
   },
   {
     "title": "Dez anos depois, Reino Unido pode reverter o Brexit? Entenda",
@@ -941,6 +941,20 @@
     "summary_pt": "Ucrânia sobrecarrega a logística russa com ataques à ponte da Crimeia Reuters"
   },
   {
+    "title": "South Korea catches 111 students with new measures against exam cheating",
+    "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-20T10:16:19Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f32a/live/51464610-e4cb-11f1-8ebd-0fa6091698b5.jpg",
+    "title_pt": "Coreia do Sul pega 111 estudantes com novas medidas contra trapaça em exames",
+    "summary_pt": "Os estudantes foram pegos com dispositivos inteligentes proibidos enquanto faziam o exame Suneung de alto risco."
+  },
+  {
     "title": "Can German auto manufacturing recover after Mercedes and VW cuts?",
     "summary": "German automakers are pulling back on investments at home, sparking fresh anxiety about the auto sector's future. Some industry watchers think there is still a narrow window to stem the decline. But how?",
     "category": "Geral",
@@ -953,6 +967,20 @@
     "image": "https://static.dw.com/image/79669256_6.jpg",
     "title_pt": "A indústria automobilística alemã pode se recuperar após os cortes da Mercedes e da VW?",
     "summary_pt": "As montadoras alemãs estão reduzindo os investimentos no país, o que gera novas preocupações sobre o futuro do setor automotivo. Alguns observadores do setor acham que ainda há uma pequena janela de oportunidade para conter o declínio. Mas como?"
+  },
+  {
+    "title": "As Trump courts Xi and Putin, middle powers make their own moves",
+    "summary": "As Trump courts Xi and Putin, middle powers make their own moves Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSTlEeUw0SVZ1dkFoRVM0WEdFTktVUVFoQ2VvVlV5YmpQaEdwVGFWWmVnSmdmRU1pdXBRZng0MTV6ZVhOZjd0b2o5MlVicFh4Q3RkWEFMLWl4QzRtSHFJZ0VUbDA0YzcyOTNlZF9EQzhtUjA5R1gxXzBYS05qM0ZISGlBdnZCdXpFdjZhc2lCZ3dGdHlEU3JlOXNVdnFlVlVqWC1qWHdwNA?oc=5",
+    "date": "2026-11-20T10:13:14Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "Enquanto Trump corteja Xi e Putin, potências médias tomam suas próprias medidas Reuters",
+    "title_pt": "Enquanto Trump corteja Xi e Putin, as potências médias tomam as suas próprias medidas"
   },
   {
     "title": "The far right is 'missing the butt' of the GTA VI joke: It's them!",
@@ -1321,7 +1349,7 @@
   {
     "title": "White House removes cyber-security chief after series of tech outages",
     "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1485,6 +1513,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae7104a-1793527882.jpg?resize=1920%2C1440",
     "title_pt": "A crescente crise de doping no Quénia ofusca o legado como potência do atletismo",
     "summary_pt": "Mais de 140 atletas quenianos suspensos pela Unidade de Integridade do Atletismo desde 2017, a maioria deles corredores de longa distância."
+  },
+  {
+    "title": "Myanmar rejects UN court's genocide ruling as 'unfair'",
+    "summary": "Myanmar branded a ruling by the UN's highest court that its security forces conducted state-sponsored genocide against Rohingya Muslims as \"unfair\".",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "Sky News",
+    "url": "https://news.sky.com/story/myanmar-rejects-un-courts-rohingya-genocide-guilty-verdict-as-unfair-13614272",
+    "date": "2026-11-20T09:15:00Z",
+    "lang": "en",
+    "image": "https://e3.365dm.com/26/11/1920x1080/skynews-rohingya-icj_7411269.jpg?20261120103409",
+    "summary_pt": "Mianmar classificou como “injusta” a decisão do mais alto tribunal da ONU de que as suas forças de segurança conduziram um genocídio patrocinado pelo Estado contra os muçulmanos Rohingya.",
+    "title_pt": "Mianmar rejeita decisão do tribunal da ONU sobre genocídio como “injusta”"
   },
   {
     "title": "The U.K. and EU hold a rare summit to strengthen ties",
@@ -2151,7 +2193,7 @@
   {
     "title": "Should AI be judging our credit worthiness?",
     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3878,7 +3920,7 @@
   {
     "title": "GTA 6 breaks records as estimated sales top $2.3bn",
     "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5636,20 +5678,6 @@
     "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
-    "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows",
-    "summary": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5",
-    "date": "2026-11-19T18:37:35Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Divulgação mostra que Trump comprou até US$ 265 mil em ações da Nvidia em setembro",
-    "summary_pt": "Divulgação mostra que Trump comprou até US$ 265 mil em ações da Nvidia em setembro, segundo a Reuters"
-  },
-  {
     "title": "Au Sénégal, l’émoi après la mort d’un nourrisson victime d’une excision",
     "summary": "L’enfant âgée de 2 jours est morte d’une hémorragie, le 13 novembre, après avoir subi une excision commise par sa grand-mère. Des collectifs féministes demandent à l’Etat sénégalais de redoubler d’efforts pour mettre fin à cette pratique qui perdure malgré son interdiction.",
     "category": "Geral",
@@ -6546,20 +6574,6 @@
     "summary_pt": "O órgão de defesa da concorrência do Reino Unido afirma que as conclusões iniciais sugerem que o site de revenda de ingressos usou a prática de preços incrementais."
   },
   {
-    "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
-    "summary": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-19T13:35:29Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a1f/live/36fc5700-e411-11f1-b37c-b3a71d7200af.jpg",
-    "title_pt": "Pássaro pernalta chamado Phil rastreado em migração épica para a Sibéria e vice-versa",
-    "summary_pt": "Um pássaro surpreendeu os conservacionistas ao completar uma viagem de ida e volta de 6.800 milhas até a Sibéria."
-  },
-  {
     "title": "Europa se preocupa com resultado de reunião trilateral entre Estados Unidos, China e Rússia",
     "summary": "Europa se preocupa com resultado de reunião trilateral entre EUA, China e Rússia A aproximação entre os presidentes dos Estados Unidos, Donald Trump, e da Rússia, Vladimir Putin, preocupa os líderes europeus. Embora sofram diretamente as consequências da guerra na Ucrânia, os países do continente temem ficar de fora das negociações sobre o futuro do conflito",
     "category": "Geral",
@@ -7006,19 +7020,5 @@
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-colombia-president-pjvz/19int-colombia-president-pjvz-mediumSquareAt3X.jpg",
     "title_pt": "O presidente da Colômbia está ganhando a reputação de provocar controvérsias",
     "summary_pt": "O novo líder da Colômbia, Abelardo De La Espriella, se apresenta como um guerreiro contra grupos criminosos e a cultura \"woke\" e provoca controvérsias a cada passo."
-  },
-  {
-    "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
-    "summary": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session.",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
-    "date": "2026-11-19T10:02:50Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19CLI-COP31-SCENE-top-qltf/19CLI-COP31-SCENE-top-qltf-mediumSquareAt3X.jpg",
-    "title_pt": "Por dentro da COP31: parte feira comercial, parte sessão de terapia climática",
-    "summary_pt": "Um número recorde de pessoas está participando das negociações climáticas da ONU na Turquia, que se tornaram parte feira de negócios, parte carnaval, parte sessão de terapia climática."
   }
 ]
