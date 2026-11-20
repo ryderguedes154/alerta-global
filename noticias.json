@@ -44,7 +44,7 @@
   {
     "title": "Anthropic shares fall a day after blockbuster opening",
     "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -79,7 +79,7 @@
     "url": "https://www.euronews.com/2026/11/20/deepening-eucanada-ties-from-critical-minerals-and-defence-to-erasmus",
     "date": "2026-11-20T16:21:57Z",
     "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/10/00/20/69/696x392_cmsv2_4cd771c0-c7d4-5f4d-967e-b9b13cb6b8fe-10002069.jpg",
+    "image": "https://images.euronews.com/articles/stories/10/00/20/69/696x392_cmsv2_e0a0abb1-7a71-5ebc-b771-851dd6398d8a-10002069.jpg",
     "title_pt": "Aprofundar os laços UE-Canadá: Dos minerais críticos e da defesa ao Erasmus+",
     "summary_pt": "“Estamos determinados a impulsionar o impulso político renovado entre a UE e o Canadá”, escrevem quatro membros do Grupo do Partido Popular Europeu (PPE) no Parlamento Europeu num artigo de opinião para a Euronews, publicado por ocasião de uma visita de uma delegação do PPE ao Canadá em 19 e 21 de novembro."
   },
@@ -1218,20 +1218,6 @@
     "summary_pt": "Um artigo do “Mediapart”, publicado quinta-feira, 19 de novembro, afirma que uma empresa propriedade do judoca, candidato presidencial, beneficiou de encomendas do soberano marroquino “por milhões de euros”. Uma investigação que ilustra os laços estreitos entre os dois homens."
   },
   {
-    "title": "Elena Anaya: “Pensar en la muerte puede servir para conectar con la vida, con el aquí y ahora”",
-    "summary": "En el séptimo episodio de esta temporada de ‘Tercer Acto’, la actriz habla de la ilusión por aprender cada día, sus comienzos, cómo gestionó su carrera tras la llamada de Hollywood y sus prioridades vitales",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/eps/2026-11-20/elena-anaya-no-puede-existir-la-amistad-sin-la-empatia-de-saberse-poner-en-el-lugar-del-otro.html",
-    "date": "2026-11-20T15:00:00Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/6AWS7JHZCRDG7MCPVAB2R6OHXY.jpg?auth=2c2af0548dc50ac9369fa20072ed7c8e350524205ea51a2fbc496f48b8ebe27a",
-    "title_pt": "Elena Anaya: “Pensar na morte pode ajudá-lo a se conectar com a vida, com o aqui e agora”",
-    "summary_pt": "No sétimo episódio desta temporada de ‘Terceiro Ato’, a atriz fala sobre seu entusiasmo em aprender todos os dias, seus começos, como administrou sua carreira após a ligação de Hollywood e suas prioridades de vida"
-  },
-  {
     "title": "Blood Gold: The Munduruku’s fight for survival in the Brazilian Amazon",
     "summary": "Fault Lines investigates how illegal gold mining poisons and threatens Indigenous communities in the Brazilian Amazon.",
     "category": "Geral",
@@ -1244,6 +1230,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795185238.jpg?resize=1920%2C1080&quality=80",
     "title_pt": "Ouro de Sangue: A luta dos Munduruku pela sobrevivência na Amazônia brasileira",
     "summary_pt": "Fault Lines investiga como a mineração ilegal de ouro envenena e ameaça as comunidades indígenas na Amazônia brasileira."
+  },
+  {
+    "title": "Elena Anaya: “Pensar en la muerte puede servir para conectar con la vida, con el aquí y ahora”",
+    "summary": "En el séptimo episodio de esta temporada de ‘Tercer Acto’, la actriz habla de la ilusión por aprender cada día, sus comienzos, cómo gestionó su carrera tras la llamada de Hollywood y sus prioridades vitales",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/eps/2026-11-20/elena-anaya-no-puede-existir-la-amistad-sin-la-empatia-de-saberse-poner-en-el-lugar-del-otro.html",
+    "date": "2026-11-20T15:00:00Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/6AWS7JHZCRDG7MCPVAB2R6OHXY.jpg?auth=2c2af0548dc50ac9369fa20072ed7c8e350524205ea51a2fbc496f48b8ebe27a",
+    "title_pt": "Elena Anaya: “Pensar na morte pode ajudá-lo a se conectar com a vida, com o aqui e agora”",
+    "summary_pt": "No sétimo episódio desta temporada de ‘Terceiro Ato’, a atriz fala sobre seu entusiasmo em aprender todos os dias, seus começos, como administrou sua carreira após a ligação de Hollywood e suas prioridades de vida"
   },
   {
     "title": "Trump to hold press conference after meeting with Xi and Putin",
@@ -1676,8 +1676,8 @@
     "date": "2026-11-20T14:35:27Z",
     "lang": "en",
     "image": "https://s.france24.com/media/display/ed281fb0-e4ec-11f1-b121-6b451f569414/w:1024/p:16x9/000-9QL2XA.jpg",
-    "summary_pt": "As autoridades francesas estão a investigar se um antigo alto funcionário do Ministério do Interior vazou informações confidenciais sobre investigações judiciais sobre o Comício Nacional da líder de extrema-direita Marine Le Pen, agravando os problemas jurídicos do partido antes das eleições presidenciais do próximo ano, nas quais Le Pen é o actual líder.",
-    "title_pt": "França investiga suspeita de vazamento de informações confidenciais ao partido de Le Pen"
+    "title_pt": "França investiga suspeita de vazamento de informações confidenciais ao partido de Le Pen",
+    "summary_pt": "As autoridades francesas estão a investigar se um antigo alto funcionário do Ministério do Interior vazou informações confidenciais sobre investigações judiciais sobre o Comício Nacional da líder de extrema-direita Marine Le Pen, agravando os problemas jurídicos do partido antes das eleições presidenciais do próximo ano, nas quais Le Pen é o actual líder."
   },
   {
     "title": "O potencial da IA e outras conclusões sobre reunião entre Trump, Xi e Putin",
@@ -2482,7 +2482,7 @@
   {
     "title": "White House removes cyber-security chief after series of tech outages",
     "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2624,7 +2624,7 @@
   {
     "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
     "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4621,7 +4621,7 @@
   {
     "title": "Should AI be judging our credit worthiness?",
     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5001,7 +5001,7 @@
   {
     "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
     "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5519,6 +5519,20 @@
     "summary_pt": "Sean Cairncross está deixando seu cargo de diretor nacional de cibersegurança após uma semana caótica de interrupções tecnológicas. Kirsten Davies, diretora de informações do Pentágono, assumirá o cargo interinamente."
   },
   {
+    "title": "El Salvador President Nayib Bukele seeks third term at home while fighting gangs in Haiti",
+    "summary": "SAN SALVADOR (AP) — El Salvador President Nayib Bukele on Thursday night officially launched his candidacy for a third term in office after years of paving the way to stay in power indefinitely. With virtually no political opposition, the highly popular leader is positioned to coast easily into a …",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/el-salvador-president-nayib-bukele-reelection-gangs-fbbf0ec3bba7966fa1a5d71d04e04e29?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+    "date": "2026-11-20T04:06:45Z",
+    "lang": "en",
+    "image": "https://ic-cdn.flipboard.com/apnews.com/a6aed34648cab3475fe459417582e4e8b73d45b8/_large.jpeg",
+    "title_pt": "O presidente de El Salvador, Nayib Bukele, busca o terceiro mandato em casa enquanto luta contra gangues no Haiti",
+    "summary_pt": "SAN SALVADOR (AP) – O presidente de El Salvador, Nayib Bukele, lançou oficialmente na noite de quinta-feira sua candidatura para um terceiro mandato, depois de anos abrindo caminho para permanecer no poder indefinidamente. Praticamente sem oposição política, o líder altamente popular está posicionado para facilmente entrar em uma…"
+  },
+  {
     "title": "Bukele tenta 3º mandato após El Salvador liberar reeleição indefinida",
     "summary": "O presidente de El Salvador, Nayib Bukele, acena após se registrar como candidato presidencial para as eleições gerais de 2027, no Tribunal Supremo Eleitoral, em San Salvador. Jose Cabezas/Reuters Nayib Bukele, de El Salvador, registrou nesta quinta-feira (19) sua candidatura para disputar um terceiro mandato presidencial inédito nas eleições de fevereiro, n",
     "category": "Geral",
@@ -5969,6 +5983,20 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
     "title_pt": "Dezenas de milhares de geladeiras no Reino Unido foram protegidas contra hackers em uma operação secreta em todo o país",
     "summary_pt": "Supermercados, armazéns, restaurantes e estádios têm se esforçado para tornar seus dispositivos seguros."
+  },
+  {
+    "title": "Israel says it struck at Hezbollah, Iraq compromises with a militia group and other Mideast news",
+    "summary": "The Israeli military launched strikes in Lebanon on Thursday, saying it was targeting Hezbollah efforts to rebuild its forces, while Iraq’s government appeared to have reached a compromise with a powerful Iran-backed militia it had accused of smuggling oil. In Yemen, Iran-backed Houthi rebels said …",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/saudi-yemen-war-iran-november-19-2026-e72472c557057943cab32010666b29bf?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+    "date": "2026-11-19T23:53:22Z",
+    "lang": "en",
+    "image": "https://ic-cdn.flipboard.com/apnews.com/e9b39f4c421b9371ed931adb1dc8361a7f5fb43b/_large.jpeg",
+    "title_pt": "Israel diz que atacou o Hezbollah, o Iraque compromete-se com um grupo de milícias e outras notícias do Oriente Médio",
+    "summary_pt": "Os militares israelitas lançaram ataques no Líbano na quinta-feira, dizendo que tinham como alvo os esforços do Hezbollah para reconstruir as suas forças, enquanto o governo do Iraque parecia ter chegado a um compromisso com uma poderosa milícia apoiada pelo Irão que acusou de contrabandear petróleo. No Iémen, os rebeldes Houthi apoiados pelo Irão disseram…"
   },
   {
     "title": "How did Anthropic's stock market debut unfold?",
@@ -6985,8 +7013,8 @@
     "date": "2026-11-19T16:34:42Z",
     "lang": "en",
     "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-Brazil-Indigenous-tvjz/18int-Brazil-Indigenous-tvjz-mediumSquareAt3X.jpg",
-    "summary_pt": "Um grupo de 20 pessoas emergiu da floresta e pediu comida, disse um grupo de defesa dos direitos dos povos indígenas, levantando receios de que a degradação ambiental os tenha deixado sem outra escolha senão estender a mão.",
-    "title_pt": "Awá isolados do Brasil emergem da floresta em busca de alimento"
+    "title_pt": "Awá isolados do Brasil emergem da floresta em busca de alimento",
+    "summary_pt": "Um grupo de 20 pessoas emergiu da floresta e pediu comida, disse um grupo de defesa dos direitos dos povos indígenas, levantando receios de que a degradação ambiental os tenha deixado sem outra escolha senão estender a mão."
   },
   {
     "title": "Dutch watchdog tells people not to buy AI smart glasses",
@@ -7001,33 +7029,5 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg",
     "title_pt": "Cão de guarda holandês diz às pessoas para não comprarem óculos inteligentes de IA",
     "summary_pt": "Testes de óculos mostraram que algumas instruções de medicamentos foram mal interpretadas ou fingiram ter chamado uma ambulância"
-  },
-  {
-    "title": "Rare rhino's first steps captured on video at zoo",
-    "summary": "Zookeepers say the rhino's birth is a \"special moment\" for the under-threat one horned species.",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cmly7dvjqg8xo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-19T16:28:41Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d1/live/b7600f70-e418-11f1-b37c-b3a71d7200af.jpg",
-    "title_pt": "Primeiros passos de rinocerontes raros capturados em vídeo no zoológico",
-    "summary_pt": "Os tratadores do zoológico dizem que o nascimento do rinoceronte é um “momento especial” para a ameaçada espécie de chifre único."
-  },
-  {
-    "title": "The Rohingya Crisis Over the Years",
-    "summary": "After government troops and mobs rampaged through Rohingya communities in Myanmar in 2017, refugees fled to to Bangladesh.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/19/world/asia/rohingya-camps-photos-bangladesh.html",
-    "date": "2026-11-19T16:27:27Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-Rohingya-Photos-01-cpzw/19int-Rohingya-Photos-01-cpzw-mediumSquareAt3X.jpg",
-    "summary_pt": "Depois que tropas governamentais e multidões atacaram as comunidades Rohingya em Mianmar em 2017, os refugiados fugiram para Bangladesh.",
-    "title_pt": "A crise Rohingya ao longo dos anos"
   }
 ]
