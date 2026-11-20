@@ -1,7 +1,7 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T16:46:53.071880Z",
+  "checked_at": "2026-11-20T16:52:03.981522Z",
   "status": "checado",
   "items": [
     {
@@ -18,19 +18,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Putin, Trump e Xi condenam a guerra nuclear enquanto a Europa observa de perto",
-      "summary": "Após a cimeira, os líderes da Rússia, dos Estados Unidos e da China concordaram que “uma guerra nuclear não pode ser vencida e nunca deve ser travada”. Alguns analistas estão céticos de que isso resultará em mudanças reais.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
-      "published_on": "19/11/2026 10:23 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nukes-europe-1-zwgv/19trump-summits-nukes-europe-1-zwgv-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "O que sabemos sobre os últimos ataques com mísseis russos na Ucrânia",
       "summary": "O que sabemos sobre os últimos ataques com mísseis russos à Ucrânia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,6 +28,19 @@
       "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
       "published_on": "20/11/2026 11:14 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f6/live/3145d4a0-e4f0-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Míssil russo atinge a Polônia enquanto aliados da Ucrânia realizam exercício militar, diz Tusk",
+      "summary": "O primeiro-ministro Donald Tusk disse que não parecia ter sido um acidente quando os exercícios militares ocidentais estavam ocorrendo na região.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "published_on": "20/11/2026 09:52 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
       "selection": "automatic"
     },
     {
