@@ -1,8 +1,8 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T23:46:23.337335Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T23:51:31.360595Z",
+  "status": "checado",
   "items": [
     {
       "title": "Míssil russo atinge a Polônia enquanto aliados da Ucrânia realizam exercício militar, diz Tusk",
@@ -57,6 +57,19 @@
       "selection": "automatic"
     },
     {
+      "title": "EUA anunciam sanções a iranianos que lucravam com venda ilícita de petróleo",
+      "summary": "Departamento do Tesouro disse que sancionados arrecadando dinheiro de vendas para Teerã e tentavam burlar bloqueio naval americano",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/eua-anunciam-sancoes-a-iranianos-que-lucravam-com-venda-ilicita-de-petroleo/",
+      "published_on": "20/11/2026 19:24 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM0B12A-BASEIMAGE.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
       "title": "Na Cúpula da APEC, EUA, China e Rússia prometem aumentar a oferta de petróleo em meio à transição energética global",
       "summary": "Os Estados Unidos, a China e a Rússia concordaram em aumentar o fornecimento de produtos petrolíferos refinados, à medida que os preços do petróleo disparam devido à guerra no Irão.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -83,29 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "O Irã prepara um comboio de petroleiros na Ilha de Kharg para testar o bloqueio de petróleo dos EUA",
-      "summary": "Mais de 14 petroleiros receberam tripulações e bandeiras iranianas no terminal que processa até 90% das exportações de petróleo bruto do país, de acordo com imagens de satélite e dados de rastreamento de navios, com um comboio previsto para seguir em direção ao Mar de Omã nos próximos dias.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/20/iran-readies-tanker-convoy-at-kharg-island-to-test-us-oil-blockade",
-      "published_on": "20/11/2026 06:06 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/10/00/12/73/696x392_cmsv2_70290719-679c-58bb-bc5e-6fd76b1067e8-10001273.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump ameaça proibir empresas dos EUA de construir data centers de IA no exterior",
-      "summary": "O presidente dos EUA forneceu poucos detalhes sobre a possível política, dizendo que outras pessoas de sua equipe estavam ouvindo falar dela pela primeira vez.",
+      "title": "Legisladores dos EUA pressionam por regras mais rígidas para chips de IA em meio à repressão às exportações para a China",
+      "summary": "Washington tem novas regras que restringem o acesso remoto a chips de IA avançados dos EUA, mas os legisladores querem mais.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Tecnologia",
       "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "published_on": "20/11/2026 16:54 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+      "published_on": "20/11/2026 18:15 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00920d55d3-1795199501.jpg?resize=1920%2C1440",
       "selection": "automatic"
     }
   ]
