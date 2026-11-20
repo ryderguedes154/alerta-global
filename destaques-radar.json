@@ -1,7 +1,7 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T14:56:56.514654Z",
+  "checked_at": "2026-11-20T15:02:17.583253Z",
   "status": "checado",
   "items": [
     {
@@ -18,19 +18,6 @@
       "selection": "automatic"
     },
     {
-      "title": "China, Rússia e EUA dizem, em declaração de paz conjunta, que 'guerra nuclear nunca deve acontecer'",
-      "summary": "Reunião histórica: líderes de EUA, Rússia e China se encontram em Shenzhen China, Rússia e Estados Unidos manterão um diálogo sobre riscos nucleares e concordam que uma guerra nuclear nunca deve acontecer, anunciaram os três países em conjunto, por meio de uma \"declaração de paz\". ✅ Siga o canal de notícias internacionais do g1 no WhatsApp ANÁLISE: Trump, Xi",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/19/china-russia-e-eua-manterao-dialogo-sobre-riscos-nucleares.ghtml",
-      "published_on": "19/11/2026 07:17 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/A36-0BLPsXruu0REatMVCtv1BD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/P/VS7NyPS1AUoHKimxrHMw/2026-11-19t083332z-1813811123-rc2wqoau4zb0-rtrmadp-3-apec-summit.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Míssil russo atinge a Polônia enquanto aliados da Ucrânia realizam exercício militar, diz Tusk",
       "summary": "O primeiro-ministro Donald Tusk disse que não parecia ter sido um acidente quando os exercícios militares ocidentais estavam ocorrendo na região.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,6 +28,19 @@
       "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
       "published_on": "20/11/2026 09:52 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Tropas europeias de 11 países realizam um exercício na Polônia para uma possível missão na Ucrânia pós-guerra",
+      "summary": "NOWA DEBA, Polônia (AP) — Milhares de soldados europeus estão participando de um exercício militar sem precedentes no sudeste da Polônia para se prepararem para uma possível missão pós-guerra na Ucrânia, com o objetivo de ajudar a estabilizar o país e reconstruir suas Forças Armadas quando a guerra terminar. Liderados pela França e pelos Estados Unidos...",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/poland-ukraine-military-exercise-peace-france-britain-a28d60d1b37093199dd017472028d7ac?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+      "published_on": "20/11/2026 06:56 (Boa Vista)",
+      "image": "https://ic-cdn.flipboard.com/apnews.com/9b018c68960397ccd729261f05636fdeb21c651d/_xlarge.jpeg",
       "selection": "automatic"
     },
     {
