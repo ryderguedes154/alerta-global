@@ -1,7 +1,7 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T10:42:03.805938Z",
+  "checked_at": "2026-11-20T10:47:21.138213Z",
   "status": "checado",
   "items": [
     {
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Líderes da Espanha entram em conflito sobre corrupção e economia em tenso debate eleitoral",
+      "summary": "O primeiro-ministro socialista da Espanha, Pedro Sánchez, reconheceu ter cometido “erros” ao enfrentar seu principal rival conservador em um debate importante na quinta-feira, antes de uma eleição na próxima semana que pode deixar a extrema direita à beira do poder. A dupla entrou em conflito sobre a economia, habitação, imigração, corrupção, política extern",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "FR",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261120-spain-s-leaders-clash-over-corruption-economy-in-tense-election-debate",
+      "published_on": "20/11/2026 06:39 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/fad0b33e-e4c9-11f1-889a-e56ab3dc0809/w:1024/p:16x9/EN-20261120-100959-101135-CS.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "O Irã prepara um comboio de petroleiros na Ilha de Kharg para testar o bloqueio de petróleo dos EUA",
       "summary": "Mais de 14 petroleiros receberam tripulações e bandeiras iranianas no terminal que processa até 90% das exportações de petróleo bruto do país, de acordo com imagens de satélite e dados de rastreamento de navios, com um comboio previsto para seguir em direção ao Mar de Omã nos próximos dias.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://www.euronews.com/2026/11/20/iran-readies-tanker-convoy-at-kharg-island-to-test-us-oil-blockade",
       "published_on": "20/11/2026 06:06 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/12/73/696x392_cmsv2_70290719-679c-58bb-bc5e-6fd76b1067e8-10001273.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Conflito no Médio Oriente representa a maior ameaça à segurança energética global da história, alerta AIE",
-      "summary": "A interrupção do fornecimento de petróleo através do Estreito de Ormuz está a aumentar os custos para as famílias, enquanto a agência afirma que quanto mais a crise durar, mais difícil será a recuperação dos mercados energéticos globais.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/19/middle-east-conflict-poses-biggest-threat-to-global-energy-security-in-history-iea-warns",
-      "published_on": "19/11/2026 13:18 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/10/00/01/62/696x392_cmsv2_50db40b4-9815-5c42-9e90-d63a0568a143-10000162.jpg",
       "selection": "automatic"
     },
     {
