@@ -57,7 +57,7 @@
   },
   {
     "title": "Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA",
-    "summary": "A declaração ocorreu após uma série de viagens à Ásia, durante as quais Trump teve encontros com líderes de pelo menos 20 países e disse ter fechado cerca de 10 novos acordos comerciais.",
+    "summary": "A declaração ocorreu após uma série de viagens à Ásia, durante as quais Trump teve encontros com líderes de pelo menos 20 países e disse ter encaminhado até 10 novos acordos comerciais.",
     "category": "Geral",
     "region": "Global",
     "country": "BR",
@@ -67,7 +67,7 @@
     "lang": "pt",
     "image": "https://admin.preprod.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/donald-trump_f0701e.jpg?w=200",
     "title_pt": "Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA",
-    "summary_pt": "A declaração ocorreu após uma série de viagens à Ásia, durante as quais Trump teve encontros com líderes de pelo menos 20 países e disse ter fechado cerca de 10 novos acordos comerciais."
+    "summary_pt": "A declaração ocorreu após uma série de viagens à Ásia, durante as quais Trump teve encontros com líderes de pelo menos 20 países e disse ter encaminhado até 10 novos acordos comerciais."
   },
   {
     "title": "En Suisse aussi, la jeunesse descend dans la rue contre « un avenir bouché »",
@@ -96,6 +96,20 @@
     "image": "https://static01.nyt.com/images/2026/11/20/science/20SCI-RESEARCHER-ARREST/20SCI-RESEARCHER-ARREST-mediumSquareAt3X.jpg",
     "title_pt": "Neurocientista nascido na China é detido pelo ICE enquanto viajava de uma conferência",
     "summary_pt": "Eva Yi Xie foi detida a caminho de Nova Jersey, vinda de uma conferência de neurociência em Washington esta semana, a mais recente de uma série de prisões de pesquisadores."
+  },
+  {
+    "title": "Trump threatens tax on US tech firms building AI data centres abroad",
+    "summary": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
+    "date": "2026-11-20T21:10:53Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795209047.jpg?resize=1920%2C1080&quality=80",
+    "title_pt": "Trump ameaça impor impostos às empresas de tecnologia dos EUA que construam data centers de IA no exterior",
+    "summary_pt": "O presidente dos Estados Unidos, Donald Trump, alertou que as empresas de tecnologia norte-americanas enfrentarão \"um imposto enorme\" se construírem data centers de IA no exterior."
   },
   {
     "title": "Trump promete vetar legislações aprovadas por democratas em 2027",
@@ -152,6 +166,20 @@
     "image": "https://s2-g1.glbimg.com/DhnceYR-7SvVVOaVJtVVRvNLVkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/I/8/wDhdH0SUa78BARkv9A2w/2019-09-23t131016z-1-lynxmpef8m12t-rtroptp-4-china-economy-trade-pork.jpg",
     "title_pt": "'Cobiçadas' por Trump, Filipinas lideram compra de carne suína do Brasil, mas são 22º destino das exportações do agro",
     "summary_pt": "Trump diz que Filipinas vão trocar Brasil pelos EUA na agricultura O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teria firmado um acordo com as Filipinas para assegurar a preferência de produtos agrícolas norte-americanos no mercado do país asiático. A medida poderia reduzir as compras de produtos brasileiros pelas Filipin"
+  },
+  {
+    "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+    "summary": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+    "date": "2026-11-20T21:05:07Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b00ac25668c2-1795206181.jpg?resize=1920%2C1440",
+    "title_pt": "Trump defende seu relacionamento com Putin e alerta que os data centers de IA devem permanecer nos EUA",
+    "summary_pt": "O presidente dos EUA também falou sobre a guerra no Irã e elogiou sua viagem à China durante uma ampla coletiva de imprensa."
   },
   {
     "title": "Em sessão volátil, petróleo fecha em alta apesar de fluxo maior em Ormuz",
@@ -240,7 +268,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -842,7 +870,7 @@
   {
     "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
     "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1046,8 +1074,8 @@
     "date": "2026-11-20T19:44:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "GTA VI registra US$ 3,79 bilhões em vendas no primeiro dia de lançamento Reuters",
-    "title_pt": "GTA VI registra US$ 3,79 bilhões em vendas no primeiro dia de lançamento"
+    "title_pt": "GTA VI registra US$ 3,79 bilhões em vendas no primeiro dia de lançamento",
+    "summary_pt": "GTA VI registra US$ 3,79 bilhões em vendas no primeiro dia de lançamento Reuters"
   },
   {
     "title": "'Friends' But Who Benefits? Notes from an Historic Summit, Myanmar's Genocide Ruling, Time to 'Bre-join' the EU?",
@@ -1374,7 +1402,7 @@
   {
     "title": "White House removes cyber-security chief after series of tech outages",
     "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3123,20 +3151,6 @@
     "summary_pt": "Os activistas climáticos denunciaram o resultado proposto da COP31 em Antalya, Turquia, na sexta-feira, 20 de Novembro de 2026, acusando os governos de não conseguirem realizar progressos significativos no combate às alterações climáticas. Eles gritaram “vergonha” à medida que as negociações se aproximavam do prazo."
   },
   {
-    "title": "US Senate passes bill to speed up energy project approvals",
-    "summary": "The legislation aims to lower energy bills by making energy project approvals faster and limiting court challenges.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss",
-    "date": "2026-11-20T16:10:12Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b006722d46b5-1795188514.jpg?resize=1920%2C1440",
-    "title_pt": "Senado dos EUA aprova projeto de lei para acelerar aprovações de projetos de energia",
-    "summary_pt": "A legislação visa reduzir as faturas de energia, agilizando as aprovações de projetos energéticos e limitando as contestações judiciais."
-  },
-  {
     "title": "Italian workers and students protest over wages and public services",
     "summary": "Italian workers and students protest over wages and public services Reuters",
     "category": "Geral",
@@ -3205,20 +3219,6 @@
     "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-ukraine-wildlife-01-mfkg/00int-ukraine-wildlife-01-mfkg-mediumSquareAt3X.jpg",
     "title_pt": "A guerra também está devastando a vida selvagem da Ucrânia",
     "summary_pt": "A guerra na Ucrânia teve consequências incalculáveis para golfinhos, alces, cegonhas e uma enorme variedade de outros animais silvestres cujos habitats agora estão repletos de redes antidrones, campos minados ou na linha de fogo direta."
-  },
-  {
-    "title": "‘Expel invaders’: The dangerous promises of Spain’s far-right Vox party",
-    "summary": "As Spain prepares to vote, Vox is campaigning on mass deportations and 'national priority'.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence?traffic_source=rss",
-    "date": "2026-11-20T16:05:31Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2023/07/2023-07-06T191310Z_1131641346_RC2UX1AFCIMG_RTRMADP_3_SPAIN-ELECTION-VOX-1689598559.jpg?resize=1920%2C1440",
-    "summary_pt": "Enquanto a Espanha se prepara para votar, o Vox faz campanha sobre deportações em massa e \"prioridade nacional\".",
-    "title_pt": "\"Expulsar invasores\": as promessas perigosas do partido de extrema-direita Vox da Espanha"
   },
   {
     "title": "A travers l’Europe, des mobilisations vendredi et tout ce week-end contre la « militarisation », la vie chère et pour l’éducation",
@@ -4319,7 +4319,7 @@
   {
     "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
     "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4907,7 +4907,7 @@
     "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
-    "title": "Poland's Tusk denounces Russian 'provocation' after Warsaw says missile hit territory",
+    "title": "Poland slams Russian 'provocation' as missiles land near European military drills",
     "summary": "Two Russian missiles and a suspected drone came down in Poland on Friday in what Prime Minister Donald Tusk said was likely an \"intentional provocation\" timed to coincide with European military exercises in the country for a possible postwar mission in Ukraine.",
     "category": "Conflitos",
     "region": "Global",
@@ -4917,8 +4917,8 @@
     "date": "2026-11-20T10:38:51Z",
     "lang": "en",
     "image": "https://s.france24.com/media/display/0215cd4e-e4cc-11f1-ba35-e56ab3dc0809/w:1024/p:16x9/2026-11-20T091417Z-724863669-RC2KROAVQTVB-RTRMADP-3-UKRAINE-CRISIS-POLAND-OBJECTS.jpg",
-    "title_pt": "Tusk, da Polônia, denuncia \"provocação\" russa após Varsóvia afirmar que um míssil atingiu seu território",
-    "summary_pt": "Na sexta-feira, a Polônia informou que ninguém ficou ferido após o que Varsóvia alegou ter sido o impacto de um míssil russo no sudeste da Polônia durante um ataque à Ucrânia. As autoridades polonesas disseram anteriormente que estavam investigando relatos de que pelo menos dois objetos não identificados haviam caído perto da fronteira com a Ucrânia."
+    "title_pt": "Polônia critica \"provocação\" russa após mísseis caírem perto de exercícios militares europeus",
+    "summary_pt": "Dois mísseis russos e um suposto drone caíram na Polônia na sexta-feira no que o primeiro-ministro Donald Tusk disse ser provavelmente uma \"provocação intencional\" programada para coincidir com os exercícios militares europeus no país para uma possível missão pós-guerra na Ucrânia."
   },
   {
     "title": "Victims of Clerical Sexual Abuse Want More Engagement From Pope Leo",
@@ -5617,7 +5617,7 @@
   {
     "title": "Should AI be judging our credit worthiness?",
     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5927,7 +5927,7 @@
   {
     "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
     "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
