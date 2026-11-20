@@ -1,8 +1,8 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T10:58:18.282048Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T11:03:25.181420Z",
+  "status": "checado",
   "items": [
     {
       "title": "Putin, Trump e Xi condenam a guerra nuclear enquanto a Europa observa de perto",
@@ -57,6 +57,19 @@
       "selection": "automatic"
     },
     {
+      "title": "O mundo está sendo \"mantido refém pela máfia do petróleo\": como um pequeno país está se impondo na COP31",
+      "summary": "No último dia da COP31, um país afirma que \"não emprestará seu nome\" a \"linguagem complacente ou ineficaz\" no pacto final, que requer consenso.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/20/world-is-being-held-hostage-by-oil-mafia-how-one-tiny-country-is-putting-its-foot-down-at-",
+      "published_on": "20/11/2026 07:02 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/10/00/14/92/696x392_cmsv2_cba898b5-b1d6-5e68-b8da-2b7bac2db3b2-10001492.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "O Irã prepara um comboio de petroleiros na Ilha de Kharg para testar o bloqueio de petróleo dos EUA",
       "summary": "Mais de 14 petroleiros receberam tripulações e bandeiras iranianas no terminal que processa até 90% das exportações de petróleo bruto do país, de acordo com imagens de satélite e dados de rastreamento de navios, com um comboio previsto para seguir em direção ao Mar de Omã nos próximos dias.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
       "published_on": "19/11/2026 19:04 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "A UE revela que sofreu um ciberataque \"impulsionado por IA\"",
-      "summary": "A UE revelou que sofreu um ataque cibernético impulsionado por IA no mês passado e, como resultado, algumas de suas ferramentas digitais ainda estão offline.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Segurança cibernética",
-      "region": "Global",
-      "country": "GB",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
-      "published_on": "19/11/2026 11:38 (Boa Vista)",
-      "image": "https://e3.365dm.com/24/01/1920x1080/skynews-hacker-cyberattack_6439404.jpg?20240131153309",
       "selection": "automatic"
     }
   ]
