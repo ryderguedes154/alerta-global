@@ -1,8 +1,8 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-20T21:46:54.136721Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-20T21:52:00.028944Z",
+  "status": "checado",
   "items": [
     {
       "title": "Míssil russo atinge a Polônia enquanto aliados da Ucrânia realizam exercício militar, diz Tusk",
@@ -57,19 +57,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump afirma que taxas de juros estão altas porque Fed é “político”",
-      "summary": "Expectativa por parte do mercado passou a ser de que o Fed deve elevar os juros no país na próxima reunião em dezembro",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/trump-afirma-que-taxas-de-juros-estao-altas-porque-fed-e-politico/",
-      "published_on": "20/11/2026 14:05 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Presidente-dos-EUA-Donald-Trump-na-Casa-Branca-2-de-setembro-de-2026.jpg?w=800&h=533&crop=1",
-      "selection": "automatic"
-    },
-    {
       "title": "Na Cúpula da APEC, EUA, China e Rússia prometem aumentar a oferta de petróleo em meio à transição energética global",
       "summary": "Os Estados Unidos, a China e a Rússia concordaram em aumentar o fornecimento de produtos petrolíferos refinados, à medida que os preços do petróleo disparam devido à guerra no Irão.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,6 +80,19 @@
       "url": "https://www.euronews.com/2026/11/20/world-is-being-held-hostage-by-oil-mafia-how-one-tiny-country-is-putting-its-foot-down-at-",
       "published_on": "20/11/2026 07:02 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/14/92/696x392_cmsv2_cba898b5-b1d6-5e68-b8da-2b7bac2db3b2-10001492.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "O Irã prepara um comboio de petroleiros na Ilha de Kharg para testar o bloqueio de petróleo dos EUA",
+      "summary": "Mais de 14 petroleiros receberam tripulações e bandeiras iranianas no terminal que processa até 90% das exportações de petróleo bruto do país, de acordo com imagens de satélite e dados de rastreamento de navios, com um comboio previsto para seguir em direção ao Mar de Omã nos próximos dias.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/20/iran-readies-tanker-convoy-at-kharg-island-to-test-us-oil-blockade",
+      "published_on": "20/11/2026 06:06 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/10/00/12/73/696x392_cmsv2_70290719-679c-58bb-bc5e-6fd76b1067e8-10001273.jpg",
       "selection": "automatic"
     },
     {
