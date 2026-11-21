@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-21T10:58:38.354Z",
+  "updated_at": "2026-11-21T15:53:05.779Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Novos ataques a petroleiros elevam risco no Estreito de Hormuz",
+      "summary": "Autoridade marítima britânica registrou neste sábado dois relatos de ataques a petroleiros perto de Khasab, Omã. Ainda não está claro se os relatos se referem ao mesmo navio; não foram informadas vítimas. O episódio ocorre em meio à intensificação dos ataques e à queda do tráfego de petróleo na região.",
+      "impact_br": "A insegurança na rota pode pressionar cotações internacionais do petróleo, custos de frete e combustíveis no Brasil, sem aumento específico confirmado.",
+      "category": "energia",
+      "region": "Oriente Médio — Estreito de Hormuz",
+      "country": "OM",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says-2026-11-21/",
+      "published_on": "2026-11-21",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-21T15:53:05.779Z"
+    },
     {
       "title": "Arábia Saudita intercepta três mísseis houthis dirigidos a Riad",
       "summary": "A coalizão liderada pela Arábia Saudita informou ter interceptado três mísseis balísticos lançados pelos houthis contra Riad em 21 de novembro. A Reuters testemunhou um projétil e ouviu uma explosão; o número de interceptações é informação atribuída à coalizão. O episódio amplia a escalada de ataques entre Arábia Saudita e Iêmen.",
