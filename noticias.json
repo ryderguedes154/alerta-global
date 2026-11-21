@@ -1,5 +1,19 @@
 [
   {
+    "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
+    "summary": "Critics say that CNews and BFM TV, two major news channels, have used racist language in protest coverage. The channels deny it.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
+    "date": "2026-11-21T17:14:17Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-france-media-photo1-wkzp/21int-france-media-photo1-wkzp-mediumSquareAt3X.jpg",
+    "title_pt": "No outono de revolta da França, os canais de notícias da TV são acusados de agitar as coisas",
+    "summary_pt": "Críticos afirmam que a CNews e a BFM TV, dois importantes canais de notícias, usaram linguagem racista na cobertura dos protestos. Os canais negam isso."
+  },
+  {
     "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
     "summary": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
     "category": "Geral",
@@ -7,7 +21,7 @@
     "country": "US",
     "source": "The New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-    "date": "2026-11-21T17:08:14Z",
+    "date": "2026-11-21T17:13:00Z",
     "lang": "en",
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-zqtf/21int-cartel-arrest-zqtf-mediumSquareAt3X.jpg",
     "title_pt": "O principal chefão do tráfico é capturado pelo exército mexicano enquanto o tiroteio começa",
@@ -38,8 +52,8 @@
     "date": "2026-11-21T17:06:46Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/4ZFAZNIB4VJ7LNDBV4L6KBIYQY.jpg?auth=ff2a30b7c5c1cac070466ef7240e4c97832a1e164b2f8c9e192577f8089b8f21",
-    "summary_pt": "O candidato socialista: \"Não temos duas direitas, temos uma única involução\" | Feijóo: \"Não confiem nas pesquisas. Eles são capazes de tudo e, quando estão feridos, são ainda mais perigosos\"",
-    "title_pt": "Campanha eleitoral de 29 de novembro e atualidade política, ao vivo | Aznar afirma que Sánchez \"destruirá\" a Constituição se for reeleito"
+    "title_pt": "Campanha eleitoral de 29 de novembro e atualidade política, ao vivo | Aznar afirma que Sánchez \"destruirá\" a Constituição se for reeleito",
+    "summary_pt": "O candidato socialista: \"Não temos duas direitas, temos uma única involução\" | Feijóo: \"Não confiem nas pesquisas. Eles são capazes de tudo e, quando estão feridos, são ainda mais perigosos\""
   },
   {
     "title": "Families frustrated with Pentagon probe of deadly drone strike",
@@ -82,20 +96,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/BHPPKGCW5JBHLEUCKF6SRVC2LY.jpg?auth=aeb4a0847c0255e6653d6e33fcf2a4ee5961fedef82898f208c360eecb0cae59",
     "title_pt": "Paolo Bulgari, o joalheiro que levou o luxo italiano ao mundo, morre aos 89 anos",
     "summary_pt": "A família do empresário anunciou seu falecimento em um comunicado no qual o descreve como “o maior joalheiro da nossa época”. Seu funeral acontecerá no dia 23 de novembro, em Roma."
-  },
-  {
-    "title": "Tesla desembarca en Argentina con elogios cruzados entre Milei y Musk",
-    "summary": "El magnate, presente de manera virtual, recibe al ultra con un vehículo estampado con un león. El presidente argentino lo llama “el Leonardo Da Vinci del siglo XXI”",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/argentina/2026-11-21/tesla-desembarca-en-argentina-con-elogios-cruzados-entre-milei-y-musk.html",
-    "date": "2026-11-21T16:45:25Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/7YROUPCGZJNDLB37YOO4KIBNHY.jpg?auth=3108cb993a50970b1fd5733e5b656f1ae6a0b1460f56a24b0d128c79b749f8fc",
-    "title_pt": "Tesla chega à Argentina com elogios mútuos entre Milei e Musk",
-    "summary_pt": "O magnata, presente virtualmente, recebe o ultradireitista com um veículo estampado com um leão. O presidente argentino o chama de \"o Leonardo da Vinci do século XXI\""
   },
   {
     "title": "French police officers convicted of racist assault",
@@ -392,8 +392,8 @@
     "summary_pt": "Entramos no evento através das lentes do fotógrafo Pepino Marino"
   },
   {
-    "title": "El ejército israelí mata a tres personas al bombardear un vehículo que distribuía ayuda humanitaria en Gaza",
-    "summary": "La furgoneta fue alcanzada por un misil cuando portaba arroz cocinado y documentos de World Central Kitchen, la ONG del chef José Andrés",
+    "title": "El ejército israelí mata a tres personas al bombardear un vehículo con ayuda humanitaria en Gaza",
+    "summary": "Las Fuerzas Armadas aseguran que las víctimas pertenecían a la Yihad Islámica y llevaban comida a miembros de su organización",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
@@ -401,9 +401,7 @@
     "url": "https://elpais.com/internacional/2026-11-21/el-ejercito-israeli-mata-a-tres-personas-al-bombardear-un-vehiculo-que-distribuia-ayuda-humanitaria-en-gaza.html",
     "date": "2026-11-21T16:03:54Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/ANOYOBFYHNO25OEJKMY5S6G3OU.jpg?auth=fc12eb3d4de39c54da910e3bd09f1b579221d71797428c49dd71a89740e61497",
-    "title_pt": "Exército israelense mata três pessoas ao bombardear um veículo que distribuía ajuda humanitária em Gaza",
-    "summary_pt": "A van foi atingida por um míssil quando transportava arroz cozido e documentos da World Central Kitchen, a ONG do chef José Andrés."
+    "image": "https://imagenes.elpais.com/resizer/v2/ANOYOBFYHNO25OEJKMY5S6G3OU.jpg?auth=fc12eb3d4de39c54da910e3bd09f1b579221d71797428c49dd71a89740e61497"
   },
   {
     "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
@@ -644,18 +642,16 @@
     "summary_pt": "Candidato à presidência da França culpa a mídia por ataque racista"
   },
   {
-    "title": "Costa Rica recurre a un equipo especial de fiscales y a la DEA para esclarecer el asesinato del periodista Camilo Rodríguez",
-    "summary": "Mientras la Fiscalía anuncia el apoyo de la agencia antidrogas estadounidense para resolver el atentado, el oficialismo impulsa una investigación política contra el fiscal general por la gestión de la crisis de inseguridad",
+    "title": "La lluvia traiciona a Marc Márquez, que se cae a una vuelta y media de rematar el título en la ‘sprint’ del GP de Portugal",
+    "summary": "El piloto de Ducati tenía el alirón atado y rodaba tercero cuando se fue al suelo. Ganará el Mundial este domingo siempre que termine noveno o mejor clasificado",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
     "source": "El País",
-    "url": "https://elpais.com/america/2026-11-21/costa-rica-recurre-a-un-equipo-especial-de-fiscales-y-a-la-dea-para-esclarecer-el-asesinato-del-periodista-camilo-rodriguez.html",
-    "date": "2026-11-21T15:45:58Z",
+    "url": "https://elpais.com/deportes/motociclismo/2026-11-21/marc-marquez-se-cae-a-vuelta-y-media-del-final-de-la-sprint-cuando-rozaba-el-titulo.html",
+    "date": "2026-11-21T15:45:54Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/UMP2Z57S75MYFKUJVUML753QTM.jpg?auth=23c05a56175993e9387837ce57ec76a1eb4b5991ea6fb05be5baa6bef6515b5a",
-    "title_pt": "Costa Rica recorre a uma equipe especial de promotores e à DEA para esclarecer o assassinato do jornalista Camilo Rodríguez",
-    "summary_pt": "Enquanto o Ministério Público anuncia o apoio da agência antidrogas dos Estados Unidos para solucionar o atentado, o governo promove uma investigação política contra o procurador-geral pela gestão da crise de segurança."
+    "image": "https://imagenes.elpais.com/resizer/v2/DPKGXAK66NMXVMA3WJCRIIBKHU.jpg?auth=b08eba65fc4019bc8f58f67ce28d5fdbbd5c7a22c8d407365a9869e415d67ec9"
   },
   {
     "title": "Princess Kate announces she's in remission from cancer",
@@ -1118,8 +1114,8 @@
     "date": "2026-11-21T14:51:43Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Trump disse aos líderes europeus que eles estavam gastando muito com a Ucrânia, afirma Zelensky à Reuters",
-    "title_pt": "Trump disse aos líderes europeus que eles estavam gastando muito com a Ucrânia, afirma Zelensky"
+    "title_pt": "Trump disse aos líderes europeus que eles estavam gastando muito com a Ucrânia, afirma Zelensky",
+    "summary_pt": "Trump disse aos líderes europeus que eles estavam gastando muito com a Ucrânia, afirma Zelensky à Reuters"
   },
   {
     "title": "Cold gives way to rain in parts of UK as weather warning issued for south-west England",
@@ -1146,8 +1142,8 @@
     "date": "2026-11-21T14:50:10Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "México captura o principal narcotraficante \"El Chapo Isidro\", o mais recente de uma série de capturas — Reuters",
-    "title_pt": "México captura o principal narcotraficante \"El Chapo Isidro\", o mais recente de uma série de capturas"
+    "title_pt": "México captura o principal narcotraficante \"El Chapo Isidro\", o mais recente de uma série de capturas",
+    "summary_pt": "México captura o principal narcotraficante \"El Chapo Isidro\", o mais recente de uma série de capturas — Reuters"
   },
   {
     "title": "Russia strikes Zelenskyy's hometown, killing 2",
@@ -1176,6 +1172,19 @@
     "image": "https://i.guim.co.uk/img/media/fd810cd935a14aa8ada325f3b3bdf72e59b7c84f/726_0_3234_2588/master/3234.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c75fe823fbf60d71110f8eb2d9a6209",
     "title_pt": "A princesa de Gales fala sobre o impacto do diagnóstico de câncer no filme da BBC \"Heal\"",
     "summary_pt": "Documentário registra Catherine enfrentando o desafio Three Peaks e encontrando \"um sentimento de esperança junto com a incerteza\". A Princesa de Gales falou abertamente sobre o impacto do diagnóstico de câncer dela em um documentário da BBC que será exibido no final deste mês. \"O câncer muda você\", diz Catherine, de 44 anos, no trailer do programa de 30 minutos. “Ele muda seu corpo. Eu"
+  },
+  {
+    "title": "COP31 climate summit risks failure as talks go deep into overtime",
+    "summary": "COP31 climate summit risks failure as talks go deep into overtime Reuters",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMmt4Uld1TVhWSDBfaTM0b3NlcUVhNm1xOGNiWjdCZGNRdXlXNXF4RllHQ0g4VnNGTXkxVUxRd3lqZXlTR1lsZmNtb1h3cGRYVkItVl9YUi00YzFzMmVWVTBVcmxVNHhGQlRCZWtRTXRhWW1ORFBKb1Y3SmtsMVotS0RtWmRRYVhzNmtWRTRLcjJCSmVlOFRjcUZxcTgzZjdFeWdndlUyNC1Dc29CZFE2YllWZnI2MDFU?oc=5",
+    "date": "2026-11-21T14:42:25Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "A cúpula climática da COP31 corre o risco de fracassar à medida que as negociações se prolongam muito além do prazo previsto"
   },
   {
     "title": "Sánchez pide en Tenerife un 75% de participación para sumar “176 escaños progresistas”",
@@ -1570,6 +1579,18 @@
     "summary_pt": "Equipes disputam a taça neste sábado, às 19h30 (de Brasília), no Estádio Metropolitano Roberto Meléndez, em Barranquilla, na Colômbia"
   },
   {
+    "title": "Miles de personas marchan en Barcelona por la educación pública en vísperas a una nueva huelga",
+    "summary": "La protesta, convocada por los sindicatos Ustec, CGT y la Intersindical, ha contado con la adhesión del Sindicato de Inquilinas",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/catalunya/2026-11-21/miles-de-personas-marchan-en-barcelona-por-la-educacion-publica-en-visperas-a-una-nueva-huelga.html",
+    "date": "2026-11-21T13:54:42Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/5S7MC776PZEFBIFZN3MEMLEBGI.jfif?auth=09a942f494a91709b786f976b53652cb9bf1e74358c6ad34658c47c8f26b2586"
+  },
+  {
     "title": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
     "summary": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say Reuters",
     "category": "Geral",
@@ -1780,6 +1801,18 @@
     "summary_pt": "A deputada transgênero de São Paulo, alvo da extrema direita, se destaca em um plenário muito masculino. Filiada ao Partido Socialismo e Liberdade, ela defende os direitos das pessoas LGBTQIA+, mas também se empenha contra a violência contra as mulheres e a precariedade dos trabalhadores. A jovem deputada deseja concorrer à prefeitura de São Paulo em 2028."
   },
   {
+    "title": "El Real Madrid asegura que no hay impedimentos legales para que vuelvan los conciertos al Bernabéu",
+    "summary": "La asociación de vecinos afectados por el ruido considera que el anuncio es un “brindis al sol” y pide al club “más respeto por la Justicia” porque el procedimiento legal sigue su curso",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/madrid/2026-11-21/el-real-madrid-asegura-que-no-hay-impedimentos-legales-para-que-vuelvan-los-conciertos-al-bernabeu.html",
+    "date": "2026-11-21T13:29:16Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/SOBUV3VQMBAHLDFIKHEYDFYWYQ.jpg?auth=b9dd74c12aa95dac1a0b9cd50ffcccbefb807ac7ee13bf8ff16fb2b999514fe7"
+  },
+  {
     "title": "Fora dos palcos, Sérgio Reis investiu em mais de 2 mil hectares de fazendas, encontrou ouro e abriu mão de 3 mil cabeças de gado",
     "summary": "Aos 86 anos, ícone do sertanejo decidiu vender suas propriedades e deixar a pecuária; no auge, Sérgio Reis era dono de três propriedades rurais e encontrou ouro enterrado em uma delas",
     "category": "Geral",
@@ -1806,6 +1839,18 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/55312195013_f36322d3a4_o.jpg?w=200",
     "title_pt": "Decreto do Redata tem impasse sobre gás natural e espera decisão de Lula",
     "summary_pt": "Ministérios se dividem sobre datacenters abastecidos com energia de gás natural, e presidente definirá conteúdo da regulamentação"
+  },
+  {
+    "title": "Feijóo: “No os fieis del ambiente, de nada. Son capaces de todo, y heridos son todavía más peligrosos”",
+    "summary": "El PP exhibe músculo con más de 12.000 simpatizantes en la plaza de toros de Valencia, donde el líder llama a no confiarse tras el debate",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-21/feijoo-no-os-fieis-del-ambiente-no-os-fieis-de-nada-son-capaces-de-todo-y-heridos-son-todavia-mas-peligrosos.html",
+    "date": "2026-11-21T13:22:16Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/M247M5BQ3RAXHGGAINORRI7MPU.JPG?auth=fae6d852165250fe3334ee5976721febb888137d1d64c131db085a33b88ebd36"
   },
   {
     "title": "Denmark says Russia behind plot to kill U.S.-Ukrainian citizen on its soil",
@@ -1876,6 +1921,18 @@
     "image": "https://s2-g1.glbimg.com/NTn9aNpnpXwFoNy_KjF1VIHS1Es=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/oVvtAoSZK3vJZYCgkexw/2026-10-17t130823z-833036998-rc2c4oat4p98-rtrmadp-3-ukraine-crisis-ze-enskiy-trilateral.jpg",
     "title_pt": "Cúpula na China foi 'muito malsucedida' para a Rússia, diz Zelensky",
     "summary_pt": "O presidente da Ucrânia, Volodymyr Zelensky, durante entrevista coletiva em cúpula de líderes da União Europeia, em Bruxelas, na Bélgica, em 16 de outubro de 2026 Yves Herman/Reuters O presidente da Ucrânia, Volodymyr Zelensky, afirmou neste sábado (21) que a cúpula trilateral desta semana entre os líderes da China, da Rússia e dos Estados Unidos foi \"muito "
+  },
+  {
+    "title": "Colau llama a dar la vuelta a las encuestas en el final de campaña: “Vamos a congelar la sonrisa a Feijóo”",
+    "summary": "Frente Amplio anima a “no bajar los brazos” hasta el 29-N. Yolanda Díaz recupera la reducción de jornada, bandera en 2023, y recuerda al PSOE que el objetivo no es “quedar primero”, sino “reeditar el Gobierno”",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/colau-llama-a-dar-la-vuelta-a-las-encuestas-en-el-final-de-campana-vamos-a-congelar-la-sonrisa-a-feijoo.html",
+    "date": "2026-11-21T13:14:01Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/QQCRWBJCZNDZBEPLXEVABUWYPA.jpg?auth=d7c9ae7de86f17b1a918ce7bba2e7a8ce79b17e1861aabee3974f105fbd15aae"
   },
   {
     "title": "Palestinos deslocados em Gaza buscam refúgio em casas destruídas",
@@ -2620,20 +2677,6 @@
     "summary_pt": "Num contexto de tensões geopolíticas globais e de incertezas sobre o compromisso americano, Otava e Bruxelas estão a cooperar no apoio à Ucrânia e no rearmamento do Velho Continente."
   },
   {
-    "title": "Chema Alonso, el ‘ex hacker’ de Telefónica, ficha por Meta (Facebook) y abandona Cloudflare",
-    "summary": "El directivo se incorpora como vicepresidente global de Gestión de Producto de la compañía de Zuckerberg tras año y medio en la compañía enemiga de la LaLiga",
-    "category": "Segurança cibernética",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://cincodias.elpais.com/companias/2026-11-21/chema-alonso-el-ex-hacker-de-telefonica-ficha-por-meta-facebook-y-abandona-cloudflare.html",
-    "date": "2026-11-21T11:28:22Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/GGLE6CADQZCN3GMBW3FAON7UWU.png?auth=af88fb2b5a975ce33b50291398128a4984a1081e91a2383670de7acabc457674",
-    "title_pt": "Chema Alonso, o \"ex-hacker\" da Telefônica, assina com a Meta (Facebook) e deixa a Cloudflare",
-    "summary_pt": "O executivo assume o cargo de vice-presidente global de Gestão de Produtos da empresa de Zuckerberg após um ano e meio na empresa rival da LaLiga"
-  },
-  {
     "title": "EXCLUSIVE: Denmark pushes EU to tighten travel curbs on Russians after foiled plot",
     "summary": "EXCLUSIVE: Denmark pushes EU to tighten travel curbs on Russians after foiled plot Reuters",
     "category": "Geral",
@@ -2900,6 +2943,18 @@
     "image": "https://s.france24.com/media/display/09933754-e590-11f1-bdd0-e56ab3dc0809/w:1024/p:16x9/2026-11-20T132245Z-1935520672-RC2OROAXK61L-RTRMADP-3-EU-BRITAIN-SUMMIT.jpg",
     "title_pt": "‘Inaceitável’: Chefe da UE condena alegada conspiração russa para matar cidadão americano-ucraniano",
     "summary_pt": "A Presidente da Comissão Europeia, Ursula von der Leyen, condenou uma alegada conspiração dos serviços secretos russos para assassinar um cidadão ucraniano-americano na Dinamarca, jurando total solidariedade com Copenhaga."
+  },
+  {
+    "title": "El Gobierno prorrogará el impuesto a la banca un año más para financiar políticas de vivienda",
+    "summary": "Sánchez anuncia la extensión del gravamen durante 2027, con una recaudación prevista de 1.400 millones",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/economia/2026-11-21/el-gobierno-prorrogara-el-impuesto-a-la-banca-un-ano-mas-para-financiar-politicas-de-vivienda.html",
+    "date": "2026-11-21T10:32:32Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/5KLXYRKXHJC67BR5PSL4WFFWCM.jpg?auth=1bfcf71b5b94178813b6172589342c5dc566ba2ad7f17c5866a8bc8cf3f66183"
   },
   {
     "title": "Anthropic researcher uses AI to solve math's greatest riddle",
@@ -3186,34 +3241,6 @@
     "summary_pt": "O presidente dos Estados Unidos se divertiu muito durante sua visita à China, após o tapa que os eleitores lhe deram nas eleições de meio de mandato"
   },
   {
-    "title": "El requisito imposible que dejó a Colombia sin escudo antidrones",
-    "summary": "El ministro de Defensa acusa a su predecesor de bloquear las adquisiciones. Los documentos internos del ministerio muestran que quien frenó la compra fue un comité técnico de la propia Fuerza Pública, que concluyó que ningún sistema cumplía lo que él mismo exigía",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/america-colombia/2026-11-21/el-requisito-imposible-que-dejo-a-colombia-sin-escudo-antidrones.html",
-    "date": "2026-11-21T09:30:00Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/2BHWQEFZR5OT3EPYCOC2PEDOPM.jpg?auth=92db35d8a0e4ff88e3bf31340c2634806411f9b90a6a88b941f712bbdb87f347",
-    "title_pt": "A exigência impossível que deixou a Colômbia sem escudo antidrones",
-    "summary_pt": "O ministro da Defesa acusa seu antecessor de bloquear as aquisições. Documentos internos do Ministério mostram que quem impediu a compra foi um comitê técnico da própria Força Pública, que concluiu que nenhum sistema atendia às exigências do órgão."
-  },
-  {
-    "title": "La histórica salida a Bolsa de Anthropic añade más riesgo al ecosistema de financiación circular de la IA",
-    "summary": "Las grandes empresas de inteligencia artificial están relacionadas entre sí en alianzas que alimentan la amenaza de una burbuja: se prestan financiación, participan en el capital y firman contratos de exclusividad",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/us/2026-11-21/la-historica-salida-a-bolsa-de-anthropic-anade-mas-riesgo-al-ecosistema-de-financiacion-circular-de-la-ia.html",
-    "date": "2026-11-21T09:30:00Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/LGEFJOMHJ5PCNMQCOLD4L4G2UA.jpg?auth=ed9d1957776fa8cc6ab7f00879bf012ace559ebf84dec1837420685be5084ba0",
-    "title_pt": "A histórica abertura de capital da Anthropic aumenta o risco no ecossistema de financiamento circular da IA",
-    "summary_pt": "As grandes empresas de inteligência artificial estão interligadas por meio de alianças que alimentam a ameaça de uma bolha: elas se emprestam financiamento, participam do capital e firmam contratos de exclusividade."
-  },
-  {
     "title": "'Killer robots' talks at UN end with no legally binding ban",
     "summary": "Countries have agreed to extend discussions over controls on lethal autonomous weapons systems for two years.",
     "category": "Geral",
@@ -3270,8 +3297,8 @@
     "summary_pt": "Vários países, incluindo a França e o Panamá, divulgaram uma carta na sexta-feira insistindo que um acordo inclua \"uma transição clara para o abandono dos combustíveis fósseis\"."
   },
   {
-    "title": "Live: Demonstrators rally across France for sixth consecutive Saturday of protests",
-    "summary": "France faces a sixth consecutive Saturday of protests, with demonstrators taking to the streets to rally over the rising cost of living and the government's handling of weeks of social unrest ahead of next year's presidential election. Follow our liveblog for the latest developments.",
+    "title": "Live: Interior ministry says 82,500 people protest across France, unions claim 150,000",
+    "summary": "Turnout ⁠was down ​at largely peaceful demonstrations on Saturday compared to a week earlier, with 82,500 people protesting across France, including 21,500 in Paris, according to the interior ministry. Organisers ⁠put the figure at 150,000, including 45,000 in the capital. Follow our liveblog for the latest developments.",
     "category": "Geral",
     "region": "Global",
     "country": "FR",
@@ -3279,9 +3306,7 @@
     "url": "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
     "date": "2026-11-21T08:29:53Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/9682c2f0-e5aa-11f1-8719-ebb478925cf0/w:1024/p:16x9/2026-11-21T122156Z-506982537-RC2CSOATMIMV-RTRMADP-3-FRANCE-PROTEST.jpg",
-    "title_pt": "Ao vivo: manifestantes se reúnem em toda a França no sexto sábado consecutivo de protestos",
-    "summary_pt": "A França enfrenta um sexto sábado consecutivo de protestos, com manifestantes saindo às ruas para protestar contra o aumento do custo de vida e a forma como o governo tem lidado com semanas de agitação social antes da eleição presidencial do ano que vem. Acompanhe nosso blog ao vivo para ficar por dentro dos últimos acontecimentos."
+    "image": "https://s.france24.com/media/display/d69a9eb2-e5cd-11f1-820c-6b451f569414/w:1024/p:16x9/000-D88L88H.jpg"
   },
   {
     "title": "Morre Phumzile Mlambo-Ngcuka, 1ª mulher vice da África do Sul e ex-chefe da ONU Mulheres",
@@ -3636,6 +3661,18 @@
     "summary_pt": "O Congresso da Índia alerta para mais protestos contra a Meta após confrontos com a polícia Reuters"
   },
   {
+    "title": "Detenido El Chapo Isidro en un operativo que desata el terror en Sinaloa",
+    "summary": "El arresto de uno de los principales líderes del Cartel de Sinaloa deja un reguero de enfrentamientos entre las autoridades y criminales, con vehículos incendiados y narcobloqueos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/mexico/2026-11-21/detenido-el-chapo-isidro-en-un-operativo-que-desata-el-terror-en-sinaloa.html",
+    "date": "2026-11-21T05:54:50Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/DBLIBRLHBRA4XNJ23ZUUZDKGNY.jpg?auth=41f1f69af7dac04f1dfefb2970b51165a88ce68091e41011e72295b710f3f56b"
+  },
+  {
     "title": "South Africa's first female deputy president and UN official dies",
     "summary": "South Africa's first female deputy president and UN official dies Reuters",
     "category": "Geral",
@@ -3736,20 +3773,6 @@
     "summary_pt": "A convite da CGIL, o principal sindicato do país, manifestações ocorreram na sexta-feira em cerca de cem cidades para protestar contra o custo de vida, a precariedade estudantil e os gastos militares, especialmente para ajudar a Ucrânia."
   },
   {
-    "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
-    "summary": "Critics say that CNews and BFM TV, two major news channels, have used racist language in protest coverage. The channels deny it.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
-    "date": "2026-11-21T05:01:07Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-france-media-photo1-wkzp/21int-france-media-photo1-wkzp-mediumSquareAt3X.jpg",
-    "title_pt": "No outono de revolta da França, os canais de notícias da TV são acusados de agitar as coisas",
-    "summary_pt": "Críticos afirmam que a CNews e a BFM TV, dois importantes canais de notícias, usaram linguagem racista na cobertura dos protestos. Os canais negam isso."
-  },
-  {
     "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
     "summary": "Despite dodging tears in the tarmac, people are confident in city’s infrastructure – and will not worry about what has not happened yet Mykola expects to drive his battered beige passenger minibus 20 to 24 times a day past the holes in the road on Kyiv’s damaged Northern Bridge that were caused by a Russian ballistic missile attack on Tuesday. Buses are now ",
     "category": "Geral",
@@ -3820,6 +3843,18 @@
     "summary_pt": "Ele tirou uma soneca e brincou no chat do WhatsApp com seu apelido de \"Anotop At\" antes de um debate cujo resultado Gênova exibe com triunfalismo."
   },
   {
+    "title": "La crisis de la vivienda golpea más fuerte a los inmigrantes: “Soñamos con lo mínimo”",
+    "summary": "Expertos y organizaciones sociales señalan que, pese al discurso ultra que los sitúa en el ojo del huracán, los extranjeros extracomunitarios sufren mayor exclusión residencial y discriminación",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/economia/vivienda/2026-11-21/la-crisis-de-la-vivienda-golpea-mas-fuerte-a-los-inmigrantes-sonamos-con-lo-minimo.html",
+    "date": "2026-11-21T04:45:01Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/ZKXC7FDAIBD6JADDB65HWECGRA.jpg?auth=69b10c53677ae9e97cbee3f1ad6fe7771ecac1e7a5718b9f5c3ee8a8dde72cb7"
+  },
+  {
     "title": "Peridis: “¡Déjeme!”",
     "summary": "Viñeta del 21 de noviembre de 2026",
     "category": "Geral",
@@ -3860,6 +3895,18 @@
     "image": "https://imagenes.elpais.com/resizer/v2/PW6WJ5UJ7NE6PD56XJZCOZ4WLI.jpg?auth=f5b443d3f81e7f1b1d20ab35450140541b1d9dd8cbb8d735eb7e66e126877809",
     "title_pt": "Cultura gastronômica do pós-guerra",
     "summary_pt": "Minha mãe acreditava que uma criança bonita era aquela que parecia um jarro de barro, o que explica meu eterno sobrepeso."
+  },
+  {
+    "title": "Rubia gallega, la carne más deseada de España: por qué está desapareciendo",
+    "summary": "Esta raza de vacuno es una de las favoritas de los adictos a los chuletones de alta costura. Pero cada vez hay menos: en los últimos 12 años su número se ha reducido a la mitad. En 2025 había 27.474 animales registrados en España",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/eps/2026-11-21/rubia-gallega-la-carne-mas-deseada-de-espana-por-que-esta-desapareciendo.html",
+    "date": "2026-11-21T04:40:00Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/5RFH72RG45ETXHNOCCUIE4W4MI.jpg?auth=d16307bc7bebde627ab5024405ed94aedac1be77a9e265d554aa323526883eb8"
   },
   {
     "title": "Man convicted of starting Palisades fire in Los Angeles",
@@ -3930,6 +3977,18 @@
     "image": "https://imagenes.elpais.com/resizer/v2/FM7CNYCQ7BC3VAWVY6CG7SGM54.jpg?auth=4b7a79d6206136d1cd0a1ca2fe980dda99b228d75d09c289f2da71f4a4dceef3",
     "title_pt": "Uma tibieza “incoerente” diante de um eleitor irritado: por que o plano de Sánchez teve dificuldade em dar certo",
     "summary_pt": "A atitude modesta do candidato socialista frente a Feijóo se choca com seu caráter corajoso e sua campanha casual. A expansão da raiva como humor dominante na sociedade questiona a eficácia da redução do tom 10 dias antes das eleições"
+  },
+  {
+    "title": "Miquel Roca: “Ganar la democracia es apasionante. Pero vivir en ella es difícil”",
+    "summary": "El expolítico no siente nostalgia votando sin ser candidato, pero recuerda con emoción grandes momentos de convivencia democrática. “La vida es pacto y la política no puede ser una excepción”, afirma",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/miquel-roca-ganar-la-democracia-es-apasionante-pero-vivir-en-ella-es-dificil.html",
+    "date": "2026-11-21T04:30:01Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/K6IQIMAHNVB7FMJEMIRN5N42XI.jpg?auth=f60180b39978f759d4c9f438ee4384f08fe59f0369ba4ec4808dec2ebfd5df70"
   },
   {
     "title": "Lo que el anuncio del PSOE no cuenta",
@@ -4114,144 +4173,52 @@
     "summary_pt": "O diálogo entre a pesquisa básica e a prática clínica para decifrar as vulnerabilidades das células malignas e atacá-las com medicamentos direcionados tem alcançado sobrevivências incomuns"
   },
   {
-    "title": "Marwán, cantautor: “Mis canciones pueden crear expectativas románticas, pero yo no soy un puto manual de autoayuda”",
-    "summary": "El madrileño publica ‘Adrenalina. Memorias de un amor superlativo’, disco en el que se arroja de cabeza a su abismo interior. “He tenido que mirar a fantasmas que ya tenía superados”, asegura a EL PAÍS en una entrevista en la que también habla de la historia de sus padres, las elecciones del 29 de noviembre y la causa palestina",
+    "title": "El secreto de ‘la pirámide’ del cabo Bonilla o la gran estafa en el cuartel de Colmenar Viejo",
+    "summary": "La Audiencia de Madrid juzga a un militar que convenció a sus compañeros de que era un gran ‘broker’ para que le dieran más de 160.000 euros que desaparecieron",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
     "source": "El País",
-    "url": "https://elpais.com/gente/2026-11-21/marwan-cantautor-mis-canciones-pueden-crear-expectativas-romanticas-pero-yo-no-soy-un-puto-manual-de-autoayuda.html",
+    "url": "https://elpais.com/espana/madrid/2026-11-21/el-secreto-de-la-piramide-del-cabo-bonilla-o-la-gran-estafa-en-el-cuartel-de-colmenar-viejo.html",
     "date": "2026-11-21T04:30:01Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/T3BUOXKBMZAIVAQOI5UH3ARRWI.jpg?auth=24ba266fb0027d4899178df1d0c17a06c37ee5f668d8b0d0b8a1291776e2f0a1",
-    "title_pt": "Marwán, cantor e compositor: \"Minhas músicas podem criar expectativas românticas, mas eu não sou um maldito manual de autoajuda\"",
-    "summary_pt": "O madrilenho lança \"Adrenalina. Memórias de um amor superlativo\", álbum no qual ele se joga de cabeça em seu abismo interior. \"Tive que encarar fantasmas que já havia superado\", afirma ele ao jornal EL PAÍS em uma entrevista em que também fala sobre a história de seus pais, as eleições de 29 de novembro e a causa palestina."
+    "image": "https://imagenes.elpais.com/resizer/v2/YED4RHLVEVBJNLUV6W3TRCG6HI.jpg?auth=06dffdec3db732a678d0af68b6f5eb9eda28b508ede172e1d41f25b6245ffab6"
   },
   {
-    "title": "Peter Mullan, actor y director: “Los cineastas militantes de izquierda estamos rozando la extinción”",
-    "summary": "El realizador ganador del León de Oro de Venecia y de la Concha de Oro de San Sebastián habla de la falta de dinero para hacer cine independiente, de su amor por Ken Loach, que le lanzó a la fama, y de su pasión por Luis Buñuel",
+    "title": "Mayoría conservadora y paridad de sexos: estos son los seis candidatos a presidir el Tribunal Superior de Justicia de Madrid",
+    "summary": "El Consejo General del Poder Judicial debe decidir en las próximas semanas quién ocupa el escalafón más alto de los juzgados madrileños, con poder de decisión en las causas más mediáticas, desde Begoña Gómez hasta González Amador",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
     "source": "El País",
-    "url": "https://elpais.com/cultura/cine/2026-11-21/peter-mullan-actor-y-director-los-cineastas-militantes-de-izquierda-estamos-rozando-la-extincion.html",
+    "url": "https://elpais.com/espana/madrid/2026-11-21/mayoria-conservadora-y-paridad-de-sexos-estos-son-los-seis-candidatos-a-presidir-el-tribunal-superior-de-justicia-de-madrid.html",
     "date": "2026-11-21T04:30:01Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/AT7IKTOZ5REBZC7DKBZEAOVK7E.JPG?auth=9e42b828d2255b6b491ea6adac2def92322c98d9bf7aec694c864f525387b785",
-    "title_pt": "Peter Mullan, ator e diretor: \"Os cineastas militantes de esquerda estão à beira da extinção\"",
-    "summary_pt": "O diretor vencedor do Leão de Ouro de Veneza e da Concha de Ouro de San Sebastián fala sobre a falta de dinheiro para fazer cinema independente, sobre seu amor por Ken Loach, que o lançou à fama, e sobre sua paixão por Luis Buñuel."
+    "image": "https://imagenes.elpais.com/resizer/v2/N6XOMHLMAJFDXO7FXZML474JHU.jpg?auth=01bd3e1c17bbe8f4af08993e602228868b39a7082e8c96324484b695a6ae364a"
   },
   {
-    "title": "Cervantes y el Quijote reviven en Madrid en un mundo de realidad virtual interactiva",
-    "summary": "La nueva sede de la Fundación Mutua Madrileña presenta ‘Cervantes. La gran exposición inmersiva’",
+    "title": "Carlos Cuevas: “‘L’herència’ mostra que hi ha gent que ha pagat els drets humans amb la vida”",
+    "summary": "L’actor, que actua al Teatre Lliure amb l’obra ‘L’herència’, sobre un grup d’homes gais, considera que res ha estat regalat i que no es pot posar en risc la llibertat ara que venen eleccions",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
     "source": "El País",
-    "url": "https://elpais.com/cultura/2026-11-21/cervantes-y-el-quijote-reviven-en-madrid-en-un-mundo-de-realidad-virtual-interactiva.html",
+    "url": "https://elpais.com/quadern/2026-11-21/carlos-cuevas-lherencia-mostra-que-hi-ha-gent-que-ha-pagat-els-drets-humans-amb-la-vida.html",
     "date": "2026-11-21T04:30:01Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/O2LSHFRW4ZHN7GB67AR6HPLWHU.jpg?auth=ae7019635891248e92d1e6986a1425bbf2a4f702838460de555382474a059540",
-    "title_pt": "Cervantes e Dom Quixote revivem em Madri em um mundo de realidade virtual interativa",
-    "summary_pt": "A nova sede da Fundação Mutua Madrileña apresenta \"Cervantes. A grande exposição imersiva\""
+    "image": "https://imagenes.elpais.com/resizer/v2/QLRJP3OJHRDNNH7XYYRGQSYNSA.jpg?auth=033b67ab546f358bda84bb4b2deb374908048a521c554549da270c191154ceb2"
   },
   {
-    "title": "Alberto Cortés, el creador escénico de culto que encarna a Lorca: “Hay que tener cuidado para no mercantilizar los iconos”",
-    "summary": "El autor, director y ‘performer’ presenta sus últimos trabajos en el Festival de Otoño antes de emprender en París una gira por Europa",
+    "title": "Un tercio de las nuevas plazas residenciales públicas de Cataluña saldrán de las que ya existen en el sector privado",
+    "summary": "La Generalitat presenta su estrategia para reducir la lista de espera para residencias de personas mayores y con discapacidad",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
     "source": "El País",
-    "url": "https://elpais.com/cultura/2026-11-21/alberto-cortes-el-creador-escenico-de-culto-que-encarna-a-lorca-hay-que-tener-cuidado-para-no-mercantilizar-los-iconos.html",
+    "url": "https://elpais.com/espana/catalunya/2026-11-21/un-tercio-de-las-nuevas-plazas-residenciales-publicas-de-cataluna-saldran-de-las-que-ya-existen-en-el-sector-privado.html",
     "date": "2026-11-21T04:30:01Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/2LWIMKKWQVD6BFALS4P32RBNUE.jpg?auth=97ff8b15266a958268bbd79a88f905f47a52dfa0755c9832b5f67fc49e0e821b",
-    "title_pt": "Alberto Cortés, o criador cênico cultuado que encarna Lorca: \"É preciso ter cuidado para não mercantilizar os ícones\"",
-    "summary_pt": "O autor, diretor e \"performer\" apresenta seus últimos trabalhos no Festival de Outono antes de iniciar uma turnê pela Europa em Paris"
-  },
-  {
-    "title": "Cruzando con Azcona un paso de cebra",
-    "summary": "Fue uno de los héroes de mi juventud. Hoy sus amigos formamos una fratría o hermandad",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/cultura/2026-11-21/cruzando-con-azcona-un-paso-de-cebra.html",
-    "date": "2026-11-21T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/H7TFMGWSLRBXTG2DS4BNV3QXR4.jpg?auth=04c26248e4bcd56658dbe61f282847418526701e5080680a3b48253c25a17674",
-    "summary_pt": "Ele foi um dos heróis da minha juventude. Hoje, seus amigos formamos uma fraternidade ou irmandade.",
-    "title_pt": "Cruzando uma faixa de pedestres com Azcona"
-  },
-  {
-    "title": "Los ocho libros de la semana: Isabel Allende se reencuentra con sus espíritus, trenodia por los desaparecidos en México y cuatro ensayos con vistas al 29-N",
-    "summary": "Los críticos de ‘Babelia’ reseñan lo nuevo de Sara Uribe, Camila Gutiérrez, Isabel Allende, Miguel González, Ernesto Ekaizer, Mariano Torcal, Ignacio Urquizu y Martín Caparrós",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/babelia/2026-11-21/los-ocho-libros-de-la-semana-isabel-allende-se-reencuentra-con-sus-espiritus-trenodia-por-los-desaparecidos-en-mexico-y-cuatro-ensayos-con-vistas-al-29-n.html",
-    "date": "2026-11-21T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/QCW3MOTCPNDAHNYECBOBU5BE6M.jpg?auth=d0a5e4d7bc3bae514dc8ea21ed674c4f21624776d98edcf7dcdb3be9f929d688",
-    "summary_pt": "Os críticos da \"Babelia\" resenham as novas obras de Sara Uribe, Camila Gutiérrez, Isabel Allende, Miguel González, Ernesto Ekaizer, Mariano Torcal, Ignacio Urquizu e Martín Caparrós",
-    "title_pt": "Os oito livros da semana: Isabel Allende se reencontra com seus espíritos, um lamento pelos desaparecidos no México e quatro ensaios com vistas ao dia 29 de novembro"
-  },
-  {
-    "title": "40 años de la Feria del Libro de Guadalajara: de García Márquez a Richard Gere pasando por España como invitada de honor",
-    "summary": "La directora de la FIL Marisol Schulz repasa la historia del gran foro de las letras en español y destaca los momentos que, para ella, marcaron un antes y un después",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/babelia/2026-11-21/40-anos-de-la-feria-del-libro-de-guadalajara-de-garcia-marquez-a-richard-gere-pasando-por-espana-como-invitada-de-honor.html",
-    "date": "2026-11-21T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/OKTGOFJKFFA2VDLY46NHY7ARUU.jpg?auth=cd70bf1b71c32040e8b19de737eda92e5e26920a2680f05670f3e3fb2d3baded",
-    "title_pt": "40 anos da Feira do Livro de Guadalajara: de García Márquez a Richard Gere, passando pela Espanha como convidada de honra",
-    "summary_pt": "A diretora da FIL, Marisol Schulz, faz um balanço da história do grande fórum literário em espanhol e destaca os momentos que, para ela, marcaram um antes e um depois."
-  },
-  {
-    "title": "Josefina Licitra, premio Sor Juana Inés de la Cruz: “Retirar la palabra a un hijo es hacer un ejercicio de poder”",
-    "summary": "La escritora argentina desbroza en ‘Crac’ el silencio que inundó la relación a distancia con su padre, exiliado de la dictadura en España desde los años setenta",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/babelia/2026-11-21/josefina-licitra-premio-sor-juana-ines-de-la-cruz-retirar-la-palabra-a-un-hijo-es-hacer-un-ejercicio-de-poder.html",
-    "date": "2026-11-21T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/WQTOLRFOSVBXLN5UZGJI6WGCEA.jpg?auth=52e6145d713c5e8a639c4e8b2c7e44df852a9ac82d0d49958093d2fde3fac96a",
-    "title_pt": "Josefina Licitra, Prêmio Sor Juana Inés de la Cruz: \"Tirar a palavra de uma criança é exercer poder\"",
-    "summary_pt": "A escritora argentina desvenda em \"Crac\" o silêncio que inundou o relacionamento à distância com seu pai, exilado da ditadura na Espanha desde a década de 1970."
-  },
-  {
-    "title": "Las revoluciones de Caparrós, vivir el futuro para explicar el pasado",
-    "summary": "Martín Caparrós publica ‘La revolución ya no es lo que era’, un ensayo donde repasa los cambios más intensos que ha vivido la humanidad, desde el fuego al feminismo",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/babelia/2026-11-21/las-revoluciones-de-caparros-vivir-el-futuro-para-explicar-el-pasado.html",
-    "date": "2026-11-21T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/SDTTCXC7XBHCRHRWTE24MWGYIA.jpg?auth=6bbbcc3f4e70cf4ad096a37884353f3032a3aab326ee35028c354c9a665f4fc7",
-    "title_pt": "As revoluções de Caparrós: viver o futuro para explicar o passado",
-    "summary_pt": "Martín Caparrós publica \"A revolução já não é o que era\", um ensaio em que analisa as mudanças mais intensas que a humanidade já vivenciou, do fogo ao feminismo."
-  },
-  {
-    "title": "Periodistas, activistas y abogados rusos intentan resistir a la persecución: “La represión no cesa, es cada vez más severa”",
-    "summary": "Profesionales y ONG intentan continuar su trabajo en la sombra para evitar la prisión y las sanciones del Gobierno de Putin. En las cárceles hay más de 2.300 presos políticos",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-21/periodistas-activistas-y-abogados-rusos-intentan-resistir-a-la-persecucion-la-represion-no-cesa-es-cada-vez-mas-severa.html",
-    "date": "2026-11-21T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/BYJQP4MNIFBPFAMQPBHPRAWFRA.jpg?auth=bec7e85708ee07319b6c4e598de4c272e1c6aad0f8db24675c028778546914f7",
-    "title_pt": "Jornalistas, ativistas e advogados russos tentam resistir à perseguição: \"A repressão não para, está ficando cada vez mais severa\"",
-    "summary_pt": "Profissionais e ONGs tentam continuar seu trabalho nas sombras para evitar a prisão e as sanções do governo de Putin. Há mais de 2.300 presos políticos nas prisões"
+    "image": "https://imagenes.elpais.com/resizer/v2/T5I7UPNSHFGVFAJF325WBEAJLQ.jpg?auth=e3e415e09aa510abe59367a634225d7119e1674706c087b010e17de1dfa8e26f"
   },
   {
     "title": "Christine Baranski: “Doy a las mujeres un consejo: no pidáis disculpas”",
@@ -4294,6 +4261,18 @@
     "image": "https://imagenes.elpais.com/resizer/v2/JETLEWSYZZBU5BYPUHFOZD7WWI.jpg?auth=9300fc953ee63db00a7bf7dede42ccd00ccce8430e2c05ef97c8fe4a568b61ca",
     "title_pt": "Por que em Cádis os churros são comidos de forma diferente: a peso e um pouco salgados",
     "summary_pt": "Nas churrerías de Cádiz, as rodas são cortadas com tesoura, os cartuchos passam pela balança e o açúcar é opcional. Por trás destes costumes existem razões práticas e antecedentes históricos."
+  },
+  {
+    "title": "Los tics del dinero negro aún manchan el ladrillo: “Hagamos parte de la compra del piso en efectivo. 20.000 euros o 30.000, lo que veamos”",
+    "summary": "Los pagos en B se han reducido drásticamente desde la burbuja inmobiliaria, pero en el mercado todavía perduran prácticas que buscan evadir impuestos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/economia/negocios/2026-11-21/los-tics-del-dinero-negro-aun-manchan-el-ladrillo-hagamos-parte-de-la-compra-del-piso-en-efectivo-20000-euros-o-30000-lo-que-veamos.html",
+    "date": "2026-11-21T04:30:00Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/PINNLTAROJB7FOWZUDVM7RJOAM.jpg?auth=d8a2b6219328bdc0f4eb78320c1e18f6bf4fbae45339179e333d9b0d8899ea30"
   },
   {
     "title": "Asador Etxebarri, regreso al altar del fuego",
@@ -5004,7 +4983,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5032,7 +5011,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5154,8 +5133,8 @@
     "date": "2026-11-20T22:16:35Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "A queda da tecnologia de IA leva os investidores dos EUA a correr para as ações de valor Reuters",
-    "title_pt": "A queda da tecnologia de IA leva os investidores dos EUA a correr para as ações de valor"
+    "title_pt": "A queda da tecnologia de IA leva os investidores dos EUA a correr para as ações de valor",
+    "summary_pt": "A queda da tecnologia de IA leva os investidores dos EUA a correr para as ações de valor Reuters"
   },
   {
     "title": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
@@ -5432,7 +5411,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5824,18 +5803,6 @@
     "image": "https://i.guim.co.uk/img/media/9685e16f610038a3820904f81eb1dba749b72664/117_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ff4c4f6c85dba865f89e2e3578574e5",
     "title_pt": "Homem indiano condenado a 19 anos de prisão por conspirar para matar separatista sique em Nova York",
     "summary_pt": "Nikhil Gupta admitiu ter conspirado com um funcionário do governo indiano para contratar um assassino de aluguel para matar um cidadão com dupla nacionalidade, estadunidense e canadense. Um indiano foi condenado a mais de 19 anos de prisão nos Estados Unidos na sexta-feira após admitir ter orquestrado uma conspiração fracassada apoiada pelo governo indiano para matar um separatista sique na cidade de Nova York, em conexão com o que as autoridades dos Estados Unidos e do Canadá"
-  },
-  {
-    "title": "Anthropic retail traders face losses as shares dive 13% the day after debut",
-    "summary": "Anthropic retail traders face losses as shares dive 13% the day after debut Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnI5ZjRqcHhFQXkycDMySHZ1Tkl4V2RKdzNIcTlPdFhCMlJhZEkzX2RSZ0F0cjgteE9RX3JQejRRWHV6RnMtdXA3b3RKczRka0dxSEsyZU5SNFhUbTRZMU00NTVOdXE4RTI0OURfdE41aGIzc2N3ZnpsRFBxNkdsOUYzOGFnNEFGVkppNTVlTkR0OUstdU5jZWwyRUtOWGxVeEJBMWpiZ3FWRzVDdG8tUG1va3VWS2U0a3pWcg?oc=5",
-    "date": "2026-11-20T18:16:23Z",
-    "lang": "en",
-    "image": ""
   },
   {
     "title": "Praga mortal que ameaça gado avança nos EUA, e moscas estéreis viram aposta contra parasita",
