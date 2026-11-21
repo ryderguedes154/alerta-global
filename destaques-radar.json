@@ -1,8 +1,8 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T11:18:12.301463Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T11:23:21.060522Z",
+  "status": "checado",
   "items": [
     {
       "title": "Terremoto de magnitude 6.8 — 103 km NE of Lospalos, Timor Leste",
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Mísseis russos atingiram a Polónia: o que aconteceu e a OTAN poderia responder?",
+      "summary": "Varsóvia acusa Moscovo de provocação intencional, mas a barreira para desencadear a cláusula de defesa colectiva da NATO continua elevada.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+      "published_on": "21/11/2026 07:02 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b01618380-1795252611.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
+    {
       "title": "Notícias da Alemanha: Apoio à ajuda militar da Ucrânia está diminuindo, mostra pesquisa",
       "summary": "Quase metade da população da Alemanha quer reduzir a ajuda militar à Ucrânia, revelou uma pesquisa. Entretanto, os consumidores alemães deverão pagar mais em contas de energia no próximo ano devido, em parte, à guerra no Irão. DW tem mais.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -44,7 +57,7 @@
       "selection": "automatic"
     },
     {
-      "title": "IRGC do Irã derruba drone dos EUA sobre Ormuz enquanto os esforços para acabar com a guerra permanecem paralisados",
+      "title": "Irã diz que derrubou drones dos EUA sobre Ormuz enquanto tentativa de acabar com a guerra continua estagnada",
       "summary": "O Irã reitera as condições para a reabertura de Hormuz enquanto os EUA impõem sanções a quatro iranianos que dizem ter atuado como “curadores do petróleo”.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Economia",
@@ -67,19 +80,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
       "published_on": "21/11/2026 03:12 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795245096.jpg?resize=1918%2C1080&quality=80",
-      "selection": "automatic"
-    },
-    {
-      "title": "Chanceler iraniano diz que Irã quer diplomacia para encerrar a guerra",
-      "summary": "Abbas Araqchi afirmou em entrevista a um jornal do país que mantém contato com Washington e que Teerã busca um acordo que garanta que não haja mais conflito",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/chanceler-iraniano-diz-que-ira-quer-diplomacia-para-encerrar-a-guerra/",
-      "published_on": "20/11/2026 21:06 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Grupo-de-Resposta-Estrategica-do-NYPD-1.jpg?w=200",
       "selection": "automatic"
     },
     {
