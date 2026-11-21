@@ -1,7 +1,7 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T10:41:19.450037Z",
+  "checked_at": "2026-11-21T10:46:38.579574Z",
   "status": "checado",
   "items": [
     {
@@ -83,16 +83,16 @@
       "selection": "automatic"
     },
     {
-      "title": "EUA anunciam sanções a iranianos que lucravam com venda ilícita de petróleo",
-      "summary": "Departamento do Tesouro disse que sancionados arrecadando dinheiro de vendas para Teerã e tentavam burlar bloqueio naval americano",
+      "title": "Na Cúpula da APEC, EUA, China e Rússia prometem aumentar a oferta de petróleo em meio à transição energética global",
+      "summary": "Os Estados Unidos, a China e a Rússia concordaram em aumentar o fornecimento de produtos petrolíferos refinados, à medida que os preços do petróleo disparam devido à guerra no Irão.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Economia",
       "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/eua-anunciam-sancoes-a-iranianos-que-lucravam-com-venda-ilicita-de-petroleo/",
-      "published_on": "20/11/2026 19:24 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM0B12A-BASEIMAGE.jpg?w=200",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
+      "published_on": "20/11/2026 13:45 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-petroleum-topart-wcmf/19trump-summits-petroleum-topart-wcmf-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
