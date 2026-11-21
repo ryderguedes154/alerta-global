@@ -10,8 +10,8 @@
     "date": "2026-11-21T01:36:10Z",
     "lang": "en",
     "image": "https://www.aljazeera.com/wp-content/uploads/2024/12/9237022-1734257055.jpg?resize=1200%2C675",
-    "summary_pt": "A nova agência africana tem como objetivo trazer mais transparência às classificações de crédito.",
-    "title_pt": "A nova agência de classificação de crédito da África pode mudar a forma como o continente é avaliado?"
+    "title_pt": "A nova agência de classificação de crédito da África pode mudar a forma como o continente é avaliado?",
+    "summary_pt": "A nova agência africana tem como objetivo trazer mais transparência às classificações de crédito."
   },
   {
     "title": "Incendies de Los Angeles : un suspect reconnu coupable, après un deuxième procès",
@@ -28,7 +28,7 @@
     "summary_pt": "Jonathan Rinderknecht foi acusado de ter causado um incêndio que os bombeiros inicialmente pensaram ter controlado, mas que acabou reacendendo em 7 de janeiro de 2025 e devastou o bairro nobre de Pacific Palisades."
   },
   {
-    "title": "Suspeito de iniciar incêndio letal em Los Angeles é declarado culpado",
+    "title": "Homem é declarado culpado por incêndio letal em Los Angeles em 2025 e pode pegar 40 anos de prisão",
     "summary": "Incêndio florestal atinge Pacific Palisades em Los Angeles em 7 de janeiro de 2025. REUTERS/Ringo Chiu A Justiça dos Estados Unidos considerou culpado nesta sexta-feira (20) o homem suspeito de provocar o incêndio devastador que atingiu a luxuosa região costeira de Malibu, na Califórnia, no início de 2025. Jonathan Rinderknecht, ex-motorista da Uber, será se",
     "category": "Geral",
     "region": "Global",
@@ -38,8 +38,24 @@
     "date": "2026-11-21T01:34:30Z",
     "lang": "pt",
     "image": "https://s2-g1.glbimg.com/Lper7NP8qP4w-7nlactmObtIONQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/u/UvoJymQAmwizy9hgV4Gg/2025-01-08t065241z-650665384-rc275ca502hb-rtrmadp-3-california-wildfires-1-.jpg",
-    "title_pt": "Suspeito de iniciar incêndio letal em Los Angeles é declarado culpado",
+    "title_pt": "Homem é declarado culpado por incêndio letal em Los Angeles em 2025 e pode pegar 40 anos de prisão",
     "summary_pt": "Incêndio florestal atinge Pacific Palisades em Los Angeles em 7 de janeiro de 2025. REUTERS/Ringo Chiu A Justiça dos Estados Unidos considerou culpado nesta sexta-feira (20) o homem suspeito de provocar o incêndio devastador que atingiu a luxuosa região costeira de Malibu, na Califórnia, no início de 2025. Jonathan Rinderknecht, ex-motorista da Uber, será se"
+  },
+  {
+    "title": "Terremoto de magnitude 4.9 — Reykjanes Ridge",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "Reykjanes Ridge",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucga",
+    "date": "2026-11-21T01:26:19.109000Z",
+    "lat": 58.3017,
+    "lon": -31.7606,
+    "depth_km": 10.0,
+    "forcedSev": "low",
+    "title_pt": "Terremoto de magnitude 4.9 — Reykjanes Ridge",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
     "title": "Terremoto de magnitude 4.7 — 38 km NE of Calama, Chile",
@@ -96,8 +112,8 @@
     "date": "2026-11-21T01:12:48Z",
     "lang": "en",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00d9433fcd-1795217731.jpg?resize=1920%2C1440",
-    "summary_pt": "Copenhague acusa Moscou de planejar um assassinato com uma gangue local proibida; a Rússia afirma que não há provas para a alegação.",
-    "title_pt": "Dinamarca expulsa diplomata russo por suposta conspiração para matar rapper ucraniano"
+    "title_pt": "Dinamarca expulsa diplomata russo por suposta conspiração para matar rapper ucraniano",
+    "summary_pt": "Copenhague acusa Moscou de planejar um assassinato com uma gangue local proibida; a Rússia afirma que não há provas para a alegação."
   },
   {
     "title": "Mulher crava faca no pescoço de homem em MG; vítima sobrevive",
@@ -972,7 +988,7 @@
   {
     "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1068,20 +1084,6 @@
     "summary_pt": "Centenas de aves jovens também foram resgatadas do incêndio, num momento em que o foie gras está sob novo escrutínio por questões de bem-estar animal."
   },
   {
-    "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
-    "summary": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-    "date": "2026-11-20T22:55:43Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Wall St termina em queda acentuada com liquidação de IA, S&P 500 e Dow em correção",
-    "summary_pt": "Wall St termina em queda acentuada com liquidação de IA, S&P 500 e Dow em correção Reuters"
-  },
-  {
     "title": "Germany: Berlin student protest targets rearmament and compulsory service",
     "summary": "Thousands of students marched through Berlin, on Friday 20 November 2026, protesting against the country's rapid military rearmament and fears of a return to compulsory military service. Their protest formed part of a wider wave of youth demonstrations across Europe.",
     "category": "Geral",
@@ -1112,7 +1114,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1154,7 +1156,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2192,7 +2194,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5149,6 +5151,20 @@
     "summary_pt": "Felipe VI celebra o 50º aniversário do Círculo de Empresários Bascos com um prêmio para José Domingo de Ampuero y Osma, presidente da Vicofan"
   },
   {
+    "title": "Stellantis brands to exit motor sports, reports Le Figaro",
+    "summary": "Stellantis brands to exit motor sports, reports Le Figaro Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN05zRk4xOHBTNFV6eUJZaHIwOW9MVGttbEdYbXJiTGN4Rm4tWGt6dWhaUm8za3hrWXpDM25QZElYZ0NVd2ZfQ2ZMaExnd3ZvaFRicjZrT0hhbnlrVG90MHQ3T0hfckNvdVlndlRBczdfSkxvb2RXejNvNDVfcnZUeERkOU5NdjZ0UFc4UlFSNkhOUUZFaDd0MVBidVMzZw?oc=5",
+    "date": "2026-11-20T12:46:33Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Marcas da Stellantis deixarão o automobilismo, informa o Le Figaro",
+    "summary_pt": "Marcas da Stellantis deixarão o automobilismo, informa o Le Figaro Reuters"
+  },
+  {
     "title": "Vox vuelve a presionar al PP y exige a Feijóo que aclare su estrategia de alianzas",
     "summary": "El líder de Vox celebra que el presidente popular no ofreciera acuerdos a Sánchez en el cara a cara, pero le reclama que concrete su política de alianzas",
     "category": "Geral",
@@ -6113,7 +6129,7 @@
   {
     "title": "Should AI be judging our credit worthiness?",
     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -7011,19 +7027,5 @@
     "image": "https://e3.365dm.com/26/11/1920x1080/skynews-thomas-markle-us_7411020.jpg?20261119231423",
     "title_pt": "Tribunal dos EUA decide que Thomas Markle está apto para ser julgado por imagens de abuso infantil",
     "summary_pt": "Thomas Markle está apto para ser julgado pelas acusações de posse de material de abuso sexual infantil, decidiu um tribunal dos Estados Unidos."
-  },
-  {
-    "title": "Operação de segurança no Haiti deixa 34 membros de gangues mortos, segundo a polícia",
-    "summary": "Pessoas se reúnem em apoio às tropas do Exército salvadorenho em sua missão de ajudar na luta contra gangues, em Porto Príncipe, Haiti, em 18 de novembro de 2026. CLARENS SIFFROY/AFP A Polícia Nacional do Haiti anunciou a morte de 34 integrantes de uma gangue durante uma operação realizada nesta quinta-feira (19) em um bairro de Porto Príncipe especialmente ",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "G1 Mundo",
-    "url": "https://g1.globo.com/mundo/noticia/2026/11/19/operacao-de-seguranca-no-haiti-deixa-34-membros-de-gangues-mortos-segundo-a-policia.ghtml",
-    "date": "2026-11-19T21:36:43Z",
-    "lang": "pt",
-    "image": "https://s2-g1.glbimg.com/rsbgbmEo_j8cjd2Nrouy8mdAHZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/K/eQHbphTaG5TzmghN4B6g/afp-20261118-d7x44zw-v1-highres-haitielsalvadorunrestgangs.jpg",
-    "title_pt": "Operação de segurança no Haiti deixa 34 membros de gangues mortos, segundo a polícia",
-    "summary_pt": "Pessoas se reúnem em apoio às tropas do Exército salvadorenho em sua missão de ajudar na luta contra gangues, em Porto Príncipe, Haiti, em 18 de novembro de 2026. CLARENS SIFFROY/AFP A Polícia Nacional do Haiti anunciou a morte de 34 integrantes de uma gangue durante uma operação realizada nesta quinta-feira (19) em um bairro de Porto Príncipe especialmente "
   }
 ]
