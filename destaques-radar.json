@@ -1,8 +1,8 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T19:05:54.038358Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T19:11:22.354453Z",
+  "status": "checado",
   "items": [
     {
       "title": "Terremoto de magnitude 7.3 atinge a China, diz agência",
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Ataque mortal em Kyiv enquanto a Rússia lança barragem contra a Ucrânia",
+      "summary": "A Rússia lançou mais de 400 drones e 110 mísseis em toda a Ucrânia durante a noite, matando pelo menos sete pessoas em Kiev.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+      "published_on": "21/11/2026 14:42 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795286551.jpg?resize=1920%2C1080&quality=80",
+      "selection": "automatic"
+    },
+    {
       "title": "Trump minimiza suposto ataque hacker contra banco de dados do FBI",
       "summary": "Presidente dos EUA declarou que o ataque ao sistema de informações criminais pode revelar fatos úteis para o país",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -80,19 +93,6 @@
       "url": "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe",
       "published_on": "21/11/2026 08:48 (Boa Vista)",
       "image": "https://s.france24.com/media/display/c489cff2-e5a7-11f1-bb16-ebb478925cf0/w:1024/p:16x9/EN-20261121-131728-132120-CS.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "O analista militar Phillips O'Brien fala sobre a Ucrânia e a Europa ficarem de fora das negociações de Trump",
-      "summary": "Enquanto o presidente Trump se reunia com seus homólogos russo e chinês, a Ucrânia e seus aliados europeus ficaram de fora das negociações. Scott Simon, da NPR, conversa com Phillips O'Brien, da Universidade de St. Andrews.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
-      "published_on": "21/11/2026 08:40 (Boa Vista)",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6047379",
       "selection": "automatic"
     },
     {
