@@ -7,7 +7,7 @@
     "country": "ES",
     "source": "El País",
     "url": "https://elpais.com/deportes/futbol/2026-11-21/real-madrid-celta-en-directo-el-partido-de-la-liga-en-vivo.html",
-    "date": "2026-11-21T21:38:55Z",
+    "date": "2026-11-21T21:41:44Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/QEUWB7TKUJJQJJ5SM356Q4332M.jpg?auth=01317d774e76e859ba9adc31e539185eacd9c1b7ced62cf7b8b0d8a8ff6e09ba",
     "title_pt": "Real Madrid – Celta ao vivo | Bellingham empata a partida",
@@ -54,6 +54,20 @@
     "image": "https://img.lemde.fr/2026/11/06/229/0/5500/3666/1440/960/60/0/27b5a5b_ftp-1-osblhese6bkq-2026-11-06t141621z-864316799-rc2cioas5ady-rtrmadp-3-iran-crisis-bahrain.JPG",
     "title_pt": "Bahrein acusa o Irã de ter atacado um de seus locais industriais",
     "summary_pt": "No início do sábado, o Irã afirmou ter interceptado um drone americano que visava a ilha de Qeshm, no Estreito de Ormuz. Os Guardiões da Revolução disseram ter atacado instalações americanas no Bahrein várias vezes esta semana."
+  },
+  {
+    "title": "Bahrain says Iranian attack causes fire at industrial facility",
+    "summary": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+    "date": "2026-11-21T21:31:03Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0202985284a-1795293848.jpg?resize=1920%2C1440",
+    "title_pt": "Bahrein afirma que ataque iraniano causou incêndio em instalação industrial",
+    "summary_pt": "O Bahrein não informa feridos, enquanto o Corpo de Guardas da Revolução Islâmica (IRGC) do Irã afirma ter atacado posições militares dos EUA em duas bases em Al-Riffa e Awali."
   },
   {
     "title": "Morre Joe Wallach, um dos fundadores da Globo, aos 103 anos",
@@ -2736,20 +2750,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D88P4N7__v1__HighRes__FblEngPrManCityFulham-1795269363.jpg?resize=1920%2C1440",
     "title_pt": "O Manchester City consegue um empate por 1 x 1 com o Fulham e encerra uma sequência de três derrotas consecutivas",
     "summary_pt": "Rodrigo Muniz colocou o Fulham na frente, mas o chute de voleio de Elliot Anderson rendeu ao Manchester City um valioso ponto na Premier League."
-  },
-  {
-    "title": "Newcastle United 2-2 Arsenal: Premier League – as it happened",
-    "summary": "All the updates as Mikel Arteta's side had to fight back ​from 2-1 down after a spirited display from their hosts.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
-    "date": "2026-11-21T14:30:00Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b01ec62-1795288162.jpg?resize=1920%2C1440",
-    "title_pt": "Newcastle United 2 x 2 Arsenal: Premier League – como aconteceu",
-    "summary_pt": "Todas as atualizações sobre como a equipe de Mikel Arteta teve que reagir depois de estar perdendo por 2 x 1, após uma atuação animada dos donos da casa."
   },
   {
     "title": "Democrats won big in the midterms. So now what?",
@@ -5458,7 +5458,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5838,7 +5838,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
