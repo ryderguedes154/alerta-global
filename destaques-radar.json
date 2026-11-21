@@ -1,8 +1,8 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T12:45:39.648783Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T12:51:36.586589Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataque com mísseis balísticos à cidade natal de Zelenskyy, no centro da Ucrânia, mata duas pessoas e fere dezenas",
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "O analista militar Phillips O'Brien fala sobre a Ucrânia e a Europa ficarem de fora das negociações de Trump",
+      "summary": "Enquanto o presidente Trump se reunia com seus homólogos russo e chinês, a Ucrânia e seus aliados europeus ficaram de fora das negociações. Scott Simon, da NPR, conversa com Phillips O'Brien, da Universidade de St. Andrews.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
+      "published_on": "21/11/2026 08:40 (Boa Vista)",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6047379",
+      "selection": "automatic"
+    },
+    {
       "title": "Mísseis russos atingiram a Polónia: o que aconteceu e a OTAN poderia responder?",
       "summary": "Varsóvia acusa Moscovo de provocação intencional, mas a barreira para desencadear a cláusula de defesa colectiva da NATO continua elevada.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,19 +54,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
       "published_on": "21/11/2026 07:02 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b01618380-1795252611.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "Notícias da Alemanha: Apoio à ajuda militar da Ucrânia está diminuindo, mostra pesquisa",
-      "summary": "Quase metade da população da Alemanha quer reduzir a ajuda militar à Ucrânia, revelou uma pesquisa. Entretanto, os consumidores alemães deverão pagar mais em contas de energia no próximo ano devido, em parte, à guerra no Irão. DW tem mais.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "DE",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-support-for-ukraine-military-aid-waning-survey-shows/live-80008430?maca=en-rss-en-all-1573-rdf",
-      "published_on": "21/11/2026 06:10 (Boa Vista)",
-      "image": "https://static.dw.com/image/70805450_6.jpg",
       "selection": "automatic"
     },
     {
