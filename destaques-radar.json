@@ -1,8 +1,8 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T15:47:33.334891Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T15:52:40.910482Z",
+  "status": "checado",
   "items": [
     {
       "title": "Terremoto de magnitude 7.3 atinge a China, diz agência",
@@ -70,19 +70,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Irã diz que derrubou drones dos EUA sobre Ormuz enquanto tentativa de acabar com a guerra continua estagnada",
-      "summary": "O Irã reitera as condições para a reabertura de Hormuz enquanto os EUA impõem sanções a quatro iranianos que dizem ter atuado como “curadores do petróleo”.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
-      "published_on": "21/11/2026 05:30 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-05-30T015143Z_1023573013_RC2IALAJ80XV_RTRMADP_3_USA-MILITARY-PUERTO-RICO-1795245920.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
       "title": "Orçamento da UE: Antonio Costa, presidente do Conselho Europeu, propõe economia de 204 bilhões de euros e um imposto digital",
       "summary": "Por sua vez, a França rejeitou a nova proposta do líder europeu. Antonio Costa apresentará sua proposta de compromisso aos líderes da União Europeia durante uma cúpula que será realizada na quinta e na sexta-feira em Bruxelas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,6 +80,19 @@
       "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
       "published_on": "21/11/2026 07:01 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/11/20/0/0/5712/3808/1440/960/60/0/138f446_ftp-1-zcn4jvzlfhs4-2026-11-20t140649z-844608601-rc2oroa6b6of-rtrmadp-3-eu-britain-summit-burnham.JPG",
+      "selection": "automatic"
+    },
+    {
+      "title": "Na Cúpula da APEC, EUA, China e Rússia prometem aumentar a oferta de petróleo em meio à transição energética global",
+      "summary": "Os Estados Unidos, a China e a Rússia concordaram em aumentar o fornecimento de produtos petrolíferos refinados, à medida que os preços do petróleo disparam devido à guerra no Irão.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
+      "published_on": "20/11/2026 13:45 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-petroleum-topart-wcmf/19trump-summits-petroleum-topart-wcmf-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
