@@ -1,7 +1,7 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T02:15:41.684038Z",
+  "checked_at": "2026-11-21T02:20:45.842320Z",
   "status": "checado",
   "items": [
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump pede que Nvidia reintegre o ‘brilhante’ Jensen Huang",
-      "summary": "O presidente dos EUA pede ao gigante da tecnologia que dê ao ex-CEO “uma segunda chance” e exorta-o a “fazer um grande pedido de desculpas”.",
+      "title": "Trump ameaça proibir empresas dos EUA de construir data centers de IA no exterior",
+      "summary": "O presidente dos EUA forneceu poucos detalhes sobre a possível política, dizendo que outras pessoas de sua equipe estavam ouvindo falar dela pela primeira vez.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Tecnologia",
       "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
-      "published_on": "20/11/2026 21:49 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b00e93a45-1795221818.jpg?resize=1920%2C1440",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "published_on": "20/11/2026 16:54 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
       "selection": "automatic"
     }
   ]
