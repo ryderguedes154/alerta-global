@@ -21,11 +21,25 @@
     "country": "FR",
     "source": "Le Monde",
     "url": "https://www.lemonde.fr/planete/article/2026/11/21/incendies-de-los-angeles-un-suspect-reconnu-coupable-apres-un-deuxieme-proces_6813844_3244.html",
-    "date": "2026-11-21T01:35:35Z",
+    "date": "2026-11-21T01:35:32Z",
     "lang": "fr",
     "image": "https://img.lemde.fr/2025/01/28/2/0/5012/3341/1440/960/60/0/808575d_ftp-import-images-1-gkgor4t7ipjj-5869023-01-06.jpg",
     "title_pt": "Incêndios em Los Angeles: suspeito considerado culpado após segundo julgamento",
     "summary_pt": "Jonathan Rinderknecht foi acusado de ter causado um incêndio que os bombeiros inicialmente pensaram ter controlado, mas que acabou reacendendo em 7 de janeiro de 2025 e devastou o bairro nobre de Pacific Palisades."
+  },
+  {
+    "title": "Análise: Derrubada de sigilo do caso Master pode pressionar STF",
+    "summary": "André Mendonça pediu a Fachin que tornasse público relatório da PF que o menciona nas investigações sobre o Banco Master; a avaliação é do analista de Política da CNN Caio Junqueira ao CNN Prime Time",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/analise-derrubada-de-sigilo-do-caso-master-pode-pressionar-stf/",
+    "date": "2026-11-21T01:35:02Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Ney-Santos.jpg?w=200",
+    "title_pt": "Análise: Derrubada de sigilo do caso Master pode pressionar STF",
+    "summary_pt": "André Mendonça pediu a Fachin que tornasse público relatório da PF que o menciona nas investigações sobre o Banco Master; a avaliação é do analista de Política da CNN Caio Junqueira ao CNN Prime Time"
   },
   {
     "title": "Homem é declarado culpado por incêndio letal em Los Angeles em 2025 e pode pegar 40 anos de prisão",
@@ -88,17 +102,17 @@
     "summary_pt": "Julgamento ocorre no plenário virtual da Corte e ainda depende da análise dos demais magistrados do tribunal; logo após o voto de Floriano de Azevedo Marques, Dias Toffoli pediu vista, ou seja, mais tempo para analisar o caso"
   },
   {
-    "title": "Trinta e três cidades estão em alerta para chuvas em SP, diz Defesa Civil",
+    "title": "Defesa Civil monitora chuvas em SP após alertas para 33 cidades",
     "summary": "Temporais já provocaram ocorrências em quatro municípios do Vale do Ribeira; previsão indica instabilidade até terça-feira (23)",
     "category": "Geral",
     "region": "Global",
     "country": "BR",
     "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/trinta-e-tres-cidades-estao-em-alerta-para-chuvas-em-sp-diz-defesa-civil/",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-monitora-chuvas-em-sp-apos-alertas-para-33-cidades/",
     "date": "2026-11-21T01:17:57Z",
     "lang": "pt",
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/defesa-civil-chuvas-sp.jpg?w=200",
-    "title_pt": "Trinta e três cidades estão em alerta para chuvas em SP, diz Defesa Civil",
+    "title_pt": "Defesa Civil monitora chuvas em SP após alertas para 33 cidades",
     "summary_pt": "Temporais já provocaram ocorrências em quatro municípios do Vale do Ribeira; previsão indica instabilidade até terça-feira (23)"
   },
   {
@@ -988,7 +1002,7 @@
   {
     "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1114,7 +1128,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1156,7 +1170,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2194,7 +2208,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2260,20 +2274,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/WMTHPLY2EREP7ED5KHKDGGDE3E.jpg?auth=bcdff4a1ae7a8970386f076f9c5432b88cd5d5ca60ea3fd232639ea124c8131d",
     "title_pt": "Alerta de consumo sobre a possível presença de salmonela em um lote de ovos da marca Eroski",
     "summary_pt": "A distribuição inicial foi na Andaluzia, Castilla-La Mancha, Castilla y León, La Rioja, Navarra, Madri, Múrcia e País Basco."
-  },
-  {
-    "title": "Presidente da COP31 relata avanço para acordo sobre várias questões",
-    "summary": "Murat Kurum afirmou a repórteres que as nações avançaram para um tratado sobre eletrificação, captura de carbono e redução de metano",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/internacional/presidente-da-cop31-relata-avanco-para-acordo-sobre-varias-questoes/",
-    "date": "2026-11-20T20:48:06Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/cop31-turquia-5-e1793996532607.jpg?w=200",
-    "title_pt": "Presidente da COP31 relata avanço para acordo sobre várias questões",
-    "summary_pt": "Murat Kurum afirmou a repórteres que as nações avançaram para um tratado sobre eletrificação, captura de carbono e redução de metano"
   },
   {
     "title": "Gaza’s displaced children celebrate World Children’s Day",
@@ -3594,7 +3594,7 @@
   },
   {
     "title": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
-    "summary": "Ukrainian President Zelenskyy said Russia launched one of the largest aerial attacks since the invasion began. Poland accused Moscow of a \"provocation,\" saying two missiles landed in the NATO country. Follow DW.",
+    "summary": "Ukrainian President Zelenskyy said Russia launched one of the largest aerial attacks since the invasion began. Poland accused Moscow of a \"provocation,\" saying two missiles landed in the NATO country.",
     "category": "Geral",
     "region": "Global",
     "country": "DE",
@@ -4503,20 +4503,6 @@
     "summary_pt": "Os governantes talibãs no Afeganistão acusaram o Paquistão de ajudar e abrigar grupos de resistência armada. As alegações surgem em meio ao aumento das tensões e provavelmente aprofundarão o conflito entre os dois vizinhos."
   },
   {
-    "title": "SpaceX's Cursor weighs phasing out Chinese AI models over geopolitical risk, CNBC reports",
-    "summary": "SpaceX's Cursor weighs phasing out Chinese AI models over geopolitical risk, CNBC reports Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeWlDTVU0ZkVnYWE3bk1yYkRRUUdLTV9YNFBQam8wYjRheXdjUnRqTFBjOWJPU0k4WmdydmZyU0hvQ0RnckFXSnVEQ2VTQy1YU1hzRDBMY1ktbnVqVUwyZ1ktaVdrSXUzS2hWeVlJanE1QXZwQW5uT0I5YjlDcWhDUS1wN0JOSVpTTU5qTGRzZjRQZEFKMEhVX2gtTlNDTENCWThBNFlqTUt1ZnA1ZjZZWEdSbTctTWR1VWxqSFBKb1d2RWFQd0I2MTlHbzBLakR5NzdwMA?oc=5",
-    "date": "2026-11-20T15:00:50Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "O Cursor da SpaceX avalia a eliminação progressiva dos modelos chineses de IA em relação ao risco geopolítico, relata a CNBC",
-    "summary_pt": "O Cursor da SpaceX avalia a eliminação progressiva dos modelos chineses de IA em relação ao risco geopolítico, relata CNBC à Reuters"
-  },
-  {
     "title": "Elena Anaya: “Pensar en la muerte puede servir para conectar con la vida, con el aquí y ahora”",
     "summary": "En el séptimo episodio de esta temporada de ‘Tercer Acto’, la actriz habla de la ilusión por aprender cada día, sus comienzos, cómo gestionó su carrera tras la llamada de Hollywood y sus prioridades vitales",
     "category": "Geral",
@@ -5163,6 +5149,20 @@
     "image": "",
     "title_pt": "Marcas da Stellantis deixarão o automobilismo, informa o Le Figaro",
     "summary_pt": "Marcas da Stellantis deixarão o automobilismo, informa o Le Figaro Reuters"
+  },
+  {
+    "title": "US equity funds draw inflows for a third straight week",
+    "summary": "US equity funds draw inflows for a third straight week Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTV9hWnBMYmhUc0pEOXJmbkRxYWxTcHhCdE5Sc2FVX0NOV1ZmVlFfWnNuY2h2dy03Y1JHb0h3bnh0LThOT2Fadm9EVEcyZEF0MTdaRzlWTDNKZ1lKNmJtNGR4QmI1R2NOUjJXOWhZVFBvdGxQMXlCeERZc0xaSWZmOS1WQVFJN1p0Mk5WYTI0QVdfVmE4ZkIyQ3o2a2d2R0ZLS24xT3FUWQ?oc=5",
+    "date": "2026-11-20T12:45:43Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Fundos de ações dos EUA registram entradas pela terceira semana consecutiva",
+    "summary_pt": "Fundos de ações dos EUA registram entradas pela terceira semana consecutiva Reuters"
   },
   {
     "title": "Vox vuelve a presionar al PP y exige a Feijóo que aclare su estrategia de alianzas",
@@ -6129,7 +6129,7 @@
   {
     "title": "Should AI be judging our credit worthiness?",
     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
