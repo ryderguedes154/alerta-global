@@ -1282,7 +1282,7 @@
   {
     "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1408,7 +1408,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1450,7 +1450,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1516,6 +1516,20 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
     "title_pt": "Policias franceses condenados por espancamento do produtor musical Michel Zecler",
     "summary_pt": "O tribunal considerou o espancamento do produtor musical negro em 2020 como uma circunstância agravante de racismo."
+  },
+  {
+    "title": "India cyber agency warns of unauthorised payment transactions",
+    "summary": "India cyber agency warns of unauthorised payment transactions Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVBjYmYzYWxqaFJPbzVjTUhKX1RMLW16dnlpT1lLdHJVOTc5VHZMUTMyRXM1bF85bFB3Rkg2d0wxT29aUmpYUHZoOHpuamhBc2JTdXptTl9QTHN6Q1g5Y1VVcDBwc3BDYmFMdjFldV9DbU9XRFN1LWh4TU5EQjJ5VW8zVmJMNFVuWlJIUExfOExIWEpPMmltVUdZd3l6QWpMQlFZSUZvSmpLbklq?oc=5",
+    "date": "2026-11-20T22:36:20Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Agência cibernética da Índia alerta sobre transações de pagamento não autorizadas",
+    "summary_pt": "Agência de cibersegurança da Índia alerta sobre transações de pagamento não autorizadas Reuters"
   },
   {
     "title": "Terremoto de magnitude 4.9 — 113 km ESE of Pangai, Tonga",
@@ -2446,7 +2460,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3512,7 +3526,7 @@
   {
     "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
     "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4543,20 +4557,6 @@
     "image": "https://static.dw.com/image/71926925_6.jpg",
     "title_pt": "Sarampo na América: eis uma abordagem construtiva para combater a doença, com base na experiência do Brasil",
     "summary_pt": "Os EUA agora são oficialmente uma zona de contágio do sarampo. Até meados de 2026, houve mais infecções do que em todo o ano anterior. Mas o país poderia vencer o sarampo novamente, assim como o Brasil fez há dois anos."
-  },
-  {
-    "title": "The snowballing selloff in global markets",
-    "summary": "The snowballing selloff in global markets Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5",
-    "date": "2026-11-20T15:13:44Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "A onda de vendas em forma de bola de neve nos mercados globais",
-    "summary_pt": "A onda de vendas em forma de bola de neve nos mercados globais Reuters"
   },
   {
     "title": "Ukraine: Rescue teams search wreckage after deadly Russian strike on Kyiv",
@@ -6199,7 +6199,7 @@
   {
     "title": "Should AI be judging our credit worthiness?",
     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
