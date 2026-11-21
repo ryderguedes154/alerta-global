@@ -1,9 +1,22 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T15:00:25.651007Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T15:05:47.164126Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Terremoto de magnitude 7.3 atinge a China, diz agência",
+      "summary": "Tremor ocorreu a uma profundidade de 10 quilômetros, segundo a USGS",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-7-3-atinge-a-china-diz-agencia/",
+      "published_on": "21/11/2026 10:35 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/terremoto-china.jpeg.png?w=1175&h=547&crop=1",
+      "selection": "automatic"
+    },
     {
       "title": "Ataque com mísseis balísticos à cidade natal de Zelenskyy, no centro da Ucrânia, mata duas pessoas e fere dezenas",
       "summary": "QUIEV, Ucrânia (AP) — Um ataque russo ao centro da cidade natal do presidente ucraniano, Volodymyr Zelenskyy, Kryvyi Rih, matou duas pessoas e feriu outras 60, disseram autoridades locais no sábado. Um menino de 7 anos e uma mulher de 20 anos foram mortos no ataque de sexta-feira à noite à cidade no centro...",
@@ -67,19 +80,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
       "published_on": "21/11/2026 05:30 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-05-30T015143Z_1023573013_RC2IALAJ80XV_RTRMADP_3_USA-MILITARY-PUERTO-RICO-1795245920.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "Terremoto de magnitude 6.7 — 9 km NE of Carhuamayo, Peru",
-      "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "9 km NE of Carhuamayo, Peru",
-      "country": "GLOBAL",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
-      "published_on": "20/11/2026 20:09 (Boa Vista)",
-      "image": "",
       "selection": "automatic"
     },
     {
