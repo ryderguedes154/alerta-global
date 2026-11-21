@@ -1,8 +1,8 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T10:35:55.523521Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T10:41:19.450037Z",
+  "status": "checado",
   "items": [
     {
       "title": "Terremoto de magnitude 6.8 — 103 km NE of Lospalos, Timor Leste",
@@ -31,6 +31,32 @@
       "selection": "automatic"
     },
     {
+      "title": "Notícias da Alemanha: Apoio à ajuda militar da Ucrânia está diminuindo, mostra pesquisa",
+      "summary": "Quase metade da população da Alemanha quer reduzir a ajuda militar à Ucrânia, revelou uma pesquisa. Entretanto, os consumidores alemães deverão pagar mais em contas de energia no próximo ano devido, em parte, à guerra no Irão. DW tem mais.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "DE",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/germany-news-support-for-ukraine-military-aid-waning-survey-shows/live-80008430?maca=en-rss-en-all-1573-rdf",
+      "published_on": "21/11/2026 06:10 (Boa Vista)",
+      "image": "https://static.dw.com/image/70805450_6.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "IRGC do Irã derruba drone dos EUA sobre Ormuz enquanto os esforços para acabar com a guerra permanecem paralisados",
+      "summary": "O Irã reitera as condições para a reabertura de Hormuz enquanto os EUA impõem sanções a quatro iranianos que dizem ter atuado como “curadores do petróleo”.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+      "published_on": "21/11/2026 05:30 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-05-30T015143Z_1023573013_RC2IALAJ80XV_RTRMADP_3_USA-MILITARY-PUERTO-RICO-1795245920.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
+    {
       "title": "Equipes de emergência na Ucrânia atingidas por um ataque duplo",
       "summary": "O vídeo mostra equipes de emergência na Ucrânia se aproximando do local de um ataque russo, antes que outro ataque ocorra.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -53,20 +79,7 @@
       "source": "CNN Brasil",
       "url": "https://www.cnnbrasil.com.br/internacional/chanceler-iraniano-diz-que-ira-quer-diplomacia-para-encerrar-a-guerra/",
       "published_on": "20/11/2026 21:06 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/presos-pelo-ICE.webp?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Embaixada brasileira na Ucrânia é atingida por destroços após ataques a Kiev, diz Itamaraty",
-      "summary": "Governo brasileiro divulga nota condenando ataques a Kiev, na Ucrânia O Ministério das Relações Exteriores (Itamaraty) informou nesta sexta-feira (20) que a embaixada brasileira na Ucrânia foi atingida por destroços após ataques da Rússia a Kiev. Ainda conforme o Itamaraty, não houve feridos nem danos materiais à representação brasileira na capital da Ucrâni",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/politica/noticia/2026/11/20/embaixada-brasileira-na-ucrania-e-atingida-por-destrocos-apos-ataques-a-kiev-diz-itamaraty.ghtml",
-      "published_on": "20/11/2026 20:37 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/J__BStXj1FjjOEVi_LRnNYK6JWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/R/1/YP9YS2QvaMySTWmx9H5A/51092657087-a2653f26cc-o.jpg",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Grupo-de-Resposta-Estrategica-do-NYPD-1.jpg?w=200",
       "selection": "automatic"
     },
     {
@@ -80,19 +93,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/eua-anunciam-sancoes-a-iranianos-que-lucravam-com-venda-ilicita-de-petroleo/",
       "published_on": "20/11/2026 19:24 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM0B12A-BASEIMAGE.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Na Cúpula da APEC, EUA, China e Rússia prometem aumentar a oferta de petróleo em meio à transição energética global",
-      "summary": "Os Estados Unidos, a China e a Rússia concordaram em aumentar o fornecimento de produtos petrolíferos refinados, à medida que os preços do petróleo disparam devido à guerra no Irão.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
-      "published_on": "20/11/2026 13:45 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-petroleum-topart-wcmf/19trump-summits-petroleum-topart-wcmf-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
