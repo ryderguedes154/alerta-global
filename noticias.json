@@ -12,6 +12,22 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f48/live/f2f4d6c0-e55c-11f1-99a1-253766e7ad8b.jpg"
   },
   {
+    "title": "Terremoto de magnitude 5.0 — 0 km NE of Carhuamayo, Peru",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "0 km NE of Carhuamayo, Peru",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uchd",
+    "date": "2026-11-21T05:12:04.898000Z",
+    "lat": -10.913,
+    "lon": -76.0308,
+    "depth_km": 110.928,
+    "forcedSev": "med",
+    "title_pt": "Terremoto de magnitude 5.0 — 0 km NE of Carhuamayo, Peru",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
+  },
+  {
     "title": "En Italie, de nouvelles manifestations massives, signe d’une grogne sociale qui ne faiblit pas",
     "summary": "A l’appel de la CGIL, premier syndicat du pays, des cortèges ont défilé, vendredi, dans une centaine de villes pour dénoncer le coût de la vie, la précarité étudiante et les dépenses militaires, en particulier pour aider l’Ukraine.",
     "category": "Geral",
@@ -2212,7 +2228,7 @@
   {
     "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2338,7 +2354,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2380,7 +2396,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3362,7 +3378,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4383,20 +4399,6 @@
     "title_pt": "🔴Assista ao vivo: Trump dá entrevista coletiva após reunião com Xi e Putin"
   },
   {
-    "title": "Fed's Cook says rate hikes needed to lower high inflation",
-    "summary": "Fed's Cook says rate hikes needed to lower high inflation Reuters",
-    "category": "Economia",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5",
-    "date": "2026-11-20T17:19:43Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Cook, do Fed, diz que os aumentos das taxas são necessários para reduzir a alta inflação",
-    "summary_pt": "Cook, do Fed, diz que os aumentos das taxas são necessários para reduzir a alta inflação Reuters"
-  },
-  {
     "title": "Turkey’s Van Cats Contend With Rising Temperatures",
     "summary": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
     "category": "Geral",
@@ -5067,6 +5069,18 @@
     "image": "https://images.euronews.com/articles/stories/10/00/19/75/696x392_cmsv2_279464e3-e20e-5d7c-822b-372e6c9b67c5-10001975.jpg",
     "title_pt": "Ucrânia: equipes de resgate vasculham destroços após ataque russo mortal em Kiev",
     "summary_pt": "Um ataque russo durante a noite a Kiev, na Ucrânia, matou oito pessoas na sexta-feira, 20 de novembro de 2026, de acordo com a Associated Press, deixando prédios e armazéns danificados em toda a capital. Os bombeiros combateram os incêndios enquanto as equipes de emergência vasculhavam os escombros e a polícia coletava evidências."
+  },
+  {
+    "title": "Big Pharma, with eye on Anthropic, says AI is shrinking drug discovery timelines",
+    "summary": "Big Pharma, with eye on Anthropic, says AI is shrinking drug discovery timelines Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlJGWE45RkVJTGJ1UXJxWFlaMlNfcnQ4bkNxRlIyV2VYVm0yRVQyeS1UQW5ldEZybjQzOFlRUmRzNlRxaGMzR3FWVlc1NVZMNnJzeGlyeXJvdVFxaXJPOVhjY0J4OUdEbWg5X0Rza1owcllpM1ZaME9LSDlpS0JfcFhTZ29acnV3a3M3Z1dGVW1FRHZjdmNqZGQyeDc2S25sbTQ1TGNEdFdLVDRtU25lU3JVaXFVMXAzT0xkYU5LSEY1dExkRnNR?oc=5",
+    "date": "2026-11-20T15:11:35Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "The secret cyber scramble to protect UK fridge freezers",
@@ -6401,7 +6415,7 @@
   {
     "title": "Should AI be judging our credit worthiness?",
     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -7001,17 +7015,5 @@
     "image": "https://images.euronews.com/articles/stories/10/00/08/65/696x392_cmsv2_228a6f12-5732-5687-a33e-c01bc98e6e7f-10000865.jpg",
     "title_pt": "Ucrânia: ataques russos danificam embaixadas austríacas e holandesas em Kyiv",
     "summary_pt": "Os ataques russos danificaram as embaixadas austríaca e holandesa em Kyiv na quinta-feira. As janelas foram quebradas e os veículos danificados, mas o pessoal diplomático escapou ileso."
-  },
-  {
-    "title": "The Latest: Kushner says he believes Russia is ‘comfortable’ with NATO-like security for Ukraine",
-    "summary": "U.S. envoy Jared Kushner said Thursday he believes Russia is “comfortable” with NATO-like security guarantees for postwar Ukraine, while Kyiv’s European allies expressed concerns about President Donald Trump’s meeting in China with the Kremlin leader. Kushner’s remarks came after Trump wrapped rare …",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/trump-putin-xi-apec-talks-shenzhen-3d0f8ed366d6084e1cfe12a4d8020c55?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-    "date": "2026-11-19T22:17:17Z",
-    "lang": "en",
-    "image": "https://ic-cdn.flipboard.com/apnews.com/5216b8fd3f736bf5dc783c5a77cac24605674f8b/_xlarge.png"
   }
 ]
