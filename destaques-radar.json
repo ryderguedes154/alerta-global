@@ -1,9 +1,22 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T23:25:03.574353Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T23:30:09.275621Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "O Irã enfrenta uma \"guerra econômica silenciosa\", diz o presidente iraniano",
+      "summary": "O Irã enfrenta uma \"guerra econômica silenciosa\", diz o presidente iraniano",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+      "published_on": "21/11/2026 19:18 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/iran-pres-horizontal-thumb-1795302988.jpg?resize=1920%2C1080&quality=80",
+      "selection": "automatic"
+    },
     {
       "title": "Rússia lança ataque com mísseis balísticos contra a cidade natal de Zelensky, no centro da Ucrânia",
       "summary": "Um ataque russo com mísseis balísticos à cidade natal do presidente Volodymyr Zelensky, no centro da Ucrânia, matou no sábado duas pessoas e feriu dezenas. Horas depois, Zelensky reiterou a determinação do seu país em aderir à NATO. Gulliver Cragg, do FRANCE 24, relata de Kyiv.",
@@ -31,16 +44,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Ataque mortal em Kyiv enquanto a Rússia lança barragem contra a Ucrânia",
-      "summary": "A Rússia lançou mais de 400 drones e 110 mísseis em toda a Ucrânia durante a noite, matando pelo menos sete pessoas em Kiev.",
+      "title": "Terremoto de magnitude 6.8 — 105 km NE of Lospalos, Timor Leste",
+      "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
-      "published_on": "21/11/2026 14:42 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795286551.jpg?resize=1920%2C1080&quality=80",
+      "category": "Clima e desastres",
+      "region": "105 km NE of Lospalos, Timor Leste",
+      "country": "GLOBAL",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij",
+      "published_on": "21/11/2026 05:42 (Boa Vista)",
+      "image": "",
       "selection": "automatic"
     },
     {
@@ -54,19 +67,6 @@
       "url": "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
       "published_on": "21/11/2026 13:26 (Boa Vista)",
       "image": "https://s.france24.com/media/display/2e281d9c-e5d0-11f1-9a79-6b451f569414/w:1024/p:16x9/EN-20261121-171141-171326-CS.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Terremoto de magnitude 6.8 — 105 km NE of Lospalos, Timor Leste",
-      "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "105 km NE of Lospalos, Timor Leste",
-      "country": "GLOBAL",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij",
-      "published_on": "21/11/2026 05:42 (Boa Vista)",
-      "image": "",
       "selection": "automatic"
     },
     {

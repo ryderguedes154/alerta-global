@@ -1,5 +1,19 @@
 [
   {
+    "title": "Iran faces a ‘silent economic war’, says Iranian president",
+    "summary": "Iran faces a ‘silent economic war’, says Iranian president",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+    "date": "2026-11-21T23:18:14Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/iran-pres-horizontal-thumb-1795302988.jpg?resize=1920%2C1080&quality=80",
+    "summary_pt": "O Irã enfrenta uma \"guerra econômica silenciosa\", diz o presidente iraniano",
+    "title_pt": "O Irã enfrenta uma \"guerra econômica silenciosa\", diz o presidente iraniano"
+  },
+  {
     "title": "Ukraine: Dashcam captures massive explosion on Lviv street",
     "summary": "A dashcam captured the moment a Russian projectile struck a building directly ahead of a car in Lviv, forcing the driver to reverse. The attack killed two people and injured at least 10 others.",
     "category": "Geral",
@@ -2778,20 +2792,6 @@
     "summary_pt": "Delegação do Catar visita Teerã para negociações, disse autoridade iraniana à Reuters"
   },
   {
-    "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-    "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
-    "date": "2026-11-21T15:01:18Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261013__D3722EZ__v1__HighRes__UaeIranUsIsraelWarHormuzShipping-1795270231.jpg?resize=1920%2C1440",
-    "title_pt": "Navios-tanque são atingidos no Estreito de Ormuz enquanto o Irã aumenta o controle sobre o transporte marítimo",
-    "summary_pt": "A agência marítima britânica informa dois incidentes perto de Omã, enquanto o Irã afirma que um petroleiro pegou fogo devido a uma mina naval."
-  },
-  {
     "title": "Mexico captures drug cartel boss ‘El Chapo Isidro’ after deadly firefight",
     "summary": "Mexico's military forces captured ​one of the most wanted suspected drug lords, Fausto Isidro Meza Flores, known as \"El Chapo Isidro,\" the military announced on Saturday, after a deadly firefight that killed seven suspected attackers and four soldiers. Flores, one of the FBI’s 10 most wanted fugitives, was flown to Mexico City after his capture.",
     "category": "Geral",
@@ -5542,7 +5542,7 @@
   {
     "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5626,7 +5626,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5962,7 +5962,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
