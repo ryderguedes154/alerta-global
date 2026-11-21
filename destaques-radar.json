@@ -1,8 +1,8 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T17:26:05.288707Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T17:31:17.594009Z",
+  "status": "checado",
   "items": [
     {
       "title": "Terremoto de magnitude 7.3 atinge a China, diz agência",
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Trump minimiza suposto ataque hacker contra banco de dados do FBI",
+      "summary": "Presidente dos EUA declarou que o ataque ao sistema de informações criminais pode revelar fatos úteis para o país",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Segurança cibernética",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/trump-minimiza-suposto-ataque-hacker-contra-banco-de-dados-do-fbi/",
+      "published_on": "21/11/2026 13:00 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM2A1GN-BASEIMAGE.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
       "title": "Ataque russo mata criança e deixa 58 feridos na Ucrânia, diz autoridade",
       "summary": "Míssil atingiu as instalações de um restaurante com civis e profissionais de saúde; socorrista de ambulância está entre as vítimas da ofensiva",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/ataque-russo-mata-crianca-e-deixa-58-feridos-na-ucrania-diz-autoridade/",
       "published_on": "21/11/2026 11:33 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM290OI-BASEIMAGE.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Como países da Otan no Mar Negro são arrastados para a guerra na Ucrânia",
-      "summary": "Veja a lista de ataques a embarcações e outros incidentes importantes registrados nas proximidades dos dois países do oeste do Mar Negro nas últimas semanas",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/como-paises-da-otan-no-mar-negro-sao-arrastados-para-a-guerra-na-ucrania/",
-      "published_on": "21/11/2026 09:00 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/drones-russos-do-Mar-Negro-2.jpg?w=200",
       "selection": "automatic"
     },
     {
@@ -83,6 +83,19 @@
       "selection": "automatic"
     },
     {
+      "title": "O analista militar Phillips O'Brien fala sobre a Ucrânia e a Europa ficarem de fora das negociações de Trump",
+      "summary": "Enquanto o presidente Trump se reunia com seus homólogos russo e chinês, a Ucrânia e seus aliados europeus ficaram de fora das negociações. Scott Simon, da NPR, conversa com Phillips O'Brien, da Universidade de St. Andrews.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
+      "published_on": "21/11/2026 08:40 (Boa Vista)",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6047379",
+      "selection": "automatic"
+    },
+    {
       "title": "O que acontece se o Google e a Microsoft caírem ao mesmo tempo? A economia mundial foi hipotecada a um punhado de servidores",
       "summary": "Apenas três empresas controlam 70% do mercado de operadores de nuvem na Europa. Especialistas alertam para a extrema dependência de serviços interconectados entre si e sem firewalls suficientes",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://elpais.com/internacional/2026-11-21/que-pasa-si-google-y-microsoft-caen-a-la-vez-la-economia-mundial-se-ha-hipotecado-con-un-punado-de-servidores.html",
       "published_on": "21/11/2026 12:11 (Boa Vista)",
       "image": "https://imagenes.elpais.com/resizer/v2/AAI52LRT4VFZ7KZQMDL33WJAGU.jpg?auth=081df027f44c49b94179e07802fa1adab4b6ea30e3d368528a5eeba7e22db8bf",
-      "selection": "automatic"
-    },
-    {
-      "title": "Orçamento da UE: Antonio Costa, presidente do Conselho Europeu, propõe economia de 204 bilhões de euros e um imposto digital",
-      "summary": "Por sua vez, a França rejeitou a nova proposta do líder europeu. Antonio Costa apresentará sua proposta de compromisso aos líderes da União Europeia durante uma cúpula que será realizada na quinta e na sexta-feira em Bruxelas.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
-      "published_on": "21/11/2026 07:01 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/20/0/0/5712/3808/1440/960/60/0/138f446_ftp-1-zcn4jvzlfhs4-2026-11-20t140649z-844608601-rc2oroa6b6of-rtrmadp-3-eu-britain-summit-burnham.JPG",
       "selection": "automatic"
     }
   ]
