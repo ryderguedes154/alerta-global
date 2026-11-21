@@ -1,5 +1,19 @@
 [
   {
+    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+    "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-21T21:05:29Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+    "title_pt": "Barão das drogas mexicano na lista dos 10 mais procurados do FBI é preso em tiroteio",
+    "summary_pt": "Fausto Isidro \"Chapo Isidro\" Meza Flores, acusado de tráfico de drogas e tortura, é detido após um tiroteio com as autoridades."
+  },
+  {
     "title": "Zelensky chama trilateral entre Trump, Xi e Putin de “fracasso” para Rússia",
     "summary": "Presidente da Ucrânia também afirmou que não está claro de Kiev vai integrar a Otan após o fim da guerra que já dura mais de quatro anos",
     "category": "Geral",
@@ -94,8 +108,8 @@
     "date": "2026-11-21T20:56:35Z",
     "lang": "en",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b01e7c0bd47-1795286976.jpg?resize=1920%2C1440",
-    "summary_pt": "O ministro das Relações Exteriores do Irã afirma que reabrir o estreito \"não é difícil\" se os EUA aceitarem condições razoáveis.",
-    "title_pt": "O Irã afirma ter mantido conversas com mediadores do Catar e pede aos EUA que aceitem as condições"
+    "title_pt": "O Irã afirma ter mantido conversas com mediadores do Catar e pede aos EUA que aceitem as condições",
+    "summary_pt": "O ministro das Relações Exteriores do Irã afirma que reabrir o estreito \"não é difícil\" se os EUA aceitarem condições razoáveis."
   },
   {
     "title": "Paraná tem dois tornados em um único dia, confirma Simepar",
@@ -2655,7 +2669,7 @@
   },
   {
     "title": "Mexico captures FBI’s most-wanted cartel boss ‘El Chapo Isidro’, triggering violence",
-    "summary": "Fausto Isidro Meza Flores, one of the FBI’s ten most-wanted fugitives, was arrested in a military operation involving US intelligence cooperation. Gunfire, burning vehicles and panic among civilians followed the raid in northern Mexico.",
+    "summary": "Fausto Isidro Meza Flores, one of the FBI’s ten most-wanted fugitives, was arrested in a military operation involving US intelligence cooperation. Gunfire, burning vehicles and panic among civilians followed the raid in northern Mexico. 11 people were killed.",
     "category": "Geral",
     "region": "Global",
     "country": "EU",
@@ -3002,20 +3016,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
     "title_pt": "Zelensky diz que os ataques à Ponte da Crimeia são uma \"resposta justa\" ao se reunir com Streeting, do Reino Unido",
     "summary_pt": "O presidente da Ucrânia afirma que Kiev agiu após 109 ataques aéreos russos distintos contra pontes na Ucrânia."
-  },
-  {
-    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-    "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-21T13:15:21Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
-    "title_pt": "Barão das drogas mexicano na lista dos 10 mais procurados do FBI é preso em tiroteio",
-    "summary_pt": "Fausto Isidro \"Chapo Isidro\" Meza Flores, acusado de tráfico de drogas e tortura, é detido após um tiroteio com as autoridades."
   },
   {
     "title": "Cúpula na China foi 'muito malsucedida' para a Rússia, diz Zelensky",
@@ -5332,7 +5332,7 @@
   {
     "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5416,7 +5416,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5796,7 +5796,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5832,8 +5832,8 @@
     "date": "2026-11-20T20:45:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "O vice-presidente dos EUA, Vance, se recusa a dizer que teria ordenado ataques ao Irã Reuters",
-    "title_pt": "O vice-presidente dos EUA, Vance, se recusa a dizer que teria ordenado ataques ao Irã"
+    "title_pt": "O vice-presidente dos EUA, Vance, se recusa a dizer que teria ordenado ataques ao Irã",
+    "summary_pt": "O vice-presidente dos EUA, Vance, se recusa a dizer que teria ordenado ataques ao Irã Reuters"
   },
   {
     "title": "Reino Unido e União Europeia firmam acordo e tentam reconstruir laços após Brexit",
