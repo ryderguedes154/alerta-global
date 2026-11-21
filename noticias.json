@@ -1,5 +1,19 @@
 [
   {
+    "title": "Carlos Alcaraz - Ben Shelton en directo | Alcaraz se lleva el segundo set y el partido se decide en el tercero",
+    "summary": "Shelton se anotó la primera manga tras un gran inicio (6-3)",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/tenis/2026-11-21/carlos-alcaraz-ben-shelton-en-directo-las-semifinales-de-las-atp-finals-en-vivo.html",
+    "date": "2026-11-21T15:17:05Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/AGBUX3UDZZLNZBRYG4CPL4DG2Q.jpg?auth=0bec1fa9a4bdde75e1b09c54b92a3c953c4acd232d28452bd9b867893c162f12",
+    "title_pt": "Carlos Alcaraz - Ben Shelton ao vivo | Alcaraz vence o segundo set e a partida será decidida no terceiro",
+    "summary_pt": "Shelton venceu o primeiro set após um ótimo começo (6-3)"
+  },
+  {
     "title": "Independent review ordered into surgery carried out by NHS Grampian",
     "summary": "It follows a whistleblower's leaking of a document which shows there were 19 avoidable deaths at the health board.",
     "category": "Saúde",
@@ -12,20 +26,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/135f/live/622e3500-e5b6-11f1-a188-ff49e70cc466.jpg",
     "title_pt": "Solicitada revisão independente de cirurgia realizada pelo NHS Grampian",
     "summary_pt": "Isso ocorre após um denunciante ter vazado um documento que mostra que houve 19 mortes evitáveis no conselho de saúde."
-  },
-  {
-    "title": "Carlos Alcaraz - Ben Shelton en directo | Alcaraz se lleva el segundo set y el partido se decide en el tercero",
-    "summary": "Shelton se anotó la primera manga tras un gran inicio (6-3)",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/deportes/tenis/2026-11-21/carlos-alcaraz-ben-shelton-en-directo-las-semifinales-de-las-atp-finals-en-vivo.html",
-    "date": "2026-11-21T15:15:05Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/AGBUX3UDZZLNZBRYG4CPL4DG2Q.jpg?auth=0bec1fa9a4bdde75e1b09c54b92a3c953c4acd232d28452bd9b867893c162f12",
-    "title_pt": "Carlos Alcaraz - Ben Shelton ao vivo | Alcaraz vence o segundo set e a partida será decidida no terceiro",
-    "summary_pt": "Shelton venceu o primeiro set após um ótimo começo (6-3)"
   },
   {
     "title": "Resurge en Italia el misterio de las masacres de la Mafia de 1992 con el suicidio de un exjefe de policía",
@@ -66,22 +66,6 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Imagem-mostra-capa-oficial-do-GTA-VI.jpg?w=200",
     "title_pt": "“GTA 6” bate recorde e se torna o maior lançamento da história",
     "summary_pt": "Vendas do jogo ultrapassaram US$ 3,8 bilhões no varejo em seu primeiro dia completo de lançamento; números são baseados em estimativas até o final do dia de quinta-feira (19)"
-  },
-  {
-    "title": "Terremoto de magnitude 4.8 — 7 km W of Salvaleón de Higüey, Dominican Republic",
-    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
-    "category": "Clima e desastres",
-    "region": "7 km W of Salvaleón de Higüey, Dominican Republic",
-    "country": "GLOBAL",
-    "source": "USGS",
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26325053",
-    "date": "2026-11-21T15:00:12Z",
-    "lat": 18.608,
-    "lon": -68.78,
-    "depth_km": 106.2,
-    "forcedSev": "low",
-    "title_pt": "Terremoto de magnitude 4.8 — 7 km W of Salvaleón de Higüey, Dominican Republic",
-    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
     "title": "Au Sénégal, l’avenir incertain des installations des Jeux olympiques de la jeunesse",
@@ -4621,7 +4605,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6385,7 +6369,7 @@
   {
     "title": "Himalaya-sized ancient 'supermountains' found beneath Antarctica's ice sheet",
     "summary": "The discovery offers a window into the continent's geological past and of how life on Earth has evolved.",
-    "category": "Clima e desastres",
+    "category": "Geral",
     "region": "Global",
     "country": "EU",
     "source": "Euronews",
@@ -6805,7 +6789,7 @@
   {
     "title": "Fiona the hippo dies after swallowing a visitor's hat",
     "summary": "Fiona, the Cincinnati Zoo's much-loved hippopotamus, has died after swallowing a knitted hat that became stuck in her digestive system. Vets made several attempts to remove the object but were unable to save the nine-year-old animal.",
-    "category": "Clima e desastres",
+    "category": "Geral",
     "region": "Global",
     "country": "EU",
     "source": "Euronews",
@@ -6941,5 +6925,17 @@
     "image": "",
     "title_pt": "Quem foi Zumbi dos Palmares: o maior líder quilombola brasileiro",
     "summary_pt": "Data de sua morte se tornou o Dia da Consciência Negra no Brasil. No auge, território de escravizados fugidos teria reunido 30 mil pessoas em uma área do tamanho de Portugal"
+  },
+  {
+    "title": "Iran may be working on biological weapons, Trump says",
+    "summary": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war drags on toward its ninth month.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+    "date": "2026-11-20T08:51:00Z",
+    "lang": "en",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/19/9513f300-fddd-4761-90a0-bbd7814014ce/thumbnail/1200x630/16082d281adb90c9282151b40fc76df2/gettyimages-2305027666.jpg"
   }
 ]
