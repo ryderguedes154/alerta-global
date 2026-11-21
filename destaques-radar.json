@@ -1,9 +1,22 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T00:12:15.521346Z",
+  "checked_at": "2026-11-21T00:17:21.861072Z",
   "status": "checado",
   "items": [
+    {
+      "title": "Terremoto de magnitude 6.9 — 22 km WNW of Ondores, Peru",
+      "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "22 km WNW of Ondores, Peru",
+      "country": "GLOBAL",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26325050",
+      "published_on": "20/11/2026 20:09 (Boa Vista)",
+      "image": "",
+      "selection": "automatic"
+    },
     {
       "title": "Míssil russo atinge a Polônia enquanto aliados da Ucrânia realizam exercício militar, diz Tusk",
       "summary": "O primeiro-ministro Donald Tusk disse que não parecia ter sido um acidente quando os exercícios militares ocidentais estavam ocorrendo na região.",
@@ -80,19 +93,6 @@
       "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
       "published_on": "20/11/2026 13:45 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-petroleum-topart-wcmf/19trump-summits-petroleum-topart-wcmf-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "O mundo está sendo \"mantido refém pela máfia do petróleo\": como um pequeno país está se impondo na COP31",
-      "summary": "No último dia da COP31, um país afirma que \"não emprestará seu nome\" a \"linguagem complacente ou ineficaz\" no pacto final, que requer consenso.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/20/world-is-being-held-hostage-by-oil-mafia-how-one-tiny-country-is-putting-its-foot-down-at-",
-      "published_on": "20/11/2026 07:02 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/10/00/14/92/696x392_cmsv2_cba898b5-b1d6-5e68-b8da-2b7bac2db3b2-10001492.jpg",
       "selection": "automatic"
     },
     {
