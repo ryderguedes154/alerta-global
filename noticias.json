@@ -1,5 +1,17 @@
 [
   {
+    "title": "Germany news: Support for Ukraine military aid waning, survey shows",
+    "summary": "Nearly half of Germany's population wants to reduce military aid to Ukraine, a survey has found. Meanwhile, German consumers are set to pay more in energy bills next year due in part to the Iran war. DW has more.",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "DE",
+    "source": "Deutsche Welle",
+    "url": "https://www.dw.com/en/germany-news-support-for-ukraine-military-aid-waning-survey-shows/live-80008430?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-11-21T10:10:00Z",
+    "lang": "en",
+    "image": "https://static.dw.com/image/70805450_6.jpg"
+  },
+  {
     "title": "Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken",
     "summary": "A flaky favorite of food influencers and famous chefs, the company’s sea salt is a mainstay of well-stocked pantries. But a revelation this week raised questions about what makes artisanal “artisanal.”",
     "category": "Geral",
@@ -38,8 +50,8 @@
     "date": "2026-11-21T10:00:53Z",
     "lang": "en",
     "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00xp-butlerschool-promo-jvwm/00xp-butlerschool-promo-jvwm-mediumSquareAt3X.jpg",
-    "summary_pt": "Uma academia na Holanda oferece um programa de oito semanas por US$ 14 mil para entrar no mundo dourado dos serviços. Qual é o atrativo?",
-    "title_pt": "Uma escola de mordomos na Holanda oferece acesso a um mundo luxuoso"
+    "title_pt": "Uma escola de mordomos na Holanda oferece acesso a um mundo luxuoso",
+    "summary_pt": "Uma academia na Holanda oferece um programa de oito semanas por US$ 14 mil para entrar no mundo dourado dos serviços. Qual é o atrativo?"
   },
   {
     "title": "Brasil x Irlanda: horário e onde assistir à Copa do Mundo Sub-17",
@@ -2057,18 +2069,16 @@
     "image": "https://imagenes.elpais.com/resizer/v2/EYOXHGVUYNCSVI64V2EWCL3SLE.jpg?auth=759a1b935c0c83bb7f609cb30730c14f565df0de386c4a34b4785a659c4c1bc5"
   },
   {
-    "title": "Yalta, Shenzhen y el futuro del orden internacional",
-    "summary": "La cumbre entre EE UU, China y Rusia evidencia que tres países no pueden decidir el porvenir del resto, ni aunque se pusieran de acuerdo",
+    "title": "Lo que el anuncio del PSOE no cuenta",
+    "summary": "El orgullo de clase ha entrado en una campaña centrada en las condiciones materiales: hacía tiempo que las cosas del comer no ocupaban tanto espacio en el debate político",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
     "source": "El País",
-    "url": "https://elpais.com/opinion/2026-11-21/yalta-shenzhen-y-el-futuro-del-orden-internacional.html",
+    "url": "https://elpais.com/opinion/2026-11-21/lo-que-el-anuncio-del-psoe-no-cuenta.html",
     "date": "2026-11-21T04:30:01Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/ASO4PJGZ3RC6DCMKCN6SJ7A5HY.jpg?auth=6bf0eec431f8b3acdfca678cd861c0f7f0c45fc235a5499fb778bfd0547d3f7c",
-    "title_pt": "Ialta, Shenzhen e o futuro da ordem internacional",
-    "summary_pt": "A cúpula entre os EUA, a China e a Rússia mostra que três países não podem decidir o futuro dos demais, mesmo que cheguem a um acordo."
+    "image": "https://imagenes.elpais.com/resizer/v2/D7MJ5NECXZENBM4YRPPDVOPKHY.jpg?auth=0cd08122d7e0810f346cebae598a6b143dbc4f38d40757f70715ba21f5099318"
   },
   {
     "title": "Una lectora: “Vuelves a pedir, vuelves a imaginar cómo sería tu vida si, por fin, consiguieras cierta estabilidad”",
@@ -3577,7 +3587,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3591,7 +3601,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4153,7 +4163,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6230,22 +6240,6 @@
     "summary_pt": "O governo quer que mais residências tenham bombas de calor para reduzir o uso de combustíveis fósseis e diminuir as contas de energia."
   },
   {
-    "title": "Terremoto de magnitude 4.6 — 40 km SSE of Koróni, Greece",
-    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
-    "category": "Clima e desastres",
-    "region": "40 km SSE of Koróni, Greece",
-    "country": "GLOBAL",
-    "source": "USGS",
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc8d",
-    "date": "2026-11-20T10:16:14.294000Z",
-    "lat": 36.4406,
-    "lon": 22.082,
-    "depth_km": 41.976,
-    "forcedSev": "low",
-    "title_pt": "Terremoto de magnitude 4.6 — 40 km SSE of Koróni, Greece",
-    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
-  },
-  {
     "title": "Iran readies tanker convoy at Kharg Island to test US oil blockade",
     "summary": "More than 14 tankers have been assigned crews and Iranian flags at the terminal that handles up to 90% of the country’s crude exports, according to satellite imagery and ship-tracking data, with a convoy expected to head toward the Sea of Oman in the coming days.",
     "category": "Geral",
@@ -6640,7 +6634,7 @@
   {
     "title": "Should AI be judging our credit worthiness?",
     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
