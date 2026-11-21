@@ -1,8 +1,8 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T11:28:25.384271Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T11:33:30.481584Z",
+  "status": "checado",
   "items": [
     {
       "title": "Terremoto de magnitude 6.8 — 103 km NE of Lospalos, Timor Leste",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Telefonia móvel via satélite: o caminho tortuoso das operadoras europeias rumo a uma constelação soberana",
-      "summary": "Diante da Starlink, a Orange, a Deutsche Telekom, a Telefônica e a Vodafone querem criar um serviço móvel via satélite europeu e soberano. No entanto, os prazos, os custos e a falta de soluções disponíveis complicam o projeto.",
+      "title": "União Europeia propõe taxar big techs para financiar orçamento até 2034",
+      "summary": "Bandeiras da União Europeia Stephanie Lecocq/Reuters A União Europeia apresentou neste sábado (21) uma proposta para o orçamento de longo prazo do bloco, que valerá de 2028 a 2034. Entre as medidas previstas está a criação de uma cobrança anual sobre receitas de grandes empresas de tecnologia, incluindo ganhos com publicidade online, serviços digitais e uso",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Tecnologia",
       "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/21/telephonie-mobile-par-satellite-le-chemin-tortueux-des-operateurs-europeens-vers-une-constellation-souveraine_6813948_3234.html",
-      "published_on": "21/11/2026 02:00 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/20/0/0/4413/2942/1440/960/60/0/27700c8_upload-1-ffedsxaoejcr-p-070309-00-16-01-original-127679.jpg",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/21/uniao-europeia-propoe-taxar-big-techs-para-financiar-orcamento-ate-2034.ghtml",
+      "published_on": "21/11/2026 07:26 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/GZ6m0teaaY1sIRp5WctIG_so-9I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/X/NI53hBRPWa9ebAfAH2Cg/2025-12-23t160040z-1034825363-rc2viia1d9fs-rtrmadp-3-eu-environment-plastics.jpg",
       "selection": "automatic"
     }
   ]
