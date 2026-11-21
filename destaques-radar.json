@@ -1,8 +1,8 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T16:28:59.696049Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T16:34:08.063781Z",
+  "status": "checado",
   "items": [
     {
       "title": "Terremoto de magnitude 7.3 atinge a China, diz agência",
@@ -83,6 +83,19 @@
       "selection": "automatic"
     },
     {
+      "title": "O que acontece se o Google e a Microsoft caírem ao mesmo tempo? A economia mundial foi hipotecada a um punhado de servidores",
+      "summary": "Apenas três empresas controlam 70% do mercado de operadores de nuvem na Europa. Especialistas alertam para a extrema dependência de serviços interconectados entre si e sem firewalls suficientes",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "ES",
+      "source": "El País",
+      "url": "https://elpais.com/internacional/2026-11-21/que-pasa-si-google-y-microsoft-caen-a-la-vez-la-economia-mundial-se-ha-hipotecado-con-un-punado-de-servidores.html",
+      "published_on": "21/11/2026 12:11 (Boa Vista)",
+      "image": "https://imagenes.elpais.com/resizer/v2/AAI52LRT4VFZ7KZQMDL33WJAGU.jpg?auth=081df027f44c49b94179e07802fa1adab4b6ea30e3d368528a5eeba7e22db8bf",
+      "selection": "automatic"
+    },
+    {
       "title": "Orçamento da UE: Antonio Costa, presidente do Conselho Europeu, propõe economia de 204 bilhões de euros e um imposto digital",
       "summary": "Por sua vez, a França rejeitou a nova proposta do líder europeu. Antonio Costa apresentará sua proposta de compromisso aos líderes da União Europeia durante uma cúpula que será realizada na quinta e na sexta-feira em Bruxelas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
       "published_on": "21/11/2026 07:01 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/11/20/0/0/5712/3808/1440/960/60/0/138f446_ftp-1-zcn4jvzlfhs4-2026-11-20t140649z-844608601-rc2oroa6b6of-rtrmadp-3-eu-britain-summit-burnham.JPG",
-      "selection": "automatic"
-    },
-    {
-      "title": "Na Cúpula da APEC, EUA, China e Rússia prometem aumentar a oferta de petróleo em meio à transição energética global",
-      "summary": "Os Estados Unidos, a China e a Rússia concordaram em aumentar o fornecimento de produtos petrolíferos refinados, à medida que os preços do petróleo disparam devido à guerra no Irão.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
-      "published_on": "20/11/2026 13:45 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-petroleum-topart-wcmf/19trump-summits-petroleum-topart-wcmf-mediumSquareAt3X.jpg",
       "selection": "automatic"
     }
   ]
