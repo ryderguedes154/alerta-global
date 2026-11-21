@@ -1,5 +1,19 @@
 [
   {
+    "title": "Brazil ex-president Jair Bolsonaro taken to hospital over abdominal pain",
+    "summary": "Jair Bolsonaro has been hospitalized in Brasilia with intestinal obstruction. The former far-right Brazilian leader is receiving pain medications, his son Carlos said.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "DE",
+    "source": "Deutsche Welle",
+    "url": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-11-21T03:16:00Z",
+    "lang": "en",
+    "image": "https://static.dw.com/image/75426988_6.jpg",
+    "title_pt": "O ex-presidente do Brasil, Jair Bolsonaro, foi levado ao hospital com dores abdominais",
+    "summary_pt": "Jair Bolsonaro foi internado em Brasília com obstrução intestinal. O ex-líder brasileiro de extrema-direita está recebendo analgésicos, disse seu filho Carlos."
+  },
+  {
     "title": "Ex-procurador-geral do Paraguai denuncia perseguição política à ONU após escândalo bancário",
     "summary": "Procurador-geral do Paraguai Emiliano Rolón Fernández AFP / Procuradoria-Geral do Paraguai O ex-procurador-geral do Paraguai Emiliano Rolón denunciou à ONU uma perseguição política após renunciar ao cargo em meio ao escândalo envolvendo o Ueno Bank, que levou à destituição e à prisão do ex-presidente Santiago Peña, segundo documentos obtidos nesta sexta-feir",
     "category": "Geral",
@@ -12,20 +26,6 @@
     "image": "https://s2-g1.glbimg.com/aYcqz5OIXBBhaw4uvAm5FU2ImWc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/5/OCV4ojRaWn2KlU6lT3ZA/afp-20261117-d7te8ky-v1-midres-paraguaypoliticsbankingcrisis.jpg",
     "title_pt": "Ex-procurador-geral do Paraguai denuncia perseguição política à ONU após escândalo bancário",
     "summary_pt": "Procurador-geral do Paraguai Emiliano Rolón Fernández AFP / Procuradoria-Geral do Paraguai O ex-procurador-geral do Paraguai Emiliano Rolón denunciou à ONU uma perseguição política após renunciar ao cargo em meio ao escândalo envolvendo o Ueno Bank, que levou à destituição e à prisão do ex-presidente Santiago Peña, segundo documentos obtidos nesta sexta-feir"
-  },
-  {
-    "title": "Three French police officers sentenced over racist assault on Black man",
-    "summary": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss",
-    "date": "2026-11-21T03:01:24Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00f269-1795224169.jpg?resize=1920%2C1440",
-    "title_pt": "Três policiais franceses condenados por agressão racista a homem negro",
-    "summary_pt": "O Tribunal Criminal de Paris considerou que o racismo foi um fator agravante no ataque de 2020 ao produtor musical negro Michel Zecler."
   },
   {
     "title": "Velejador americano Guy deBoer recebe alta no Rio de Janeiro após dez dias",
@@ -52,8 +52,8 @@
     "date": "2026-11-21T02:49:16Z",
     "lang": "en",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-EUROPE-2011-1795229308.png?resize=1920%2C1080&quality=80",
-    "summary_pt": "Milhares de manifestantes da Geração Z se reuniram em 25 países europeus para protestar contra o custo de vida, os gastos militares e as questões climáticas.",
-    "title_pt": "Protestos da Geração Z tomam conta da Europa devido às guerras, ao aumento dos custos e ao clima"
+    "title_pt": "Protestos da Geração Z tomam conta da Europa devido às guerras, ao aumento dos custos e ao clima",
+    "summary_pt": "Milhares de manifestantes da Geração Z se reuniram em 25 países europeus para protestar contra o custo de vida, os gastos militares e as questões climáticas."
   },
   {
     "title": "UK anti-migrant activist jailed for slashing Channel dinghy",
@@ -1192,8 +1192,8 @@
     "date": "2026-11-20T23:09:44Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Criança da Virgínia morre na primeira morte associada ao sarampo no estado em 2024 Reuters",
-    "title_pt": "Criança da Virgínia morre na primeira morte associada ao sarampo no estado em 2024"
+    "title_pt": "Criança da Virgínia morre na primeira morte associada ao sarampo no estado em 2024",
+    "summary_pt": "Criança da Virgínia morre na primeira morte associada ao sarampo no estado em 2024 Reuters"
   },
   {
     "title": "Kane, vencedor da Bola de Ouro, sofre lesão e será desfalque por meses",
@@ -1338,7 +1338,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2162,20 +2162,6 @@
     "image": "https://s.france24.com/media/display/84d2817a-e524-11f1-9187-1bac47ab2f5d/w:1024/p:16x9/000-C8TV3VK.jpg",
     "title_pt": "\"Licença para matar\": Parlamento francês aprova lei sobre tiros da polícia criticada por ativistas",
     "summary_pt": "Na sexta-feira, os senadores franceses deram a aprovação final a uma legislação controversa que concede aos policiais uma presunção de legítima defesa ao usarem armas de fogo, atendendo a uma antiga reivindicação da extrema-direita, mesmo depois de semanas de protestos liderados por estudantes terem colocado a questão da brutalidade policial novamente em destaque. Parlamentares de esquerda prometeram contestar"
-  },
-  {
-    "title": "EXCLUSIVE: Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say",
-    "summary": "EXCLUSIVE: Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTdaaUUyWTJoNmxNSkszY3U3di1OSlJoOE5Qb2dKRHFyX1FjNDM1XzdjZDV0NXBja2Voem1nYlpRUjdYZXNsM05fenltM0ZpQVE0MEJ2WVJDV0NSU1NBYi1XVDZpRm9LS0JnRTRGSHBpQzg4ZVUxMXV1azA2eU14b2IyLXBkMzE2ZW9OeGF4eEUxcHBQdHJucXlUTElVRi1zRVcwd0d1MlhJZEwtRE54cUxfM2l2Q1Bu?oc=5",
-    "date": "2026-11-20T21:17:27Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "EXCLUSIVO: Pequim vai proibir empresas jovens de \"red chips\" de abrir o capital fora da China continental, dizem fontes",
-    "summary_pt": "EXCLUSIVO: Pequim vai proibir empresas jovens de \"red chips\" de abrirem o capital fora da China continental, dizem fontes à Reuters"
   },
   {
     "title": "Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA",
@@ -3032,6 +3018,20 @@
     "summary_pt": "Trump diz que Filipinas vão trocar Brasil pelos EUA na agricultura O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teria firmado um acordo com as Filipinas para assegurar a preferência de produtos agrícolas norte-americanos no mercado do país asiático. A medida poderia reduzir as compras de produtos brasileiros pelos filipin"
   },
   {
+    "title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
+    "summary": "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
+    "date": "2026-11-20T19:15:18Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00994a-1795201354.jpg?resize=1920%2C1440",
+    "title_pt": "Prefeito de Belgrado é acusado de agredir político da oposição na Sérvia",
+    "summary_pt": "Os promotores afirmam que Aleksandar Šapić causou ferimentos graves no rosto de uma vereadora e pedem uma sentença de três anos."
+  },
+  {
     "title": "Three Salvadorans killed in Haiti handling explosives in first official deaths since deployment",
     "summary": "Three Salvadorans killed in Haiti handling explosives in first official deaths since deployment Reuters",
     "category": "Geral",
@@ -3184,6 +3184,20 @@
     "image": "",
     "title_pt": "Após a viagem de Trump à China, os republicanos da Câmara dos EUA pressionam a estratégia de IA para combater Pequim",
     "summary_pt": "Após a viagem de Trump à China, os republicanos da Câmara dos EUA pressionam a estratégia de IA para combater Pequim Reuters"
+  },
+  {
+    "title": "Houthi attacks add to worries over Trump Saudi nuclear power pact",
+    "summary": "Houthi attacks add to worries over Trump Saudi nuclear power pact Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeERTd2VXX21mYUpEQUFyRjN2dk5Hdkl3RTZLTDUzbV9HRzE5cy1CcThnQkF3WVNsMDR0bWsxZDMxTlI1d0o2dFZwNjEtX0ZKSVBYQmFycVN2dGNYaXVTRnh3a2Y2M09uM0RkQU4wSDdGWEo3TF94ZlVySy1RNTNEaGhjZmlQZFJ4VjNzM094Rmp4Y0RJZHJZZG5MZVB1VHBkUjJxTmUwUlpBc1JFa2NhQkdGTVhOcGc?oc=5",
+    "date": "2026-11-20T18:29:31Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Os ataques Houthi aumentam as preocupações com o acordo de energia nuclear entre Trump e a Arábia Saudita",
+    "summary_pt": "Os ataques dos houthis aumentam as preocupações com o pacto de energia nuclear entre Trump e a Arábia Saudita Reuters"
   },
   {
     "title": "Trump says more work to be done to achieve fair trade deal with Canada",
@@ -5153,7 +5167,7 @@
   {
     "title": "Himalaya-sized ancient 'supermountains' found beneath Antarctica's ice sheet",
     "summary": "The discovery offers a window into the continent's geological past and of how life on Earth has evolved.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "EU",
     "source": "Euronews",
@@ -5817,7 +5831,7 @@
   {
     "title": "Fiona the hippo dies after swallowing a visitor's hat",
     "summary": "Fiona, the Cincinnati Zoo's much-loved hippopotamus, has died after swallowing a knitted hat that became stuck in her digestive system. Vets made several attempts to remove the object but were unable to save the nine-year-old animal.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "EU",
     "source": "Euronews",
@@ -6171,7 +6185,7 @@
   {
     "title": "Should AI be judging our credit worthiness?",
     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -7011,19 +7025,5 @@
     "image": "https://ic-cdn.flipboard.com/apnews.com/e29d71652127c6afb47209970de0a621e1865abd/_large.jpeg",
     "title_pt": "Tribunal de segunda instância concede pedido de Trump para suspender a ordem de restabelecimento do TPS venezuelano",
     "summary_pt": "Um tribunal federal de segunda instância concordou em manter congeladas as proteções contra deportação para centenas de milhares de migrantes venezuelanos, pouco depois de o governo Trump ter apresentado um recurso de urgência ao Supremo Tribunal. A decisão do tribunal de segunda instância, proferida na noite de quarta-feira, significa que o governo continua livre para..."
-  },
-  {
-    "title": "Príncipe Harry diz estar disposto a voltar ao Exército para lutar contra a Rússia",
-    "summary": "Príncipe Harry, esposa e filhos vão voltar a morar no Reino Unido após anos nos EUA O príncipe Harry afirmou estar disposto a voltar a servir no Exército britânico e lutar contra a Rússia, \"se fosse necessário\". A declaração foi feita em entrevista ao jornal The Telegraph, durante uma visita surpresa à Ucrânia, divulgada nesta quinta-feira (19). ✅ Siga o can",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "G1 Mundo",
-    "url": "https://g1.globo.com/mundo/noticia/2026/11/19/principe-harry-diz-estar-disposto-a-voltar-ao-exercito-para-lutar-contra-a-russia.ghtml",
-    "date": "2026-11-19T21:42:02Z",
-    "lang": "pt",
-    "image": "https://s2-g1.glbimg.com/46vMzKEdhw5HAaDV9DdO9FQMgWI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/E/cATdLgTFKK2d51W300nA/2026-11-18t121654z-554418599-rc2booag8dxq-rtrmadp-3-britain-royals-harry-ukraine.jpg",
-    "title_pt": "Príncipe Harry diz estar disposto a voltar ao Exército para lutar contra a Rússia",
-    "summary_pt": "Príncipe Harry, esposa e filhos vão voltar a morar no Reino Unido após anos nos EUA O príncipe Harry afirmou estar disposto a voltar a servir no Exército britânico e lutar contra a Rússia, \"se fosse necessário\". A declaração foi feita em entrevista ao jornal The Telegraph, durante uma visita surpresa à Ucrânia, divulgada nesta quinta-feira (19). ✅ Siga o can"
   }
 ]
