@@ -1,8 +1,8 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T08:20:53.784741Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T08:25:58.179587Z",
+  "status": "checado",
   "items": [
     {
       "title": "Terremoto de magnitude 6.7 — 9 km NE of Carhuamayo, Peru",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Banco de dados do FBI é alvo de ataque cibernético",
-      "summary": "Invasão do Centro Nacional de Informações Criminais por supostos hackers é a segunda violação desse tipo nos últimos meses",
+      "title": "Telefonia móvel via satélite: o caminho tortuoso das operadoras europeias rumo a uma constelação soberana",
+      "summary": "Diante da Starlink, a Orange, a Deutsche Telekom, a Telefônica e a Vodafone querem criar um serviço móvel via satélite europeu e soberano. No entanto, os prazos, os custos e a falta de soluções disponíveis complicam o projeto.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Segurança cibernética",
+      "category": "Tecnologia",
       "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/banco-de-dados-do-fbi-e-alvo-de-ataque-cibernetico/",
-      "published_on": "20/11/2026 22:21 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM4E0VH-BASEIMAGE.jpg?w=200",
+      "country": "FR",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/21/telephonie-mobile-par-satellite-le-chemin-tortueux-des-operateurs-europeens-vers-une-constellation-souveraine_6813948_3234.html",
+      "published_on": "21/11/2026 02:00 (Boa Vista)",
+      "image": "https://img.lemde.fr/2026/11/20/0/0/4413/2942/1440/960/60/0/27700c8_upload-1-ffedsxaoejcr-p-070309-00-16-01-original-127679.jpg",
       "selection": "automatic"
     }
   ]
