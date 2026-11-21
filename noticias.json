@@ -42,6 +42,18 @@
     "summary_pt": "Milhares de pessoas marcharam pelo centro de Lisboa neste sábado (21), apesar da chuva forte, para protestar contra o aumento vertiginoso do custo de vida, o agravamento da crise imobiliária e os baixos salários. A Confederação Geral dos Trabalhadores Portugueses (CGTP), maior federação sindical de Portugal e organizadora do evento, pediu salários e aposenta"
   },
   {
+    "title": "Un detenido tras la muerte de una mujer de 37 años en Villarrobledo (Albacete)",
+    "summary": "El cuerpo de la joven fue encontrado la madrugada del viernes en una finca rural. La Guardia Civil baraja “varias hipótesis”",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-21/un-detenido-tras-la-muerte-de-una-mujer-de-37-anos-en-villarrobledo-albacete.html",
+    "date": "2026-11-21T19:29:02Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/4DKOUWVYTZIFHMN6WHZGRTFTEA.jpg?auth=b623bbd1e8bcbbbc1c8d288992df0f3ff13d5baaee0e5e72e6c94c7aef65fbc9"
+  },
+  {
     "title": "Detenido El Chapo Isidro en un operativo que desata el terror en Sinaloa",
     "summary": "El arresto de uno de los principales líderes del Cartel de Sinaloa deja un reguero de enfrentamientos entre las autoridades y criminales. El Ejército ha informado de la muerte de cuatro militares y de siete presuntos agresores en el ataque",
     "category": "Geral",
@@ -1443,7 +1455,7 @@
   },
   {
     "title": "El ejército israelí mata a tres personas al bombardear un vehículo en Gaza",
-    "summary": "Las Fuerzas Armadas aseguran que las víctimas pertenecían a la Yihad Islámica y llevaban comida a miembros de su organización",
+    "summary": "Las Fuerzas Armadas aseguran que las víctimas pertenecían a la Yihad Islámica y llevaban comida a miembros de su organización. La ONG del chef José Andrés desmiente lo que la furgoneta fuera suya, tal como se especuló",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
@@ -2228,7 +2240,7 @@
     "summary_pt": "Tremor ocorreu a uma profundidade de 10 quilômetros, segundo a USGS"
   },
   {
-    "title": "Newcastle United vs Arsenal LIVE: Premier League",
+    "title": "Newcastle United 2-2 Arsenal LIVE: Premier League",
     "summary": "Follow updates from the Premier League clash, including the build-up, analysis and live text commentary of the game.",
     "category": "Geral",
     "region": "Global",
@@ -2237,9 +2249,7 @@
     "url": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
     "date": "2026-11-21T14:30:00Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b018cce-1795263694.jpg?resize=1487%2C1080&quality=80",
-    "title_pt": "Newcastle United x Arsenal AO VIVO: Premier League",
-    "summary_pt": "Acompanhe as atualizações do confronto da Premier League, incluindo a preparação, a análise e os comentários em tempo real da partida."
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b01ec62-1795288162.jpg?resize=1920%2C1440"
   },
   {
     "title": "Ataque ucraniano mata seis em cidade sob controle russo, dizem autoridades",
@@ -4602,20 +4612,6 @@
     "summary_pt": "Nas churrerías de Cádiz, as rodas são cortadas com tesoura, os cartuchos passam pela balança e o açúcar é opcional. Por trás destes costumes existem razões práticas e antecedentes históricos."
   },
   {
-    "title": "Asador Etxebarri, regreso al altar del fuego",
-    "summary": "Volver una y otra vez al recién nombrado mejor restaurante del mundo por The 50 Best Restaurants es un ritual de devoción",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/gastronomia/2026-11-21/asador-etxebarri-regreso-al-altar-del-fuego.html",
-    "date": "2026-11-21T04:25:00Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/BIIICQ7P7RE7XKAZCOLPPMQHVA.jpg?auth=c9ead5949281fa0503e6583dfeec6e0ddc9e5e364cae381752f6665762dc0e07",
-    "title_pt": "Asador Etxebarri, retorne ao altar de fogo",
-    "summary_pt": "Retornar repetidamente ao recém-nomeado melhor restaurante do mundo pelos 50 Melhores Restaurantes é um ritual de devoção"
-  },
-  {
     "title": "Bitcoin rises after falling to two-year low",
     "summary": "Bitcoin rises after falling to two-year low Reuters",
     "category": "Geral",
@@ -5168,7 +5164,7 @@
   {
     "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5224,7 +5220,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5252,7 +5248,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5620,7 +5616,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
