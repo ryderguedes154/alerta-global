@@ -1,8 +1,8 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T22:02:15.149425Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T22:07:21.011345Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataque com mísseis balísticos à cidade natal de Zelenskyy, no centro da Ucrânia, mata duas pessoas e fere dezenas",
@@ -57,19 +57,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump minimiza suposto ataque hacker contra banco de dados do FBI",
-      "summary": "Presidente dos EUA declarou que o ataque ao sistema de informações criminais pode revelar fatos úteis para o país",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Segurança cibernética",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-minimiza-suposto-ataque-hacker-contra-banco-de-dados-do-fbi/",
-      "published_on": "21/11/2026 13:00 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM2A1GN-BASEIMAGE.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
       "title": "Terremoto de magnitude 6.8 — 105 km NE of Lospalos, Timor Leste",
       "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -83,19 +70,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Influência do Irã no Estreito de Ormuz diminui com fluxo de petróleo",
-      "summary": "Ataques continuam na região mas recuperação das exportações reduz poder de barganha de Teerã contra os Estados Unidos",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/influencia-do-ira-no-estreito-de-ormuz-diminui-com-fluxo-de-petroleo/",
-      "published_on": "21/11/2026 12:30 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Navios-no-Estreito-de-Ormuz-em-Musandam-Oma.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
       "title": "O que acontece se o Google e a Microsoft caírem ao mesmo tempo? A economia mundial foi hipotecada a um punhado de servidores",
       "summary": "Apenas três empresas controlam 70% do mercado de operadores de nuvem na Europa. Especialistas alertam para a extrema dependência de serviços interconectados entre si e sem firewalls suficientes",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +80,32 @@
       "url": "https://elpais.com/internacional/2026-11-21/que-pasa-si-google-y-microsoft-caen-a-la-vez-la-economia-mundial-se-ha-hipotecado-con-un-punado-de-servidores.html",
       "published_on": "21/11/2026 12:11 (Boa Vista)",
       "image": "https://imagenes.elpais.com/resizer/v2/AAI52LRT4VFZ7KZQMDL33WJAGU.jpg?auth=081df027f44c49b94179e07802fa1adab4b6ea30e3d368528a5eeba7e22db8bf",
+      "selection": "automatic"
+    },
+    {
+      "title": "Orçamento da UE: Antonio Costa, presidente do Conselho Europeu, propõe economia de 204 bilhões de euros e um imposto digital",
+      "summary": "Por sua vez, a França rejeitou a nova proposta do líder europeu. Antonio Costa apresentará sua proposta de compromisso aos líderes da União Europeia durante uma cúpula que será realizada na quinta e na sexta-feira em Bruxelas.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "FR",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
+      "published_on": "21/11/2026 07:01 (Boa Vista)",
+      "image": "https://img.lemde.fr/2026/11/20/0/0/5712/3808/1440/960/60/0/138f446_ftp-1-zcn4jvzlfhs4-2026-11-20t140649z-844608601-rc2oroa6b6of-rtrmadp-3-eu-britain-summit-burnham.JPG",
+      "selection": "automatic"
+    },
+    {
+      "title": "Como a China obtém acesso aos chips de IA americanos",
+      "summary": "Jensen Huang renunciou ao cargo de CEO da Nvidia após um caso extraconjugal com uma suposta espiã chinesa. Após o escândalo da Nvidia, o acesso da China à tecnologia fabricada nos Estados Unidos e aos chips avançados de IA voltou a ser alvo de escrutínio. Ramy Inocencio viajou para o Sudeste Asiático para saber mais sobre o uso de chips americanos pela China",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/how-china-gets-access-to-american-ai-chips/",
+      "published_on": "21/11/2026 11:35 (Boa Vista)",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/21/1b7cbb74-a077-41d2-b62c-d21c9cd1b23e/thumbnail/1200x630/d250ec76cdfef9fd0ab91b9e396d1449/cbsn-fusion-how-china-gets-access-to-american-ai-chips-thumbnail.jpg",
       "selection": "automatic"
     }
   ]
