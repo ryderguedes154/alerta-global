@@ -1,8 +1,8 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T07:34:46.997339Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T07:40:06.660749Z",
+  "status": "checado",
   "items": [
     {
       "title": "Terremoto de magnitude 6.7 — 9 km NE of Carhuamayo, Peru",
@@ -15,6 +15,19 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
       "published_on": "20/11/2026 20:09 (Boa Vista)",
       "image": "",
+      "selection": "automatic"
+    },
+    {
+      "title": "Equipes de emergência na Ucrânia atingidas por um ataque duplo",
+      "summary": "O vídeo mostra equipes de emergência na Ucrânia se aproximando do local de um ataque russo, antes que outro ataque ocorra.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
+      "published_on": "21/11/2026 03:12 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795245096.jpg?resize=1918%2C1080&quality=80",
       "selection": "automatic"
     },
     {
@@ -54,19 +67,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/chanceler-iraniano-diz-que-ira-quer-diplomacia-para-encerrar-a-guerra/",
       "published_on": "20/11/2026 21:06 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM2A1GN-BASEIMAGE.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Embaixada brasileira na Ucrânia é atingida por destroços após ataques a Kiev, diz Itamaraty",
-      "summary": "Governo brasileiro divulga nota condenando ataques a Kiev, na Ucrânia O Ministério das Relações Exteriores (Itamaraty) informou nesta sexta-feira (20) que a embaixada brasileira na Ucrânia foi atingida por destroços após ataques da Rússia a Kiev. Ainda conforme o Itamaraty, não houve feridos nem danos materiais à representação brasileira na capital da Ucrâni",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/politica/noticia/2026/11/20/embaixada-brasileira-na-ucrania-e-atingida-por-destrocos-apos-ataques-a-kiev-diz-itamaraty.ghtml",
-      "published_on": "20/11/2026 20:37 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/J__BStXj1FjjOEVi_LRnNYK6JWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/R/1/YP9YS2QvaMySTWmx9H5A/51092657087-a2653f26cc-o.jpg",
       "selection": "automatic"
     },
     {
