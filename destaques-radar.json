@@ -1,8 +1,8 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T13:37:48.532074Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T13:43:23.916082Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataque com mísseis balísticos à cidade natal de Zelenskyy, no centro da Ucrânia, mata duas pessoas e fere dezenas",
@@ -44,16 +44,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Milhares protestam contra preços, educação e gastos militares na França e na Europa",
-      "summary": "A França prepara-se para o sexto sábado consecutivo de protestos, com a expectativa de que os manifestantes se manifestem contra o aumento do custo de vida e a forma como o governo está a lidar com as semanas de agitação social antes das eleições presidenciais do próximo ano. A jornalista da France 24, Antonia Kerrigan, conta-nos as últimas novidades de Pari",
+      "title": "A busca dos EUA por navios de guerra da \"classe Trump\" aumentou o custo da nova frota em bilhões, alerta relatório",
+      "summary": "O comandante da Marinha admite que a guerra no Irã está sobrecarregando a capacidade da frota, enquanto o CBO considera o custo estimado dos novos navios \"irrealisticamente baixo\". O compromisso da Marinha dos EUA com os novos navios de guerra da classe Trump aumentou o custo de sua nova frota em bilhões de dólares, segundo um relatório ao Congresso dos EUA,",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "FR",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe",
-      "published_on": "21/11/2026 08:48 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/c489cff2-e5a7-11f1-bb16-ebb478925cf0/w:1024/p:16x9/EN-20261121-131728-132120-CS.jpg",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
+      "published_on": "21/11/2026 09:00 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/232b3595bc9ba8b26b7f2eb469c9abc7c333d154/716_0_4901_3923/master/4901.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a3ec49020bf3ce89997f20fdc3c6d007",
       "selection": "automatic"
     },
     {
