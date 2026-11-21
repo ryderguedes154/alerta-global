@@ -2212,7 +2212,7 @@
   {
     "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2338,7 +2338,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2380,7 +2380,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3362,7 +3362,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6401,7 +6401,7 @@
   {
     "title": "Should AI be judging our credit worthiness?",
     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6679,22 +6679,6 @@
     "image": "https://images.euronews.com/articles/stories/10/00/09/21/696x392_cmsv2_c317e245-d823-58bc-983a-cc8ea0a1f085-10000921.jpg",
     "title_pt": "EUA vendem primeiros arrendamentos de mineração em alto mar na Samoa Americana, dias depois que o tribunal decidiu contra o processo",
     "summary_pt": "A administração Trump prosseguiu com o leilão, apesar da conclusão de um juiz federal de que os reguladores violaram a lei de proteção da vida selvagem e os grupos conservacionistas prometeram anular os arrendamentos."
-  },
-  {
-    "title": "Terremoto de magnitude 4.9 — 54 km W of Madang, Papua New Guinea",
-    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
-    "category": "Clima e desastres",
-    "region": "54 km W of Madang, Papua New Guinea",
-    "country": "GLOBAL",
-    "source": "USGS",
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc6c",
-    "date": "2026-11-20T05:17:45.106000Z",
-    "lat": -5.219,
-    "lon": 145.2974,
-    "depth_km": 97.583,
-    "forcedSev": "low",
-    "title_pt": "Terremoto de magnitude 4.9 — 54 km W of Madang, Papua New Guinea",
-    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
     "title": "Love and Carjackings in a Video Game",
@@ -7017,5 +7001,17 @@
     "image": "https://images.euronews.com/articles/stories/10/00/08/65/696x392_cmsv2_228a6f12-5732-5687-a33e-c01bc98e6e7f-10000865.jpg",
     "title_pt": "Ucrânia: ataques russos danificam embaixadas austríacas e holandesas em Kyiv",
     "summary_pt": "Os ataques russos danificaram as embaixadas austríaca e holandesa em Kyiv na quinta-feira. As janelas foram quebradas e os veículos danificados, mas o pessoal diplomático escapou ileso."
+  },
+  {
+    "title": "The Latest: Kushner says he believes Russia is ‘comfortable’ with NATO-like security for Ukraine",
+    "summary": "U.S. envoy Jared Kushner said Thursday he believes Russia is “comfortable” with NATO-like security guarantees for postwar Ukraine, while Kyiv’s European allies expressed concerns about President Donald Trump’s meeting in China with the Kremlin leader. Kushner’s remarks came after Trump wrapped rare …",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/trump-putin-xi-apec-talks-shenzhen-3d0f8ed366d6084e1cfe12a4d8020c55?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+    "date": "2026-11-19T22:17:17Z",
+    "lang": "en",
+    "image": "https://ic-cdn.flipboard.com/apnews.com/5216b8fd3f736bf5dc783c5a77cac24605674f8b/_xlarge.png"
   }
 ]
