@@ -1,7 +1,7 @@
 [
   {
     "title": "'Accept cookies'? Russia collects data from swaths of unknowing Swedes",
-    "summary": "A Russian tech firm backed by an oligarch close to President Vladimir Putin has secretly been collecting data from hundreds of thousands – possibly millions – of Swedes, a newspaper investigation found. The revelation has rattled the Nordic nation whose proximity to Russia and unusually open public records system make it particularly vulnerable to Moscow’s h",
+    "summary": "A Russian tech firm backed by an oligarch close to President Vladimir Putin has secretly been collecting data from hundreds of thousands – possibly millions – of Swedes, a newspaper investigation found. The revelation has rattled the Nordic nation, whose proximity to Russia and unusually open public records system make it particularly vulnerable to Moscow’s ",
     "category": "Geral",
     "region": "Global",
     "country": "FR",
@@ -10,8 +10,38 @@
     "date": "2026-11-21T10:55:32Z",
     "lang": "en",
     "image": "https://s.france24.com/media/display/75dade0c-e500-11f1-86bd-1bac47ab2f5d/w:1024/p:16x9/AP21173406344763.jpg",
-    "summary_pt": "Uma empresa tecnológica russa apoiada por um oligarca próximo do presidente Vladimir Putin tem recolhido secretamente dados de centenas de milhares – possivelmente milhões – de suecos, descobriu uma investigação de um jornal. A revelação abalou a nação nórdica, cuja proximidade com a Rússia e o sistema de registos públicos invulgarmente aberto a tornam particularmente vulnerável à ameaça de Moscovo.",
-    "title_pt": "'Aceitar cookies'? Rússia coleta dados de grupos de suecos desconhecidos"
+    "title_pt": "'Aceitar cookies'? Rússia coleta dados de grupos de suecos desconhecidos",
+    "summary_pt": "Uma empresa tecnológica russa apoiada por um oligarca próximo do presidente Vladimir Putin tem recolhido secretamente dados de centenas de milhares – possivelmente milhões – de suecos, descobriu uma investigação de um jornal. A revelação abalou a nação nórdica, cuja proximidade com a Rússia e o sistema de registos públicos invulgarmente aberto a tornam particularmente vulnerável à ameaça de Moscovo."
+  },
+  {
+    "title": "COP31: UN Climate summit runs into overtime as deal remains elusive",
+    "summary": "After nearly two weeks of negotiations, countries remain divided on how to fight global warming. A new draft declaration doesn't mention the phaseout of fossil fuels, the main drivers of climate change. DW has more.",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "DE",
+    "source": "Deutsche Welle",
+    "url": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-overtime-as-deal-remains-elusive/live-79999516?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-11-21T10:52:00Z",
+    "lang": "en",
+    "image": "https://static.dw.com/image/80006736_6.jpg",
+    "title_pt": "COP31: Cúpula do Clima da ONU chega à prorrogação, pois o acordo permanece indefinido",
+    "summary_pt": "Após quase duas semanas de negociações, os países continuam divididos sobre como combater o aquecimento global. Um novo projecto de declaração não menciona a eliminação progressiva dos combustíveis fósseis, os principais motores das alterações climáticas. DW tem mais."
+  },
+  {
+    "title": "Terremoto de magnitude 5.9 — 238 km SW of Yanglong, China",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "238 km SW of Yanglong, China",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucly",
+    "date": "2026-11-21T10:45:33.230000Z",
+    "lat": 37.1958,
+    "lon": 96.6398,
+    "depth_km": 10.0,
+    "forcedSev": "med",
+    "title_pt": "Terremoto de magnitude 5.9 — 238 km SW of Yanglong, China",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
     "title": "Zelenski, después de que Trump se refiriera a Putin como un “amigo”: “Para nosotros es un asesino”",
@@ -40,6 +70,20 @@
     "image": "https://s2-g1.glbimg.com/Ve0J7CTw8XfgUh1xepN6Dp9CnV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/h/QwFSRwTX2ZTck8Tj5YtA/captura-de-tela-2026-09-24-074609-1-.jpg",
     "title_pt": "FBI investiga invasão a banco de dados nacional de informações criminais, diz TV",
     "summary_pt": "Vista geral do edifício do Federal Bureau of Investigation (FBI), em Washington, D.C., nos Estados Unidos, em 28 de novembro de 2025. REUTERS/Nathan Howard. O FBI investiga uma suspeita de invasão a um banco de dados nacional utilizado por agências federais, estaduais e locais de segurança pública para compartilhar informações sobre justiça criminal, informo"
+  },
+  {
+    "title": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
+    "summary": "Palestinians fear forced displacement as Israeli authorities target legally licensed homes in West Bank.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
+    "date": "2026-11-21T10:38:13Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Israel-issued-orders-to-demolish-two-buildings-in-Hebron-in-area-A.-Photo-by-Sari-Jaradat-1795206510.jpeg?resize=1920%2C1440",
+    "title_pt": "Avisos de demolição de edifícios em Hebron provocam medo entre os palestinos",
+    "summary_pt": "Os palestinos temem o deslocamento forçado enquanto as autoridades israelenses atacam casas legalmente licenciadas na Cisjordânia."
   },
   {
     "title": "Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken",
@@ -630,20 +674,6 @@
     "image": "https://static.dw.com/image/60180776_6.jpg",
     "title_pt": "Conversas sobre \"robôs assassinos\" na ONU terminam sem proibição juridicamente vinculativa",
     "summary_pt": "Os países concordaram em estender as discussões sobre os controles de sistemas de armas autônomas letais por dois anos."
-  },
-  {
-    "title": "Iraq fire at Basra power station kills at least 4, injures 30",
-    "summary": "Iraq fire at Basra power station kills at least 4, injures 30 Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS09WSFZPbGR3SkNhZzFFMUFEU0o5QmVkRFVEdWJUOXNaMDBDLWV3a0Fhb1E4WjNXQlU4WUtrMDc3S29NQkMzazA0MlV0Y0hPV2tjWmhPQmZpMG1nLWFvR055Yl94QTZfd1VmZjZTYUJxbzZhNjU0MU0wNUFva1BveW9uSm5sOVVsX2VPZXhtRjZGc1ZHSG54eDFjRXgxWE04T2wybGZfc0Juc1ZpRkE?oc=5",
-    "date": "2026-11-21T09:13:06Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Incêndio iraquiano na central eléctrica de Basra mata pelo menos 4 e fere 30",
-    "summary_pt": "Incêndio iraquiano em usina de energia de Basra mata pelo menos 4 e fere 30 Reuters"
   },
   {
     "title": "As Trump basks in summit pomp, China's Xi strengthens his hand",
@@ -1416,6 +1446,20 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/IMG_1394.JPG-e1795090076986.jpeg?w=200",
     "title_pt": "Verstappen na pole e Antonelli é o mais rápido; confira grid de Las Vegas",
     "summary_pt": "Brasileiros ficam fora do top 10 e largam fora da zona de pontuação na etapa dos EUA da Fórmula 1. Gabriel Bortoleto é 13º e Rafael Câmara ficou em 15º; corrida será neste domingo (22)."
+  },
+  {
+    "title": "Iraq fire at Basra power station kills at least 4, injures 30",
+    "summary": "Iraq fire at Basra power station kills at least 4, injures 30 Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS09WSFZPbGR3SkNhZzFFMUFEU0o5QmVkRFVEdWJUOXNaMDBDLWV3a0Fhb1E4WjNXQlU4WUtrMDc3S29NQkMzazA0MlV0Y0hPV2tjWmhPQmZpMG1nLWFvR055Yl94QTZfd1VmZjZTYUJxbzZhNjU0MU0wNUFva1BveW9uSm5sOVVsX2VPZXhtRjZGc1ZHSG54eDFjRXgxWE04T2wybGZfc0Juc1ZpRkE?oc=5",
+    "date": "2026-11-21T06:22:00Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Incêndio iraquiano na central eléctrica de Basra mata pelo menos 4 e fere 30",
+    "summary_pt": "Incêndio iraquiano em usina de energia de Basra mata pelo menos 4 e fere 30 Reuters"
   },
   {
     "title": "Netanyahu is playing with the fire that killed Rabin",
@@ -2680,20 +2724,6 @@
     "summary_pt": "Boer passou por três cirurgias no braço esquerdo após ser resgatado pela Marinha no Oceano Atlântico no dia 8 de novembro"
   },
   {
-    "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
-    "summary": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
-    "date": "2026-11-21T02:49:16Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-EUROPE-2011-1795229308.png?resize=1920%2C1080&quality=80",
-    "title_pt": "Protestos da Geração Z tomam conta da Europa devido às guerras, ao aumento dos custos e ao clima",
-    "summary_pt": "Milhares de manifestantes da Geração Z se reuniram em 25 países europeus para protestar contra o custo de vida, os gastos militares e as questões climáticas."
-  },
-  {
     "title": "UK anti-migrant activist jailed for slashing Channel dinghy",
     "summary": "Daniel Thomas, known as \"Danny Tommo,\" slashed a dinghy with a knife while a French rescue worker was on board. The incident was livestreamed to a large social media audience amid growing tensions over migrant crossings.",
     "category": "Geral",
@@ -3710,7 +3740,7 @@
   {
     "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3766,7 +3796,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3780,7 +3810,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4328,7 +4358,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4422,20 +4452,6 @@
     "image": "https://s2-g1.glbimg.com/hYpsBEoB_mnrTJT1wXkJtEsKQbk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/G/lvY87ISn2eBadSuXOVBA/2026-10-17t012836z-455791147-rc2r7gacnkd8-rtrmadp-3-usa-trump-sanctions.jpg",
     "title_pt": "Trump elogia conversas com Putin e diz que há chance 'muito boa' de acordo sobre guerra na Ucrânia",
     "summary_pt": "Donald Trump e Vladimir Putin. Kevin Lamarque/Reuters O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teve conversas \"muito boas\" com o líder russo, Vladimir Putin, sobre a guerra na Ucrânia e que vê boas chances de um acordo para encerrar o conflito. \"Estamos tendo conversas muito boas. Acho que há uma chance muito boa de c"
-  },
-  {
-    "title": "COP31: UN Climate summit enters final phase with no deal in sight",
-    "summary": "After nearly two weeks of negotiations, countries remain divided on how to fight global warming. A new draft declaration doesn't mention the phaseout of fossil fuels, the main drivers of climate change. DW has more.",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "DE",
-    "source": "Deutsche Welle",
-    "url": "https://www.dw.com/en/cop31-un-climate-summit-enters-final-phase-with-no-deal-in-sight/live-79999516?maca=en-rss-en-all-1573-rdf",
-    "date": "2026-11-20T20:31:00Z",
-    "lang": "en",
-    "image": "https://static.dw.com/image/79999578_6.jpg",
-    "title_pt": "COP31: Cúpula da ONU sobre o clima entra na fase final sem acordo à vista",
-    "summary_pt": "Depois de quase duas semanas de negociações, os países permanecem divididos sobre como combater o aquecimento global. Um novo rascunho de declaração não menciona a eliminação gradual dos combustíveis fósseis, os principais responsáveis pelas mudanças climáticas. A DW tem mais informações."
   },
   {
     "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
@@ -6699,7 +6715,7 @@
   {
     "title": "Should AI be judging our credit worthiness?",
     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -7003,19 +7019,5 @@
     "image": "https://i.guim.co.uk/img/media/7298fc5c87ed7c445360fa35f598662e4d8a510d/624_0_2779_2223/master/2779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c1b6fe3cec08e941e8066b96ef89b92",
     "title_pt": "A disputa para ser o próximo secretário-geral da ONU expõe as divisões entre as potências mundiais",
     "summary_pt": "O debate sobre a supremacia dos cinco membros permanentes pode ser retomado se as grandes potências bloquearem a candidata favorita da Costa Rica. A disputa para se tornar o próximo secretário-geral da ONU pode chegar a um momento decisivo na sexta-feira, quando uma votação do Conselho de Segurança da ONU provavelmente revelará se a candidata favorita da Costa Rica ao cargo será bloqueada pelas grandes potências. Se isso acontecer, o revés vai"
-  },
-  {
-    "title": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
-    "summary": "Al-Qadisiyah University’s move a sign of the country’s slide into a Taliban-like gender segregation, say activists The removal of male professors teaching female students at a university in southern Iraq has sparked protests and been criticised by activists as a Taliban-like gender segregation policy. As many as 400 women are estimated to have joined protest",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
-    "date": "2026-11-20T05:00:23Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/36dbd5a94532a5af971915dcd8ce0a00c8f9f570/0_334_1309_1047/master/1309.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d38e1b697cd29697648c9129f5c1e5fb",
-    "title_pt": "A remoção de professores do sexo masculino que ensinam mulheres pela universidade do Iraque desencadeia semanas de protestos",
-    "summary_pt": "A decisão da Universidade Al-Qadisiyah é um sinal do deslizamento do país para uma segregação de género semelhante à dos Taliban, dizem os activistas Estima-se que cerca de 400 mulheres tenham participado do protesto"
   }
 ]
