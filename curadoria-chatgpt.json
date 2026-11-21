@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-21T18:14:23.260Z",
+  "updated_at": "2026-11-21T20:05:48.101Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Navio russo ligado à logística militar é atingido por drones no Báltico",
+      "summary": "O cargueiro russo Sparta II pegou fogo após ser atingido por drones em águas internacionais do Golfo da Finlândia e derivou para águas finlandesas. A tripulação de 16 pessoas foi retirada. Finlândia restringiu temporariamente tráfego marítimo e aéreo; aeronaves suecas apoiaram a segurança. Autoridades finlandesas consideram provável autoria ucraniana, ainda sem confirmação independente.",
+      "impact_br": "Sem impacto direto confirmado no Brasil. Uma eventual ampliação das tensões entre Rússia e países da OTAN pode afetar comércio, transporte marítimo e mercados energéticos internacionais.",
+      "category": "guerras e segurança internacional",
+      "region": "Europa / Mar Báltico",
+      "country": "FI",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-fire-its-waters-2026-11-21/",
+      "published_on": "2026-11-21",
+      "published_at": "2026-11-21T07:50:00-04:00",
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-21T20:05:48.101Z"
+    },
     {
       "title": "FBI investiga possível invasão de banco nacional de dados criminais",
       "summary": "A Associated Press e a Reuters informam que o FBI investiga uma possível invasão do NCIC, sistema que reúne registros policiais dos EUA. A existência da investigação foi relatada por fontes familiarizadas; a invasão, seu alcance e eventual vazamento ainda não foram confirmados oficialmente.",
