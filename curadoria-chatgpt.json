@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-21T20:05:48.101Z",
+  "updated_at": "2026-11-21T20:57:51.194Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Bahrein relata ataque iraniano contra instalação industrial civil",
+      "summary": "O Ministério do Interior do Bahrein informou em 21 de novembro que um ataque atribuído ao Irã atingiu uma instalação industrial civil e provocou incêndio. Houve danos materiais, sem feridos relatados. A localização e o tipo da instalação não foram divulgados; a autoria ainda não foi verificada independentemente.",
+      "impact_br": "Não há impacto direto confirmado no Brasil. Uma escalada regional pode pressionar o preço do petróleo, fretes e combustíveis.",
+      "category": "conflitos",
+      "region": "Oriente Médio",
+      "country": "BH",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/bahrain-warns-residents-potential-threat-iran-conflict-persists-2026-11-21/",
+      "published_on": "2026-11-21",
+      "published_at": "2026-11-21T15:15:00-04:00",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-21T20:57:51.194Z"
+    },
     {
       "title": "Navio russo ligado à logística militar é atingido por drones no Báltico",
       "summary": "O cargueiro russo Sparta II pegou fogo após ser atingido por drones em águas internacionais do Golfo da Finlândia e derivou para águas finlandesas. A tripulação de 16 pessoas foi retirada. Finlândia restringiu temporariamente tráfego marítimo e aéreo; aeronaves suecas apoiaram a segurança. Autoridades finlandesas consideram provável autoria ucraniana, ainda sem confirmação independente.",
