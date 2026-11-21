@@ -1,8 +1,8 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T22:17:32.863858Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T22:23:07.548427Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataque com mísseis balísticos à cidade natal de Zelenskyy, no centro da Ucrânia, mata duas pessoas e fere dezenas",
@@ -57,6 +57,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Trump minimiza suposto ataque hacker contra banco de dados do FBI",
+      "summary": "Presidente dos EUA declarou que o ataque ao sistema de informações criminais pode revelar fatos úteis para o país",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Segurança cibernética",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/trump-minimiza-suposto-ataque-hacker-contra-banco-de-dados-do-fbi/",
+      "published_on": "21/11/2026 13:00 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM2A1GN-BASEIMAGE.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
       "title": "Terremoto de magnitude 6.8 — 105 km NE of Lospalos, Timor Leste",
       "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
       "published_on": "21/11/2026 07:01 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/11/20/0/0/5712/3808/1440/960/60/0/138f446_ftp-1-zcn4jvzlfhs4-2026-11-20t140649z-844608601-rc2oroa6b6of-rtrmadp-3-eu-britain-summit-burnham.JPG",
-      "selection": "automatic"
-    },
-    {
-      "title": "Como a China obtém acesso aos chips de IA americanos",
-      "summary": "Jensen Huang renunciou ao cargo de CEO da Nvidia após um caso extraconjugal com uma suposta espiã chinesa. Após o escândalo da Nvidia, o acesso da China à tecnologia fabricada nos Estados Unidos e aos chips avançados de IA voltou a ser alvo de escrutínio. Ramy Inocencio viajou para o Sudeste Asiático para saber mais sobre o uso de chips americanos pela China",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/video/how-china-gets-access-to-american-ai-chips/",
-      "published_on": "21/11/2026 11:35 (Boa Vista)",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/21/1b7cbb74-a077-41d2-b62c-d21c9cd1b23e/thumbnail/1200x630/d250ec76cdfef9fd0ab91b9e396d1449/cbsn-fusion-how-china-gets-access-to-american-ai-chips-thumbnail.jpg",
       "selection": "automatic"
     }
   ]
