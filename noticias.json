@@ -213,13 +213,13 @@
   },
   {
     "title": "En Italie, de nouvelles manifestations massives, signe d’une grogne sociale qui ne faiblit pas",
-    "summary": "A l’appel de la CGIL, premier syndicat du pays, des cortèges ont défilé, vendredi, dans une centaine de villes pour dénoncer le coût de la vie, la précarité étudiante et les dépenses militaires, en particulier pour aider l’Ukraine.",
+    "summary": "A l’appel de la CGIL, premier syndicat du pays, des cortèges ont défilé, vendredi, dans une centaine de villes pour dénoncer le coût de la vie, la précarité étudiante, les dépenses militaires, et l’aide à l’Ukraine.",
     "category": "Geral",
     "region": "Global",
     "country": "FR",
     "source": "Le Monde",
     "url": "https://www.lemonde.fr/international/article/2026/11/21/en-italie-de-nouvelles-manifestations-massives-signe-d-une-grogne-sociale-qui-ne-faiblit-pas_6813926_3210.html",
-    "date": "2026-11-21T05:05:41Z",
+    "date": "2026-11-21T05:05:39Z",
     "lang": "fr",
     "image": "https://img.lemde.fr/2026/11/20/0/0/8256/5504/1440/960/60/0/9325ae3_ftp-1-v3dshf0yqi4y-afp-d84l4x4.jpg",
     "title_pt": "Na Itália, novos protestos em massa, sinal de um descontentamento social que não diminui",
@@ -1982,6 +1982,20 @@
     "summary_pt": "Informação foi divulgada pelo secretário do Tesouro dos EUA, Scott Bessent, durante entrevista à CNBC, após retornar da reunião trilateral entre os presidentes dos Estados Unidos, Rússia e China"
   },
   {
+    "title": "US judge rejects Trump administration's homelessness program revamp",
+    "summary": "US judge rejects Trump administration's homelessness program revamp Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOG5VS2kxXzc0eW1zdWNGOXFUY3VrZGJGOWtuXzRZbW54bUVnVnh0UXFUWGpCbmduQW0yQkVIUzZYOERYNXU0d1BjU1R6Rm5SQ0VqUEYwR1BYWVAxMFI0ZEUwTExSbnM2UExXamlVdm4wUXpBdDJBdmg5bllYWkJsUTN4QVNsUm9hbzBhQmV0a3ZJWWpxVkt3cDh2QzFGUXozZzM4SFYzVkZUYnZxbUMxZkxIMlE5eGx5YXgw?oc=5",
+    "date": "2026-11-20T23:54:16Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "Juiz dos EUA rejeita a reformulação do programa para pessoas em situação de rua do governo Trump Reuters",
+    "title_pt": "Juiz dos EUA rejeita a reformulação do programa para pessoas em situação de rua do governo Trump"
+  },
+  {
     "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
     "summary": "Thom Tillis move comes after Michael LoSapio, nominated for Cisa role, told hearing ‘I don’t believe it was an attack’ Senator Thom Tillis, the outgoing North Carolina Republican who is due to be replaced by a Democrat, has reportedly blocked a confirmation vote on Donald Trump’s nominee to lead a key US cybersecurity agency, Michael LoSapio, after he denied",
     "category": "Geral",
@@ -2530,7 +2544,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4869,20 +4883,6 @@
     "summary_pt": "Trabalhadores e estudantes italianos protestam contra salários e serviços públicos Reuters"
   },
   {
-    "title": "Poland condemns Russian 'provocation' after three airspace violations",
-    "summary": "Poland condemns Russian 'provocation' after three airspace violations Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejRoNTB3Y2hjdXRxMmNON0lac2xkWldNSmQ5RXFTM0NrMDFJaEE3QWxsOHJoYTgwLTFUN1A5MGRkU0h6ejNsLXdraFB0MjhNTkVROEJjNG5WWm00azhpbUNDN2FRUW1uRXplazJmU08za2gtYlc0bEc5bk9XMEpfbndzU3VVTVB3LUNyR3llYW1rdkI5UmtzeFNsZmhNNllGY3g1WnF5ZDZpLTRGZ0Q5RUstaGJuSnFESFJCZ2d0RG41RDcyZW9QZmV3?oc=5",
-    "date": "2026-11-20T16:07:28Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Polônia condena \"provocação\" russa após três violações do espaço aéreo",
-    "summary_pt": "A Polônia condena a \"provocação\" russa após três violações do espaço aéreo Reuters"
-  },
-  {
     "title": "Trabalhadores e estudantes protestam por salários e serviços na Itália",
     "summary": "Milhares de trabalhadores e estudantes saíram às ruas por toda a Itália nesta sexta-feira (20), quando o maior sindicato do país, a Confederação Geral Italiana do Trabalho (CGIL), organizou greve geral, para exigir salários mais altos e maior investimento em serviços públicos. As manifestações coincidiram com uma onda mais ampla de mobilização juvenil em tod",
     "category": "Geral",
@@ -6495,7 +6495,7 @@
   {
     "title": "Should AI be judging our credit worthiness?",
     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
