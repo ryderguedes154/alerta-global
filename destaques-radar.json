@@ -1,8 +1,8 @@
 {
   "edition": "20/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T02:41:17.272368Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T02:46:21.076226Z",
+  "status": "checado",
   "items": [
     {
       "title": "Míssil russo atinge a Polônia enquanto aliados da Ucrânia realizam exercício militar, diz Tusk",
@@ -53,7 +53,7 @@
       "source": "CNN Brasil",
       "url": "https://www.cnnbrasil.com.br/internacional/chanceler-iraniano-diz-que-ira-quer-diplomacia-para-encerrar-a-guerra/",
       "published_on": "20/11/2026 21:06 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/07/GettyImages-849758622.jpg?w=200",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM2A1GN-BASEIMAGE.jpg?w=200",
       "selection": "automatic"
     },
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump pede que Nvidia reintegre o ‘brilhante’ Jensen Huang",
-      "summary": "O presidente dos EUA pede ao gigante da tecnologia que dê ao ex-CEO “uma segunda chance” e exorta-o a “fazer um grande pedido de desculpas”.",
+      "title": "Banco de dados do FBI é alvo de ataque cibernético",
+      "summary": "Invasão do Centro Nacional de Informações Criminais por supostos hackers é a segunda violação desse tipo nos últimos meses",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
+      "category": "Segurança cibernética",
       "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
-      "published_on": "20/11/2026 21:49 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b00e93a45-1795221818.jpg?resize=1920%2C1440",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/banco-de-dados-do-fbi-e-alvo-de-ataque-cibernetico/",
+      "published_on": "20/11/2026 22:21 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM4E0VH-BASEIMAGE.jpg?w=200",
       "selection": "automatic"
     }
   ]
