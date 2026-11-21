@@ -1,5 +1,21 @@
 [
   {
+    "title": "Terremoto de magnitude 4.9 — Reykjanes Ridge",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "Reykjanes Ridge",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucgj",
+    "date": "2026-11-21T02:24:37.289000Z",
+    "lat": 58.5457,
+    "lon": -31.857,
+    "depth_km": 10.0,
+    "forcedSev": "low",
+    "title_pt": "Terremoto de magnitude 4.9 — Reykjanes Ridge",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
+  },
+  {
     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
     "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
     "category": "Conflitos",
@@ -110,22 +126,6 @@
     "image": "https://s2-g1.glbimg.com/Lper7NP8qP4w-7nlactmObtIONQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/u/UvoJymQAmwizy9hgV4Gg/2025-01-08t065241z-650665384-rc275ca502hb-rtrmadp-3-california-wildfires-1-.jpg",
     "title_pt": "Homem é declarado culpado por incêndio letal em Los Angeles em 2025 e pode pegar 40 anos de prisão",
     "summary_pt": "Incêndio florestal atinge Pacific Palisades em Los Angeles em 7 de janeiro de 2025. REUTERS/Ringo Chiu A Justiça dos Estados Unidos considerou culpado nesta sexta-feira (20) o homem suspeito de provocar o incêndio devastador que atingiu a luxuosa região costeira de Malibu, na Califórnia, no início de 2025. Jonathan Rinderknecht, ex-motorista da Uber, será se"
-  },
-  {
-    "title": "Terremoto de magnitude 4.9 — Reykjanes Ridge",
-    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
-    "category": "Clima e desastres",
-    "region": "Reykjanes Ridge",
-    "country": "GLOBAL",
-    "source": "USGS",
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucga",
-    "date": "2026-11-21T01:26:19.109000Z",
-    "lat": 58.3017,
-    "lon": -31.7606,
-    "depth_km": 10.0,
-    "forcedSev": "low",
-    "title_pt": "Terremoto de magnitude 4.9 — Reykjanes Ridge",
-    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
     "title": "Terremoto de magnitude 4.7 — 38 km NE of Calama, Chile",
@@ -248,7 +248,7 @@
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
-    "url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-21T01:00:00Z",
     "lang": "en",
     "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg",
@@ -1058,7 +1058,7 @@
   {
     "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1226,7 +1226,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2250,7 +2250,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3386,7 +3386,7 @@
   {
     "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
     "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
