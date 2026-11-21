@@ -420,8 +420,8 @@
     "date": "2026-11-21T00:43:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Banco IndusInd da Índia encerra emprego da ex-CEO Kathpalia e busca recuperar salário Reuters",
-    "title_pt": "O IndusInd Bank da Índia encerra o emprego do ex-CEO Kathpalia e busca recuperar o salário"
+    "title_pt": "O IndusInd Bank da Índia encerra o emprego do ex-CEO Kathpalia e busca recuperar o salário",
+    "summary_pt": "Banco IndusInd da Índia encerra emprego da ex-CEO Kathpalia e busca recuperar salário Reuters"
   },
   {
     "title": "Bayer pagará até US$ 7,25 bilhões em acordo judicial com pacientes que alegam ter desenvolvido câncer após uso de herbicida",
@@ -1254,7 +1254,7 @@
   {
     "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1422,7 +1422,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1796,8 +1796,8 @@
     "date": "2026-11-20T21:57:31Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Tribunal holandês proíbe SUV chinês na Europa por semelhança com Land Rover Defender Reuters",
-    "title_pt": "Tribunal holandês proíbe SUV chinês na Europa por semelhança com Land Rover Defender"
+    "title_pt": "Tribunal holandês proíbe SUV chinês na Europa por semelhança com Land Rover Defender",
+    "summary_pt": "Tribunal holandês proíbe SUV chinês na Europa por semelhança com Land Rover Defender Reuters"
   },
   {
     "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
@@ -2418,7 +2418,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3484,7 +3484,7 @@
   {
     "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
     "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4457,8 +4457,8 @@
     "date": "2026-11-20T15:29:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Julgamento de genocídio em Mianmar pode reforçar caso de Gaza contra Israel Reuters",
-    "title_pt": "Julgamento de genocídio em Mianmar pode reforçar caso de Gaza contra Israel"
+    "title_pt": "Julgamento de genocídio em Mianmar pode reforçar caso de Gaza contra Israel",
+    "summary_pt": "Julgamento de genocídio em Mianmar pode reforçar caso de Gaza contra Israel Reuters"
   },
   {
     "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
@@ -4629,20 +4629,6 @@
     "summary_pt": "Os governantes talibãs no Afeganistão acusaram o Paquistão de ajudar e abrigar grupos de resistência armada. As alegações surgem em meio ao aumento das tensões e provavelmente aprofundarão o conflito entre os dois vizinhos."
   },
   {
-    "title": "Trump touts meeting with Xi and Putin but offers little results",
-    "summary": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "NPR",
-    "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-    "date": "2026-11-20T15:00:00Z",
-    "lang": "en",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5742x3827+0+0/resize/5742x3827!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fd9%2F6666a29741a3a9cd3bf00907418d%2Fgettyimages-2306087994.jpg",
-    "title_pt": "Trump divulga encontros com Xi e Putin, mas oferece poucos resultados",
-    "summary_pt": "Trump não respondeu formalmente a perguntas enquanto estava na China no final de sua viagem, embora isso seja normalmente esperado em viagens presidenciais ao exterior."
-  },
-  {
     "title": "Elena Anaya: “Pensar en la muerte puede servir para conectar con la vida, con el aquí y ahora”",
     "summary": "En el séptimo episodio de esta temporada de ‘Tercer Acto’, la actriz habla de la ilusión por aprender cada día, sus comienzos, cómo gestionó su carrera tras la llamada de Hollywood y sus prioridades vitales",
     "category": "Geral",
@@ -4655,6 +4641,20 @@
     "image": "https://imagenes.elpais.com/resizer/v2/6AWS7JHZCRDG7MCPVAB2R6OHXY.jpg?auth=2c2af0548dc50ac9369fa20072ed7c8e350524205ea51a2fbc496f48b8ebe27a",
     "title_pt": "Elena Anaya: “Pensar na morte pode ajudá-lo a se conectar com a vida, com o aqui e agora”",
     "summary_pt": "No sétimo episódio desta temporada de ‘Terceiro Ato’, a atriz fala sobre seu entusiasmo em aprender todos os dias, seus começos, como administrou sua carreira após a ligação de Hollywood e suas prioridades de vida"
+  },
+  {
+    "title": "Trump touts meeting with Xi and Putin but offers little results",
+    "summary": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "NPR",
+    "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+    "date": "2026-11-20T15:00:00Z",
+    "lang": "en",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5742x3827+0+0/resize/5742x3827!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fd9%2F6666a29741a3a9cd3bf00907418d%2Fgettyimages-2306087994.jpg",
+    "title_pt": "Trump divulga encontros com Xi e Putin, mas oferece poucos resultados",
+    "summary_pt": "Trump não respondeu formalmente a perguntas enquanto estava na China no final de sua viagem, embora isso seja normalmente esperado em viagens presidenciais ao exterior."
   },
   {
     "title": "Un poquito de Alcaraz, excesivo para el abatido Cobolli: prueba superada",
@@ -5181,7 +5181,7 @@
   {
     "title": "Himalaya-sized ancient 'supermountains' found beneath Antarctica's ice sheet",
     "summary": "The discovery offers a window into the continent's geological past and of how life on Earth has evolved.",
-    "category": "Clima e desastres",
+    "category": "Geral",
     "region": "Global",
     "country": "EU",
     "source": "Euronews",
@@ -5831,7 +5831,7 @@
   {
     "title": "Fiona the hippo dies after swallowing a visitor's hat",
     "summary": "Fiona, the Cincinnati Zoo's much-loved hippopotamus, has died after swallowing a knitted hat that became stuck in her digestive system. Vets made several attempts to remove the object but were unable to save the nine-year-old animal.",
-    "category": "Clima e desastres",
+    "category": "Geral",
     "region": "Global",
     "country": "EU",
     "source": "Euronews",
