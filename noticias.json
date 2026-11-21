@@ -1,5 +1,19 @@
 [
   {
+    "title": "FBI reportedly investigating apparent hack of its criminal database",
+    "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-21T16:35:15Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+    "title_pt": "FBI supostamente investigando aparente hack de seu banco de dados criminal",
+    "summary_pt": "O banco de dados do National Crime Information Center é usado pelas autoridades federais e locais para compartilhar informações."
+  },
+  {
     "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
     "summary": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
     "category": "Geral",
@@ -12,20 +26,6 @@
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-wtk-cjwm/21int-cartel-arrest-wtk-cjwm-mediumSquareAt3X.jpg",
     "title_pt": "Quem é o chefão do tráfico mexicano conhecido como El Chapo Isidro?",
     "summary_pt": "O chefão, Fausto Isidro Meza Flores, foi capturado em uma operação violenta no México. Ele era um dos 10 fugitivos mais procurados pelo FBI."
-  },
-  {
-    "title": "FBI reportedly investigating apparent hack of its criminal database",
-    "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-21T16:27:14Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
-    "title_pt": "FBI supostamente investigando aparente hack de seu banco de dados criminal",
-    "summary_pt": "O banco de dados do National Crime Information Center é usado pelas autoridades federais e locais para compartilhar informações."
   },
   {
     "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
@@ -108,8 +108,8 @@
     "date": "2026-11-21T16:11:25Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/AAI52LRT4VFZ7KZQMDL33WJAGU.jpg?auth=081df027f44c49b94179e07802fa1adab4b6ea30e3d368528a5eeba7e22db8bf",
-    "summary_pt": "Apenas três empresas controlam 70% do mercado de operadores de nuvem na Europa. Especialistas alertam para a extrema dependência de serviços interconectados entre si e sem firewalls suficientes",
-    "title_pt": "O que acontece se o Google e a Microsoft caírem ao mesmo tempo? A economia mundial foi hipotecada a um punhado de servidores"
+    "title_pt": "O que acontece se o Google e a Microsoft caírem ao mesmo tempo? A economia mundial foi hipotecada a um punhado de servidores",
+    "summary_pt": "Apenas três empresas controlam 70% do mercado de operadores de nuvem na Europa. Especialistas alertam para a extrema dependência de serviços interconectados entre si e sem firewalls suficientes"
   },
   {
     "title": "Lula repete 2022 e confirma Janja como coordenadora da posse presidencial",
