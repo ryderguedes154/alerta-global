@@ -1,9 +1,22 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T09:48:48.874636Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T09:53:58.110183Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Terremoto de magnitude 6.8 — 103 km NE of Lospalos, Timor Leste",
+      "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "103 km NE of Lospalos, Timor Leste",
+      "country": "GLOBAL",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij",
+      "published_on": "21/11/2026 05:42 (Boa Vista)",
+      "image": "",
+      "selection": "automatic"
+    },
     {
       "title": "Terremoto de magnitude 6.7 — 9 km NE of Carhuamayo, Peru",
       "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
@@ -31,19 +44,6 @@
       "selection": "automatic"
     },
     {
-      "title": "A Europa se prepara para um inverno frio à medida que o vórtice polar se inverte. As bombas de calor podem ajudar a reduzir as contas de energia?",
-      "summary": "Um evento incomum de aquecimento estratosférico súbito e precoce inverteu o vórtice polar, deixando os analistas preocupados com o aumento dos preços da energia.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/21/europe-braces-for-cold-winter-as-polar-vortex-flips-can-heat-pumps-help-lower-energy-bills",
-      "published_on": "21/11/2026 02:02 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/09/99/96/91/696x392_cmsv2_a13084d7-348c-580b-8d82-48d101f6ca1d-9999691.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Chanceler iraniano diz que Irã quer diplomacia para encerrar a guerra",
       "summary": "Abbas Araqchi afirmou em entrevista a um jornal do país que mantém contato com Washington e que Teerã busca um acordo que garanta que não haja mais conflito",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -53,7 +53,7 @@
       "source": "CNN Brasil",
       "url": "https://www.cnnbrasil.com.br/internacional/chanceler-iraniano-diz-que-ira-quer-diplomacia-para-encerrar-a-guerra/",
       "published_on": "20/11/2026 21:06 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/chapo-isidro-copy.webp?w=200",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/presos-pelo-ICE.webp?w=200",
       "selection": "automatic"
     },
     {
