@@ -1,8 +1,8 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T20:34:53.153948Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T20:40:12.508048Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataque com mísseis balísticos à cidade natal de Zelenskyy, no centro da Ucrânia, mata duas pessoas e fere dezenas",
@@ -83,16 +83,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Ataque russo mata criança e deixa 58 feridos na Ucrânia, diz autoridade",
-      "summary": "Míssil atingiu as instalações de um restaurante com civis e profissionais de saúde; socorrista de ambulância está entre as vítimas da ofensiva",
+      "title": "Influência do Irã no Estreito de Ormuz diminui com fluxo de petróleo",
+      "summary": "Ataques continuam na região mas recuperação das exportações reduz poder de barganha de Teerã contra os Estados Unidos",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Saúde",
+      "category": "Economia",
       "region": "Global",
       "country": "BR",
       "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/ataque-russo-mata-crianca-e-deixa-58-feridos-na-ucrania-diz-autoridade/",
-      "published_on": "21/11/2026 11:33 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM290OI-BASEIMAGE.jpg?w=200",
+      "url": "https://www.cnnbrasil.com.br/internacional/influencia-do-ira-no-estreito-de-ormuz-diminui-com-fluxo-de-petroleo/",
+      "published_on": "21/11/2026 12:30 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Navios-no-Estreito-de-Ormuz-em-Musandam-Oma.jpg?w=200",
       "selection": "automatic"
     },
     {
