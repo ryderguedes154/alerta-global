@@ -1,8 +1,8 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T12:56:44.592007Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T13:01:56.121508Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataque com mísseis balísticos à cidade natal de Zelenskyy, no centro da Ucrânia, mata duas pessoas e fere dezenas",
@@ -31,29 +31,29 @@
       "selection": "automatic"
     },
     {
-      "title": "O analista militar Phillips O'Brien fala sobre a Ucrânia e a Europa ficarem de fora das negociações de Trump",
-      "summary": "Enquanto o presidente Trump se reunia com seus homólogos russo e chinês, a Ucrânia e seus aliados europeus ficaram de fora das negociações. Scott Simon, da NPR, conversa com Phillips O'Brien, da Universidade de St. Andrews.",
+      "title": "Como países da Otan no Mar Negro são arrastados para a guerra na Ucrânia",
+      "summary": "Veja a lista de ataques a embarcações e outros incidentes importantes registrados nas proximidades dos dois países do oeste do Mar Negro nas últimas semanas",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "US",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
-      "published_on": "21/11/2026 08:40 (Boa Vista)",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6047379",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/como-paises-da-otan-no-mar-negro-sao-arrastados-para-a-guerra-na-ucrania/",
+      "published_on": "21/11/2026 09:00 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/drones-russos-do-Mar-Negro-2.jpg?w=200",
       "selection": "automatic"
     },
     {
-      "title": "Mísseis russos atingiram a Polónia: o que aconteceu e a OTAN poderia responder?",
-      "summary": "Varsóvia acusa Moscovo de provocação intencional, mas a barreira para desencadear a cláusula de defesa colectiva da NATO continua elevada.",
+      "title": "Milhares protestam contra preços, educação e gastos militares na França e na Europa",
+      "summary": "A França prepara-se para o sexto sábado consecutivo de protestos, com a expectativa de que os manifestantes se manifestem contra o aumento do custo de vida e a forma como o governo está a lidar com as semanas de agitação social antes das eleições presidenciais do próximo ano. A jornalista da France 24, Antonia Kerrigan, conta-nos as últimas novidades de Pari",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
-      "published_on": "21/11/2026 07:02 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b01618380-1795252611.jpg?resize=1920%2C1440",
+      "country": "FR",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe",
+      "published_on": "21/11/2026 08:48 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/c489cff2-e5a7-11f1-bb16-ebb478925cf0/w:1024/p:16x9/EN-20261121-131728-132120-CS.jpg",
       "selection": "automatic"
     },
     {
