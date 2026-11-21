@@ -42,6 +42,22 @@
     "summary_pt": "Equipe visitante domina a partida e vence no estádio do rival pela primeira vez desde 1999"
   },
   {
+    "title": "Terremoto de magnitude 4.9 — 88 km WNW of El Aguilar, Argentina",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "88 km WNW of El Aguilar, Argentina",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucni",
+    "date": "2026-11-21T19:03:04.170000Z",
+    "lat": -23.0294,
+    "lon": -66.519,
+    "depth_km": 209.784,
+    "forcedSev": "low",
+    "title_pt": "Terremoto de magnitude 4.9 — 88 km WNW of El Aguilar, Argentina",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
+  },
+  {
     "title": "Canada defense minister sees no shift in US military ties",
     "summary": "Canada defense minister sees no shift in US military ties Reuters",
     "category": "Conflitos",
@@ -6914,19 +6930,5 @@
     "image": "https://i.guim.co.uk/img/media/f0631e7f0d066c593ed1ce2fa13d17cce80723ae/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4daa459d48d0ca0574c01437b26f0ae",
     "title_pt": "‘Fraco e tonto’: as táticas secretas de alimentação forçada do ICE que encerraram a greve de fome de um pai cubano",
     "summary_pt": "Exclusivo: Luis Alejandro Cora Pérez diz em mensagens ao Guardian de dentro das instalações do Texas que a dor da alimentação forçada o fez quebrar a greve A mensagem de texto que veio de dentro do centro de detenção de Imigração e Alfândega (ICE) foi dura: \"Passei cinco dias comendo comida normal. Se eu não comer, eles colocam o tubo em mim para me alimentar.\" Um Cu"
-  },
-  {
-    "title": "Latest news bulletin | November 20th, 2026 – Midday",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "EU",
-    "source": "Euronews",
-    "url": "https://www.euronews.com/video/2026/11/20/latest-news-bulletin-november-20th-2026-midday",
-    "date": "2026-11-20T11:00:15Z",
-    "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/10/00/15/24/696x392_cmsv2_92953732-065d-5d1a-becb-48acb767c586-10001524.jpg",
-    "title_pt": "Último boletim de notícias | 20 de novembro de 2026 – Meio-dia",
-    "summary_pt": "Fique por dentro das notícias mais importantes da Europa e de outros lugares no dia 20 de novembro de 2026. Últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens."
   }
 ]
