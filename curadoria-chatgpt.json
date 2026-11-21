@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-20T17:14:31.585Z",
+  "updated_at": "2026-11-21T10:58:38.354Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Arábia Saudita intercepta três mísseis houthis dirigidos a Riad",
+      "summary": "A coalizão liderada pela Arábia Saudita informou ter interceptado três mísseis balísticos lançados pelos houthis contra Riad em 21 de novembro. A Reuters testemunhou um projétil e ouviu uma explosão; o número de interceptações é informação atribuída à coalizão. O episódio amplia a escalada de ataques entre Arábia Saudita e Iêmen.",
+      "impact_br": "A intensificação dos ataques pode aumentar a volatilidade do petróleo e os custos de transporte e combustíveis no Brasil, caso afete a oferta ou rotas comerciais; não há interrupção adicional confirmada neste episódio.",
+      "category": "Conflitos e segurança internacional",
+      "region": "Oriente Médio",
+      "country": "SA",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/saudi-arabia-issues-two-riyadh-alerts-says-danger-has-passed-2026-11-20/",
+      "published_on": "2026-11-20",
+      "published_at": "2026-11-20T19:36:00-04:00",
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-21T10:58:38.354Z"
+    },
     {
       "title": "Polônia confirma entrada de dois mísseis e um drone russos em seu território",
       "summary": "O governo polonês informou que três objetos russos, provavelmente dois mísseis e um drone, violaram seu espaço aéreo durante ataques à Ucrânia em 20 de novembro. Não houve feridos. Varsóvia considera a hipótese de provocação deliberada e buscará reforço da OTAN; a intenção russa não está comprovada.",
