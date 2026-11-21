@@ -1,5 +1,19 @@
 [
   {
+    "title": "'Accept cookies'? Russia collects data from swaths of unknowing Swedes",
+    "summary": "A Russian tech firm backed by an oligarch close to President Vladimir Putin has secretly been collecting data from hundreds of thousands – possibly millions – of Swedes, a newspaper investigation found. The revelation has rattled the Nordic nation whose proximity to Russia and unusually open public records system make it particularly vulnerable to Moscow’s h",
+    "category": "Geral",
+    "region": "Global",
+    "country": "FR",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/europe/20261121-accept-cookies-russia-collected-data-swaths-unknowing-swedes",
+    "date": "2026-11-21T10:55:32Z",
+    "lang": "en",
+    "image": "https://s.france24.com/media/display/75dade0c-e500-11f1-86bd-1bac47ab2f5d/w:1024/p:16x9/AP21173406344763.jpg",
+    "summary_pt": "Uma empresa tecnológica russa apoiada por um oligarca próximo do presidente Vladimir Putin tem recolhido secretamente dados de centenas de milhares – possivelmente milhões – de suecos, descobriu uma investigação de um jornal. A revelação abalou a nação nórdica, cuja proximidade com a Rússia e o sistema de registos públicos invulgarmente aberto a tornam particularmente vulnerável à ameaça de Moscovo.",
+    "title_pt": "'Aceitar cookies'? Rússia coleta dados de grupos de suecos desconhecidos"
+  },
+  {
     "title": "Zelenski, después de que Trump se refiriera a Putin como un “amigo”: “Para nosotros es un asesino”",
     "summary": "El presidente ucranio considera que solo EE UU puede presionar a Rusia y que declaraciones como las del republicano no contribuyen a la resolución del conflicto",
     "category": "Geral",
@@ -12,6 +26,20 @@
     "image": "https://imagenes.elpais.com/resizer/v2/6TEMQGOYYZCNXPED2Y3UGMI2M4.jpg?auth=a03f61960f0ad0839b3bd3eaf723eaafe32b4a4efc4fe4fd24f18b2b7d677fd8",
     "title_pt": "Zelensky, depois de Trump se referir a Putin como “amigo”: “Para nós ele é um assassino”",
     "summary_pt": "O presidente ucraniano considera que só os Estados Unidos podem pressionar a Rússia e que declarações como as do republicano não contribuem para a resolução do conflito"
+  },
+  {
+    "title": "FBI investiga invasão a banco de dados nacional de informações criminais, diz TV",
+    "summary": "Vista geral do edifício do Federal Bureau of Investigation (FBI), em Washington, D.C., nos Estados Unidos, em 28 de novembro de 2025. REUTERS/Nathan Howard. O FBI investiga uma suspeita de invasão a um banco de dados nacional utilizado por agências federais, estaduais e locais de segurança pública para compartilhar informações sobre justiça criminal, informo",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "BR",
+    "source": "G1 Mundo",
+    "url": "https://g1.globo.com/mundo/noticia/2026/11/21/fbi-investiga-invasao-a-banco-de-dados-nacional-de-informacoes-criminais-diz-tv.ghtml",
+    "date": "2026-11-21T10:44:06Z",
+    "lang": "pt",
+    "image": "https://s2-g1.glbimg.com/Ve0J7CTw8XfgUh1xepN6Dp9CnV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/h/QwFSRwTX2ZTck8Tj5YtA/captura-de-tela-2026-09-24-074609-1-.jpg",
+    "title_pt": "FBI investiga invasão a banco de dados nacional de informações criminais, diz TV",
+    "summary_pt": "Vista geral do edifício do Federal Bureau of Investigation (FBI), em Washington, D.C., nos Estados Unidos, em 28 de novembro de 2025. REUTERS/Nathan Howard. O FBI investiga uma suspeita de invasão a um banco de dados nacional utilizado por agências federais, estaduais e locais de segurança pública para compartilhar informações sobre justiça criminal, informo"
   },
   {
     "title": "Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken",
@@ -52,8 +80,8 @@
     "date": "2026-11-21T10:32:32Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/JCL4Q2E6E72J7AI5GXUDIYNH3A.jpg?auth=9e12fabd2a0a04e44d8e4fb12b1207f7be0581ee53b4f0d9c7e90605201e669a",
-    "summary_pt": "Sánchez anuncia prorrogação do imposto durante 2027, com arrecadação prevista de 1.400 milhões",
-    "title_pt": "Governo vai prolongar por mais um ano a taxa bancária para financiar políticas de habitação"
+    "title_pt": "Governo vai prolongar por mais um ano a taxa bancária para financiar políticas de habitação",
+    "summary_pt": "Sánchez anuncia prorrogação do imposto durante 2027, com arrecadação prevista de 1.400 milhões"
   },
   {
     "title": "Anthropic researcher uses AI to solve math's greatest riddle",
@@ -3682,7 +3710,7 @@
   {
     "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3738,7 +3766,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3752,7 +3780,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4300,7 +4328,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5261,8 +5289,8 @@
     "date": "2026-11-20T16:30:09Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Protestos estudantis realizados em toda a Europa com demandas de financiamento escolar ao clima Reuters",
-    "title_pt": "Protestos estudantis realizados em toda a Europa com exigências que vão do financiamento escolar ao clima"
+    "title_pt": "Protestos estudantis realizados em toda a Europa com exigências que vão do financiamento escolar ao clima",
+    "summary_pt": "Protestos estudantis realizados em toda a Europa com demandas de financiamento escolar ao clima Reuters"
   },
   {
     "title": "Trump hails 'fantastic' relationships with China's Xi, Russia's Putin after three-way talks",
@@ -5349,20 +5377,6 @@
     "summary_pt": "“Estamos determinados a impulsionar o impulso político renovado entre a UE e o Canadá”, escrevem quatro membros do Grupo do Partido Popular Europeu (PPE) no Parlamento Europeu num artigo de opinião para a Euronews, publicado por ocasião de uma visita de uma delegação do PPE ao Canadá em 19 e 21 de novembro."
   },
   {
-    "title": "'Blade Runner 2099' & 'Rivals': The big TV shows to watch this month",
-    "summary": "\"Blade Runner\" returns with a futuristic twist, while British bonkbuster \"Rivals\" is back with part two of season two. TV critic Dheepthika Laurent joins Eve Jackson to review the month’s big releases, including Netflix’s acclaimed Arctic comedy \"North of North\" and the lavish K-drama \"Remarried Empress\".",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/arts24/20261120-blade-runner-2099-rivals-the-big-tv-shows-to-watch-this-month",
-    "date": "2026-11-20T16:17:10Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/2680dcea-e4e6-11f1-8ca4-e56ab3dc0809/w:1024/p:16x9/DLS-AFF-BLADE-RUNNER-2099-frame-658.jpeg",
-    "title_pt": "'Blade Runner 2099' e 'Rivals': os grandes programas de TV para assistir este mês",
-    "summary_pt": "\"Blade Runner\" retorna com um toque futurista, enquanto o sucesso britânico \"Rivals\" está de volta com a segunda parte da segunda temporada. A crítica de TV Dheepthika Laurent se junta a Eve Jackson para analisar os grandes lançamentos do mês, incluindo a aclamada comédia ártica da Netflix \"North of North\" e o luxuoso drama K \"Remarried Empress\"."
-  },
-  {
     "title": "Turkey: Activists chant 'shame' as COP31 negotiations falter",
     "summary": "Climate activists denounced the proposed outcome of COP31 in Antalya, Turkey, on Friday 20 November 2026, accusing governments of failing to deliver meaningful progress on tackling climate change. They chanted \"shame\" as negotiations approached their deadline.",
     "category": "Geral",
@@ -5387,8 +5401,8 @@
     "date": "2026-11-20T16:09:52Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Trabalhadores e estudantes italianos protestam contra salários e serviços públicos Reuters",
-    "title_pt": "Trabalhadores e estudantes italianos protestam por salários e serviços públicos"
+    "title_pt": "Trabalhadores e estudantes italianos protestam por salários e serviços públicos",
+    "summary_pt": "Trabalhadores e estudantes italianos protestam contra salários e serviços públicos Reuters"
   },
   {
     "title": "Trabalhadores e estudantes protestam por salários e serviços na Itália",
@@ -6235,20 +6249,6 @@
     "summary_pt": "Ao visitar a América do Sul este mês, o Papa Leão XIV encontrou-se com 11 vítimas de abuso sexual clerical. Alguns querem que ele se envolva de forma mais significativa."
   },
   {
-    "title": "Rights groups urge sanctions after top UN court finds Myanmar committed genocide against Rohingya",
-    "summary": "UNITED NATIONS (AP) — Rights groups are calling for military and economic sanctions against Myanmar after the United Nations’ highest court, in the first ruling of its kind, determined that its government committed genocide against the Rohingya minority in a brutal 2017 military operation. The …",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/un-international-court-myanmar-genocide-rohingya-reparations-d32c2f2a58942b9a3edb81866a850e65?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-    "date": "2026-11-20T10:32:08Z",
-    "lang": "en",
-    "image": "https://ic-cdn.flipboard.com/apnews.com/d3a0860f810186baec69ff4ebdfa19d46cd49faa/_large.webp",
-    "title_pt": "Grupos de direitos humanos pedem sanções após o principal tribunal da ONU concluir que Mianmar cometeu genocídio contra os rohingyas",
-    "summary_pt": "NAÇÕES UNIDAS (AP) — Grupos de direitos humanos estão pedindo sanções militares e econômicas contra Mianmar depois que o mais alto tribunal das Nações Unidas, na primeira decisão desse tipo, determinou que o governo do país cometeu genocídio contra a minoria Rohingya em uma operação militar brutal em 2017. O..."
-  },
-  {
     "title": "Xi projects China’s global influence after hosting Trump and Putin at APEC",
     "summary": "SHENZHEN, China (AP) — Results matter in the international arena, but so do optics. This week’s high-level meetings in China’s tech hub gave President Xi Jinping a win, reinforcing his image as a central player in global diplomacy and demonstrating the nation’s superpower status. As host of the …",
     "category": "Geral",
@@ -6699,7 +6699,7 @@
   {
     "title": "Should AI be judging our credit worthiness?",
     "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
