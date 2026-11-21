@@ -1,22 +1,9 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T19:42:36.619973Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T19:48:31.975713Z",
+  "status": "checado",
   "items": [
-    {
-      "title": "Terremoto de magnitude 7.3 atinge a China, diz agência",
-      "summary": "Tremor ocorreu a uma profundidade de 10 quilômetros, segundo a USGS",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-7-3-atinge-a-china-diz-agencia/",
-      "published_on": "21/11/2026 10:35 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/terremoto-china.jpeg.png?w=1175&h=547&crop=1",
-      "selection": "automatic"
-    },
     {
       "title": "Ataque com mísseis balísticos à cidade natal de Zelenskyy, no centro da Ucrânia, mata duas pessoas e fere dezenas",
       "summary": "QUIEV, Ucrânia (AP) — Um ataque russo ao centro da cidade natal do presidente ucraniano, Volodymyr Zelenskyy, Kryvyi Rih, matou duas pessoas e feriu outras 60, disseram autoridades locais no sábado. Um menino de 7 anos e uma mulher de 20 anos foram mortos no ataque de sexta-feira à noite à cidade no centro...",
@@ -70,6 +57,19 @@
       "selection": "automatic"
     },
     {
+      "title": "COP31: Persistem profundas divisões sobre energia, finanças e ciência",
+      "summary": "As conversações sobre o clima da COP31 na Turquia foram para além do tempo, com profundas divisões sobre combustíveis fósseis, financiamento climático e metas de aquecimento global atrasando um acordo. Um projecto revisto eliminou todas as menções aos combustíveis fósseis, suscitando fortes críticas por parte da UE e de uma dúzia de países que exigiam um com",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "FR",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
+      "published_on": "21/11/2026 13:26 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/2e281d9c-e5d0-11f1-9a79-6b451f569414/w:1024/p:16x9/EN-20261121-171141-171326-CS.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Trump minimiza suposto ataque hacker contra banco de dados do FBI",
       "summary": "Presidente dos EUA declarou que o ataque ao sistema de informações criminais pode revelar fatos úteis para o país",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -83,6 +83,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Ataque russo mata criança e deixa 58 feridos na Ucrânia, diz autoridade",
+      "summary": "Míssil atingiu as instalações de um restaurante com civis e profissionais de saúde; socorrista de ambulância está entre as vítimas da ofensiva",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Saúde",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/ataque-russo-mata-crianca-e-deixa-58-feridos-na-ucrania-diz-autoridade/",
+      "published_on": "21/11/2026 11:33 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM290OI-BASEIMAGE.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
       "title": "O que acontece se o Google e a Microsoft caírem ao mesmo tempo? A economia mundial foi hipotecada a um punhado de servidores",
       "summary": "Apenas três empresas controlam 70% do mercado de operadores de nuvem na Europa. Especialistas alertam para a extrema dependência de serviços interconectados entre si e sem firewalls suficientes",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://elpais.com/internacional/2026-11-21/que-pasa-si-google-y-microsoft-caen-a-la-vez-la-economia-mundial-se-ha-hipotecado-con-un-punado-de-servidores.html",
       "published_on": "21/11/2026 12:11 (Boa Vista)",
       "image": "https://imagenes.elpais.com/resizer/v2/AAI52LRT4VFZ7KZQMDL33WJAGU.jpg?auth=081df027f44c49b94179e07802fa1adab4b6ea30e3d368528a5eeba7e22db8bf",
-      "selection": "automatic"
-    },
-    {
-      "title": "Orçamento da UE: Antonio Costa, presidente do Conselho Europeu, propõe economia de 204 bilhões de euros e um imposto digital",
-      "summary": "Por sua vez, a França rejeitou a nova proposta do líder europeu. Antonio Costa apresentará sua proposta de compromisso aos líderes da União Europeia durante uma cúpula que será realizada na quinta e na sexta-feira em Bruxelas.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/21/budget-de-l-ue-antonio-costa-le-president-du-conseil-europeen-propose-204-milliards-d-euros-d-economies-et-une-taxe-numerique_6813983_3234.html",
-      "published_on": "21/11/2026 07:01 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/20/0/0/5712/3808/1440/960/60/0/138f446_ftp-1-zcn4jvzlfhs4-2026-11-20t140649z-844608601-rc2oroa6b6of-rtrmadp-3-eu-britain-summit-burnham.JPG",
       "selection": "automatic"
     }
   ]
