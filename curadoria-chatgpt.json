@@ -2,9 +2,23 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-21T15:53:05.779Z",
+  "updated_at": "2026-11-21T18:14:23.260Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "FBI investiga possível invasão de banco nacional de dados criminais",
+      "summary": "A Associated Press e a Reuters informam que o FBI investiga uma possível invasão do NCIC, sistema que reúne registros policiais dos EUA. A existência da investigação foi relatada por fontes familiarizadas; a invasão, seu alcance e eventual vazamento ainda não foram confirmados oficialmente.",
+      "impact_br": "Sem impacto direto confirmado no Brasil. O caso reforça riscos de segurança para bases de dados sensíveis e cooperação internacional de investigação.",
+      "category": "cibersegurança",
+      "region": "América do Norte",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/d066cff87a64a564db0a00172c124972",
+      "published_on": "2026-11-21",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-21T18:14:23.260Z"
+    },
     {
       "title": "Novos ataques a petroleiros elevam risco no Estreito de Hormuz",
       "summary": "Autoridade marítima britânica registrou neste sábado dois relatos de ataques a petroleiros perto de Khasab, Omã. Ainda não está claro se os relatos se referem ao mesmo navio; não foram informadas vítimas. O episódio ocorre em meio à intensificação dos ataques e à queda do tráfego de petróleo na região.",
