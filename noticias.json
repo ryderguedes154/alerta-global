@@ -1,19 +1,5 @@
 [
   {
-    "title": "Chuvas no RS atingem 33 municípios e deixam mortos e feridos",
-    "summary": "Boletim da Defesa Civil estadual, divulgado às 18h desta sexta-feira (20), aponta 4.022 pessoas afetadas, 60 feridos, três mortes, 74 desalojados e mais de 5 mil casas destelhadas",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/chuvas-no-rs-atingem-33-municipios-e-deixam-mortos-e-feridos/",
-    "date": "2026-11-21T02:16:11Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/ESTRAGOS-TUPANCIRETA.png?w=200",
-    "title_pt": "Chuvas no RS atingem 33 municípios e deixam mortos e feridos",
-    "summary_pt": "Boletim da Defesa Civil estadual, divulgado às 18h desta sexta-feira (20), aponta 4.022 pessoas afetadas, 60 feridos, três mortes, 74 desalojados e mais de 5 mil casas destelhadas"
-  },
-  {
     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
     "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
     "category": "Conflitos",
@@ -1240,7 +1226,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2264,7 +2250,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2274,6 +2260,20 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
     "title_pt": "Trump ameaça proibir empresas dos EUA de construir data centers de IA no exterior",
     "summary_pt": "O presidente dos EUA forneceu poucos detalhes sobre a possível política, dizendo que outras pessoas de sua equipe estavam ouvindo falar dela pela primeira vez."
+  },
+  {
+    "title": "“Protegendo Estrelas”: conheça novo romance natalino disponível na Netflix",
+    "summary": "Filme é protagonizado por Leighton Meester, de \"Gossip Girl\" e Jared Padalecki, de \"Supernatural\"",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/pop/streaming/protegendo-estrelas-conheca-novo-romance-natalino-disponivel-na-netflix/",
+    "date": "2026-11-20T20:53:24Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/the-pitt-2-temporada.jpg?w=200",
+    "title_pt": "“Protegendo Estrelas”: conheça novo romance natalino disponível na Netflix",
+    "summary_pt": "Filme é protagonizado por Leighton Meester, de \"Gossip Girl\" e Jared Padalecki, de \"Supernatural\""
   },
   {
     "title": "Los artistas de Los40 Music Awards ante el 29N: “La vivienda debería dejar de ser un bien de mercado como cualquier otro”",
@@ -2710,6 +2710,20 @@
     "summary_pt": "Após um resultado histórico para os partidos liderados por árabes de Israel, o primeiro-ministro Benjamin Netanyahu afirmou que a votação foi fraudada, apontando para a detenção de três ativistas da oposição. Seu chefe de gabinete admitiu ter estado envolvido no contato inicial com a polícia."
   },
   {
+    "title": "Trump says he still backs Lutnick, urges Nvidia's Huang to apologize",
+    "summary": "Trump says he still backs Lutnick, urges Nvidia's Huang to apologize Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGQwWUVrODhUa2V5cklXNHcxR3pRbVlPaWxkRlJqV1JYZ3JaV200OHUyZ2JhMUNKbTdFMjlEWEJNNUZPQjFDSG1ZLTlMWGJQZUJSalNuVXVDU0pBRkZERkpTOGZ0SkpHYWlWcGJJUmhMeG9JMmphSk5QSkl0ZlNaaGF4TndiT3FKbUZWbUhzbkdrellveFBtQTdoc2loWHdkREt1NzhfXzI0djg4?oc=5",
+    "date": "2026-11-20T19:45:38Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "Trump diz que ainda apoia Lutnick e pede a Huang, da Nvidia, que se desculpe Reuters",
+    "title_pt": "Trump diz que ainda apoia Lutnick e pede a Huang, da Nvidia, que se desculpe"
+  },
+  {
     "title": "Gérard Depardieu and French author investigated over sexual allegations",
     "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
     "category": "Geral",
@@ -3116,6 +3130,20 @@
     "summary_pt": "Ataques Houthi aumentam as preocupações com o pacto de energia nuclear saudita de Trump Reuters"
   },
   {
+    "title": "Trump says more work to be done to achieve fair trade deal with Canada",
+    "summary": "Trump says more work to be done to achieve fair trade deal with Canada Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTmhITDNJWDN0aFIyMjg5dmx0bWFQS0RJcDZ4RDVUTEF4T3gzVUZ3VzZRVjRNMk1sdy0zaXdyWHBGdVBWQjI3V0FaRnhwbDJJQ2FqdjhIeFhMdEVDVWRadUs5M2tyM2RfTHNBVks3SVU0RkN2cXFwc2FPZWJfbHppVXhkVmZrbnVVOS14bVVaX1pRWG1yZEVvbm5GOVZDYWlQTEtvcmNyYUZWQQ?oc=5",
+    "date": "2026-11-20T18:27:26Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "Trump diz que ainda há muito trabalho a ser feito para chegar a um acordo comercial justo com o Canadá Reuters",
+    "title_pt": "Trump diz que ainda há muito trabalho a ser feito para chegar a um acordo comercial justo com o Canadá"
+  },
+  {
     "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
     "summary": "Nikhil Gupta admitted to plotting with Indian government official to hire hitman to murder dual US-Canadian citizen An Indian ⁠man was sentenced to more ⁠than 19 ​years in US prison on Friday after admitting to orchestrating a failed Indian government-backed plot to kill a Sikh separatist in New York ⁠City , in connection with what US and Canadian authoritie",
     "category": "Geral",
@@ -3358,7 +3386,7 @@
   {
     "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
     "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5135,34 +5163,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/AHFPCQZN4BK25BSTKVLMUNVNPU.jpg?auth=22d1e875d2dc98be2e432330f374197e408852babe94817e7e3f9638d16b5d48",
     "title_pt": "O Rei pede em Bilbao para \"não esquecer\" o \"sofrimento\" causado pelo \"terrorismo da ETA, as ameaças e a falta de liberdade\"",
     "summary_pt": "Felipe VI celebra o 50º aniversário do Círculo de Empresários Bascos com um prêmio para José Domingo de Ampuero y Osma, presidente da Vicofan"
-  },
-  {
-    "title": "Stellantis brands to exit motor sports, reports Le Figaro",
-    "summary": "Stellantis brands to exit motor sports, reports Le Figaro Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN05zRk4xOHBTNFV6eUJZaHIwOW9MVGttbEdYbXJiTGN4Rm4tWGt6dWhaUm8za3hrWXpDM25QZElYZ0NVd2ZfQ2ZMaExnd3ZvaFRicjZrT0hhbnlrVG90MHQ3T0hfckNvdVlndlRBczdfSkxvb2RXejNvNDVfcnZUeERkOU5NdjZ0UFc4UlFSNkhOUUZFaDd0MVBidVMzZw?oc=5",
-    "date": "2026-11-20T12:46:33Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Marcas Stellantis vão sair do automobilismo, relata Le Figaro",
-    "summary_pt": "Marcas Stellantis vão sair do automobilismo, relata Le Figaro Reuters"
-  },
-  {
-    "title": "US equity funds draw inflows for a third straight week",
-    "summary": "US equity funds draw inflows for a third straight week Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTV9hWnBMYmhUc0pEOXJmbkRxYWxTcHhCdE5Sc2FVX0NOV1ZmVlFfWnNuY2h2dy03Y1JHb0h3bnh0LThOT2Fadm9EVEcyZEF0MTdaRzlWTDNKZ1lKNmJtNGR4QmI1R2NOUjJXOWhZVFBvdGxQMXlCeERZc0xaSWZmOS1WQVFJN1p0Mk5WYTI0QVdfVmE4ZkIyQ3o2a2d2R0ZLS24xT3FUWQ?oc=5",
-    "date": "2026-11-20T12:45:43Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Fundos de ações dos EUA atraem entradas pela terceira semana consecutiva",
-    "summary_pt": "Fundos de ações dos EUA atraem entradas pela terceira semana consecutiva Reuters"
   },
   {
     "title": "Vox vuelve a presionar al PP y exige a Feijóo que aclare su estrategia de alianzas",
