@@ -1,7 +1,7 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T15:52:40.910482Z",
+  "checked_at": "2026-11-21T15:57:47.816315Z",
   "status": "checado",
   "items": [
     {
@@ -41,6 +41,19 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij",
       "published_on": "21/11/2026 05:42 (Boa Vista)",
       "image": "",
+      "selection": "automatic"
+    },
+    {
+      "title": "Ataque russo mata criança e deixa 58 feridos na Ucrânia, diz autoridade",
+      "summary": "Míssil atingiu as instalações de um restaurante com civis e profissionais de saúde; socorrista de ambulância está entre as vítimas da ofensiva",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Saúde",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/ataque-russo-mata-crianca-e-deixa-58-feridos-na-ucrania-diz-autoridade/",
+      "published_on": "21/11/2026 11:33 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM290OI-BASEIMAGE.jpg?w=200",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
       "published_on": "20/11/2026 13:45 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-petroleum-topart-wcmf/19trump-summits-petroleum-topart-wcmf-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Jerusalem Daily: Gaza enfrenta ataques mortais e crise na saúde",
-      "summary": "Jerusalem Daily: Gaza enfrenta ataques mortais e crise na saúde",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Saúde",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
-      "published_on": "21/11/2026 10:06 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795269949.jpg?resize=1920%2C1080&quality=80",
       "selection": "automatic"
     }
   ]
