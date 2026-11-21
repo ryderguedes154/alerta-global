@@ -1,9 +1,22 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-21T12:14:35.941422Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-21T12:19:47.141226Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Ataque com mísseis balísticos à cidade natal de Zelensky, no centro da Ucrânia, mata duas pessoas e fere dezenas",
+      "summary": "QUIEV, Ucrânia (AP) — Um ataque russo ao centro da cidade natal do presidente ucraniano, Volodymyr Zelenskyy, Kryvyi Rih, matou duas pessoas e feriu outras 60, disseram autoridades locais no sábado. Um menino de 7 anos e uma mulher de 20 anos foram mortos no ataque de sexta-feira à noite à cidade no centro...",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+      "published_on": "21/11/2026 07:19 (Boa Vista)",
+      "image": "https://ic-cdn.flipboard.com/apnews.com/1b2f1bae87b10feed2925c66d4967c8bcd53bc07/_large.webp",
+      "selection": "automatic"
+    },
     {
       "title": "Terremoto de magnitude 6.8 — 105 km NE of Lospalos, Timor Leste",
       "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
@@ -54,19 +67,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
       "published_on": "21/11/2026 05:30 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-05-30T015143Z_1023573013_RC2IALAJ80XV_RTRMADP_3_USA-MILITARY-PUERTO-RICO-1795245920.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "Equipes de emergência na Ucrânia atingidas por um ataque duplo",
-      "summary": "O vídeo mostra equipes de emergência na Ucrânia se aproximando do local de um ataque russo, antes que outro ataque ocorra.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
-      "published_on": "21/11/2026 03:12 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795245096.jpg?resize=1918%2C1080&quality=80",
       "selection": "automatic"
     },
     {
