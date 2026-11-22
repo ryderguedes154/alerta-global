@@ -1,8 +1,8 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T21:27:54.908408Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T21:33:00.469501Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataque russo perto da capital da Ucrânia atinge prédio residencial, matando 3 pessoas e deixando outras soterradas",
@@ -31,29 +31,29 @@
       "selection": "automatic"
     },
     {
-      "title": "Como Melania Trump encontrou uma abertura diplomática na guerra na Ucrânia",
-      "summary": "A primeira-dama, que tem pouca experiência em assuntos internacionais, estabeleceu canais alternativos com figuras-chave de ambos os lados do conflito por meio de seu agente de longa data.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
-      "published_on": "22/11/2026 14:12 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-melania-ukraine-topart-fkgj/22dc-melania-ukraine-topart-fkgj-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Sudão: Etiópia é acusada de ataques de drones a áreas residenciais e a um prédio da ONU em Cartum",
-      "summary": "No início de novembro, o Sudão anunciou que havia levado o caso ao Conselho de Segurança da ONU e à União Africana, acusando o país vizinho de apoiar os paramilitares das Forças de Apoio Rápido (RSF), que estão em confronto com o exército sudanês desde 2023 em uma guerra sangrenta.",
+      "title": "Eisenkot de Israel critica o ‘terrorismo judaico’ após ataques de colonos na Cisjordânia",
+      "summary": "O líder da oposição israelense, Gadi Eisenkot, condenou no domingo os ataques incendiários perpetrados por colonos em aldeias palestinas na Cisjordânia como “terrorismo judaico”. A polícia israelense disse que abriu uma investigação sobre os ataques, que ocorreu quase um mês depois que uma eleição inconclusiva retirou a maioria do atual primeiro-ministro, Be",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/afrique/article/2026/11/22/soudan-l-ethiopie-mise-en-cause-dans-des-frappes-de-drones-sur-des-zones-residentielles-et-un-batiment-de-l-onu-a-khartoum_6814229_3212.html",
-      "published_on": "22/11/2026 12:03 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/22/0/0/6720/4480/1440/960/60/0/ed109fa_ftp-1-z51tik97gakl-da4f1724b4e043df96c647a29587bbce-0-0442554c922f4deda8b948dad83fcbc0.jpg",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
+      "published_on": "22/11/2026 17:29 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/eff41172-e6b8-11f1-a8e7-1bac47ab2f5d/w:1024/p:16x9/AP26326377291946.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Trump diz que cogita retomar ataques ao Irã no próximo ano",
+      "summary": "Presidente americano afirmou, em entrevista à Fox News, que medidas poderiam ser tomadas caso os países não chegassem a um acordo para encerrar o conflito",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-cogita-retomar-ataques-ao-ira-no-proximo-ano/",
+      "published_on": "22/11/2026 17:15 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXNPEL9023Q-BASEIMAGE.jpg?w=200",
       "selection": "automatic"
     },
     {
