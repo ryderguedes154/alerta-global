@@ -1,5 +1,19 @@
 [
   {
+    "title": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
+    "summary": "Police say the boat driver fled and the vessel’s manager was taken into custody.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+    "date": "2026-11-22T02:45:36Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26325766410570-1795313225.jpg?resize=1920%2C1440",
+    "title_pt": "Barco que transportava pessoas para um funeral vira e deixa pelo menos 24 mortos na Nigéria",
+    "summary_pt": "A polícia afirma que o condutor da embarcação fugiu e o gerente da embarcação foi detido."
+  },
+  {
     "title": "Man found dead on Flinders Island believed to have been shot by officer, police say",
     "summary": "The sergeant, who was shot, fired his weapon a number of times after alleged ‘targeted’ attack outside island’s police station Get our breaking news email , free app or daily news podcast A police officer who was shot outside a remote Tasmanian police station is alleged to have shot and killed his attacker in response to what authorities believe was a “targe",
     "category": "Geral",
@@ -2440,20 +2454,6 @@
     "image": "https://s.france24.com/media/display/60c67bd8-e5ce-11f1-90ca-ebb478925cf0/w:1024/p:16x9/EN-20261121-161200-161355-CS.jpg",
     "title_pt": "Homem condenado por iniciar incêndio em paliçadas",
     "summary_pt": "Um júri do condado de Los Angeles considerou o ex-motorista de carona Jonathan Rinderknecht culpado na sexta-feira de iniciar o incêndio em Palisades em 2025, que causou destruição generalizada e perda de vidas. Ele enfrenta uma pena de prisão de cinco a 40 anos. Liza Kaminov tem mais."
-  },
-  {
-    "title": "Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League",
-    "summary": "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
-    "date": "2026-11-21T17:21:37Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306223602-1795281647.jpg?resize=1200%2C675",
-    "title_pt": "Chelsea derrotado por 4 a 1 pelo Leeds e sofrendo terceira derrota em quatro na Premier League",
-    "summary_pt": "O Leeds recuperou de um gol em Stamford Bridge para chocar o Chelsea e ultrapassar os anfitriões para o sexto lugar na Premier League."
   },
   {
     "title": "Terremoto de magnitude 4.5 — 0 km SSW of La Colorada, Panama",
@@ -5608,7 +5608,7 @@
   {
     "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5664,7 +5664,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5692,7 +5692,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6000,7 +6000,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
