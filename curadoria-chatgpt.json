@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-22T21:09:44.237Z",
+  "updated_at": "2026-11-22T21:47:08.198Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "ONU adia definição de regras obrigatórias para armas autônomas até 2028",
+      "summary": "Em Genebra, 128 países concordaram em elaborar até 2028 um instrumento para regular armas letais autônomas, mas não aprovaram compromisso com normas juridicamente obrigatórias. Estados Unidos, Rússia e Israel se opuseram à proposta mais rígida.",
+      "impact_br": "O Brasil participou do grupo que defendeu negociações por regras vinculantes. O resultado pode influenciar futuras políticas brasileiras de defesa, inteligência artificial e direito humanitário, sem efeito econômico imediato confirmado.",
+      "category": "tecnologia e segurança internacional",
+      "region": "GLOBAL",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/states-agree-to-un-talks-aiming-regulate-killer-robots-by-2028-2026-11-21/",
+      "published_on": "2026-11-21",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-22T21:47:08.198Z"
+    },
     {
       "title": "União Europeia e Indonésia assinam acordo comercial após dez anos de negociações",
       "summary": "União Europeia e Indonésia assinaram em 21 de novembro acordos de comércio e proteção de investimentos após dez anos de negociações. O pacto prevê liberalizar até 98,5% das linhas tarifárias e fortalecer cadeias de fornecimento, inclusive de matérias-primas estratégicas. Ainda depende de procedimentos internos e da aprovação do Parlamento Europeu; a aplicação é esperada para 2027.",
