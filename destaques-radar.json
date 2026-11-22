@@ -1,8 +1,8 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T05:25:03.713171Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T05:30:16.050001Z",
+  "status": "checado",
   "items": [
     {
       "title": "O Irã ataca três navios-tanque enquanto exibe lançadores de mísseis e outras notícias do Oriente Médio",
@@ -44,19 +44,6 @@
       "selection": "automatic"
     },
     {
-      "title": "COP31: Persistem profundas divisões sobre energia, finanças e ciência",
-      "summary": "As conversações sobre o clima da COP31 na Turquia foram para além do tempo, com profundas divisões sobre combustíveis fósseis, financiamento climático e metas de aquecimento global atrasando um acordo. Um projecto revisto eliminou todas as menções aos combustíveis fósseis, suscitando fortes críticas por parte da UE e de uma dúzia de países que exigiam um com",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "FR",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
-      "published_on": "21/11/2026 13:26 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/2e281d9c-e5d0-11f1-9a79-6b451f569414/w:1024/p:16x9/EN-20261121-171141-171326-CS.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Terremoto de magnitude 6.8 — 105 km NE of Lospalos, Timor Leste",
       "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -67,6 +54,19 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij",
       "published_on": "21/11/2026 05:42 (Boa Vista)",
       "image": "",
+      "selection": "automatic"
+    },
+    {
+      "title": "COP31: Persistem profundas divisões sobre energia, finanças e ciência",
+      "summary": "As conversações sobre o clima da COP31 na Turquia foram para além do tempo, com profundas divisões sobre combustíveis fósseis, financiamento climático e metas de aquecimento global atrasando um acordo. Um projecto revisto eliminou todas as menções aos combustíveis fósseis, suscitando fortes críticas por parte da UE e de uma dúzia de países que exigiam um com",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "FR",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
+      "published_on": "21/11/2026 13:26 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/2e281d9c-e5d0-11f1-9a79-6b451f569414/w:1024/p:16x9/EN-20261121-171141-171326-CS.jpg",
       "selection": "automatic"
     },
     {
