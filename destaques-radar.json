@@ -1,8 +1,8 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T06:59:51.588034Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T07:05:12.365229Z",
+  "status": "checado",
   "items": [
     {
       "title": "O Irã ataca três navios-tanque enquanto exibe lançadores de mísseis e outras notícias do Oriente Médio",
@@ -70,6 +70,19 @@
       "selection": "automatic"
     },
     {
+      "title": "O rascunho final da Turquia nas negociações climáticas da ONU não menciona os combustíveis fósseis que causam o aquecimento global",
+      "summary": "ANTALYA, Turquia (AP) – O mais recente e possivelmente final acordo proposto a sair das negociações climáticas das Nações Unidas não contém as palavras combustíveis fósseis, a principal causa do aquecimento global, nem apela especificamente à transição do carvão, petróleo e gás que expelem dióxido de carbono e outros…",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/climate-un-turkey-fossil-fuels-global-warming-f6e36c4caf13ec6fed57c9f077cbd067?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+      "published_on": "22/11/2026 00:01 (Boa Vista)",
+      "image": "https://ic-cdn.flipboard.com/apnews.com/f86aba119b394d29099d862fda6c89e584a4a9a8/_large.webp",
+      "selection": "automatic"
+    },
+    {
       "title": "A França que Le Pen promete: aposentadorias aos 62 anos, adeus à Ucrânia e referendo sobre imigração",
       "summary": "O Reagrupamento Nacional de extrema direita delineia um programa confuso, caro e xenófobo que procura tranquilizar os mercados e os empresários",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
       "published_on": "22/11/2026 00:28 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "As sessões oferecem conselhos sobre o aumento dos custos de energia",
-      "summary": "Um conselho está pedindo às pessoas que busquem apoio para lidar com o aumento dos custos de energia no aquecimento neste inverno.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
-      "published_on": "21/11/2026 08:09 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/641f/live/fedb2590-e41f-11f1-9e08-55a8a3b48445.jpg",
       "selection": "automatic"
     }
   ]
