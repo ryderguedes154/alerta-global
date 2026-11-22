@@ -1,8 +1,8 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T05:45:53.804550Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T05:51:05.988393Z",
+  "status": "checado",
   "items": [
     {
       "title": "O Irã ataca três navios-tanque enquanto exibe lançadores de mísseis e outras notícias do Oriente Médio",
@@ -70,19 +70,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Na Cúpula da APEC, EUA, China e Rússia prometem aumentar a oferta de petróleo em meio à transição energética global",
-      "summary": "Os Estados Unidos, a China e a Rússia concordaram em aumentar o fornecimento de produtos petrolíferos refinados, à medida que os preços do petróleo disparam devido à guerra no Irão.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
-      "published_on": "20/11/2026 13:45 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-petroleum-topart-wcmf/19trump-summits-petroleum-topart-wcmf-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "As sessões oferecem conselhos sobre o aumento dos custos de energia",
       "summary": "Um conselho está pedindo às pessoas que busquem apoio para lidar com o aumento dos custos de energia no aquecimento neste inverno.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
       "published_on": "22/11/2026 00:28 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Como a China obtém acesso aos chips de IA americanos",
+      "summary": "Jensen Huang renunciou ao cargo de CEO da Nvidia após um caso extraconjugal com uma suposta espiã chinesa. Após o escândalo da Nvidia, o acesso da China à tecnologia fabricada nos Estados Unidos e aos chips avançados de IA voltou a ser alvo de escrutínio. Ramy Inocencio viajou para o Sudeste Asiático para saber mais sobre o uso de chips americanos pela China",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/how-china-gets-access-to-american-ai-chips/",
+      "published_on": "21/11/2026 11:35 (Boa Vista)",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/21/1b7cbb74-a077-41d2-b62c-d21c9cd1b23e/thumbnail/1200x630/d250ec76cdfef9fd0ab91b9e396d1449/cbsn-fusion-how-china-gets-access-to-american-ai-chips-thumbnail.jpg",
       "selection": "automatic"
     }
   ]
