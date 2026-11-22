@@ -1,8 +1,8 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T15:16:34.672217Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T15:21:42.748332Z",
+  "status": "checado",
   "items": [
     {
       "title": "O presidente da Centrica diz estar \"extremamente preocupado\" com o impacto do aumento das contas de energia",
@@ -31,29 +31,29 @@
       "selection": "automatic"
     },
     {
-      "title": "Zelenskyy pede aos EUA que liberem mísseis Patriot enquanto a Rússia mata 3 pessoas na Ucrânia",
-      "summary": "Um ataque de drones russos mata pelo menos duas pessoas perto de Kiev, enquanto o bombardeio russo mata uma pessoa em Zaporíjia.",
+      "title": "Ataque russo perto de Kiev, na Ucrânia, atinge prédio de apartamentos e deixa mortos e feridos",
+      "summary": "Bombeiros tentam apagar um incêndio após um ataque russo em Dymer, região de Kiev, Ucrânia, domingo, 22 de novembro de 2026. AP/Efrem Lukatsky Um ataque russo atingiu um prédio de apartamentos em uma vila perto da capital da Ucrânia neste domingo (22), matando pelo menos duas pessoas e ferindo outras quatro, de acordo com as autoridades. O prédio de cinco an",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
-      "published_on": "22/11/2026 10:48 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b02f84230fd-1795356738.jpg?resize=1920%2C1440",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/22/ataque-russo-kiev-ucrania.ghtml",
+      "published_on": "22/11/2026 11:10 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/cy94MgGrHgxmU8BqG3hdVOd_Rq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/6/zMajklTWa5gsMX7UDCkw/ap26326269093758.jpg",
       "selection": "automatic"
     },
     {
-      "title": "Irã revela lançador de mísseis duplos, nova ‘cidade de mísseis’: o que saber",
-      "summary": "Oficiais militares visitam instalações subterrâneas para demonstrar capacidades militares, apesar dos ataques dos EUA.",
+      "title": "Ataques de drones matam quatro pessoas perto da capital do Sudão e danificam prédio da ONU",
+      "summary": "As Forças de Apoio Rápido são responsabilizadas pelos ataques de drones que, segundo relatos, atingiram edifícios da ONU e do governo, bem como o aeroporto de Cartum.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "QA",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-      "published_on": "22/11/2026 10:20 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/missileScreenshot-2026-11-22-170446-1795357014.jpg?resize=1200%2C675",
+      "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
+      "published_on": "22/11/2026 11:03 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03005929fe-1795358809.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
