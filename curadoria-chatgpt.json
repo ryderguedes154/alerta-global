@@ -2,9 +2,24 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-22T00:52:16.598Z",
+  "updated_at": "2026-11-22T12:08:07.828Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "COP31 fica sem consenso após União Europeia rejeitar proposta final",
+      "summary": "Na COP31, em Antalya, a União Europeia e outros países rejeitaram a proposta final de acordo climático. A presidência da conferência informou que não houve consenso para adotar o texto. O impasse envolve combustíveis fósseis, captura de carbono e financiamento climático.",
+      "impact_br": "A ausência de novo consenso pode dificultar a cooperação climática e o financiamento internacional para adaptação, temas relevantes ao Brasil; compromissos anteriores permanecem vigentes.",
+      "category": "clima",
+      "region": "Global — Antalya, Turquia",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/cop/cop31-climate-deal-balance-after-fractious-talks-2026-11-22/",
+      "published_on": "2026-11-22",
+      "published_at": "2026-11-22T06:13:00-04:00",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-22T12:08:07.828Z"
+    },
     {
       "title": "COP31 apresenta nova proposta de acordo após impasse climático",
       "summary": "Turquia e Austrália apresentaram uma proposta revisada para tentar obter consenso entre quase 200 delegações na COP31, em Antalya. A presidência afirma que o texto pode ser aceito, mas a aprovação final ainda não ocorreu. Permanecem questões sobre combustíveis fósseis e financiamento da adaptação climática.",
