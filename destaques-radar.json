@@ -1,9 +1,22 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T09:34:50.667171Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T09:39:56.938051Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Conheça os profissionais do setor de energia da Ucrânia que se esquivam de drones para restabelecer a eletricidade da população",
+      "summary": "\"A primeira coisa que os rapazes e eu fazemos é ver onde podemos nos esconder.\"",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/meet-the-ukrainian-energy-workers-who-dodge-drones-to-bring-peoples-electricity-back-13615168",
+      "published_on": "22/11/2026 05:16 (Boa Vista)",
+      "image": "https://e3.365dm.com/26/11/1920x1080/skynews-maksym-ukraine-drummond_7411179.jpg?20261122092143",
+      "selection": "automatic"
+    },
     {
       "title": "Dashcam captura ataque de míssil russo em Lviv, Ucrânia",
       "summary": "O vídeo da Dashcam capturou o momento em que um míssil atingiu um bairro residencial em Lviv, no oeste da Ucrânia.",
@@ -28,19 +41,6 @@
       "url": "https://apnews.com/article/mideast-iran-gaza-israel-november-21-2026-29159a6f3365ff447c0ccbd1d7260f75?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
       "published_on": "21/11/2026 15:38 (Boa Vista)",
       "image": "https://ic-cdn.flipboard.com/apnews.com/adbee0ebbc03c0eb0beb59a4a1cb4345db83a698/_large.jpeg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Bessent confirma que está morando em uma base militar dos EUA por receio do Irã",
-      "summary": "O secretário do Tesouro dos EUA, Scott Bessent, diz que ainda está morando em uma base militar dos EUA, duas semanas após um alerta israelense.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
-      "published_on": "21/11/2026 22:05 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795313120.jpg?resize=1920%2C1080&quality=80",
       "selection": "automatic"
     },
     {
