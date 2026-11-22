@@ -1,11 +1,24 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T01:33:00.308230Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T01:38:07.670717Z",
+  "status": "checado",
   "items": [
     {
-      "title": "Guerra no Irã ao vivo: Irã ataca militares dos EUA no Bahrein; ataques dos houthis continuam",
+      "title": "Atleta nada no Estreito de Ormuz para chamar a atenção para o impacto da guerra no Irã sobre a vida selvagem",
+      "summary": "O nadador de longa distância britânico Lewis Pugh atravessou o Estreito de Ormuz a nado para chamar a atenção para as ameaças ambientais durante o conflito em curso.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/athlete-swims-strait-of-hormuz-iran-war-wildlife/",
+      "published_on": "21/11/2026 21:30 (Boa Vista)",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/22/6f642d8d-a281-49af-8e39-8f6417483e55/thumbnail/1200x630/e4ef39168b9187cc5a8ff2ee8d77bd8a/ap26324612213940.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Guerra no Irã ao vivo: Irã ataca bases dos EUA no Bahrein; ataques dos houthis continuam",
       "summary": "O Bahrein condenou os ataques do Irã a instalações militares dos EUA no país do Golfo, enquanto os houthis mantêm a Arábia Saudita em estado de alerta.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
@@ -28,19 +41,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
       "published_on": "21/11/2026 19:18 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/iran-pres-horizontal-thumb-1795302988.jpg?resize=1920%2C1080&quality=80",
-      "selection": "automatic"
-    },
-    {
-      "title": "Rússia lança ataque com mísseis balísticos contra a cidade natal de Zelensky, no centro da Ucrânia",
-      "summary": "Um ataque russo com mísseis balísticos à cidade natal do presidente Volodymyr Zelensky, no centro da Ucrânia, matou no sábado duas pessoas e feriu dezenas. Horas depois, Zelensky reiterou a determinação do seu país em aderir à NATO. Gulliver Cragg, do FRANCE 24, relata de Kyiv.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "FR",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
-      "published_on": "21/11/2026 15:55 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/a1864982-e5d3-11f1-8806-1bac47ab2f5d/w:1024/p:16x9/EN-20261121-180653-181143-CS-01.jpg",
       "selection": "automatic"
     },
     {
