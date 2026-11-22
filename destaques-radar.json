@@ -1,9 +1,22 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T00:11:11.429599Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T00:16:18.235925Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Guerra no Irã ao vivo: Irã ataca militares dos EUA no Bahrein; ataques dos houthis continuam",
+      "summary": "O Bahrein condenou os ataques do Irã a instalações militares dos EUA no país do Golfo, enquanto os houthis mantêm a Arábia Saudita em estado de alerta.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+      "published_on": "21/11/2026 19:59 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b022741d913-1795303233.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
     {
       "title": "O Irã enfrenta uma \"guerra econômica silenciosa\", diz o presidente iraniano",
       "summary": "O Irã enfrenta uma \"guerra econômica silenciosa\", diz o presidente iraniano",
@@ -28,19 +41,6 @@
       "url": "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
       "published_on": "21/11/2026 15:55 (Boa Vista)",
       "image": "https://s.france24.com/media/display/a1864982-e5d3-11f1-8806-1bac47ab2f5d/w:1024/p:16x9/EN-20261121-180653-181143-CS-01.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Ataque de Israel contra caminhão em Gaza deixa ao menos três mortos",
-      "summary": "Veículo, que segundo testemunhas transportava alimentos e documentos, tinha logotipo da World Central Kitchen, mas organização disse não tinha nenhuma ligação",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/ataque-de-israel-contra-caminhao-em-gaza-deixa-mortos/",
-      "published_on": "21/11/2026 15:02 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/palestinos-deslocados-casas.jpeg.png?w=200",
       "selection": "automatic"
     },
     {
