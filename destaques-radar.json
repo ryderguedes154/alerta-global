@@ -1,8 +1,8 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T11:03:12.734953Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T11:08:21.184350Z",
+  "status": "checado",
   "items": [
     {
       "title": "Conheça os profissionais do setor de energia da Ucrânia que se esquivam de drones para restabelecer o fornecimento de eletricidade para a população",
@@ -83,6 +83,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Os espiões da China estão de olho na IA Chips anos antes do escândalo da Nvidia",
+      "summary": "A agência de espionagem da China tem realizado uma campanha secreta para ajudar as empresas do país a adquirir IA avançada. chips e para coletar informações sobre o setor, dizem as autoridades.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+      "published_on": "22/11/2026 07:03 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X-v2.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "A OTAN enfrenta um dilema de soberania, pois as forças armadas dependem de tecnologia privada e de IA",
       "summary": "Funcionários da OTAN e especialistas em defesa se reuniram na conferência NATO Edge na Turquia esta semana para discutir como as forças armadas podem aproveitar a inteligência artificial e a alta tecnologia sem comprometer o controle sobre dados sensíveis e capacidades de defesa.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -92,20 +105,7 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/technology/20261122-nato-faces-sovereignty-dilemma-as-militaries-rely-on-private-tech-ai",
       "published_on": "22/11/2026 05:34 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/e18d8674-e657-11f1-9357-ebb478925cf0/w:1024/p:16x9/df224fba04eb3112666b2abb19fd9b7ec200331b.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "As sessões oferecem conselhos sobre o aumento dos custos de energia",
-      "summary": "Um conselho está pedindo às pessoas que busquem apoio para lidar com o aumento dos custos de energia no aquecimento neste inverno.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
-      "published_on": "21/11/2026 08:09 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/641f/live/fedb2590-e41f-11f1-9e08-55a8a3b48445.jpg",
+      "image": "https://s.france24.com/media/display/d1c8b03e-e660-11f1-9257-6b451f569414/w:1024/p:16x9/AP24083550046315.jpg",
       "selection": "automatic"
     }
   ]
