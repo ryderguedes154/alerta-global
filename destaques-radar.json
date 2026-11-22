@@ -1,9 +1,22 @@
 {
   "edition": "21/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T01:43:11.826798Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T01:48:29.924970Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Novos ataques aumentam a preocupação de países europeus com a guerra na Ucrânia",
+      "summary": "Novos ataques aumentam a preocupação de países europeus com a guerra na Ucrânia Novos ataques aumentam a preocupação de países europeus de que conflito na Ucrânia se espalhe na região. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia A guerra não dá sinais de trégua. Em Kiev, Volodymyr Zelensky voltou a duvidar da disposição do presidente r",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/novos-ataques-aumentam-a-preocupacao-de-paises-europeus-com-a-guerra-na-ucrania.ghtml",
+      "published_on": "21/11/2026 21:45 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/V6qnMoGxx2N1QAoVla1jwf8jSr4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/E/boaMmWTYuUWfxNU3R88g/globo-canal-5-20261121-2000-frame-103734.jpeg",
+      "selection": "automatic"
+    },
     {
       "title": "Atleta nada no Estreito de Ormuz para chamar a atenção para o impacto da guerra no Irã sobre a vida selvagem",
       "summary": "O nadador de longa distância britânico Lewis Pugh atravessou o Estreito de Ormuz a nado para chamar a atenção para as ameaças ambientais durante o conflito em curso.",
@@ -28,19 +41,6 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
       "published_on": "21/11/2026 19:59 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b022741d913-1795303233.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "O Irã enfrenta uma \"guerra econômica silenciosa\", diz o presidente iraniano",
-      "summary": "O Irã enfrenta uma \"guerra econômica silenciosa\", diz o presidente iraniano",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
-      "published_on": "21/11/2026 19:18 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/iran-pres-horizontal-thumb-1795302988.jpg?resize=1920%2C1080&quality=80",
       "selection": "automatic"
     },
     {
