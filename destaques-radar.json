@@ -1,7 +1,7 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T09:45:18.218810Z",
+  "checked_at": "2026-11-22T09:50:31.419710Z",
   "status": "checado",
   "items": [
     {
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "COP31: Persistem profundas divisões em relação à energia, às finanças e à ciência",
+      "summary": "As negociações climáticas da COP31 na Turquia entraram em prorrogação, com profundas divergências sobre combustíveis fósseis, financiamento climático e metas de aquecimento global atrasando um acordo. Uma versão revisada do projeto retirou todas as menções aos combustíveis fósseis, o que provocou fortes críticas da UE e de uma dúzia de países que exigem um c",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "FR",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
+      "published_on": "21/11/2026 13:26 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/2e281d9c-e5d0-11f1-9a79-6b451f569414/w:1024/p:16x9/EN-20261121-171141-171326-CS.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "A Europa se prepara para um inverno frio à medida que o vórtice polar se inverte. As bombas de calor podem ajudar a reduzir as contas de energia?",
       "summary": "Um evento incomum de aquecimento estratosférico súbito e precoce inverteu o vórtice polar, deixando os analistas preocupados com o aumento dos preços da energia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://www.euronews.com/2026/11/21/europe-braces-for-cold-winter-as-polar-vortex-flips-can-heat-pumps-help-lower-energy-bills",
       "published_on": "21/11/2026 02:02 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/09/99/96/91/696x392_cmsv2_a13084d7-348c-580b-8d82-48d101f6ca1d-9999691.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Novo rascunho de acordo visa evitar o fracasso das negociações na cúpula climática da COP31",
-      "summary": "A reunião da COP31 da ONU na Turquia entra no segundo dia de prorrogação, enquanto os países lutam para chegar a um acordo.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-      "published_on": "22/11/2026 02:54 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
       "selection": "automatic"
     },
     {
