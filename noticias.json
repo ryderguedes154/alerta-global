@@ -28,6 +28,20 @@
     "summary_pt": "Os apoiadores da primeira-ministra deposta, Sheikh Hasina, que foi condenada à morte à revelia, iniciaram uma insurgência de pequena escala para desestabilizar o governo atual."
   },
   {
+    "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
+    "summary": "Seven alleged cartel gunmen and four soldiers were killed in operation to arrest cartel boss Fausto Isidro Meza Flores.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
+    "date": "2026-11-22T03:34:02Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26325668824696-1795310242.jpg?resize=1920%2C1440",
+    "title_pt": "Onze pessoas mortas em onda de violência durante a captura do líder de um cartel mexicano",
+    "summary_pt": "Sete supostos pistoleiros do cartel e quatro soldados foram mortos em uma operação para prender o chefe do cartel, Fausto Isidro Meza Flores."
+  },
+  {
     "title": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
     "summary": "Police say the boat driver fled and the vessel’s manager was taken into custody.",
     "category": "Geral",
@@ -2412,20 +2426,6 @@
     "forcedSev": "low",
     "title_pt": "Terremoto de magnitude 4.6 — 68 km SSE of Tateyama, Japan",
     "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
-  },
-  {
-    "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
-    "summary": "One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
-    "date": "2026-11-21T17:28:51Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2305467715-1795257935.jpg?resize=1200%2C675",
-    "title_pt": "Liverpool x Manchester United: Premier League – times, previsões, escalações",
-    "summary_pt": "Uma das maiores rivalidades do esporte ganha destaque quando o Liverpool recebe o Man United na zona de rebaixamento da EPL."
   },
   {
     "title": "COP31: Deep divisions persist over energy, finance and science",
@@ -5636,7 +5636,7 @@
   {
     "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5692,7 +5692,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5720,7 +5720,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6028,7 +6028,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
