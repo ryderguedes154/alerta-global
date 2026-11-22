@@ -1402,20 +1402,6 @@
     "summary_pt": "Equipes empataram em 1 a 1 neste sábado (21), no estádio do Palmeiras; resultado foi suficiente para o Flamengo assegurar o título do Brasileirão com antecedência"
   },
   {
-    "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
-    "summary": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
-    "date": "2026-11-21T21:24:10Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Bahrein afirma que ataque iraniano atingiu instalação industrial enquanto as defesas aéreas interceptavam ataques",
-    "summary_pt": "Bahrein afirma que ataque iraniano atingiu instalação industrial enquanto as defesas aéreas interceptaram ataques Reuters"
-  },
-  {
     "title": "'It gives me the ick': Can you cheat on someone with a video game?",
     "summary": "Grand Theft Auto VI lets you build and nurture a romantic relationship but some say dates with a fictional character are a step too far.",
     "category": "Saúde",
@@ -1932,6 +1918,20 @@
     "image": "https://imagenes.elpais.com/resizer/v2/NKKPISGV4JKF7OSTQAUCE53JUA.jpg?auth=df0f6cc8730f990c973785554a583419d2fde041978da1e93cef3cc691a2c5e6",
     "title_pt": "Jair Bolsonaro, internado na UTI e sem previsão de alta",
     "summary_pt": "O ex-presidente brasileiro está estável em um hospital de Brasília devido a uma obstrução abdominal"
+  },
+  {
+    "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
+    "summary": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
+    "date": "2026-11-21T19:15:00Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Bahrein afirma que ataque iraniano atingiu instalação industrial enquanto as defesas aéreas interceptavam ataques",
+    "summary_pt": "Bahrein afirma que ataque iraniano atingiu instalação industrial enquanto as defesas aéreas interceptaram ataques Reuters"
   },
   {
     "title": "NATO will defend every inch of Polish territory, Rutte says",
@@ -5608,7 +5608,7 @@
   {
     "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5692,7 +5692,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5814,20 +5814,6 @@
     "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-denmark-ukraine-rapper-photo-pqwv/20int-denmark-ukraine-rapper-photo-pqwv-mediumSquareAt3X.jpg",
     "title_pt": "Dinamarca expulsa diplomata russo após acusar Moscou de planejar um atentado",
     "summary_pt": "As autoridades dinamarquesas afirmam que as autoridades russas recrutaram membros de uma gangue violenta para tentar assassinar um rapper ucraniano em um show nos arredores de Copenhague."
-  },
-  {
-    "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
-    "summary": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmpQQVdqRTFyNlZSVVFsZG8yNGJ5WWRaOU1ZRXJXQkJJM05GaXY5ZUpQTndMVVljNXNpYUJDUmF1T3hQcWkzNi1udWc4c3pMV3F6RFk1dUctcG5jOFlRcUJDMV9IM2hBdV9KbUJqSmJVa1lXS19LTUVJcUg3alFNWl9RREgwRUVrRU9LSkFoRGZJUWpxLVB1bzlldWE4VDRHRmczZVBMbXFiYlRVSHQ2S293M1JnZUNMSTdZdEVKTVpMXzA?oc=5",
-    "date": "2026-11-20T22:11:47Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Oracle afirma que acordo de infraestrutura OpenAI foi totalmente financiado após aumento de capital final",
-    "summary_pt": "Oracle diz que acordo de infraestrutura OpenAI foi totalmente financiado após aumento de capital final Reuters"
   },
   {
     "title": "11/20: The Takeout with Major Garrett",
@@ -5984,6 +5970,20 @@
     "summary_pt": "Declaração ocorre após viagem à Ásia, onde o presidente americano teve encontros com líderes de pelo menos 20 países e disse ter encaminhado até 10 novos acordos comerciais."
   },
   {
+    "title": "Missouri judge approves Bayer's $7.25 billion Roundup settlement",
+    "summary": "Missouri judge approves Bayer's $7.25 billion Roundup settlement Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ3l1OGtkWDFDWVotN3ZQazJBOWVuVUFqaFBQSWR1WWpUY0s1TnNsMnJlSmlzN3VuSTVnX0FKT1ItRm93RFhPYm9URXBzYnRIZW04NndYNlVQVncxZ3BmcTZ2U21NVVZBZDZwRERERjJ2czFyNHlnU2ZrbjVGa09XMW92dmdLVDB3UmRzbTlHRXprS2wyV0RWeXowVWJOWlAzUGpQbm1MVkg0NHM4UWVlSnM4MnU?oc=5",
+    "date": "2026-11-20T21:13:00Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "Juiz do Missouri aprova acordo de US$ 7,25 bilhões da Bayer sobre o Roundup Reuters",
+    "title_pt": "Juiz do Missouri aprova acordo de US$ 7,25 bilhões da Bayer referente ao Roundup"
+  },
+  {
     "title": "'Cobiçadas' por Trump, Filipinas lideram compra de carne suína do Brasil, mas são 22º destino das exportações do agro",
     "summary": "Filipinas lideram compra de carne suína, mas são 22º destino das exportações do agro O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teria firmado um acordo com as Filipinas para assegurar a preferência de produtos agrícolas norte-americanos no mercado do país asiático. A medida poderia reduzir as compras de produtos brasile",
     "category": "Geral",
@@ -6000,7 +6000,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
