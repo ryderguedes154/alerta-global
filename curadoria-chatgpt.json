@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-22T12:08:07.828Z",
+  "updated_at": "2026-11-22T21:09:44.237Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "União Europeia e Indonésia assinam acordo comercial após dez anos de negociações",
+      "summary": "União Europeia e Indonésia assinaram em 21 de novembro acordos de comércio e proteção de investimentos após dez anos de negociações. O pacto prevê liberalizar até 98,5% das linhas tarifárias e fortalecer cadeias de fornecimento, inclusive de matérias-primas estratégicas. Ainda depende de procedimentos internos e da aprovação do Parlamento Europeu; a aplicação é esperada para 2027.",
+      "impact_br": "Não há efeito direto confirmado no Brasil. O acordo pode aumentar a concorrência para exportadores brasileiros no mercado europeu e influenciar cadeias de minerais e produtos industriais, dependendo de sua implementação.",
+      "category": "Economia e comércio global",
+      "region": "Europa e Sudeste Asiático",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/commodities/eu-indonesia-sign-trade-deal-after-10-years-negotiations-2026-11-21/",
+      "published_on": "2026-11-21",
+      "published_at": "",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-22T21:09:44.237Z"
+    },
     {
       "title": "COP31 fica sem consenso após União Europeia rejeitar proposta final",
       "summary": "Na COP31, em Antalya, a União Europeia e outros países rejeitaram a proposta final de acordo climático. A presidência da conferência informou que não houve consenso para adotar o texto. O impasse envolve combustíveis fósseis, captura de carbono e financiamento climático.",
