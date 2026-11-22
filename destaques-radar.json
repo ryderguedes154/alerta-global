@@ -1,8 +1,8 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T15:31:55.939785Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T15:37:15.040576Z",
+  "status": "checado",
   "items": [
     {
       "title": "O presidente da Centrica diz estar \"extremamente preocupado\" com o impacto do aumento das contas de energia",
@@ -83,19 +83,6 @@
       "selection": "automatic"
     },
     {
-      "title": "As negociações climáticas da ONU fracassam em um confronto acirrado sobre combustíveis fósseis",
-      "summary": "Nações europeias e vulneráveis rejeitaram uma proposta de acordo depois que a Arábia Saudita e outros produtores de petróleo bloquearam qualquer menção à eliminação gradual do carvão, do petróleo e do gás.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-      "published_on": "22/11/2026 10:59 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop-final2-bpvk/22cli-cop-final2-bpvk-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Trump e Xi tentam reaproximação, mas ações sobre tecnologia ainda os divide",
       "summary": "Cúpula entre EUA e China ocorre enquanto Washington anuncia novas restrições a chips e surgem alegações de espionagem envolvendo a Nvidia",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://www.cnnbrasil.com.br/economia/trump-e-xi-tentam-reaproximacao-mas-acoes-sobre-tecnologia-ainda-os-divide/",
       "published_on": "22/11/2026 10:45 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/pexels-brett-sayles-4508751-1.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
+      "title": "O serviço ferroviário que liga Barajas T4 ao seu satélite foi restaurado",
+      "summary": "Avaria no transporte automático entre terminais provocou grandes filas ao longo da manhã",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "ES",
+      "source": "El País",
+      "url": "https://elpais.com/espana/madrid/2026-11-22/largas-colas-en-la-t4-de-barajas-por-una-averia-del-tren-que-la-comunica-con-su-satelite.html",
+      "published_on": "22/11/2026 08:58 (Boa Vista)",
+      "image": "https://imagenes.elpais.com/resizer/v2/YHF4H5LIZZBKBKRSAD5ZNMKVMY.jpg?auth=7ae0361f95e5a13a6c9824d850e3eddf5caa21d043f3bd0d3ab24389739348e7",
       "selection": "automatic"
     }
   ]
