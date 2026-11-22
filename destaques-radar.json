@@ -1,7 +1,7 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T22:45:17.846257Z",
+  "checked_at": "2026-11-22T22:50:32.379539Z",
   "status": "checado",
   "items": [
     {
@@ -31,14 +31,14 @@
       "selection": "automatic"
     },
     {
-      "title": "A guerra na Ucrânia se alastra para o território da OTAN",
-      "summary": "A guerra entre a Rússia e a Ucrânia mais uma vez se aproxima do território europeu – de ataques a navios a mísseis na Polônia e novas alegações de operações russas dentro da Dinamarca.",
+      "title": "A guerra na Ucrânia se espalha para o território da OTAN",
+      "summary": "A guerra entre a Rússia e a Ucrânia mais uma vez se alastra pelo território europeu – de ataques a navios a mísseis na Polônia e novas alegações de operações russas dentro da Dinamarca.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "US",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-creeping-inside-nato-territory",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
       "published_on": "22/11/2026 18:40 (Boa Vista)",
       "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6050236",
       "selection": "automatic"
