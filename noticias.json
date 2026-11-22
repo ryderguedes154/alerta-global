@@ -1,5 +1,19 @@
 [
   {
+    "title": "El Niño: fortes chuvas causam inundações e afetam mais de 7 mil em Galápagos",
+    "summary": "Vista aérea das inundações no bairro de La Cascada, em Puerto Ayora, na ilha de Santa Cruz, no arquipélago de Galápagos, Equador, em 21 de novembro de 2026, após fortes chuvas. Carlos Espinosa / AFP Em botes, a nado ou com água na altura da cintura, moradores das ilhas Galápagos tentam salvar o que podem em meio às chuvas torrenciais e inundações provocadas ",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "G1 Mundo",
+    "url": "https://g1.globo.com/mundo/noticia/2026/11/22/el-nino-galapagos-chuvas.ghtml",
+    "date": "2026-11-22T13:34:11Z",
+    "lang": "pt",
+    "image": "https://s2-g1.glbimg.com/J2wHv_U4j7Xa0DUtJw9SCGYD39Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/F/VUQTCBSrCY4PMmElN5nA/afp-20261121-d89h3qq-v1-midres-ecuadorweatherfloodelnino.jpg",
+    "title_pt": "El Niño: fortes chuvas causam inundações e afetam mais de 7 mil em Galápagos",
+    "summary_pt": "Vista aérea das inundações no bairro de La Cascada, em Puerto Ayora, na ilha de Santa Cruz, no arquipélago de Galápagos, Equador, em 21 de novembro de 2026, após fortes chuvas. Carlos Espinosa / AFP Em botes, a nado ou com água na altura da cintura, moradores das ilhas Galápagos tentam salvar o que podem em meio às chuvas torrenciais e inundações provocadas "
+  },
+  {
     "title": "GP de Portugal en directo, la carrera de MotoGP en vivo",
     "summary": "Marc Márquez puede sentenciar hoy el campeonato y lograr su octavo título de la categoría reina si acaba entre los nueve primeros",
     "category": "Geral",
@@ -7,11 +21,25 @@
     "country": "ES",
     "source": "El País",
     "url": "https://elpais.com/deportes/motociclismo/2026-11-22/gp-de-portugal-en-directo-la-carrera-de-motogp-en-vivo.html",
-    "date": "2026-11-22T13:31:06Z",
+    "date": "2026-11-22T13:33:25Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/THZ6WPC7TRIUHHS6SDCBOWXLUA.jpg?auth=f072d5ee7e82780caf47f0db359cf92e42a8220f43c859954d6403d8d7e66e10",
     "title_pt": "GP de Portugal ao vivo, a corrida da MotoGP ao vivo",
     "summary_pt": "Marc Márquez pode decidir o campeonato hoje e conquistar seu oitavo título na categoria principal se terminar entre os nove primeiros colocados."
+  },
+  {
+    "title": "Barcelona - Villarreal en directo | Lamine falla un penalti",
+    "summary": "Buchanan y Oluwaseyi dieron una buena ventaja al Villarreal a los siete minutos de partido",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/futbol/2026-11-22/barcelona-villarreal-en-directo-el-partido-de-la-liga-en-vivo.html",
+    "date": "2026-11-22T13:31:51Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/6J2ZXO3ZZFNYDH3Q54RWJRLPWM.jpg?auth=5e51600bf1771a182e3c47bd9fb0e86fd8406fa5cc2dcc894a79403f0f43a25c",
+    "title_pt": "Barcelona - Villarreal ao vivo | Lamine perde pênalti",
+    "summary_pt": "Buchanan e Oluwaseyi deram ao Villarreal uma boa vantagem aos sete minutos de jogo"
   },
   {
     "title": "U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels",
@@ -26,20 +54,6 @@
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop-final2-bpvk/22cli-cop-final2-bpvk-mediumSquareAt3X.jpg",
     "title_pt": "As negociações climáticas da ONU fracassam em um confronto acirrado sobre combustíveis fósseis",
     "summary_pt": "Nações europeias e vulneráveis rejeitaram uma proposta de acordo depois que a Arábia Saudita e outros produtores de petróleo bloquearam qualquer menção à eliminação gradual do carvão, do petróleo e do gás."
-  },
-  {
-    "title": "Barcelona - Villarreal en directo | Lamine falla un penalti",
-    "summary": "Buchanan y Oluwaseyi dieron una buena ventaja al Villarreal a los siete minutos de partido",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/deportes/futbol/2026-11-22/barcelona-villarreal-en-directo-el-partido-de-la-liga-en-vivo.html",
-    "date": "2026-11-22T13:28:20Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/6J2ZXO3ZZFNYDH3Q54RWJRLPWM.jpg?auth=5e51600bf1771a182e3c47bd9fb0e86fd8406fa5cc2dcc894a79403f0f43a25c",
-    "title_pt": "Barcelona - Villarreal ao vivo | Lamine perde pênalti",
-    "summary_pt": "Buchanan e Oluwaseyi deram ao Villarreal uma boa vantagem aos sete minutos de jogo"
   },
   {
     "title": "NFL’s Jaylen Harrell reportedly assaulted driver before crash that left player seriously injured",
@@ -6237,7 +6251,7 @@
   {
     "title": "Can AI really help spot Black Friday deals? We put it to the test",
     "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6433,7 +6447,7 @@
   {
     "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6489,7 +6503,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6517,7 +6531,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6755,7 +6769,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -7003,19 +7017,5 @@
     "image": "https://s2-g1.glbimg.com/NTqCqrB24xoqzbvYixZDqU-QXnM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/M/o/kUotb8R7OiknBMr2533Q/sq-lethal-injection-room.jpg",
     "title_pt": "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
     "summary_pt": "Reinaldo Dennes (de camisa branca), de 70 anos, foi condenado à morte pelo assassinato de um vendedor de diamantes em 1996 Houston Chronicle via Getty Images Um homem condenado à morte gritou, aparentemente de dor, durante sua execução, que durou uma hora, no estado do Texas, nos Estados Unidos. \"Não está funcionando como deveria\", exclamou Reinaldo Dennes, "
-  },
-  {
-    "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-    "summary": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-20T18:48:48Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b70/live/4733dfb0-e512-11f1-99b6-a35a62fa4264.jpg",
-    "title_pt": "Miami ou Vice City? Conheça a inspiração do mundo real para o GTA 6",
-    "summary_pt": "Rafael Rojas, da BBC News Mundo, visita os locais reais de Miami que inspiraram Vice City, o cenário fictício do GTA 6."
   }
 ]
