@@ -1,7 +1,7 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T15:00:59.479053Z",
+  "checked_at": "2026-11-22T15:06:14.216764Z",
   "status": "checado",
   "items": [
     {
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Zelenskyy pede aos EUA que liberem mísseis Patriot enquanto a Rússia mata 3 pessoas na Ucrânia",
+      "summary": "Um ataque de drones russos mata pelo menos duas pessoas perto de Kiev, enquanto o bombardeio russo mata uma pessoa em Zaporíjia.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+      "published_on": "22/11/2026 10:48 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b02f84230fd-1795356738.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
+    {
       "title": "Irã revela lançador de mísseis duplos, nova ‘cidade de mísseis’: o que saber",
       "summary": "Oficiais militares visitam instalações subterrâneas para demonstrar capacidades militares, apesar dos ataques dos EUA.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,19 +54,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
       "published_on": "22/11/2026 10:20 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/missileScreenshot-2026-11-22-170446-1795357014.jpg?resize=1200%2C675",
-      "selection": "automatic"
-    },
-    {
-      "title": "O Congresso dos EUA ajudou a encerrar a Guerra do Vietnã. Ele pode impedir a guerra com o Irã?",
-      "summary": "O Congresso proibiu o financiamento da Guerra do Vietnã, contribuindo para a queda do governo sul-vietnamita em Saigon.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
-      "published_on": "22/11/2026 08:31 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a2215a2cfe4c-1780618658.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
@@ -91,7 +91,7 @@
       "country": "US",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-      "published_on": "22/11/2026 10:58 (Boa Vista)",
+      "published_on": "22/11/2026 10:59 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop-final2-bpvk/22cli-cop-final2-bpvk-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
