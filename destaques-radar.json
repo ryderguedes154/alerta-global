@@ -1,8 +1,8 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T20:15:46.059110Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T20:20:55.245662Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataque russo perto da capital da Ucrânia atinge prédio residencial, matando 3 pessoas e deixando outras soterradas",
@@ -83,6 +83,19 @@
       "selection": "automatic"
     },
     {
+      "title": "A Defesa cai na Bolsa e caminha para seu primeiro ano no vermelho desde a pandemia",
+      "summary": "Os lucros dos gigantes do setor desaceleraram devido à sobrecarga de demanda causada pela corrida armamentista e pela paralisação de projetos. Expectativas exageradas fizeram disparar as cotações",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Saúde",
+      "region": "Global",
+      "country": "ES",
+      "source": "El País",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-22/la-defensa-pincha-en-bolsa-y-se-encamina-a-su-primer-ano-en-rojo-desde-la-pandemia.html",
+      "published_on": "22/11/2026 00:30 (Boa Vista)",
+      "image": "https://imagenes.elpais.com/resizer/v2/6SB5JLL3JJCL7ERNHSAQJGHH7Q.jpg?auth=248f9de1c9dcb391f4da3a538985c5d25596f645accf7c18799999b92f4175df",
+      "selection": "automatic"
+    },
+    {
       "title": "Ataques iranianos no Estreito de Ormuz atingem maior nível da guerra",
       "summary": "Desde o início do conflito, o estreito se tornou uma área de intensa disputa, com ataques que interromperam o transporte marítimo de petróleo e gás e provocaram consequências econômicas em todo o mundo",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/ataques-iranianos-no-estreito-de-ormuz-atingem-maior-nivel-da-guerra/",
       "published_on": "22/11/2026 13:48 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Navios-de-carga-no-Golfo-perto-do-Estreito-de-Ormuz.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "EUA buscam respostas sobre vendas de chips da Nvidia a China, diz Bessent",
-      "summary": "Segundo secretário do Tesouro, que a empresa agir rapidamente para resolver essa questão",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/eua-buscam-respostas-sobre-vendas-de-chips-da-nvidia-a-china-diz-bessent/",
-      "published_on": "22/11/2026 13:12 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTechnologyNews/tagreuters.com2026binary_LYNXNPEMAJ1RB-BASEIMAGE-e1795207022532.jpg?w=200",
       "selection": "automatic"
     }
   ]
