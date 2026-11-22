@@ -1,5 +1,33 @@
 [
   {
+    "title": "GP de Portugal en directo, la carrera de MotoGP en vivo",
+    "summary": "Marc Márquez puede sentenciar hoy el campeonato y lograr su octavo título de la categoría reina si acaba entre los nueve primeros",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/motociclismo/2026-11-22/gp-de-portugal-en-directo-la-carrera-de-motogp-en-vivo.html",
+    "date": "2026-11-22T13:43:05Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/THZ6WPC7TRIUHHS6SDCBOWXLUA.jpg?auth=f072d5ee7e82780caf47f0db359cf92e42a8220f43c859954d6403d8d7e66e10",
+    "title_pt": "GP de Portugal ao vivo, a corrida da MotoGP ao vivo",
+    "summary_pt": "Marc Márquez pode decidir o campeonato hoje e conquistar seu oitavo título na categoria principal se terminar entre os nove primeiros colocados."
+  },
+  {
+    "title": "Barcelona - Villarreal en directo | Lamine falla un penalti",
+    "summary": "Buchanan y Oluwaseyi dieron una buena ventaja al Villarreal a los siete minutos de partido",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/futbol/2026-11-22/barcelona-villarreal-en-directo-el-partido-de-la-liga-en-vivo.html",
+    "date": "2026-11-22T13:43:03Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/JL3EBBH7CBPB3IAAA7MCE5523Q.jpg?auth=d1e79df46bde37f13a9bc11b531923ad5969a169dbb894a20b813e725ca1eef0",
+    "title_pt": "Barcelona - Villarreal ao vivo | Lamine perde pênalti",
+    "summary_pt": "Buchanan e Oluwaseyi deram ao Villarreal uma boa vantagem aos sete minutos de jogo"
+  },
+  {
     "title": "U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels",
     "summary": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
     "category": "Clima e desastres",
@@ -12,20 +40,6 @@
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop-final2-bpvk/22cli-cop-final2-bpvk-mediumSquareAt3X.jpg",
     "title_pt": "As negociações climáticas da ONU fracassam em um confronto acirrado sobre combustíveis fósseis",
     "summary_pt": "Nações europeias e vulneráveis rejeitaram uma proposta de acordo depois que a Arábia Saudita e outros produtores de petróleo bloquearam qualquer menção à eliminação gradual do carvão, do petróleo e do gás."
-  },
-  {
-    "title": "GP de Portugal en directo, la carrera de MotoGP en vivo",
-    "summary": "Marc Márquez puede sentenciar hoy el campeonato y lograr su octavo título de la categoría reina si acaba entre los nueve primeros",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/deportes/motociclismo/2026-11-22/gp-de-portugal-en-directo-la-carrera-de-motogp-en-vivo.html",
-    "date": "2026-11-22T13:39:07Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/THZ6WPC7TRIUHHS6SDCBOWXLUA.jpg?auth=f072d5ee7e82780caf47f0db359cf92e42a8220f43c859954d6403d8d7e66e10",
-    "title_pt": "GP de Portugal ao vivo, a corrida da MotoGP ao vivo",
-    "summary_pt": "Marc Márquez pode decidir o campeonato hoje e conquistar seu oitavo título na categoria principal se terminar entre os nove primeiros colocados."
   },
   {
     "title": "Campaña electoral 29N y actualidad política, en directo | Sánchez ondea la bandera de Murcia, donde fue declarado persona non grata por el Parlamento regional con los votos de PP y Vox",
@@ -56,18 +70,32 @@
     "summary_pt": "A conferência superou a COP25, realizada em Madri em 2019, que até então detinha o recorde de duração"
   },
   {
-    "title": "Barcelona - Villarreal en directo | Lamine falla un penalti",
-    "summary": "Buchanan y Oluwaseyi dieron una buena ventaja al Villarreal a los siete minutos de partido",
+    "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
+    "summary": "UN patron Lewis Pugh saw ships ablaze and fighter jets overhead during three-day swim as Iran conflict continues A British endurance swimmer has completed a three-day swim through the strait of Hormuz to highlight the environmental cost of the Iran war. Lewis Pugh, a UN patron of the oceans, swam the 9.3-mile (15km) length of the waterway, which is a key rou",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
+    "date": "2026-11-22T13:36:01Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/e6a395e17ba14aa21ecea678066783a153abb5d1/316_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9009038af9468e70901df9a7d3ac75a8",
+    "title_pt": "Britânico nada pelo estreito de Ormuz para destacar o custo ambiental da guerra",
+    "summary_pt": "O patrono da ONU, Lewis Pugh, viu navios em chamas e aviões de combate sobrevoando durante três dias de natação enquanto o conflito no Irã continua Um nadador de resistência britânico completou uma natação de três dias pelo estreito de Ormuz para destacar o custo ambiental da guerra no Irã. Lewis Pugh, patrono dos oceanos da ONU, nadou os 15 km de extensão da hidrovia, que é uma rota fundamental."
+  },
+  {
+    "title": "El Niño: fortes chuvas causam inundações e afetam mais de 7 mil em Galápagos",
+    "summary": "Vista aérea das inundações no bairro de La Cascada, em Puerto Ayora, na ilha de Santa Cruz, no arquipélago de Galápagos, Equador, em 21 de novembro de 2026, após fortes chuvas. Carlos Espinosa / AFP Em botes, a nado ou com água na altura da cintura, moradores das ilhas Galápagos tentam salvar o que podem em meio às chuvas torrenciais e inundações provocadas ",
     "category": "Geral",
     "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/deportes/futbol/2026-11-22/barcelona-villarreal-en-directo-el-partido-de-la-liga-en-vivo.html",
-    "date": "2026-11-22T13:36:02Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/JL3EBBH7CBPB3IAAA7MCE5523Q.jpg?auth=d1e79df46bde37f13a9bc11b531923ad5969a169dbb894a20b813e725ca1eef0",
-    "title_pt": "Barcelona - Villarreal ao vivo | Lamine perde pênalti",
-    "summary_pt": "Buchanan e Oluwaseyi deram ao Villarreal uma boa vantagem aos sete minutos de jogo"
+    "country": "BR",
+    "source": "G1 Mundo",
+    "url": "https://g1.globo.com/mundo/noticia/2026/11/22/el-nino-galapagos-chuvas.ghtml",
+    "date": "2026-11-22T13:34:11Z",
+    "lang": "pt",
+    "image": "https://s2-g1.glbimg.com/J2wHv_U4j7Xa0DUtJw9SCGYD39Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/F/VUQTCBSrCY4PMmElN5nA/afp-20261121-d89h3qq-v1-midres-ecuadorweatherfloodelnino.jpg",
+    "title_pt": "El Niño: fortes chuvas causam inundações e afetam mais de 7 mil em Galápagos",
+    "summary_pt": "Vista aérea das inundações no bairro de La Cascada, em Puerto Ayora, na ilha de Santa Cruz, no arquipélago de Galápagos, Equador, em 21 de novembro de 2026, após fortes chuvas. Carlos Espinosa / AFP Em botes, a nado ou com água na altura da cintura, moradores das ilhas Galápagos tentam salvar o que podem em meio às chuvas torrenciais e inundações provocadas "
   },
   {
     "title": "Verstappen provoca Russell após acidente na F1: “Está abaixo do meu nível”",
@@ -96,6 +124,34 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/pexels-brett-sayles-4508751-1.jpg?w=200",
     "title_pt": "Bolsas chinesas flexibilizam regras para impulsionar mercado de ações",
     "summary_pt": ""
+  },
+  {
+    "title": "Live: Liverpool vs Manchester United – Premier League",
+    "summary": "Previews, teams and live text commentary stream as Manchester United visit Anfield to face Liverpool in Premier League.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/sports/liveblog/2026/11/22/live-liverpool-vs-manchester-united-premier-league-3?traffic_source=rss",
+    "date": "2026-11-22T13:30:00Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2305467715-1795257935.jpg?resize=1200%2C675",
+    "title_pt": "Ao vivo: Liverpool x Manchester United – Premier League",
+    "summary_pt": "Prévias, times e comentários de texto ao vivo enquanto o Manchester United visita Anfield para enfrentar o Liverpool na Premier League."
+  },
+  {
+    "title": "Major fire erupts at a fuel station in Lagos",
+    "summary": "Major fire erupts at a fuel station in Lagos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss",
+    "date": "2026-11-22T13:26:19Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795353963.jpg?resize=1920%2C1080&quality=80",
+    "title_pt": "Grande incêndio deflagra num posto de combustível em Lagos",
+    "summary_pt": "Grande incêndio deflagra num posto de combustível em Lagos"
   },
   {
     "title": "NFL’s Jaylen Harrell reportedly assaulted driver before crash that left player seriously injured",
@@ -266,8 +322,8 @@
     "summary_pt": "Reconhecimento avalia critérios ambientais, sociais e de eficiência nas construções; a MRV participa voluntariamente do programa, que prevê níveis de classificação conforme os requisitos atendidos."
   },
   {
-    "title": "Largas colas en la T4 de Barajas por una avería del tren que la comunica con su satélite",
-    "summary": "El aeropuerto está canalizando los pasajeros con autobuses, pero Aena recomienda acudir con antelación",
+    "title": "Restablecido el servicio del tren que comunica la T4 de Barajas con su satélite",
+    "summary": "Una avería en el transporte automático entre terminales ha provocado grandes colas a lo largo de la mañana",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
@@ -276,8 +332,8 @@
     "date": "2026-11-22T12:58:28Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/YHF4H5LIZZBKBKRSAD5ZNMKVMY.jpg?auth=7ae0361f95e5a13a6c9824d850e3eddf5caa21d043f3bd0d3ab24389739348e7",
-    "title_pt": "Longas filas no Terminal 4 de Barajas devido a uma avaria no trem que o conecta ao seu satélite",
-    "summary_pt": "O aeroporto está encaminhando os passageiros em ônibus, mas a Aena recomenda chegar com antecedência."
+    "title_pt": "O serviço ferroviário que liga Barajas T4 ao seu satélite foi restaurado",
+    "summary_pt": "Avaria no transporte automático entre terminais provocou grandes filas ao longo da manhã"
   },
   {
     "title": "Mosquito com bactéria reduziu em 68% infecções por dengue em Belo Horizonte",
@@ -306,6 +362,20 @@
     "image": "",
     "title_pt": "Proprietários de restaurantes de Kyiv se preparam para um inverno rigoroso à medida que aumentam as pressões da guerra",
     "summary_pt": "Proprietários de restaurantes de Kiev se preparam para um inverno rigoroso enquanto as pressões da guerra aumentam Reuters"
+  },
+  {
+    "title": "Cop31 climate talks break down as key deal rejected",
+    "summary": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ after two weeks of fierce negotiations • Cop31 live blog: longest climate summit ever faces collapse The EU, the UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate, which failed even to mention fossil fuels, ",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+    "date": "2026-11-22T12:54:41Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/2e9444383cb19d7aedfac136aec519fef28f1ce2/526_182_3885_3108/master/3885.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc7d1a78c25758bf45bd26177aa347f4",
+    "title_pt": "As negociações climáticas da Cop31 fracassam quando o acordo principal é rejeitado",
+    "summary_pt": "UE, Reino Unido e alguns países em desenvolvimento opõem-se ao texto principal que “não conseguiu cumprir o momento” após duas semanas de negociações ferozes • Blogue ao vivo Cop31: a mais longa cimeira climática de sempre enfrenta o colapso A UE, o Reino Unido e os aliados no mundo em desenvolvimento rejeitaram o que chamaram de um acordo inaceitável sobre o futuro do clima, que nem sequer mencionou os combustíveis fósseis,"
   },
   {
     "title": "Russian cargo ship still on fire off Finland after attack",
@@ -2079,20 +2149,6 @@
     "summary_pt": "Equipes se enfrentam neste domingo (22), no estádio Cícero de Souza Marques, em Bragança Paulista, em duelo válido pela 36ª rodada do Campeonato Brasileiro"
   },
   {
-    "title": "The European revolt may be coming to the UK",
-    "summary": "There is enough justified anger among the British youth to spark a wave of mass protests.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
-    "date": "2026-11-22T06:59:59Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-20T171218Z_1260501633_RC2SROAB0I43_RTRMADP_3_EUROPE-PROTEST-BRITAIN-1795330611.jpg?resize=1920%2C1440",
-    "title_pt": "A revolta europeia pode estar chegando ao Reino Unido",
-    "summary_pt": "Há raiva justificada suficiente entre os jovens britânicos para desencadear uma onda de protestos em massa."
-  },
-  {
     "title": "Why Somalia’s president turned against his former ally, the UAE",
     "summary": "Behind Somalia's break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.",
     "category": "Geral",
@@ -2105,6 +2161,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260302__98RP2DH__v1__HighRes__SomaliaSomalilandIsraelDiplomacyEconomyPort-1795261711.jpg?resize=1920%2C1440",
     "title_pt": "Por que o presidente da Somália se voltou contra seu ex-aliado, os Emirados Árabes Unidos",
     "summary_pt": "Por trás do rompimento da Somália com os Emirados Árabes Unidos está uma disputa interna pelo poder com líderes regionais próximos a Abu Dhabi."
+  },
+  {
+    "title": "The European revolt may be coming to the UK",
+    "summary": "There is enough justified anger among the British youth to spark a wave of mass protests.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
+    "date": "2026-11-22T06:59:59Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-20T171218Z_1260501633_RC2SROAB0I43_RTRMADP_3_EUROPE-PROTEST-BRITAIN-1795330611.jpg?resize=1920%2C1440",
+    "title_pt": "A revolta europeia pode estar chegando ao Reino Unido",
+    "summary_pt": "Há raiva justificada suficiente entre os jovens britânicos para desencadear uma onda de protestos em massa."
   },
   {
     "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
@@ -2375,20 +2445,6 @@
     "summary_pt": "Nos últimos quatro anos, holândes levou a melhor no percurso em três corridas; Norris e Piastri fecharam pódio, enquanto Russell bateu nas barreiras a três voltas do fim"
   },
   {
-    "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
-    "summary": "Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
-    "date": "2026-11-22T05:38:52Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2012/12/201212151725297734_20.jpeg?resize=1200%2C675",
-    "title_pt": "O projeto de lei de medição de uso da Internet do Quênia levanta preocupações sobre privacidade e acessibilidade de preços",
-    "summary_pt": "A lei de medição de uso da Internet proposta pelo Quênia gerou preocupações sobre privacidade, vigilância e aumento dos custos de conectividade."
-  },
-  {
     "title": "En Colombie, dix ans après la signature de l’accord historique, le bilan amer de la paix avec les FARC",
     "summary": "Signé en 2016, le texte dessinait un projet ambitieux de transformation du pays, mêlant mesures de réparation aux victimes, redistribution des terres et retour des guérilleros à la vie civile. Aujourd’hui, en plus de résultats décevants, la mise en œuvre de celui-ci pourrait pâtir des décisions du nouveau gouvernement d’extrême droite dans un contexte de rec",
     "category": "Geral",
@@ -2429,20 +2485,6 @@
     "image": "https://img.lemde.fr/2026/11/17/0/0/3000/2000/1440/960/60/0/8af4661_upload-1-ousor0nbq8ov-20260320-maney-citizen-kids-020.JPG",
     "title_pt": "Nos Estados Unidos, os depoimentos de detentos americanos do ICE",
     "summary_pt": "Desde 2025, a ProPublica, organização americana especializada em jornalismo investigativo de interesse público, identificou mais de 500 cidadãos americanos detidos contra sua vontade por agentes de imigração. Aqui estão algumas das suas histórias."
-  },
-  {
-    "title": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
-    "summary": "Sudan's displacement crisis could worsen with winter approaching.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
-    "date": "2026-11-22T05:21:46Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/20261116_120617-1795265314.jpg?resize=1920%2C1440",
-    "title_pt": "Famílias deslocadas de Darfur enfrentam inverno volátil enquanto cortes na ajuda ao Sudão afetam",
-    "summary_pt": "A crise dos deslocamentos no Sudão poderá piorar com a aproximação do inverno."
   },
   {
     "title": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
@@ -4029,20 +4071,6 @@
     "summary_pt": "A prisão de Fausto Isidro Meza Flores, conhecido como El Chapo Isidro e um dos 10 mais procurados do FBI, foi uma vitória para o governo mexicano."
   },
   {
-    "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
-    "summary": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
-    "date": "2026-11-21T21:01:49Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Navio de carga russo em chamas no Mar Báltico após ataque de drone, tripulação evacua",
-    "summary_pt": "Navio de carga russo em chamas no Mar Báltico após ataque de drone, tripulação evacua Reuters"
-  },
-  {
     "title": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
     "summary": "Israeli opposition leader Gadi Eisenkot has invited caretaker prime minister Benjamin Netanyahu's right-wing Likud party for coalition talks, his centrist Yashar party said Saturday. The \"marathon series of talks\" starts Sunday, the party said, adding that the move reflected a commitment to form \"the broadest possible government\" after the October election f",
     "category": "Geral",
@@ -4232,7 +4260,7 @@
     "country": "GLOBAL",
     "source": "Reuters",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUtfVnQwVjJrRWVQaTc4UzFEUjdQMmQtS1JOaTNsUmtjNE9FcEN4MFRCa3VXSi16X2thbk16VFNOTElxUkExdDBiVmFsSFNyS1FTMFhhZ3RoM1hVM3ZhY011aHR5a1F3YTRZNkxsR0ViQTFxOF9MRzhtbVA2TUs3azBBRlBCcENPVWtMZUtsdGJ6dFRWSVVhenZNSHd5M2VmWDJ4MDdGQXNDR0tpcWRwQ2lTb2g?oc=5",
-    "date": "2026-11-21T19:52:09Z",
+    "date": "2026-11-21T19:51:00Z",
     "lang": "en",
     "image": "",
     "title_pt": "Croatas manifestam-se em Zagreb exigindo justiça pela morte em hospital psiquiátrico",
@@ -4917,20 +4945,6 @@
     "summary_pt": "O presidente Trump, o chinês Xi Jinping e o russo Vladimir Putin parecem ter feito pouco progresso em sua reunião trilateral em Shenzhen, na China."
   },
   {
-    "title": "British man recalls ‘despair’ over son’s death after fall from Cyprus window",
-    "summary": "Joshua Foster tells of moment he ‘lost control’ of two-year-old when he fell from fourth storey of hotel A British father who was fined by the courts after his two-year-old son fell from a fourth-floor window during a family holiday in Cyprus has recalled his “despair” when the boy slipped from his grasp. Joshua Foster was handed a €3,000 (£2,500) penalty af",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
-    "date": "2026-11-21T15:19:03Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/448b8cda06ae22c1900e5ff11f009b62f3b449f9/231_146_2907_2326/master/2907.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d7eaa810d0aa8ea5240b061d20a06f8e",
-    "title_pt": "Homem britânico relembra o \"desespero\" pela morte do filho após queda de uma janela no Chipre",
-    "summary_pt": "Joshua Foster conta o momento em que \"perdeu o controle\" do filho de dois anos quando ele caiu do quarto andar de um hotel. Um pai britânico que foi multado pelos tribunais depois que seu filho de dois anos caiu de uma janela do quarto andar durante férias em família no Chipre relembrou seu \"desespero\" quando o menino escorregou de suas mãos. Joshua Foster recebeu uma multa de € 3.000 (£ 2.500)"
-  },
-  {
     "title": "Independent review ordered into surgery carried out by NHS Grampian",
     "summary": "It follows a whistleblower's leaking of a document which shows there were 19 avoidable deaths at the health board.",
     "category": "Saúde",
@@ -5045,20 +5059,6 @@
     "summary_pt": "O ex-presidente brasileiro foi levado ao hospital com dores abdominais, acompanhado pela Polícia Militar."
   },
   {
-    "title": "PODCAST: Wall Street plunges, climate talks run over, and Republicans position for 2028",
-    "summary": "PODCAST: Wall Street plunges, climate talks run over, and Republicans position for 2028 Reuters",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTB2Umxadk1oSHFUQVEwemljX2I5NHRjWFlPM3dsMG5lcG5MR2RRclBjWXR3WE5zLXg3RVh5d2NiWGhMREUtd0ZWNEZEX1ZGVV9rcmN5Qkc2QmZfZUVPdVFsRm4tY01qOEdNOWtQdEtWMll5MmJMU1p6V0MwWkx4M005d1dHS01XaU14d1lYRzBNVUtZVHVMMUJSanFDbjA1eC1zNERFdjY0WW5uT2EzRDlYbw?oc=5",
-    "date": "2026-11-21T14:29:16Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "PODCAST: Wall Street despenca, negociações climáticas atropelam e posição dos republicanos para 2028",
-    "summary_pt": "PODCAST: Wall Street despenca, negociações climáticas atropeladas e posição dos republicanos para 2028 Reuters"
-  },
-  {
     "title": "Democrats won big in the midterms. So now what?",
     "summary": "Democrats won big in the midterms. So now what? Reuters",
     "category": "Geral",
@@ -5169,6 +5169,20 @@
     "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-uk-princess-cancer-kwfq/21int-uk-princess-cancer-kwfq-mediumSquareAt3X.jpg",
     "title_pt": "Catherine, Princesa de Gales, documenta sua vida com câncer em filme da BBC",
     "summary_pt": "\"O câncer realmente muda você\", diz Catherine, que está em remissão, em um trailer do filme. O filme será lançado este mês."
+  },
+  {
+    "title": "PODCAST: Wall Street plunges, climate talks run over, and Republicans position for 2028",
+    "summary": "PODCAST: Wall Street plunges, climate talks run over, and Republicans position for 2028 Reuters",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTB2Umxadk1oSHFUQVEwemljX2I5NHRjWFlPM3dsMG5lcG5MR2RRclBjWXR3WE5zLXg3RVh5d2NiWGhMREUtd0ZWNEZEX1ZGVV9rcmN5Qkc2QmZfZUVPdVFsRm4tY01qOEdNOWtQdEtWMll5MmJMU1p6V0MwWkx4M005d1dHS01XaU14d1lYRzBNVUtZVHVMMUJSanFDbjA1eC1zNERFdjY0WW5uT2EzRDlYbw?oc=5",
+    "date": "2026-11-21T14:06:00Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "PODCAST: Wall Street despenca, negociações climáticas atropelam e posição dos republicanos para 2028",
+    "summary_pt": "PODCAST: Wall Street despenca, negociações climáticas atropeladas e posição dos republicanos para 2028 Reuters"
   },
   {
     "title": "Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken",
@@ -5435,6 +5449,20 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/641f/live/fedb2590-e41f-11f1-9e08-55a8a3b48445.jpg",
     "title_pt": "As sessões oferecem conselhos sobre o aumento dos custos de energia",
     "summary_pt": "Um conselho está pedindo às pessoas que busquem apoio para lidar com o aumento dos custos de energia no aquecimento neste inverno."
+  },
+  {
+    "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
+    "summary": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
+    "date": "2026-11-21T11:50:00Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Navio de carga russo em chamas no Mar Báltico após ataque de drone, tripulação evacua",
+    "summary_pt": "Navio de carga russo em chamas no Mar Báltico após ataque de drone, tripulação evacua Reuters"
   },
   {
     "title": "Russia grasps US offer on European security to revive old demands",
@@ -6433,7 +6461,7 @@
   {
     "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6517,7 +6545,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6755,7 +6783,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6989,33 +7017,5 @@
     "image": "https://images.euronews.com/articles/stories/10/00/20/96/696x392_cmsv2_3a56aa46-3dab-5407-b76c-355314e65330-10002096.jpg",
     "title_pt": "Trump defende seus laços com Putin e acusa o Irã de desonestidade nas negociações",
     "summary_pt": "Falando na Casa Branca após sua viagem à Ásia, Trump defendeu seus laços com Xi e Putin, afirmando que o líder russo queria acabar com a guerra na Ucrânia por meio da diplomacia. Ele também pediu um \"acordo de verdade\" com o Irã."
-  },
-  {
-    "title": "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
-    "summary": "Reinaldo Dennes (de camisa branca), de 70 anos, foi condenado à morte pelo assassinato de um vendedor de diamantes em 1996 Houston Chronicle via Getty Images Um homem condenado à morte gritou, aparentemente de dor, durante sua execução, que durou uma hora, no estado do Texas, nos Estados Unidos. \"Não está funcionando como deveria\", exclamou Reinaldo Dennes, ",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "G1 Mundo",
-    "url": "https://g1.globo.com/mundo/noticia/2026/11/20/execucao-texas-estados-unidos.ghtml",
-    "date": "2026-11-20T18:51:19Z",
-    "lang": "pt",
-    "image": "https://s2-g1.glbimg.com/NTqCqrB24xoqzbvYixZDqU-QXnM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/M/o/kUotb8R7OiknBMr2533Q/sq-lethal-injection-room.jpg",
-    "title_pt": "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
-    "summary_pt": "Reinaldo Dennes (de camisa branca), de 70 anos, foi condenado à morte pelo assassinato de um vendedor de diamantes em 1996 Houston Chronicle via Getty Images Um homem condenado à morte gritou, aparentemente de dor, durante sua execução, que durou uma hora, no estado do Texas, nos Estados Unidos. \"Não está funcionando como deveria\", exclamou Reinaldo Dennes, "
-  },
-  {
-    "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-    "summary": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-20T18:48:48Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b70/live/4733dfb0-e512-11f1-99b6-a35a62fa4264.jpg",
-    "summary_pt": "Rafael Rojas, da BBC News Mundo, visita os locais reais de Miami que inspiraram Vice City, o cenário ficcional de GTA 6.",
-    "title_pt": "Miami ou Vice City? Conheça a inspiração do mundo real para GTA 6"
   }
 ]
