@@ -1,8 +1,8 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T14:30:04.067734Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T14:35:13.926642Z",
+  "status": "checado",
   "items": [
     {
       "title": "O presidente da Centrica diz estar \"extremamente preocupado\" com o impacto do aumento das contas de energia",
@@ -14,7 +14,7 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
       "published_on": "22/11/2026 09:50 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e559/live/0f2b1290-e671-11f1-a5bc-ddaec99ca2c4.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d77/live/c9bf20d0-e67e-11f1-99b6-a35a62fa4264.jpg",
       "selection": "automatic"
     },
     {
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Irã revela lançador de mísseis duplos, nova ‘cidade de mísseis’: o que saber",
+      "summary": "Oficiais militares visitam instalações subterrâneas para demonstrar capacidades militares, apesar dos ataques dos EUA.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+      "published_on": "22/11/2026 10:20 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/missileScreenshot-2026-11-22-170446-1795357014.jpg?resize=1200%2C675",
+      "selection": "automatic"
+    },
+    {
       "title": "O Congresso dos EUA ajudou a encerrar a Guerra do Vietnã. Ele pode impedir a guerra com o Irã?",
       "summary": "O Congresso proibiu o financiamento da Guerra do Vietnã, contribuindo para a queda do governo sul-vietnamita em Saigon.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,19 +54,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
       "published_on": "22/11/2026 08:31 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a2215a2cfe4c-1780618658.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "O que está por trás da escalada de ataques do Irã no Golfo?",
-      "summary": "Teerã intensificou os ataques à medida que o bloqueio naval dos EUA e a campanha de sanções prejudicam o país economicamente.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
-      "published_on": "22/11/2026 07:46 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-22T054830Z_561340037_RC2TSOAVQ66D_RTRMADP_3_IRAN-CRISIS-BAHRAIN-1-1795348266.jpg?resize=1758%2C1080",
       "selection": "automatic"
     },
     {
