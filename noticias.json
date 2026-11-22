@@ -42,6 +42,22 @@
     "summary_pt": "Imagens dos serviços de emergência mostraram equipes de resgate vasculhando escombros e ajudando moradores a descer do prédio danificado"
   },
   {
+    "title": "Terremoto de magnitude 5.1 — 45 km SE of Ürümqi, China",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "45 km SE of Ürümqi, China",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucrp",
+    "date": "2026-11-22T09:08:28.009000Z",
+    "lat": 43.4743,
+    "lon": 87.9381,
+    "depth_km": 10.0,
+    "forcedSev": "med",
+    "title_pt": "Terremoto de magnitude 5.1 — 45 km SE of Ürümqi, China",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
+  },
+  {
     "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
     "summary": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
     "category": "Geral",
@@ -1112,8 +1128,8 @@
     "summary_pt": "O novo rascunho reconheceria pela primeira vez que o aquecimento global está a caminho de ultrapassar 1,5°C."
   },
   {
-    "title": "La presidencia de la cumbre del clima intentar salvar ‘in extremis’ la COP31",
-    "summary": "A medida que pasan las horas crece la posibilidad de que la conferencia se cierre sin acuerdo",
+    "title": "La presidencia de la cumbre del clima intenta salvar ‘in extremis’ la COP31",
+    "summary": "A medida que pasan las horas crece la posibilidad de que la conferencia de la ciudad turca de Antalya se cierre sin acuerdo",
     "category": "Clima e desastres",
     "region": "Global",
     "country": "ES",
@@ -1122,8 +1138,8 @@
     "date": "2026-11-22T04:45:18Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/XOPUXEXJXZNKTNUFKT5IFFYJNU.jpg?auth=b2a1b14df815f8e96e5a0c66c74c934eaa15bb5c8663da061e005123700ae444",
-    "title_pt": "A presidência da cúpula do clima tenta salvar a COP31 \"in extremis\"",
-    "summary_pt": "À medida que as horas passam, aumenta a possibilidade de a conferência terminar sem um acordo"
+    "summary_pt": "Com o passar das horas, aumenta a possibilidade de a conferência na cidade turca de Antália terminar sem um acordo",
+    "title_pt": "A presidência da cúpula do clima tenta salvar a COP31 \"in extremis\""
   },
   {
     "title": "“Tenemos el mejor candidato”: así lanzó España la carrera por la presidencia del BCE",
@@ -7006,19 +7022,5 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg",
     "title_pt": "Faisal Islam: Este acordo de redução de custos entre Reino Unido e UE não significa que preços mais baixos se seguirão",
     "summary_pt": "O acordo comercial provavelmente reduzirá os preços dos alimentos para os consumidores, mas deverá impulsionar a economia mais do que outros acordos pós-Brexit."
-  },
-  {
-    "title": "Afro-Peruvian singer Susana Baca reflects on singing to the pope and his historic apology",
-    "summary": "LIMA, Peru (AP) — When Latin Grammy-winning singer Susana Baca was asked to sing for Pope Leo XIV during his visit home to Peru, she vowed to let the music speak for itself and declined all interview requests. Baca, the world’s best-known Afro-Peruvian musician, feared the moment could be …",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/susana-baca-pope-leo-afro-peruvians-24b72d9af203da82504cd7335c2bcae4?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-    "date": "2026-11-20T16:38:55Z",
-    "lang": "en",
-    "image": "https://ic-cdn.flipboard.com/apnews.com/8d5b59288a5ccfda48c4dc5f94e0c99985d256d4/_large.jpeg",
-    "title_pt": "A cantora afro-peruana Susana Baca reflete sobre cantar para o papa e seu pedido de desculpas histórico",
-    "summary_pt": "LIMA, Peru (AP) — Quando a cantora vencedora do Grammy Latino, Susana Baca, foi convidada para cantar para o Papa Leão XIV durante sua visita ao Peru, ela prometeu deixar a música falar por si e recusou todos os pedidos de entrevista. Baca, a musicista afro-peruana mais conhecida do mundo, temia que o momento pudesse ser..."
   }
 ]
