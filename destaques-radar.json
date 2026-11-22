@@ -1,9 +1,22 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T11:13:29.317316Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T11:19:01.318370Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Ucrânia: até sete pessoas temem estar presas sob os escombros perto de Kiev após ataque russo",
+      "summary": "Um ataque russo destruiu parcialmente um prédio de apartamentos em Dymer, ao norte de Kiev, no domingo. Nove pessoas, incluindo uma criança, foram evacuadas enquanto os socorristas vasculhavam os escombros em busca de até sete outras pessoas que se temia estivessem presas.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/video/2026/11/22/ukraine-up-to-seven-feared-trapped-beneath-rubble-near-kyiv-after-russian-attack",
+      "published_on": "22/11/2026 06:39 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/10/00/33/07/696x392_cmsv2_21c6d2b1-44d1-5165-969c-5598d0392928-10003307.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Conheça os profissionais do setor de energia da Ucrânia que se esquivam de drones para restabelecer o fornecimento de eletricidade para a população",
       "summary": "\"A primeira coisa que os rapazes e eu fazemos é ver onde podemos nos esconder.\"",
@@ -28,19 +41,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
       "published_on": "22/11/2026 03:59 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795334360.jpg?resize=1920%2C1080&quality=80",
-      "selection": "automatic"
-    },
-    {
-      "title": "O Irã ataca três navios-tanque enquanto exibe lançadores de mísseis e outras notícias do Oriente Médio",
-      "summary": "O Irão revelou um novo lançador de mísseis numa instalação subterrânea, elogiando o que diz ser a sua capacidade contínua de atacar se a guerra com os Estados Unidos e Israel se acelerar mais uma vez. Enquanto isso, na Faixa de Gaza, um ataque aéreo israelense atingiu um caminhão que transportava alimentos, matando três homens, o chefe de…",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/mideast-iran-gaza-israel-november-21-2026-29159a6f3365ff447c0ccbd1d7260f75?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-      "published_on": "21/11/2026 15:38 (Boa Vista)",
-      "image": "https://ic-cdn.flipboard.com/apnews.com/adbee0ebbc03c0eb0beb59a4a1cb4345db83a698/_large.jpeg",
       "selection": "automatic"
     },
     {
