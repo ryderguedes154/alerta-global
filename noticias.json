@@ -28,6 +28,22 @@
     "summary_pt": "Jay Clayton foi pressionado sobre a caracterização de Putin feita por Trump durante aparições na mídia no domingo. Jay Clayton, diretor de inteligência nacional dos EUA, disse que confia \"plenamente\" em Donald Trump depois que o presidente dos EUA chamou Vladimir Putin de \"amigo\" durante seu recente encontro na China. Clayton fez as declarações no domingo, quando foi pressionado durante aparições na mídia."
   },
   {
+    "title": "Terremoto de magnitude 4.7 — 25 km WSW of Isangel, Vanuatu",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "25 km WSW of Isangel, Vanuatu",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucu7",
+    "date": "2026-11-22T20:54:52.753000Z",
+    "lat": -19.6421,
+    "lon": 169.0592,
+    "depth_km": 115.367,
+    "forcedSev": "low",
+    "title_pt": "Terremoto de magnitude 4.7 — 25 km WSW of Isangel, Vanuatu",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
+  },
+  {
     "title": "Retorno do feriado tem fluxo intenso e congestionamento nas rodovias de SP",
     "summary": "Concessionárias preveem tráfego intenso nas principais estradas de São Paulo neste domingo (22) após o feriado prolongado da Consciência Negra",
     "category": "Geral",
@@ -3847,7 +3863,7 @@
   {
     "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
     "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6999,19 +7015,5 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fff/live/40c02ae0-e50c-11f1-b40b-5f46e8cf687c.jpg",
     "title_pt": "A Next interrompeu as vendas de sacos de dormir para bebês depois que uma mãe de primeira viagem alertou sobre o problema",
     "summary_pt": "O orifício para o pescoço do saco de dormir era grande demais, o que significava que a filha bebê de Emma poderia se esgueirar para baixo e ele poderia cobrir seu rosto."
-  },
-  {
-    "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-    "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-21T00:01:39Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg",
-    "title_pt": "Mamdani anuncia plano para fechar a prisão de Rikers Island, em Nova York, até 2032",
-    "summary_pt": "Os planos para encerrar a unidade problemática remontam a 2019, quando a Câmara Municipal votou pela primeira vez para fechá-la, mas surgiram atrasos devido à questão de onde colocar os detentos."
   }
 ]
