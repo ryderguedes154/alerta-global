@@ -1,9 +1,22 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T04:48:13.897431Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T04:53:35.299465Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "O Irã ataca três navios-tanque enquanto exibe lançadores de mísseis e outras notícias do Oriente Médio",
+      "summary": "O Irão revelou um novo lançador de mísseis numa instalação subterrânea, elogiando o que diz ser a sua capacidade contínua de atacar se a guerra com os Estados Unidos e Israel se acelerar mais uma vez. Enquanto isso, na Faixa de Gaza, um ataque aéreo israelense atingiu um caminhão que transportava alimentos, matando três homens, o chefe de…",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/mideast-iran-gaza-israel-november-21-2026-29159a6f3365ff447c0ccbd1d7260f75?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+      "published_on": "21/11/2026 15:38 (Boa Vista)",
+      "image": "https://ic-cdn.flipboard.com/apnews.com/adbee0ebbc03c0eb0beb59a4a1cb4345db83a698/_large.jpeg",
+      "selection": "automatic"
+    },
     {
       "title": "Bessent confirma que está morando em uma base militar dos EUA por receio do Irã",
       "summary": "O secretário do Tesouro dos EUA, Scott Bessent, diz que ainda está morando em uma base militar dos EUA, duas semanas após um alerta israelense.",
@@ -28,19 +41,6 @@
       "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/novos-ataques-aumentam-a-preocupacao-de-paises-europeus-com-a-guerra-na-ucrania.ghtml",
       "published_on": "21/11/2026 21:45 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/V6qnMoGxx2N1QAoVla1jwf8jSr4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/E/boaMmWTYuUWfxNU3R88g/globo-canal-5-20261121-2000-frame-103734.jpeg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Atleta nada no Estreito de Ormuz para chamar a atenção para o impacto da guerra no Irã sobre a vida selvagem",
-      "summary": "O nadador de longa distância britânico Lewis Pugh atravessou o Estreito de Ormuz a nado para chamar a atenção para as ameaças ambientais durante o conflito em curso.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/athlete-swims-strait-of-hormuz-iran-war-wildlife/",
-      "published_on": "21/11/2026 21:30 (Boa Vista)",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/22/6f642d8d-a281-49af-8e39-8f6417483e55/thumbnail/1200x630/e4ef39168b9187cc5a8ff2ee8d77bd8a/ap26324612213940.jpg",
       "selection": "automatic"
     },
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Como a China obtém acesso aos chips de IA americanos",
-      "summary": "Jensen Huang renunciou ao cargo de CEO da Nvidia após um caso extraconjugal com uma suposta espiã chinesa. Após o escândalo da Nvidia, o acesso da China à tecnologia fabricada nos Estados Unidos e aos chips avançados de IA voltou a ser alvo de escrutínio. Ramy Inocencio viajou para o Sudeste Asiático para saber mais sobre o uso de chips americanos pela China",
+      "title": "Os espiões da China estão de olho na IA Chips anos antes do escândalo da Nvidia",
+      "summary": "A agência de espionagem da China tem realizado uma campanha secreta para ajudar as empresas do país a adquirir IA avançada. chips e para coletar informações sobre o setor, dizem as autoridades.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Tecnologia",
       "region": "Global",
       "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/video/how-china-gets-access-to-american-ai-chips/",
-      "published_on": "21/11/2026 11:35 (Boa Vista)",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/21/1b7cbb74-a077-41d2-b62c-d21c9cd1b23e/thumbnail/1200x630/d250ec76cdfef9fd0ab91b9e396d1449/cbsn-fusion-how-china-gets-access-to-american-ai-chips-thumbnail.jpg",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+      "published_on": "22/11/2026 00:28 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X.jpg",
       "selection": "automatic"
     }
   ]
