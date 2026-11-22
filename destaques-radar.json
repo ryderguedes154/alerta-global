@@ -1,8 +1,8 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T18:17:12.701282Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T18:22:19.547181Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataque russo perto da capital da Ucrânia atinge prédio residencial, matando 3 pessoas e deixando outras soterradas",
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Como Melania Trump encontrou uma abertura diplomática na guerra na Ucrânia",
+      "summary": "A primeira-dama, que tem pouca experiência em assuntos internacionais, estabeleceu canais alternativos com figuras-chave de ambos os lados do conflito por meio de seu agente de longa data.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
+      "published_on": "22/11/2026 14:12 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-melania-ukraine-topart-fkgj/22dc-melania-ukraine-topart-fkgj-mediumSquareAt3X.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Sudão: Etiópia é acusada de ataques de drones a áreas residenciais e a um prédio da ONU em Cartum",
       "summary": "No início de novembro, o Sudão anunciou que havia levado o caso ao Conselho de Segurança da ONU e à União Africana, acusando o país vizinho de apoiar os paramilitares das Forças de Apoio Rápido (RSF), que estão em confronto com o exército sudanês desde 2023 em uma guerra sangrenta.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,19 +54,6 @@
       "url": "https://www.lemonde.fr/afrique/article/2026/11/22/soudan-l-ethiopie-mise-en-cause-dans-des-frappes-de-drones-sur-des-zones-residentielles-et-un-batiment-de-l-onu-a-khartoum_6814229_3212.html",
       "published_on": "22/11/2026 12:03 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/11/22/0/0/6720/4480/1440/960/60/0/ed109fa_ftp-1-z51tik97gakl-da4f1724b4e043df96c647a29587bbce-0-0442554c922f4deda8b948dad83fcbc0.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Ataque russo perto de Kiev, na Ucrânia, atinge prédio de apartamentos e deixa mortos e feridos",
-      "summary": "Bombeiros tentam apagar um incêndio após um ataque russo em Dymer, região de Kiev, Ucrânia, domingo, 22 de novembro de 2026. AP/Efrem Lukatsky Um ataque russo atingiu um prédio de apartamentos em uma vila perto da capital da Ucrânia neste domingo (22), matando pelo menos duas pessoas e ferindo outras quatro, de acordo com as autoridades. O prédio de cinco an",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/22/ataque-russo-kiev-ucrania.ghtml",
-      "published_on": "22/11/2026 11:10 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/cy94MgGrHgxmU8BqG3hdVOd_Rq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/6/zMajklTWa5gsMX7UDCkw/ap26326269093758.jpg",
       "selection": "automatic"
     },
     {
@@ -70,6 +70,19 @@
       "selection": "automatic"
     },
     {
+      "title": "As negociações climáticas da COP31 não conseguem chegar a um acordo importante em meio a profundas divisões",
+      "summary": "As negociações climáticas da COP31 não conseguem avançar no combate às mudanças climáticas após uma disputa sobre a menção aos combustíveis fósseis.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "published_on": "22/11/2026 14:17 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Ataques iranianos no Estreito de Ormuz atingem maior nível da guerra",
       "summary": "Desde o início do conflito, o estreito se tornou uma área de intensa disputa, com ataques que interromperam o transporte marítimo de petróleo e gás e provocaram consequências econômicas em todo o mundo",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -80,19 +93,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/ataques-iranianos-no-estreito-de-ormuz-atingem-maior-nivel-da-guerra/",
       "published_on": "22/11/2026 13:48 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Navios-de-carga-no-Golfo-perto-do-Estreito-de-Ormuz.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Novo rascunho de acordo visa evitar o fracasso das negociações na cúpula climática da COP31",
-      "summary": "A reunião da COP31 da ONU na Turquia entra no segundo dia de prorrogação, enquanto os países lutam para chegar a um acordo.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-      "published_on": "22/11/2026 02:54 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
       "selection": "automatic"
     },
     {
