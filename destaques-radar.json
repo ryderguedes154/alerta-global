@@ -1,7 +1,7 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T12:05:05.465114Z",
+  "checked_at": "2026-11-22T12:10:37.002602Z",
   "status": "checado",
   "items": [
     {
@@ -18,6 +18,19 @@
       "selection": "automatic"
     },
     {
+      "title": "O que está por trás da escalada de ataques do Irã no Golfo?",
+      "summary": "Teerã intensificou os ataques à medida que o bloqueio naval dos EUA e a campanha de sanções prejudicam o país economicamente.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+      "published_on": "22/11/2026 07:46 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-22T054830Z_561340037_RC2TSOAVQ66D_RTRMADP_3_IRAN-CRISIS-BAHRAIN-1-1795348266.jpg?resize=1758%2C1080",
+      "selection": "automatic"
+    },
+    {
       "title": "Ucrânia: até sete pessoas temem estar presas sob os escombros perto de Kiev após ataque russo",
       "summary": "Um ataque russo destruiu parcialmente um prédio de apartamentos em Dymer, ao norte de Kiev, no domingo. Nove pessoas, incluindo uma criança, foram evacuadas enquanto os socorristas vasculhavam os escombros em busca de até sete outras pessoas que se temia estivessem presas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -28,19 +41,6 @@
       "url": "https://www.euronews.com/video/2026/11/22/ukraine-up-to-seven-feared-trapped-beneath-rubble-near-kyiv-after-russian-attack",
       "published_on": "22/11/2026 06:39 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/33/07/696x392_cmsv2_21c6d2b1-44d1-5165-969c-5598d0392928-10003307.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Conheça os profissionais do setor de energia da Ucrânia que se esquivam de drones para restabelecer o fornecimento de eletricidade para a população",
-      "summary": "\"A primeira coisa que os rapazes e eu fazemos é ver onde podemos nos esconder.\"",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "GB",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/meet-the-ukrainian-energy-workers-who-dodge-drones-to-bring-peoples-electricity-back-13615168",
-      "published_on": "22/11/2026 05:16 (Boa Vista)",
-      "image": "https://e3.365dm.com/26/11/1920x1080/skynews-maksym-ukraine-drummond_7411179.jpg?20261122092143",
       "selection": "automatic"
     },
     {
