@@ -1,5 +1,19 @@
 [
   {
+    "title": "Tempestades no RS deixam mortos e milhares de deslocados",
+    "summary": "Uma supercélula provocou ventos de até 114 km/h no Rio Grande do Sul, atingindo 36 municípios e deixando cinco mortos. Quase 9 mil residências foram atingidas.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "DW Brasil",
+    "url": "https://www.dw.com/pt-br/tempestades-no-rs-deixam-mortos-e-milhares-de-deslocados/a-80011201?maca=bra-rss-br-br-1031-rdf",
+    "date": "2026-11-22T16:13:00Z",
+    "lang": "pt",
+    "image": "https://static.dw.com/image/80011193_6.jpg",
+    "title_pt": "Tempestades no RS deixam mortos e milhares de deslocados",
+    "summary_pt": "Uma supercélula provocou ventos de até 114 km/h no Rio Grande do Sul, atingindo 36 municípios e deixando cinco mortos. Quase 9 mil residências foram atingidas."
+  },
+  {
     "title": "Paredes tranquiliza torcida do Boca após desmaiar durante entrevista",
     "summary": "Capitão dos Xeneizes passou mal após a vitória por 2 a 0 contra o Atlético-MG, na decisão da Copa Sul-Americana",
     "category": "Geral",
@@ -2849,7 +2863,7 @@
   {
     "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
     "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4223,20 +4237,6 @@
     "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/21/10dd40a3-459d-42a3-920f-e6be48f6daad/thumbnail/1200x630/c03d946daa157a09a648f9fed4bdeaf3/2026-11-21t133748z-174175452-rc2dsoamky38-rtrmadp-3-mexico-chapoisidro.jpg",
     "title_pt": "Violência irrompe no México após a captura do chefão do tráfico procurado pelo FBI",
     "summary_pt": "Fausto Isidro Meza-Flores é supostamente o líder de um cartel responsável pela distribuição e importação de drogas."
-  },
-  {
-    "title": "Temporal no RS afeta 24 mil pessoas e deixa quatro mortos",
-    "summary": "Uma supercélula provocou ventos de até 114 km/h no Rio Grande do Sul, atingindo 36 municípios. Quase 9 mil residências foram atingidas.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "DW Brasil",
-    "url": "https://www.dw.com/pt-br/temporal-no-rs-afeta-24-mil-pessoas-e-deixa-quatro-mortos/a-80011201?maca=bra-rss-br-br-1031-rdf",
-    "date": "2026-11-21T22:30:00Z",
-    "lang": "pt",
-    "image": "https://static.dw.com/image/80011193_6.jpg",
-    "title_pt": "Temporal no RS afeta 24 mil pessoas e deixa quatro mortos",
-    "summary_pt": "Uma supercélula provocou ventos de até 114 km/h no Rio Grande do Sul, atingindo 36 municípios. Quase 9 mil residências foram atingidas."
   },
   {
     "title": "EU-Indonesia agreement sees the light after ten years of negotiations",
@@ -6473,7 +6473,7 @@
   {
     "title": "Can AI really help spot Black Friday deals? We put it to the test",
     "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6683,7 +6683,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6711,7 +6711,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6921,7 +6921,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
