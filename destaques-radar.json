@@ -1,22 +1,9 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T08:02:23.462454Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T08:07:31.110890Z",
+  "status": "checado",
   "items": [
-    {
-      "title": "Bessent confirma que está morando em uma base militar dos EUA por receio do Irã",
-      "summary": "O secretário do Tesouro dos EUA, Scott Bessent, diz que ainda está morando em uma base militar dos EUA, duas semanas após um alerta israelense.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
-      "published_on": "21/11/2026 22:05 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795313120.jpg?resize=1920%2C1080&quality=80",
-      "selection": "automatic"
-    },
     {
       "title": "O Irã ataca três navios-tanque enquanto exibe lançadores de mísseis e outras notícias do Oriente Médio",
       "summary": "O Irão revelou um novo lançador de mísseis numa instalação subterrânea, elogiando o que diz ser a sua capacidade contínua de atacar se a guerra com os Estados Unidos e Israel se acelerar mais uma vez. Enquanto isso, na Faixa de Gaza, um ataque aéreo israelense atingiu um caminhão que transportava alimentos, matando três homens, o chefe de…",
@@ -28,6 +15,19 @@
       "url": "https://apnews.com/article/mideast-iran-gaza-israel-november-21-2026-29159a6f3365ff447c0ccbd1d7260f75?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
       "published_on": "21/11/2026 15:38 (Boa Vista)",
       "image": "https://ic-cdn.flipboard.com/apnews.com/adbee0ebbc03c0eb0beb59a4a1cb4345db83a698/_large.jpeg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Bessent confirma que está morando em uma base militar dos EUA por receio do Irã",
+      "summary": "O secretário do Tesouro dos EUA, Scott Bessent, diz que ainda está morando em uma base militar dos EUA, duas semanas após um alerta israelense.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+      "published_on": "21/11/2026 22:05 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795313120.jpg?resize=1920%2C1080&quality=80",
       "selection": "automatic"
     },
     {
@@ -105,7 +105,7 @@
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
       "published_on": "22/11/2026 00:28 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X-v2.jpg",
       "selection": "automatic"
     }
   ]
