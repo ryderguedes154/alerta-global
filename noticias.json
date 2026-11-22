@@ -7,7 +7,7 @@
     "country": "US",
     "source": "The New York Times",
     "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
-    "date": "2026-11-22T00:59:33Z",
+    "date": "2026-11-22T01:02:29Z",
     "lang": "en",
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo1-bpwm/22int-cartel-ticktock-photo1-bpwm-mediumSquareAt3X.jpg",
     "title_pt": "Drones, mensagens de texto e distrações: como o México capturou um dos homens mais procurados",
@@ -432,6 +432,22 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/iran-pres-horizontal-thumb-1795302988.jpg?resize=1920%2C1080&quality=80",
     "title_pt": "O Irã enfrenta uma \"guerra econômica silenciosa\", diz o presidente iraniano",
     "summary_pt": "O Irã enfrenta uma \"guerra econômica silenciosa\", diz o presidente iraniano"
+  },
+  {
+    "title": "Terremoto de magnitude 4.6 — 60 km WNW of Abepura, Indonesia",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "60 km WNW of Abepura, Indonesia",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucpj",
+    "date": "2026-11-21T23:16:05.571000Z",
+    "lat": -2.442,
+    "lon": 140.1129,
+    "depth_km": 31.078,
+    "forcedSev": "low",
+    "title_pt": "Terremoto de magnitude 4.6 — 60 km WNW of Abepura, Indonesia",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
     "title": "Governo reconhece calamidade pública em Tupanciretã (RS) após temporal",
@@ -7006,19 +7022,5 @@
     "image": "https://e3.365dm.com/26/11/1920x1080/skynews-anthropic-nasdaq_7410960.jpg?20261119214359",
     "title_pt": "Anthropic entre as grandes quedas na derrocada do mercado de ações global",
     "summary_pt": "As ações da Anthropic caíram mais de 10% na abertura de sexta-feira em Wall Street, apenas um dia após sua estreia recorde na Nasdaq, como parte de uma queda global no mercado de ações."
-  },
-  {
-    "title": "Impasse sobre guerra e gastos militares ameaça paralisar governo dos EUA",
-    "summary": "O governo dos Estados Unidos corre o risco de paralisar parte de suas atividades antes do Natal, caso republicanos e democratas não cheguem a um acordo sobre o financiamento de órgãos federais. O impasse envolve divergências sobre a guerra com o Irã e o pedido do presidente Donald Trump de US$ 350 bilhões adicionais para gastos militares. ✅ Clique aqui para ",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "BR",
-    "source": "G1 Mundo",
-    "url": "https://g1.globo.com/mundo/noticia/2026/11/20/impasse-sobre-guerra-e-gastos-militares-ameaca-paralisar-governo-dos-eua.ghtml",
-    "date": "2026-11-20T13:34:36Z",
-    "lang": "pt",
-    "image": "https://s2-g1.glbimg.com/Lv-3U8URt_n76OGl2GcYiTITh0A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/I/q/XP2iyWRFemZ3yBhHnowA/afp-20250930-77ax7hx-v2-midres-deadlineforcongresstoadoptbudgetandavoidshutdown.jpg",
-    "title_pt": "Impasse sobre guerra e gastos militares ameaça paralisar governo dos EUA",
-    "summary_pt": "O governo dos Estados Unidos corre o risco de paralisar parte de suas atividades antes do Natal, caso republicanos e democratas não cheguem a um acordo sobre o financiamento de órgãos federais. O impasse envolve divergências sobre a guerra com o Irã e o pedido do presidente Donald Trump de US$ 350 bilhões adicionais para gastos militares. ✅ Clique aqui para "
   }
 ]
