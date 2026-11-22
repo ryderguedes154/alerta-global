@@ -235,7 +235,7 @@
   },
   {
     "title": "EN DIRECT, guerre en Ukraine : un cargo russe attaqué en mer Baltique ; des drones ukrainiens produits au Royaume-Uni… Les dernières informations",
-    "summary": "Le ministre de la défense ukrainien, Ievheni Khmara, et son homologue britannique, Wes Streeting, ont signé de nouveaux accords permettant la production, sur le sol britannique, de drones de frappe conçus par l’Ukraine et destinés aux forces armées ukrainiennes.",
+    "summary": "Le ministre de la défense ukrainien, Ievheni Khmara, et son homologue britannique, Wes Streeting, ont signé de nouveaux accords permettant la production, sur le sol britannique, de drones d’attaque conçus par l’Ukraine et destinés aux forces armées ukrainiennes.",
     "category": "Conflitos",
     "region": "Global",
     "country": "FR",
@@ -577,7 +577,7 @@
     "url": "https://elpais.com/espana/2026-11-22/doce-horas-en-campana-con-pedro-sanchez-la-ultima-vez-que-la-ultraderecha-goberno-no-habia-democracia.html",
     "date": "2026-11-22T04:30:01Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/HWAZISTZOVEWFASJVWCLZJVZVY.JPG?auth=96e2d923fc72d3952bd55da81c480e7099403a8f113b71870c54844781f341ca",
+    "image": "https://imagenes.elpais.com/resizer/v2/NVUM2P3JSRDTXOAKZGVZCH7EWY.JPG?auth=4bf02a9af9a2c3d560490711e0eb8f0675f6b0c32f1d897f16ba8eead8113e00",
     "title_pt": "Doze horas de campanha com Pedro Sánchez: “A última vez que a extrema direita governou não houve democracia”",
     "summary_pt": "O candidato socialista, que se apresenta como um baluarte contra o declínio dos direitos, protagoniza manifestações massivas e festivas para mobilizar o voto progressista"
   },
@@ -591,7 +591,7 @@
     "url": "https://elpais.com/espana/2026-11-22/la-revancha-de-feijoo-consigo-mismo.html",
     "date": "2026-11-22T04:30:01Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/IQADAEJFXNFVXD5JA4BYQLYI2Q.JPG?auth=84c053e86637aa2bca00cc2ea30216eb887aca4cc6162a6ee1015fdce1a249d4",
+    "image": "https://imagenes.elpais.com/resizer/v2/P4P6CXZV4NH27NVODG7LWL3SJ4.JPG?auth=1c189f6c1295c50874e2d0ce1c1bc64f6dfea6e9a35bb5068f068b33eef0f343",
     "title_pt": "A vingança de Feijóo consigo mesmo",
     "summary_pt": "Candidato do PP chega à reta final de campanha mais confiante e corrigindo erros de 2023"
   },
@@ -1076,18 +1076,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/3TGCEEXR55LSZDUH7XWFAZNUYM.jpg?auth=1b4a0d3bee5e4e2dbaec047225432872bdda00b3aff2d81101ec12bd68305062"
   },
   {
-    "title": "Mikie Sherrill, gobernadora de Nueva Jersey: “Los demócratas tienen que mostrar resultados de inmediato”",
-    "summary": "La veterana mandataria y exlegisladora insta a sus compañeros en el Congreso a “actuar con rapidez” tras los resultados de las ‘midterms’ para detener “la hemorragia” provocada por Trump",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/us/2026-11-22/mikie-sherrill-gobernadora-de-nueva-jersey-los-democratas-tienen-que-mostrar-resultados-de-inmediato.html",
-    "date": "2026-11-22T04:30:00Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/II5O3NL2EFHRFMFKOPKYRP3RWQ.jpg?auth=9c0a028efc88edc5c715dae9e9a42521f89d5421535685bda3d6f92901eff25c"
-  },
-  {
     "title": "Sheryl Crow: “Le digo a mis hijos adolescentes: ‘¿Limita vuestra libertad el éxito de una mujer o que alguien cambie de sexo?’\"",
     "summary": "La cantante demuestra con su nuevo álbum que, tras 30 años poniendo voz al rock, sigue plantando cara al poder",
     "category": "Geral",
@@ -1110,6 +1098,18 @@
     "date": "2026-11-22T04:30:00Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/Q6TZMIEWMFECHLBV6DLNWXEPZU.png?auth=f2a46ee7e07d3ca922a3445c487b02d6b2f0c4e45c3316746dc7cea0cc442382"
+  },
+  {
+    "title": "Mikie Sherrill, gobernadora de Nueva Jersey: “Los demócratas tienen que mostrar resultados de inmediato”",
+    "summary": "La veterana mandataria y exlegisladora insta a sus compañeros en el Congreso a “actuar con rapidez” tras los resultados de las ‘midterms’ para detener “la hemorragia” provocada por Trump",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/us/2026-11-22/mikie-sherrill-gobernadora-de-nueva-jersey-los-democratas-tienen-que-mostrar-resultados-de-inmediato.html",
+    "date": "2026-11-22T04:30:00Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/II5O3NL2EFHRFMFKOPKYRP3RWQ.jpg?auth=9c0a028efc88edc5c715dae9e9a42521f89d5421535685bda3d6f92901eff25c"
   },
   {
     "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
@@ -1404,6 +1404,18 @@
     "image": "https://s2-g1.glbimg.com/V6qnMoGxx2N1QAoVla1jwf8jSr4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/E/boaMmWTYuUWfxNU3R88g/globo-canal-5-20261121-2000-frame-103734.jpeg",
     "title_pt": "Novos ataques aumentam a preocupação de países europeus com a guerra na Ucrânia",
     "summary_pt": "Novos ataques aumentam a preocupação de países europeus com a guerra na Ucrânia Novos ataques aumentam a preocupação de países europeus de que conflito na Ucrânia se espalhe na região. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia A guerra não dá sinais de trégua. Em Kiev, Volodymyr Zelensky voltou a duvidar da disposição do presidente r"
+  },
+  {
+    "title": "Agentes del ICE causan terror al detener a dos personas en el embarque de un vuelo en Seattle",
+    "summary": "Un vídeo muestra la fuerza usada por los funcionarios federales en la dramática detención de dos mexicanos que se disponían a volar",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/us/migracion/2026-11-22/agentes-del-ice-causan-terror-al-detener-a-dos-personas-en-el-embarque-de-un-vuelo-en-seattle.html",
+    "date": "2026-11-22T01:44:03Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/PTHVMIZGPNC7RHOQVBMP4AY34E.jpg?auth=4bc4b76b82b032da7632a5ea4048396ee154048e169361f3818d9a0723720a29"
   },
   {
     "title": "Michelle diz que Jair Bolsonaro está sem febre e com “cara boa”",
@@ -1866,18 +1878,6 @@
     "image": "https://static.dw.com/image/78967690_6.jpg",
     "title_pt": "Nigéria: pelo menos 24 mortos após barco virar",
     "summary_pt": "O barco que transportava pessoas para um funeral virou no sul da Nigéria. Foi o mais recente de uma série de acidentes fatais de barco no país."
-  },
-  {
-    "title": "Trump obstaculiza la supervisión de contratos por un Congreso controlado por los demócratas",
-    "summary": "El presidente se prepara para afrontar las investigaciones que los legisladores emprenderán sobre los supuestos abusos y corrupción de su Gobierno",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/us/2026-11-21/trump-obstaculiza-la-supervision-de-contratos-por-un-congreso-controlado-por-los-democratas.html",
-    "date": "2026-11-21T23:48:39Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/H5HZ3T7LQVHK5PINP5WXELPFLY.jpg?auth=ad485ecbbe9bddfcd4ebc9048ecaa3d77149f3cedbef0b226a379e7f75bced24"
   },
   {
     "title": "Paolo Bulgari, the Italian jeweler who turned a family business into global luxury brand, dies at 89",
@@ -5828,7 +5828,7 @@
   {
     "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5912,7 +5912,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6190,7 +6190,7 @@
   {
     "title": "Trump threatens ban on US firms building AI data centres overseas",
     "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
