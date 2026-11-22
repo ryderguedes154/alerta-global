@@ -1,12 +1,12 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T17:09:25.096860Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T17:14:32.309211Z",
+  "status": "checado",
   "items": [
     {
-      "title": "Ataque russo perto da capital da Ucrânia atinge prédio de apartamentos, matando 2 pessoas e ferindo 4",
-      "summary": "QUIEV, Ucrânia (AP) — Um ataque russo atingiu um prédio de apartamentos em um vilarejo perto da capital da Ucrânia no domingo, matando pelo menos duas pessoas e ferindo outras quatro, disseram as autoridades. Havia o temor de que quase uma dúzia de pessoas estivesse enterrada sob os escombros. O ataque matinal destruiu o prédio de cinco andares…",
+      "title": "Ataque russo perto da capital da Ucrânia atinge prédio residencial, matando 3 pessoas e deixando outras soterradas",
+      "summary": "QUIEV, Ucrânia (AP) — Um ataque russo atingiu um prédio de apartamentos em um vilarejo perto da capital da Ucrânia no domingo, matando pelo menos três pessoas e ferindo outras quatro, disseram as autoridades. Havia o temor de que quase uma dúzia de pessoas estivesse enterrada sob os escombros. O ataque matinal destruiu o prédio de cinco andares...",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
@@ -70,16 +70,16 @@
       "selection": "automatic"
     },
     {
-      "title": "COP31: Persistem profundas divisões em relação à energia, às finanças e à ciência",
-      "summary": "As negociações climáticas da COP31 na Turquia entraram em prorrogação, com profundas divergências sobre combustíveis fósseis, financiamento climático e metas de aquecimento global atrasando um acordo. Uma versão revisada do projeto retirou todas as menções aos combustíveis fósseis, o que provocou fortes críticas da UE e de uma dúzia de países que exigem um c",
+      "title": "A Europa se prepara para um inverno frio à medida que o vórtice polar se inverte. As bombas de calor podem ajudar a reduzir as contas de energia?",
+      "summary": "Um evento incomum de aquecimento estratosférico súbito e precoce inverteu o vórtice polar, deixando os analistas preocupados com o aumento dos preços da energia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Clima e desastres",
       "region": "Global",
-      "country": "FR",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
-      "published_on": "21/11/2026 13:26 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/2e281d9c-e5d0-11f1-9a79-6b451f569414/w:1024/p:16x9/EN-20261121-171141-171326-CS.jpg",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/21/europe-braces-for-cold-winter-as-polar-vortex-flips-can-heat-pumps-help-lower-energy-bills",
+      "published_on": "21/11/2026 02:02 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/09/99/96/91/696x392_cmsv2_a13084d7-348c-580b-8d82-48d101f6ca1d-9999691.jpg",
       "selection": "automatic"
     },
     {
