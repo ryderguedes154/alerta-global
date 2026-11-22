@@ -1,8 +1,8 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-22T22:40:10.030566Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-22T22:45:17.846257Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataque russo perto da capital da Ucrânia atinge prédio residencial, matando 3 pessoas e deixando outras soterradas",
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "A guerra na Ucrânia se alastra para o território da OTAN",
+      "summary": "A guerra entre a Rússia e a Ucrânia mais uma vez se aproxima do território europeu – de ataques a navios a mísseis na Polônia e novas alegações de operações russas dentro da Dinamarca.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-creeping-inside-nato-territory",
+      "published_on": "22/11/2026 18:40 (Boa Vista)",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6050236",
+      "selection": "automatic"
+    },
+    {
       "title": "Eisenkot de Israel critica o ‘terrorismo judaico’ após ataques de colonos na Cisjordânia",
       "summary": "O líder da oposição israelense, Gadi Eisenkot, condenou no domingo os ataques incendiários perpetrados por colonos em aldeias palestinas na Cisjordânia como “terrorismo judaico”. A polícia israelense disse que abriu uma investigação sobre os ataques, que ocorreu quase um mês depois que uma eleição inconclusiva retirou a maioria do atual primeiro-ministro, Be",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,19 +54,6 @@
       "url": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
       "published_on": "22/11/2026 17:29 (Boa Vista)",
       "image": "https://s.france24.com/media/display/eff41172-e6b8-11f1-a8e7-1bac47ab2f5d/w:1024/p:16x9/AP26326377291946.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump diz que cogita retomar ataques ao Irã no próximo ano",
-      "summary": "Presidente americano afirmou, em entrevista à Fox News, que medidas poderiam ser tomadas caso os países não chegassem a um acordo para encerrar o conflito",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-cogita-retomar-ataques-ao-ira-no-proximo-ano/",
-      "published_on": "22/11/2026 17:15 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/eisenkot-netanyahu.jpg?w=200",
       "selection": "automatic"
     },
     {
