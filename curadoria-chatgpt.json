@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-21T20:57:51.194Z",
+  "updated_at": "2026-11-22T00:52:16.598Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "COP31 apresenta nova proposta de acordo após impasse climático",
+      "summary": "Turquia e Austrália apresentaram uma proposta revisada para tentar obter consenso entre quase 200 delegações na COP31, em Antalya. A presidência afirma que o texto pode ser aceito, mas a aprovação final ainda não ocorreu. Permanecem questões sobre combustíveis fósseis e financiamento da adaptação climática.",
+      "impact_br": "O resultado pode influenciar compromissos internacionais de redução de emissões, financiamento climático e políticas brasileiras de energia e proteção ambiental; não há efeito econômico imediato confirmado.",
+      "category": "clima",
+      "region": "GLOBAL",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/",
+      "published_on": "2026-11-21",
+      "published_at": "2026-11-21T19:39:00-04:00",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-22T00:52:16.598Z"
+    },
     {
       "title": "Bahrein relata ataque iraniano contra instalação industrial civil",
       "summary": "O Ministério do Interior do Bahrein informou em 21 de novembro que um ataque atribuído ao Irã atingiu uma instalação industrial civil e provocou incêndio. Houve danos materiais, sem feridos relatados. A localização e o tipo da instalação não foram divulgados; a autoria ainda não foi verificada independentemente.",
