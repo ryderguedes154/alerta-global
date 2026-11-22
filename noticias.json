@@ -7,11 +7,25 @@
     "country": "ES",
     "source": "El País",
     "url": "https://elpais.com/deportes/tenis/2026-11-22/alexander-zverev-carlos-alcaraz-en-directo-la-final-de-las-atp-finals-en-vivo.html",
-    "date": "2026-11-22T16:53:46Z",
+    "date": "2026-11-22T16:56:45Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/56QZDO6X4NEVXGEDDS3FYACVOQ.jpg?auth=4ca0db6e07622eae9591f88f5e48c94a58648064479b31c23b868245c7ad4ded",
     "title_pt": "Alexander Zverev – Carlos Alcaraz ao vivo, a final do ATP Finals ao vivo",
     "summary_pt": "O tenista espanhol busca conquistar seu primeiro ATP Finals contra o alemão, atual número 1 do mundo"
+  },
+  {
+    "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
+    "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia An explosion on a Russian ship docked at the naval base in the Libyan port city of Benghazi was caused by a suspected drone attack, Libya’s eastern-based government has said. There was no immediate claim of responsibility for the suspected strike, but i",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+    "date": "2026-11-22T16:55:49Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36f0900c0e04a98985b3b99d902cf06e",
+    "title_pt": "Explosão em navio russo em Benghazi é suspeita de ter sido um ataque de drone, dizem as autoridades líbias",
+    "summary_pt": "Ninguém reivindicou a responsabilidade pelo ataque ao navio, que havia atracado no caminho de volta para a Rússia. Uma explosão em um navio russo atracado na base naval da cidade portuária líbia de Benghazi foi causada por um suposto ataque de drone, segundo o governo da Líbia, sediado no leste do país. Ninguém assumiu imediatamente a responsabilidade pelo suposto ataque, mas"
   },
   {
     "title": "Libya: Suspected drone attack hits Russian ship in Benghazi",
@@ -460,20 +474,6 @@
     "image": "https://img.lemde.fr/2026/11/22/204/0/4000/2000/1440/720/60/0/116063f_upload-1-eye2upros1nx-bombardement-dymer-2.jpg",
     "title_pt": "AO VIVO, guerra na Ucrânia: os socorristas \"continuam sua intervenção\" após o ataque de um drone russo a um prédio residencial perto de Kiev",
     "summary_pt": "O ataque de um drone russo a um prédio de cinco andares em Dymer – ao norte de Kiev – matou duas pessoas e outras onze estão desaparecidas."
-  },
-  {
-    "title": "Israeli opposition leader condemns suspected settler attacks as 'terrorism,' and other Mideast news",
-    "summary": "Israeli opposition leader Gadi Eisenkot condemned arson attacks that Israeli settlers are suspected of carrying out in the occupied West Bank as “Jewish terrorism.” Eisenkot blamed Israeli Prime Minister Benjamin Netanyahu’s right-wing government, which he’s working to replace, for the …",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/mideast-houthis-west-bank-november-22-2026-8d1680a23d592667db1ce1969b55b4f2?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-    "date": "2026-11-22T15:44:38Z",
-    "lang": "en",
-    "image": "https://ic-cdn.flipboard.com/apnews.com/e4baa87454c0cb4cbfab3289a9eda126c22ced79/_large.jpeg",
-    "title_pt": "Líder da oposição israelense condena ataques de colonos suspeitos como \"terrorismo\", e outras notícias do Oriente Médio",
-    "summary_pt": "O líder da oposição israelense, Gadi Eisenkot, condenou os ataques incendiários que os colonos israelenses são suspeitos de ter cometido na Cisjordânia ocupada como \"terrorismo judeu\". Eisenkot culpou o governo de direita do primeiro-ministro israelense Benjamin Netanyahu, que ele está se esforçando para substituir, pelos..."
   },
   {
     "title": "UK taxpayer funds held in offshore tax havens top £1tn, latest HMRC data shows",
@@ -6613,7 +6613,7 @@
   {
     "title": "Can AI really help spot Black Friday deals? We put it to the test",
     "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6753,7 +6753,7 @@
   {
     "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
     "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6809,7 +6809,7 @@
   {
     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
     "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6837,7 +6837,7 @@
   {
     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
