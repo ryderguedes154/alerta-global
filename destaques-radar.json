@@ -1,7 +1,7 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T00:08:10.366965Z",
+  "checked_at": "2026-11-23T00:13:35.817462Z",
   "status": "checado",
   "items": [
     {
@@ -31,19 +31,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Guerra no Irã ao vivo: petroleiros pegam fogo em Ormuz enquanto o Corpo de Guardas da Revolução Islâmica (IRGC) alerta sobre a ameaça de agitação",
-      "summary": "A Marinha do Irão afirma que os petroleiros que violaram as suas regras foram incendiados, enquanto o IRGC afirmou que “inimigos” procuraram atiçar a agitação.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-      "published_on": "22/11/2026 19:59 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b031d3b43da-1795366203.jpg?resize=1200%2C675",
-      "selection": "automatic"
-    },
-    {
       "title": "A guerra na Ucrânia se espalha para o território da OTAN",
       "summary": "A guerra entre a Rússia e a Ucrânia mais uma vez se alastra pelo território europeu – de ataques a navios a mísseis na Polônia e novas alegações de operações russas dentro da Dinamarca.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,6 +41,19 @@
       "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
       "published_on": "22/11/2026 18:40 (Boa Vista)",
       "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6050236",
+      "selection": "automatic"
+    },
+    {
+      "title": "Eisenkot de Israel critica o ‘terrorismo judaico’ após ataques de colonos na Cisjordânia",
+      "summary": "O líder da oposição israelense, Gadi Eisenkot, condenou no domingo os ataques incendiários perpetrados por colonos em aldeias palestinas na Cisjordânia como “terrorismo judaico”. A polícia israelense disse que abriu uma investigação sobre os ataques, que ocorreu quase um mês depois que uma eleição inconclusiva retirou a maioria do atual primeiro-ministro, Be",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "FR",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
+      "published_on": "22/11/2026 17:29 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/eff41172-e6b8-11f1-a8e7-1bac47ab2f5d/w:1024/p:16x9/AP26326377291946.jpg",
       "selection": "automatic"
     },
     {
