@@ -1,9 +1,22 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T18:10:51.388223Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T18:16:00.834075Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "UE propõe novas sanções abrangentes à Rússia visando bancos, criptomoedas e eventos esportivos",
+      "summary": "BRUXELAS (AP) – A Comissão Europeia propôs na segunda-feira atingir dezenas de bancos da Rússia, reprimir as plataformas criptográficas e proibir equipes esportivas e atletas de competir sob a bandeira do país em uma nova rodada de sanções sobre a guerra de Moscou na Ucrânia. As propostas, apresentadas por…",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/europe-russia-sanctions-banks-crypto-visas-sports-ecad86868390f6602b346c70d1fa5757?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+      "published_on": "23/11/2026 13:31 (Boa Vista)",
+      "image": "https://ic-cdn.flipboard.com/apnews.com/1c2aba8aae805f369a23ef7edba06418573bb2fc/_large.jpeg",
+      "selection": "automatic"
+    },
     {
       "title": "O presidente da Nigéria diz que também está sendo afetado pelos cortes de água e energia que assolam o país",
       "summary": "Bola Tinubu diz que estava se barbeando na semana passada quando faltou água — uma experiência familiar para muitos nigerianos.",
@@ -52,7 +65,7 @@
       "country": "US",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
-      "published_on": "23/11/2026 13:18 (Boa Vista)",
+      "published_on": "23/11/2026 14:09 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-ukraine-libya-01-wljg/23int-ukraine-libya-01-wljg-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
@@ -93,19 +106,6 @@
       "url": "https://www.euronews.com/2026/11/23/satellite-images-show-russian-warship-capsized-in-libya-after-suspected-ukrainian-drone-st",
       "published_on": "23/11/2026 03:00 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/39/30/696x392_cmsv2_8b240281-c14e-555a-a6ba-8d0e82d009a6-10003930.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "O presidente da Centrica diz estar \"extremamente preocupado\" com o impacto do aumento das contas de energia",
-      "summary": "Chris O'Shea afirma que o número de pessoas incapazes ou não dispostas a pagar suas contas de energia aumentará quando os preços subirem no ano novo.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-      "published_on": "22/11/2026 09:50 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
       "selection": "automatic"
     }
   ]
