@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T23:53:30.869827Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T23:58:37.579679Z",
+  "status": "checado",
   "items": [
     {
       "title": "O que o ataque a um navio russo na Líbia diz sobre a propagação da guerra na Ucrânia",
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "A UE planeja proibir o esporte em uma nova proposta abrangente de sanções contra a Rússia",
+      "summary": "As sanções propostas visam restringir o financiamento russo por meio de criptomoedas e a \"propaganda\" no esporte.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
+      "published_on": "23/11/2026 19:26 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04b62a0b8f-1795470890_f46624-1795476355.jpg?resize=1200%2C630&quality=80",
+      "selection": "automatic"
+    },
+    {
       "title": "Os EUA intensificam as sanções ao Irã, visando redes de \"bancos paralelos\"",
       "summary": "O Departamento do Tesouro dos EUA sanciona mais de duas dúzias de entidades iranianas, citando esforços para interromper as atividades financeiras globais de Teerã.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -67,19 +80,6 @@
       "url": "https://www.lemonde.fr/international/article/2026/11/23/les-etats-unis-annoncent-de-nouvelles-sanctions-pour-priver-l-iran-de-rentrees-d-argent_6814450_3210.html",
       "published_on": "23/11/2026 16:37 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/10/28/0/0/5500/3666/1440/960/60/0/7293590_ftp-1-fdveboscvtds-2026-10-28t123341z-719045701-rc2mboab5pcz-rtrmadp-3-iran-crisis-economy-hardship.JPG",
-      "selection": "automatic"
-    },
-    {
-      "title": "O leste da Líbia quer que a ONU investigue as alegações de presença de militares ucranianos no oeste do país",
-      "summary": "As autoridades do leste da Líbia, país dividido, pediram na segunda-feira que as Nações Unidas investigassem as alegações de que forças ucranianas estavam presentes no oeste do país, ao mesmo tempo em que apresentaram uma queixa sobre ataques ucranianos a dois navios russos ao largo de Benghazi. Os ataques de domingo, reivindicados por Kiev, ocorrem no momen",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "FR",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/libya-s-east-seeks-un-probe-into-claims-ukrainian-military-present-in-west",
-      "published_on": "23/11/2026 16:08 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/a90c2d3e-e777-11f1-bbf4-e56ab3dc0809/w:1024/p:16x9/EN-20261123-203823-204018-CS.jpg",
       "selection": "automatic"
     },
     {
