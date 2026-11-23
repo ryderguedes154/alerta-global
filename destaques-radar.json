@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T14:56:44.298320Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T15:02:09.217642Z",
+  "status": "checado",
   "items": [
     {
       "title": "Zelenskyy elogia o ataque da Ucrânia a um navio de guerra russo atracado em uma base naval na Líbia",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Autoprodução de energia como rota de competitividade e descarbonização",
-      "summary": "Em artigo ao CNN Infra, André Almeida diz que modelo amplia a previsibilidade dos custos de energia e pode ajudar a indústria a reduzir emissões e disputar mercados internacionais",
+      "title": "A Next emite um alerta de ciberataque após hackers acessarem dados \"inofensivos\"",
+      "summary": "A varejista afirma acreditar que nenhum dado pessoal que pudesse levar a fraudes foi acessado após o hackeamento de um fornecedor terceirizado. Business Live – Últimas notícias A Next alertou que hackers obtiveram acesso a dados relacionados à varejista de roupas e artigos para o lar por meio de um fornecedor de tecnologia. A empresa, que tem mais de 800 loj",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
+      "category": "Segurança cibernética",
       "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/infra/autoproducao-de-energia-como-rota-de-competitividade-e-descarbonizacao/",
-      "published_on": "23/11/2026 07:00 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/017_20180316-21.jpg.jpeg?w=1200&h=630&crop=1",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
+      "published_on": "23/11/2026 10:50 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/b98cd780bf9e268b9ab1c77545ad7f2b5026a2b0/485_0_4852_3881/master/4852.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06f1946609088888468707494deaf334",
       "selection": "automatic"
     }
   ]
