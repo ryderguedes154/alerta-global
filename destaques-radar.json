@@ -1,7 +1,7 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T12:34:56.955076Z",
+  "checked_at": "2026-11-23T12:40:14.220009Z",
   "status": "checado",
   "items": [
     {
@@ -15,6 +15,19 @@
       "url": "https://www.cnnbrasil.com.br/internacional/israel-realiza-operacao-militar-em-campo-de-refugiados-na-cisjordania/",
       "published_on": "23/11/2026 05:50 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/gas-lacrimogeneo-israel-palestina.jpeg.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
+      "title": "Ucrânia compartilha vídeo de ataques a navios russos ao largo da Líbia",
+      "summary": "O presidente Zelensky disse que um navio de guerra russo foi afundado, e um cargueiro russo também foi atingido.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+      "published_on": "23/11/2026 07:34 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg",
       "selection": "automatic"
     },
     {
@@ -54,19 +67,6 @@
       "url": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/",
       "published_on": "23/11/2026 08:34 (Boa Vista)",
       "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/22/cddcf89c-30d3-466a-aa34-bf3d623dbc48/thumbnail/1200x630/188c817cd5519ea6327fd31141954c15/2026-11-22t195244z-1832180370-rc2ysoaiuqgm-rtrmadp-3-libya-port-explosion.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Chefe militar da UE alerta sobre o aumento das ameaças híbridas à medida que a Europa corre para fortalecer as defesas",
-      "summary": "O General Seán Clancy afirma que a Europa está mais bem preparada para se defender, mas deve acelerar os esforços para colmatar lacunas militares críticas, no meio de ameaças crescentes da Rússia e da incerteza sobre os compromissos militares dos EUA.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/23/eu-military-chief-warns-of-escalating-hybrid-threats-as-europe-races-to-strengthen-defence",
-      "published_on": "23/11/2026 07:52 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/10/00/45/71/696x392_cmsv2_5949c968-1d3a-5640-a016-913134f3d0b8-10004571.jpg",
       "selection": "automatic"
     },
     {
