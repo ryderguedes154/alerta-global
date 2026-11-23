@@ -1,9 +1,22 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T02:48:21.770485Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T02:53:28.671441Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Terremoto de magnitude 6.5 — Vanuatu region",
+      "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Vanuatu region",
+      "country": "GLOBAL",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26327000",
+      "published_on": "22/11/2026 22:40 (Boa Vista)",
+      "image": "",
+      "selection": "automatic"
+    },
     {
       "title": "Ataques de drones atingem casas e prédio das Nações Unidas na capital do Sudão",
       "summary": "Ataques de drones danificaram residências e um prédio das Nações Unidas na capital do Sudão, Cartum, no início do domingo, com o exército acusando a vizinha Etiópia de ter lançado os ataques. Os ataques ocorreram em um momento em que a guerra com drones se intensifica no conflito do país, agora em seu quarto ano.",
@@ -93,19 +106,6 @@
       "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
       "published_on": "22/11/2026 21:05 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "A COP31 não consegue chegar a um grande acordo climático, pois as negociações revelam profundas divergências",
-      "summary": "As negociações climáticas da COP31 não conseguem avançar no combate às mudanças climáticas após uma disputa sobre a menção aos combustíveis fósseis.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "published_on": "22/11/2026 20:50 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
       "selection": "automatic"
     }
   ]
