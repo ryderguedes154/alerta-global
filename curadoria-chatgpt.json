@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-23T11:36:30.630Z",
+  "updated_at": "2026-11-23T13:37:34.380Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Kremlin reage a ataque contra cargueiro russo no Mar Báltico",
+      "summary": "O Kremlin acusou a Ucrânia de atividade terrorista após um ataque com drones que provocou incêndio no cargueiro russo Sparta II no sábado, 21 de novembro. A tripulação foi retirada e o navio, que derivou para águas finlandesas, está sendo rebocado de volta à Rússia. A autoria ucraniana ainda não foi confirmada independentemente.",
+      "impact_br": "Sem impacto direto confirmado no Brasil; uma escalada no Báltico pode elevar riscos ao transporte marítimo europeu.",
+      "category": "geopolitica",
+      "region": "Europa / Mar Báltico",
+      "country": "RU",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/kremlin-accuses-ukraine-terrorist-activity-baltic-after-cargo-ship-drone-strike-2026-11-23/",
+      "published_on": "2026-11-23",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-23T13:37:34.380Z"
+    },
     {
       "title": "Ucrânia confirma ataque a navio de guerra russo na Líbia",
       "summary": "Em 23/11, Zelensky confirmou que drones navais ucranianos atingiram a corveta russa Merkury no porto de Benghazi, na Líbia, em 22/11. Autoridades líbias confirmam danos graves e imagens de satélite indicam naufrágio. A Rússia ainda não se pronunciou. O episódio amplia a dimensão geográfica do conflito e levou a pedidos de investigação internacional.",
