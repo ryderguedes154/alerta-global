@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T10:13:34.630139Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T10:18:53.727988Z",
+  "status": "checado",
   "items": [
     {
       "title": "Israel realiza operação militar em campo de refugiados na Cisjordânia",
@@ -57,16 +57,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Ucrânia assume responsabilidade pelo ataque de drone que afundou navio de guerra russo na Líbia",
-      "summary": "“Os objetivos planeados foram alcançados”, informou esta segunda-feira o presidente ucraniano, Volodymyr Zeleneski. Kyiv usou sete navios de ataque não tripulados",
+      "title": "Ucrânia reivindica ataques a navios russos perto da Líbia",
+      "summary": "O presidente Volodymyr Zelensky disse que os drones navais ucranianos afundaram uma corveta e atingiram um navio de carga seca, demonstrando o alcance de Kiev nos mares.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "ES",
-      "source": "El País",
-      "url": "https://elpais.com/internacional/2026-11-23/ucrania-asume-la-autoria-del-ataque-con-drones-que-hundio-en-libia-un-barco-de-guerra-ruso.html",
-      "published_on": "23/11/2026 05:45 (Boa Vista)",
-      "image": "https://imagenes.elpais.com/resizer/v2/YEK4EJ7JPBHXRHOVGKWRLIVXD4.jpg?auth=aaad6aa3dc7c33e31560531e33232d0038f25f5372d3c6160414c69776e82e4b",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+      "published_on": "23/11/2026 05:59 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-ukraine-libya-01-wljg/23int-ukraine-libya-01-wljg-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
