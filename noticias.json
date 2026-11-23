@@ -618,7 +618,7 @@
   {
     "title": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
     "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5% in early trading.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -682,8 +682,8 @@
     "date": "2026-11-23T15:36:43Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/KYZHF2P7VZLYPPXPZGLTBOLNTA.jpg?auth=963e80e2c0f000f74eb42e6eb1c036d0041f72c6b27aae7637583de97d8f379e",
-    "summary_pt": "O fundador da gigante de tecnologia ficou apenas dez dias fora do cargo",
-    "title_pt": "Trump diz que \"convenceu\" o conselho da Nvidia a trazer Jensen Huang de volta como CEO: \"Fui eu quem fechou o negócio\""
+    "title_pt": "Trump diz que \"convenceu\" o conselho da Nvidia a trazer Jensen Huang de volta como CEO: \"Fui eu quem fechou o negócio\"",
+    "summary_pt": "O fundador da gigante de tecnologia ficou apenas dez dias fora do cargo"
   },
   {
     "title": "South Korea’s education minister resigns after backlash over AI exam cheating rules",
@@ -978,6 +978,22 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/timeline_2016.jpg?w=200",
     "title_pt": "Prédio é evacuado na Vila Olímpia, em SP, após ameaça de bomba",
     "summary_pt": "Suspeita surgiu após localização de uma caixa no segundo andar com um aviso de explosivo; local é sede da Ford"
+  },
+  {
+    "title": "Terremoto de magnitude 4.7 — South Sandwich Islands region",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "South Sandwich Islands region",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucz2",
+    "date": "2026-11-23T15:10:57.877000Z",
+    "lat": -57.3058,
+    "lon": -25.881,
+    "depth_km": 103.295,
+    "forcedSev": "low",
+    "title_pt": "Terremoto de magnitude 4.7 — South Sandwich Islands region",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
     "title": "Como investir em ações sem abandonar a renda fixa",
@@ -1820,8 +1836,8 @@
     "summary_pt": "Huang renunciou ao cargo após revelação de casos extraconjugais, incluindo envolvimento com suposta espiã chinesa"
   },
   {
-    "title": "Trump admits active role in Nvidia's reinstatement of Jensen Huang as CEO",
-    "summary": "Nvidia on ⁠Monday said it ​was immediately reinstating disgraced tech titan Jensen Huang as its chief executive, marking an extraordinary reversal ​under pressure from US President Donald Trump. Huang resigned less than two weeks ago amid revelations of extramarital affairs, including with an alleged Chinese spy. Trump applauded the move and said he had been",
+    "title": "Trump admits active role in Huang's return as Nvidia CEO, Democrats vow probe",
+    "summary": "Nvidia on ⁠Monday said it ​was immediately reinstating disgraced tech titan Jensen Huang as its chief executive, marking an extraordinary reversal ​under pressure from US President Donald Trump. Huang resigned less than two weeks ago amid revelations of extramarital affairs, including with an alleged Chinese spy. Trump said he had directly intervened with Nv",
     "category": "Geral",
     "region": "Global",
     "country": "FR",
@@ -1830,8 +1846,8 @@
     "date": "2026-11-23T14:06:17Z",
     "lang": "en",
     "image": "https://s.france24.com/media/display/a13d6d38-debd-11f1-a5c4-3f371022a770/w:1024/p:16x9/AP26316465276155.jpg",
-    "title_pt": "Trump admite ter tido um papel ativo na reintegração de Jensen Huang como CEO da Nvidia",
-    "summary_pt": "Na segunda-feira, a Nvidia anunciou que estava reintegrava imediatamente o desacreditado titã da tecnologia Jensen Huang ao cargo de diretor-executivo, marcando uma reviravolta extraordinária sob a pressão do presidente dos Estados Unidos, Donald Trump. Huang renunciou há menos de duas semanas em meio a revelações de casos extraconjugais, inclusive com uma suposta espiã chinesa. Trump aplaudiu a decisão e disse que tinha estado"
+    "title_pt": "Trump admite ter tido um papel ativo no retorno de Huang como CEO da Nvidia; democratas prometem investigação",
+    "summary_pt": "A Nvidia disse na segunda-feira que estava reintegrando imediatamente o desgraçado titã da tecnologia Jensen Huang como seu executivo-chefe, marcando uma reversão extraordinária sob pressão do presidente dos EUA, Donald Trump. Huang renunciou há menos de duas semanas em meio a revelações de casos extraconjugais, inclusive com um suposto espião chinês. Trump disse que interveio diretamente com Nv"
   },
   {
     "title": "El PSOE aventaja en casi 10 puntos al PP, según el último CIS antes del 29-N",
@@ -7022,19 +7038,5 @@
     "image": "https://s.france24.com/media/display/91402a2e-e656-11f1-ad74-ebb478925cf0/w:1024/p:16x9/2026-11-22T082023Z-1682293497-RC2WSOAB5T2M-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV-REGION.jpg",
     "title_pt": "Equipes de resgate ucranianas procuram sobreviventes nos escombros após ataque russo",
     "summary_pt": "Equipes de resgate ucranianas procuraram neste domingo sobreviventes nos escombros de um prédio residencial que desabou em Dymer, na região de Kiev, após um ataque de drone russo, que matou duas pessoas e feriu outras quatro. Enquanto isso, a Finlândia alertou que a guerra estava “transbordando” depois que um drone incendiou um navio de carga russo no Mar Báltico no sábado. Leia nosso blog para"
-  },
-  {
-    "title": "Madeira's ocean survey finds evidence protection works – and some worrying signs",
-    "summary": "A survey by more than 200 specialists found that Madeira's marine reserves are working – but some species are still in peril.",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "EU",
-    "source": "Euronews",
-    "url": "https://www.euronews.com/2026/11/22/madeiras-ocean-survey-finds-evidence-protection-works-and-some-worrying-signs",
-    "date": "2026-11-22T06:02:59Z",
-    "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/09/98/75/06/696x392_cmsv2_4c0438d4-6c00-5f41-b9c9-dc6d0a85886b-9987506.jpg",
-    "title_pt": "Pesquisa oceânica da Madeira encontra evidências de obras de proteção – e alguns sinais preocupantes",
-    "summary_pt": "Um inquérito realizado por mais de 200 especialistas concluiu que as reservas marinhas da Madeira estão a funcionar – mas algumas espécies ainda estão em perigo."
   }
 ]
