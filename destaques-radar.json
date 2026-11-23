@@ -1,7 +1,7 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T08:39:11.114990Z",
+  "checked_at": "2026-11-23T08:44:33.428723Z",
   "status": "checado",
   "items": [
     {
@@ -57,6 +57,32 @@
       "selection": "automatic"
     },
     {
+      "title": "Sanções, cimeiras e greves: a guerra na Ucrânia não mostra sinais de abrandamento",
+      "summary": "Bom dia. Leo Cendrowicz aqui, trazendo para vocês o boletim informativo de segunda-feira. Esta semana, estamos a lidar com mais bombardeamentos na Ucrânia e com o bombardeamento metafórico das negociações climáticas da COP31 na Turquia.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/23/sanctions-summits-and-strikes-the-war-in-ukraine-shows-no-sign-of-slowing",
+      "published_on": "23/11/2026 03:26 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/10/00/37/25/696x392_cmsv2_b61d1d5c-2bdb-586f-be92-5a37e32ca1c5-10003725.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Imagens de satélite mostram navio de guerra russo virado na Líbia após suspeita de ataque de drone ucraniano",
+      "summary": "Imagens de satélite mostram um navio russo naufragado no porto de Benghazi, no leste da Líbia, após uma explosão no domingo. As autoridades locais suspeitam de um ataque de drone, mas não confirmaram quem foi o responsável.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/23/satellite-images-show-russian-warship-capsized-in-libya-after-suspected-ukrainian-drone-st",
+      "published_on": "23/11/2026 03:00 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/10/00/39/30/696x392_cmsv2_8b240281-c14e-555a-a6ba-8d0e82d009a6-10003930.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Trump organiza terceiro gala de criptomoedas para memecoin em meio a protestos por conflito de interesses",
       "summary": "Jantar na Virgínia ocorre enquanto democratas acusam o presidente de lucrar indevidamente com seus empreendimentos de criptomoedas Donald Trump está programado para ser o destaque de seu terceiro jantar de gala de criptomoedas no domingo à noite em seu clube de campo na Virgínia, recompensando os principais detentores de sua própria memecoin, enquanto os dem",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -80,32 +106,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
       "published_on": "22/11/2026 09:50 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "As negociações climáticas da COP31 terminam sem consenso sobre como financiar os países vulneráveis ou afastar o mundo do uso de carvão, petróleo e gás",
-      "summary": "Após duas semanas de negociações difíceis, a COP31, a cúpula do clima, foi encerrada sem um consenso sobre como abandonar os combustíveis fósseis ou financiar os países que enfrentam dificuldades para se adaptar a um mundo mais quente.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "DE",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-rdf",
-      "published_on": "22/11/2026 09:18 (Boa Vista)",
-      "image": "https://static.dw.com/image/80013500_6.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "As contas de energia vão disparar – veja como você pode aliviar o impacto",
-      "summary": "As contas de energia doméstica estão prestes a disparar, mas há maneiras de controlar seus gastos.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "published_on": "22/11/2026 21:05 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
       "selection": "automatic"
     }
   ]
