@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T16:57:01.243414Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T17:39:48.883217Z",
+  "status": "checado",
   "items": [
     {
       "title": "O presidente da Nigéria diz que também está sendo afetado pelos cortes de água e energia que assolam o país",
@@ -44,16 +44,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Menino de 7 anos foi retirado vivo dos escombros horas após ataque russo à Ucrânia, dizem socorristas",
-      "summary": "Nove pessoas morreram no ataque, e os esforços de resgate continuam para encontrar as pessoas que ainda estão desaparecidas no prédio residencial.",
+      "title": "Ataque da Ucrânia na costa da Líbia mostra o alcance de seus drones navais",
+      "summary": "O presidente Volodymyr Zelensky disse que drones ucranianos afundaram uma corveta e atingiram um navio de carga seca em ataques que envolveram forças de operações especiais.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-      "published_on": "23/11/2026 01:33 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+      "published_on": "23/11/2026 13:18 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-ukraine-libya-01-wljg/23int-ukraine-libya-01-wljg-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "A Next emite um alerta de ciberataque após hackers acessarem dados \"inofensivos\"",
-      "summary": "A varejista afirma acreditar que nenhum dado pessoal que pudesse levar a fraudes foi acessado após o hackeamento de um fornecedor terceirizado. Business Live – Últimas notícias A Next alertou que hackers obtiveram acesso a dados relacionados à varejista de roupas e artigos para o lar por meio de um fornecedor de tecnologia. A empresa, que tem mais de 800 loj",
+      "title": "O presidente da Centrica diz estar \"extremamente preocupado\" com o impacto do aumento das contas de energia",
+      "summary": "Chris O'Shea afirma que o número de pessoas incapazes ou não dispostas a pagar suas contas de energia aumentará quando os preços subirem no ano novo.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Segurança cibernética",
+      "category": "Economia",
       "region": "Global",
       "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
-      "published_on": "23/11/2026 10:50 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/b98cd780bf9e268b9ab1c77545ad7f2b5026a2b0/485_0_4852_3881/master/4852.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06f1946609088888468707494deaf334",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "published_on": "22/11/2026 09:50 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
       "selection": "automatic"
     }
   ]
