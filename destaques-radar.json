@@ -1,7 +1,7 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T09:48:01.993014Z",
+  "checked_at": "2026-11-23T09:53:05.954067Z",
   "status": "checado",
   "items": [
     {
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Ucrânia assume responsabilidade pelo ataque de drone que afundou navio de guerra russo na Líbia",
+      "summary": "“Os objetivos planeados foram alcançados”, informou esta segunda-feira o presidente ucraniano, Volodymyr Zeleneski. Kyiv usou sete navios de ataque não tripulados",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "ES",
+      "source": "El País",
+      "url": "https://elpais.com/internacional/2026-11-23/ucrania-asume-la-autoria-del-ataque-con-drones-que-hundio-en-libia-un-barco-de-guerra-ruso.html",
+      "published_on": "23/11/2026 05:45 (Boa Vista)",
+      "image": "https://imagenes.elpais.com/resizer/v2/YEK4EJ7JPBHXRHOVGKWRLIVXD4.jpg?auth=aaad6aa3dc7c33e31560531e33232d0038f25f5372d3c6160414c69776e82e4b",
+      "selection": "automatic"
+    },
+    {
       "title": "A OTAN se reunirá após a guerra entre a Rússia e a Ucrânia avançar mais uma vez para o território europeu",
       "summary": "A guerra entre a Rússia e a Ucrânia mais uma vez se aproxima do território europeu – com ataques a navios russos no fim de semana, alegações de um plano de assassinato russo na Dinamarca e a OTAN se preparando para se reunir na segunda-feira para discutir os ataques com mísseis na Polônia na semana passada.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,19 +54,6 @@
       "url": "https://www.npr.org/2026/11/23/nx-s1-6050245/nato-to-meet-after-russia-ukraine-war-once-again-inches-onto-european-territory",
       "published_on": "23/11/2026 05:44 (Boa Vista)",
       "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6050245",
-      "selection": "automatic"
-    },
-    {
-      "title": "Ex-embaixador fala sobre os efeitos da guerra na Ucrânia se espalhando para outros países",
-      "summary": "Michel Martin, da NPR, conversa com Kurt Volker, ex-embaixador dos EUA na OTAN, sobre os recentes incidentes em que a guerra na Ucrânia se espalhou para outros países europeus.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6050251/former-ambassador-on-the-effects-of-the-ukraine-war-spilling-into-other-countries",
-      "published_on": "23/11/2026 05:44 (Boa Vista)",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6050251",
       "selection": "automatic"
     },
     {
