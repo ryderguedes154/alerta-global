@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-23T13:37:34.380Z",
+  "updated_at": "2026-11-23T15:34:28.181Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Comissão Europeia confirma vazamento de dados em ataque cibernético",
+      "summary": "A Comissão Europeia confirmou em 23 de novembro que o ataque cibernético divulgado na semana anterior afetou a plataforma de cursos EU Academy, deixou o serviço indisponível e provocou vazamento de dados pessoais de usuários. Os afetados foram avisados. A investigação continua e a autoria não foi identificada.",
+      "impact_br": "Não há impacto direto confirmado no Brasil. O caso evidencia riscos de proteção de dados em serviços públicos digitais e pode estimular medidas de segurança cibernética.",
+      "category": "cibersegurança",
+      "region": "União Europeia / Europa",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/eu-academy-platform-disabled-after-cyber-attack-commission-spokesperson-says-2026-11-23/",
+      "published_on": "2026-11-23",
+      "published_at": "2026-11-23T08:14:00-04:00",
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-23T15:34:28.181Z"
+    },
     {
       "title": "Kremlin reage a ataque contra cargueiro russo no Mar Báltico",
       "summary": "O Kremlin acusou a Ucrânia de atividade terrorista após um ataque com drones que provocou incêndio no cargueiro russo Sparta II no sábado, 21 de novembro. A tripulação foi retirada e o navio, que derivou para águas finlandesas, está sendo rebocado de volta à Rússia. A autoria ucraniana ainda não foi confirmada independentemente.",
