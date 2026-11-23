@@ -1,22 +1,9 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T02:06:44.315257Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T02:11:53.218080Z",
+  "status": "checado",
   "items": [
-    {
-      "title": "Ataque russo perto da capital da Ucrânia atinge prédio residencial, matando 3 pessoas e deixando outras soterradas",
-      "summary": "QUIEV, Ucrânia (AP) — Um ataque russo atingiu um prédio de apartamentos em um vilarejo perto da capital da Ucrânia no domingo, matando pelo menos três pessoas e ferindo outras quatro, disseram as autoridades. Havia o temor de que quase uma dúzia de pessoas estivesse enterrada sob os escombros. O ataque matinal destruiu o prédio de cinco andares...",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/russia-ukraine-war-kaliningrad-baltic-fleet-drones-14fecc1c55d601bb9f5b5fc8c9fb0b94?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-      "published_on": "22/11/2026 10:10 (Boa Vista)",
-      "image": "https://ic-cdn.flipboard.com/apnews.com/52e44b60ef372ceed8ce6be8e3434ecd7acf6f40/_large.webp",
-      "selection": "automatic"
-    },
     {
       "title": "Ataques de drones atingem casas e prédio das Nações Unidas na capital do Sudão",
       "summary": "Ataques de drones danificaram residências e um prédio das Nações Unidas na capital do Sudão, Cartum, no início do domingo, com o exército acusando a vizinha Etiópia de ter lançado os ataques. Os ataques ocorreram em um momento em que a guerra com drones se intensifica no conflito do país, agora em seu quarto ano.",
@@ -54,6 +41,19 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
       "published_on": "22/11/2026 19:59 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b031d3b43da-1795366203.jpg?resize=1200%2C675",
+      "selection": "automatic"
+    },
+    {
+      "title": "A guerra na Ucrânia se espalha para o território da OTAN",
+      "summary": "A guerra entre a Rússia e a Ucrânia mais uma vez se alastra pelo território europeu – de ataques a navios a mísseis na Polônia e novas alegações de operações russas dentro da Dinamarca.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+      "published_on": "22/11/2026 18:40 (Boa Vista)",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6050236",
       "selection": "automatic"
     },
     {
