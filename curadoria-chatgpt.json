@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-23T21:30:51.635Z",
+  "updated_at": "2026-11-23T23:39:05.585Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Alemanha avalia relatos de possível satélite russo com arma nuclear",
+      "summary": "Veículos alemães relataram, citando avaliações de inteligência ocidental, que a Rússia poderia lançar um satélite com arma nuclear ainda em 2026. O governo alemão disse levar os relatos a sério e a OTAN afirmou monitorar sua defesa espacial. A existência do satélite e o plano de lançamento não foram confirmados publicamente; Moscou nega as acusações.",
+      "impact_br": "Não há impacto direto confirmado no Brasil. Uma eventual arma nuclear em órbita ameaçaria serviços globais dependentes de satélites, como comunicações e navegação.",
+      "category": "seguranca_internacional",
+      "region": "Europa / Espaço",
+      "country": "RU",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/nato-believes-russia-is-ready-launch-nuclear-armed-satellite-german-media-say-2026-11-23/",
+      "published_on": "2026-11-23",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-23T23:39:05.585Z"
+    },
     {
       "title": "Rússia afirma que ações da Estônia estão à beira de provocar guerra aberta",
       "summary": "Em 23 de novembro, o Ministério das Relações Exteriores russo acusou a Estônia, integrante da OTAN, de ações hostis após o anúncio do fechamento da fronteira terrestre em 1º de dezembro. A Estônia negou permitir o uso de seu território em operações militares ucranianas. A acusação russa não foi comprovada de forma independente; não há confirmação de início de guerra entre os países.",
