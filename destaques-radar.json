@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T20:05:21.344516Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T20:10:28.635828Z",
+  "status": "checado",
   "items": [
     {
       "title": "UE propõe novas sanções abrangentes à Rússia visando bancos, criptomoedas e eventos esportivos",
@@ -57,16 +57,16 @@
       "selection": "automatic"
     },
     {
-      "title": "A Ucrânia afirma ter afundado um navio de guerra russo ao largo da Líbia",
-      "summary": "Na segunda-feira, a Ucrânia afirmou ter sido responsável por ataques a dois navios russos ao largo da Líbia, incluindo um que afundou um navio de guerra moderno, no mais recente reflexo da invasão de Moscou. Os ataques de domingo perto do porto líbio de Benghazi ocorrem em um momento em que a Ucrânia intensificou seus ousados ataques contra a Rússia longe da",
+      "title": "O leste da Líbia quer que a ONU investigue as alegações de presença de militares ucranianos no oeste do país",
+      "summary": "As autoridades do leste da Líbia, país dividido, pediram na segunda-feira que as Nações Unidas investigassem as alegações de que forças ucranianas estavam presentes no oeste do país, ao mesmo tempo em que apresentaram uma queixa sobre ataques ucranianos a dois navios russos ao largo de Benghazi. Os ataques de domingo, reivindicados por Kiev, ocorrem no momen",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "FR",
       "source": "France 24",
-      "url": "https://www.france24.com/en/ukraine-claims-it-sank-russian-warship-off-libya",
-      "published_on": "23/11/2026 15:39 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/42bcf66a-e774-11f1-99b6-13439ca2fe89/w:1024/p:16x9/EN-20261123-201152-201640-CS.jpg",
+      "url": "https://www.france24.com/en/libya-s-east-seeks-un-probe-into-claims-ukrainian-military-present-in-west",
+      "published_on": "23/11/2026 16:08 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/a90c2d3e-e777-11f1-bbf4-e56ab3dc0809/w:1024/p:16x9/EN-20261123-203823-204018-CS.jpg",
       "selection": "automatic"
     },
     {
