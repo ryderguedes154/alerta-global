@@ -1,8 +1,8 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T01:45:37.103727Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T01:50:42.744870Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataque russo perto da capital da Ucrânia atinge prédio residencial, matando 3 pessoas e deixando outras soterradas",
@@ -15,19 +15,6 @@
       "url": "https://apnews.com/article/russia-ukraine-war-kaliningrad-baltic-fleet-drones-14fecc1c55d601bb9f5b5fc8c9fb0b94?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
       "published_on": "22/11/2026 10:10 (Boa Vista)",
       "image": "https://ic-cdn.flipboard.com/apnews.com/52e44b60ef372ceed8ce6be8e3434ecd7acf6f40/_large.webp",
-      "selection": "automatic"
-    },
-    {
-      "title": "O presidente da Centrica diz estar \"extremamente preocupado\" com o impacto do aumento das contas de energia",
-      "summary": "Chris O'Shea afirma que o número de pessoas incapazes ou não dispostas a pagar suas contas de energia aumentará quando os preços subirem no ano novo.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-      "published_on": "22/11/2026 09:50 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
       "selection": "automatic"
     },
     {
@@ -70,6 +57,19 @@
       "selection": "automatic"
     },
     {
+      "title": "O presidente da Centrica diz estar \"extremamente preocupado\" com o impacto do aumento das contas de energia",
+      "summary": "Chris O'Shea afirma que o número de pessoas incapazes ou não dispostas a pagar suas contas de energia aumentará quando os preços subirem no ano novo.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "published_on": "22/11/2026 09:50 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "As negociações climáticas da COP31 terminam sem consenso sobre como financiar os países vulneráveis ou afastar o mundo do uso de carvão, petróleo e gás",
       "summary": "Após duas semanas de negociações difíceis, a COP31, a cúpula do clima, foi encerrada sem um consenso sobre como abandonar os combustíveis fósseis ou financiar os países que enfrentam dificuldades para se adaptar a um mundo mais quente.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -91,7 +91,7 @@
       "country": "GB",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "published_on": "22/11/2026 20:05 (Boa Vista)",
+      "published_on": "22/11/2026 21:05 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
       "selection": "automatic"
     },
