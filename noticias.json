@@ -7,7 +7,7 @@
     "country": "GB",
     "source": "The Guardian",
     "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-    "date": "2026-11-23T00:09:46Z",
+    "date": "2026-11-23T00:14:34Z",
     "lang": "en",
     "image": "https://i.guim.co.uk/img/media/2778355ecb84fbdd945291563fda9cdd5665b91e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ab79c7ba758d99f85511157aefdbe40b",
     "title_pt": "Política australiana ao vivo: Hanson chama a Coalizão e o Partido Trabalhista de \"um só\" partido; Liberais exigem a renúncia de Bowen por causa do \"desastre\" com a polícia",
@@ -16,7 +16,7 @@
   {
     "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
     "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -40,6 +40,20 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
     "title_pt": "As contas de energia vão disparar – veja como você pode aliviar o impacto",
     "summary_pt": "As contas de energia doméstica estão prestes a disparar, mas há maneiras de controlar seus gastos."
+  },
+  {
+    "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
+    "summary": "Cameroon’s former rebels face arrest fears and failed reintegration.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+    "date": "2026-11-23T00:03:30Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/An-undated-photo-showing-members-of-Anglophone-separatist-fighters-during-reconnaissance-training-in-an-undisclosed-locationPhoto-courtesy-Chris-Anu-1795336596.jpg?resize=1200%2C675",
+    "title_pt": "Ex-rebeldes dos Camarões ficam entre se esconder e promessas não cumpridas",
+    "summary_pt": "Os ex-rebeldes dos Camarões temem ser presos e enfrentam uma reintegração fracassada."
   },
   {
     "title": "Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great",
@@ -94,8 +108,8 @@
     "date": "2026-11-22T23:57:58Z",
     "lang": "en",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795391721.jpg?resize=1200%2C675",
-    "summary_pt": "O riacho Degirmendere, em Rize, na Turquia, ficou vermelho e provocou investigações por parte das autoridades locais.",
-    "title_pt": "O mistério do rio vermelho na Turquia"
+    "title_pt": "O mistério do rio vermelho na Turquia",
+    "summary_pt": "O riacho Degirmendere, em Rize, na Turquia, ficou vermelho e provocou investigações por parte das autoridades locais."
   },
   {
     "title": "Unesp 2027: 1ª fase tem interdisciplinaridade e alta interpretação de texto",
@@ -2420,20 +2434,6 @@
     "summary_pt": "Familiares, amigos e leitores prestam homenagem à escritora no Ateneu de Madri. A adaptação de \"Inés e a alegria\" será lançada no próximo outono"
   },
   {
-    "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
-    "summary": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
-    "date": "2026-11-22T16:50:48Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795366222.jpg?resize=1920%2C1080&quality=80",
-    "title_pt": "Colonizadores israelenses atacam vários vilarejos palestinos à medida que os pogroms aumentam",
-    "summary_pt": "Colonizadores israelenses atacaram várias cidades e vilarejos palestinos na Cisjordânia ocupada no domingo."
-  },
-  {
     "title": "Libya: Suspected drone attack hits Russian ship in Benghazi",
     "summary": "A Russian vessel at an eastern Libyan naval base was hit by what is suspected to be a drone strike.",
     "category": "Geral",
@@ -4179,7 +4179,7 @@
   {
     "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
     "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5133,20 +5133,6 @@
     "summary_pt": "A Austrália critica o Escritório de Orçamento do Congresso dos EUA por comentários sobre o AUKUS Reuters"
   },
   {
-    "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
-    "summary": "GUASAVE, Mexico (AP) — Heavy gunfire, helicopters and burning trucks marked Mexico’s Sinaloa state Saturday after authorities captured cartel boss Fausto Isidro Meza Flores, known as “El Chapo Isidro,” in an operation that left at least 11 people dead. Meza Flores, one of the FBI’s 10 most wanted …",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/mexico-cartels-el-chapo-isidro-sinaloa-violence-7301b67a1b1b974bc6bd20c9d030ce07?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-    "date": "2026-11-22T00:12:01Z",
-    "lang": "en",
-    "image": "https://ic-cdn.flipboard.com/apnews.com/a2caf59dec6a0aa9799bcea9b5c1f64bd80006b7/_large.webp",
-    "title_pt": "Líder de cartel capturado no norte do México em um tiroteio sangrento que deixou 11 mortos",
-    "summary_pt": "Fausto Isidro Meza Flores, mais conhecido como \"El Chapo Isidro\", era um dos fugitivos mais procurados pelo FBI. Sua prisão no noroeste do México no sábado provocou violência na região."
-  },
-  {
     "title": "FBI reportedly investigating apparent hack of its criminal database",
     "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
     "category": "Geral",
@@ -5817,6 +5803,20 @@
     "image": "",
     "title_pt": "Ataque israelense a veículo em Gaza mata três pessoas, segundo o Ministério da Saúde de Gaza",
     "summary_pt": "Ataque israelense a veículo em Gaza mata três pessoas, diz o Ministério da Saúde de Gaza à Reuters"
+  },
+  {
+    "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+    "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "NPR",
+    "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+    "date": "2026-11-21T18:08:55Z",
+    "lang": "en",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4153x2769+0+0/resize/4153x2769!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2F34%2F888e5ba6425cae1b50ebbe90e6a1%2Fap26325506754293.jpg",
+    "title_pt": "Líder de cartel capturado no norte do México em um tiroteio sangrento que deixou 11 mortos",
+    "summary_pt": "Fausto Isidro Meza Flores, mais conhecido como \"El Chapo Isidro\", era um dos fugitivos mais procurados pelo FBI. Sua prisão no noroeste do México no sábado provocou violência na região."
   },
   {
     "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
