@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T11:21:16.751548Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T11:27:02.614215Z",
+  "status": "checado",
   "items": [
     {
       "title": "Israel realiza operação militar em campo de refugiados na Cisjordânia",
@@ -44,29 +44,29 @@
       "selection": "automatic"
     },
     {
-      "title": "Zelensky diz que a Ucrânia é responsável pelo afundamento de navio de guerra russo na Líbia – Europa ao vivo",
-      "summary": "O presidente diz que Kiev é responsável pelo afundamento do navio de guerra Merkury em Benghazi no domingo e também pelo ataque de drones ao navio cargueiro MV Angara. Navio de guerra russo afunda em Benghazi após suposto ataque de drones ucranianos. O presidente da Ucrânia, Volodymyr Zelenskyy, assumiu a responsabilidade pelo afundamento de um navio de guer",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-      "published_on": "23/11/2026 05:59 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8a364f816b171274427b5c37fe5bdf5e",
-      "selection": "automatic"
-    },
-    {
-      "title": "Ucrânia reivindica ataques a navios russos perto da Líbia",
-      "summary": "O presidente Volodymyr Zelensky disse que os drones navais ucranianos afundaram uma corveta e atingiram um navio de carga seca, demonstrando o alcance de Kiev nos mares.",
+      "title": "Zelensky afirma que a Ucrânia afundou um navio de guerra russo ao largo da costa da Líbia",
+      "summary": "O presidente ucraniano, Volodymyr Zelenskyy, disse que seu país estava por trás dos ataques que afundaram um navio de guerra russo e danificaram um navio de carga sancionado ao largo da Líbia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
-      "published_on": "23/11/2026 05:59 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-ukraine-libya-01-wljg/23int-ukraine-libya-01-wljg-mediumSquareAt3X.jpg",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/",
+      "published_on": "23/11/2026 07:15 (Boa Vista)",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/22/cddcf89c-30d3-466a-aa34-bf3d623dbc48/thumbnail/1200x630/188c817cd5519ea6327fd31141954c15/2026-11-22t195244z-1832180370-rc2ysoaiuqgm-rtrmadp-3-libya-port-explosion.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "A Ucrânia afirma ter realizado ataques de drones contra navios russos ao largo da Líbia: o que sabemos?",
+      "summary": "Uma série de ataques de drones a embarcações russas nos territórios da Líbia e da Finlândia alimenta os temores de uma disseminação da guerra na Ucrânia.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
+      "published_on": "23/11/2026 07:10 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0335854cc50-1795372421.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
