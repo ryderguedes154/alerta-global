@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T21:44:11.769787Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T21:49:18.797718Z",
+  "status": "checado",
   "items": [
     {
       "title": "O que o ataque a um navio russo na Líbia diz sobre a propagação da guerra na Ucrânia",
@@ -57,6 +57,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Os EUA intensificam as sanções ao Irã, visando redes de \"bancos paralelos\"",
+      "summary": "O Departamento do Tesouro dos EUA sanciona mais de duas dúzias de entidades iranianas, citando esforços para interromper as atividades financeiras globais de Teerã.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
+      "published_on": "23/11/2026 17:30 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/2025-06-23T163901Z_2116085940_RC2G8FAM4IDS_RTRMADP_3_IRAN-NUCLEAR-ENERGY-1755798951.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
+    {
       "title": "Os Estados Unidos anunciam novas sanções para privar o Irã da entrada de dinheiro",
       "summary": "Bilhões de dólares em transações suspeitas ligadas ao Irã foram detectados pelo regulador norte-americano FinCEN entre 2025 e 2026, segundo o Tesouro.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://www.euronews.com/2026/11/23/sanctions-summits-and-strikes-the-war-in-ukraine-shows-no-sign-of-slowing",
       "published_on": "23/11/2026 03:26 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/37/25/696x392_cmsv2_b61d1d5c-2bdb-586f-be92-5a37e32ca1c5-10003725.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump submete ao tribunal de segunda instância o plano do Exército de detonar material para fabricação de bombas em Iowa",
-      "summary": "Ambientalistas entraram com uma ação judicial na semana passada para impedir a detonação de 68 barris de azida de chumbo devido a preocupações com a saúde e a poluição. Na segunda-feira, Donald Trump disse que deixaria a cargo de um tribunal federal de segunda instância a decisão sobre se o governo deve seguir adiante com os planos de detonar várias tonelada",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Saúde",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
-      "published_on": "23/11/2026 15:42 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/76db52e4eaa3de26ff9036b7f9a8cfba66b5a653/551_0_5418_4335/master/5418.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d26c63c6d835b1fddcfe91b749472eab",
       "selection": "automatic"
     }
   ]
