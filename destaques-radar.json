@@ -1,9 +1,22 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T20:47:25.399130Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T20:52:34.485238Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "O que o ataque a um navio russo na Líbia diz sobre a propagação da guerra na Ucrânia",
+      "summary": "O naufrágio de um navio de guerra russo pela Ucrânia num porto na Líbia aumenta um pouco os riscos da guerra, escreve Frank Gardner.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "published_on": "23/11/2026 16:48 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "UE propõe novas sanções abrangentes à Rússia visando bancos, criptomoedas e eventos esportivos",
       "summary": "BRUXELAS (AP) – A Comissão Europeia propôs na segunda-feira atingir dezenas de bancos da Rússia, reprimir as plataformas criptográficas e proibir equipes esportivas e atletas de competir sob a bandeira do país em uma nova rodada de sanções sobre a guerra de Moscou na Ucrânia. As propostas, apresentadas por…",
@@ -57,19 +70,6 @@
       "selection": "automatic"
     },
     {
-      "title": "O leste da Líbia quer que a ONU investigue as alegações de presença de militares ucranianos no oeste do país",
-      "summary": "As autoridades do leste da Líbia, país dividido, pediram na segunda-feira que as Nações Unidas investigassem as alegações de que forças ucranianas estavam presentes no oeste do país, ao mesmo tempo em que apresentaram uma queixa sobre ataques ucranianos a dois navios russos ao largo de Benghazi. Os ataques de domingo, reivindicados por Kiev, ocorrem no momen",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "FR",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/libya-s-east-seeks-un-probe-into-claims-ukrainian-military-present-in-west",
-      "published_on": "23/11/2026 16:08 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/a90c2d3e-e777-11f1-bbf4-e56ab3dc0809/w:1024/p:16x9/EN-20261123-203823-204018-CS.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Terremoto de magnitude 6.5 — Vanuatu region",
       "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Imagens de satélite mostram navio de guerra russo virado na Líbia após suspeita de ataque de drone ucraniano",
-      "summary": "Imagens de satélite mostram um navio russo naufragado no porto de Benghazi, no leste da Líbia, após uma explosão no domingo. As autoridades locais suspeitam de um ataque de drone, mas não confirmaram quem foi o responsável.",
+      "title": "Trump submete ao tribunal de segunda instância o plano do Exército de detonar material para fabricação de bombas em Iowa",
+      "summary": "Ambientalistas entraram com uma ação judicial na semana passada para impedir a detonação de 68 barris de azida de chumbo devido a preocupações com a saúde e a poluição. Na segunda-feira, Donald Trump disse que deixaria a cargo de um tribunal federal de segunda instância a decisão sobre se o governo deve seguir adiante com os planos de detonar várias tonelada",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
+      "category": "Saúde",
       "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/23/satellite-images-show-russian-warship-capsized-in-libya-after-suspected-ukrainian-drone-st",
-      "published_on": "23/11/2026 03:00 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/10/00/39/30/696x392_cmsv2_8b240281-c14e-555a-a6ba-8d0e82d009a6-10003930.jpg",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+      "published_on": "23/11/2026 15:42 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/76db52e4eaa3de26ff9036b7f9a8cfba66b5a653/551_0_5418_4335/master/5418.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d26c63c6d835b1fddcfe91b749472eab",
       "selection": "automatic"
     }
   ]
