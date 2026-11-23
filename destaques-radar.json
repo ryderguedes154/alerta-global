@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T10:03:17.763125Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T10:08:25.775269Z",
+  "status": "checado",
   "items": [
     {
       "title": "Israel realiza operação militar em campo de refugiados na Cisjordânia",
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Zelensky diz que a Ucrânia é responsável pelo afundamento de navio de guerra russo na Líbia – Europa ao vivo",
+      "summary": "O presidente diz que Kiev é responsável pelo afundamento do navio de guerra Merkury em Benghazi no domingo e também pelo ataque de drones ao navio cargueiro MV Angara. Navio de guerra russo afunda em Benghazi após suposto ataque de drones ucranianos. O presidente da Ucrânia, Volodymyr Zelenskyy, assumiu a responsabilidade pelo afundamento de um navio de guer",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+      "published_on": "23/11/2026 05:59 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8a364f816b171274427b5c37fe5bdf5e",
+      "selection": "automatic"
+    },
+    {
       "title": "Ucrânia assume responsabilidade pelo ataque de drone que afundou navio de guerra russo na Líbia",
       "summary": "“Os objetivos planeados foram alcançados”, informou esta segunda-feira o presidente ucraniano, Volodymyr Zeleneski. Kyiv usou sete navios de ataque não tripulados",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://elpais.com/internacional/2026-11-23/ucrania-asume-la-autoria-del-ataque-con-drones-que-hundio-en-libia-un-barco-de-guerra-ruso.html",
       "published_on": "23/11/2026 05:45 (Boa Vista)",
       "image": "https://imagenes.elpais.com/resizer/v2/YEK4EJ7JPBHXRHOVGKWRLIVXD4.jpg?auth=aaad6aa3dc7c33e31560531e33232d0038f25f5372d3c6160414c69776e82e4b",
-      "selection": "automatic"
-    },
-    {
-      "title": "A OTAN se reunirá após a guerra entre a Rússia e a Ucrânia avançar mais uma vez para o território europeu",
-      "summary": "A guerra entre a Rússia e a Ucrânia mais uma vez se aproxima do território europeu – com ataques a navios russos no fim de semana, alegações de um plano de assassinato russo na Dinamarca e a OTAN se preparando para se reunir na segunda-feira para discutir os ataques com mísseis na Polônia na semana passada.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/23/nx-s1-6050245/nato-to-meet-after-russia-ukraine-war-once-again-inches-onto-european-territory",
-      "published_on": "23/11/2026 05:44 (Boa Vista)",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6050245",
       "selection": "automatic"
     },
     {
