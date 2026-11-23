@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-22T21:47:08.198Z",
+  "updated_at": "2026-11-23T11:36:30.630Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Ucrânia confirma ataque a navio de guerra russo na Líbia",
+      "summary": "Em 23/11, Zelensky confirmou que drones navais ucranianos atingiram a corveta russa Merkury no porto de Benghazi, na Líbia, em 22/11. Autoridades líbias confirmam danos graves e imagens de satélite indicam naufrágio. A Rússia ainda não se pronunciou. O episódio amplia a dimensão geográfica do conflito e levou a pedidos de investigação internacional.",
+      "impact_br": "Sem efeito direto confirmado no Brasil; possível aumento de riscos diplomáticos e de segurança marítima no Mediterrâneo, sem impacto econômico mensurável até agora.",
+      "category": "guerras e diplomacia",
+      "region": "Norte da África / Europa Oriental",
+      "country": "LY",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/zelenskiy-says-ukraine-sank-russian-corvette-near-libyas-coast-hit-cargo-ship-2026-11-23/",
+      "published_on": "2026-11-23",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-23T11:36:30.630Z"
+    },
     {
       "title": "ONU adia definição de regras obrigatórias para armas autônomas até 2028",
       "summary": "Em Genebra, 128 países concordaram em elaborar até 2028 um instrumento para regular armas letais autônomas, mas não aprovaram compromisso com normas juridicamente obrigatórias. Estados Unidos, Rússia e Israel se opuseram à proposta mais rígida.",
