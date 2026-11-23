@@ -1,7 +1,7 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T04:46:21.756226Z",
+  "checked_at": "2026-11-23T04:51:29.375617Z",
   "status": "checado",
   "items": [
     {
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Criança resgatada na Ucrânia após ataque de drone russo matar 10 pessoas",
+      "summary": "Um menino de sete anos chamado David foi resgatado depois de passar 14 horas preso sob os escombros de um ataque de drones russos.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss",
+      "published_on": "23/11/2026 00:38 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795408526.jpg?resize=1200%2C675",
+      "selection": "automatic"
+    },
+    {
       "title": "Ataques de drones atingem casas e prédio das Nações Unidas na capital do Sudão",
       "summary": "Ataques de drones danificaram residências e um prédio das Nações Unidas na capital do Sudão, Cartum, no início do domingo, com o exército acusando a vizinha Etiópia de ter lançado os ataques. Os ataques ocorreram em um momento em que a guerra com drones se intensifica no conflito do país, agora em seu quarto ano.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
       "published_on": "22/11/2026 20:31 (Boa Vista)",
       "image": "https://i.guim.co.uk/img/media/79b37a2f8a198376688fa54f0cdba008ce48d808/801_0_3988_3192/master/3988.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55f0507475d5ec10a54cb5ed06f02aa1",
-      "selection": "automatic"
-    },
-    {
-      "title": "Guerra no Irã ao vivo: petroleiros pegam fogo em Ormuz enquanto o Corpo de Guardas da Revolução Islâmica (IRGC) alerta sobre a ameaça de agitação",
-      "summary": "A Marinha do Irã afirma que os petroleiros que infringiram suas regras foram incendiados, enquanto a Guarda Revolucionária Iraniana (IRGC) disse que \"inimigos\" tentaram provocar agitação.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-      "published_on": "22/11/2026 19:59 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b031d3b43da-1795366203.jpg?resize=1200%2C675",
       "selection": "automatic"
     },
     {
