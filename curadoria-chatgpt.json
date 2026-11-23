@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-23T16:43:28.157Z",
+  "updated_at": "2026-11-23T18:36:36.460Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "ONU alerta: guerras ameaçam ajuda alimentar a mais 7,3 milhões de pessoas",
+      "summary": "O Programa Mundial de Alimentos alertou em 23/11 que interrupções no transporte pelo estreito de Ormuz, Bab el-Mandeb e mar Negro podem elevar seus custos em US$ 727 milhões até meados de 2027 e colocar em risco a assistência a mais 7,3 milhões de pessoas. Trata-se de uma projeção condicionada à continuidade dos problemas, não de cortes já realizados.",
+      "impact_br": "Sem impacto direto confirmado no Brasil; pressões internacionais sobre fretes, combustíveis e fertilizantes podem influenciar custos agrícolas e de alimentos.",
+      "category": "saude_publica",
+      "region": "GLOBAL",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/environment/un-food-agency-chief-warns-wars-jeopardize-food-aid-73-million-more-people-2026-11-23/",
+      "published_on": "2026-11-23",
+      "published_at": "2026-11-23T12:51:00-04:00",
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-23T18:36:36.460Z"
+    },
     {
       "title": "União Europeia propõe 22º pacote de sanções contra a Rússia",
       "summary": "A Comissão Europeia apresentou em 23 de novembro novas sanções propostas contra cerca de 60 bancos russos, plataformas de criptomoedas e empresas do setor elétrico. As medidas ainda dependem da aprovação unânime dos 27 países da União Europeia.",
