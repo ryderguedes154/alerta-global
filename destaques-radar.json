@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T14:04:34.285082Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T14:09:46.319884Z",
+  "status": "checado",
   "items": [
     {
       "title": "Israel realiza operação militar em campo de refugiados na Cisjordânia",
@@ -70,19 +70,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump organiza terceiro gala de criptomoedas para memecoin em meio a protestos por conflito de interesses",
-      "summary": "Jantar na Virgínia ocorre enquanto democratas acusam o presidente de lucrar indevidamente com seus empreendimentos de criptomoedas Donald Trump está programado para ser o destaque de seu terceiro jantar de gala de criptomoedas no domingo à noite em seu clube de campo na Virgínia, recompensando os principais detentores de sua própria memecoin, enquanto os dem",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Geral",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
-      "published_on": "23/11/2026 04:33 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/79b37a2f8a198376688fa54f0cdba008ce48d808/801_0_3988_3192/master/3988.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55f0507475d5ec10a54cb5ed06f02aa1",
-      "selection": "automatic"
-    },
-    {
       "title": "Sanções, cimeiras e greves: a guerra na Ucrânia não mostra sinais de abrandamento",
       "summary": "Bom dia. Leo Cendrowicz aqui, trazendo para vocês o boletim informativo de segunda-feira. Esta semana, estamos a lidar com mais bombardeamentos na Ucrânia e com o bombardeamento metafórico das negociações climáticas da COP31 na Turquia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://www.euronews.com/2026/11/23/satellite-images-show-russian-warship-capsized-in-libya-after-suspected-ukrainian-drone-st",
       "published_on": "23/11/2026 03:00 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/39/30/696x392_cmsv2_8b240281-c14e-555a-a6ba-8d0e82d009a6-10003930.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "O presidente da Centrica diz estar \"extremamente preocupado\" com o impacto do aumento das contas de energia",
+      "summary": "Chris O'Shea afirma que o número de pessoas incapazes ou não dispostas a pagar suas contas de energia aumentará quando os preços subirem no ano novo.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "published_on": "22/11/2026 09:50 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
       "selection": "automatic"
     }
   ]
