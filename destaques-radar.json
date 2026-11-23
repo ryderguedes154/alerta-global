@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T12:24:38.797796Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T12:29:48.422173Z",
+  "status": "checado",
   "items": [
     {
       "title": "Israel realiza operação militar em campo de refugiados na Cisjordânia",
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Irã ameaça responder a qualquer ataque em meio a bloqueio naval",
+      "summary": "Irã ameaça responder a qualquer ataque em meio a bloqueio naval",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/iran-threatens-response-to-any-attack-amid-naval-blockade?traffic_source=rss",
+      "published_on": "23/11/2026 08:25 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795436717.jpg?resize=1920%2C1080&quality=80",
+      "selection": "automatic"
+    },
+    {
       "title": "Chefe militar da UE alerta sobre o aumento das ameaças híbridas à medida que a Europa corre para fortalecer as defesas",
       "summary": "O General Seán Clancy afirma que a Europa está mais bem preparada para se defender, mas deve acelerar os esforços para colmatar lacunas militares críticas, no meio de ameaças crescentes da Rússia e da incerteza sobre os compromissos militares dos EUA.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://www.euronews.com/2026/11/23/eu-military-chief-warns-of-escalating-hybrid-threats-as-europe-races-to-strengthen-defence",
       "published_on": "23/11/2026 07:52 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/45/71/696x392_cmsv2_5949c968-1d3a-5640-a016-913134f3d0b8-10004571.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Zelensky afirma que a Ucrânia afundou um navio de guerra russo ao largo da costa da Líbia",
-      "summary": "O presidente ucraniano, Volodymyr Zelenskyy, disse que seu país estava por trás dos ataques que afundaram um navio de guerra russo e danificaram um navio de carga sancionado ao largo da Líbia.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/",
-      "published_on": "23/11/2026 07:15 (Boa Vista)",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/22/cddcf89c-30d3-466a-aa34-bf3d623dbc48/thumbnail/1200x630/188c817cd5519ea6327fd31141954c15/2026-11-22t195244z-1832180370-rc2ysoaiuqgm-rtrmadp-3-libya-port-explosion.jpg",
       "selection": "automatic"
     },
     {
