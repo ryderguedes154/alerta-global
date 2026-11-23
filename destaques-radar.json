@@ -1,8 +1,8 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T00:39:06.912137Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T00:44:13.360913Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataque russo perto da capital da Ucrânia atinge prédio residencial, matando 3 pessoas e deixando outras soterradas",
@@ -31,6 +31,32 @@
       "selection": "automatic"
     },
     {
+      "title": "Ataques de drones atingem casas e prédio das Nações Unidas na capital do Sudão",
+      "summary": "Ataques de drones danificaram residências e um prédio das Nações Unidas na capital do Sudão, Cartum, no início do domingo, com o exército acusando a vizinha Etiópia de ter lançado os ataques. Os ataques ocorreram em um momento em que a guerra com drones se intensifica no conflito do país, agora em seu quarto ano.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "FR",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
+      "published_on": "22/11/2026 20:43 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/bea80488-e6d2-11f1-82d9-1bac47ab2f5d/w:1024/p:16x9/EN-20261123-000406-000527-CS.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Trump organiza terceiro gala de criptomoedas para memecoin em meio a protestos por conflito de interesses",
+      "summary": "Jantar na Virgínia ocorre enquanto democratas acusam o presidente de lucrar indevidamente com seus empreendimentos de criptomoedas Donald Trump está programado para ser o destaque de seu terceiro jantar de gala de criptomoedas no domingo à noite em seu clube de campo na Virgínia, recompensando os principais detentores de sua própria memecoin, enquanto os dem",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Geral",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+      "published_on": "22/11/2026 20:31 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/79b37a2f8a198376688fa54f0cdba008ce48d808/801_0_3988_3192/master/3988.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55f0507475d5ec10a54cb5ed06f02aa1",
+      "selection": "automatic"
+    },
+    {
       "title": "Guerra no Irã ao vivo: petroleiros pegam fogo em Ormuz enquanto o Corpo de Guardas da Revolução Islâmica (IRGC) alerta sobre a ameaça de agitação",
       "summary": "A Marinha do Irã afirma que os petroleiros que infringiram suas regras foram incendiados, enquanto a Guarda Revolucionária Iraniana (IRGC) disse que \"inimigos\" tentaram provocar agitação.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,19 +67,6 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
       "published_on": "22/11/2026 19:59 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b031d3b43da-1795366203.jpg?resize=1200%2C675",
-      "selection": "automatic"
-    },
-    {
-      "title": "A guerra na Ucrânia se espalha para o território da OTAN",
-      "summary": "A guerra entre a Rússia e a Ucrânia mais uma vez se alastra pelo território europeu – de ataques a navios a mísseis na Polônia e novas alegações de operações russas dentro da Dinamarca.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
-      "published_on": "22/11/2026 18:40 (Boa Vista)",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6050236",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
       "published_on": "22/11/2026 14:57 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Abdul El-Sayed intensifica as críticas ao plano de saúde \"TrumpCare\", pedindo ao presidente que \"faça acontecer\"",
-      "summary": "Senador democrata eleito reitera a sugestão de renomear o Medicare para Todos em homenagem a Trump se o presidente permitir a aprovação do projeto de lei No domingo, o senador eleito dos EUA por Michigan, Abdul El-Sayed, reforçou a ideia de nomear a legislação de reforma da saúde em homenagem a Donald Trump, desde que isso significasse que o presidente não i",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Saúde",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
-      "published_on": "22/11/2026 18:01 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/78f33ce8c7f9ce573db8956e2c3886261286f04f/232_0_4113_3290/master/4113.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b95a772f220b46e9d2c893a0ad1813b",
       "selection": "automatic"
     }
   ]
