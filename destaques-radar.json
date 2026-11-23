@@ -1,8 +1,8 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T00:49:18.293044Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T00:54:24.537805Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataque russo perto da capital da Ucrânia atinge prédio residencial, matando 3 pessoas e deixando outras soterradas",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "O que vem depois de não se chegar a um acordo nas negociações climáticas da COP31?",
-      "summary": "A COP31, cúpula do clima na Turquia, chegou formalmente ao fim depois que os países não conseguiram chegar a um acordo.",
+      "title": "A COP31 não consegue chegar a um grande acordo climático, pois as negociações revelam profundas divergências",
+      "summary": "As negociações climáticas da COP31 não conseguem avançar no combate às mudanças climáticas após uma disputa sobre a menção aos combustíveis fósseis.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Clima e desastres",
       "region": "Global",
       "country": "GB",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "published_on": "22/11/2026 14:57 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "published_on": "22/11/2026 20:50 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
       "selection": "automatic"
     }
   ]

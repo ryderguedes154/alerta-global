@@ -1,5 +1,33 @@
 [
   {
+    "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+    "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23T00:50:35Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+    "title_pt": "A COP31 não consegue chegar a um grande acordo climático, pois as negociações revelam profundas divergências",
+    "summary_pt": "As negociações climáticas da COP31 não conseguem avançar no combate às mudanças climáticas após uma disputa sobre a menção aos combustíveis fósseis."
+  },
+  {
+    "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+    "summary": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+    "category": "Saúde",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23T00:49:22Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
+    "title_pt": "A IA pode detectar o câncer de mama mais cedo? O NHS lança o maior estudo do mundo para descobrir",
+    "summary_pt": "Os pesquisadores testarão a tecnologia no rastreamento do câncer de mama, o que pode aliviar a pressão sobre o Sistema Único de Saúde (SUS)."
+  },
+  {
     "title": "Drone strikes hit homes, United Nations building in Sudan's capital",
     "summary": "Drone strikes damaged residential homes and a United Nations building in Sudan's capital Khartoum early Sunday, with the army accusing neighbouring Ethiopia of launching the attacks. The strikes came as drone warfare intensifies in the country's conflict, now in its fourth year.",
     "category": "Geral",
@@ -12,6 +40,20 @@
     "image": "https://s.france24.com/media/display/bea80488-e6d2-11f1-82d9-1bac47ab2f5d/w:1024/p:16x9/EN-20261123-000406-000527-CS.jpg",
     "title_pt": "Ataques de drones atingem casas e prédio das Nações Unidas na capital do Sudão",
     "summary_pt": "Ataques de drones danificaram residências e um prédio das Nações Unidas na capital do Sudão, Cartum, no início do domingo, com o exército acusando a vizinha Etiópia de ter lançado os ataques. Os ataques ocorreram em um momento em que a guerra com drones se intensifica no conflito do país, agora em seu quarto ano."
+  },
+  {
+    "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+    "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+    "date": "2026-11-23T00:39:51Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26224654243554-1795391797.jpg?resize=1920%2C1440",
+    "title_pt": "Diretor da OMS pede paz em meio a intensos combates na região da República Democrática do Congo afetada pelo ebola",
+    "summary_pt": "Os combates perto de um hospital da RDC prejudicam os esforços contra o ebola, colocando pacientes e profissionais de saúde em \"grave risco\", alerta a OMS."
   },
   {
     "title": "Rosinha anuncia divórcio de Anthony Garotinho: “Diferenças de entendimento”",
@@ -183,7 +225,7 @@
   },
   {
     "title": "South Korea’s stock market tumbles as AI bubble fears mount",
-    "summary": "Kospi falls 3 percent as markets across the region brace for losses.",
+    "summary": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
     "category": "Economia",
     "region": "Global",
     "country": "QA",
@@ -226,7 +268,7 @@
   {
     "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
     "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -450,6 +492,20 @@
     "image": "",
     "title_pt": "Voos da Delta enfrentaram breves atrasos no Aeroporto de Atlanta devido a um problema no sistema automatizado",
     "summary_pt": "Voos da Delta sofreram breves atrasos no aeroporto de Atlanta devido a um problema no sistema automatizado Reuters"
+  },
+  {
+    "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+    "summary": "OpenAI scientist proposes industry AI limits tied to model intelligence metric Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5",
+    "date": "2026-11-22T23:09:59Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Cientista da OpenAI propõe limites de IA para o setor vinculados à métrica de inteligência do modelo",
+    "summary_pt": "Cientista da OpenAI propõe limites de IA para o setor vinculados à métrica de inteligência de modelos Reuters"
   },
   {
     "title": "EN DIRECT, guerre en Ukraine : deux navires, dont un russe, ciblés par des attaques de drones à Benghazi, en Libye, selon les autorités locales",
@@ -1144,20 +1200,6 @@
     "summary_pt": "O casal está junto há quatro anos e ficou noivo em 2025."
   },
   {
-    "title": "Can climate diplomacy build on the collapse of COP31?",
-    "summary": "Can climate diplomacy build on the collapse of COP31? Reuters",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1RyOVZKTlV6bndHdTJhb3ZfZkI5R081UGttS1pZMDB4T0s0ekRPNGRQLW5FUERHRGVFLUxLQTFEcnFKSHpwVDBOQThBRGVaZkJfVTlMUzZPOFc3b3dZZllkVUVuRF9Lbnc3d3pzd01KQTE5WFpzR1h4alU4dUF1ZW0yYkpFeHF1RjRvbklfbWJqdDNXV1lkVkFCQnlRZw?oc=5",
-    "date": "2026-11-22T21:19:25Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "A diplomacia climática pode se basear no fracasso da COP31?",
-    "summary_pt": "A diplomacia climática pode se basear no fracasso da COP31? Reuters"
-  },
-  {
     "title": "Trump diz que cogita retomar ataques ao Irã no próximo ano",
     "summary": "Presidente americano afirmou, em entrevista à Fox News, que medidas poderiam ser tomadas caso os países não chegassem a um acordo para encerrar o conflito",
     "category": "Geral",
@@ -1170,6 +1212,20 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/23455_7E308D88EB8C383F-2.jpeg?w=200",
     "title_pt": "Trump diz que cogita retomar ataques ao Irã no próximo ano",
     "summary_pt": "Presidente americano afirmou, em entrevista à Fox News, que medidas poderiam ser tomadas caso os países não chegassem a um acordo para encerrar o conflito"
+  },
+  {
+    "title": "Can climate diplomacy build on the collapse of COP31?",
+    "summary": "Can climate diplomacy build on the collapse of COP31? Reuters",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1RyOVZKTlV6bndHdTJhb3ZfZkI5R081UGttS1pZMDB4T0s0ekRPNGRQLW5FUERHRGVFLUxLQTFEcnFKSHpwVDBOQThBRGVaZkJfVTlMUzZPOFc3b3dZZllkVUVuRF9Lbnc3d3pzd01KQTE5WFpzR1h4alU4dUF1ZW0yYkpFeHF1RjRvbklfbWJqdDNXV1lkVkFCQnlRZw?oc=5",
+    "date": "2026-11-22T21:14:00Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "A diplomacia climática pode se basear no fracasso da COP31?",
+    "summary_pt": "A diplomacia climática pode se basear no fracasso da COP31? Reuters"
   },
   {
     "title": "Countries react as COP31 climate talks collapse",
@@ -2100,20 +2156,6 @@
     "summary_pt": "Nações europeias e vulneráveis rejeitaram uma proposta de acordo depois que a Arábia Saudita e outros produtores de petróleo bloquearam qualquer menção ao fim gradual do uso de carvão, petróleo e gás."
   },
   {
-    "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-    "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-22T18:17:59Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
-    "title_pt": "A COP31 não consegue chegar a um grande acordo climático, pois as negociações revelam profundas divergências",
-    "summary_pt": "As negociações climáticas da COP31 não conseguem avançar no combate às mudanças climáticas após uma disputa sobre a menção aos combustíveis fósseis."
-  },
-  {
     "title": "US intelligence chief predicts more tech outages as systems undergo upgrades",
     "summary": "US intelligence chief predicts more tech outages as systems undergo upgrades Reuters",
     "category": "Geral",
@@ -2310,20 +2352,6 @@
     "image": "https://s.france24.com/media/display/83540fda-e696-11f1-ba48-e56ab3dc0809/w:1024/p:16x9/AP26324374289119.jpg",
     "title_pt": "Le Pen nega ter recebido informações vazadas de funcionário do Ministério do Interior francês",
     "summary_pt": "A líder francesa de extrema direita, Marine Le Pen, disse no domingo que não recebeu, nem pediu, informações confidenciais sobre uma investigação sobre seu partido de um alto funcionário do Ministério do Interior. Ela, entretanto, não soube dizer se outros membros do partido se beneficiaram com os vazamentos. Hugues Moutouh, o funcionário público sob suspeita, negou as acusações e pediu para ser"
-  },
-  {
-    "title": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
-    "summary": "India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss",
-    "date": "2026-11-22T17:46:32Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795369515.jpg?resize=1914%2C1080&quality=80",
-    "title_pt": "Rivalidade de críquete Índia-Paquistão traz atmosfera de Copa do Mundo ao Catar",
-    "summary_pt": "As equipes A da Índia e do Paquistão se enfrentam na Asia Cup Rising Stars. As arquibancadas lotadas mostram que a rivalidade continua intensa."
   },
   {
     "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
@@ -5095,20 +5123,6 @@
     "summary_pt": "Governador de Washington, sindicato denunciam prisões de viajantes feitas pelo ICE no aeroporto de Seattle Reuters"
   },
   {
-    "title": "China opposes US FCC ban on Chinese telecoms' direct access to US phone numbers",
-    "summary": "China opposes US FCC ban on Chinese telecoms' direct access to US phone numbers Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREJ2YWtZYUZBaVRPVzNxdU1XYnlLN1Q2WjFuOHgwMmRVOS11TWxXWFAtT0VudDRsUmd3M3pEeUp5WmlLXzNSOVJqaUZ2THRZYXNuSjlVWjdzazNuZVExNE5nQk5VUzllcUhEWXRuZmV4R1NZaHE5TU41dEhrUzNlclF2NldjMTNVRkdKV0tlSl96R3F2am9qRVhGLWJFTGZtYTRNUFFVREYwVlRTU250RUthX2U?oc=5",
-    "date": "2026-11-22T01:57:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "A China se opõe à proibição da FCC dos EUA ao acesso direto das empresas de telecomunicações chinesas a números de telefone dos EUA",
-    "summary_pt": "A China se opõe à proibição da FCC dos EUA ao acesso direto das empresas de telecomunicações chinesas a números de telefone dos EUA Reuters"
-  },
-  {
     "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
     "summary": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.",
     "category": "Geral",
@@ -7011,19 +7025,5 @@
     "image": "https://s2-g1.glbimg.com/_vWL7mC7iD_1t16an2C0E3zTO5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/o/U1YiBkTyqSM6jsQQ7XeQ/ap26324540298048.jpg",
     "title_pt": "Chapéu preso no intestino causou morte da hipopótamo Fiona, aponta necropsia",
     "summary_pt": "Fiona, uma hipopótamo do Nilo, nada em seu recinto no Zoológico e Jardim Botânico de Cincinnati, em Cincinnati, em 26 de outubro de 2017. John Minchillo/AP Uma necropsia em Fiona, a hipopótamo, mostrou que o chapéu que ela engoliu quase duas semanas atrás ficou preso no meio de seu intestino delgado, causando sua morte nesta semana, informou o Zoológico de C"
-  },
-  {
-    "title": "Man convicted of starting Palisades fire in Los Angeles",
-    "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-21T04:34:00Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg",
-    "title_pt": "Homem condenado por iniciar incêndio em Palisades, Los Angeles",
-    "summary_pt": "O morador de Los Angeles, de 30 anos, foi condenado por incêndio criminoso que provocou incêndios florestais que mataram 12 pessoas e destruíram mais de 6.800 edifícios."
   }
 ]
