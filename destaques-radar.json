@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T08:33:57.138514Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T08:39:11.114990Z",
+  "status": "checado",
   "items": [
     {
       "title": "Menino de 7 anos foi retirado vivo dos escombros horas após ataque russo à Ucrânia, dizem socorristas",
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Ucrânia assume responsabilidade pelo ataque de drone que afundou navio de guerra russo na Líbia",
+      "summary": "“Os objetivos planeados foram alcançados”, informou esta segunda-feira o presidente ucraniano, Volodymyr Zeleneski. Kyiv usou sete navios de ataque não tripulados",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "ES",
+      "source": "El País",
+      "url": "https://elpais.com/internacional/2026-11-23/ucrania-asume-la-autoria-del-ataque-con-drones-que-hundio-en-libia-un-barco-de-guerra-ruso.html",
+      "published_on": "23/11/2026 04:31 (Boa Vista)",
+      "image": "https://imagenes.elpais.com/resizer/v2/YEK4EJ7JPBHXRHOVGKWRLIVXD4.jpg?auth=aaad6aa3dc7c33e31560531e33232d0038f25f5372d3c6160414c69776e82e4b",
+      "selection": "automatic"
+    },
+    {
       "title": "Notícias da Ucrânia: ataques russos matam várias pessoas na região de Kiev",
       "summary": "Ataques durante a noite ceifaram a vida de civis na região de Kiev. Além disso, a OTAN deve discutir as violações do espaço aéreo polonês pela Rússia. Acompanhe ao vivo.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,45 +54,6 @@
       "url": "https://www.dw.com/en/ukraine-updates-russian-strikes-kill-several-in-kyiv-region/live-80015859?maca=en-rss-en-all-1573-rdf",
       "published_on": "23/11/2026 03:42 (Boa Vista)",
       "image": "https://static.dw.com/image/80015892_6.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Zelensky afirma que a Ucrânia está por trás dos ataques de drones a navios russos perto da Líbia",
-      "summary": "Esta é uma notícia de última hora.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
-      "published_on": "23/11/2026 03:37 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news%402x.png?resize=1200%2C630",
-      "selection": "automatic"
-    },
-    {
-      "title": "Sanções, cúpulas e ataques: a guerra na Ucrânia não dá sinais de desaceleração",
-      "summary": "Bom dia. Aqui é Leo Cendrowicz, com a newsletter de segunda-feira. Esta semana, estamos lidando com mais bombardeios na Ucrânia e com o bombardeio metafórico das negociações climáticas da COP31 na Turquia.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/23/sanctions-summits-and-strikes-the-war-in-ukraine-shows-no-sign-of-slowing",
-      "published_on": "23/11/2026 03:26 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/10/00/37/25/696x392_cmsv2_b61d1d5c-2bdb-586f-be92-5a37e32ca1c5-10003725.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Imagens de satélite mostram navio de guerra russo virado de cabeça para baixo na Líbia após suposto ataque de drone ucraniano",
-      "summary": "Imagens de satélite mostram um navio da Marinha russa virado no porto de Benghazi, no leste da Líbia, após uma explosão no domingo. As autoridades locais suspeitam de um ataque de drone, mas não confirmaram quem foi o responsável.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/23/satellite-images-show-russian-warship-capsized-in-libya-after-suspected-ukrainian-drone-st",
-      "published_on": "23/11/2026 03:00 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/10/00/39/30/696x392_cmsv2_8b240281-c14e-555a-a6ba-8d0e82d009a6-10003930.jpg",
       "selection": "automatic"
     },
     {
@@ -106,6 +80,32 @@
       "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
       "published_on": "22/11/2026 09:50 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "As negociações climáticas da COP31 terminam sem consenso sobre como financiar os países vulneráveis ou afastar o mundo do uso de carvão, petróleo e gás",
+      "summary": "Após duas semanas de negociações difíceis, a COP31, a cúpula do clima, foi encerrada sem um consenso sobre como abandonar os combustíveis fósseis ou financiar os países que enfrentam dificuldades para se adaptar a um mundo mais quente.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "DE",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-rdf",
+      "published_on": "22/11/2026 09:18 (Boa Vista)",
+      "image": "https://static.dw.com/image/80013500_6.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "As contas de energia vão disparar – veja como você pode aliviar o impacto",
+      "summary": "As contas de energia doméstica estão prestes a disparar, mas há maneiras de controlar seus gastos.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "published_on": "22/11/2026 21:05 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
       "selection": "automatic"
     }
   ]
