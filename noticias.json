@@ -10,8 +10,8 @@
     "date": "2026-11-23T05:15:13Z",
     "lang": "fr",
     "image": "https://img.lemde.fr/2026/11/22/0/0/5976/3984/1440/960/60/0/beebc60_upload-1-bbaxb6k8o11b-49-pb-lemonde-lutte-adf-rdc.jpg",
-    "summary_pt": "Entre as centenas de milícias no leste da República Democrática do Congo, as Forças Democráticas Aliadas destacam-se pelas suas atrocidades. Esta subsidiária do ISIS pretende estabelecer um santuário nesta região predominantemente cristã, violando mulheres e forçando os homens a juntarem-se a ela. “Le Monde” foi ao encontro",
-    "title_pt": "“Mãe, as pessoas que te cortaram voltaram por nós”: no leste da RDC, a guerra impossível contra as ADF, um grupo armado afiliado ao Estado Islâmico"
+    "title_pt": "“Mãe, as pessoas que te cortaram voltaram por nós”: no leste da RDC, a guerra impossível contra as ADF, um grupo armado afiliado ao Estado Islâmico",
+    "summary_pt": "Entre as centenas de milícias no leste da República Democrática do Congo, as Forças Democráticas Aliadas destacam-se pelas suas atrocidades. Esta subsidiária do ISIS pretende estabelecer um santuário nesta região predominantemente cristã, violando mulheres e forçando os homens a juntarem-se a ela. “Le Monde” foi ao encontro"
   },
   {
     "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
@@ -154,7 +154,7 @@
     "summary_pt": "Nove pessoas morreram no ataque, e os esforços de resgate continuam para encontrar as pessoas que ainda estão desaparecidas no prédio residencial."
   },
   {
-    "title": "Exército dos EUA deve detonar explosivos em Iowa apesar de ordem judicial",
+    "title": "Exército dos EUA planeja detonar explosivo em Iowa apesar de ordem judicial",
     "summary": "Governo Trump invoca poderes de emergência para contornar decisão judicial e autorizar a detonação de 68 barris de explosivo tóxico à base de chumbo",
     "category": "Geral",
     "region": "Global",
@@ -164,7 +164,7 @@
     "date": "2026-11-23T04:43:37Z",
     "lang": "pt",
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Captura-de-tela-2026-09-01-193317.png?w=200",
-    "title_pt": "Exército dos EUA deve detonar explosivos em Iowa apesar de ordem judicial",
+    "title_pt": "Exército dos EUA planeja detonar explosivo em Iowa apesar de ordem judicial",
     "summary_pt": "Governo Trump invoca poderes de emergência para contornar decisão judicial e autorizar a detonação de 68 barris de explosivo tóxico à base de chumbo"
   },
   {
@@ -1914,7 +1914,7 @@
   {
     "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
     "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5663,20 +5663,6 @@
     "summary_pt": "Chuvas esparsas continuaram a agravar os impactos das inundações históricas no estado da Flórida, nos Estados Unidos, enquanto autoridades no norte da Califórnia se preparam para um dilúvio sem precedentes devido as marés altas, previstas para acontecerem às vésperas da semana de viagens do Dia de Ação de Graças. Os sistemas de tempestades que afetam os esta"
   },
   {
-    "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
-    "summary": "GUASAVE, Mexico (AP) — Heavy gunfire, helicopters and burning trucks marked Mexico’s Sinaloa state Saturday after authorities captured cartel boss Fausto Isidro Meza Flores, known as “El Chapo Isidro,” in an operation that left at least 11 people dead. Meza Flores, one of the FBI’s 10 most wanted …",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/mexico-cartels-el-chapo-isidro-sinaloa-violence-7301b67a1b1b974bc6bd20c9d030ce07?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-    "date": "2026-11-22T00:12:01Z",
-    "lang": "en",
-    "image": "https://ic-cdn.flipboard.com/apnews.com/a2caf59dec6a0aa9799bcea9b5c1f64bd80006b7/_large.webp",
-    "title_pt": "Líder de cartel capturado no norte do México em um tiroteio sangrento que deixou 11 mortos",
-    "summary_pt": "Fausto Isidro Meza Flores, mais conhecido como \"El Chapo Isidro\", era um dos fugitivos mais procurados pelo FBI. Sua prisão no noroeste do México no sábado provocou violência na região."
-  },
-  {
     "title": "FBI reportedly investigating apparent hack of its criminal database",
     "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
     "category": "Geral",
@@ -6263,6 +6249,20 @@
     "image": "https://s2-g1.glbimg.com/rlQchaRDTDghpcA6tqueeyq2MOM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/M/psTBuXThKXyTFjIGfymA/afp-20261121-d8826zd-v1-highres-peruearthquake.jpg",
     "title_pt": "Terremoto de magnitude 6,7 deixou 15 feridos no Peru e danificou 127 casas",
     "summary_pt": "O terremoto de magnitude 6,7 registrado na região central do Peru nesta sexta-feira (20) deixou pelo menos 15 feridos, segundo o primeiro boletim oficial divulgado neste sábado (21) pelo órgão estatal Instituto Nacional de Defesa Civil (Indeci), noticiado pela AFP. O Indeci informou que 11 dos feridos foram registrados na cidade de Junín. Os demais, em Huánu"
+  },
+  {
+    "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+    "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "NPR",
+    "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+    "date": "2026-11-21T18:08:55Z",
+    "lang": "en",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4153x2769+0+0/resize/4153x2769!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2F34%2F888e5ba6425cae1b50ebbe90e6a1%2Fap26325506754293.jpg",
+    "title_pt": "Líder de cartel capturado no norte do México em um tiroteio sangrento que deixou 11 mortos",
+    "summary_pt": "Fausto Isidro Meza Flores, mais conhecido como \"El Chapo Isidro\", era um dos fugitivos mais procurados pelo FBI. Sua prisão no noroeste do México no sábado provocou violência na região."
   },
   {
     "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
