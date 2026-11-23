@@ -1,7 +1,7 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T12:29:48.422173Z",
+  "checked_at": "2026-11-23T12:34:56.955076Z",
   "status": "checado",
   "items": [
     {
@@ -44,16 +44,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Irã ameaça responder a qualquer ataque em meio a bloqueio naval",
-      "summary": "Irã ameaça responder a qualquer ataque em meio a bloqueio naval",
+      "title": "Zelensky afirma que a Ucrânia afundou um navio de guerra russo ao largo da costa da Líbia",
+      "summary": "O presidente ucraniano, Volodymyr Zelenskyy, disse que seu país estava por trás dos ataques que afundaram um navio de guerra russo e danificaram um navio de carga sancionado ao largo da Líbia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/iran-threatens-response-to-any-attack-amid-naval-blockade?traffic_source=rss",
-      "published_on": "23/11/2026 08:25 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795436717.jpg?resize=1920%2C1080&quality=80",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/",
+      "published_on": "23/11/2026 08:34 (Boa Vista)",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/22/cddcf89c-30d3-466a-aa34-bf3d623dbc48/thumbnail/1200x630/188c817cd5519ea6327fd31141954c15/2026-11-22t195244z-1832180370-rc2ysoaiuqgm-rtrmadp-3-libya-port-explosion.jpg",
       "selection": "automatic"
     },
     {
