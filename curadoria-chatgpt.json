@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-23T18:36:36.460Z",
+  "updated_at": "2026-11-23T19:26:36.143Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Tajiquistão inicia saída do Tribunal Penal Internacional em meio a série de retiradas",
+      "summary": "O Tajiquistão notificou em 20 de novembro sua saída do Estatuto de Roma, com efeito previsto para 20 de novembro de 2027. O Tribunal Penal Internacional e a União Europeia lamentaram a decisão em 23 de novembro. É mais uma retirada que pode enfraquecer a cooperação internacional na investigação de crimes graves.",
+      "impact_br": "Sem impacto econômico direto confirmado no Brasil; a tendência pode afetar a cooperação internacional em justiça e responsabilização por crimes de guerra.",
+      "category": "diplomacia",
+      "region": "Ásia Central / Global",
+      "country": "TJ",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/tajikistan-becomes-fourth-country-withdraw-icc-since-us-diplomatic-push-2026-11-23/",
+      "published_on": "2026-11-23",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-23T19:26:36.143Z"
+    },
     {
       "title": "ONU alerta: guerras ameaçam ajuda alimentar a mais 7,3 milhões de pessoas",
       "summary": "O Programa Mundial de Alimentos alertou em 23/11 que interrupções no transporte pelo estreito de Ormuz, Bab el-Mandeb e mar Negro podem elevar seus custos em US$ 727 milhões até meados de 2027 e colocar em risco a assistência a mais 7,3 milhões de pessoas. Trata-se de uma projeção condicionada à continuidade dos problemas, não de cortes já realizados.",
