@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T07:42:26.037377Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T07:47:34.311115Z",
+  "status": "checado",
   "items": [
     {
       "title": "Menino de 7 anos foi retirado vivo dos escombros horas após ataque russo à Ucrânia, dizem socorristas",
@@ -31,6 +31,32 @@
       "selection": "automatic"
     },
     {
+      "title": "Notícias da Ucrânia: ataques russos matam várias pessoas na região de Kiev",
+      "summary": "Ataques durante a noite ceifaram a vida de civis na região de Kiev. Além disso, a OTAN deve discutir as violações do espaço aéreo polonês pela Rússia. Acompanhe ao vivo.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "DE",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-updates-russian-strikes-kill-several-in-kyiv-region/live-80015859?maca=en-rss-en-all-1573-rdf",
+      "published_on": "23/11/2026 03:42 (Boa Vista)",
+      "image": "https://static.dw.com/image/80015892_6.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Zelensky afirma que a Ucrânia está por trás dos ataques de drones a navios russos perto da Líbia",
+      "summary": "Esta é uma notícia de última hora.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+      "published_on": "23/11/2026 03:37 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news%402x.png?resize=1200%2C630",
+      "selection": "automatic"
+    },
+    {
       "title": "Sanções, cúpulas e ataques: a guerra na Ucrânia não dá sinais de desaceleração",
       "summary": "Bom dia. Aqui é Leo Cendrowicz, com a newsletter de segunda-feira. Esta semana, estamos lidando com mais bombardeios na Ucrânia e com o bombardeio metafórico das negociações climáticas da COP31 na Turquia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,32 +80,6 @@
       "url": "https://www.euronews.com/2026/11/23/satellite-images-show-russian-warship-capsized-in-libya-after-suspected-ukrainian-drone-st",
       "published_on": "23/11/2026 03:00 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/39/30/696x392_cmsv2_8b240281-c14e-555a-a6ba-8d0e82d009a6-10003930.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Criança resgatada na Ucrânia após ataque de drone russo matar 10 pessoas",
-      "summary": "Um menino de sete anos chamado David foi resgatado depois de passar 14 horas preso sob os escombros de um ataque de drones russos.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss",
-      "published_on": "23/11/2026 00:38 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795408526.jpg?resize=1200%2C675",
-      "selection": "automatic"
-    },
-    {
-      "title": "Ataque russo perto da capital da Ucrânia atinge prédio residencial, matando 3 pessoas e deixando outras soterradas",
-      "summary": "QUIEV, Ucrânia (AP) — Um ataque russo atingiu um prédio de apartamentos em um vilarejo perto da capital da Ucrânia no domingo, matando pelo menos três pessoas e ferindo outras quatro, disseram as autoridades. Havia o temor de que quase uma dúzia de pessoas estivesse enterrada sob os escombros. O ataque matinal destruiu o prédio de cinco andares...",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/russia-ukraine-war-kaliningrad-baltic-fleet-drones-14fecc1c55d601bb9f5b5fc8c9fb0b94?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-      "published_on": "22/11/2026 10:10 (Boa Vista)",
-      "image": "https://ic-cdn.flipboard.com/apnews.com/52e44b60ef372ceed8ce6be8e3434ecd7acf6f40/_large.webp",
       "selection": "automatic"
     },
     {
