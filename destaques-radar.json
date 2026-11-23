@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T20:37:08.365761Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T20:42:18.641547Z",
+  "status": "checado",
   "items": [
     {
       "title": "UE propõe novas sanções abrangentes à Rússia visando bancos, criptomoedas e eventos esportivos",
@@ -31,19 +31,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Zelenskyy elogia o ataque da Ucrânia a um navio de guerra russo atracado em uma base naval na Líbia",
-      "summary": "KYIV, Ucrânia (AP) – A Ucrânia realizou um ataque a um navio de guerra russo atracado em um porto na Líbia, disse o presidente Volodymyr Zelenskyy na segunda-feira, alegando que drones marítimos afundaram o navio da Marinha em um ataque surpresa no dia anterior. As forças ucranianas implantaram sete drones na operação que atingiu…",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/ukraine-russia-zelenskyy-warship-attack-libya-c382f8eb06dca7d87e89bc6c18ba7d61?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-      "published_on": "23/11/2026 07:50 (Boa Vista)",
-      "image": "https://ic-cdn.flipboard.com/apnews.com/6b5be241c4b538ddd9169298a5cfe9e1a34e7e2c/_large.webp",
-      "selection": "automatic"
-    },
-    {
       "title": "Ucrânia compartilha vídeo de ataques a navios russos ao largo da Líbia",
       "summary": "O presidente Zelensky disse que um navio de guerra russo foi afundado, e um cargueiro russo também foi atingido.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,6 +41,19 @@
       "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
       "published_on": "23/11/2026 07:34 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Os Estados Unidos anunciam novas sanções para privar o Irã da entrada de dinheiro",
+      "summary": "Bilhões de dólares em transações suspeitas ligadas ao Irã foram detectados pelo regulador norte-americano FinCEN entre 2025 e 2026, segundo o Tesouro.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "FR",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/international/article/2026/11/23/les-etats-unis-annoncent-de-nouvelles-sanctions-pour-priver-l-iran-de-rentrees-d-argent_6814450_3210.html",
+      "published_on": "23/11/2026 16:37 (Boa Vista)",
+      "image": "https://img.lemde.fr/2026/10/28/0/0/5500/3666/1440/960/60/0/7293590_ftp-1-fdveboscvtds-2026-10-28t123341z-719045701-rc2mboab5pcz-rtrmadp-3-iran-crisis-economy-hardship.JPG",
       "selection": "automatic"
     },
     {
