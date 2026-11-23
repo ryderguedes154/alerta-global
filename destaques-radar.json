@@ -1,9 +1,22 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T04:41:14.936644Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T04:46:21.756226Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Menino de 7 anos foi retirado vivo dos escombros horas após ataque russo à Ucrânia, dizem socorristas",
+      "summary": "Nove pessoas morreram no ataque, e os esforços de resgate continuam para encontrar as pessoas que ainda estão desaparecidas no prédio residencial.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "published_on": "23/11/2026 00:44 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Terremoto de magnitude 6.5 — Vanuatu region",
       "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
@@ -15,19 +28,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm",
       "published_on": "22/11/2026 22:40 (Boa Vista)",
       "image": "",
-      "selection": "automatic"
-    },
-    {
-      "title": "Menino de 7 anos foi retirado vivo dos escombros horas após ataque russo à Ucrânia, dizem socorristas",
-      "summary": "Nove pessoas morreram no ataque, e os esforços de resgate continuam para encontrar as pessoas que ainda estão desaparecidas no prédio residencial.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-      "published_on": "22/11/2026 22:37 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
       "selection": "automatic"
     },
     {
