@@ -1,8 +1,8 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T03:08:47.893734Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T03:13:54.495567Z",
+  "status": "checado",
   "items": [
     {
       "title": "Terremoto de magnitude 6.5 — Vanuatu region",
@@ -15,6 +15,19 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm",
       "published_on": "22/11/2026 22:40 (Boa Vista)",
       "image": "",
+      "selection": "automatic"
+    },
+    {
+      "title": "Menino de 7 anos foi retirado vivo dos escombros horas após ataque russo à Ucrânia, dizem socorristas",
+      "summary": "Nove pessoas morreram no ataque, e os esforços de resgate continuam para encontrar as pessoas que ainda estão desaparecidas no prédio residencial.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "published_on": "22/11/2026 22:37 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
       "selection": "automatic"
     },
     {
@@ -54,19 +67,6 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
       "published_on": "22/11/2026 19:59 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b031d3b43da-1795366203.jpg?resize=1200%2C675",
-      "selection": "automatic"
-    },
-    {
-      "title": "A guerra na Ucrânia se espalha para o território da OTAN",
-      "summary": "A guerra entre a Rússia e a Ucrânia mais uma vez se alastra pelo território europeu – de ataques a navios a mísseis na Polônia e novas alegações de operações russas dentro da Dinamarca.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
-      "published_on": "22/11/2026 18:40 (Boa Vista)",
-      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6050236",
       "selection": "automatic"
     },
     {
