@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T11:47:56.660720Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T11:53:05.330324Z",
+  "status": "checado",
   "items": [
     {
       "title": "Israel realiza operação militar em campo de refugiados na Cisjordânia",
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Chefe militar da UE alerta sobre o aumento das ameaças híbridas à medida que a Europa corre para fortalecer as defesas",
+      "summary": "O General Seán Clancy afirma que a Europa está mais bem preparada para se defender, mas deve acelerar os esforços para colmatar lacunas militares críticas, no meio de ameaças crescentes da Rússia e da incerteza sobre os compromissos militares dos EUA.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/23/eu-military-chief-warns-of-escalating-hybrid-threats-as-europe-races-to-strengthen-defence",
+      "published_on": "23/11/2026 07:52 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/10/00/45/71/696x392_cmsv2_5949c968-1d3a-5640-a016-913134f3d0b8-10004571.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Zelensky diz que a Ucrânia é responsável pelo afundamento de navio de guerra russo na Líbia – Europa ao vivo",
       "summary": "O presidente diz que Kiev é responsável pelo afundamento do navio de guerra Merkury em Benghazi no domingo e também pelo ataque de drones ao navio cargueiro MV Angara. Navio de guerra russo afunda em Benghazi após suposto ataque de drones ucranianos. O presidente da Ucrânia, Volodymyr Zelenskyy, assumiu a responsabilidade pelo afundamento de um navio de guer",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
       "published_on": "23/11/2026 07:29 (Boa Vista)",
       "image": "https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8a364f816b171274427b5c37fe5bdf5e",
-      "selection": "automatic"
-    },
-    {
-      "title": "Zelensky afirma que a Ucrânia afundou um navio de guerra russo ao largo da costa da Líbia",
-      "summary": "O presidente ucraniano, Volodymyr Zelenskyy, disse que seu país estava por trás dos ataques que afundaram um navio de guerra russo e danificaram um navio de carga sancionado ao largo da Líbia.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/",
-      "published_on": "23/11/2026 07:15 (Boa Vista)",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/22/cddcf89c-30d3-466a-aa34-bf3d623dbc48/thumbnail/1200x630/188c817cd5519ea6327fd31141954c15/2026-11-22t195244z-1832180370-rc2ysoaiuqgm-rtrmadp-3-libya-port-explosion.jpg",
       "selection": "automatic"
     },
     {
