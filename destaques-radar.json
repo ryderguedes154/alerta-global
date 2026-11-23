@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T12:55:35.904773Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T13:00:41.371563Z",
+  "status": "checado",
   "items": [
     {
       "title": "Israel realiza operação militar em campo de refugiados na Cisjordânia",
@@ -57,16 +57,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Zelensky afirma que a Ucrânia afundou um navio de guerra russo ao largo da costa da Líbia",
-      "summary": "O presidente ucraniano, Volodymyr Zelenskyy, disse que seu país estava por trás dos ataques que afundaram um navio de guerra russo e danificaram um navio de carga sancionado ao largo da Líbia.",
+      "title": "Chanceler da Argentina minimiza ataques de Milei a Lula",
+      "summary": "Pablo Quirno afirmou que declarações do líder argentino eram apenas qualificações e defendeu a manutenção dos acordos vigentes",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/",
-      "published_on": "23/11/2026 08:34 (Boa Vista)",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/22/cddcf89c-30d3-466a-aa34-bf3d623dbc48/thumbnail/1200x630/188c817cd5519ea6327fd31141954c15/2026-11-22t195244z-1832180370-rc2ysoaiuqgm-rtrmadp-3-libya-port-explosion.jpg",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/chanceler-da-argentina-minimiza-ataques-de-milei-a-lula/",
+      "published_on": "23/11/2026 08:50 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/07/investiment-forum-brasil_mcamgo_abr_07112023-8_9aaf7d.jpg?w=200",
       "selection": "automatic"
     },
     {
