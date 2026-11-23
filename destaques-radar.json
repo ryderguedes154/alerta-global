@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T13:53:18.166067Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T13:58:48.829344Z",
+  "status": "checado",
   "items": [
     {
       "title": "Israel realiza operação militar em campo de refugiados na Cisjordânia",
@@ -15,6 +15,19 @@
       "url": "https://www.cnnbrasil.com.br/internacional/israel-realiza-operacao-militar-em-campo-de-refugiados-na-cisjordania/",
       "published_on": "23/11/2026 05:50 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/gas-lacrimogeneo-israel-palestina.jpeg.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
+      "title": "Zelenskyy elogia o ataque da Ucrânia a um navio de guerra russo atracado em uma base naval na Líbia",
+      "summary": "KYIV, Ucrânia (AP) – A Ucrânia realizou um ataque a um navio de guerra russo atracado em um porto na Líbia, disse o presidente Volodymyr Zelenskyy na segunda-feira, alegando que drones marítimos afundaram o navio da Marinha em um ataque surpresa no dia anterior. As forças ucranianas implantaram sete drones na operação que atingiu…",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/ukraine-russia-zelenskyy-warship-attack-libya-c382f8eb06dca7d87e89bc6c18ba7d61?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+      "published_on": "23/11/2026 07:50 (Boa Vista)",
+      "image": "https://ic-cdn.flipboard.com/apnews.com/6b5be241c4b538ddd9169298a5cfe9e1a34e7e2c/_large.webp",
       "selection": "automatic"
     },
     {
@@ -54,19 +67,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm",
       "published_on": "22/11/2026 22:40 (Boa Vista)",
       "image": "",
-      "selection": "automatic"
-    },
-    {
-      "title": "Chanceler da Argentina minimiza ataques de Milei a Lula",
-      "summary": "Pablo Quirno afirmou que declarações do líder argentino eram apenas qualificações e defendeu a manutenção dos acordos vigentes",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/chanceler-da-argentina-minimiza-ataques-de-milei-a-lula/",
-      "published_on": "23/11/2026 08:50 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/07/investiment-forum-brasil_mcamgo_abr_07112023-8_9aaf7d.jpg?w=200",
       "selection": "automatic"
     },
     {
