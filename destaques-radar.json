@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T19:34:40.412174Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T19:39:46.447630Z",
+  "status": "checado",
   "items": [
     {
       "title": "UE propõe novas sanções abrangentes à Rússia visando bancos, criptomoedas e eventos esportivos",
@@ -57,16 +57,16 @@
       "selection": "automatic"
     },
     {
-      "title": "No Sudão, as tensões internacionais aumentaram após um ataque de drone contra um edifício da ONU",
-      "summary": "O exército de Cartum acusa os paramilitares das Forças de Apoio Rápido de terem lançado a sua ofensiva aérea a partir do território etíope.",
+      "title": "A Ucrânia afirma ter afundado um navio de guerra russo ao largo da Líbia",
+      "summary": "Na segunda-feira, a Ucrânia afirmou ter sido responsável por ataques a dois navios russos ao largo da Líbia, incluindo um que afundou um navio de guerra moderno, no mais recente reflexo da invasão de Moscou. Os ataques de domingo perto do porto líbio de Benghazi ocorrem em um momento em que a Ucrânia intensificou seus ousados ataques contra a Rússia longe da",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/afrique/article/2026/11/23/au-soudan-tensions-internationales-accrues-apres-une-frappe-de-drone-contre-un-batiment-de-l-onu_6814440_3212.html",
-      "published_on": "23/11/2026 14:31 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/22/0/0/5391/3594/1440/960/60/0/2822218_ftp-1-zrswxhwpyohj-afp-d8al2nu.jpg",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/ukraine-claims-it-sank-russian-warship-off-libya",
+      "published_on": "23/11/2026 15:39 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/42bcf66a-e774-11f1-99b6-13439ca2fe89/w:1024/p:16x9/EN-20261123-201152-201640-CS.jpg",
       "selection": "automatic"
     },
     {
