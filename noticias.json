@@ -44,7 +44,7 @@
   {
     "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
     "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -192,8 +192,8 @@
     "date": "2026-11-23T00:18:03Z",
     "lang": "en",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-06T015144Z_77722265_RC21IOA70JJX_RTRMADP_3_SOUTHKOREA-MARKETS-1-1795393000.jpg?resize=1920%2C1440",
-    "summary_pt": "O Kospi cai 3%, à medida que os mercados de toda a região se preparam para perdas.",
-    "title_pt": "O mercado de ações da Coreia do Sul cai à medida que aumentam os temores de uma bolha de IA"
+    "title_pt": "O mercado de ações da Coreia do Sul cai à medida que aumentam os temores de uma bolha de IA",
+    "summary_pt": "O Kospi cai 3%, à medida que os mercados de toda a região se preparam para perdas."
   },
   {
     "title": "“Ampliar ambição”: Brasil e outros países criticam fim da COP31 sem acordo",
@@ -226,7 +226,7 @@
   {
     "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
     "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -336,6 +336,22 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/01/unesp.jpg?w=200",
     "title_pt": "Unesp 2027: 1ª fase tem interdisciplinaridade e alta interpretação de texto",
     "summary_pt": "Prova foi aplicada neste domingo (22) e contou com 90 questões de múltipla escolha sobre conhecimentos gerais; universidade oferece 5.850 vagas para 137 cursos de graduação"
+  },
+  {
+    "title": "Terremoto de magnitude 4.7 — 226 km NW of Tobelo, Indonesia",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "226 km NW of Tobelo, Indonesia",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucv2",
+    "date": "2026-11-22T23:50:44.048000Z",
+    "lat": 3.0639,
+    "lon": 126.468,
+    "depth_km": 40.004,
+    "forcedSev": "low",
+    "title_pt": "Terremoto de magnitude 4.7 — 226 km NW of Tobelo, Indonesia",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
     "title": "Miss Universo: brasileira aposta em biquíni azul brilhante para desfile",
@@ -5177,6 +5193,20 @@
     "summary_pt": "A Austrália critica o Escritório de Orçamento do Congresso dos EUA por comentários sobre o AUKUS Reuters"
   },
   {
+    "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+    "summary": "GUASAVE, Mexico (AP) — Heavy gunfire, helicopters and burning trucks marked Mexico’s Sinaloa state Saturday after authorities captured cartel boss Fausto Isidro Meza Flores, known as “El Chapo Isidro,” in an operation that left at least 11 people dead. Meza Flores, one of the FBI’s 10 most wanted …",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/mexico-cartels-el-chapo-isidro-sinaloa-violence-7301b67a1b1b974bc6bd20c9d030ce07?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+    "date": "2026-11-22T00:12:01Z",
+    "lang": "en",
+    "image": "https://ic-cdn.flipboard.com/apnews.com/a2caf59dec6a0aa9799bcea9b5c1f64bd80006b7/_large.webp",
+    "title_pt": "Líder de cartel capturado no norte do México em um tiroteio sangrento que deixou 11 mortos",
+    "summary_pt": "Fausto Isidro Meza Flores, mais conhecido como \"El Chapo Isidro\", era um dos fugitivos mais procurados pelo FBI. Sua prisão no noroeste do México no sábado provocou violência na região."
+  },
+  {
     "title": "FBI reportedly investigating apparent hack of its criminal database",
     "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
     "category": "Geral",
@@ -5847,20 +5877,6 @@
     "image": "",
     "title_pt": "Ataque israelense a veículo em Gaza mata três pessoas, segundo o Ministério da Saúde de Gaza",
     "summary_pt": "Ataque israelense a veículo em Gaza mata três pessoas, diz o Ministério da Saúde de Gaza à Reuters"
-  },
-  {
-    "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
-    "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "NPR",
-    "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
-    "date": "2026-11-21T18:08:55Z",
-    "lang": "en",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4153x2769+0+0/resize/4153x2769!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2F34%2F888e5ba6425cae1b50ebbe90e6a1%2Fap26325506754293.jpg",
-    "title_pt": "Líder de cartel capturado no norte do México em um tiroteio sangrento que deixou 11 mortos",
-    "summary_pt": "Fausto Isidro Meza Flores, mais conhecido como \"El Chapo Isidro\", era um dos fugitivos mais procurados pelo FBI. Sua prisão no noroeste do México no sábado provocou violência na região."
   },
   {
     "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
@@ -7009,19 +7025,5 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg",
     "title_pt": "Homem condenado por iniciar incêndio em Palisades, Los Angeles",
     "summary_pt": "O morador de Los Angeles, de 30 anos, foi condenado por incêndio criminoso que provocou incêndios florestais que mataram 12 pessoas e destruíram mais de 6.800 edifícios."
-  },
-  {
-    "title": "When you see smoke, run: Rohingya who escaped Myanmar’s genocide tell their stories",
-    "summary": "Survivors recount rivers red with blood and burning nearby villages serving as an urgent warning to flee their homes Smoke was often the signal to run – seen from a distance, it was the indication for Rohingya that a neighbouring village was under attack and that theirs would be next. In other places, they saw the rivers run red and would pull out the bodies",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories",
-    "date": "2026-11-21T04:00:47Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/2ff5d1e8e72cae560f6ff28cfc6de81f85a9e5e0/805_50_3971_3177/master/3971.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a99e2966eeabad8964a38b8c2878950e",
-    "title_pt": "Quando você vir fumaça, corra: rohingyas que escaparam do genocídio de Mianmar contam suas histórias",
-    "summary_pt": "Os sobreviventes relatam rios vermelhos de sangue e aldeias próximas em chamas, servindo como um aviso urgente para fugir de suas casas. A fumaça era frequentemente o sinal para correr – vista à distância, era a indicação para os rohingyas de que uma aldeia vizinha estava sendo atacada e que a deles seria a próxima. Em outros lugares, eles viam os rios ficarem vermelhos e retiravam os corpos."
   }
 ]
