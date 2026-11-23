@@ -1,7 +1,7 @@
 {
   "edition": "22/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T02:53:28.671441Z",
+  "checked_at": "2026-11-23T02:58:35.164104Z",
   "status": "checado",
   "items": [
     {
@@ -12,7 +12,7 @@
       "region": "Vanuatu region",
       "country": "GLOBAL",
       "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26327000",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm",
       "published_on": "22/11/2026 22:40 (Boa Vista)",
       "image": "",
       "selection": "automatic"
