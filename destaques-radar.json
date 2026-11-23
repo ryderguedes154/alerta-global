@@ -1,22 +1,9 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T14:25:12.575501Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T14:30:28.013540Z",
+  "status": "checado",
   "items": [
-    {
-      "title": "Israel realiza operação militar em campo de refugiados na Cisjordânia",
-      "summary": "Ação no acampamento de Al-Amari envolveu gás lacrimogêneo e a detenção de dezenas de palestinos perto da cidade de Ramallah",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/israel-realiza-operacao-militar-em-campo-de-refugiados-na-cisjordania/",
-      "published_on": "23/11/2026 05:50 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/gas-lacrimogeneo-israel-palestina.jpeg.jpg?w=200",
-      "selection": "automatic"
-    },
     {
       "title": "Zelenskyy elogia o ataque da Ucrânia a um navio de guerra russo atracado em uma base naval na Líbia",
       "summary": "KYIV, Ucrânia (AP) – A Ucrânia realizou um ataque a um navio de guerra russo atracado em um porto na Líbia, disse o presidente Volodymyr Zelenskyy na segunda-feira, alegando que drones marítimos afundaram o navio da Marinha em um ataque surpresa no dia anterior. As forças ucranianas implantaram sete drones na operação que atingiu…",
@@ -106,6 +93,19 @@
       "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
       "published_on": "22/11/2026 09:50 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Autoprodução de energia como rota de competitividade e descarbonização",
+      "summary": "Em artigo ao CNN Infra, André Almeida diz que modelo amplia a previsibilidade dos custos de energia e pode ajudar a indústria a reduzir emissões e disputar mercados internacionais",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/infra/autoproducao-de-energia-como-rota-de-competitividade-e-descarbonizacao/",
+      "published_on": "23/11/2026 07:00 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/017_20180316-21.jpg.jpeg?w=1200&h=630&crop=1",
       "selection": "automatic"
     }
   ]
