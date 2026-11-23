@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-23T15:34:28.181Z",
+  "updated_at": "2026-11-23T16:43:28.157Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "União Europeia propõe 22º pacote de sanções contra a Rússia",
+      "summary": "A Comissão Europeia apresentou em 23 de novembro novas sanções propostas contra cerca de 60 bancos russos, plataformas de criptomoedas e empresas do setor elétrico. As medidas ainda dependem da aprovação unânime dos 27 países da União Europeia.",
+      "impact_br": "Sem efeito direto confirmado no Brasil. Se aprovadas, as medidas podem alterar operações financeiras e comerciais internacionais ligadas à Rússia.",
+      "category": "diplomacia",
+      "region": "Europa",
+      "country": "EU",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/eu-commission-proposes-22nd-sanctions-package-russia-2026-11-23/",
+      "published_on": "2026-11-23",
+      "published_at": null,
+      "image": null,
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-23T16:43:28.157Z"
+    },
     {
       "title": "Comissão Europeia confirma vazamento de dados em ataque cibernético",
       "summary": "A Comissão Europeia confirmou em 23 de novembro que o ataque cibernético divulgado na semana anterior afetou a plataforma de cursos EU Academy, deixou o serviço indisponível e provocou vazamento de dados pessoais de usuários. Os afetados foram avisados. A investigação continua e a autoria não foi identificada.",
