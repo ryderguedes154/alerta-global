@@ -2,9 +2,25 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-23T19:26:36.143Z",
+  "updated_at": "2026-11-23T20:14:15.389Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Nvidia reconduz Jensen Huang ao comando e ações disparam após decisão",
+      "summary": "A Nvidia anunciou em 23 de novembro a recondução de Jensen Huang à presidência executiva, após sua renúncia em 12 de novembro. A decisão, apoiada pelo presidente dos EUA, Donald Trump, impulsionou as ações da fabricante de chips de inteligência artificial. Investigações internas e governamentais relacionadas a segurança e controles de exportação continuam.",
+      "impact_br": "A movimentação pode repercutir nas bolsas e em empresas brasileiras ligadas à tecnologia e investimentos internacionais, sem impacto direto confirmado.",
+      "category": "tecnologia",
+      "region": "América do Norte / Global",
+      "country": "US",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/",
+      "published_on": "2026-11-23",
+      "published_at": "2026-11-23T09:59:00-04:00",
+      "image": "",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-23T20:14:15.389Z"
+    },
     {
       "title": "Tajiquistão inicia saída do Tribunal Penal Internacional em meio a série de retiradas",
       "summary": "O Tajiquistão notificou em 20 de novembro sua saída do Estatuto de Roma, com efeito previsto para 20 de novembro de 2027. O Tribunal Penal Internacional e a União Europeia lamentaram a decisão em 23 de novembro. É mais uma retirada que pode enfraquecer a cooperação internacional na investigação de crimes graves.",
