@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T09:36:59.955140Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T09:42:46.743271Z",
+  "status": "checado",
   "items": [
     {
       "title": "Menino de 7 anos foi retirado vivo dos escombros horas após ataque russo à Ucrânia, dizem socorristas",
@@ -44,16 +44,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Ucrânia assume responsabilidade pelo ataque de drone que afundou navio de guerra russo na Líbia",
-      "summary": "“Os objetivos planeados foram alcançados”, informou esta segunda-feira o presidente ucraniano, Volodymyr Zeleneski. Kyiv usou sete navios de ataque não tripulados",
+      "title": "Ataque russo a prédio na Ucrânia mata 11; menino e idosa são resgatados",
+      "summary": "Equipes de resgate trabalharam durante a madrugada no local do prédio destruído, à procura de sobreviventes",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "ES",
-      "source": "El País",
-      "url": "https://elpais.com/internacional/2026-11-23/ucrania-asume-la-autoria-del-ataque-con-drones-que-hundio-en-libia-un-barco-de-guerra-ruso.html",
-      "published_on": "23/11/2026 05:14 (Boa Vista)",
-      "image": "https://imagenes.elpais.com/resizer/v2/YEK4EJ7JPBHXRHOVGKWRLIVXD4.jpg?auth=aaad6aa3dc7c33e31560531e33232d0038f25f5372d3c6160414c69776e82e4b",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/ataque-russo-a-predio-na-ucrania-mata-11-menino-e-idosa-sao-resgatados/",
+      "published_on": "23/11/2026 05:15 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/UKRAINE-CRISIS-ATTACK-KYIV-REGION_010926.jpg?w=200",
       "selection": "automatic"
     },
     {
