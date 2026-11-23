@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T07:01:13.416996Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T07:06:46.105909Z",
+  "status": "checado",
   "items": [
     {
       "title": "Menino de 7 anos foi retirado vivo dos escombros horas após ataque russo à Ucrânia, dizem socorristas",
@@ -28,6 +28,19 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm",
       "published_on": "22/11/2026 22:40 (Boa Vista)",
       "image": "",
+      "selection": "automatic"
+    },
+    {
+      "title": "Imagens de satélite mostram navio de guerra russo virado de cabeça para baixo na Líbia após suposto ataque de drone ucraniano",
+      "summary": "Imagens de satélite mostram um navio da Marinha russa virado no porto de Benghazi, no leste da Líbia, após uma explosão no domingo. As autoridades locais suspeitam de um ataque de drone, mas não confirmaram quem foi o responsável.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/23/satellite-images-show-russian-warship-capsized-in-libya-after-suspected-ukrainian-drone-st",
+      "published_on": "23/11/2026 03:00 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/10/00/39/30/696x392_cmsv2_8b240281-c14e-555a-a6ba-8d0e82d009a6-10003930.jpg",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-rdf",
       "published_on": "22/11/2026 09:18 (Boa Vista)",
       "image": "https://static.dw.com/image/80013500_6.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "As contas de energia vão disparar – veja como você pode aliviar o impacto",
-      "summary": "As contas de energia doméstica estão prestes a disparar, mas há maneiras de controlar seus gastos.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "published_on": "22/11/2026 21:05 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
       "selection": "automatic"
     }
   ]
