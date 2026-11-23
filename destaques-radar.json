@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-23T23:32:43.949146Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-23T23:37:49.861946Z",
+  "status": "checado",
   "items": [
     {
       "title": "O que o ataque a um navio russo na Líbia diz sobre a propagação da guerra na Ucrânia",
@@ -44,16 +44,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Ucrânia compartilha vídeo de ataques a navios russos ao largo da Líbia",
-      "summary": "O presidente Zelensky disse que um navio de guerra russo foi afundado, e um cargueiro russo também foi atingido.",
+      "title": "A UE planeja proibir o esporte em uma nova proposta abrangente de sanções contra a Rússia",
+      "summary": "As sanções propostas visam restringir o financiamento russo por meio de criptomoedas e a \"propaganda\" no esporte.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
-      "published_on": "23/11/2026 07:34 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
+      "published_on": "23/11/2026 19:26 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04b62a0b8f-1795470890_f46624-1795476355.jpg?resize=1200%2C630&quality=80",
       "selection": "automatic"
     },
     {
