@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T00:14:00.901567Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T00:19:12.764584Z",
+  "status": "checado",
   "items": [
     {
       "title": "O que o ataque a um navio russo na Líbia diz sobre a propagação da guerra na Ucrânia",
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Guerra no Irã ao vivo: Irã diz que três navios pegaram fogo após atingirem minas em Ormuz",
+      "summary": "A Guarda Revolucionária do Irã afirma que três petroleiros pegaram fogo após atingirem minas navais no Estreito de Ormuz.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
+      "published_on": "23/11/2026 20:00 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261123__D8BZ7G9__v2__HighRes__IranUsIsraelWar-1795471267.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
+    {
       "title": "A UE planeja proibir o esporte em uma nova proposta abrangente de sanções contra a Rússia",
       "summary": "As sanções propostas visam restringir o financiamento russo por meio de criptomoedas e a \"propaganda\" no esporte.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -67,19 +80,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
       "published_on": "23/11/2026 17:30 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/2025-06-23T163901Z_2116085940_RC2G8FAM4IDS_RTRMADP_3_IRAN-NUCLEAR-ENERGY-1755798951.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "Os Estados Unidos anunciam novas sanções para privar o Irã da entrada de dinheiro",
-      "summary": "Bilhões de dólares em transações suspeitas ligadas ao Irã foram detectados pelo regulador norte-americano FinCEN entre 2025 e 2026, segundo o Tesouro.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/international/article/2026/11/23/les-etats-unis-annoncent-de-nouvelles-sanctions-pour-priver-l-iran-de-rentrees-d-argent_6814450_3210.html",
-      "published_on": "23/11/2026 16:37 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/10/28/0/0/5500/3666/1440/960/60/0/7293590_ftp-1-fdveboscvtds-2026-10-28t123341z-719045701-rc2mboab5pcz-rtrmadp-3-iran-crisis-economy-hardship.JPG",
       "selection": "automatic"
     },
     {
