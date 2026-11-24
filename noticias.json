@@ -1,5 +1,47 @@
 [
   {
+    "title": "Stocks Set to Slide as Tech Stocks Partly Reverse Nvidia-Sparked Rally",
+    "summary": "Markets have veered wildly for days, pushed and pulled by the drama at Nvidia and the record-breaking trading debut of Anthropic.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+    "date": "2026-11-24T12:50:46Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
+    "title_pt": "Ações devem cair à medida que as ações de tecnologia revertem parcialmente a alta provocada pela Nvidia",
+    "summary_pt": "Os mercados têm oscilado drasticamente há dias, impulsionados e afetados pelo drama da Nvidia e pela estreia recorde da Anthropic no mercado."
+  },
+  {
+    "title": "Weak and immature management putting patients at risk at failing health board, review finds",
+    "summary": "A review finds targets and money being prioritised over patient care at Betsi Cadwaladr health board.",
+    "category": "Saúde",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-24T12:49:43Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aceb/live/90850830-e7f4-11f1-a094-5fdc692f3e33.jpg",
+    "title_pt": "Uma gestão fraca e imatura está colocando os pacientes em risco em um conselho de saúde deficiente, aponta uma análise",
+    "summary_pt": "Uma auditoria constatou que as metas e o dinheiro estão sendo priorizados em detrimento do atendimento aos pacientes no conselho de saúde de Betsi Cadwaladr."
+  },
+  {
+    "title": "Russian governor detained in rare criminal case against regional leader",
+    "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-24T12:45:43Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg",
+    "title_pt": "Governador russo detido em raro caso criminal contra líder regional",
+    "summary_pt": "Andrei Chibis, chefe da região russa setentrional de Murmansk, é o primeiro governador a ser detido em cinco anos."
+  },
+  {
     "title": "EUA bloqueiam pedido do Brasil para painel contra tarifaço na OMC",
     "summary": "Medida brasileira buscava contestar taxas impostas sobre produtos nacionais com base na Seção 301",
     "category": "Geral",
@@ -94,8 +136,8 @@
     "date": "2026-11-24T12:39:50Z",
     "lang": "en",
     "image": "https://i.guim.co.uk/img/media/54e33c27c1b231b7460aab7b0889f51506eac005/204_0_4710_3769/master/4710.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f069160d9a688fa86fc03ca16a0bc421",
-    "summary_pt": "O número de maio a setembro é muito superior ao pico anterior de 2.985 desde que os registos começaram, há uma década. Mais de 5.200 mortes em Inglaterra em 2026 estiveram ligadas ao calor do verão, o maior total anual provisório desde que os registos começaram, há uma década, de acordo com a Agência de Segurança da Saúde do Reino Unido. A agência governamental disse que 5.258 mortes estavam ligadas ao calor extremo entre",
-    "title_pt": "As mortes por calor no verão de 2026 atingiram o recorde de 5.258 na Inglaterra"
+    "title_pt": "As mortes por calor no verão de 2026 atingiram o recorde de 5.258 na Inglaterra",
+    "summary_pt": "O número de maio a setembro é muito superior ao pico anterior de 2.985 desde que os registos começaram, há uma década. Mais de 5.200 mortes em Inglaterra em 2026 estiveram ligadas ao calor do verão, o maior total anual provisório desde que os registos começaram, há uma década, de acordo com a Agência de Segurança da Saúde do Reino Unido. A agência governamental disse que 5.258 mortes estavam ligadas ao calor extremo entre"
   },
   {
     "title": "El Niño provoca secas severas no Pacífico, ameaça causar inundações nos EUA e preocupa economistas",
@@ -177,9 +219,23 @@
     "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
     "date": "2026-11-24T12:34:52Z",
     "lang": "en",
-    "image": "",
+    "image": "https://static01.nyt.com/images/2026/06/23/world/24int-Iran-Lashes-aaa/23int-iran-singer-lashing-anfi-facebookJumbo.jpg",
     "title_pt": "Cantora iraniana recebe 74 chicotadas por se apresentar sem hijab",
     "summary_pt": "Parastoo Ahmadi cantou sem usar o véu obrigatório num concerto virtual em 2024 que se espalhou rapidamente online e atraiu a ira das autoridades da república islâmica."
+  },
+  {
+    "title": "Malasia deportará a miles de rohinyás en diciembre pese a la condena por genocidio a Myanmar",
+    "summary": "Turquía rechaza acoger a los 10.000 refugiados de la minoría birmana que el Gobierno malasio dio por reubicados allí",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-24/malasia-devolvera-a-miles-de-rohinyas-en-diciembre-pese-a-la-condena-por-genocidio-a-myanmar.html",
+    "date": "2026-11-24T12:31:09Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/WJKLF6PR6JKEZDN54SLYYQAQII.jpg?auth=97c1d9c0ab2c5f572aa1e83ada5f8829410ef53d716c3a3a30f38360bf9ed18a",
+    "title_pt": "A Malásia deportará milhares de rohingyas em dezembro, apesar da condenação de Mianmar por genocídio",
+    "summary_pt": "A Turquia se recusa a acolher os 10 mil refugiados da minoria birmanesa que o governo da Malásia considerou realocados para lá"
   },
   {
     "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
@@ -532,18 +588,18 @@
     "summary_pt": "O brasileiro está a caminho do mundo editorial catalão com a publicação de obras de pensamento crítico do sul global e a criação de um curso de tradução em colaboração com a UAB"
   },
   {
-    "title": "Stocks Slide as Tech Stocks Partly Reverse Nvidia-Sparked Rally",
-    "summary": "Markets have veered wildly for days, pushed and pulled by the drama at Nvidia and the record-breaking trading debut of Anthropic.",
+    "title": "Iraqi PM orders ministry to manage oilfields in areas under Kurdish control, Kurds reject move",
+    "summary": "Iraqi PM orders ministry to manage oilfields in areas under Kurdish control, Kurds reject move Reuters",
     "category": "Geral",
     "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-    "date": "2026-11-24T12:05:47Z",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0ttY1ZZa0d3ajhmMUVZYmhrdHNGd0E4aC0wQWswZzc0UkFrcndsZ3pJUkJQMVF3Rlp0cjdGdkc2bG5XY093OWx6QWdtQVlJMVpRN2QzUUZicGRBZEROT2JUZEdQUTRpWHBpYzNXMVVwN1FQbmZpVmZfTm1leHQzclpZSkdsRk9MWHBzZEpaSlFoVjd0QzZQMnl2SDladHhlTzFmYkhmT2xPSlRTc2o2VmY2ZThoQ0dxbl94NXAxaXFWTHBNb1V6bzhXRTFPQQ?oc=5",
+    "date": "2026-11-24T12:05:41Z",
     "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
-    "title_pt": "As ações caem enquanto as ações de tecnologia revertem parcialmente o rali desencadeado pela Nvidia",
-    "summary_pt": "Os mercados mudaram violentamente durante dias, empurrados e puxados pelo drama da Nvidia e pela estreia comercial recorde da Anthropic."
+    "image": "",
+    "title_pt": "O primeiro-ministro iraquiano ordena que o ministério administre os campos petrolíferos em áreas sob controle curdo, mas os curdos rejeitam a medida",
+    "summary_pt": "O primeiro-ministro iraquiano ordena que o ministério administre os campos petrolíferos em áreas sob controle curdo, mas os curdos rejeitam a medida, segundo a Reuters"
   },
   {
     "title": "Norway Has Closed Its Last Coal Mine, Ending a Way of Life in the Arctic",
@@ -786,20 +842,6 @@
     "summary_pt": "O Vaticano publica as anotações da agenda pessoal do Pontífice entre 1992 e 2024. Ele viu no escândalo da pedofilia a \"entrada do inferno\": \"Que vergonha e que mal isso faz à Igreja\""
   },
   {
-    "title": "Weak and immature management putting patients at risk at failing health board, review finds",
-    "summary": "A review finds targets and money being prioritised over patient care at Betsi Cadwaladr health board.",
-    "category": "Saúde",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-24T11:52:28Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aceb/live/90850830-e7f4-11f1-a094-5fdc692f3e33.jpg",
-    "title_pt": "Uma gestão fraca e imatura está colocando os pacientes em risco em um conselho de saúde deficiente, aponta uma análise",
-    "summary_pt": "Uma auditoria constatou que as metas e o dinheiro estão sendo priorizados em detrimento do atendimento aos pacientes no conselho de saúde de Betsi Cadwaladr."
-  },
-  {
     "title": "El colegio Decroly anuncia ahora su cierre y una inmobiliaria publicita sus instalaciones por 16 millones de euros",
     "summary": "La propiedad dice que no puede continuar “con un proyecto cuya decreciente rentabilidad no resulta suficiente”. Las familias de los alumnos no ocultan su indignación con los gestores del centro",
     "category": "Geral",
@@ -996,20 +1038,6 @@
     "image": "https://s.france24.com/media/display/19c2ed9c-e7eb-11f1-a747-81da3ab2acbb/w:1024/p:16x9/CULTURE-ITW-JIM-KERR-213027-2026-11-18-F24-frame-23940.jpeg",
     "title_pt": "Simple Minds aos 50: ainda vivo e forte",
     "summary_pt": "Dos adolescentes de Glasgow às estrelas do rock globais, os Simple Minds passaram quase cinco décadas a encher estádios e a criar algumas das músicas que definiram a sua geração. Agora, enquanto a banda comemora 50 anos com a nova música “Sacrosanct” e uma grande turnê em 2027, Jim Kerr conta a Eve Jackson sobre a música, as memórias e os momentos que moldaram o Simple Minds, incluindo"
-  },
-  {
-    "title": "Iraqi PM orders ministry to manage oilfields in areas under Kurdish control",
-    "summary": "Iraqi PM orders ministry to manage oilfields in areas under Kurdish control Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0ttY1ZZa0d3ajhmMUVZYmhrdHNGd0E4aC0wQWswZzc0UkFrcndsZ3pJUkJQMVF3Rlp0cjdGdkc2bG5XY093OWx6QWdtQVlJMVpRN2QzUUZicGRBZEROT2JUZEdQUTRpWHBpYzNXMVVwN1FQbmZpVmZfTm1leHQzclpZSkdsRk9MWHBzZEpaSlFoVjd0QzZQMnl2SDladHhlTzFmYkhmT2xPSlRTc2o2VmY2ZThoQ0dxbl94NXAxaXFWTHBNb1V6bzhXRTFPQQ?oc=5",
-    "date": "2026-11-24T11:38:53Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Primeiro-ministro iraquiano ordena que o ministério administre os campos petrolíferos em áreas sob controle curdo",
-    "summary_pt": "Primeiro-ministro iraquiano ordena que o ministério administre os campos petrolíferos em áreas sob controle curdo Reuters"
   },
   {
     "title": "Detenidas dos personas en Barcelona vinculadas a la red de financiación de Hamás",
@@ -1562,7 +1590,7 @@
   {
     "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
     "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2270,8 +2298,8 @@
     "date": "2026-11-24T09:50:19Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Ministro alemão ‘chocado’ com intervenção de Trump na Nvidia Reuters",
-    "title_pt": "Ministro alemão ‘chocado’ com intervenção de Trump na Nvidia"
+    "title_pt": "Ministro alemão ‘chocado’ com intervenção de Trump na Nvidia",
+    "summary_pt": "Ministro alemão ‘chocado’ com intervenção de Trump na Nvidia Reuters"
   },
   {
     "title": "Após gastar todas as economias nas cirurgias da esposa, veterano de guerra volta a trabalhar aos 81 anos e ganha surpresa em caixa de mercado",
@@ -5036,20 +5064,6 @@
     "summary_pt": "Foto divulgada pelo Exército dos Estados Unidos mostra a Fábrica de Munições do Exército de Iowa, em Middletown, no estado de Iowa. Dori Whipple / Associated Press Um tribunal federal dos Estados Unidos autorizou, nesta segunda-feira (23), que o exército do país detone cinco toneladas de material explosivo encontrados no estado de Iowa. O material foi encont"
   },
   {
-    "title": "La izquierda combate unida a PP y Vox en un debate a ocho que escenifica la división entre bloques",
-    "summary": "El encuentro de candidatos más diverso de la campaña deriva en una sucesión de duelos y revanchas pendientes",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/la-izquierda-combate-unida-a-pp-y-vox-en-un-debate-a-ocho-que-escenifica-la-division-entre-bloques.html",
-    "date": "2026-11-23T23:41:45Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/DJV5IMSAJNE7PJB6GGUONKICEQ.jpg?auth=9d3e70b9dedd1685e83270a3a1e33d9eb99ce1987e1a754c6d88a1d4c6e0fd94",
-    "title_pt": "A esquerda enfrenta o PP e o Vox unida em um debate com oito partidos que retrata a divisão entre os blocos",
-    "summary_pt": "O encontro de candidatos mais diversificado da campanha resulta em uma sucessão de duelos e revanches pendentes"
-  },
-  {
     "title": "11/23: CBS Evening News",
     "summary": "A weekend airline outage causes travel problems for thousands; Jensen Huang makes a stunning return as CEO of Nvidia.",
     "category": "Geral",
@@ -6272,7 +6286,7 @@
   {
     "title": "The rise and fall and rise again of Jensen Huang",
     "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6832,6 +6846,20 @@
     "summary_pt": "O General Seán Clancy afirma que a Europa está mais bem preparada para se defender, mas deve acelerar os esforços para colmatar lacunas militares críticas, no meio de ameaças crescentes da Rússia e da incerteza sobre os compromissos militares dos EUA."
   },
   {
+    "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+    "summary": "KYIV, Ukraine (AP) — Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said Monday, claiming that maritime drones sank the navy vessel in a surprise assault the previous day. Ukrainian forces deployed seven drones in the operation that struck …",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/ukraine-russia-zelenskyy-warship-attack-libya-c382f8eb06dca7d87e89bc6c18ba7d61?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+    "date": "2026-11-23T11:50:23Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "QUIEV, Ucrânia (AP) — A Ucrânia realizou um ataque a um navio de guerra russo ancorado em um porto na Líbia, disse o presidente Volodymyr Zelenskyy na segunda-feira, afirmando que drones marítimos afundaram o navio da marinha em um ataque surpresa no dia anterior. As forças ucranianas usaram sete drones na operação que atingiu...",
+    "title_pt": "Zelenskyy celebra o ataque da Ucrânia a um navio de guerra russo ancorado em uma base naval na Líbia"
+  },
+  {
     "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
     "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels. Ukraine’s security service, the SBU, said seven domestically made ",
     "category": "Geral",
@@ -6984,33 +7012,5 @@
     "image": "https://images.euronews.com/articles/stories/10/00/44/94/696x392_cmsv2_ab5a62a4-f72e-5f10-9684-88499ed8f247-10004494.jpg",
     "title_pt": "Último boletim de notícias | 23 de novembro de 2026 – Meio-dia",
     "summary_pt": "Fique por dentro das notícias mais importantes da Europa e de outras partes do mundo neste dia 23 de novembro de 2026. Últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens."
-  },
-  {
-    "title": "'I've lost her forever' — Why German voice actors are refusing to sign Netflix's AI contract",
-    "summary": "For decades, Germans have known Hollywood's biggest stars through the same familiar voices. Now an AI clause in Netflix contracts is splitting the industry over whether it protects performers or exposes them.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "DE",
-    "source": "Deutsche Welle",
-    "url": "https://www.dw.com/en/i-ve-lost-her-forever-why-german-voice-actors-are-refusing-to-sign-netflix-s-ai-contract/a-80004381?maca=en-rss-en-all-1573-rdf",
-    "date": "2026-11-23T10:58:00Z",
-    "lang": "en",
-    "image": "https://static.dw.com/image/80004535_6.jpg",
-    "title_pt": "‘Eu a perdi para sempre’ – Por que os dubladores alemães se recusam a assinar o contrato de IA da Netflix",
-    "summary_pt": "Durante décadas, os alemães conheceram as maiores estrelas de Hollywood através das mesmas vozes familiares. Agora, uma cláusula de IA nos contratos da Netflix está dividindo a indústria sobre se ela protege os artistas ou os expõe."
-  },
-  {
-    "title": "Budget cuts threaten Germany's fight against antisemitism and racism",
-    "summary": "Numerous grassroots initiatives in Germany are facing funding cuts. Affected organizations are sounding the alarm, pointing to growing challenges posed by far-right extremism.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "DE",
-    "source": "Deutsche Welle",
-    "url": "https://www.dw.com/en/budget-cuts-threaten-germany-s-fight-against-antisemitism-and-racism/a-80018644?maca=en-rss-en-all-1573-rdf",
-    "date": "2026-11-23T10:55:00Z",
-    "lang": "en",
-    "image": "https://static.dw.com/image/79154627_6.jpg",
-    "title_pt": "Cortes orçamentais ameaçam a luta da Alemanha contra o antissemitismo e o racismo",
-    "summary_pt": "Numerosas iniciativas populares na Alemanha enfrentam cortes de financiamento. As organizações afetadas estão a soar o alarme, apontando para os desafios crescentes colocados pelo extremismo de extrema direita."
   }
 ]
