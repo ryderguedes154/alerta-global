@@ -1,5 +1,19 @@
 [
   {
+    "title": "Iran developing chemical weapons, Israeli defense minister says",
+    "summary": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+    "date": "2026-11-24T19:40:24Z",
+    "lang": "en",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/19e30d67-9cb8-4592-b767-89255f357ed5/thumbnail/1200x630g8/a2addecec2912e9b8086c75c5747d267/ap26324612362330.jpg",
+    "title_pt": "Irã está desenvolvendo armas químicas, diz ministro da Defesa de Israel",
+    "summary_pt": "O ministro da Defesa israelense, Israel Katz, afirmou que o Irã está desenvolvendo armas químicas e deixou em aberto a possibilidade de ataques preventivos, se necessário."
+  },
+  {
     "title": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
     "summary": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
     "category": "Geral",
@@ -394,20 +408,6 @@
     "summary_pt": "Uma auditoria constatou que as metas e o dinheiro estão sendo priorizados em detrimento do atendimento aos pacientes no conselho de saúde de Betsi Cadwaladr."
   },
   {
-    "title": "Iran developing chemical weapons, Israeli defense minister says",
-    "summary": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
-    "date": "2026-11-24T19:02:57Z",
-    "lang": "en",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/19e30d67-9cb8-4592-b767-89255f357ed5/thumbnail/1200x630g8/a2addecec2912e9b8086c75c5747d267/ap26324612362330.jpg",
-    "title_pt": "Irã está desenvolvendo armas químicas, diz ministro da Defesa de Israel",
-    "summary_pt": "O ministro da Defesa israelense, Israel Katz, afirmou que o Irã está desenvolvendo armas químicas e deixou em aberto a possibilidade de ataques preventivos, se necessário."
-  },
-  {
     "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
     "summary": "Israeli police have confiscated mosque loudspeakers as far-right lawmakers push legislation to restrict call to prayer.",
     "category": "Conflitos",
@@ -490,7 +490,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -928,7 +928,7 @@
   {
     "title": "Faisal Islam: Fears over the AI boom haven't gone away",
     "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6538,7 +6538,7 @@
   {
     "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
     "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
