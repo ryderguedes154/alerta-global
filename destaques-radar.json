@@ -1,9 +1,22 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T09:59:53.006817Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T10:05:04.807083Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Drone russo viola o espaço aéreo polonês dias depois que mísseis de cruzeiro caíram no país – Europa ao vivo",
+      "summary": "Autoridades investigam “actividade intencional” no meio de tensões crescentes entre Moscovo e países do flanco oriental da NATO. Entretanto, o Financial Times informa esta manhã que o Pentágono está a atrasar a entrega de cerca de 60 interceptadores de defesa aérea Patriot, muito necessários, à Ucrânia. Os interceptadores, pagos pelos aliados ocidentais da U",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+      "published_on": "24/11/2026 05:53 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e2e04a1671a3feb27f1354db8663a5e9",
+      "selection": "automatic"
+    },
     {
       "title": "O conflito entre a Rússia e a Ucrânia se expandiu geograficamente, gerando preocupações",
       "summary": "Nos últimos dias, a Ucrânia afundou um navio de guerra russo ancorado em um porto na Líbia, e mísseis russos caíram na Polônia. O Kremlin não se manifestou sobre os mísseis.",
@@ -15,19 +28,6 @@
       "url": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
       "published_on": "24/11/2026 05:52 (Boa Vista)",
       "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6051564",
-      "selection": "automatic"
-    },
-    {
-      "title": "Drone russo viola o espaço aéreo polonês dias depois que mísseis de cruzeiro caíram no país – Europa ao vivo",
-      "summary": "Autoridades investigam “actividade intencional” no meio de tensões crescentes entre Moscovo e países do flanco oriental da NATO. Entretanto, o Financial Times informa esta manhã que o Pentágono está a atrasar a entrega de cerca de 60 interceptadores de defesa aérea Patriot, muito necessários, à Ucrânia. Os interceptadores, pagos pelos aliados ocidentais da U",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-      "published_on": "24/11/2026 05:43 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e2e04a1671a3feb27f1354db8663a5e9",
       "selection": "automatic"
     },
     {
@@ -104,7 +104,7 @@
       "country": "GB",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
-      "published_on": "24/11/2026 04:28 (Boa Vista)",
+      "published_on": "24/11/2026 05:54 (Boa Vista)",
       "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d371a0004e0bee9a09bfd9ada713138",
       "selection": "automatic"
     }
