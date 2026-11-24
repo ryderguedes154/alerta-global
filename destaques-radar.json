@@ -1,8 +1,8 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T05:30:26.365827Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T05:35:38.237731Z",
+  "status": "checado",
   "items": [
     {
       "title": "O que o ataque a um navio russo na Líbia diz sobre a propagação da guerra na Ucrânia",
@@ -15,19 +15,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
       "published_on": "23/11/2026 16:48 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "UE propõe novas sanções abrangentes à Rússia visando bancos, criptomoedas e eventos esportivos",
-      "summary": "BRUXELAS (AP) – A Comissão Europeia propôs na segunda-feira atingir dezenas de bancos da Rússia, reprimir as plataformas criptográficas e proibir equipes esportivas e atletas de competir sob a bandeira do país em uma nova rodada de sanções sobre a guerra de Moscou na Ucrânia. As propostas, apresentadas por…",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/europe-russia-sanctions-banks-crypto-visas-sports-ecad86868390f6602b346c70d1fa5757?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-      "published_on": "23/11/2026 13:31 (Boa Vista)",
-      "image": "https://ic-cdn.flipboard.com/apnews.com/1c2aba8aae805f369a23ef7edba06418573bb2fc/_large.jpeg",
       "selection": "automatic"
     },
     {
@@ -54,6 +41,19 @@
       "url": "https://www.cbsnews.com/video/ukraine-sinks-russian-warships-thousands-miles-battlefield-libya/",
       "published_on": "23/11/2026 21:17 (Boa Vista)",
       "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/64c7a5bd-d287-4ac9-b312-c6b8b3260a9b/thumbnail/1200x630/b9d2c5d1c3979fa43b60d4abefda624f/cbsn-fusion-ukraine-sinks-russian-warships-thousands-miles-battlefield-libya-thumbnail.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "UE propõe novas sanções abrangentes à Rússia visando bancos, criptomoedas e eventos esportivos",
+      "summary": "BRUXELAS (AP) – A Comissão Europeia propôs na segunda-feira atingir dezenas de bancos da Rússia, reprimir as plataformas criptográficas e proibir equipes esportivas e atletas de competir sob a bandeira do país em uma nova rodada de sanções sobre a guerra de Moscou na Ucrânia. As propostas, apresentadas por…",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/europe-russia-sanctions-banks-crypto-visas-sports-ecad86868390f6602b346c70d1fa5757?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+      "published_on": "23/11/2026 13:31 (Boa Vista)",
+      "image": "https://ic-cdn.flipboard.com/apnews.com/1c2aba8aae805f369a23ef7edba06418573bb2fc/_large.jpeg",
       "selection": "automatic"
     },
     {
