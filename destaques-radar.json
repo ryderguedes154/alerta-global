@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T01:26:30.931508Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T01:31:56.643906Z",
+  "status": "checado",
   "items": [
     {
       "title": "O que o ataque a um navio russo na Líbia diz sobre a propagação da guerra na Ucrânia",
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "A Ucrânia afunda navios de guerra russos a milhares de quilômetros do campo de batalha, perto da Líbia",
+      "summary": "Um vídeo militar publicado pelo presidente ucraniano, Volodymyr Zelenskyy, supostamente mostra os ataques de drones navais do país a navios russos perto da Líbia, a milhares de quilômetros do campo de batalha. Charlie D'Agata informa.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/ukraine-sinks-russian-warships-thousands-miles-battlefield-libya/",
+      "published_on": "23/11/2026 21:17 (Boa Vista)",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/64c7a5bd-d287-4ac9-b312-c6b8b3260a9b/thumbnail/1200x630/b9d2c5d1c3979fa43b60d4abefda624f/cbsn-fusion-ukraine-sinks-russian-warships-thousands-miles-battlefield-libya-thumbnail.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Guerra no Irã ao vivo: Irã diz que três navios pegaram fogo após atingirem minas em Ormuz",
       "summary": "A Guarda Revolucionária do Irã afirma que três petroleiros pegaram fogo após atingirem minas navais no Estreito de Ormuz.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
       "published_on": "23/11/2026 20:00 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261123__D8BZ7G9__v2__HighRes__IranUsIsraelWar-1795471267.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "A UE planeja proibir o esporte em uma nova proposta abrangente de sanções contra a Rússia",
-      "summary": "As sanções propostas visam restringir o financiamento russo por meio de criptomoedas e a \"propaganda\" no esporte.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
-      "published_on": "23/11/2026 19:26 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04b62a0b8f-1795470890_f46624-1795476355.jpg?resize=1200%2C630&quality=80",
       "selection": "automatic"
     },
     {
