@@ -1,8 +1,8 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T05:20:04.366597Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T05:25:15.922541Z",
+  "status": "checado",
   "items": [
     {
       "title": "O que o ataque a um navio russo na Líbia diz sobre a propagação da guerra na Ucrânia",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "O que o fracasso da COP31 revela sobre um mundo dividido",
-      "summary": "Os interesses dos países produtores de petróleo, um boicote dos EUA e uma disputa sobre finanças podem ter prejudicado as negociações sobre o clima.",
+      "title": "Legisladores republicanos rompem com Trump por causa do suposto contrabando de chips da Nvidia após a reintegração de Jensen Huang – como tudo aconteceu",
+      "summary": "Este blog ao vivo está encerrado agora. Jensen Huang é reintegrado como CEO da Nvidia após intervenção de Trump. Cadastre-se para receber o e-mail Breaking News US. As ações da Nvidia subiram 31% no início do pregão após a notícia. O S&P 500 subiu 4,5% e está recuperando quase metade de suas perdas brutais da semana passada, que foi uma das piores desde a cr",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
+      "category": "Tecnologia",
       "region": "Global",
       "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-      "published_on": "23/11/2026 13:24 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c650/live/3a868c20-e767-11f1-99a1-253766e7ad8b.jpg",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+      "published_on": "23/11/2026 23:04 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5e69966bad470721012a672356f690c9",
       "selection": "automatic"
     }
   ]

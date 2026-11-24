@@ -1577,7 +1577,7 @@
   },
   {
     "title": "US adds Megaspeed to trade blacklist as Nvidia’s Huang returns as CEO",
-    "summary": "Bureau of Security and Industry adds Singapore-based firm involved in Nvidia spy scandal to export control list.",
+    "summary": "Bureau of Industry and Security adds Singapore-based firm involved in Nvidia spy scandal to export control list.",
     "category": "Geral",
     "region": "Global",
     "country": "QA",
@@ -6219,22 +6219,6 @@
     "summary_pt": "O alerta veio dias depois de Carney se ter reunido com o presidente chinês, Xi Jinping, em Shenzhen, onde os dois lados concordaram com mais cortes tarifários, enquanto o Canadá procura novos mercados, à medida que a guerra comercial de Trump continua."
   },
   {
-    "title": "Terremoto de magnitude 4.6 — 158 km SE of Severo-Kuril’sk, Russia",
-    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
-    "category": "Clima e desastres",
-    "region": "158 km SE of Severo-Kuril’sk, Russia",
-    "country": "GLOBAL",
-    "source": "USGS",
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucwm",
-    "date": "2026-11-23T05:22:28.689000Z",
-    "lat": 49.834,
-    "lon": 157.92,
-    "depth_km": 18.644,
-    "forcedSev": "low",
-    "title_pt": "Terremoto de magnitude 4.6 — 158 km SE of Severo-Kuril’sk, Russia",
-    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
-  },
-  {
     "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
     "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
     "category": "Clima e desastres",
@@ -6947,5 +6931,17 @@
     "image": "https://s2-g1.glbimg.com/cy94MgGrHgxmU8BqG3hdVOd_Rq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/6/zMajklTWa5gsMX7UDCkw/ap26326269093758.jpg",
     "title_pt": "Ataque russo perto de Kiev, na Ucrânia, atinge prédio de apartamentos e deixa mortos e feridos",
     "summary_pt": "Bombeiros tentam apagar um incêndio após um ataque russo em Dymer, região de Kiev, Ucrânia, domingo, 22 de novembro de 2026. AP/Efrem Lukatsky Um ataque russo atingiu um prédio de apartamentos em uma vila perto da capital da Ucrânia neste domingo (22), matando pelo menos duas pessoas e ferindo outras quatro, de acordo com as autoridades. O prédio de cinco an"
+  },
+  {
+    "title": "The mythic origin of Chilean sea bass",
+    "summary": "It's a fish that underwent a rebranding in the 1970s and went on to become one of the most popular seafood imports in the United States. But what is Chilean sea bass actually? Correspondent David Pogue looks into the story of a previously-unloved fish with an unfortunate name that became such a favorite of chefs and the public that it was overfished.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/video/the-mythic-origin-of-chilean-sea-bass/",
+    "date": "2026-11-22T15:04:00Z",
+    "lang": "en",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/22/03202254-20ed-4521-845a-2b7fd2bb433e/thumbnail/1200x630/931ee29ccd441abc197c55f81651a88b/chilean-sea-bass-1920.jpg"
   }
 ]
