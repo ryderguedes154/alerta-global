@@ -1,8 +1,8 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T19:46:09.000955Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T19:52:07.667005Z",
+  "status": "checado",
   "items": [
     {
       "title": "Sputnik-S, o satélite russo que ameaça levar a guerra nuclear ao espaço",
@@ -28,6 +28,32 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud6h",
       "published_on": "24/11/2026 07:06 (Boa Vista)",
       "image": "",
+      "selection": "automatic"
+    },
+    {
+      "title": "Ben-Gvir de Israel acusado de buscar “guerra religiosa” por causa de ataques a mesquitas",
+      "summary": "A polícia israelense confiscou alto-falantes de mesquitas enquanto legisladores de extrema direita pressionam uma legislação para restringir o chamado à oração.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
+      "published_on": "24/11/2026 15:02 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b05d7d4e2386-1795545044.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
+    {
+      "title": "A Líbia é uma nova frente na guerra da Ucrânia?",
+      "summary": "O presidente da Ucrânia, Volodymyr Zelenskyy, afirma que dois navios russos foram alvo de ataques nas águas da Líbia.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss",
+      "published_on": "24/11/2026 14:38 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b044cea4a73-1795443946.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
@@ -57,32 +83,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Aliados da OTAN ansiosos à medida que a guerra se espalha para além das fronteiras da Ucrânia e da Rússia",
-      "summary": "À medida que a Ucrânia ataca navios russos em águas distantes, alguns países da NATO expressam uma ansiedade crescente relativamente à propagação da guerra a novas regiões.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/ukraine-russia-war-warship-cargo-ship-attacks-nato-allies-anxiety/",
-      "published_on": "24/11/2026 13:16 (Boa Vista)",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/dbcb0f39-eb93-4867-a447-96b865aa44e1/thumbnail/1200x630/ccf297ec2f3ea6b89708d36ce061fac3/ukraine-russia-sparta-ship.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Itália expressa preocupação à Ucrânia sobre os ataques a navios na Líbia – como aconteceu",
-      "summary": "A Ucrânia confirmou anteriormente que utilizou drones navais em ataques a navios russos ao largo da costa da Líbia. O líder da coligação de esquerda Espanhola, Frente Ampla, apelou a um repensar drástico de todo o sistema de arrendamento habitacional do país e descreveu o despejo de uma mulher de 87 anos – a faísca para protestos a nível nacional que, por su",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-      "published_on": "24/11/2026 12:24 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3d2a47ebcd3157a1c708fc46a40dcc11",
-      "selection": "automatic"
-    },
-    {
       "title": "Dados vazados sugerem que 500 mil soldados russos foram mortos desde o início da invasão da Ucrânia",
       "summary": "Mais de 500 mil soldados russos foram mortos na guerra com a Ucrânia, de acordo com uma estimativa de vários meios de comunicação social. Os números baseiam-se num enorme conjunto de dados que foi pirateado da agência estatal de estatísticas da Rússia, Rosstat, pelo grupo activista bielorrusso Cyber ​​Partisans e por um grupo de hackers ucraniano, Silent Cro",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Os Estados Unidos finalizam novas tarifas para a China, a União Europeia e mais uma dúzia de países",
-      "summary": "O Escritório de Comércio conclui a investigação contra 16 jurisdições por incentivarem a superprodução e permitirem a concorrência desleal",
+      "title": "Putin diz que retaliação é \"inevitável\" após a Ucrânia atacar refinarias de petróleo russas",
+      "summary": "Os ataques ucranianos diminuíram após a declaração de Trump, em meados de outubro, de um cessar-fogo energético, mas voltaram a aumentar depois disso.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Economia",
       "region": "Global",
-      "country": "ES",
-      "source": "El País",
-      "url": "https://elpais.com/us/2026-11-24/estados-unidos-ultima-nuevos-aranceles-a-china-la-ue-y-otra-docena-de-paises.html",
-      "published_on": "24/11/2026 12:04 (Boa Vista)",
-      "image": "https://imagenes.elpais.com/resizer/v2/5G3PMYC575IDNA5OUBBEIDIKUI.jpg?auth=e7981eaba55f1451b8154f861fbafc68094f2e1d6545d9c2cf91e39a0cdb3879",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
+      "published_on": "24/11/2026 15:22 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-01T105125Z_349816858_RC29YT9KV71D_RTRMADP_3_UKRAINE-CRISIS-EU.jpg?resize=1920%2C1440",
       "selection": "automatic"
     }
   ]
