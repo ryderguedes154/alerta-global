@@ -1,15 +1,17 @@
 [
   {
-    "title": "Real Madrid-PSV, en directo, el partido de la Champions League en vivo | Perisic adelanta al PSV",
+    "title": "Real Madrid-PSV, en directo, el partido de la Champions League en vivo | El PSV gana al descanso gracias a un tanto de Perisic",
     "summary": "Un pisotón de Tchouameni sobre Mijnans provoca un penal que pone por detrás en el marcador a los blancos",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
     "source": "El País",
     "url": "https://elpais.com/deportes/futbol/2026-11-24/real-madrid-psv-en-directo-el-partido-de-la-champions-league-en-vivo.html",
-    "date": "2026-11-24T20:44:50Z",
+    "date": "2026-11-24T20:51:01Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/QBV5IZ77MZGTJMSSYNLXMLGDJQ.jpg?auth=75e5bc605c7992564f3627dc1352f07695f3e8cd7f920aedf2991599704fcb8c"
+    "image": "https://imagenes.elpais.com/resizer/v2/FZ3G4A4XQBBYXCYLU75UADCKXQ.jpg?auth=1e39f2029dc5ac77261d60939d5801fdfedc49aa152fdaccf673bff3a2f65379",
+    "title_pt": "Real Madrid-PSV, ao vivo, jogo da Liga dos Campeões ao vivo | PSV vence ao intervalo graças a golo de Perisic",
+    "summary_pt": "Uma pisada de Tchouameni sobre o Mijnans provoca um pênalti que deixa os brancos em desvantagem no placar"
   },
   {
     "title": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
@@ -21,7 +23,23 @@
     "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
     "date": "2026-11-24T20:44:23Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=01befd13f3a603c531ac6b7679e3523b"
+    "image": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=01befd13f3a603c531ac6b7679e3523b",
+    "title_pt": "O DoJ de Trump ‘investigou’ as preocupações sobre Huang após um caso com um suposto espião chinês, mas diz que nenhum risco de segurança foi encontrado – ao vivo",
+    "summary_pt": "O Departamento de Justiça e outras agências chegaram a um “consenso coletivo” de que Jensen Huang não é um risco para a segurança nacional, diz o procurador-geral Todd Blanche. Ele concederá a mais alta honraria civil do país"
+  },
+  {
+    "title": "Assembleias imitam Congresso e ampliam controle parlamentar sobre verbas públicas",
+    "summary": "Às vésperas de o STF definir limites às emendas estaduais, 24 estados já adotam o orçamento impositivo. Outros discutem criar o mecanismo ou ampliar a fatia de recursos sob controle dos deputados.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "DW Brasil",
+    "url": "https://www.dw.com/pt-br/assembleias-imitam-congresso-e-ampliam-controle-parlamentar-sobre-verbas-públicas/a-80029634?maca=bra-rss-br-br-1031-rdf",
+    "date": "2026-11-24T20:43:00Z",
+    "lang": "pt",
+    "image": "",
+    "title_pt": "Assembleias imitam Congresso e ampliam controle parlamentar sobre verbas públicas",
+    "summary_pt": "Às vésperas de o STF definir limites às emendas estaduais, 24 estados já adotam o orçamento impositivo. Outros discutem criar o mecanismo ou ampliar a fatia de recursos sob controle dos deputados."
   },
   {
     "title": "La ruta canaria vuelve a batir su récord de llegadas en un día: 1.611 migrantes en El Hierro",
@@ -33,7 +51,9 @@
     "url": "https://elpais.com/espana/2026-11-24/seis-nuevos-cayucos-llegan-a-canarias-con-900-personas.html",
     "date": "2026-11-24T20:42:22Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/IDZ4IBUZO5IJFCHR6SNRYRXSEY.jpg?auth=37e6b2416dec6eb7dfc8eec92e19a0977de8fbf7fd009937dfb86783dd111400"
+    "image": "https://imagenes.elpais.com/resizer/v2/IDZ4IBUZO5IJFCHR6SNRYRXSEY.jpg?auth=37e6b2416dec6eb7dfc8eec92e19a0977de8fbf7fd009937dfb86783dd111400",
+    "title_pt": "A rota das Ilhas Canárias volta a bater o recorde de chegadas num dia: 1.611 migrantes em El Hierro",
+    "summary_pt": "Fernando Clavijo queixa-se dos esforços diplomáticos com Senegal e Gâmbia, enquanto Torres estima que pelo menos 1.000 chegadas foram evitadas"
   },
   {
     "title": "Furia y consternación en el Congreso de EE UU por el regreso de Huang a Nvidia y el papel de Trump en él",
@@ -59,7 +79,9 @@
     "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-24T20:41:54Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+    "summary_pt": "O veredicto segue-se a um julgamento de meses em Nova York.",
+    "title_pt": "Huawei considerada culpada de roubar segredos comerciais, mas absolvida de extorsão"
   },
   {
     "title": "Australian politics live: Chalmers notes ‘serious moment for our economy’; inflation expected to jump to 4.8%",
@@ -71,7 +93,9 @@
     "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
     "date": "2026-11-24T20:41:16Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/225db5ddbf67036e02aa877e209fa7a017281505/868_768_3204_2565/master/3204.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b4c2b21a4f120bff3401e6ddfbf6e4dd"
+    "image": "https://i.guim.co.uk/img/media/225db5ddbf67036e02aa877e209fa7a017281505/868_768_3204_2565/master/3204.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b4c2b21a4f120bff3401e6ddfbf6e4dd",
+    "summary_pt": "Receba nosso e-mail político diário, aplicativo gratuito ou podcast de notícias diárias Embaixador dos EUA critica projeto de lei de dever de cuidado digital do Partido Trabalhista O embaixador americano na Austrália levantou “objeções” ao projeto de lei de dever de cuidado digital do Partido Trabalhista, dizendo que estava “preocupado” com o fato de que isso prejudicaria as empresas de tecnologia dos EUA. Hoje encontrei-me com a Ministra das Comunicações, Anika Wells, e expus o Trump Admi",
+    "title_pt": "A política australiana está viva: Chalmers observa “momento sério para a nossa economia”; inflação deverá saltar para 4,8%"
   },
   {
     "title": "National Security vs. the Stock Market",
@@ -83,7 +107,9 @@
     "url": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
     "date": "2026-11-24T20:40:47Z",
     "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-theworld-nvidia-trump-01-alt-fphm-promo/25int-theworld-nvidia-trump-01-alt-fphm-promo-mediumSquareAt3X.jpg"
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-theworld-nvidia-trump-01-alt-fphm-promo/25int-theworld-nvidia-trump-01-alt-fphm-promo-mediumSquareAt3X.jpg",
+    "title_pt": "Segurança Nacional vs. Mercado de Ações",
+    "summary_pt": "O presidente Trump afastou as preocupações sobre uma possível espionagem quando pressionou o conselho da Nvidia para reintegrar Jensen Huang como presidente-executivo."
   },
   {
     "title": "Procurador despista sobre investigação contra CEO da Nvidia: “Pelo quê?”",
@@ -109,7 +135,9 @@
     "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/pedro-sanchez-cataluna-no-va-a-fallar-y-va-a-liderar-la-gran-victoria-progresista.html",
     "date": "2026-11-24T20:36:18Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/PM6O34EMR5EQFCV3FPVC6P3LHE.JPG?auth=9e3fa40e354fcb83ca7ea50dd47c091cabb23cd96524963e653f9c7b93ab4048"
+    "image": "https://imagenes.elpais.com/resizer/v2/PM6O34EMR5EQFCV3FPVC6P3LHE.JPG?auth=9e3fa40e354fcb83ca7ea50dd47c091cabb23cd96524963e653f9c7b93ab4048",
+    "title_pt": "Pedro Sánchez: “A Catalunha não vai falhar e liderará a grande vitória progressista”",
+    "summary_pt": "Serrat e Loles León apoiam o líder socialista na maior manifestação dos últimos anos em Barcelona. O presidente anuncia uma nova lei para impedir que a Espanha entre em uma guerra ilegal"
   },
   {
     "title": "Justiça italiana adia julgamento de Zambelli para o ano que vem",
@@ -135,7 +163,9 @@
     "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
     "date": "2026-11-24T20:35:03Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG_5435-1795549817.jpg?resize=1920%2C1381"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG_5435-1795549817.jpg?resize=1920%2C1381",
+    "title_pt": "Haftar da Líbia visita Turkiye dias depois de Ucrânia atingir navio de guerra russo",
+    "summary_pt": "Antes da viagem de Erdogan à Líbia, a visita de Haftar sugere que Turkiye procura outra forma de unir os rivais do país."
   },
   {
     "title": "Iran developing chemical weapons, Israeli defense minister says",
@@ -189,7 +219,9 @@
     "url": "https://www.france24.com/en/russian-nuclear-satellites-plan-foolhardy-expert-says",
     "date": "2026-11-24T20:31:17Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/ab32d036-e844-11f1-af20-81da3ab2acbb/w:1024/p:16x9/EN-20261124-210517-211328-CS.jpg"
+    "image": "https://s.france24.com/media/display/ab32d036-e844-11f1-af20-81da3ab2acbb/w:1024/p:16x9/EN-20261124-210517-211328-CS.jpg",
+    "title_pt": "Plano de satélites nucleares russos é 'imprudente', diz especialista",
+    "summary_pt": "O chefe da OTAN, Mark Rutte, disse na segunda-feira que a aliança se defenderia contra ameaças no espaço quando questionado sobre relatos da mídia alemã de que a Rússia poderia estar se preparando para lançar um satélite com armas nucleares. Falando com Jennie Shin do FRANCE 24, Dafydd Townley, professor sênior em segurança internacional na Universidade de Portsmouth, disse que o suposto plano seria"
   },
   {
     "title": "Ministro defende revisão do modelo financeiro e do papel da Infraero",
@@ -229,7 +261,25 @@
     "url": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday?traffic_source=rss",
     "date": "2026-11-24T20:28:40Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05ced74a94-1795542743.jpg?resize=1920%2C1440"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05ced74a94-1795542743.jpg?resize=1920%2C1440",
+    "summary_pt": "Apesar do alarme sobre o chumbo tóxico, as autoridades federais dizem que destruir os explosivos instáveis ​​é o curso de ação mais seguro.",
+    "title_pt": "Exército dos EUA detonará mais de 4 toneladas de azida de chumbo em Iowa na quarta-feira"
+  },
+  {
+    "title": "Terremoto de magnitude 4.6 — 49 km SW of Ovalle, Chile",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "49 km SW of Ovalle, Chile",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udb8",
+    "date": "2026-11-24T20:27:57.411000Z",
+    "lat": -30.9455,
+    "lon": -71.5206,
+    "depth_km": 50.858,
+    "forcedSev": "low",
+    "title_pt": "Terremoto de magnitude 4.6 — 49 km SW of Ovalle, Chile",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
     "title": "Jornal espanhol critica Neymar em derrota do Santos: “37 bolas perdidas”",
@@ -269,7 +319,9 @@
     "url": "https://www.theguardian.com/us-news/2026/nov/24/democrat-victoria-broderick-election-win-tennesee-midterms",
     "date": "2026-11-24T20:20:24Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/89a89b4a4f0ae3936a0b33144ef2f04e67febfa5/323_0_4808_3847/master/4808.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=315511e374dd088a47871b8e3ce9d041"
+    "image": "https://i.guim.co.uk/img/media/89a89b4a4f0ae3936a0b33144ef2f04e67febfa5/323_0_4808_3847/master/4808.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=315511e374dd088a47871b8e3ce9d041",
+    "title_pt": "A democrata Victoria Broderick destitui o titular republicano de oito mandatos no Tennessee para vencer as eleições",
+    "summary_pt": "A vitória amplia a maioria dos democratas na Câmara, sua maior vantagem em três décadas. A democrata Victoria Broderick venceu o quarto distrito congressional do Tennessee, destituindo o atual republicano Scott DesJarlais, com oito mandatos, em uma das maiores surpresas do ciclo na Câmara. A vitória amplia a histórica maioria dos democratas na Câmara no 120º Congresso para 259 cadeiras,"
   },
   {
     "title": "Feijóo: “En España no habrá sitio para quien no respete a las mujeres ni a las personas LGTBI”",
@@ -281,7 +333,9 @@
     "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/feijoo-en-espana-no-habra-sitio-para-quien-no-respete-a-las-mujeres-ni-a-las-personas-lgtbi.html",
     "date": "2026-11-24T20:19:09Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/YELBCT4US5CDXI2Q4ZVCUWMR5A.jpg?auth=74f51f771f312b519b044cb28b68a2ec3b5162a7d02d4ee2bc934a889016398e"
+    "image": "https://imagenes.elpais.com/resizer/v2/YELBCT4US5CDXI2Q4ZVCUWMR5A.jpg?auth=74f51f771f312b519b044cb28b68a2ec3b5162a7d02d4ee2bc934a889016398e",
+    "title_pt": "Feijóo: “Em Espanha não haverá lugar para quem não respeita as mulheres ou as pessoas LGTBI”",
+    "summary_pt": "O líder do PP pisa na Comunidade Valenciana pela segunda vez em menos de três dias. Em Alicante, quarta província da Espanha em número de habitantes, há uma vaga em disputa, segundo pesquisas internas"
   },
   {
     "title": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
@@ -293,7 +347,9 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
     "date": "2026-11-24T20:18:19Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/clean-1795551480.jpg?resize=1920%2C1081&quality=80"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/clean-1795551480.jpg?resize=1920%2C1081&quality=80",
+    "title_pt": "Iraque tem como alvo contrabandistas de petróleo e ordena aquisição de campos petrolíferos curdos",
+    "summary_pt": "O primeiro-ministro do Iraque, Ali al-Zaidi, ordenou que as forças federais assumissem o controle dos campos petrolíferos em áreas controladas pelos curdos."
   },
   {
     "title": "Jensen Huang pede desculpas aos funcionários e diz que está fazendo terapia",
@@ -319,7 +375,9 @@
     "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-24T20:16:24Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg",
+    "title_pt": "Receberei o pagamento de energia de £ 100 e quando o receberei?",
+    "summary_pt": "Aqui está o que você precisa saber sobre o pagamento que milhões receberão a partir de janeiro."
   },
   {
     "title": "Otan diz que se defenderá no espaço após relatos de satélite nuclear russo",
@@ -415,7 +473,9 @@
     "url": "https://www.bbc.co.uk/news/videos/cq5y17dr42gdo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-24T20:06:00Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43f4/live/5dd7d130-e83d-11f1-a094-5fdc692f3e33.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43f4/live/5dd7d130-e83d-11f1-a094-5fdc692f3e33.jpg",
+    "summary_pt": "Os Drs Chris e Xand se juntam ao Professor Duncan Astle, da Universidade de Cambridge, para discutir a neurodiversidade e seus diagnósticos.",
+    "title_pt": "Como podemos entender melhor a neurodiversidade e os diagnósticos?"
   },
   {
     "title": "Schumer accuses Huang of violating US export control laws amid shipments of chips to China",
@@ -427,7 +487,9 @@
     "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress",
     "date": "2026-11-24T20:05:09Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/26aadfab7bd77a25ea9f14c21ef752a9d34cd341/142_0_5506_4407/master/5506.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=18e64bdf5cc307a54858cb4b9bd98d4e"
+    "image": "https://i.guim.co.uk/img/media/26aadfab7bd77a25ea9f14c21ef752a9d34cd341/142_0_5506_4407/master/5506.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=18e64bdf5cc307a54858cb4b9bd98d4e",
+    "title_pt": "Schumer acusa Huang de violar as leis de controle de exportação dos EUA em meio a remessas de chips para a China",
+    "summary_pt": "O líder da minoria no Senado se junta aos legisladores de ambos os partidos indignados com a reintegração do CEO da Nvidia, Chuck Schumer, o atual líder da minoria no Senado que disputa a liderança da maioria democrata no próximo Congresso, acusou Jensen Huang, o recém-reintegrado CEO da Nvidia, de enviar “chips extremamente avançados para a China” e violar as leis de controle de exportação dos EUA. Na terça-feira,"
   },
   {
     "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
@@ -439,7 +501,9 @@
     "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
     "date": "2026-11-24T20:04:50Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=078b7b5f6bba81aa1fe08802a7eaf284"
+    "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=078b7b5f6bba81aa1fe08802a7eaf284",
+    "title_pt": "Jogo 1 do Campeonato Mundial de Xadrez de 2026: Gukesh Dommaraju e Javokhir Sindarov empatam em 38 lances – como aconteceu",
+    "summary_pt": "Sindarov e Gukesh empatam em 38 lances no Jogo 1 Explicação: todas as suas perguntas pré-jogo, respondidas na entrevista de Sindarov: ‘Não posso jogar apenas por diversão’ Jogue 22 jogos famosos do campeonato mundial Os jogadores apertaram as mãos e estamos fora! Temos uma defesa berlinense de Ruy Lopez ( 1 e4 e5 2 Cf3 Cc6 3 Bb5 Cf6 ), uma das mais detalhadamente analisadas."
   },
   {
     "title": "Chapecoense x Palmeiras: escalações e onde assistir ao jogo do Brasileirão",
@@ -465,7 +529,9 @@
     "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/isabel-allende-pide-el-apoyo-de-los-inmigrantes-a-sanchez-para-que-espana-sea-una-sociedad-solidaria-abierta-diversa-e-inclusiva.html",
     "date": "2026-11-24T20:03:01Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/FH3FFV4F4NDBXKZ7MIJYSOODRM.JPG?auth=e163396ab1c77b0448dc18b2e819cdb877261782d98391126d3bec3878b24713"
+    "image": "https://imagenes.elpais.com/resizer/v2/FH3FFV4F4NDBXKZ7MIJYSOODRM.JPG?auth=e163396ab1c77b0448dc18b2e819cdb877261782d98391126d3bec3878b24713",
+    "summary_pt": "“Agora Espanha é um país acolhedor e não há orgulho maior”, afirma Óscar López, face à “vergonha de quem acredita que o racismo e a xenofobia dão votos”.",
+    "title_pt": "Isabel Allende pede a Sánchez o apoio aos imigrantes para que Espanha possa ser “uma sociedade solidária, aberta, diversa e inclusiva”"
   },
   {
     "title": "VÍDEO: EUA usam cavalos para prender imigrantes na fronteira com o México",
@@ -491,7 +557,9 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5",
     "date": "2026-11-24T20:00:56Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Nasdaq e S&P 500 caem após rali liderado pela Nvidia na segunda-feira",
+    "summary_pt": "Nasdaq e S&P 500 caem após rali liderado pela Nvidia na segunda-feira Reuters"
   },
   {
     "title": "Soluço: o que é, o que provoca e quando se preocupar",
@@ -531,7 +599,9 @@
     "url": "https://www.theguardian.com/world/2026/nov/24/disability-benefits-timms-review-pip-personal-independence-payments",
     "date": "2026-11-24T20:00:31Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/4a534d49e611d919c2775a5c187f0160f71f08e3/75_0_1760_1408/master/1760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f53368e47cf5870add6d6adaaa1a92d"
+    "image": "https://i.guim.co.uk/img/media/4a534d49e611d919c2775a5c187f0160f71f08e3/75_0_1760_1408/master/1760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f53368e47cf5870add6d6adaaa1a92d",
+    "title_pt": "Centenas de milhares podem perder benefícios por invalidez sob os planos de Timms para a mudança de Pip",
+    "summary_pt": "A revisão do ministro diz que o sistema Pip não é mais adequado ao propósito e recomenda novo teste para quem tem permissão para reivindicar. Centenas de milhares de pessoas enfrentam a perda de seus benefícios por invalidez sob planos que estão sendo considerados pelos ministros como parte de uma mudança no sistema de bem-estar social. As autoridades estão elaborando planos para redesenhar o sistema de pagamento de independência pessoal (Pip) f"
   },
   {
     "title": "The Bukele method: will Salvadoran leader's strong-arm tactics work for Haiti?",
@@ -543,7 +613,9 @@
     "url": "https://www.france24.com/en/tv-shows/the-debate/20261124-the-bukele-method-will-salvadoran-leader-s-strong-arm-tactics-work-for-haiti",
     "date": "2026-11-24T19:59:35Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/efcdc226-e837-11f1-8734-81da3ab2acbb/w:1024/p:16x9/2026-11-22T004619Z-487606393-RC26SOA1S5RQ-RTRMADP-3-HAITI-EL-SALVADOR.jpg"
+    "image": "https://s.france24.com/media/display/efcdc226-e837-11f1-8734-81da3ab2acbb/w:1024/p:16x9/2026-11-22T004619Z-487606393-RC26SOA1S5RQ-RTRMADP-3-HAITI-EL-SALVADOR.jpg",
+    "title_pt": "O método Bukele: as táticas de braço forte do líder salvadorenho funcionarão para o Haiti?",
+    "summary_pt": "Os haitianos estão aplaudindo o método Bukele. Cidadãos da nação mais pobre das Américas aplaudindo o método do presidente salvadorenho de “atirar primeiro, perguntar depois” para lidar com os gangues que invadiram o seu país nos últimos seis anos. A força policial mobilizada pode realmente restaurar a lei e a ordem? Perguntaremos sobre o que há de mais recente em uma lista de esforços de décadas"
   },
   {
     "title": "Chefe da ONU alerta que a IA não deve decidir quem vive ou morre em guerras",
@@ -597,7 +669,9 @@
     "url": "https://www.france24.com/en/senegal-afcon-ruling-good-in-the-books-of-sports-law-expert-says",
     "date": "2026-11-24T19:54:12Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/2c587954-e840-11f1-a6fd-29d00e23de9a/w:1024/p:16x9/EN-20261124-203334-203830-CS.jpg"
+    "image": "https://s.france24.com/media/display/2c587954-e840-11f1-a6fd-29d00e23de9a/w:1024/p:16x9/EN-20261124-203334-203830-CS.jpg",
+    "title_pt": "Decisão da AFCON do Senegal é 'boa nos livros de direito desportivo', diz especialista",
+    "summary_pt": "Falando com Jennie Shin do FRANCE 24, o apresentador esportivo e jornalista Thando Sibiya explica que a decisão do Tribunal Arbitral do Esporte de restabelecer o Senegal como ⁠vencedor da Copa das Nações Africanas de 2025 \"do ponto de vista da jurisprudência ou da criação de precedentes, será bom nos livros de direito desportivo, porque se cada decisão de"
   },
   {
     "title": "Senegal regain AFCON title on appeal at Morocco's expense",
@@ -609,7 +683,9 @@
     "url": "https://www.france24.com/en/senegal-regain-afcon-title-on-appeal-at-morocco-s-expense",
     "date": "2026-11-24T19:52:29Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/7b26b62e-e83e-11f1-adf5-c131ae9bfe9c/w:1024/p:16x9/EN-20261124-202104-202249-CS.jpg"
+    "image": "https://s.france24.com/media/display/7b26b62e-e83e-11f1-adf5-c131ae9bfe9c/w:1024/p:16x9/EN-20261124-202104-202249-CS.jpg",
+    "title_pt": "Senegal recupera o título da AFCON em recurso às custas de Marrocos",
+    "summary_pt": "O Senegal recuperou na terça-feira o título da Taça das Nações Africanas depois de vencer um recurso no Tribunal Arbitral do Desporto (CAS) contra a decisão da Confederação Africana de Futebol de declarar Marrocos vencedor após uma final caótica em Janeiro. O CAS disse em comunicado que \"aceitou novamente o apelo da Federação Senegalesa de Futebol (FSF)"
   },
   {
     "title": "Turkish military helicopter crash kills five in western Turkiye",
@@ -621,7 +697,9 @@
     "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
     "date": "2026-11-24T19:52:21Z",
     "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b05e40274-1795548162.jpg?resize=1920%2C1440"
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b05e40274-1795548162.jpg?resize=1920%2C1440",
+    "title_pt": "Queda de helicóptero militar turco mata cinco pessoas no oeste da Turquia",
+    "summary_pt": "O Ministério da Defesa não detalhou a causa do acidente, dias depois de outro acidente mortal de helicóptero do exército."
   },
   {
     "title": "Clima eleva preços do cacau na bolsa de Nova York diante de riscos à oferta",
@@ -703,7 +781,9 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0ttY1ZZa0d3ajhmMUVZYmhrdHNGd0E4aC0wQWswZzc0UkFrcndsZ3pJUkJQMVF3Rlp0cjdGdkc2bG5XY093OWx6QWdtQVlJMVpRN2QzUUZicGRBZEROT2JUZEdQUTRpWHBpYzNXMVVwN1FQbmZpVmZfTm1leHQzclpZSkdsRk9MWHBzZEpaSlFoVjd0QzZQMnl2SDladHhlTzFmYkhmT2xPSlRTc2o2VmY2ZThoQ0dxbl94NXAxaXFWTHBNb1V6bzhXRTFPQQ?oc=5",
     "date": "2026-11-24T19:42:27Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Primeiro-ministro iraquiano reprime o controle dos campos petrolíferos pelos curdos, curdos rejeitam medida arriscada",
+    "summary_pt": "Primeiro-ministro iraquiano reprime o controle dos campos petrolíferos pelos curdos; curdos rejeitam medida arriscada Reuters"
   },
   {
     "title": "Trump perdoa perus em evento tradicional de Ação de Graças nos EUA",
@@ -785,7 +865,9 @@
     "url": "https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation",
     "date": "2026-11-24T19:35:02Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/e3fa562acd41fbc234a6b388803319c9032cc73c/0_0_5418_4335/master/5418.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9e72a60f7cb72cb0a345ad9a2625526"
+    "image": "https://i.guim.co.uk/img/media/e3fa562acd41fbc234a6b388803319c9032cc73c/0_0_5418_4335/master/5418.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9e72a60f7cb72cb0a345ad9a2625526",
+    "title_pt": "Mapas do exército dos EUA mostram o caminho projetado da poeira tóxica da detonação de Iowa",
+    "summary_pt": "A detonação de produtos químicos para a fabricação de bombas está marcada para quarta-feira, enquanto os residentes são alertados para permanecerem em ambientes fechados com as janelas fechadas. O exército dos EUA divulgou novos mapas que mostram a trajetória projetada de uma nuvem de poeira tóxica de chumbo proveniente da detonação planejada de 68 barris – cinco toneladas – de azida de chumbo em um depósito de munição em Iowa. Essa detonação foi agendada para as 10h, horário central, na quarta-feira."
   },
   {
     "title": "EUA: 81 milhões de pessoas devem viajar para Ação de Graças, diz associação",
@@ -923,7 +1005,9 @@
     "url": "https://www.france24.com/en/car-bomb-destroys-buildings-in-central-colombian-city",
     "date": "2026-11-24T19:27:10Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/4b5f90de-e83c-11f1-b3ea-c131ae9bfe9c/w:1024/p:16x9/EN-20261124-201336-201510-CS.jpg"
+    "image": "https://s.france24.com/media/display/4b5f90de-e83c-11f1-b3ea-c131ae9bfe9c/w:1024/p:16x9/EN-20261124-201336-201510-CS.jpg",
+    "title_pt": "Carro-bomba destrói prédios em cidade central da Colômbia",
+    "summary_pt": "Um carro-bomba foi detonado na cidade de Villavicencio, no centro da Colômbia, na segunda-feira, destruindo o gabinete do governador local e os edifícios vizinhos, disse o presidente Abelardo de la Espriella. O líder de direita conduziu uma grande repressão ao comércio de drogas no país, em resposta aos rebeldes de esquerda das FARC que intensificaram os ataques nos últimos dois anos. França"
   },
   {
     "title": "Defesa Civil alerta para temporais e calor em São Paulo",
@@ -1075,7 +1159,9 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ0ZIVTBMSV9JZVhObUNuZ09CNXMwd0lHb083NUNCRmNzdWtDcTRTUVlsZjhLbUZPMm1KR0FQN0VoRW1MQUtWcUxEWllKeWU1TDdaNmlsdk95UE9oUGxOdEU0TXFpSmdXWGxuRHhOSVNidzVJbnNkNFRzTzBBblRqdkh0WU5Ra1kxa3dQRUdjMlZxWU1mVloyZnUyQ1FQLWlyNDZCeThPUk1oTER2dEtfd3RjYmhvRVk?oc=5",
     "date": "2026-11-24T19:17:27Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "summary_pt": "Roche espera que pílula contra o câncer aprovada se torne seu medicamento mais vendido Reuters",
+    "title_pt": "Roche espera que pílula contra o câncer aprovada se torne seu medicamento mais vendido"
   },
   {
     "title": "US House counsel denies backing controversial raid on Ilhan Omar’s home",
@@ -1171,7 +1257,9 @@
     "url": "https://www.lemonde.fr/international/article/2026/11/24/en-allemagne-die-linke-exclut-une-de-ses-elues-pour-diriger-la-mairie-de-berlin_6814844_3210.html",
     "date": "2026-11-24T19:05:53Z",
     "lang": "fr",
-    "image": "https://img.lemde.fr/2026/11/24/1/0/6000/4000/1440/960/60/0/36e8bdd_ftp-1-0ijnhmxgdwac-2026-11-24t172143z-1547237527-rc2guoafqkgz-rtrmadp-3-germany-election-berlin.JPG"
+    "image": "https://img.lemde.fr/2026/11/24/1/0/6000/4000/1440/960/60/0/36e8bdd_ftp-1-0ijnhmxgdwac-2026-11-24t172143z-1547237527-rc2guoafqkgz-rtrmadp-3-germany-election-berlin.JPG",
+    "title_pt": "Na Alemanha, Die Linke exclui um dos seus governantes eleitos, acusado de anti-semitismo, da gestão da Câmara Municipal de Berlim",
+    "summary_pt": "O partido de esquerda radical votou na terça-feira pela exclusão de Vanessa Emde. A sua saída deverá facilitar a conclusão de um acordo com o SPD e os Verdes, previsto para antes do início de 2027, para governar a capital alemã."
   },
   {
     "title": "Em meio a impasse eleitoral, Israel acusa Irã de desenvolver armas químicas",
@@ -1379,7 +1467,9 @@
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0F4ZGZfQ1BGUjhqR1J0ZURDMUtadkprYURwenhLd2pDandGTlVXR0xYVThJWWFySlVkZmk2Z0pUR1hlTjlpcFZQOTRMY3NMTWZpT0taWndxaEw0OVlNRUVnSEhpeTFUek9FYjQyM2lFYmVuUVl0aWlvOTZJeWIzZlBWRC1xOGlpODdvTzVB?oc=5",
     "date": "2026-11-24T18:51:43Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Trump concede a Rudy Giuliani a Medalha da Liberdade",
+    "summary_pt": "Trump concede a Rudy Giuliani a Medalha da Liberdade Reuters"
   },
   {
     "title": "HPE shares tumble as shrinking AI margins overshadow upbeat forecast",
@@ -1587,7 +1677,9 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNajhSeXVaY0VYd21jZUY5Vk40RWF6bC1DSFVzZVpucUxKTXVncGxudHNqdG96enFzVC1XWVNLYmJyUVA2TEdvd1JPZkNhbVdZV0laUXV6RmcwSzBuODV4Qkh4SWVjeU9ncnpHYndhM2t4LXlRRGtZcS1qWTY2YWQ4T0c3MWQtQm9BbHVVV3JKS2RubmlGSlNMYW5jQzczSjBPRnJwV2IzdEEtaS0ySWNsaWZSYw?oc=5",
     "date": "2026-11-24T18:35:06Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Cinco soldados turcos mortos em acidente de helicóptero, diz ministério",
+    "summary_pt": "Cinco soldados turcos mortos em acidente de helicóptero, diz ministério Reuters"
   },
   {
     "title": "Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation",
@@ -2285,7 +2377,9 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWVEX1kzZFZYMFh6LVk4ZElSR192ZDE4NXBjX2xDd1NLdGdHUl82c0VzajVTajlLYUdZaWtiSFlQNU1ZR1FMeTJJdXFXdldObW5sTHhvQWU0Qm1EVk80QTJlU2tHeTRWbWc1OTVOczNzT05OeWtxUDBBZlp2TTRpSFNzVGtSUXV2NTg3RlcyUGZJMF9rUTZFbzNR?oc=5",
     "date": "2026-11-24T17:15:13Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Wendy's foi atingida por uma ação coletiva nos EUA sobre o preço do menu",
+    "summary_pt": "Wendy's foi atingida por uma ação coletiva nos EUA sobre preços de menus Reuters"
   },
   {
     "title": "Paco Cerdà gana el Premio del Libro Europeo por ‘Presentes’",
@@ -2302,8 +2396,8 @@
     "summary_pt": "O último romance do valenciano, que descreve a procissão fascista do cadáver de José Antonio Primo de Rivera pela Espanha em 1939, ganha um prêmio pró-europeu quando o discurso de ódio se espalha pelo continente"
   },
   {
-    "title": "Criminosos fazem 25 reféns em destino turístico na Colômbia; vídeo mostra homens fortemente armados",
-    "summary": "Sequestradores fazem reféns em supermercado em Cartagena, na Colômbia Dois criminosos fazem 25 pessoas reféns nesta terça-feira (24) em um supermercado na cidade turística de Cartagena, na Colômbia. Mais cedo, cinco mulheres idosas, que estavam entre os cativos, foram libertadas. O episódio fez o presidente do país, Abelardo de la Espriella, mobilizar as pri",
+    "title": "Criminosos fazem 24 reféns em destino turístico na Colômbia; vídeo mostra homens fortemente armados",
+    "summary": "Sequestradores fazem reféns em supermercado em Cartagena, na Colômbia Dois criminosos fazem 24 pessoas reféns nesta terça-feira (24) em um supermercado na cidade turística de Cartagena, na Colômbia. Mais cedo, cinco mulheres idosas, que estavam entre os cativos, foram libertadas. Um homem também foi liberado em meio às negociaões da polícia com os bandidos. ",
     "category": "Geral",
     "region": "Global",
     "country": "BR",
@@ -2312,8 +2406,8 @@
     "date": "2026-11-24T17:13:26Z",
     "lang": "pt",
     "image": "https://s2-g1.glbimg.com/y3zzYcnkHSumUO_S1pov4F9STfM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/6/Blnpj8S5GVAwY2zdzRVA/2026-11-24t165936z-505671828-rc25uoaxizzj-rtrmadp-3-colombia-hostages.jpg",
-    "title_pt": "Criminosos fazem 25 reféns em destino turístico na Colômbia; vídeo mostra homens fortemente armados",
-    "summary_pt": "Sequestradores fazem reféns em supermercado em Cartagena, na Colômbia Dois criminosos fazem 25 pessoas reféns nesta terça-feira (24) em um supermercado na cidade turística de Cartagena, na Colômbia. Mais cedo, cinco mulheres idosas, que estavam entre os cativos, foram libertadas. O episódio fez o presidente do país, Abelardo de la Espriella, mobilizar as pri"
+    "title_pt": "Criminosos fazem 24 reféns em destino turístico na Colômbia; vídeo mostra homens fortemente armados",
+    "summary_pt": "Sequestradores fazem reféns em supermercado em Cartagena, na Colômbia Dois criminosos fazem 24 pessoas reféns nesta terça-feira (24) em um supermercado na cidade turística de Cartagena, na Colômbia. Mais cedo, cinco mulheres idosas, que estavam entre os cativos, foram libertadas. Um homem também foi liberado em meio às negociaões da polícia com os bandidos. "
   },
   {
     "title": "Indonesia names former police chief as treason suspect in presidential wiretapping case",
@@ -2339,7 +2433,9 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ0MyMS1HT2dpeHpHTkY5SWM1a1JMUGpsR21iR0x6MFNjQjRBWFppcWlfT1pNdEkxOXVZNGZOcWdEd29qanNlTlVUelM2RTFwTlVpbldYNi1pWXZfZW1iXzVsTDRVRGFiRi03YWZLRmV1VFpoU19BWVdQYjVYa2E5ZWRHY1g1U3ByUkxjejJhSWRHTVFtUllCVHJEbGFESjNub2xyaG5FNi1zblNtM0NpWUx6V0NLTFJrQW9fTjFXcmdDTEJ3VkxHTEJRQTlUUQ?oc=5",
     "date": "2026-11-24T17:07:31Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "summary_pt": "Ford negocia com o Pentágono para fornecer veículos militares Reuters",
+    "title_pt": "Ford em negociações com o Pentágono para fornecer veículos militares"
   },
   {
     "title": "After Libya, where will Ukraine strike Russia next?",
@@ -2421,7 +2517,9 @@
     "url": "https://www.lemonde.fr/international/article/2026/11/24/hackers-et-medias-revelent-ce-que-le-kremlin-voulait-cacher-le-bilan-de-500-000-morts-au-moins-sur-le-front-ukrainien_6814823_3210.html",
     "date": "2026-11-24T17:00:00Z",
     "lang": "fr",
-    "image": "https://img.lemde.fr/2026/11/24/167/0/4000/2666/1440/960/60/0/1246bf5_upload-1-ubrjyv0vn0fs-075-ukrinform-aerialre241219-npg9k.jpg"
+    "image": "https://img.lemde.fr/2026/11/24/167/0/4000/2666/1440/960/60/0/1246bf5_upload-1-ubrjyv0vn0fs-075-ukrinform-aerialre241219-npg9k.jpg",
+    "title_pt": "Hackers e mídia revelam o que o Kremlin queria esconder: o número de mortos de pelo menos 500 mil na frente ucraniana",
+    "summary_pt": "Desde que as tropas russas invadiram a Ucrânia em fevereiro de 2022, Vladimir Putin impediu a publicação dos números das mortes. Mas os hackers invadiram os registros da agência de estatísticas russa. E a mídia exilada analisou os dados. A contagem ultrapassaria 700 mil mortos, incluindo soldados desaparecidos."
   },
   {
     "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value",
@@ -3415,7 +3513,9 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeWpZZDVzYWlsQ3I4RW5RRDlEM2wzWHhodjNyNmNlR3N0SEpxbVFqbmx6WUpPZXRXc0RobTdxSkd4b0tXbUVYNnBVWXlUNVNqMU5rNGpSZ0FRMHk0SmxGSXBzeTJiWm1lTzhYV2R2SzVMeG1fU2ozMDlBQ1lFOFZvZk9kQndFOU9QNU1zMWVaNlB1TVJ6Qzllcy1pN2Y?oc=5",
     "date": "2026-11-24T15:12:58Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Bayer retirará medicamento renal Kerendia da Alemanha",
+    "summary_pt": "Bayer retirará medicamento renal Kerendia da Alemanha Reuters"
   },
   {
     "title": "France's femicide orphans: The invisible victims of violence against women",
@@ -3682,6 +3782,20 @@
     "image": "https://img.lemde.fr/2026/11/24/0/0/4105/2736/1440/960/60/0/07ef447_ftp-1-mapns33avgeg-afp-d8ce8zq.jpg",
     "title_pt": "\"A verdade de uma partida se estabelece em campo\": o Senegal, declarado vencedor quase um ano após a final contra Marrocos, celebra seu título de campeão africano",
     "summary_pt": "A final da Copa Africana de Nações de 2025 entre o Senegal e o Marrocos terminou em clima de tensão no dia 18 de janeiro, abrindo caminho para meses de disputas judiciais. Na terça-feira, 24 de novembro, o Tribunal Arbitral do Esporte declarou os Leões da Teranga vencedores."
+  },
+  {
+    "title": "India's Tamil Nadu state to sign investment deals worth over $5.38 billion, sources say",
+    "summary": "India's Tamil Nadu state to sign investment deals worth over $5.38 billion, sources say Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUjFJR043ZUh4a3c5c3BOelhJaUtweVZEeUFCc3IxSmhFU2JBS1F2UTVaQXBHTE0tZVc0a3VvTEd5NUZVckx6OXNxOFhfZkh1Q25DbzFwYldoQXVram1VTC1fVFYxSXk5WVpvZ3Q1TmtaQkJfdm84RjNyVGdFVW1sU2JnQ19LTlpzc0U4TmFZcmpNNFRVSzZDWU9jaVhTdGxqVUsxRzJNY28zQjFXb09WdTlCQk9pX0QwZXJ0aGZmUzQ4dGFTczhv?oc=5",
+    "date": "2026-11-24T14:33:44Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "Estado indiano de Tamil Nadu assinará acordos de investimento no valor de mais de US$ 5,38 bilhões, dizem fontes Reuters",
+    "title_pt": "Estado indiano de Tamil Nadu assinará acordos de investimento no valor de mais de US$ 5,38 bilhões, dizem fontes"
   },
   {
     "title": "Qatar says it ‘will not accept’ attacks after Iran protests over joint statement with Germany",
@@ -4557,6 +4671,20 @@
     "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
+    "title": "UK prisoner admits 'cold-blooded' murder of child killer Huntley on second day of trial",
+    "summary": "UK prisoner admits 'cold-blooded' murder of child killer Huntley on second day of trial Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVWFWRWtGRHFfWFBfaDNoMHk1R1l6MlNjdWRrVHJiSWNpaXJjbFBfZHA1YWFUcWRWdXEyeURxc3F6RGZnX2tjelBxWExjdi1xZGRabVlaWjdhTHlHWGk4S2U3NVBhbDIzN2hCXy1SMHlkMm1WakhKZGlGbFFyaTRWTHVzdndFdGx6bFBnN2VZSHY3blppNnpCbkk3TFVEUkkyQ3FOZ2VKOWNfMzV3V203aHp3Y3kyUzhyMy00dmJoQXdXUmViUGZRaw?oc=5",
+    "date": "2026-11-24T11:48:46Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Prisioneiro do Reino Unido admite assassinato a “sangue frio” do assassino de crianças Huntley no segundo dia de julgamento",
+    "summary_pt": "Prisioneiro do Reino Unido admite assassinato “a sangue frio” do assassino de crianças Huntley no segundo dia de julgamento Reuters"
+  },
+  {
     "title": "Car bomb tears through Colombian city wounding more than 20",
     "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
     "category": "Geral",
@@ -4627,6 +4755,20 @@
     "summary_pt": "Miriam Leitão: Brasil defende multilateralismo na OMC Os Estados Unidos bloquearam nesta terça-feira (24) a primeira tentativa do Brasil de abrir um painel na Organização Mundial do Comércio (OMC) para analisar se as tarifas adicionais impostas pelo governo americano a produtos brasileiros violam as regras do comércio internacional. (entenda mais abaixo) O p"
   },
   {
+    "title": "Maersk orders 12 ultra-large container ships",
+    "summary": "Maersk orders 12 ultra-large container ships Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlF0RGVFc1h1UERtdlVVamUwSkE3RnM5WTNQMEJtSzUtUEwtQW1RX3RYWE91aFg1SHQxSk02bDVHcHd1YU5yWmI5WUNnVmtPaEMwdHJEVVI0ZGlkY1Z6NUxKYnJ0QjQwcUt6OS15MjBFakZXak9pMm0tbUgtNlB2OVJLQzF2QVcyOFpwV0xZVmpQN0lROVZn?oc=5",
+    "date": "2026-11-24T11:42:09Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Maersk encomenda 12 navios porta-contêineres ultragrandes",
+    "summary_pt": "Maersk encomenda 12 navios porta-contêineres ultragrandes Reuters"
+  },
+  {
     "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
     "summary": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends.",
     "category": "Clima e desastres",
@@ -4679,7 +4821,8 @@
     "date": "2026-11-24T11:25:47Z",
     "lang": "en",
     "image": "",
-    "title_pt": "Uma estreita maioria de alemães se opõe à ajuda militar à Ucrânia em pesquisa"
+    "title_pt": "Uma estreita maioria de alemães se opõe à ajuda militar à Ucrânia em pesquisa",
+    "summary_pt": "A pequena maioria dos alemães se opõe à ajuda militar à Ucrânia, em pesquisa da Reuters"
   },
   {
     "title": "Carbon capture was a sticking point at COP31: Is it a delay tactic or genuine solution?",
@@ -4705,7 +4848,9 @@
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLTBqVnllWWdXMThBVk1EbTYyUVgwVW9RYTR6TW1faTkwM2R3eV9yRVQ4VUkteFBMbS1TdDRCb2VzZXNCT0kySThGTUg2d3EyalZpMHZrZEltcko1Ui1lTGdlSS1PZUpiQlo1WGlxbG1hclV2NC1pUU5YU01GbjB2R2dPMFZQUVBoSGRBMXBhNnRDZ1JUdURuamtRWkpTdw?oc=5",
     "date": "2026-11-24T11:25:29Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "O boom da IA ​​paira sobre o Fed de Warsh à medida que aumentam as preocupações com a inflação",
+    "summary_pt": "O boom da IA ​​paira sobre o Fed de Warsh à medida que aumentam as preocupações com a inflação Reuters"
   },
   {
     "title": "Man with Alzheimer's found alive after 11 days lost in jungle",
@@ -4731,7 +4876,9 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX3FMUjJQUjM5RndMUHBGRnM4LWY3eVcwX2dPTnNWWURVVlp2aXZRMG5IWGNKMGFJTFhRY2pSMThVMnpzbnR1bklPNWNVZXlUWTNFVXBHOU9zR1NucVd1Q2x3em1icFZldGpacHVyVUNhUjdzNVZqSEJEMkFpNFN4THJyZU9vVEJUeC1FS0NfTlNXcUxIWS1qLUt3WUJNV3hwdF9vVFNtWWtadUxta0c5Y2pObzJ1cms2Z1N3?oc=5",
     "date": "2026-11-24T11:17:22Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Companhias aéreas, pressionadas pelos altos custos de combustível, repensam estratégia de financiamento de jatos",
+    "summary_pt": "Companhias aéreas, pressionadas pelos altos custos de combustível, repensam estratégia de financiamento de jatos Reuters"
   },
   {
     "title": "Latvian president sees possible 'tipping point' in Ukraine war next year",
@@ -4843,7 +4990,9 @@
     "url": "https://www.dw.com/en/bombed-factories-billion-dollar-opportunity-why-german-companies-are-staying-in-ukraine/a-80030201?maca=en-rss-en-all-1573-rdf",
     "date": "2026-11-24T11:00:00Z",
     "lang": "en",
-    "image": "https://static.dw.com/image/72289630_6.jpg"
+    "image": "https://static.dw.com/image/72289630_6.jpg",
+    "title_pt": "Fábricas bombardeadas, oportunidade de bilhões de dólares: por que as empresas alemãs permanecem na Ucrânia",
+    "summary_pt": "As empresas alemãs continuam comprometidas com a Ucrânia, apesar das perdas de milhões de dólares, do fornecimento de energia pouco fiável e da escassez de trabalhadores qualificados. Estão apostando em novos mercados e no crescimento a longo prazo."
   },
   {
     "title": "EU to impose cap on Chinese hybrid EV imports next month",
@@ -4911,7 +5060,9 @@
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTlJaWGxXTkJTQmxxa1djNFRERGhsZWM5TnMxYTRPQTRUNlNzRlNiZnFVOWNLYURZSEpmYlhpU0VuWThBVldDU243Zk56dC1zRDRDX1ZrZFdZc0lTSTVybWVYYnhhbF9SUWxaQ3d3bUU5WHFqcFZodkN2TkRndzVPaUwtczJsQnFObHY1Si0zenBDWVdjeDE4S1dVTUlBcVlpZjl0SENEOWhaalZqTFJDbFVFbGoycW41dnRjU2NSbjIwMXhvbzgxQ3VR?oc=5",
     "date": "2026-11-24T10:53:44Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Federação marroquina relata incidente ao CAS durante apelo da AFCON no Senegal, diz fonte",
+    "summary_pt": "Federação marroquina relata incidente ao CAS durante apelo da AFCON no Senegal, diz fonte à Reuters"
   },
   {
     "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
@@ -5007,7 +5158,9 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVBIRjVvdm1kSlZiZHR3Q2M0aEw4UTRvR2p0eGpXVFJ6ZE5wcm52UjZkaXh1UGE2VWhpajc2aGxTT2l1UGxQQ05RTVZERHJvaHF0YVhsMkZVYWpNWkttMlBRN1piVTc1RnlYbXFqcWczVjlpSG5mZXhqMVh4bG5yekFpMzE4VG9nclNucXFValJZY0MzY0JZaE9KNlM2dWJJYm1YNEpfWlZrQXFaU0c3bzBaRDFVc05tT0RB?oc=5",
     "date": "2026-11-24T10:37:03Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "summary_pt": "Enviado dos EUA não tem certeza se a ajuda militar a Israel terminará este ano, como Trump prometeu à Reuters",
+    "title_pt": "Enviado dos EUA ‘não tem certeza’ de que a ajuda militar a Israel terminará este ano, como Trump prometeu"
   },
   {
     "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
@@ -5162,18 +5315,6 @@
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9e%2F33%2F4980a8d646518ec071c574926f4b%2Ffuzzy-plants.jpg",
     "title_pt": "Conheça os \"guardiões da água\" peludos da Colômbia",
     "summary_pt": "No alto dos Andes colombianos, um número crescente de voluntários está se apressando para salvar uma planta incomum que ajuda a fornecer água a milhões de pessoas — uma pequena muda de cada vez."
-  },
-  {
-    "title": "EXCLUSIVE: India's Adani signs 3-year copper supply deal with Attero, sources say",
-    "summary": "EXCLUSIVE: India's Adani signs 3-year copper supply deal with Attero, sources say Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjVXaWxRMzZOZGdsLWo3S2MzZnk3YXc0RjRVcGFIZzBVc25Vb2VtVklsSllVSnk1X0htN0JIcWNNbld5YUtnSFVWTUw1dzQ5dmhvNHFsay1ldzB1YlpCWEZnVjc0NTR4T3paMWowV1JidnNWQXZMLU8tNUFzRFFZcEI3aGlhNjdXQnctOEN3dHVMUWNyekxtYWVBd0FlRkZjUzNYenN5MkNDclVGTk1JT1N0c2tiTXc?oc=5",
-    "date": "2026-11-24T09:52:39Z",
-    "lang": "en",
-    "image": ""
   },
   {
     "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
@@ -5381,7 +5522,9 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEl6LThLbVZLWTlSU3lNdHJLa2dnanBPQjdqRGdaeDd2bGU4VmpzVnRRZ1VETzdRelFLWnI0QVVkUE0tUUE0TDkyR2lpcEMzUGNFS09iWW1LREpvOHJkb25Fdkd2MWFSYWZQRkwwbGpQR21sYkxvRXI5ZHBJTGcxTzVDdGNWdjktUFQ2OTRsYmlUSEkyRU5qUWJKeTNkbF9FX2dYNTJsdXN1RlBsVDZVc3EzUGxOeFNZNm53?oc=5",
     "date": "2026-11-24T09:05:44Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "summary_pt": "China e Índia estabelecem importações recordes de petróleo russo em 2026, mas demanda atinge pico Reuters",
+    "title_pt": "China e Índia registaram importações recorde de petróleo russo em 2026, mas a procura atingiu o pico"
   },
   {
     "title": "Pakistani astronaut to join Chinese space mission",
@@ -5449,7 +5592,9 @@
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGhGRUlVZHA1MXVNbkVDQUZjN3U0aDR4NHRYNlR3cG1ValF0OUNQbU5wWjNrMnBMOWFVN195eUVNaVhiNy14b3YtSVdFWHpRYl9ZQTNmOFE2ZUdjaEtDRUNva1UxeHJFSVJfSWhHU2hJUHFrNUNWekRGSzBqbU1kRFVxQk52bDVGRUVEUGEtR0MyMDRGM0dacjdmNDNEMEFDaGNTMTVlU2JfUEVrTGVCYkJkb0otSVpyd2c?oc=5",
     "date": "2026-11-24T08:33:57Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "title_pt": "Unidade da TSMC busca limite de imposto sobre a propriedade do Texas para proposta de instalação de fabricação de chips de US$ 22,6 bilhões",
+    "summary_pt": "Unidade da TSMC busca limite de imposto sobre a propriedade no Texas para proposta de instalação de fabricação de chips de US$ 22,6 bilhões Reuters"
   },
   {
     "title": "Leader of India’s Cockroach movement says he was stopped from boarding flight to UK",
@@ -5489,7 +5634,9 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVlqQzhUUnlVXy11enMtemVoQURZSDZ4cFZ4czFBM091NW9GWDZVUmE2dGg2V2xCeHhzS2JINGI3RDdJdGw5N0t5bThLWDNGTk5DUVk0bnZJeEZSYWZTRElIbTQ5dzVMb2NySUhHaVZEZTNPZks2eldrbmt4ckx4YWpXR3UzWnE4bWhmS3BRdE5SZDZlam5vbC1VQndoWnQtcjgzMnhZRzVaalQ1?oc=5",
     "date": "2026-11-24T08:15:28Z",
     "lang": "en",
-    "image": ""
+    "image": "",
+    "summary_pt": "Japão acelera financiamento do TPI enquanto sanções dos EUA ameaçam tribunal Reuters",
+    "title_pt": "Japão acelera financiamento do TPI enquanto sanções dos EUA ameaçam tribunal"
   },
   {
     "title": "Footage of Russian cargo ship hit by Ukrainian drone attack in the Gulf of Finland",
@@ -5674,20 +5821,6 @@
     "summary_pt": "Satélite da Rússia e da China em órbita, em imagem de 2025. Reuters via DW A Rússia está planejando posicionar no espaço ainda neste ano uma bomba atômica, revelou uma investigação conjunta do jornal alemão \"Süddeutsche Zeitung\", e das emissoras alemães NDR e WDR. A ogiva nuclear seria colocada em órbita dentro de um satélite, ainda de acordo com os jornais,"
   },
   {
-    "title": "Sanofi's $41 billion Insmed bet charts life beyond Dupixent",
-    "summary": "Sanofi's $41 billion Insmed bet charts life beyond Dupixent Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdWdIeVloUTlfMmVFX2VlV3NycWRzei00N3V1MnNHVlhHbVdySVlsb1BjSmxfTFA5VUo2Z1RfM044alZxYzVaUVNiZmtqUjhMVnBvN0NiMWhHVWVWempLTlhmaGEtQUNHcDIwTG1XaUpnVEJtTGVuX25ETGxocWlvUEdIMExSQVlFS1VnNUJwMDdPbGh2?oc=5",
-    "date": "2026-11-24T06:36:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "A aposta de US$ 41 bilhões da Sanofi na Insmed traça a vida além da Dupixent",
-    "summary_pt": "Aposta de US$ 41 bilhões da Sanofi na Insmed traça vida além da Dupixent Reuters"
-  },
-  {
     "title": "Jordi Wild le dice a Pablo Motos lo que nunca se ha escuchado en ‘El hormiguero’",
     "summary": "El presentador preguntó cómo era el presidente y la respuesta fue inédita: “Un crack”, “una bestia política”, “cordial, simpático, muy amable”. A Motos se le iba quedando la misma cara que a la bruja de Blancanieves cuando el espejo le dice que no es la más bella del reino",
     "category": "Geral",
@@ -5728,18 +5861,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a13b/live/0b1bcc00-e75a-11f1-b407-33329b1ec67a.jpg",
     "title_pt": "Cabras convocadas para domar a encosta do Greenwich Park",
     "summary_pt": "As cabras Bagot são utilizadas para manter a vegetação sob controle e ajudar a preservar a vista do Observatório Real."
-  },
-  {
-    "title": "West Africa's rush to refine its own gold unleashes flood of capacity",
-    "summary": "West Africa's rush to refine its own gold unleashes flood of capacity Reuters",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTGNqT2ZGcU9hQW1ldS1mb09xYjNjMVFqSkVieWxYQzk3bUVsbHJWTjhvYnZrcXduOVZydHI4ZlNodXdLWDVQMVFKMWMzaGUzTTR3Qm1mY0hJMlY4bVFZV2xNVklIYVZsRXNsZUN3cnhELXk5eFg0V1JNR09ETWgzRGVLUkNfZDF4aWF5Yk1KZUJiSnZ6Nm9IUlU3b0x4aG1ZT01wY0xfdm5Gd3JQN0x6Tg?oc=5",
-    "date": "2026-11-24T06:03:00Z",
-    "lang": "en",
-    "image": ""
   },
   {
     "title": "Is no deal better than a bad deal? Why some see hope in COP31’s collapse",
@@ -6894,33 +7015,5 @@
     "image": "https://s2-g1.glbimg.com/vb0qykLMJ_qH0pbYL9-aHdfdloE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/9/5TfnsgTHWm7PqwKPeQng/ap26325066137247.jpg",
     "title_pt": "Trump diz que proibiu detonação de explosivos instáveis em Iowa até decisão da Justiça dos EUA",
     "summary_pt": "Foto divulgada pelo Exército dos Estados Unidos mostra a Fábrica de Munições do Exército de Iowa, em Middletown, no estado de Iowa. Dori Whipple / Associated Press O presidente ds Estados Unidos, Donald Trump, ordenou nesta segunda-feira (23) que o Exército do país espere por uma decisão judicial antes de detonar as cinco toneladas de material explosivo enco"
-  },
-  {
-    "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
-    "summary": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-23T18:49:19Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda1/live/ad61f0f0-e76b-11f1-a094-5fdc692f3e33.jpg",
-    "title_pt": "A primeira-dama Melania Trump dá as boas-vindas à árvore de Natal deste ano da Casa Branca",
-    "summary_pt": "A árvore de Natal oficial da Casa Branca de 2026 é um abeto de 5,5 metros da Silent Night Evergreens, uma fazenda em Endeavor, Wisconsin."
-  },
-  {
-    "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
-    "summary": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
-    "category": "Economia",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-23T18:43:00Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caf3/live/63f423d0-e76a-11f1-99b6-a35a62fa4264.jpg",
-    "title_pt": "'A maior reviravolta na história econômica': Especialistas reagem ao retorno de Jensen Huang à Nvidia",
-    "summary_pt": "O CEO da Nvidia foi reintegrado após semanas de polêmica sobre seu caso com um suposto espião chinês."
   }
 ]
