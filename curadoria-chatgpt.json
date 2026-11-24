@@ -2,9 +2,24 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-23T23:39:05.585Z",
+  "updated_at": "2026-11-24T02:35:39.958Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Organização internacional de controle de armas químicas enfrenta crise financeira",
+      "summary": "A diretora-geral da OPAQ informou em 23 de novembro que falta um quarto do orçamento anual de 83 milhões de euros, principalmente por pagamentos pendentes dos EUA. A crise pode interromper trabalhos de destruição de munições proibidas na Síria.",
+      "impact_br": "Sem impacto direto confirmado; a redução da capacidade de fiscalização pode enfraquecer a segurança internacional.",
+      "category": "Segurança internacional",
+      "region": "Global",
+      "country": "GLOBAL",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us-arrears-leave-chemical-weapons-watchdog-facing-budget-crisis-2026-11-23/",
+      "published_on": "2026-11-23",
+      "published_at": "2026-11-23T09:53:00-04:00",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-24T02:35:39.958Z"
+    },
     {
       "title": "Alemanha avalia relatos de possível satélite russo com arma nuclear",
       "summary": "Veículos alemães relataram, citando avaliações de inteligência ocidental, que a Rússia poderia lançar um satélite com arma nuclear ainda em 2026. O governo alemão disse levar os relatos a sério e a OTAN afirmou monitorar sua defesa espacial. A existência do satélite e o plano de lançamento não foram confirmados publicamente; Moscou nega as acusações.",
