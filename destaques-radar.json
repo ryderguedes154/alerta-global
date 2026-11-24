@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T03:04:47.563804Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T03:09:53.472206Z",
+  "status": "checado",
   "items": [
     {
       "title": "O que o ataque a um navio russo na Líbia diz sobre a propagação da guerra na Ucrânia",
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Da Alemanha à costa da África: os sinais de que a guerra na Ucrânia está se expandindo no mundo",
+      "summary": "Vídeo mostra ataque de drones ucranianos a navio de guerra russo em base naval na Líbia O presidente Volodimir Zelensky afirmou na segunda-feira (23) que a Ucrânia foi a responsável pelos ataques contra duas embarcações russas na costa da Líbia, acrescentando que uma delas afundou — um novo desdobramento da guerra entre Moscou e Kiev. ✅ Siga o canal de notíc",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/24/da-alemanha-a-costa-da-africa-os-sinais-de-que-a-guerra-na-ucrania-esta-se-expandindo-no-mundo.ghtml",
+      "published_on": "23/11/2026 23:00 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/99zFOb8jCCOygoS6HrRYBd1oj_s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/t/kTR8rBRAuC4xOaMHuHJg/2026-11-23t090233z-26004991-rc2ysoavk78q-rtrmadp-3-ukraine-crisis-ships-1-.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "A Ucrânia afunda navios de guerra russos a milhares de quilômetros do campo de batalha, perto da Líbia",
       "summary": "Um vídeo militar publicado pelo presidente ucraniano, Volodymyr Zelenskyy, supostamente mostra os ataques de drones navais do país a navios russos perto da Líbia, a milhares de quilômetros do campo de batalha. Charlie D'Agata informa.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,19 +54,6 @@
       "url": "https://www.cbsnews.com/video/ukraine-sinks-russian-warships-thousands-miles-battlefield-libya/",
       "published_on": "23/11/2026 21:17 (Boa Vista)",
       "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/64c7a5bd-d287-4ac9-b312-c6b8b3260a9b/thumbnail/1200x630/b9d2c5d1c3979fa43b60d4abefda624f/cbsn-fusion-ukraine-sinks-russian-warships-thousands-miles-battlefield-libya-thumbnail.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Guerra no Irã ao vivo: Irã diz que três navios pegaram fogo após atingirem minas em Ormuz",
-      "summary": "A Guarda Revolucionária do Irã afirma que três petroleiros pegaram fogo após atingirem minas navais no Estreito de Ormuz.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
-      "published_on": "23/11/2026 20:00 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261123__D8BZ7G9__v2__HighRes__IranUsIsraelWar-1795471267.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
@@ -104,7 +104,7 @@
       "country": "GB",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-      "published_on": "23/11/2026 22:44 (Boa Vista)",
+      "published_on": "23/11/2026 22:48 (Boa Vista)",
       "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5e69966bad470721012a672356f690c9",
       "selection": "automatic"
     }
