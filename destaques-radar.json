@@ -1,7 +1,7 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T02:44:18.646038Z",
+  "checked_at": "2026-11-24T02:49:27.628039Z",
   "status": "checado",
   "items": [
     {
@@ -70,19 +70,6 @@
       "selection": "automatic"
     },
     {
-      "title": "O presidente da Nigéria diz que também está sendo afetado pelos cortes de água e energia que assolam o país",
-      "summary": "Bola Tinubu diz que estava se barbeando na semana passada quando faltou água — uma experiência familiar para muitos nigerianos.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Geral",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
-      "published_on": "23/11/2026 10:26 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Sanções, cimeiras e greves: a guerra na Ucrânia não mostra sinais de abrandamento",
       "summary": "Bom dia. Leo Cendrowicz aqui, trazendo para vocês o boletim informativo de segunda-feira. Esta semana, estamos a lidar com mais bombardeamentos na Ucrânia e com o bombardeamento metafórico das negociações climáticas da COP31 na Turquia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
       "published_on": "23/11/2026 13:24 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c650/live/3a868c20-e767-11f1-99a1-253766e7ad8b.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Legisladores republicanos rompem com Trump por causa do suposto contrabando de chips da Nvidia após a reintegração de Jensen Huang – ao vivo",
+      "summary": "\"O Congresso tem muito o que investigar\", afirma Tom Cotton, senador republicano dos EUA pelo Arkansas, enquanto alguns de seus colegas na Câmara prometem obter respostas de Huang. Cadastre-se para receber o e-mail Breaking News US. As ações da Nvidia subiram 31% no início do pregão após a notícia. O S&P 500 subiu 4,5% e está recuperando quase metade de suas",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+      "published_on": "23/11/2026 22:44 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5e69966bad470721012a672356f690c9",
       "selection": "automatic"
     }
   ]
