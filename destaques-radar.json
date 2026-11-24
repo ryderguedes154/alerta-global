@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T02:23:53.975635Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T02:28:59.423876Z",
+  "status": "checado",
   "items": [
     {
       "title": "O que o ataque a um navio russo na Líbia diz sobre a propagação da guerra na Ucrânia",
@@ -28,19 +28,6 @@
       "url": "https://apnews.com/article/europe-russia-sanctions-banks-crypto-visas-sports-ecad86868390f6602b346c70d1fa5757?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
       "published_on": "23/11/2026 13:31 (Boa Vista)",
       "image": "https://ic-cdn.flipboard.com/apnews.com/1c2aba8aae805f369a23ef7edba06418573bb2fc/_large.jpeg",
-      "selection": "automatic"
-    },
-    {
-      "title": "O presidente da Nigéria diz que também está sendo afetado pelos cortes de água e energia que assolam o país",
-      "summary": "Bola Tinubu diz que estava se barbeando na semana passada quando faltou água — uma experiência familiar para muitos nigerianos.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Geral",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
-      "published_on": "23/11/2026 10:26 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
       "selection": "automatic"
     },
     {
@@ -80,6 +67,19 @@
       "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
       "published_on": "23/11/2026 17:30 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/2025-06-23T163901Z_2116085940_RC2G8FAM4IDS_RTRMADP_3_IRAN-NUCLEAR-ENERGY-1755798951.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
+    {
+      "title": "O presidente da Nigéria diz que também está sendo afetado pelos cortes de água e energia que assolam o país",
+      "summary": "Bola Tinubu diz que estava se barbeando na semana passada quando faltou água — uma experiência familiar para muitos nigerianos.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Geral",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+      "published_on": "23/11/2026 10:26 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
       "selection": "automatic"
     },
     {
