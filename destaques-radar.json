@@ -1,8 +1,8 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T16:00:40.178574Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T16:05:51.103604Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os preços do petróleo caem, apesar dos ataques contínuos do Irã a petroleiros",
@@ -52,7 +52,7 @@
       "country": "GB",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-      "published_on": "24/11/2026 11:15 (Boa Vista)",
+      "published_on": "24/11/2026 11:52 (Boa Vista)",
       "image": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3d2a47ebcd3157a1c708fc46a40dcc11",
       "selection": "automatic"
     },
@@ -83,19 +83,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Clínica geral suspende consultas de rotina devido ao \"tsunami\" de demanda",
-      "summary": "A Aberfoyle Medical Practice, em Derry, afirma que seus médicos atendem 60 pacientes por dia cada um.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm62pze6xn37o?at_medium=RSS&at_campaign=rss",
-      "published_on": "24/11/2026 08:29 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca8/live/4160e700-e7e6-11f1-8b26-c1adae33e7f2.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Chefe da OTAN promete defesa contra ameaça espacial após relatos de satélite nuclear russo",
       "summary": "A mídia alemã afirmou que a Rússia planejava lançar um satélite com uma ogiva nuclear no espaço nas próximas semanas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
       "published_on": "24/11/2026 06:58 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Trump ganhou até US$ 15 milhões com ações da Nvidia após o retorno de Huang",
+      "summary": "O presidente dos EUA diz que 'convenceu' o conselho da fabricante de chips a reintegrar o CEO, já que as ações da Nvidia caem após a recuperação do dia anterior Comentário: O humilhado conselho da Nvidia deveria renunciar por constrangimento Negócios ao vivo - últimas atualizações Donald Trump ganhou até US $ 15 milhões (£ 11,5 milhões) em suas participações",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+      "published_on": "24/11/2026 11:23 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d371a0004e0bee9a09bfd9ada713138",
       "selection": "automatic"
     }
   ]
