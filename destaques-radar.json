@@ -1,7 +1,7 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T07:06:00.163371Z",
+  "checked_at": "2026-11-24T07:11:16.841338Z",
   "status": "checado",
   "items": [
     {
@@ -18,6 +18,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Ataque russo mata 2 pessoas e deixa 22 feridos na Ucrânia, diz autoridade",
+      "summary": "Entre os feridos estão duas crianças; bombardeio atingiu prédios residenciais e infraestrutura de transporte em Zaporizhzhia",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/ataque-russo-deixa-mortos-e-feridos-na-ucrania-diz-autoridade/",
+      "published_on": "24/11/2026 02:47 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/ataque-russia-ucrania-sancoes-diesel.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
       "title": "Da Alemanha à costa da África: os sinais de que a guerra na Ucrânia está se expandindo no mundo",
       "summary": "Vídeo mostra ataque de drones ucranianos a navio de guerra russo em base naval na Líbia O presidente Volodimir Zelensky afirmou na segunda-feira (23) que a Ucrânia foi a responsável pelos ataques contra duas embarcações russas na costa da Líbia, acrescentando que uma delas afundou — um novo desdobramento da guerra entre Moscou e Kiev. ✅ Siga o canal de notíc",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -28,19 +41,6 @@
       "url": "https://g1.globo.com/mundo/noticia/2026/11/24/da-alemanha-a-costa-da-africa-os-sinais-de-que-a-guerra-na-ucrania-esta-se-expandindo-no-mundo.ghtml",
       "published_on": "23/11/2026 23:00 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/99zFOb8jCCOygoS6HrRYBd1oj_s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/t/kTR8rBRAuC4xOaMHuHJg/2026-11-23t090233z-26004991-rc2ysoavk78q-rtrmadp-3-ukraine-crisis-ships-1-.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "A Ucrânia afunda navios de guerra russos a milhares de quilômetros do campo de batalha, perto da Líbia",
-      "summary": "Um vídeo militar publicado pelo presidente ucraniano, Volodymyr Zelenskyy, supostamente mostra os ataques de drones navais do país a navios russos perto da Líbia, a milhares de quilômetros do campo de batalha. Charlie D'Agata informa.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/video/ukraine-sinks-russian-warships-thousands-miles-battlefield-libya/",
-      "published_on": "23/11/2026 21:17 (Boa Vista)",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/64c7a5bd-d287-4ac9-b312-c6b8b3260a9b/thumbnail/1200x630/b9d2c5d1c3979fa43b60d4abefda624f/cbsn-fusion-ukraine-sinks-russian-warships-thousands-miles-battlefield-libya-thumbnail.jpg",
       "selection": "automatic"
     },
     {
