@@ -1,7 +1,7 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T11:33:17.669284Z",
+  "checked_at": "2026-11-24T11:38:32.736667Z",
   "status": "checado",
   "items": [
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Ataques aéreos israelenses em Gaza matam 7 pessoas enquanto médicos alertam para surto de meningite",
-      "summary": "Autoridades de saúde de Gaza afirmam que os casos de meningite aumentaram para 272 em outubro, mais de oito vezes a taxa mensal típica.",
+      "title": "Trump enfrenta reação negativa após dizer que \"convenceu\" a Nvidia a reintegrar o CEO Jensen Huang",
+      "summary": "A Nvidia havia sofrido pressão do presidente Trump para renomear Huang, cujo retorno ajudou a acrescentar US$ 1 trilhão ao valor das ações da empresa.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Saúde",
+      "category": "Economia",
       "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
-      "published_on": "24/11/2026 06:47 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b055927c071-1795512615.jpg?resize=1920%2C1440",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "published_on": "24/11/2026 06:53 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
       "selection": "automatic"
     }
   ]
