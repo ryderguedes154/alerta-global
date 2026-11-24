@@ -1,7 +1,7 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T12:52:34.248352Z",
+  "checked_at": "2026-11-24T12:57:47.934850Z",
   "status": "checado",
   "items": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "title": "Governo Trump negocia produção de drones militares com fabricantes automotivas, diz jornal",
-      "summary": "Drone MQ-9A Reaper, fabricado pelos Estados Unidos General Atomics Aeronautical/Reprodução O Pentágono está em negociações com a General Motors (GM), a Ford e outras fabricantes automotivas para ajudar na produção em larga escala de drones militares, informou nesta terça-feira (24) o jornal norte-americano \"The Wall Street Journal\", citando pessoas familiari",
+      "summary": "Drone militar MQ-9 Reaper, de função dupla de monitoramento e ataque, do Exército dos Estados Unidos. Jam Sta Rosa/AFP O Pentágono está em negociações com a General Motors (GM), a Ford e outras fabricantes automotivas para ajudar na produção em larga escala de drones militares, informou nesta terça-feira (24) o jornal norte-americano \"The Wall Street Journal",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
@@ -27,7 +27,7 @@
       "source": "G1 Mundo",
       "url": "https://g1.globo.com/mundo/noticia/2026/11/24/governo-trump-drones-militares-fabricantes-automotivas-diz-jornal.ghtml",
       "published_on": "24/11/2026 08:36 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/1evHmxZ9e4J26tlIoV5Zt7AWr_Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/E/z/WxBAmxSlGswa8OU26piA/captura-de-tela-2024-04-25-143005.png",
+      "image": "https://s2-g1.glbimg.com/n1fcS1vydpqNhA4CKmfZThKCOEU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/C/9/HkSBceQHKriaVL849SAQ/33dp6u4-highres.jpg",
       "selection": "automatic"
     },
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump enfrenta reação negativa após dizer que \"convenceu\" a Nvidia a reintegrar o CEO Jensen Huang",
-      "summary": "A Nvidia havia sofrido pressão do presidente Trump para renomear Huang, cujo retorno ajudou a acrescentar US$ 1 trilhão ao valor das ações da empresa.",
+      "title": "Ataques aéreos israelenses em Gaza matam 7 pessoas enquanto médicos alertam para surto de meningite",
+      "summary": "Autoridades de saúde de Gaza afirmam que os casos de meningite aumentaram para 272 em outubro, mais de oito vezes a taxa mensal típica.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
+      "category": "Saúde",
       "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "published_on": "24/11/2026 06:53 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
+      "published_on": "24/11/2026 06:47 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b055927c071-1795512615.jpg?resize=1920%2C1440",
       "selection": "automatic"
     }
   ]
