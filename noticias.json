@@ -1,5 +1,75 @@
 [
   {
+    "title": "'A nightmare I'd like to forget' - patients of failing health board say it's beyond redemption",
+    "summary": "Patients describe days waiting in A&E at a health board in special measures for almost a decade.",
+    "category": "Saúde",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cmde19r99w9go?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-24T11:06:46Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c36e/live/71d5f5c0-e7f4-11f1-99a1-253766e7ad8b.jpg",
+    "title_pt": "\"Um pesadelo que eu gostaria de esquecer\" – pacientes de um conselho de saúde deficiente dizem que não há mais o que fazer",
+    "summary_pt": "Os pacientes descrevem dias de espera no pronto-socorro de um conselho de saúde sob medidas especiais por quase uma década."
+  },
+  {
+    "title": "Targets and money more important than care at failing health board, review finds",
+    "summary": "A review finds \"fundamental weaknesses\" in the governance and management of Betsi Cadwaladrhealth board.",
+    "category": "Saúde",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-24T11:05:17Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aceb/live/90850830-e7f4-11f1-a094-5fdc692f3e33.jpg",
+    "title_pt": "Metas e dinheiro são mais importantes do que o atendimento em um conselho de saúde deficiente, aponta avaliação",
+    "summary_pt": "Uma avaliação constatou \"fraquezas fundamentais\" na governança e na gestão do conselho de saúde de Betsi Cadwaladr."
+  },
+  {
+    "title": "Delia Smith joins opponents of £1.2bn data centre",
+    "summary": "The TV cook and author is worried about the environmental impact of the proposed Keswick facility.",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-24T11:04:36Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b418/live/76055eb0-e7e0-11f1-82bb-6b3be4dcbf70.jpg",
+    "title_pt": "Delia Smith se junta aos oponentes do data center de £ 1,2 bilhão",
+    "summary_pt": "O cozinheiro e autor da TV está preocupado com o impacto ambiental da instalação proposta em Keswick."
+  },
+  {
+    "title": "Five women killed every hour by family members or partners — UN report",
+    "summary": "On average, 129 women or girls were killed every day in 2025 by someone in their close social circle, UN data showed.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "DE",
+    "source": "Deutsche Welle",
+    "url": "https://www.dw.com/en/five-women-killed-every-hour-by-family-members-or-partners-un-report/a-80030010?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-11-24T11:03:00Z",
+    "lang": "en",
+    "image": "https://static.dw.com/image/75000729_6.jpg",
+    "title_pt": "Cinco mulheres são mortas a cada hora por membros da família ou parceiros — relatório da ONU",
+    "summary_pt": "Em média, 129 mulheres ou meninas foram mortas todos os dias em 2025 por alguém de seu círculo social próximo, segundo dados da ONU."
+  },
+  {
+    "title": "Bombed factories, billion-dollar opportunity: Why German companies keep investing in Ukraine",
+    "summary": "Million-dollar losses, an unreliable energy supply, and a shortage of skilled workers: despite these challenges, German companies remain committed to Ukraine. They are betting on new markets and long-term growth.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "DE",
+    "source": "Deutsche Welle",
+    "url": "https://www.dw.com/en/bombed-factories-billion-dollar-opportunity-why-german-companies-keep-investing-in-ukraine/a-80030201?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-11-24T11:00:00Z",
+    "lang": "en",
+    "image": "https://static.dw.com/image/72289630_6.jpg",
+    "title_pt": "Fábricas bombardeadas, oportunidade de bilhões de dólares: por que as empresas alemãs continuam investindo na Ucrânia",
+    "summary_pt": "Prejuízos milionários, um fornecimento de energia instável e escassez de trabalhadores qualificados: apesar desses desafios, as empresas alemãs permanecem comprometidas com a Ucrânia. Elas estão apostando em novos mercados e no crescimento de longo prazo."
+  },
+  {
     "title": "EU to impose cap on Chinese hybrid EV imports next month",
     "summary": "Temporary quotas on vehicles entering the bloc tariff-free will also apply to cars from the UK, Japan and Turkey Business live – latest updates The EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into the bloc without facing a tariff, the European Commission has announced. The quotas will also apply to ",
     "category": "Geral",
@@ -114,7 +184,7 @@
   {
     "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
     "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -154,6 +224,20 @@
     "summary_pt": "Autoridades investigam “actividade intencional” no meio de tensões crescentes entre Moscovo e países do flanco oriental da NATO. Entretanto, o Financial Times informa esta manhã que o Pentágono está a atrasar a entrega de cerca de 60 interceptadores de defesa aérea Patriot, muito necessários, à Ucrânia. Os interceptadores, pagos pelos aliados ocidentais da Ucrânia, são relatados"
   },
   {
+    "title": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
+    "summary": "Nvidia chief's 'mistakes' had consequences far beyond Silicon Valley. He is back nonetheless, in less than two weeks.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss",
+    "date": "2026-11-24T10:48:38Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b055244-1795510852.jpg?resize=1200%2C675",
+    "title_pt": "Jensen Huang era grande demais para ser demitido? Por que a Nvidia e Trump o trouxeram de volta",
+    "summary_pt": "Os \"erros\" do CEO da Nvidia tiveram consequências que foram muito além do Vale do Silício. No entanto, ele está de volta em menos de duas semanas."
+  },
+  {
     "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
     "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
     "category": "Conflitos",
@@ -166,6 +250,48 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg",
     "title_pt": "República Democrática do Congo afirma que uma aeronave militar está desaparecida, enquanto rebeldes alegam ter derrubado o avião",
     "summary_pt": "Um piloto de caça sul-africano e um oficial ugandês estariam entre os ocupantes do avião abatido."
+  },
+  {
+    "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
+    "summary": "Gaza health officials say meningitis cases rose to 272 in October, more than eight times the typical monthly rate.",
+    "category": "Saúde",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
+    "date": "2026-11-24T10:47:41Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b055927c071-1795512615.jpg?resize=1920%2C1440",
+    "title_pt": "Ataques aéreos israelenses em Gaza matam 7 pessoas enquanto médicos alertam para surto de meningite",
+    "summary_pt": "Autoridades de saúde de Gaza afirmam que os casos de meningite aumentaram para 272 em outubro, mais de oito vezes a taxa mensal típica."
+  },
+  {
+    "title": "Renato Gaúcho, do Grêmio, revela conversa com Neymar: “Falou que me ama”",
+    "summary": "Treinador do Tricolor abriu o jogo sobre papo com o camisa 10 do Santos no duelo desta segunda-feira (23) pelo Campeonato Brasileiro",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/renato-gaucho-do-gremio-revela-conversa-com-neymar-falou-que-me-ama/",
+    "date": "2026-11-24T10:47:22Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/santos_gremio_2-e1795482366262.jpg?w=200",
+    "title_pt": "Renato Gaúcho, do Grêmio, revela conversa com Neymar: “Falou que me ama”",
+    "summary_pt": "Treinador do Tricolor abriu o jogo sobre papo com o camisa 10 do Santos no duelo desta segunda-feira (23) pelo Campeonato Brasileiro"
+  },
+  {
+    "title": "Satélites da NASA registram o momento em que o deserto do Atacama virou um tapete gigante de flores raras após o El Niño",
+    "summary": "Precipitações atípicas causadas pelo fenômeno El Niño despertaram sementes adormecidas no solo árido do Chile, gerando a maior floração registrada na era dos satélites",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/ciencia/satelites-da-nasa-registram-o-momento-em-que-o-deserto-do-atacama-virou-um-tapete-gigante-de-flores-raras-apos-o-el-nino/",
+    "date": "2026-11-24T10:46:46Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Satelites-da-NASA-registram-o-momento-em-que-o-deserto-do-Atacama-virou-um-tapete-gigante-de-flores-raras-1.png?w=1024",
+    "title_pt": "Satélites da NASA registram o momento em que o deserto do Atacama virou um tapete gigante de flores raras após o El Niño",
+    "summary_pt": "Precipitações atípicas causadas pelo fenômeno El Niño despertaram sementes adormecidas no solo árido do Chile, gerando a maior floração registrada na era dos satélites"
   },
   {
     "title": "Spain set to head to polls in snap election that could boost far right",
@@ -275,7 +401,7 @@
     "url": "https://www.cnnbrasil.com.br/internacional/jovem-dos-eua-pode-se-tornar-a-primeira-santa-da-geracao-z-entenda/",
     "date": "2026-11-24T10:38:02Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Thinkhope.jpg?w=768",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/EDC_NVD_130625_IL_SANTO_CARLO_ACUTIS_frame_1127.jpeg?w=200",
     "title_pt": "Jovem dos EUA pode se tornar a primeira santa da Geração Z; entenda",
     "summary_pt": "Aprovada pela conferência episcopal dos Estados Unidos a causa de Maria Middleton avança para análise de escritos e comprovação de milagres pelo Vaticano"
   },
@@ -625,7 +751,7 @@
     "url": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
     "date": "2026-11-24T10:00:20Z",
     "lang": "en",
-    "image": "",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24trav-craft-retreats-roundup-02-kpgj/24trav-craft-retreats-roundup-02-kpgj-facebookJumbo.jpg",
     "title_pt": "6 retiros artesanais oferecem tricô, cerâmica e muito mais para todos os níveis de habilidade",
     "summary_pt": "O interesse em criar hobbies, como tricô ou cerâmica, não é novo, mas vários fatores após a pandemia também os tornaram atraentes. Aqui estão algumas sugestões para retiros práticos."
   },
@@ -686,20 +812,6 @@
     "summary_pt": "Desde a sua vitória nas eleições intercalares para o Senado, no início de Novembro, o democrata norte-americano, filho de imigrantes egípcios, tem sido alvo de grande parte dos meios de comunicação social do país, quase todos subservientes ao poder do Presidente Abdel Fattah Al-Sissi. Em causa estão as suas alegadas ligações com a Irmandade Muçulmana."
   },
   {
-    "title": "Meet Colombia's fuzzy 'water guardians'",
-    "summary": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "NPR",
-    "url": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
-    "date": "2026-11-24T10:00:00Z",
-    "lang": "en",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9e%2F33%2F4980a8d646518ec071c574926f4b%2Ffuzzy-plants.jpg",
-    "title_pt": "Conheça os \"guardiões da água\" peludos da Colômbia",
-    "summary_pt": "No alto dos Andes colombianos, um número crescente de voluntários está se apressando para salvar uma planta incomum que ajuda a fornecer água a milhões de pessoas — uma pequena muda de cada vez."
-  },
-  {
     "title": "Bleeding, birth defects: Congo residents sue over alleged mining pollution",
     "summary": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
     "category": "Geral",
@@ -712,6 +824,20 @@
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5979x3986+0+0/resize/5979x3986!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5d%2F61%2F37c7b2df4058900639663f71c5e7%2Fgettyimages-2299683165.jpg",
     "title_pt": "Sangramentos, defeitos congênitos: moradores do Congo processam por suposta poluição causada pela mineração",
     "summary_pt": "Um processo histórico no Congo vê 27 residentes acusarem uma mina de cobre e cobalto de propriedade chinesa de envenenar a sua comunidade e o governo de não os proteger."
+  },
+  {
+    "title": "Meet Colombia's fuzzy 'water guardians'",
+    "summary": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "NPR",
+    "url": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
+    "date": "2026-11-24T10:00:00Z",
+    "lang": "en",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9e%2F33%2F4980a8d646518ec071c574926f4b%2Ffuzzy-plants.jpg",
+    "title_pt": "Conheça os \"guardiões da água\" peludos da Colômbia",
+    "summary_pt": "No alto dos Andes colombianos, um número crescente de voluntários está se apressando para salvar uma planta incomum que ajuda a fornecer água a milhões de pessoas — uma pequena muda de cada vez."
   },
   {
     "title": "Justiça do RJ aceita denúncia do MP contra Ricardo Magro e outros 18",
@@ -849,7 +975,7 @@
     "url": "https://www.cnnbrasil.com.br/curiosidades/apos-gastar-todas-as-economias-nas-cirurgias-da-esposa-veterano-de-guerra-volta-a-trabalhar-aos-81-anos-e-ganha-surpresa-em-caixa-de-mercado/",
     "date": "2026-11-24T09:50:17Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Maria-Middleton-jovem-que-bispos-dos-EUA-votaram-a-favor-de-canonizar.png?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/renato-gaucho-gremio-santos-e1795517214265.jpg?w=200",
     "title_pt": "Após gastar todas as economias nas cirurgias da esposa, veterano de guerra volta a trabalhar aos 81 anos e ganha surpresa em caixa de mercado",
     "summary_pt": "Veterano de guerra continuou trabalhando depois da aposentadoria para cuidar da esposa com problemas cardíacos"
   },
@@ -2044,20 +2170,6 @@
     "summary_pt": "Previsão é de chuva com acumulados de mais de 100 milímetros ao longo do dia, ventos superiores a 100 km/h e queda granizo; áreas do RS, SC e PR estão sob aviso do Inmet"
   },
   {
-    "title": "Delia Smith joins opponents of £1.2bn data centre",
-    "summary": "The TV cook and author is worried about the proposed Keswick facility's environmental impact.",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-24T06:36:26Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b418/live/76055eb0-e7e0-11f1-82bb-6b3be4dcbf70.jpg",
-    "title_pt": "Delia Smith se junta aos oponentes do data center de £ 1,2 bilhão",
-    "summary_pt": "O cozinheiro e autor da TV está preocupado com o impacto ambiental da instalação proposta em Keswick."
-  },
-  {
     "title": "Sanofi strikes $41 billion deal for Insmed as CEO Garijo makes her mark",
     "summary": "Sanofi strikes $41 billion deal for Insmed as CEO Garijo makes her mark Reuters",
     "category": "Geral",
@@ -2084,6 +2196,20 @@
     "image": "https://s.france24.com/media/display/031d8b8e-68bf-11f1-bc80-005056a97e36/w:1024/p:16x9/AP26077291094432.jpg",
     "title_pt": "AFCON 2025: CAS deve decidir sobre final controversa",
     "summary_pt": "O Tribunal Arbitral do Desporto vai proferir esta terça-feira a sua decisão sobre a final da Taça das Nações Africanas de 2025. O Senegal venceu a partida em campo, mas o Marrocos conquistou o troféu após recurso."
+  },
+  {
+    "title": "Norway's Equinor signs 18-year gas supply deal with Germany's VNG",
+    "summary": "Norway's Equinor signs 18-year gas supply deal with Germany's VNG Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWUZZaEZ0VWRPcy1GTlZpTEEta3hzQkZVQi14ZmN2czh2YUg1Y3pxMWZYRXFIZVpzbkxSYVdURTJXRkI0c0d3ZVB6ZHRmM28ycGVLQk9xQURBbEtuQV9OUjQ1dlJrQ3l3V0lLNEl2WjcwWGM4SkktUnBsQ19nU0tqemF6eTgtU0c4VW9oNVpLWF9zLW0tcE5vV25TaEY2cFZicjIyRXdGbGVDTmwtd3Vza1QwYl8zZw?oc=5",
+    "date": "2026-11-24T06:32:00Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "A norueguesa Equinor assina contrato de fornecimento de gás de 18 anos com a alemã VNG",
+    "summary_pt": "A Equinor, da Noruega, assina contrato de fornecimento de gás de 18 anos com a VNG, da Alemanha Reuters"
   },
   {
     "title": "Governo contorna resistências e aprova PLP do ajuste fiscal com amplo apoio",
@@ -2392,20 +2518,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D89A9BK__v1__HighRes__FblEngPrNewcastleArsenal-1795420051_344fbb-1795420233.jpg?resize=1200%2C630&quality=80",
     "title_pt": "Arsenal x Dortmund: Liga dos Campeões – Previsões, como assistir, escalações",
     "summary_pt": "A principal competição de clubes da Europa coloca o campeão inglês Arsenal contra o líder da liga alemã Dortmund na terça-feira."
-  },
-  {
-    "title": "'A nightmare I'd like to forget' - patients of failing health board say it's beyond redemption",
-    "summary": "Patients describe days waiting in A&E at a health board in special measures for almost a decade.",
-    "category": "Saúde",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cmde19r99w9go?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-24T05:55:47Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c36e/live/71d5f5c0-e7f4-11f1-99a1-253766e7ad8b.jpg",
-    "title_pt": "\"Um pesadelo que eu gostaria de esquecer\" – pacientes de um conselho de saúde deficiente dizem que não há mais o que fazer",
-    "summary_pt": "Os pacientes descrevem dias de espera no pronto-socorro de um conselho de saúde sob medidas especiais por quase uma década."
   },
   {
     "title": "US defense chief has yet to approve Patriot missiles already allocated to Ukraine, FT reports",
@@ -4022,20 +4134,6 @@
     "summary_pt": "O presidente ucraniano, Volodymyr Zelenskyy, disse que seu país estava por trás dos ataques que afundaram um navio de guerra russo e danificaram um navio de carga sancionado ao largo da Líbia."
   },
   {
-    "title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
-    "summary": "The ruling could clear the way for Trump to argue prosecutors relied on evidence protected by presidential immunity.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
-    "date": "2026-11-24T01:17:48Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b04cf1d0634b-1795477277.jpg?resize=1920%2C1440",
-    "title_pt": "Tribunal de segunda instância renova pedido de Trump para que o caso de suborno seja julgado na Justiça Federal",
-    "summary_pt": "A decisão poderia abrir caminho para que Trump argumentasse que os promotores se basearam em provas protegidas pela imunidade presidencial."
-  },
-  {
     "title": "Ukraine sinks Russian warships thousands of miles from battlefield near Libya",
     "summary": "Military video posted by Ukrainian President Volodymyr Zelenskyy is said to show the country's naval drone attacks on Russian ships near Libya, thousands of miles from the battlefield. Charlie D'Agata reports.",
     "category": "Geral",
@@ -4078,20 +4176,6 @@
     "summary_pt": "Glorioso consegue igualdade no segundo tempo após sair perdendo, mas ainda corre risco de rebaixamento na competição; Tricolor paulista atinge número mágico"
   },
   {
-    "title": "Israeli minister approves return of Flydubai flights to Tel Aviv",
-    "summary": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
-    "date": "2026-11-24T01:09:51Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b04c2fd51-1795474173.jpg?resize=1920%2C1440",
-    "title_pt": "Ministro israelense aprova o retorno dos voos da Flydubai para Tel Aviv",
-    "summary_pt": "A retomada definitiva da rota da companhia aérea entre Dubai e Tel Aviv depende da aprovação das autoridades de segurança israelenses."
-  },
-  {
     "title": "Jensen Huang é aplaudido por funcionários ao retornar à Nvidia; veja",
     "summary": "Conselho aprovou por unanimidade a recondução do executivo nesta segunda-feira (23)",
     "category": "Geral",
@@ -4118,34 +4202,6 @@
     "image": "",
     "title_pt": "Ouro cai com foco nos dados de inflação dos EUA",
     "summary_pt": "Ouro cai com foco nos dados de inflação dos EUA Reuters"
-  },
-  {
-    "title": "Justiça libera R$ 2,77 bi de ações previdenciárias a 179 mil beneficiários",
-    "summary": "Conselho da Justiça Federal liberou, no total, pagamento de R$ 3,36 bilhões em Requisições de Pequeno Valor a 293.596 beneficiários que venceram ações na Justiça Federal; saiba como consultar",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/justica-libera-r-277-bi-de-acoes-previdenciarias-a-179-mil-beneficiarios/",
-    "date": "2026-11-24T00:52:15Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/nvidia-cai-pregao.webp?w=200",
-    "title_pt": "Justiça libera R$ 2,77 bi de ações previdenciárias a 179 mil beneficiários",
-    "summary_pt": "Conselho da Justiça Federal liberou, no total, pagamento de R$ 3,36 bilhões em Requisições de Pequeno Valor a 293.596 beneficiários que venceram ações na Justiça Federal; saiba como consultar"
-  },
-  {
-    "title": "TCU deve votar na quarta relatório sobre irregularidades no crédito rural",
-    "summary": "Votação ocorre após a CAPADR (Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural) aprovar, em outubro de 2025, um requerimento para que a Corte analisasse possíveis falhas na execução da PNCR (Política Nacional de Crédito Rural)",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/agro/tcu-deve-votar-na-quarta-relatorio-sobre-irregularidades-no-credito-rural/",
-    "date": "2026-11-24T00:50:45Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/04/WhatsApp-Image-2022-04-15-at-08.35.26.jpeg?w=200",
-    "title_pt": "TCU deve votar na quarta relatório sobre irregularidades no crédito rural",
-    "summary_pt": "Votação ocorre após a CAPADR (Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural) aprovar, em outubro de 2025, um requerimento para que a Corte analisasse possíveis falhas na execução da PNCR (Política Nacional de Crédito Rural)"
   },
   {
     "title": "What are the various US federal and state probes faced by Nvidia and Jensen Huang?",
@@ -4664,20 +4720,6 @@
     "image": "",
     "title_pt": "Irã açoita cantora e sua equipe, diz site iraniano",
     "summary_pt": "Irã açoita cantora e sua equipe, diz site iraniano Reuters"
-  },
-  {
-    "title": "North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says",
-    "summary": "North Korea to consider shutting down Swiss diplomatic office in Pyongyang, KCNA says Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWtkOGd3MzlTdUM5d1ZnTlNuU1FGVDhJcFd6YlZaYzVBeEtSZDBmUjVzbzdnY0JfVEJ5UkFzN3p1RFMzWGFad3l4c1FsdjUtY1NyeG1LOHB3N2VVNlFmMXlVQXNISmEtd3hNbEVjS3BlVElXMWFKLWhpb2ZMY3QtZUticm1pQXFtV3B4RFY3ZDBtUHp2dnVnLXdZdmxDNzA1THdfRmJiRGdENGRoVXdJcC1SLVgwNjFSQ2x1eG03NlhDVHpJTS16bUV5YkZkQQ?oc=5",
-    "date": "2026-11-23T22:18:09Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "A Coreia do Norte está considerando fechar o escritório diplomático suíço em Pyongyang, segundo a KCNA",
-    "summary_pt": "A Coreia do Norte vai considerar fechar o escritório diplomático suíço em Pyongyang, diz a KCNA à Reuters"
   },
   {
     "title": "Africa disappointed with COP31 outcome",
@@ -5846,7 +5888,7 @@
   {
     "title": "The rise and fall and rise again of Jensen Huang",
     "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6406,6 +6448,20 @@
     "summary_pt": "O General Seán Clancy afirma que a Europa está mais bem preparada para se defender, mas deve acelerar os esforços para colmatar lacunas militares críticas, no meio de ameaças crescentes da Rússia e da incerteza sobre os compromissos militares dos EUA."
   },
   {
+    "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+    "summary": "KYIV, Ukraine (AP) — Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said Monday, claiming that maritime drones sank the navy vessel in a surprise assault the previous day. Ukrainian forces deployed seven drones in the operation that struck …",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/ukraine-russia-zelenskyy-warship-attack-libya-c382f8eb06dca7d87e89bc6c18ba7d61?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+    "date": "2026-11-23T11:50:23Z",
+    "lang": "en",
+    "image": "https://ic-cdn.flipboard.com/apnews.com/6518f109c47698fd137e8cacadb9faf85f18da1c/_large.webp",
+    "title_pt": "Zelenskyy elogia o ataque da Ucrânia a um navio de guerra russo atracado em uma base naval na Líbia",
+    "summary_pt": "KYIV, Ucrânia (AP) – A Ucrânia realizou um ataque a um navio de guerra russo atracado em um porto na Líbia, disse o presidente Volodymyr Zelenskyy na segunda-feira, alegando que drones marítimos afundaram o navio da Marinha em um ataque surpresa no dia anterior. As forças ucranianas implantaram sete drones na operação que atingiu…"
+  },
+  {
     "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
     "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels. Ukraine’s security service, the SBU, said seven domestically made ",
     "category": "Geral",
@@ -6618,20 +6674,6 @@
     "summary_pt": "Um incêndio mortal que devastou uma fábrica de confeitaria na Indonésia custou a vida a 24 pessoas, com cerca de 30 ainda desaparecidas."
   },
   {
-    "title": "Antibiotics saved my life - then nearly killed me",
-    "summary": "Harriet Davies was given the drugs after falling ill while skiing in France.",
-    "category": "Saúde",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/ckvg2elqy5g2o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-23T10:33:34Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d76/live/b8950d30-e6ae-11f1-99b6-a35a62fa4264.jpg",
-    "title_pt": "Os antibióticos salvaram minha vida – e depois quase me mataram",
-    "summary_pt": "Harriet Davies recebeu os medicamentos depois de adoecer enquanto esquiava na França."
-  },
-  {
     "title": "Sánchez tenta impedir vitória da direita na Espanha e volta a citar Lula",
     "summary": "O primeiro-ministro espanhol, Pedro Sánchez, apresenta o plano de cidadania e integração, no encerramento do prazo para candidaturas à amnistia migratória, em Madrid, Espanha REUTERS/Violeta Santos Moura O primeiro-ministro socialista Pedro Sánchez tenta desafiar, nas eleições do próximo domingo (29), as pesquisas que antecipam uma vitória dos conservadores,",
     "category": "Geral",
@@ -6686,20 +6728,6 @@
     "image": "https://images.euronews.com/articles/stories/10/00/42/52/696x392_cmsv2_7139d327-e496-54c5-965b-f1d019b071f4-10004252.jpg",
     "title_pt": "Ucrânia: dramático resgate noturno tira mulher dos escombros após 22 horas",
     "summary_pt": "Uma idosa foi resgatada com vida depois de passar 22 horas presa sob lajes de concreto em Dymer, ao norte de Kiev. O número de mortos no ataque russo de domingo a um prédio de apartamentos aumentou para 11."
-  },
-  {
-    "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
-    "summary": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "NPR",
-    "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
-    "date": "2026-11-23T10:16:33Z",
-    "lang": "en",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F52%2F30%2Fd4914bc74ad997c95d4e79039c90%2Fap26327310507060.jpg",
-    "title_pt": "Zelenskyy elogia o ataque da Ucrânia a um navio de guerra russo atracado em uma base naval na Líbia",
-    "summary_pt": "KYIV, Ucrânia (AP) – A Ucrânia realizou um ataque a um navio de guerra russo atracado em um porto na Líbia, disse o presidente Volodymyr Zelenskyy na segunda-feira, alegando que drones marítimos afundaram o navio da Marinha em um ataque surpresa no dia anterior. As forças ucranianas implantaram sete drones na operação que atingiu…"
   },
   {
     "title": "Poundland is facing collapse - what's gone wrong?",
@@ -6980,33 +7008,5 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f7/live/e38ff1a0-e71f-11f1-99b6-a35a62fa4264.jpg",
     "title_pt": "Cinco conclusões das negociações climáticas fracassadas da COP31",
     "summary_pt": "A cúpula da COP31 em Antália foi a mais longa negociação sobre o clima na história da ONU."
-  },
-  {
-    "title": "Rule-breaking is contagious — and good examples barely help",
-    "summary": "Seeing someone break a rule makes people more likely to break it too, a new study finds, especially when the rule-breaker is on their side politically. Watching others behave well barely made a difference.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "DE",
-    "source": "Deutsche Welle",
-    "url": "https://www.dw.com/en/rule-breaking-is-contagious-and-good-examples-barely-help/a-79980025?maca=en-rss-en-all-1573-rdf",
-    "date": "2026-11-23T06:33:00Z",
-    "lang": "en",
-    "image": "https://static.dw.com/image/79980583_6.jpg",
-    "title_pt": "Quebrar regras é contagioso — e bons exemplos quase não ajudam",
-    "summary_pt": "Ver alguém infringir uma regra aumenta a probabilidade de as pessoas também a infringirem, segundo um novo estudo, especialmente quando o infrator está do mesmo lado delas politicamente. Ver outras pessoas se comportando bem quase não fez diferença."
-  },
-  {
-    "title": "Indonesian rescuers race to find 34 missing workers after a deadly candy factory fire",
-    "summary": "SERANG, Indonesia (AP) — Families in Indonesia searched Monday for any word of the 34 workers still missing two days after a deadly fire swept through a candy factory west of Jakarta. Saturday’s fire broke out at the PT Fonusa Agung Mulia factory in Banten province. Firefighters battled the blaze …",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/indonesia-serang-candy-factory-fire-18ba7c043a429d59d9cdb5a11bcfd5c6?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-    "date": "2026-11-23T06:26:38Z",
-    "lang": "en",
-    "image": "https://ic-cdn.flipboard.com/apnews.com/9ce11673d490f30066a6a2c148b247c2dad6cc9b/_large.webp",
-    "title_pt": "Equipes de resgate indonésias correm para encontrar 34 trabalhadores desaparecidos após um incêndio fatal em uma fábrica de doces",
-    "summary_pt": "JACARTA, Indonésia (AP) — Na segunda-feira, equipes de resgate indonésias procuraram 34 trabalhadores desaparecidos após um incêndio devastador ter atingido uma fábrica de doces a oeste de Jacarta. O incêndio de sábado começou na fábrica da PT Fonusa Agung Mulia, na província de Banten. Os bombeiros combateram as chamas por cerca de 14 horas antes de conseguirem controlá-las em grande parte..."
   }
 ]
