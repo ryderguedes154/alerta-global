@@ -1,7 +1,7 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T10:46:29.476273Z",
+  "checked_at": "2026-11-24T10:51:34.687284Z",
   "status": "checado",
   "items": [
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump enfrenta reação negativa após dizer que \"convenceu\" a Nvidia a reintegrar o CEO Jensen Huang",
-      "summary": "A Nvidia havia sofrido pressão do presidente Trump para renomear Huang, cujo retorno ajudou a acrescentar US$ 1 trilhão ao valor das ações da empresa.",
+      "title": "Após gastar todas as economias nas cirurgias da esposa, veterano de guerra volta a trabalhar aos 81 anos e ganha surpresa em caixa de mercado",
+      "summary": "Veterano de guerra continuou trabalhando depois da aposentadoria para cuidar da esposa com problemas cardíacos",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Economia",
       "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "published_on": "24/11/2026 05:42 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/apos-gastar-todas-as-economias-nas-cirurgias-da-esposa-veterano-de-guerra-volta-a-trabalhar-aos-81-anos-e-ganha-surpresa-em-caixa-de-mercado/",
+      "published_on": "24/11/2026 05:50 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Maria-Middleton-jovem-que-bispos-dos-EUA-votaram-a-favor-de-canonizar.png?w=200",
       "selection": "automatic"
     }
   ]
