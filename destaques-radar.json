@@ -1,8 +1,8 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T16:43:04.466466Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T16:48:17.713143Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os preços do petróleo caem, apesar dos ataques contínuos do Irã a petroleiros",
@@ -44,19 +44,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Itália expressa preocupação à Ucrânia com ataques a navios na Líbia – Europa ao vivo",
-      "summary": "A Ucrânia confirmou anteriormente que utilizou drones navais em ataques a navios russos ao largo da costa da Líbia. O líder da coligação de esquerda Espanhola, Frente Ampla, apelou a um repensar drástico de todo o sistema de arrendamento habitacional do país e descreveu o despejo de uma mulher de 87 anos – a faísca para protestos a nível nacional que, por su",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-      "published_on": "24/11/2026 12:24 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3d2a47ebcd3157a1c708fc46a40dcc11",
-      "selection": "automatic"
-    },
-    {
       "title": "A pressão de Trump sobre a Nvidia mostra a importância das empresas na guerra econômica global",
       "summary": "Os presidentes que o antecederam socorreram empresas em tempos de crise nacional. Trump foi além: apostou o destino dos Estados Unidos no de um diretor-executivo de sua preferência.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -80,6 +67,19 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/russia-tows-it-cargo-ship-back-home-after-ukrainian-drone-attack?traffic_source=rss",
       "published_on": "24/11/2026 10:56 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795532171.jpg?resize=1920%2C1080&quality=80",
+      "selection": "automatic"
+    },
+    {
+      "title": "O Catar afirma que \"não aceitará\" ataques após os protestos do Irã contra uma declaração conjunta com a Alemanha",
+      "summary": "O Irã convocou um diplomata do Catar em Teerã por causa de uma declaração conjunta com a Alemanha condenando os ataques iranianos e as ameaças à navegação. O Catar afirmou que resolverá a disputa por meio da diplomacia e que tanto os EUA quanto o Irã ainda estavam participando de seus esforços de mediação.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/24/qatar-says-it-will-not-accept-attacks-after-iran-protests-over-joint-statement-with-german",
+      "published_on": "24/11/2026 10:29 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/10/00/60/78/696x392_cmsv2_9d09502a-144f-5247-9576-d579408b901d-10006078.jpg",
       "selection": "automatic"
     },
     {
