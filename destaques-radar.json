@@ -1,7 +1,7 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T10:05:04.807083Z",
+  "checked_at": "2026-11-24T10:10:15.941889Z",
   "status": "checado",
   "items": [
     {
@@ -83,6 +83,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Trump enfrenta reação negativa após dizer que \"convenceu\" a Nvidia a reintegrar o CEO Jensen Huang",
+      "summary": "A Nvidia havia sofrido pressão do presidente Trump para renomear Huang, cujo retorno ajudou a acrescentar US$ 1 trilhão ao valor das ações da empresa.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "published_on": "24/11/2026 05:42 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Chefe da OTAN promete defesa contra ameaça espacial após relatos de satélite nuclear russo",
       "summary": "A mídia alemã afirmou que a Rússia planejava lançar um satélite com uma ogiva nuclear no espaço nas próximas semanas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
       "published_on": "23/11/2026 22:15 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump ganhou até US$ 15 milhões com as ações da Nvidia após o retorno de Huang",
-      "summary": "Os mercados de ações da Ásia-Pacífico sobem após o presidente dos EUA dizer que \"convenceu\" o conselho da fabricante de chips a reintegrar o CEO Comentário: O conselho humilhado da Nvidia deveria renunciar por vergonha Negócios em tempo real – últimas atualizações Donald Trump ganhou até US$ 15 milhões (£ 11,5 milhões) com suas participações nas ações da Nvi",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
-      "published_on": "24/11/2026 05:54 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d371a0004e0bee9a09bfd9ada713138",
       "selection": "automatic"
     }
   ]
