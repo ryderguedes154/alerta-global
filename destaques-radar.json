@@ -1,20 +1,20 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T08:46:37.498266Z",
+  "checked_at": "2026-11-24T08:51:55.835835Z",
   "status": "checado",
   "items": [
     {
-      "title": "O que o ataque a um navio russo na Líbia diz sobre a propagação da guerra na Ucrânia",
-      "summary": "O naufrágio de um navio de guerra russo pela Ucrânia num porto na Líbia aumenta um pouco os riscos da guerra, escreve Frank Gardner.",
+      "title": "Drone russo viola o espaço aéreo polonês dias depois que mísseis de cruzeiro caíram no país – Europa ao vivo",
+      "summary": "Autoridades investigam “actividade intencional” no meio de tensões crescentes entre Moscovo e países do flanco oriental da NATO. Entretanto, o Financial Times informa esta manhã que o Pentágono está a atrasar a entrega de cerca de 60 interceptadores de defesa aérea Patriot, muito necessários, à Ucrânia. Os interceptadores, pagos pelos aliados ocidentais da U",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-      "published_on": "23/11/2026 16:48 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+      "published_on": "24/11/2026 04:42 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e2e04a1671a3feb27f1354db8663a5e9",
       "selection": "automatic"
     },
     {
@@ -70,6 +70,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Imagens de satélite mostram navio de guerra russo virado na Líbia após suspeita de ataque de drone ucraniano",
+      "summary": "Imagens de satélite mostram um navio russo naufragado no porto de Benghazi, no leste da Líbia, após uma explosão no domingo. As autoridades locais suspeitam de um ataque de drone, mas não confirmaram quem foi o responsável.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/23/satellite-images-show-russian-warship-capsized-in-libya-after-suspected-ukrainian-drone-st",
+      "published_on": "23/11/2026 03:00 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/10/00/39/30/696x392_cmsv2_8b240281-c14e-555a-a6ba-8d0e82d009a6-10003930.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Chefe da OTAN promete defesa contra ameaça espacial após relatos de satélite nuclear russo",
       "summary": "A mídia alemã afirmou que a Rússia planejava lançar um satélite com uma ogiva nuclear no espaço nas próximas semanas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
       "published_on": "23/11/2026 17:40 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9328/live/2bcba8f0-e785-11f1-99b6-a35a62fa4264.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Ativistas pedem ao governo albanês que rejeite a expansão das minas de carvão da “bomba climática” após a Cop31",
-      "summary": "A expansão das operações de Hunter Valley em Nova Gales do Sul permitiria a extração e queima de 430 milhões de toneladas adicionais de carvão. Inscreva-se no boletim informativo gratuito Clear Air do editor de clima e meio ambiente, Adam Morton, aqui.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
-      "published_on": "24/11/2026 03:42 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/67fe74e925e14e027af689b261f186a2cc29acfe/408_0_4080_3264/master/4080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4830a1b4d2beb65b2a3f6c2b0ecf9904",
       "selection": "automatic"
     }
   ]
