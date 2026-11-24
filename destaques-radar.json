@@ -1,7 +1,7 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T16:48:17.713143Z",
+  "checked_at": "2026-11-24T16:53:43.940681Z",
   "status": "checado",
   "items": [
     {
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Itália expressa preocupação à Ucrânia sobre os ataques a navios na Líbia – como aconteceu",
+      "summary": "A Ucrânia confirmou anteriormente que utilizou drones navais em ataques a navios russos ao largo da costa da Líbia. O líder da coligação de esquerda Espanhola, Frente Ampla, apelou a um repensar drástico de todo o sistema de arrendamento habitacional do país e descreveu o despejo de uma mulher de 87 anos – a faísca para protestos a nível nacional que, por su",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+      "published_on": "24/11/2026 12:24 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3d2a47ebcd3157a1c708fc46a40dcc11",
+      "selection": "automatic"
+    },
+    {
       "title": "A pressão de Trump sobre a Nvidia mostra a importância das empresas na guerra econômica global",
       "summary": "Os presidentes que o antecederam socorreram empresas em tempos de crise nacional. Trump foi além: apostou o destino dos Estados Unidos no de um diretor-executivo de sua preferência.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,6 +67,19 @@
       "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
       "published_on": "24/11/2026 12:13 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Dados vazados sugerem que 500 mil soldados russos foram mortos desde o início da invasão da Ucrânia",
+      "summary": "Mais de 500 mil soldados russos foram mortos na guerra com a Ucrânia, de acordo com uma estimativa de vários meios de comunicação social. Os números baseiam-se num enorme conjunto de dados que foi pirateado da agência estatal de estatísticas da Rússia, Rosstat, pelo grupo activista bielorrusso Cyber ​​Partisans e por um grupo de hackers ucraniano, Silent Cro",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Segurança cibernética",
+      "region": "Global",
+      "country": "FR",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261124-leaked-data-suggests-500-000-russian-soldiers-killed-since-start-of-ukraine-invasion",
+      "published_on": "24/11/2026 11:53 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/c10d4f8e-e81d-11f1-82e4-81da3ab2acbb/w:1024/p:16x9/EN-20261124-160120-160737-CS.jpg",
       "selection": "automatic"
     },
     {
@@ -70,19 +96,6 @@
       "selection": "automatic"
     },
     {
-      "title": "O Catar afirma que \"não aceitará\" ataques após os protestos do Irã contra uma declaração conjunta com a Alemanha",
-      "summary": "O Irã convocou um diplomata do Catar em Teerã por causa de uma declaração conjunta com a Alemanha condenando os ataques iranianos e as ameaças à navegação. O Catar afirmou que resolverá a disputa por meio da diplomacia e que tanto os EUA quanto o Irã ainda estavam participando de seus esforços de mediação.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/24/qatar-says-it-will-not-accept-attacks-after-iran-protests-over-joint-statement-with-german",
-      "published_on": "24/11/2026 10:29 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/10/00/60/78/696x392_cmsv2_9d09502a-144f-5247-9576-d579408b901d-10006078.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Chefe da OTAN promete defesa contra ameaça espacial após relatos de satélite nuclear russo",
       "summary": "A mídia alemã afirmou que a Rússia planejava lançar um satélite com uma ogiva nuclear no espaço nas próximas semanas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
       "published_on": "24/11/2026 06:58 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump ganhou até US$ 15 milhões com ações da Nvidia após o retorno de Huang",
-      "summary": "O presidente dos EUA diz que 'convenceu' o conselho da fabricante de chips a reintegrar o CEO, já que as ações da Nvidia caem após a recuperação do dia anterior Comentário: O humilhado conselho da Nvidia deveria renunciar por constrangimento Negócios ao vivo - últimas atualizações Donald Trump ganhou até US $ 15 milhões (£ 11,5 milhões) em suas participações",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
-      "published_on": "24/11/2026 11:23 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d371a0004e0bee9a09bfd9ada713138",
       "selection": "automatic"
     }
   ]
