@@ -1,17 +1,5 @@
 [
   {
-    "title": "Real Madrid-PSV, en directo, el partido de la Champions League en vivo | Comienza la segunda mitad",
-    "summary": "Un pisotón de Tchouameni sobre Mijnans provoca un penal que pone por detrás en el marcador a los blancos",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/deportes/futbol/2026-11-24/real-madrid-psv-en-directo-el-partido-de-la-champions-league-en-vivo.html",
-    "date": "2026-11-24T21:08:08Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/FZ3G4A4XQBBYXCYLU75UADCKXQ.jpg?auth=1e39f2029dc5ac77261d60939d5801fdfedc49aa152fdaccf673bff3a2f65379"
-  },
-  {
     "title": "‘Saturday Night Live’ Is Coming to France",
     "summary": "A French adaptation of the American sketch comedy institution will premiere next month on the premium channel Canal+. It comes as a British version is hitting a stride.",
     "category": "Geral",
@@ -19,9 +7,63 @@
     "country": "US",
     "source": "The New York Times",
     "url": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
-    "date": "2026-11-24T21:02:37Z",
+    "date": "2026-11-24T21:13:22Z",
     "lang": "en",
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-snl-france/24xp-snl-france-mediumSquareAt3X.jpg"
+  },
+  {
+    "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+    "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+    "date": "2026-11-24T21:12:53Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
+    "title_pt": "Mercados de ações caem à medida que as ações da Nvidia e de IA perdem parte da alta de segunda-feira",
+    "summary_pt": "Os mercados têm oscilado drasticamente há dias, impulsionados e afetados pelo drama da Nvidia e pela estreia recorde da Anthropic no mercado."
+  },
+  {
+    "title": "Real Madrid-PSV, en directo, el partido de la Champions League en vivo | Valverde empata al inicio del segundo tiempo",
+    "summary": "Un pisotón de Tchouameni sobre Mijnans provoca un penal que pone por detrás en el marcador a los blancos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/futbol/2026-11-24/real-madrid-psv-en-directo-el-partido-de-la-champions-league-en-vivo.html",
+    "date": "2026-11-24T21:10:58Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/FZ3G4A4XQBBYXCYLU75UADCKXQ.jpg?auth=1e39f2029dc5ac77261d60939d5801fdfedc49aa152fdaccf673bff3a2f65379"
+  },
+  {
+    "title": "Astrônomos identificam um quasar recordista no universo primitivo; ele é um dos objetos que mais liberam energia e luz",
+    "summary": "Objeto formado 630 milhões de anos após o Big Bang tem buraco negro com massa 360 milhões de vezes maior que a do Sol",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/ciencia/astronomos-identificam-um-quasar-recordista-no-universo-primitivo-ele-e-um-dos-objetos-que-mais-liberam-energia-e-luz/",
+    "date": "2026-11-24T21:08:48Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/APURACAO-CNN-25.jpg?w=200",
+    "title_pt": "Astrônomos identificam um quasar recordista no universo primitivo; ele é um dos objetos que mais liberam energia e luz",
+    "summary_pt": "Objeto formado 630 milhões de anos após o Big Bang tem buraco negro com massa 360 milhões de vezes maior que a do Sol"
+  },
+  {
+    "title": "Black Friday nos EUA: como comprar em lojas americanas morando no Brasil?",
+    "summary": "O evento de compras acontece em novembro e oferece oportunidades para consumidores brasileiros comprarem em sites de outros países; veja como funcionam e os impostos envolvidos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/negocios/black-friday-nos-eua-como-comprar-em-lojas-americanas-morando-no-brasil/",
+    "date": "2026-11-24T21:00:03Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/08/saara-rj-e1783648703803.jpg?w=200",
+    "title_pt": "Black Friday nos EUA: como comprar em lojas americanas morando no Brasil?",
+    "summary_pt": "O evento de compras acontece em novembro e oferece oportunidades para consumidores brasileiros comprarem em sites de outros países; veja como funcionam e os impostos envolvidos"
   },
   {
     "title": "Tech Life",
@@ -50,7 +92,7 @@
   {
     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -74,6 +116,20 @@
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-theworld-nvidia-trump-01-alt-fphm-promo/25int-theworld-nvidia-trump-01-alt-fphm-promo-mediumSquareAt3X.jpg",
     "title_pt": "Segurança Nacional vs. Mercado de Ações",
     "summary_pt": "O presidente Trump afastou as preocupações sobre uma possível espionagem quando pressionou o conselho da Nvidia para reintegrar Jensen Huang como presidente-executivo."
+  },
+  {
+    "title": "“Ninguém vai morrer”, diz Marinho sobre folga no comércio com o fim da 6×1",
+    "summary": "Ministro do Trabalho afirmou que Brasil adotou \"loucura americana\" de que \"tudo precisa estar aberto 24 horas por dia\", mas que nunca soube de alguém que \"morreu por falta de alimentos na Europa\", onde o comércio não abre no último dia do final de semana",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/ninguem-vai-morrer-diz-marinho-sobre-folga-no-comercio-com-o-fim-da-6x1/",
+    "date": "2026-11-24T20:54:40Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/img20241127161911467_4187ff.jpg?w=200",
+    "title_pt": "“Ninguém vai morrer”, diz Marinho sobre folga no comércio com o fim da 6×1",
+    "summary_pt": "Ministro do Trabalho afirmou que Brasil adotou \"loucura americana\" de que \"tudo precisa estar aberto 24 horas por dia\", mas que nunca soube de alguém que \"morreu por falta de alimentos na Europa\", onde o comércio não abre no último dia do final de semana"
   },
   {
     "title": "UN slams Iran after it flogs singer for performing without veil",
@@ -112,6 +168,20 @@
     "image": "https://imagenes.elpais.com/resizer/v2/B4GMX3H7T5EVXN2MKNDZF6TGEU.jpg?auth=a020766ad5b0d755e0fc744583b6aa53876e1fb5b441c9e65e50074b416cc5f7"
   },
   {
+    "title": "Corinthians: Justiça cobra MP e adia decisão sobre intervenção judicial",
+    "summary": "Entre as determinações, juíza pede que Ministério Público esclareça por que dirigentes que podem ser afastados não foram incluídos como réus",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-justica-cobra-mp-e-adia-decisao-sobre-intervencao-judicial/",
+    "date": "2026-11-24T20:51:41Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/sergio-janikian-candidato-presidente-corinthians-e1795529382754.jpg?w=200",
+    "title_pt": "Corinthians: Justiça cobra MP e adia decisão sobre intervenção judicial",
+    "summary_pt": "Entre as determinações, juíza pede que Ministério Público esclareça por que dirigentes que podem ser afastados não foram incluídos como réus"
+  },
+  {
     "title": "Chinesa Huawei é condenada nos EUA por negócios no Irã e roubo de segredos comerciais; entenda",
     "summary": "Chinesa Huawei é condenada nos EUA Hannibal Hanschke/Reuters A chinesa Huawei foi condenada nesta terça-feira (24) em um amplo processo criminal nos Estados Unidos. A gigante de tecnologia e equipamentos de telecomunicações foi acusada de enganar bancos sobre seus negócios no Irã e roubar segredos comerciais de empresas americanas. Um júri federal do Brookly",
     "category": "Geral",
@@ -124,6 +194,18 @@
     "image": "https://s2-g1.glbimg.com/OyxUNNPJNVe4gkLS7Jx32ykvNXk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/t/n/TkDflGR2eEWpkZyp4Zaw/hhuawei-reuters-hannibalhanschke.jpg",
     "title_pt": "Chinesa Huawei é condenada nos EUA por negócios no Irã e roubo de segredos comerciais; entenda",
     "summary_pt": "Chinesa Huawei é condenada nos EUA Hannibal Hanschke/Reuters A chinesa Huawei foi condenada nesta terça-feira (24) em um amplo processo criminal nos Estados Unidos. A gigante de tecnologia e equipamentos de telecomunicações foi acusada de enganar bancos sobre seus negócios no Irã e roubar segredos comerciais de empresas americanas. Um júri federal do Brookly"
+  },
+  {
+    "title": "Life, death and terror: 24 hours in Ukraine's 'kill zone'",
+    "summary": "",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "Sky News",
+    "url": "https://news.sky.com/story/life-death-and-terror-24-hours-in-ukraines-kill-zone-13616131",
+    "date": "2026-11-24T20:51:00Z",
+    "lang": "en",
+    "image": "https://e3.365dm.com/26/11/1920x1080/skynews-sky-news-ukraine_7414962.jpg?20261124022335"
   },
   {
     "title": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
@@ -154,6 +236,20 @@
     "summary_pt": "Receba nosso e-mail político diário, aplicativo gratuito ou podcast de notícias diárias Embaixador dos EUA critica projeto de lei de dever de cuidado digital do Partido Trabalhista O embaixador americano na Austrália levantou “objeções” ao projeto de lei de dever de cuidado digital do Partido Trabalhista, dizendo que estava “preocupado” com o fato de que isso prejudicaria as empresas de tecnologia dos EUA. Hoje encontrei-me com a Ministra das Comunicações, Anika Wells, e expus o Trump Admi"
   },
   {
+    "title": "Juros futuros caem com sinalização do governo sobre PEC para limitar gastos",
+    "summary": "Câmara dos Deputados aprovou a medida sem alterações em relação ao texto aprovado pelo Senado na última quarta-feira (18)",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/juros-futuros-caem-com-sinalizacao-do-governo-sobre-pec-para-limitar-gastos/",
+    "date": "2026-11-24T20:43:08Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXNPEMAN0Y3-BASEIMAGE.jpg?w=200",
+    "title_pt": "Juros futuros caem com sinalização do governo sobre PEC para limitar gastos",
+    "summary_pt": "Câmara dos Deputados aprovou a medida sem alterações em relação ao texto aprovado pelo Senado na última quarta-feira (18)"
+  },
+  {
     "title": "Assembleias imitam Congresso e ampliam controle parlamentar sobre verbas públicas",
     "summary": "Às vésperas de o STF definir limites às emendas estaduais, 24 estados já adotam o orçamento impositivo. Outros discutem criar o mecanismo ou ampliar a fatia de recursos sob controle dos deputados.",
     "category": "Geral",
@@ -166,6 +262,20 @@
     "image": "",
     "title_pt": "Assembleias imitam Congresso e ampliam controle parlamentar sobre verbas públicas",
     "summary_pt": "Às vésperas de o STF definir limites às emendas estaduais, 24 estados já adotam o orçamento impositivo. Outros discutem criar o mecanismo ou ampliar a fatia de recursos sob controle dos deputados."
+  },
+  {
+    "title": "Senegal reinstated as 2025 African champions, Morocco to contest decision",
+    "summary": "Senegal reinstated as 2025 African champions, Morocco to contest decision Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUdqbXBTdHQ0bnlyVkl2dnlMRUowVE96a0R5c1BqbEZiN0UyMXNNSDhnWkhvdFJHOGwxVDlVakJKRGZXMTNRRnNVRHZuai14a1JiUkRFWm1YbVJBTGdrSkFrMEZ5ZGp6QWd2ZTNDV0JIY1A4aExxTFVOWHFuRlh1MWY3bVBwd3NUUWVyU3hOcWQtenJSWjBjYVJEam5QS0hLZ0drZXZXczlRTnM?oc=5",
+    "date": "2026-11-24T20:42:43Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Senegal é reintegrado como campeão africano de 2025, Marrocos vai contestar a decisão",
+    "summary_pt": "Senegal é reintegrado como campeão africano de 2025, Marrocos vai contestar a decisão Reuters"
   },
   {
     "title": "La ruta canaria vuelve a batir su récord de llegadas en un día: 1.611 migrantes en El Hierro",
@@ -194,6 +304,20 @@
     "image": "https://imagenes.elpais.com/resizer/v2/VDVHGZVYPNNP7CXUOFZGSNNBJY.jpg?auth=68bb3b7ad374d3d0217c50319bcb84a6d73994eb7c2ae4d409e3281b6abd1489",
     "title_pt": "Fúria e consternação no Congresso dos EUA com o retorno de Huang à Nvidia e o papel de Trump nisso",
     "summary_pt": "O CEO da gigante dos semicondutores comparecerá na próxima semana perante quatro comissões no Capitólio"
+  },
+  {
+    "title": "Banco Central autoriza Binance a operar no mercado de câmbio no Brasil",
+    "summary": "BC exige que empresas prestadoras de serviços de ativos virtuais tenham liberação para operar no país",
+    "category": "Economia",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/banco-central-autoriza-binance-a-operar-no-mercado-de-cambio-no-brasil/",
+    "date": "2026-11-24T20:41:18Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ580BO-FILEDIMAGE.jpg?w=200",
+    "title_pt": "Banco Central autoriza Binance a operar no mercado de câmbio no Brasil",
+    "summary_pt": "BC exige que empresas prestadoras de serviços de ativos virtuais tenham liberação para operar no país"
   },
   {
     "title": "Procurador despista sobre investigação contra CEO da Nvidia: “Pelo quê?”",
@@ -664,10 +788,10 @@
     "region": "Global",
     "country": "BR",
     "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/noticias/soluco-o-que-e-o-que-provoca-e-quando-se-preocupar/",
+    "url": "https://www.cnnbrasil.com.br/curiosidades/soluco-o-que-e-o-que-provoca-e-quando-se-preocupar/",
     "date": "2026-11-24T20:00:42Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/01/supercomputador-IA.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/uap.png?w=200",
     "title_pt": "Soluço: o que é, o que provoca e quando se preocupar",
     "summary_pt": "Fenômeno comum pode atrapalhar o dia a dia; descubra as causas e como identificar sinais de alerta para sua saúde"
   },
@@ -1418,20 +1542,6 @@
     "summary_pt": "Shein pagará US$ 100 milhões para liquidar frete nos EUA, afirma atendimento ao cliente Reuters"
   },
   {
-    "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-    "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-    "date": "2026-11-24T19:03:24Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
-    "title_pt": "Mercados de ações caem à medida que as ações da Nvidia e de IA perdem parte da alta de segunda-feira",
-    "summary_pt": "Os mercados têm oscilado drasticamente há dias, impulsionados e afetados pelo drama da Nvidia e pela estreia recorde da Anthropic no mercado."
-  },
-  {
     "title": "Weak and immature management putting patients at risk at failing health board, review finds",
     "summary": "A review finds targets and money being prioritised over patient care at Betsi Cadwaladr health board.",
     "category": "Saúde",
@@ -1483,7 +1593,7 @@
     "url": "https://www.cnnbrasil.com.br/esportes/futebol/pentacampeao-pela-selecao-brasileira-vira-socio-de-saf-em-clube-mineiro/",
     "date": "2026-11-24T19:02:12Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/jesus-owono_98c494-e1793815125405.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/parque_sao_jorge-e1764026605435.jpg?w=200",
     "title_pt": "Pentacampeão pela Seleção Brasileira vira sócio de SAF em clube mineiro",
     "summary_pt": "Ex-jogador e comentarista da Globo se junta ao Leão do Bonfim como representante de empresa de marketing esportivo"
   },
@@ -1511,7 +1621,7 @@
     "url": "https://www.cnnbrasil.com.br/curiosidades/com-dieta-de-500-calorias-e-punicoes-fisicas-ex-atriz-de-smallville-detalha-o-calvario-que-viveu-em-uma-seita/",
     "date": "2026-11-24T19:00:53Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/01/supercomputador-IA.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/uap.png?w=200",
     "title_pt": "Com dieta de 500 calorias e punições físicas, ex-atriz de Smallville detalha o calvário que viveu em uma seita",
     "summary_pt": "Em entrevista inédita, a atriz Allison Mack relatou ter perdido 13,6 kg sob o controle de Keith Raniere na organização NXIVM, onde precisava pedir permissão para se alimentar"
   },
@@ -1532,7 +1642,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1931,7 +2041,7 @@
     "url": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/cbf-divulga-imagens-e-arbitro-mantem-expulsao-sem-ver-todos-os-angulos/",
     "date": "2026-11-24T18:24:58Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/jesus-owono_98c494-e1793815125405.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/parque_sao_jorge-e1764026605435.jpg?w=200",
     "title_pt": "CBF divulga, e árbitro mantém expulsão de zagueiro sem ver todas as imagens",
     "summary_pt": "Árbitro Bráulio da Silva Machado não aceitou novas instruções do colega do VAR, que apontava ausência de infração em Robert Renan"
   },
@@ -2006,48 +2116,6 @@
     "summary_pt": "Governo elabora proposta para economia de R$ 20 bilhões; relator do Orçamento, senador Eduardo Braga, aguarda definição para avançar com relatório"
   },
   {
-    "title": "Cerradinho e Petrobras vão ampliar produção de etanol em 80% em dois anos",
-    "summary": "Parceria foi estruturada ao longo de 18 meses de negociações e prevê acordo de cooperação estratégica para o desenvolvimento de novos negócios",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/agro/cerradinho-e-petrobras-vao-ampliar-producao-de-etanol-em-80-em-dois-anos/",
-    "date": "2026-11-24T18:17:53Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM3M1K9-BASEIMAGE-e1789073594534.jpg?w=200",
-    "title_pt": "Cerradinho e Petrobras vão ampliar produção de etanol em 80% em dois anos",
-    "summary_pt": "Parceria foi estruturada ao longo de 18 meses de negociações e prevê acordo de cooperação estratégica para o desenvolvimento de novos negócios"
-  },
-  {
-    "title": "Brasil contesta tarifas adicionais dos EUA e aciona OMC",
-    "summary": "Sobretaxas questionadas incluem alíquotas adicionais de 25% e 12,5% sobre produtos brasileiros; governo americano se opôs à abertura do processo",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/brasil-contesta-tarifas-adicionais-dos-eua-e-aciona-omc/",
-    "date": "2026-11-24T18:16:15Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM080WI-BASEIMAGE.jpg?w=200",
-    "title_pt": "Brasil contesta tarifas adicionais dos EUA e aciona OMC",
-    "summary_pt": "Sobretaxas questionadas incluem alíquotas adicionais de 25% e 12,5% sobre produtos brasileiros; governo americano se opôs à abertura do processo"
-  },
-  {
-    "title": "Ídolo do Internacional, Sobis critica elenco após vexame: “Tive vergonha”",
-    "summary": "Ex-atacante falou sobre a dura situação colorada após derrota por 5 a 2 para o Vitória e cenário de virtual queda no Brasileirão",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/idolo-do-internacional-sobis-critica-elenco-apos-vexame-tive-vergonha/",
-    "date": "2026-11-24T18:13:53Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/Arena-Conda-Chapecoense-x-Flamengo-Brasileirao-2026-e1785702489303.jpg?w=200",
-    "title_pt": "Ídolo do Internacional, Sobis critica elenco após vexame: “Tive vergonha”",
-    "summary_pt": "Ex-atacante falou sobre a dura situação colorada após derrota por 5 a 2 para o Vitória e cenário de virtual queda no Brasileirão"
-  },
-  {
     "title": "GP surgery suspends routine appointments due to 'tsunami' of demand",
     "summary": "Aberfoyle Medical Practice in Derry says its doctors are treating 60 patients each every day.",
     "category": "Clima e desastres",
@@ -2074,20 +2142,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/PJHHAJNVRJJ7XKHQ7WL7EWUFVQ.jpg?auth=b7f06f94edf8aacfbea0c7be6a4da02d84ceea3a00baa2f113e1aac85c78cb81",
     "title_pt": "Sputnik-S, o satélite russo que ameaça levar a guerra nuclear ao espaço",
     "summary_pt": "Os serviços de inteligência dos EUA e da Alemanha afirmam que o Kremlin está se preparando para colocar a espaçonave em órbita, o que Moscou nega. Sua detonação sabotaria sistemas de telecomunicações cruciais para a defesa da Ucrânia"
-  },
-  {
-    "title": "EUA devem anunciar novas tarifas a parceiros após investigação, diz agência",
-    "summary": "Taxas se somariam às já impostas anteriormente e substituiram, em parte, os impostos globais sobre importações revogadas pela Suprema Corte em fevereiro",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/eua-devem-anunciar-novas-tarifas-a-parceiros-apos-investigacao-diz-agencia/",
-    "date": "2026-11-24T18:10:51Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-06T153356Z_1_LYNXNPEMA51JL_RTROPTP_4_USA-ECONOMY-SENTIMENT.jpg?w=200",
-    "title_pt": "EUA devem anunciar novas tarifas a parceiros após investigação, diz agência",
-    "summary_pt": "Taxas se somariam às já impostas anteriormente e substituiram, em parte, os impostos globais sobre importações revogadas pela Suprema Corte em fevereiro"
   },
   {
     "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
@@ -2130,34 +2184,6 @@
     "image": "https://i.guim.co.uk/img/media/2a24051caa6582ebbeefad68e096f0b41c2ba64b/797_21_3886_3109/master/3886.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=905b4b8a2541eca156995f56534d7734",
     "title_pt": "Israel tenta prender estudante palestino da Universidade Hebraica sem julgamento",
     "summary_pt": "Mahdi Tounsi pareceu ter sofrido maus-tratos em audiência em que não lhe foi permitido ouvir os argumentos da acusação contra ele. O estudante palestino Mahdi Tounsi compareceu a uma audiência judicial a portas fechadas em Jerusalém, enquanto acadêmicos e ativistas alertaram que a tentativa de Israel de prendê-lo sem julgamento representa uma grave escalada nos ataques aos direitos dos palestinos. Yael"
-  },
-  {
-    "title": "Por que limpar certas sujeiras com o aspirador comum pode custar a compra de um aparelho novo",
-    "summary": "O uso inadequado do eletrodoméstico em resíduos úmidos, abrasivos ou quentes pode comprometer o motor, entupir filtros e provocar curtos-circuitos no lar",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-limpar-certas-sujeiras-com-o-aspirador-comum-pode-custar-a-compra-de-um-aparelho-novo/",
-    "date": "2026-11-24T18:00:46Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Com-dieta-de-500-calorias-e-punicoes-fisicas-estrela-de-Smallville-detalha-o-calvario-que-viveu-em-uma-seita.png?w=200",
-    "title_pt": "Por que limpar certas sujeiras com o aspirador comum pode custar a compra de um aparelho novo",
-    "summary_pt": "O uso inadequado do eletrodoméstico em resíduos úmidos, abrasivos ou quentes pode comprometer o motor, entupir filtros e provocar curtos-circuitos no lar"
-  },
-  {
-    "title": "Lula não convidará Milei e chanceler da Argentina para cerimônia de posse",
-    "summary": "Decisão foi tomada após ataques ao processo eleitoral brasileiro; Planalto deve convidar outras autoridades argentinas para o evento",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/internacional/lula-nao-convidara-milei-e-chanceler-da-argentina-para-cerimonia-de-posse/",
-    "date": "2026-11-24T18:00:26Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/milei-em-anuncio-com-o-ministro-da-seguranca.jpg?w=200",
-    "title_pt": "Lula não convidará Milei e chanceler da Argentina para cerimônia de posse",
-    "summary_pt": "Decisão foi tomada após ataques ao processo eleitoral brasileiro; Planalto deve convidar outras autoridades argentinas para o evento"
   },
   {
     "title": "Colombia at a Crossroads: Searching for peace amid conflict",
@@ -2245,7 +2271,7 @@
   },
   {
     "title": "European court finds states can turn back migrants in some cases",
-    "summary": "Europe's top human rights court ruled that member states can turn back migrants unless they've been identified as vulnerable to ill-treatment.",
+    "summary": "Europe's top human rights court ruled that member states can turn back migrants unless they've been identified as people who were at risk of suffering or ill-treatment.",
     "category": "Geral",
     "region": "Global",
     "country": "DE",
@@ -2420,20 +2446,6 @@
     "image": "",
     "title_pt": "Reino Unido alerta sobre ameaça de sabotagem russa a empresas que abastecem a Ucrânia",
     "summary_pt": "Reino Unido alerta sobre ameaça de sabotagem russa a empresas que abastecem a Ucrânia Reuters"
-  },
-  {
-    "title": "Senegal reinstated as 2025 African champions, Morocco to contest decision",
-    "summary": "Senegal reinstated as 2025 African champions, Morocco to contest decision Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUdqbXBTdHQ0bnlyVkl2dnlMRUowVE96a0R5c1BqbEZiN0UyMXNNSDhnWkhvdFJHOGwxVDlVakJKRGZXMTNRRnNVRHZuai14a1JiUkRFWm1YbVJBTGdrSkFrMEZ5ZGp6QWd2ZTNDV0JIY1A4aExxTFVOWHFuRlh1MWY3bVBwd3NUUWVyU3hOcWQtenJSWjBjYVJEam5QS0hLZ0drZXZXczlRTnM?oc=5",
-    "date": "2026-11-24T17:24:08Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Senegal é reintegrado como campeão africano de 2025, Marrocos vai contestar a decisão",
-    "summary_pt": "Senegal é reintegrado como campeão africano de 2025, Marrocos vai contestar a decisão Reuters"
   },
   {
     "title": "NATO allies anxious as war spreads beyond Ukraine, Russia borders",
@@ -6938,19 +6950,5 @@
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
     "title_pt": "As negociações da COP31 fracassam na Turquia em um confronto sobre combustíveis fósseis",
     "summary_pt": "Nações europeias e vulneráveis rejeitaram uma proposta de acordo depois que a Arábia Saudita e outros produtores de petróleo bloquearam qualquer menção ao fim gradual do uso de carvão, petróleo e gás."
-  },
-  {
-    "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
-    "summary": "Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
-    "date": "2026-11-23T19:19:23Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-russia-war-deaths-photo-lhkt/23int-russia-war-deaths-photo-lhkt-mediumSquareAt3X.jpg",
-    "title_pt": "Mais de 700 mil soldados russos morreram na Ucrânia, indica análise",
-    "summary_pt": "Os dados governamentais pirateados sublinham o imenso custo humano da guerra de desgaste do Presidente Vladimir V. Putin."
   }
 ]
