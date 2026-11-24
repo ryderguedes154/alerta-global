@@ -1,9 +1,22 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T13:50:09.141287Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T13:55:17.643663Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Os preços do petróleo caem, apesar dos ataques contínuos do Irã a petroleiros",
+      "summary": "Apesar de o Irã alegar ataques diários a petroleiros no Estreito de Ormuz e em seus arredores, e de não haver sinais de um acordo para pôr fim à guerra de quase 9 meses, os preços do petróleo bruto continuam caindo.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+      "published_on": "24/11/2026 09:53 (Boa Vista)",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/855de539-52ca-4644-b2eb-c3bba31967cb/thumbnail/1200x630/2275cf724c16f3cff5af0ad5d7c8a80f/iran-tanker-strait-of-hormuz-fire.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "O tráfego de petróleo em Ormuz caiu 40%: os ataques do Irã a petroleiros estão funcionando?",
       "summary": "Os ataques a petroleiros aumentaram, afetando o fluxo de petróleo pelo Estreito de Ormuz.",
@@ -67,19 +80,6 @@
       "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
       "published_on": "24/11/2026 09:28 (Boa Vista)",
       "image": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3d2a47ebcd3157a1c708fc46a40dcc11",
-      "selection": "automatic"
-    },
-    {
-      "title": "UE propõe novas sanções abrangentes à Rússia visando bancos, criptomoedas e eventos esportivos",
-      "summary": "BRUXELAS (AP) – A Comissão Europeia propôs na segunda-feira atingir dezenas de bancos da Rússia, reprimir as plataformas criptográficas e proibir equipes esportivas e atletas de competir sob a bandeira do país em uma nova rodada de sanções sobre a guerra de Moscou na Ucrânia. As propostas, apresentadas por…",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/europe-russia-sanctions-banks-crypto-visas-sports-ecad86868390f6602b346c70d1fa5757?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-      "published_on": "23/11/2026 13:31 (Boa Vista)",
-      "image": "https://ic-cdn.flipboard.com/apnews.com/1c2aba8aae805f369a23ef7edba06418573bb2fc/_large.jpeg",
       "selection": "automatic"
     },
     {
