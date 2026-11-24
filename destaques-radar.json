@@ -1,7 +1,7 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T13:02:56.332349Z",
+  "checked_at": "2026-11-24T13:08:16.117087Z",
   "status": "checado",
   "items": [
     {
@@ -18,16 +18,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Governo Trump negocia produção de drones militares com fabricantes automotivas, diz jornal",
-      "summary": "Drone militar MQ-9 Reaper, de função dupla de monitoramento e ataque, do Exército dos Estados Unidos. Jam Sta Rosa/AFP O Pentágono está em negociações com a General Motors (GM), a Ford e outras fabricantes automotivas para ajudar na produção em larga escala de drones militares, informou nesta terça-feira (24) o jornal norte-americano \"The Wall Street Journal",
+      "title": "O Irã entra com ações judiciais nos tribunais dos EUA e da UE: conseguirá justiça por \"crimes de guerra\"?",
+      "summary": "Enquanto o Irã busca responsabilização e indenização por supostos crimes de guerra, especialistas afirmam que os processos judiciais enfrentam grandes obstáculos.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/24/governo-trump-drones-militares-fabricantes-automotivas-diz-jornal.ghtml",
-      "published_on": "24/11/2026 08:36 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/n1fcS1vydpqNhA4CKmfZThKCOEU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/C/9/HkSBceQHKriaVL849SAQ/33dp6u4-highres.jpg",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/11/24/irans-fight-for-wartime-redress-moves-from-battlefield-to-us-eu-courts?traffic_source=rss",
+      "published_on": "24/11/2026 08:56 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b0552a97c-1795510953.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
@@ -39,21 +39,21 @@
       "country": "GB",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-      "published_on": "24/11/2026 08:30 (Boa Vista)",
+      "published_on": "24/11/2026 08:50 (Boa Vista)",
       "image": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e2e04a1671a3feb27f1354db8663a5e9",
       "selection": "automatic"
     },
     {
-      "title": "Aviões militares russos causam alerta na Coreia do Sul; Rússia fala em voo programado",
-      "summary": "Aeronave Blackjack (Tu-160), da força nuclear estratégica da Rússia. Reprodução/Tupolev Bombardeiros estratégicos russos entraram na zona de identificação de defesa aérea da Coreia do Sul, informou nesta terça-feira (24) a agência de notícias sul-coreana Yonhap, após corrigir uma informação anterior segundo a qual uma suposta aeronave norte-coreana havia vio",
+      "title": "Governo Trump negocia produção de drones militares com fabricantes automotivas, diz jornal",
+      "summary": "Drone militar MQ-9 Reaper, de função dupla de monitoramento e ataque, do Exército dos Estados Unidos. Jam Sta Rosa/AFP O Pentágono está em negociações com a General Motors (GM), a Ford e outras fabricantes automotivas para ajudar na produção em larga escala de drones militares, informou nesta terça-feira (24) o jornal norte-americano \"The Wall Street Journal",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "BR",
       "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/24/bombardeiros-russos-coreia-do-sul.ghtml",
-      "published_on": "24/11/2026 08:07 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/tvfs_RI2p2gUjoRX146gMKGoFGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/2/O/YlwwF1QTG2sygDu43hRw/tu-160-13-.jpg",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/24/governo-trump-drones-militares-fabricantes-automotivas-diz-jornal.ghtml",
+      "published_on": "24/11/2026 08:36 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/n1fcS1vydpqNhA4CKmfZThKCOEU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/C/9/HkSBceQHKriaVL849SAQ/33dp6u4-highres.jpg",
       "selection": "automatic"
     },
     {
@@ -83,6 +83,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Imagens de satélite mostram navio de guerra russo virado de ponta-cabeça na Líbia após suposto ataque de drone ucraniano",
+      "summary": "Imagens de satélite mostram um navio da Marinha Russa virado no porto de Benghazi, no leste da Líbia, após uma explosão ocorrida no domingo. As autoridades locais suspeitam de um ataque de drone, mas não confirmaram quem foi o responsável.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/23/satellite-images-show-russian-warship-capsized-in-libya-after-suspected-ukrainian-drone-st",
+      "published_on": "23/11/2026 03:00 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/10/00/39/30/696x392_cmsv2_8b240281-c14e-555a-a6ba-8d0e82d009a6-10003930.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Chefe da OTAN promete defesa contra ameaça espacial após relatos de satélite nuclear russo",
       "summary": "A mídia alemã afirmou que a Rússia planejava lançar um satélite com uma ogiva nuclear no espaço nas próximas semanas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
       "published_on": "24/11/2026 06:58 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump enfrenta reação negativa após dizer que \"convenceu\" a Nvidia a reintegrar o CEO Jensen Huang",
-      "summary": "A Nvidia havia sofrido pressão do presidente Trump para renomear Huang, cujo retorno ajudou a acrescentar US$ 1 trilhão ao valor das ações da empresa.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "published_on": "24/11/2026 06:53 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
       "selection": "automatic"
     }
   ]
