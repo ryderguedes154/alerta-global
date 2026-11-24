@@ -1,7 +1,7 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T13:13:35.111385Z",
+  "checked_at": "2026-11-24T13:18:46.895454Z",
   "status": "checado",
   "items": [
     {
@@ -18,6 +18,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Itália expressa preocupação à Ucrânia com ataques a navios na Líbia – Europa ao vivo",
+      "summary": "A Ucrânia confirmou anteriormente que utilizou drones navais em ataques a navios russos ao largo da costa da Líbia. O líder da coligação de esquerda Espanhola, Frente Ampla, apelou a um repensar drástico de todo o sistema de arrendamento habitacional do país e descreveu o despejo de uma mulher de 87 anos – a faísca para protestos a nível nacional que, por su",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+      "published_on": "24/11/2026 09:09 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3d2a47ebcd3157a1c708fc46a40dcc11",
+      "selection": "automatic"
+    },
+    {
       "title": "O Irã entra com ações judiciais nos tribunais dos EUA e da UE: conseguirá justiça por \"crimes de guerra\"?",
       "summary": "Enquanto o Irã busca responsabilização e indenização por supostos crimes de guerra, especialistas afirmam que os processos judiciais enfrentam grandes obstáculos.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -28,19 +41,6 @@
       "url": "https://www.aljazeera.com/features/2026/11/24/irans-fight-for-wartime-redress-moves-from-battlefield-to-us-eu-courts?traffic_source=rss",
       "published_on": "24/11/2026 08:56 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b0552a97c-1795510953.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "Drone russo viola o espaço aéreo polonês dias depois que mísseis de cruzeiro caíram no país – Europa ao vivo",
-      "summary": "Autoridades investigam “actividade intencional” no meio de tensões crescentes entre Moscovo e países do flanco oriental da NATO. Entretanto, o Financial Times informa esta manhã que o Pentágono está a atrasar a entrega de cerca de 60 interceptadores de defesa aérea Patriot, muito necessários, à Ucrânia. Os interceptadores, pagos pelos aliados ocidentais da U",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-      "published_on": "24/11/2026 08:50 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e2e04a1671a3feb27f1354db8663a5e9",
       "selection": "automatic"
     },
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump enfrenta reação negativa após dizer que \"convenceu\" a Nvidia a reintegrar o CEO Jensen Huang",
-      "summary": "A Nvidia havia sofrido pressão do presidente Trump para renomear Huang, cujo retorno ajudou a acrescentar US$ 1 trilhão ao valor das ações da empresa.",
+      "title": "Ataques aéreos israelenses em Gaza matam 7 pessoas enquanto médicos alertam para surto de meningite",
+      "summary": "Autoridades de saúde de Gaza afirmam que os casos de meningite aumentaram para 272 em outubro, mais de oito vezes a taxa mensal típica.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
+      "category": "Saúde",
       "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "published_on": "24/11/2026 06:53 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
+      "published_on": "24/11/2026 06:47 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b055927c071-1795512615.jpg?resize=1920%2C1440",
       "selection": "automatic"
     }
   ]
