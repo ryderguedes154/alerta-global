@@ -1,9 +1,22 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T09:49:35.007605Z",
+  "checked_at": "2026-11-24T09:54:43.819277Z",
   "status": "checado",
   "items": [
+    {
+      "title": "O conflito entre a Rússia e a Ucrânia se expandiu geograficamente, gerando preocupações",
+      "summary": "Nos últimos dias, a Ucrânia afundou um navio de guerra russo ancorado em um porto na Líbia, e mísseis russos caíram na Polônia. O Kremlin não se manifestou sobre os mísseis.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
+      "published_on": "24/11/2026 05:52 (Boa Vista)",
+      "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6051564",
+      "selection": "automatic"
+    },
     {
       "title": "Drone russo viola o espaço aéreo polonês dias depois que mísseis de cruzeiro caíram no país – Europa ao vivo",
       "summary": "Autoridades investigam “actividade intencional” no meio de tensões crescentes entre Moscovo e países do flanco oriental da NATO. Entretanto, o Financial Times informa esta manhã que o Pentágono está a atrasar a entrega de cerca de 60 interceptadores de defesa aérea Patriot, muito necessários, à Ucrânia. Os interceptadores, pagos pelos aliados ocidentais da U",
@@ -28,19 +41,6 @@
       "url": "https://www.france24.com/en/video/20261124-icg-it-s-hard-to-imagine-tripoli-would-risk-its-ties-with-russia-by-approving-a-ukrainian-attack",
       "published_on": "24/11/2026 03:45 (Boa Vista)",
       "image": "https://s.france24.com/media/display/64f11d00-e7cf-11f1-81de-6b451f569414/w:1024/p:16x9/EN-20261123-150729-151220-CS.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Ataque russo mata 2 pessoas e deixa 22 feridos na Ucrânia, diz autoridade",
-      "summary": "Entre os feridos estão duas crianças; bombardeio atingiu prédios residenciais e infraestrutura de transporte em Zaporizhzhia",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/ataque-russo-deixa-mortos-e-feridos-na-ucrania-diz-autoridade/",
-      "published_on": "24/11/2026 02:47 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/ataque-russia-ucrania-sancoes-diesel.jpg?w=200",
       "selection": "automatic"
     },
     {
