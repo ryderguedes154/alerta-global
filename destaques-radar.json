@@ -1,8 +1,8 @@
 {
   "edition": "23/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T02:39:10.309650Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T02:44:18.646038Z",
+  "status": "checado",
   "items": [
     {
       "title": "O que o ataque a um navio russo na Líbia diz sobre a propagação da guerra na Ucrânia",
@@ -83,19 +83,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Terremoto de magnitude 6.5 — Vanuatu region",
-      "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Vanuatu region",
-      "country": "GLOBAL",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm",
-      "published_on": "22/11/2026 22:40 (Boa Vista)",
-      "image": "",
-      "selection": "automatic"
-    },
-    {
       "title": "Sanções, cimeiras e greves: a guerra na Ucrânia não mostra sinais de abrandamento",
       "summary": "Bom dia. Leo Cendrowicz aqui, trazendo para vocês o boletim informativo de segunda-feira. Esta semana, estamos a lidar com mais bombardeamentos na Ucrânia e com o bombardeamento metafórico das negociações climáticas da COP31 na Turquia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://www.euronews.com/2026/11/23/sanctions-summits-and-strikes-the-war-in-ukraine-shows-no-sign-of-slowing",
       "published_on": "23/11/2026 03:26 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/37/25/696x392_cmsv2_b61d1d5c-2bdb-586f-be92-5a37e32ca1c5-10003725.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "O que o fracasso da COP31 revela sobre um mundo dividido",
+      "summary": "Os interesses dos países produtores de petróleo, um boicote dos EUA e uma disputa sobre finanças podem ter prejudicado as negociações sobre o clima.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+      "published_on": "23/11/2026 13:24 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c650/live/3a868c20-e767-11f1-99a1-253766e7ad8b.jpg",
       "selection": "automatic"
     }
   ]
