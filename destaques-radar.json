@@ -1,8 +1,8 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T06:33:39.372173Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T06:39:09.457994Z",
+  "status": "checado",
   "items": [
     {
       "title": "O que o ataque a um navio russo na Líbia diz sobre a propagação da guerra na Ucrânia",
@@ -57,19 +57,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Os EUA intensificam as sanções ao Irã, visando redes de \"bancos paralelos\"",
-      "summary": "O Departamento do Tesouro dos EUA sanciona mais de duas dúzias de entidades iranianas, citando esforços para interromper as atividades financeiras globais de Teerã.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
-      "published_on": "23/11/2026 17:30 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/2025-06-23T163901Z_2116085940_RC2G8FAM4IDS_RTRMADP_3_IRAN-NUCLEAR-ENERGY-1755798951.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
       "title": "Sanções, cimeiras e greves: a guerra na Ucrânia não mostra sinais de abrandamento",
       "summary": "Bom dia. Leo Cendrowicz aqui, trazendo para vocês o boletim informativo de segunda-feira. Esta semana, estamos a lidar com mais bombardeamentos na Ucrânia e com o bombardeamento metafórico das negociações climáticas da COP31 na Turquia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -80,6 +67,19 @@
       "url": "https://www.euronews.com/2026/11/23/sanctions-summits-and-strikes-the-war-in-ukraine-shows-no-sign-of-slowing",
       "published_on": "23/11/2026 03:26 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/37/25/696x392_cmsv2_b61d1d5c-2bdb-586f-be92-5a37e32ca1c5-10003725.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Trump enfrenta reação negativa após dizer que \"convenceu\" a Nvidia a reintegrar o CEO Jensen Huang",
+      "summary": "A Nvidia havia sofrido pressão do presidente Trump para renomear Huang, cujo retorno ajudou a acrescentar US$ 1 trilhão ao valor das ações da empresa.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "published_on": "24/11/2026 00:36 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
       "selection": "automatic"
     },
     {
