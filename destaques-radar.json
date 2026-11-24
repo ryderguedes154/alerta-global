@@ -1,8 +1,8 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T07:00:45.275393Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T07:06:00.163371Z",
+  "status": "checado",
   "items": [
     {
       "title": "O que o ataque a um navio russo na Líbia diz sobre a propagação da guerra na Ucrânia",
@@ -70,19 +70,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump enfrenta reação negativa após dizer que \"convenceu\" a Nvidia a reintegrar o CEO Jensen Huang",
-      "summary": "A Nvidia havia sofrido pressão do presidente Trump para renomear Huang, cujo retorno ajudou a acrescentar US$ 1 trilhão ao valor das ações da empresa.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "published_on": "24/11/2026 00:36 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Chefe da OTAN promete defesa contra ameaça espacial após relatos de satélite nuclear russo",
       "summary": "A mídia alemã afirmou que a Rússia planejava lançar um satélite com uma ogiva nuclear no espaço nas próximas semanas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -96,16 +83,29 @@
       "selection": "automatic"
     },
     {
-      "title": "Rússia planeja lançar satélite com arma nuclear, diz imprensa alemã",
-      "summary": "Serviços de inteligência acreditam que dispositivo pode ser lançado ainda neste ano; Moscou nega relatos",
+      "title": "Um retorno para a história: a influência de Trump no retorno de Huang à Nvidia",
+      "summary": "A correspondente de negócios da BBC, Michelle Fleury, explica qual foi o papel do apoio de Trump no retorno de Huang.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
+      "published_on": "23/11/2026 17:40 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9328/live/2bcba8f0-e785-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Rússia está prestes a posicionar bomba atômica no espaço, diz imprensa alemã",
+      "summary": "Satélite da Rússia e da China em órbita, em imagem de 2025. Reuters via DW A Rússia está planejando posicionar no espaço ainda neste ano uma bomba atômica, revelou uma investigação conjunta do jornal alemão \"Süddeutsche Zeitung\", e das emissoras alemães NDR e WDR. A ogiva nuclear seria colocada em órbita dentro de um satélite, ainda de acordo com os jornais,",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Tecnologia",
       "region": "Global",
       "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/russia-planeja-lancar-satelite-com-arma-nuclear-diz-imprensa-alema/",
-      "published_on": "24/11/2026 02:06 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/gripen-f-FAB-saab.jpeg?w=200",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/24/russia-esta-prestes-a-posicionar-bomba-atomica-no-espaco-diz-imprensa-alema.ghtml",
+      "published_on": "24/11/2026 03:00 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/WfifRPrzaUfE6H060YGUgrzI1xw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/U/ULFWr2S4mFTvlp7U9CbQ/universo.webp",
       "selection": "automatic"
     }
   ]
