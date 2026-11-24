@@ -1,8 +1,8 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T18:59:02.818352Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T19:04:19.695035Z",
+  "status": "checado",
   "items": [
     {
       "title": "Sputnik-S, o satélite russo que ameaça levar a guerra nuclear ao espaço",
@@ -15,19 +15,6 @@
       "url": "https://elpais.com/internacional/2026-11-24/sputnik-s-el-satelite-ruso-que-amenaza-con-llevar-la-guerra-nuclear-al-espacio.html",
       "published_on": "24/11/2026 14:10 (Boa Vista)",
       "image": "https://imagenes.elpais.com/resizer/v2/PJHHAJNVRJJ7XKHQ7WL7EWUFVQ.jpg?auth=b7f06f94edf8aacfbea0c7be6a4da02d84ceea3a00baa2f113e1aac85c78cb81",
-      "selection": "automatic"
-    },
-    {
-      "title": "Os preços do petróleo caem, apesar dos ataques contínuos do Irã a petroleiros",
-      "summary": "Apesar de o Irã alegar ataques diários a petroleiros no Estreito de Ormuz e em seus arredores, e de não haver sinais de um acordo para pôr fim à guerra de quase 9 meses, os preços do petróleo bruto continuam caindo.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
-      "published_on": "24/11/2026 13:56 (Boa Vista)",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/855de539-52ca-4644-b2eb-c3bba31967cb/thumbnail/1200x630/2275cf724c16f3cff5af0ad5d7c8a80f/iran-tanker-strait-of-hormuz-fire.jpg",
       "selection": "automatic"
     },
     {
@@ -52,7 +39,7 @@
       "country": "US",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
-      "published_on": "24/11/2026 14:11 (Boa Vista)",
+      "published_on": "24/11/2026 14:34 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
@@ -106,6 +93,19 @@
       "url": "https://www.france24.com/en/video/20261124-leaked-data-suggests-500-000-russian-soldiers-killed-since-start-of-ukraine-invasion",
       "published_on": "24/11/2026 11:53 (Boa Vista)",
       "image": "https://s.france24.com/media/display/c10d4f8e-e81d-11f1-82e4-81da3ab2acbb/w:1024/p:16x9/EN-20261124-160120-160737-CS.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Os Estados Unidos finalizam novas tarifas para a China, a União Europeia e mais uma dúzia de países",
+      "summary": "O Escritório de Comércio conclui a investigação contra 16 jurisdições por incentivarem a superprodução e permitirem a concorrência desleal",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "ES",
+      "source": "El País",
+      "url": "https://elpais.com/us/2026-11-24/estados-unidos-ultima-nuevos-aranceles-a-china-la-ue-y-otra-docena-de-paises.html",
+      "published_on": "24/11/2026 12:04 (Boa Vista)",
+      "image": "https://imagenes.elpais.com/resizer/v2/5G3PMYC575IDNA5OUBBEIDIKUI.jpg?auth=e7981eaba55f1451b8154f861fbafc68094f2e1d6545d9c2cf91e39a0cdb3879",
       "selection": "automatic"
     }
   ]

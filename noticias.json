@@ -1,35 +1,217 @@
 [
   {
+    "title": "Weak and immature management putting patients at risk at failing health board, review finds",
+    "summary": "A review finds targets and money being prioritised over patient care at Betsi Cadwaladr health board.",
+    "category": "Saúde",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-24T19:03:09Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aceb/live/90850830-e7f4-11f1-a094-5fdc692f3e33.jpg",
+    "title_pt": "Uma gestão fraca e imatura está colocando os pacientes em risco em um conselho de saúde deficiente, aponta uma análise",
+    "summary_pt": "Uma auditoria constatou que as metas e o dinheiro estão sendo priorizados em detrimento do atendimento aos pacientes no conselho de saúde de Betsi Cadwaladr."
+  },
+  {
+    "title": "Iran developing chemical weapons, Israeli defense minister says",
+    "summary": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+    "date": "2026-11-24T19:02:57Z",
+    "lang": "en",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/19e30d67-9cb8-4592-b767-89255f357ed5/thumbnail/1200x630g8/a2addecec2912e9b8086c75c5747d267/ap26324612362330.jpg",
+    "title_pt": "Irã está desenvolvendo armas químicas, diz ministro da Defesa de Israel",
+    "summary_pt": "O ministro da Defesa israelense, Israel Katz, afirmou que o Irã está desenvolvendo armas químicas e deixou em aberto a possibilidade de ataques preventivos, se necessário."
+  },
+  {
+    "title": "Violência doméstica matou cinco mulheres por hora em 2025, diz ONU",
+    "summary": "Relatório aponta que mais de 47.000 foram mortas por parceiros ou familiares e alerta que o padrão de violência tem mudado pouco ao longo dos últimos anos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/internacional/violencia-domestica-matou-cinco-mulheres-por-hora-em-2025-diz-onu/",
+    "date": "2026-11-24T19:01:47Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/ChatGPT-Image-14-de-set.-de-2026-07_21_14.png?w=200",
+    "title_pt": "Violência doméstica matou cinco mulheres por hora em 2025, diz ONU",
+    "summary_pt": "Relatório aponta que mais de 47.000 foram mortas por parceiros ou familiares e alerta que o padrão de violência tem mudado pouco ao longo dos últimos anos"
+  },
+  {
+    "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+    "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+    "date": "2026-11-24T19:01:46Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
+    "title_pt": "Mercados de ações caem à medida que as ações da Nvidia e de IA perdem parte da alta de segunda-feira",
+    "summary_pt": "Os mercados têm oscilado drasticamente há dias, impulsionados e afetados pelo drama da Nvidia e pela estreia recorde da Anthropic no mercado."
+  },
+  {
+    "title": "Com dieta de 500 calorias e punições físicas, ex-atriz de Smallville detalha o calvário que viveu em uma seita",
+    "summary": "Em entrevista inédita, a atriz Allison Mack relatou ter perdido 13,6 kg sob o controle de Keith Raniere na organização NXIVM, onde precisava pedir permissão para se alimentar",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/curiosidades/com-dieta-de-500-calorias-e-punicoes-fisicas-ex-atriz-de-smallville-detalha-o-calvario-que-viveu-em-uma-seita/",
+    "date": "2026-11-24T19:00:53Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/4021_9D291623A16BDA25-7.jpg?w=200",
+    "title_pt": "Com dieta de 500 calorias e punições físicas, ex-atriz de Smallville detalha o calvário que viveu em uma seita",
+    "summary_pt": "Em entrevista inédita, a atriz Allison Mack relatou ter perdido 13,6 kg sob o controle de Keith Raniere na organização NXIVM, onde precisava pedir permissão para se alimentar"
+  },
+  {
+    "title": "Relancer ou non la guerre : l’alliance israélo-américaine au défi du réarmement iranien",
+    "summary": "Alors que le premier ministre sortant d’Israël, Benyamin Nétanyahou, plaide auprès de Donald Trump pour une reprise rapide des frappes sur l’Iran, le président américain, refroidi par la défaite historique de son camp aux élections de mi-mandat, s’est donné jusqu’à janvier pour trancher.",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "FR",
+    "source": "Le Monde",
+    "url": "https://www.lemonde.fr/international/article/2026/11/24/relancer-ou-non-la-guerre-l-alliance-israelo-americaine-au-defi-du-rearmement-iranien_6814843_3210.html",
+    "date": "2026-11-24T19:00:03Z",
+    "lang": "fr",
+    "image": "https://img.lemde.fr/2026/11/13/0/0/7422/4948/1440/960/60/0/2a3e920_ftp-1-vx7gnwybie3d-dc1f8460036c4673844c9897dd601910-0-7c08145ec9c8461d8a266064a01c90c5.jpg",
+    "title_pt": "Retomar ou não a guerra: a aliança israelo-americana diante do desafio do rearmamento iraniano",
+    "summary_pt": "Enquanto o primeiro-ministro israelense em fim de mandato, Benjamin Netanyahu, apela a Donald Trump para que retome rapidamente os ataques ao Irã, o presidente americano, desanimado com a derrota histórica de seu partido nas eleições de meio de mandato, deu a si mesmo até janeiro para tomar uma decisão."
+  },
+  {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
     "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-24T18:55:59Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/ca95f8e0-e82b-11f1-88dc-fb4bdfcec8cb.jpg",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/364c/live/42990320-e839-11f1-99a1-253766e7ad8b.png",
     "title_pt": "Procurador-geral dos EUA evita perguntas sobre a investigação da Nvidia",
     "summary_pt": "O preço das ações da Nvidia caiu 7% enquanto os legisladores exigem respostas sobre o envolvimento do presidente Donald Trump na reintegração de Huang."
   },
   {
-    "title": "Oil prices fall despite Iran's ongoing attacks on tankers",
-    "summary": "Despite Iran claiming daily attacks on takers around the Strait of Hormuz and escalating fighting between the Saudis and Iran's Houthi allies, oil prices continue to decline.",
+    "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – live reaction",
+    "summary": "Sindarov and Gukesh play to 38-move draw in Game 1 Explainer: all your pre-match questions, answered Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at @BryanAGraham or email him The players have shaken hands and we’re off! We have a Berlin defense of the Ruy Lopez ( 1 e4 e5 2 Nf3 Nc6 3 Bb5 ",
     "category": "Geral",
     "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
-    "date": "2026-11-24T18:42:17Z",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+    "date": "2026-11-24T18:54:54Z",
     "lang": "en",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/855de539-52ca-4644-b2eb-c3bba31967cb/thumbnail/1200x630/2275cf724c16f3cff5af0ad5d7c8a80f/iran-tanker-strait-of-hormuz-fire.jpg",
-    "title_pt": "Os preços do petróleo caem, apesar dos ataques contínuos do Irã a petroleiros",
-    "summary_pt": "Apesar de o Irã alegar ataques diários a petroleiros no Estreito de Ormuz e em seus arredores, e de não haver sinais de um acordo para pôr fim à guerra de quase 9 meses, os preços do petróleo bruto continuam caindo."
+    "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=078b7b5f6bba81aa1fe08802a7eaf284",
+    "title_pt": "Campeonato Mundial de Xadrez de 2026, partida 1: Gukesh Dommaraju e Javokhir Sindarov empatam em 38 lances – reação ao vivo",
+    "summary_pt": "A partida pelo título com os jogadores mais jovens da história do xadrez começa na terça-feira Sindarov e Gukesh iniciam a partida 1 com a defesa Berlim Explicação: todas as suas perguntas antes da partida, respondidas Prévia: Gukesh promete conquistar o título \"mais uma vez\" Entrevista com Sindarov: \"Não posso jogar partidas apenas por diversão\" Jogue 22 partidas famosas do Campeonato Mundial Bluesky Bryan em @BryanAGraham ou envie um e-mail para ele A partida"
+  },
+  {
+    "title": "Hamilton critica Ferrari por decisões na temporada: “Precisava de apoio”",
+    "summary": "Piloto da Ferrari revelou que não pediu tratamento de \"número 1\" e lamentou falta de suporte na disputa com Kimi Antonelli",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/hamilton-critica-ferrari-por-decisoes-na-temporada-precisava-de-apoio/",
+    "date": "2026-11-24T18:51:45Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Haas-Rafa-e1794105531555.jpg?w=200",
+    "title_pt": "Hamilton critica Ferrari por decisões na temporada: “Precisava de apoio”",
+    "summary_pt": "Piloto da Ferrari revelou que não pediu tratamento de \"número 1\" e lamentou falta de suporte na disputa com Kimi Antonelli"
+  },
+  {
+    "title": "HPE shares tumble as shrinking AI margins overshadow upbeat forecast",
+    "summary": "HPE shares tumble as shrinking AI margins overshadow upbeat forecast Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamhxOU8weWdPQlYzdmRWR0hKdVBPdGhpcXVzUVBOcWpmNmdlTXUxSXFiSUE0SUF2Q0NWVlNUOE43TG0tYXFZYm50TnlrNDRJdGxGTUlpeUhKT0lRVjFHb3NPVS1CLS0tWmZoc1lNcEtKTDBWVDhmSVRmVlpxbWRSUmNsWkFva1czcWxXdUJBLW9mVFNLZmk3LU9ZOHZaWFZoNmlV?oc=5",
+    "date": "2026-11-24T18:50:25Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Ações da HPE despencam à medida que a redução das margens de IA ofusca a previsão otimista",
+    "summary_pt": "Ações da HPE despencam à medida que a redução das margens de IA ofusca a previsão otimista da Reuters"
+  },
+  {
+    "title": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after alleged affair with Chinese spy but no security risk found – live",
+    "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Office at 11am ET. He will be awarding the nation’s highest civilian hon",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+    "date": "2026-11-24T18:49:21Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=01befd13f3a603c531ac6b7679e3523b",
+    "title_pt": "O DoJ de Trump ‘avaliou’ as preocupações sobre Jensen Huang após um suposto caso com um espião chinês, mas nenhum risco de segurança foi encontrado – ao vivo",
+    "summary_pt": "O Departamento de Justiça e outras agências chegaram a um “consenso coletivo” de que Jensen Huang não é um risco para a segurança nacional, diz o procurador-geral Todd Blanche. Ele concederá a mais alta honraria civil do país"
+  },
+  {
+    "title": "Defesa de pai de Vorcaro cita falhas em presídio e pede prisão domiciliar",
+    "summary": "Advogados alegam falta de atendimento médico adequado no Complexo Penitenciário Nelson Hungria; Henrique Vorcaro está preso desde maio",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/defesa-de-pai-de-vorcaro-cita-falhas-em-presidio-e-pede-prisao-domiciliar/",
+    "date": "2026-11-24T18:48:51Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/WhatsApp-Image-2025-12-31-at-15.37.48.jpeg?w=200",
+    "title_pt": "Defesa de pai de Vorcaro cita falhas em presídio e pede prisão domiciliar",
+    "summary_pt": "Advogados alegam falta de atendimento médico adequado no Complexo Penitenciário Nelson Hungria; Henrique Vorcaro está preso desde maio"
+  },
+  {
+    "title": "Burnham under fire over influencers’ No 10 reception after TikTok video row",
+    "summary": "Tories accuse PM of ‘degrading’ Downing Street as Max Balegde takes down clip of himself miming explicit lyrics Andy Burnham is facing a backlash for inviting social media influencers to Downing Street after one of a group attending an event posted a clip of himself miming to a viral song with explicit lyrics outside No 10. Downing Street said it was right t",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/politics/2026/nov/24/andy-burnham-influencers-no-10-reception-max-balegde-tiktok-explicit-lyrics",
+    "date": "2026-11-24T18:47:48Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/9fbc1286192d052bb0517cc464b9f2bb7b8492cc/53_6_3275_2620/master/3275.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=96e875c2b30cf9a1aa8f61f2152c4fa1",
+    "title_pt": "Burnham sob fogo por causa da recepção de influenciadores no número 10 após a polêmica do vídeo do TikTok",
+    "summary_pt": "Os conservadores acusam o primeiro-ministro de \"degradar\" Downing Street, enquanto Max Balegde remove um vídeo em que aparece fazendo mímica de uma letra explícita. Andy Burnham está enfrentando uma reação negativa por ter convidado influenciadores de redes sociais para Downing Street depois que um membro de um grupo que participou de um evento publicou um vídeo em que aparece fazendo mímica de uma música viral com letra explícita em frente ao número 10. Downing Street disse que estava certo"
+  },
+  {
+    "title": "Bolsas da Europa fecham em queda com pressão sobre ações de tecnologia",
+    "summary": "Papéis de semicondutores recuaram até 10%, enquanto dirigentes do BCE sinalizaram a possibilidade de novos aumentos dos juros para conter a inflação",
+    "category": "Tecnologia",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-europa-fecham-em-queda-com-pressao-sobre-acoes-de-tecnologia/",
+    "date": "2026-11-24T18:45:15Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM3S1EW-BASEIMAGE.jpg?w=200",
+    "title_pt": "Bolsas da Europa fecham em queda com pressão sobre ações de tecnologia",
+    "summary_pt": "Papéis de semicondutores recuaram até 10%, enquanto dirigentes do BCE sinalizaram a possibilidade de novos aumentos dos juros para conter a inflação"
+  },
+  {
+    "title": "Furia y consternación en el Congreso de EE UU por el regreso de Huang a Nvidia y el papel de Trump en él",
+    "summary": "El consejero delegado del gigante de los semiconductores comparecerá la semana próxima ante cuatro comités en el Capitolio",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/us/2026-11-24/furia-y-consternacion-en-el-congreso-de-ee-uu-por-el-regreso-de-huang-a-nvidia-y-el-papel-de-trump-en-el.html",
+    "date": "2026-11-24T18:44:20Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/VDVHGZVYPNNP7CXUOFZGSNNBJY.jpg?auth=68bb3b7ad374d3d0217c50319bcb84a6d73994eb7c2ae4d409e3281b6abd1489",
+    "title_pt": "Fúria e consternação no Congresso dos EUA com o retorno de Huang à Nvidia e o papel de Trump nisso",
+    "summary_pt": "O CEO da gigante dos semicondutores comparecerá na próxima semana perante quatro comissões no Capitólio"
   },
   {
     "title": "Expectativa de vida em Cuba cai pela primeira vez em quase 80 anos, alerta OMS",
-    "summary": "A expectativa de vida diminuiu pela primeira vez em quase 80 anos em Cuba, com uma queda superior a quatro anos entre 2020 e 2025, informou nesta terça-feira (24), em Havana, o diretor-geral da Organização Mundial da Saúde (OMS). A ilha, que tem quase 9,5 milhões de habitantes, enfrenta há bastante tempo uma grave crise econômica, que se aprofundou com o blo",
+    "summary": "Muitos exilados cubanos nos EUA esperam a queda do regime em Cuba para poder voltar ao país Carl Juste/Miami Herald/ZUMA/picture alliance A expectativa de vida diminuiu pela primeira vez em quase 80 anos em Cuba, com uma queda superior a quatro anos entre 2020 e 2025, informou nesta terça-feira (24), em Havana, o diretor-geral da Organização Mundial da Saúde",
     "category": "Geral",
     "region": "Global",
     "country": "BR",
@@ -37,9 +219,9 @@
     "url": "https://g1.globo.com/mundo/noticia/2026/11/24/expectativa-de-vida-em-cuba-cai-pela-primeira-vez-em-quase-80-anos-alerta-oms.ghtml",
     "date": "2026-11-24T18:42:08Z",
     "lang": "pt",
-    "image": "https://g1.globo.com/mundo/noticia/2026/11/24/None",
+    "image": "https://s2-g1.glbimg.com/JeGpGshsBByGBqokb_geFgqH5VQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/n/DHN2GkRvmwPTqef7hTBQ/76434253-906.jpg",
     "title_pt": "Expectativa de vida em Cuba cai pela primeira vez em quase 80 anos, alerta OMS",
-    "summary_pt": "A expectativa de vida diminuiu pela primeira vez em quase 80 anos em Cuba, com uma queda superior a quatro anos entre 2020 e 2025, informou nesta terça-feira (24), em Havana, o diretor-geral da Organização Mundial da Saúde (OMS). A ilha, que tem quase 9,5 milhões de habitantes, enfrenta há bastante tempo uma grave crise econômica, que se aprofundou com o blo"
+    "summary_pt": "Muitos exilados cubanos nos EUA esperam a queda do regime em Cuba para poder voltar ao país Carl Juste/Miami Herald/ZUMA/picture alliance A expectativa de vida diminuiu pela primeira vez em quase 80 anos em Cuba, com uma queda superior a quatro anos entre 2020 e 2025, informou nesta terça-feira (24), em Havana, o diretor-geral da Organização Mundial da Saúde"
   },
   {
     "title": "La Commission européenne se montre indulgente sur la situation budgétaire française",
@@ -52,8 +234,8 @@
     "date": "2026-11-24T18:42:05Z",
     "lang": "fr",
     "image": "https://img.lemde.fr/2026/11/24/0/9/4282/2855/1440/960/60/0/a5183ac_upload-1-x6dhzkxht0kb-13402451.jpg",
-    "summary_pt": "O comissário responsável pelo planejamento, Valdis Dombrovskis, ouvindo o ministro da Economia, Roland Lescure, conta com a aprovação do orçamento de 2027 pelo Parlamento francês. Antes das eleições, a Comissão está pisando em ovos e segurando suas críticas.",
-    "title_pt": "A Comissão Europeia mostra-se indulgente com a situação orçamental francesa"
+    "title_pt": "A Comissão Europeia mostra-se indulgente com a situação orçamental francesa",
+    "summary_pt": "O comissário responsável pelo planejamento, Valdis Dombrovskis, ouvindo o ministro da Economia, Roland Lescure, conta com a aprovação do orçamento de 2027 pelo Parlamento francês. Antes das eleições, a Comissão está pisando em ovos e segurando suas críticas."
   },
   {
     "title": "Ex-boss of Pride in London given suspended sentence for ‘harvesting’ documents",
@@ -84,6 +266,20 @@
     "summary_pt": "A polícia afirma que um grupo invadiu um estabelecimento na cidade de Cartagena, e a mídia local exibiu imagens de atiradores de elite em prédios próximos. Um grupo de homens armados com os rostos cobertos invadiu um supermercado na cidade colombiana de Cartagena na terça-feira e está mantendo 25 pessoas como reféns, disse o presidente Abelardo de la Espriella na terça-feira. De la Espriella disse que os homens eram \"comuns\"."
   },
   {
+    "title": "Ukraine says attack on Russian ships in Libya was self-defence",
+    "summary": "Ukraine says attack on Russian ships in Libya was self-defence Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzIzWjZLTEdiVXRtR0I1cEJ3MFVCUzF5ZktKdWRUQlNtMEVDTnQ4Mk5xU2tvODVlRUJFeE5KOGlieGxsYkp5c1dhZklONzRZNW1VWTR4OVM1MGFQM0cxRXBaQm93b1lhWG1qR3F0ZGV2VTRRRGxtbTRkU1VYQ2c2dEtHckpXQmJCbmpYZlNKeFVrNW8zVjBldDFEWGc1TmIzRTJTM0ozNy1yanVq?oc=5",
+    "date": "2026-11-24T18:36:07Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "A Ucrânia afirma que o ataque a navios russos na Líbia foi em legítima defesa",
+    "summary_pt": "A Ucrânia afirma que o ataque a navios russos na Líbia foi em legítima defesa Reuters"
+  },
+  {
     "title": "Top Denmark court upholds \"non-Western\" evictions law",
     "summary": "Denmark's Supreme Court has upheld a law that lets authorities limit the number of \"non-Western\" residents who can live in a public housing development.",
     "category": "Geral",
@@ -96,20 +292,6 @@
     "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/98c8fa26-84ca-45c4-b839-b56871e2830b/thumbnail/1200x630g8/43dd2d53fe05bf5c8f7c087bbd92b892/gettyimages-2293103335.jpg",
     "title_pt": "O principal tribunal da Dinamarca mantém a lei de despejos de \"não ocidentais\"",
     "summary_pt": "O Supremo Tribunal da Dinamarca confirmou uma lei que permite que as autoridades limitem o número de residentes \"não ocidentais\" que podem morar em um conjunto habitacional público."
-  },
-  {
-    "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – live reaction",
-    "summary": "Sindarov and Gukesh play to 38-move draw in Game 1 Explainer: all your pre-match questions, answered Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at @BryanAGraham or email him The players have shaken hands and we’re off! We have a Berlin defense of the Ruy Lopez ( 1 e4 e5 2 Nf3 Nc6 3 Bb5 ",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
-    "date": "2026-11-24T18:34:48Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=078b7b5f6bba81aa1fe08802a7eaf284",
-    "title_pt": "Campeonato Mundial de Xadrez de 2026, partida 1: Gukesh Dommaraju e Javokhir Sindarov empatam em 38 lances – reação ao vivo",
-    "summary_pt": "A partida pelo título com os jogadores mais jovens da história do xadrez começa na terça-feira Sindarov e Gukesh iniciam a partida 1 com a defesa Berlim Explicação: todas as suas perguntas antes da partida, respondidas Prévia: Gukesh promete conquistar o título \"mais uma vez\" Entrevista com Sindarov: \"Não posso jogar partidas apenas por diversão\" Jogue 22 partidas famosas do Campeonato Mundial Bluesky Bryan em @BryanAGraham ou envie um e-mail para ele A partida"
   },
   {
     "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
@@ -191,13 +373,13 @@
     "url": "https://www.cnnbrasil.com.br/agro/petrobras-mira-combustivel-de-aviacao-e-diesel-renovavel-com-retorno-ao-eta/",
     "date": "2026-11-24T18:28:01Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/11/etanol-petrobras.jpg?w=1200&h=630&crop=1",
+    "image": "https://admin.develop.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/magda_petrobras2.jpg?w=200",
     "title_pt": "Petrobras mira combustível de aviação e diesel renovável com retorno ao eta",
     "summary_pt": "Segundo Magda Chambriard, parceria com a CerradinhoBio poderá elevar produção da Neomille para 1,5 bilhão de litros de etanol por ano e integrar o agronegócio às operações da estatal"
   },
   {
     "title": "Chicken Shop Date host says she ended YouTube show to find love",
-    "summary": "Amelia Dimoldenberg added she had had two panic attacks and wanted to end the series ‘before I start resenting it’ Amelia Dimoldenberg, the host of Chicken Shop Date, has said she decided to end the popular YouTube series in order to have space to find love. The comedian, 32, also revealed she had questioned the future of the interview series after suffering",
+    "summary": "Amelia Dimoldenberg added she had had two panic attacks and wanted to end the series ‘before I start resenting it’ Amelia Dimoldenberg, the host of Chicken Shop Date, has said she decided to end the popular YouTube series which had increasingly left her feeling “isolated” and made her search for real relationships more challenging. The comedian, 32, also rev",
     "category": "Geral",
     "region": "Global",
     "country": "GB",
@@ -211,7 +393,7 @@
   },
   {
     "title": "Camisetas, carteles y firmas: El ‘fenómeno fan’ por Rufián revoluciona la campaña de Esquerra",
-    "summary": "Cientos de jóvenes se aglutinan en las puertas de la sede de ERC atraídos por el candidato",
+    "summary": "Cientos de jóvenes se aglutinan en las puertas de la sede de ERC en Barcelona, atraídos por el candidato",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
@@ -238,6 +420,20 @@
     "summary_pt": "Em três decisões dedicadas às deportações de solicitantes de asilo nas fronteiras da Europa com a Bielorrússia, os magistrados limitaram, na terça-feira, a proteção dos referidos solicitantes apenas às pessoas \"vulneráveis\". Essas decisões deixam os juristas em dúvida."
   },
   {
+    "title": "Zelenskiy confirms Ukraine hit Russian ship in Gulf of Finland, ally Norway urges caution",
+    "summary": "Zelenskiy confirms Ukraine hit Russian ship in Gulf of Finland, ally Norway urges caution Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2ZZQnd0c3JtbHl5NFozeGhRRUotLUVZODlvQTVHT2ZmdVBoQ2lnanJyNVFkM0RaSXdCT3BncnMtRVdLdjM4UTVpS2JZeHNwbWlKSnhoZ0NQcmd3N1Mtd2hZaGxkZDBoUW80TXpVMHVtS0ctNmlWTE5nYlZXZXpqb2kxcW85VzRCTlFEWGprbTlhYnFpUFhiN3RzYW5MQU9GcTR2NVd6SHhSRTN3VWV2bjktWHRkdnY0djdRdlJXRG5VUEU?oc=5",
+    "date": "2026-11-24T18:25:57Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Zelensky confirma que a Ucrânia atingiu um navio russo no Golfo da Finlândia, e a Noruega, aliada, pede cautela",
+    "summary_pt": "Zelensky confirma que a Ucrânia atingiu um navio russo no Golfo da Finlândia, e a Noruega, aliada, pede cautela Reuters"
+  },
+  {
     "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
     "summary": "Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.",
     "category": "Geral",
@@ -261,23 +457,9 @@
     "url": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/cbf-divulga-imagens-e-arbitro-mantem-expulsao-sem-ver-todos-os-angulos/",
     "date": "2026-11-24T18:24:58Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/02/rafael-sobis-7-e1708885476988.png?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/hamilton-e1785002428339.jpg?w=200",
     "title_pt": "CBF divulga, e árbitro mantém expulsão de zagueiro sem ver todas as imagens",
     "summary_pt": "Árbitro Bráulio da Silva Machado não aceitou novas instruções do colega do VAR, que apontava ausência de infração em Robert Renan"
-  },
-  {
-    "title": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after alleged affair with Chinese spy but no security risk found – live",
-    "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Office at 11am ET. He will be awarding the nation’s highest civilian hon",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-    "date": "2026-11-24T18:21:54Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=01befd13f3a603c531ac6b7679e3523b",
-    "title_pt": "O DoJ de Trump ‘avaliou’ as preocupações sobre Jensen Huang após um suposto caso com um espião chinês, mas nenhum risco de segurança foi encontrado – ao vivo",
-    "summary_pt": "O Departamento de Justiça e outras agências chegaram a um “consenso coletivo” de que Jensen Huang não é um risco para a segurança nacional, diz o procurador-geral Todd Blanche. Ele concederá a mais alta honraria civil do país"
   },
   {
     "title": "Explosão causa desabamento de lojas e deixa um morto em Pernambuco",
@@ -296,7 +478,7 @@
   {
     "title": "Faisal Islam: Fears over the AI boom haven't gone away",
     "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -306,6 +488,20 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
     "title_pt": "Faisal Islam: Os temores em relação ao boom da IA não desapareceram",
     "summary_pt": "Havia receios legítimos antes da saída abrupta de Huang da Nvidia — e o seu retorno não vai resolver isso"
+  },
+  {
+    "title": "Norway and Ukraine to expand cooperation on anti-drone system",
+    "summary": "Norway and Ukraine to expand cooperation on anti-drone system Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0w0bVB4MWpUWktoS2g4OFVXREdpVnNUVHZFbmFiUXl2M3VPVnphMmJicjNNbDduSWFkcHUxS2VSMWN3dkRJS1ZndjY2MlhsaHRrVk9ubFBwS1Y0VEFQMWpnS3MxVzJfT1hvZzZXSUNiQ2dVZE5SbDVyX3ltQ1dBcnVmN2dveUtYTGtIM0twVWN0TEkxZllNdGc1RENqaVMzSkE?oc=5",
+    "date": "2026-11-24T18:21:33Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Noruega e Ucrânia vão ampliar a cooperação em sistemas antidrones",
+    "summary_pt": "Noruega e Ucrânia vão ampliar a cooperação em sistemas antidrones Reuters"
   },
   {
     "title": "El Gobierno exige a la Comunidad de Madrid que retire las instrucciones de “neutralidad ideológica” por señalar al profesorado y poner en riesgo derechos fundamentales",
@@ -359,7 +555,7 @@
     "url": "https://www.cnnbrasil.com.br/agro/cerradinho-e-petrobras-vao-ampliar-producao-de-etanol-em-80-em-dois-anos/",
     "date": "2026-11-24T18:17:53Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/WhatsApp-Image-2026-02-13-at-10.04.52.jpeg?w=988&h=556&crop=1",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM3M1K9-BASEIMAGE-e1789073594534.jpg?w=200",
     "title_pt": "Cerradinho e Petrobras vão ampliar produção de etanol em 80% em dois anos",
     "summary_pt": "Parceria foi estruturada ao longo de 18 meses de negociações e prevê acordo de cooperação estratégica para o desenvolvimento de novos negócios"
   },
@@ -376,6 +572,20 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM080WI-BASEIMAGE.jpg?w=200",
     "title_pt": "Brasil contesta tarifas adicionais dos EUA e aciona OMC",
     "summary_pt": "Sobretaxas questionadas incluem alíquotas adicionais de 25% e 12,5% sobre produtos brasileiros; governo americano se opôs à abertura do processo"
+  },
+  {
+    "title": "Nvidia slips as investors assess risks surrounding Huang's return as CEO",
+    "summary": "Nvidia slips as investors assess risks surrounding Huang's return as CEO Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOREIyb09ET2cwa3ZHekpYQnpBWFo5YlBseEduVVpKTUJsM3UzWXhCVHk2SFlNempwczc3NFpjWWtsLTBuQzkwX01DSWowcUFhaVVxOVZrNEh1YXJLcHJwenRhc3VyQWVkSW1zRll3NXRKTWhlTnhwZ1Y3RXhaNl9wakY0OGNid0x4RkdjNThHSGZMdVVVYTgxV2xZZDR5NVZzNXk3RXczTU1RUThya1JrRFV5Wnp3a3V3bzVDaWljbnlWN20t?oc=5",
+    "date": "2026-11-24T18:15:29Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "A Nvidia cai enquanto os investidores avaliam os riscos relacionados ao retorno de Huang como CEO",
+    "summary_pt": "Ações da Nvidia caem enquanto investidores avaliam os riscos relacionados ao retorno de Huang como CEO Reuters"
   },
   {
     "title": "Ídolo do Internacional, Sobis critica elenco após vexame: “Tive vergonha”",
@@ -499,7 +709,7 @@
     "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-limpar-certas-sujeiras-com-o-aspirador-comum-pode-custar-a-compra-de-um-aparelho-novo/",
     "date": "2026-11-24T18:00:46Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/O-dia-em-que-a-modelo-do-OnlyFans-mais-procurada-do-mundo-foi-presa-pelo-ICE-nos-EUA-–-veja-os-bastidores-dos-11-dias-em-detencao-americana.png?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Com-dieta-de-500-calorias-e-punicoes-fisicas-estrela-de-Smallville-detalha-o-calvario-que-viveu-em-uma-seita.png?w=200",
     "title_pt": "Por que limpar certas sujeiras com o aspirador comum pode custar a compra de um aparelho novo",
     "summary_pt": "O uso inadequado do eletrodoméstico em resíduos úmidos, abrasivos ou quentes pode comprometer o motor, entupir filtros e provocar curtos-circuitos no lar"
   },
@@ -541,7 +751,7 @@
     "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-vence-tanzania-e-garante-vaga-nas-oitavas-do-mundial-sub-17/",
     "date": "2026-11-24T17:59:55Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/robert-renan-vasco-e1795544307916.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/hamilton-e1785002428339.jpg?w=200",
     "title_pt": "Brasil vence Tanzânia e garante vaga nas oitavas do Mundial Sub-17",
     "summary_pt": "Com gol de Richard Wendel, Seleção mantém 100% de aproveitamento e avança no Catar"
   },
@@ -558,6 +768,20 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/carteira-de-trabalho-digital_mcamgo_abr_240620211818-4.jpg?w=200",
     "title_pt": "Escala 5×2: governo deve publicar três novas portarias",
     "summary_pt": "Segundo apuração da analista de Política da CNN Larissa Rodrigues, ao Bastidores CNN, Ministério do Trabalho avança na regulamentação da jornada 5x2 com novas portarias previstas para detalhar categorias e regimes especiais"
+  },
+  {
+    "title": "Nvidia's Huang returns to cheers in China, but political hurdles mount",
+    "summary": "Nvidia's Huang returns to cheers in China, but political hurdles mount Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2I2bERDWFVzTGY0OFhwaE0xVHRxaFFWM0REVzVOVjBsRkIyQjdwTlVEdnBzSmtqc2FlRFlJOERuOTc1Q1ZDV2U4SWRFa01fQTNHMnZJTjRXOW5VOUVMcjA1WDI4eW5vZ0FFbmRiNEc4aGdsSDQ0Zm1TNFBiVE5Pb0tIVm1SSzRIa3BVTk5GQ2NPY0JhMG1HLVpHamtrVWswd09ONFJCN3JSZDlBd0pYdGxwTE9tNm5sQ0FB?oc=5",
+    "date": "2026-11-24T17:57:26Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Huang, da Nvidia, retorna à China sob aplausos, mas os obstáculos políticos aumentam",
+    "summary_pt": "Huang, da Nvidia, retorna à China sob aplausos, mas os obstáculos políticos aumentam Reuters"
   },
   {
     "title": "Latam afirma que ainda não repassou custo total do combustível às passagens",
@@ -586,20 +810,6 @@
     "image": "https://img.lemde.fr/2026/11/24/0/0/5472/3648/1440/960/60/0/ccf3a40_ftp-1-glgpcbk1rsde-2026-11-24t151037z-52219646-rc2buoaccdbi-rtrmadp-3-colombia-violence.JPG",
     "title_pt": "Na Colômbia, pessoas são feitas reféns durante assalto a supermercado em Cartagena, um dia após atentado com carro-bomba em Villavicencio",
     "summary_pt": "Este ataque ocorre no dia do 10º aniversário de um histórico acordo de paz entre o Estado colombiano e a guerrilha das Forças Armadas Revolucionárias da Colômbia (FARC)."
-  },
-  {
-    "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-    "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-    "date": "2026-11-24T17:51:26Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
-    "title_pt": "Mercados de ações caem à medida que as ações da Nvidia e de IA perdem parte da alta de segunda-feira",
-    "summary_pt": "Os mercados têm oscilado drasticamente há dias, impulsionados e afetados pelo drama da Nvidia e pela estreia recorde da Anthropic no mercado."
   },
   {
     "title": "Candidato do Novo à presidência da Câmara diz estar aberto a diálogo com PL",
@@ -642,6 +852,20 @@
     "image": "https://i.guim.co.uk/img/media/401e46d2f072b5f00faeb7a524543c0c6fd6adb4/237_0_2776_2220/master/2776.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=68e78e4e7cbd390435a33de66f0cb3ad",
     "title_pt": "Democratas exigem registros à medida que a investigação sobre a empresa de investimentos de Trump Jr. se amplia",
     "summary_pt": "Quatro empresas ligadas à 1789 Capital pediram para cooperar enquanto Jamie Raskin lidera a investigação sobre possíveis informações privilegiadas. Os democratas ampliaram sua investigação sobre a empresa de investimentos de Donald Trump Jr., exigindo registros de quatro empresas que receberam o apoio dela pouco antes de obterem contratos lucrativos com o governo ou decisões regulatórias favoráveis. Jamie Raskin"
+  },
+  {
+    "title": "Possible Tesla merger could aid SpaceX's S&P 500 entry, ⁠J.P. Morgan says",
+    "summary": "Possible Tesla merger could aid SpaceX's S&P 500 entry, ⁠J.P. Morgan says Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeF9US0dlUFQ3RDhYOXdRbUlzYkJOQlhGdWdVTm02VjVUbkVlRFIxb0F5RFZNTEZTRndBcXcxWGtYa2lfTTAtTjJSN1MwSFRSYXdDSGJuM3RRSnlDTVZwVk1nNTJmeDdKUEp1VDd4enBsR2FTcG5uR3g1Z3lYLWdickFodnd5Q1pVejM1OTJ5cE5oZDBWdUE4c2F0bktTVlRNY185LThMaENJVWNpbG1IUERZbnJCMER2R2p0NQ?oc=5",
+    "date": "2026-11-24T17:45:22Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Uma possível fusão da Tesla poderia ajudar a SpaceX a entrar no S&P 500, diz o J.P. Morgan",
+    "summary_pt": "Uma possível fusão com a Tesla poderia ajudar a SpaceX a entrar no S&P 500, diz o J.P. Morgan à Reuters"
   },
   {
     "title": "Should freedom of movement be a right or a privilege?",
@@ -779,23 +1003,23 @@
     "url": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/vasco-monitora-situacao-de-marcos-antonio-do-sao-paulo/",
     "date": "2026-11-24T17:39:09Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/robert-renan-vasco-e1795544307916.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/hamilton-e1785002428339.jpg?w=200",
     "title_pt": "Vasco monitora situação de Marcos Antônio, do São Paulo",
     "summary_pt": "Cruzmaltino busca reforço no meio-campo, mas valores altos e contrato longo podem travar negociação com time paulista"
   },
   {
-    "title": "Weak and immature management putting patients at risk at failing health board, review finds",
-    "summary": "A review finds targets and money being prioritised over patient care at Betsi Cadwaladr health board.",
-    "category": "Saúde",
+    "title": "Elon Musk asks US appeals court to throw out Twitter fraud verdict",
+    "summary": "Elon Musk asks US appeals court to throw out Twitter fraud verdict Reuters",
+    "category": "Geral",
     "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-24T17:37:17Z",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY2RYYWp5emZ0cUZ0dVRlUWpfYlpWV0FoOE92VVM1bkNhalo3ejViOENfTnVOMmpVRG5pX1JJMWNMZzJpUmdMdnhuVDd2VlFXT2JBZkZEaGFieUZISTZ3TUF3TGkwRzY0MHlPLWk3eHBBbGRoZVkzeGJ1NjItekh0M24taDVqd2lyT1dQRWlaeVZ6YzJUVERUODNKanNGc2ZjQ0cyRFZkZjhORG9wRU1kcTR1Z3hqYVlYVlh5VGdzMA?oc=5",
+    "date": "2026-11-24T17:38:54Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aceb/live/90850830-e7f4-11f1-a094-5fdc692f3e33.jpg",
-    "title_pt": "Uma gestão fraca e imatura está colocando os pacientes em risco em um conselho de saúde deficiente, aponta uma análise",
-    "summary_pt": "Uma auditoria constatou que as metas e o dinheiro estão sendo priorizados em detrimento do atendimento aos pacientes no conselho de saúde de Betsi Cadwaladr."
+    "image": "",
+    "title_pt": "Elon Musk pede ao Tribunal de Apelações dos EUA que anule a sentença de fraude do Twitter",
+    "summary_pt": "Elon Musk pede ao tribunal de apelações dos EUA que anule o veredito de fraude do Twitter Reuters"
   },
   {
     "title": "Austrália quer multar big techs em até 5% do faturamento global por conteúdos nocivos",
@@ -868,6 +1092,34 @@
     "summary_pt": "O Exército dos EUA está se preparando para detonar quase cinco toneladas de explosivos instáveis em Iowa na quarta-feira."
   },
   {
+    "title": "Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation",
+    "summary": "Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpVNVoyQi1td29TalNHby02a0tSU1ZBMng2Y1BTemxZWkExU2VPLXdTeUpURUtrd1BremtnTG53eDhzeXlwMndrRWdNa1dDTVE5VExXLVpBY251X205UVhSU28xeDc2bjBfMFBiYU5ubGN6NU5YdTJlX1J5amtqaVNEX0VKb1dzaWhqaGNNazZXTkVpOWVBOVFQZXBlX0U1dGx3d1ZBdFptaXZJQmNuc2pFUTRncG9oRndTZTU2WUFIdDhqLUE?oc=5",
+    "date": "2026-11-24T17:33:33Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Putin diz que a Ucrânia ataca refinarias de petróleo russas apesar dos pedidos de Trump e promete retaliação",
+    "summary_pt": "Putin diz que a Ucrânia ataca refinarias de petróleo russas apesar dos pedidos de Trump e promete retaliação Reuters"
+  },
+  {
+    "title": "Shein to pay $100 million to settle US claims, FTC official says",
+    "summary": "Shein to pay $100 million to settle US claims, FTC official says Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWhsZ000UTV1SjF3ak9ONXpxUy1JWUFjM2wtMWZTQ3dqOVhZNDBKRHFQVkFlYjZaVWRjWXFoSUY3Ry1JN1ozRk9TQTQ3R2ZFV2ZVQUx6MjF5endGeUptTU5OakRMNlVjb01qWi0ySHItb1dEUFJDc3kxNTJ0akJfbXBlSVZMdkdwb2p1b3BHWnh3aW5scllxRVg2M3BFSHc?oc=5",
+    "date": "2026-11-24T17:31:14Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "A Shein vai pagar US$ 100 milhões para resolver ações judiciais nos EUA, diz funcionário da FTC",
+    "summary_pt": "A Shein vai pagar US$ 100 milhões para resolver ações judiciais nos EUA, diz funcionário da FTC à Reuters"
+  },
+  {
     "title": "Man on cruise ship goes overboard off Bahamas, search underway",
     "summary": "The Allure of the Seas is on an eight-day Thanksgiving cruise in the Caribbean that departed from Miami on Sunday.",
     "category": "Geral",
@@ -936,6 +1188,19 @@
     "image": "https://admin.staging.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2024binary_LYNXMPEK6E0M9-FILEDIMAGE.jpg?w=200",
     "title_pt": "EUA registram três casos de gripe aviária e uma morte, diz OMS",
     "summary_pt": "Casos foram registrados em humanos, mas agência da ONU afirmou que, com base nas informações disponíveis, não há evidências até o momento de transmissão entre pessoas"
+  },
+  {
+    "title": "US consumer confidence jumps to highest level in nearly two years",
+    "summary": "US consumer confidence jumps to highest level in nearly two years Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSlNZMXlsT1hncHloZ0owYU5ZTlZmbFVsTlFtSFRNdGNhTVFia0RMVGVEeE4wbHVYalhxWkl1WkdJNzRGajN4cVN2N2N6YU1Kc3N0dWo3RGVRQXBpel9sSUNFNDVRMDYyeHhHczQ0RkVNbnF5d3pBMTAzTVQ3WjZ1cVFvSWZEcnpSSWR1cDl5MElSNm54ek9UbER6ZE51Q1BTT28tR25Ya3A?oc=5",
+    "date": "2026-11-24T17:25:47Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "A confiança do consumidor dos EUA sobe para o nível mais alto em quase dois anos"
   },
   {
     "title": "UK warns of Russian sabotage threat to companies that supply Ukraine",
@@ -1219,7 +1484,7 @@
   },
   {
     "title": "Milei foi desconvidado para posse de Lula, diz jornal argentino",
-    "summary": "Milei e Lula REUTERS/Tierney L. Cross e REUTERS/Diego Vara O presidente da Argentina, Javier Milei, foi desconvidado para a posse de Lula, afirmou nesta terça-feira (24) o jornal argentino \"Clarín\". O presidente brasileiro assumirá em janeiro seu 4º mandato presidencial. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp A informação foi transmitida",
+    "summary": "Presidentes Javier Milei, da Argentina, e Lula, do Brasil REUTERS/Tierney L. Cross e REUTERS/Diego Vara O presidente da Argentina, Javier Milei, foi desconvidado para a posse de Lula, afirmou nesta terça-feira (24) o jornal argentino \"Clarín\". O presidente brasileiro assumirá em janeiro seu 4º mandato presidencial. ✅ Siga o canal de notícias internacionais d",
     "category": "Geral",
     "region": "Global",
     "country": "BR",
@@ -1229,7 +1494,7 @@
     "lang": "pt",
     "image": "https://s2-g1.glbimg.com/8PlRtUOVnSuoKKEeHyaoBWpCz6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/u/IjgCZsQvmhQNWBRfOVjw/fotojet-4-.jpg",
     "title_pt": "Milei foi desconvidado para posse de Lula, diz jornal argentino",
-    "summary_pt": "Milei e Lula REUTERS/Tierney L. Cross e REUTERS/Diego Vara O presidente da Argentina, Javier Milei, foi desconvidado para a posse de Lula, afirmou nesta terça-feira (24) o jornal argentino \"Clarín\". O presidente brasileiro assumirá em janeiro seu 4º mandato presidencial. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp A informação foi transmitida"
+    "summary_pt": "Presidentes Javier Milei, da Argentina, e Lula, do Brasil REUTERS/Tierney L. Cross e REUTERS/Diego Vara O presidente da Argentina, Javier Milei, foi desconvidado para a posse de Lula, afirmou nesta terça-feira (24) o jornal argentino \"Clarín\". O presidente brasileiro assumirá em janeiro seu 4º mandato presidencial. ✅ Siga o canal de notícias internacionais d"
   },
   {
     "title": "Lula cita COP31 e diz que multilateralismo sofre sem cooperação de países",
@@ -1241,7 +1506,7 @@
     "url": "https://www.cnnbrasil.com.br/politica/lula-cita-cop31-e-diz-que-multilateralismo-sofre-sem-cooperacao-de-paises/",
     "date": "2026-11-24T17:01:57Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/PLENARIO-SESSAO-CONGRESSO-21-05-26.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Renata-2.jpg?w=200",
     "title_pt": "Lula cita COP31 e diz que multilateralismo sofre sem cooperação de países",
     "summary_pt": "Declaração se deu durante entrega de cartas credenciais de novos embaixadores, em cerimônia no Palácio do Planalto; governo recebeu credenciais de 14 representantes de países estrangeiros"
   },
@@ -1554,20 +1819,6 @@
     "summary_pt": "Edital de licitação prevê a compra de 11.214 kits de Natal destinados a servidores municipais, no valor inicial estimado na casa dos R$ 5,3 milhões"
   },
   {
-    "title": "Southport attack families’ fury after 13 survivors miss out on school funding",
-    "summary": "Six schools attended by girls injured in mass stabbing miss out on £1m allocated for staff, counselling and specialist support Families of girls injured in the Southport attack have said they are “horrified” that their daughters’ schools received no financial support after the atrocity while others were given “eye-watering sums”. It emerged on Tuesday that s",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/24/southport-attack-survivors-miss-out-on-school-funding",
-    "date": "2026-11-24T16:37:27Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/80a99271f81606cd2f253800316cb1ba61cf5f63/0_0_4840_3872/master/4840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4949d90b3b1e00444a2d2262032edfb",
-    "title_pt": "Southport ataca a fúria das famílias depois que 13 sobreviventes perderam o financiamento escolar",
-    "summary_pt": "Seis escolas frequentadas por meninas feridas em esfaqueamentos em massa perdem £ 1 milhão alocado para funcionários, aconselhamento e apoio especializado. Famílias de meninas feridas no ataque de Southport disseram estar “horrorizadas” porque as escolas de suas filhas não receberam apoio financeiro após a atrocidade, enquanto outras receberam “somas exorbitantes”. Surgiu na terça-feira que"
-  },
-  {
     "title": "La Generalitat anuncia la desescalada de las restricciones por la peste porcina pero no pone fecha para reabrir Collserola",
     "summary": "En la montaña sobrevive un jabalí por cada kilómetro cuadrado cuando hace un año había 20",
     "category": "Geral",
@@ -1594,6 +1845,18 @@
     "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/8d3a216a-b007-41d4-aaae-5e0e35a67dc5/thumbnail/1200x630/fbef4429daf27728001ed33722ff5bf7/mexico-screenshot-2026-11-23-093551.png",
     "title_pt": "Novos detalhes surgem sobre o envolvimento dos EUA na captura do traficante",
     "summary_pt": "Os EUA procuraram alinhar aliados em toda a América Latina para permitir que as forças dos EUA operassem nos seus territórios, com respostas mistas de toda a região."
+  },
+  {
+    "title": "From horsepower to firepower, Japan draws auto suppliers into major arms buildup",
+    "summary": "From horsepower to firepower, Japan draws auto suppliers into major arms buildup Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdUZzM0tBSzRyTkV6ZEQ0a21iaXQweDdPV1p2SW03amU0RVlEZ215OEstR1V3ZkhwR0xRTzVIcVRJdTFVQmxoYURsXzJhSnNxb0JCUjF4RW9aQnMwaTFBS0p4cVAzZS1xbW1tRkxWNFlqWmN6VTdzQXh2MnBLMV9YbUcxcy12NWFVSl84Z1JRUWlSTVF2TFF1TS05c3cwY2dMcGMwTzd1eGdSUFNnQXB6S3REZnRoMGVPdkVJQ3VCMWJORlo0SVVDeU9MdGdPYld3S2tN?oc=5",
+    "date": "2026-11-24T16:35:46Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Confiança do consumidor nos EUA atinge nível mais alto em quase dois anos",
@@ -1636,6 +1899,18 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG_0739-1795537950.heic?resize=1200%2C675",
     "title_pt": "‘Unfinished Beginnings’: instalação artística para crianças afetadas pela guerra",
     "summary_pt": "“Unfinished Beginnings”, do artista Bachir Mohamad, utiliza 20.000 mamadeiras para destacar as crianças afetadas pela guerra."
+  },
+  {
+    "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say",
+    "summary": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5",
+    "date": "2026-11-24T16:32:12Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "African rivals fret over Morocco’s growing football dominance",
@@ -1829,7 +2104,7 @@
     "url": "https://www.cnnbrasil.com.br/politica/pl-minimiza-voto-de-deputados-do-partido-a-favor-de-ajuste-do-governo/",
     "date": "2026-11-24T16:20:04Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/PLENARIO-SESSAO-CONGRESSO-21-05-26.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Renata-2.jpg?w=200",
     "title_pt": "PL minimiza voto de deputados do partido a favor de ajuste do governo",
     "summary_pt": "Ao todo, sete integrantes da legenda votaram alinhados com o governo; três seguirão como deputados federais no próximo mandato"
   },
@@ -1899,7 +2174,7 @@
     "url": "https://www.cnnbrasil.com.br/curiosidades/o-dia-em-que-a-modelo-do-onlyfans-mais-procurada-do-mundo-foi-presa-pelo-ice-nos-eua-veja-os-bastidores-dos-11-dias-em-detencao-americana/",
     "date": "2026-11-24T16:15:54Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/nacional-montagem-7.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/4021_9D291623A16BDA25-7.jpg?w=200",
     "title_pt": "O dia em que a ‘modelo do OnlyFans mais procurada do mundo’ foi presa pelo ICE nos EUA – veja os bastidores dos 11 dias em detenção americana",
     "summary_pt": "Com milhões de seguidores, a influenciadora holandesa Vera Dijkmans enfrentou custódia por suposta violação de visto e relatou rotina com restrições físicas e alimentares"
   },
@@ -2028,6 +2303,18 @@
     "image": "https://imagenes.elpais.com/resizer/v2/NC4ETJCVB5JJHMUOCCGOGQD6HY.jpg?auth=bae17cfedfc9e94a56ce51e2dada80d4957072ef49b31c1951e8a6209cb47cb4",
     "title_pt": "Anthropic perde o preço de abertura do capital quatro dias após a estreia",
     "summary_pt": "As ações caem até 13% e ficam abaixo dos US$ 83, valor pelo qual a empresa colocou títulos no valor de US$ 120 bilhões."
+  },
+  {
+    "title": "China's BYD in talks to buy French car factory from Ineos Automotive",
+    "summary": "China's BYD in talks to buy French car factory from Ineos Automotive Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMTVFdHUtZkhnUVF2LW9BQW1HWXUtSnFvUmFaOFN0TkY1RWtqZUx3bTBjY2p2ck5wNGpLT003cnF5dW9zQWRhX0lmcjBMS2dUc2ctdU44YW8wazA3NzkyX1M4SUhkdy1LNlc0bnJRVm1ySTVtUlRnMFJqaEJvR0tqX0w5T0dmdEdadDNfNW91dW16REg2R1BTaHhxODZET2hoSEhVemJRWGdkd0U4OW40QXJxbzRYc1ByX0RHZHpjWQ?oc=5",
+    "date": "2026-11-24T16:05:57Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Estados Unidos ultima nuevos aranceles a China, la UE y otra docena de países",
@@ -2261,7 +2548,7 @@
     "country": "FR",
     "source": "Le Monde",
     "url": "https://www.lemonde.fr/economie/article/2026/11/24/derriere-l-affaire-nvidia-un-vaste-reseau-de-detournement-de-puces-d-ia-au-service-de-la-chine_6814811_3234.html",
-    "date": "2026-11-24T15:49:58Z",
+    "date": "2026-11-24T15:49:52Z",
     "lang": "fr",
     "image": "https://img.lemde.fr/2026/11/23/1/0/5000/3333/1440/960/60/0/950de7d_ftp-1-4nenkwh1gj7l-2026-11-23t142223z-1619699420-rc2rkeajxlru-rtrmadp-3-nvidia-ceo.JPG",
     "title_pt": "Por trás do caso Nvidia, uma vasta rede de apropriação indébita de chips de IA servindo à China",
@@ -2324,20 +2611,6 @@
     "summary_pt": "Petrobras divulga plano de negócios de US$ 122 bilhões até 2031 e montante supera projeções do mercado financeiro"
   },
   {
-    "title": "Dois PMs são encontrados mortos dentro de viatura em São Gonçalo (RJ)",
-    "summary": "Segundo a PRF (Polícia Rodoviária Federal), a suspeita é de que a morte tenha sido acidental após os agentes inalarem monóxido de carbono no veículo",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/dois-pms-sao-encontrados-mortos-dentro-de-viatura-em-sao-goncalo-rj/",
-    "date": "2026-11-24T15:42:52Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/Design-sem-nome-1-1.png?w=200",
-    "title_pt": "Dois PMs são encontrados mortos dentro de viatura em São Gonçalo (RJ)",
-    "summary_pt": "Segundo a PRF (Polícia Rodoviária Federal), a suspeita é de que a morte tenha sido acidental após os agentes inalarem monóxido de carbono no veículo"
-  },
-  {
     "title": "Italy develops 'ambitious' business with 'strategic partner' Azerbaijan, Tajani tells Euronews",
     "summary": "Italy's Deputy Prime Minister and Foreign Minister Antonio Tajani told Euronews that Rome has sought to expand its business relations with Baku now that peace has brought stability and improved connectivity to the region.",
     "category": "Geral",
@@ -2364,20 +2637,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/WY5OQH224JBHNCYBGO6JZNBSOI.jpg?auth=899abd19c65868da5780e187b17e7cb80da1e18125145c74f611f1dbe901465f",
     "title_pt": "O Tribunal Arbitral do Desporto concorda com o Senegal e restaura a sua vitória na última Taça de África",
     "summary_pt": "A Confederação Africana de Futebol proclamou a seleção marroquina campeã em março passado, depois de a maioria dos jogadores senegaleses terem abandonado o campo durante a final."
-  },
-  {
-    "title": "Senegal é bicampeão da Copa Africana após decisão definitiva do CAS",
-    "summary": "Tribunal máximo do esporte reverte punição imposta pela CAF e garante a taça continental ao país africano",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/senegal-e-bicampeao-da-copa-africana-apos-decisao-definitiva-do-cas/",
-    "date": "2026-11-24T15:39:46Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/GettyImages-2265266260-e1778861536330.jpg?w=200",
-    "title_pt": "Senegal é bicampeão da Copa Africana após decisão definitiva do CAS",
-    "summary_pt": "Tribunal máximo do esporte reverte punição imposta pela CAF e garante a taça continental ao país africano"
   },
   {
     "title": "Terremoto de magnitude 4.7 — 18 km ESE of Güvercinlik, Turkey",
@@ -2410,20 +2669,6 @@
     "summary_pt": "O interesse em criar hobbies, como tricô ou cerâmica, não é novo, mas vários fatores após a pandemia também os tornaram atraentes. Aqui estão algumas sugestões para retiros práticos."
   },
   {
-    "title": "Após 3 meses, SP encerra surto de sarampo; estado chegou a 41 casos em 2026",
-    "summary": "Estado de São Paulo registrou 41 confirmações da doença em 2026 e todos os pacientes afetados com sarampo já estão recuperados; monitoramento dos casos continua",
-    "category": "Saúde",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/saude/apos-3-meses-sp-encerra-surto-de-sarampo-estado-chegou-a-41-casos-em-2026/",
-    "date": "2026-11-24T15:37:28Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/sarampo-novo-caso-rj.jpg?w=200",
-    "title_pt": "Após 3 meses, SP encerra surto de sarampo; estado chegou a 41 casos em 2026",
-    "summary_pt": "Estado de São Paulo registrou 41 confirmações da doença em 2026 e todos os pacientes afetados com sarampo já estão recuperados; monitoramento dos casos continua"
-  },
-  {
     "title": "Israeli air strike kills Hamas internal security chief in Gaza",
     "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
     "category": "Geral",
@@ -2452,20 +2697,6 @@
     "summary_pt": "A diretora de um filme indicado pelo Canadá ao Oscar do próximo ano disse ao FRANCE 24 que se inspirou nas histórias de uma criança pintora prodígio, bem como na ideia de identidade e no que você deixa para trás quando muda de país. O filme \"Nina Roza\" conta a história de um búlgaro que deixa sua terra natal com a filha e se estabelece como curador de arte"
   },
   {
-    "title": "MP Eleitoral pede desaprovação de contas do senador eleito André do Prado",
-    "summary": "Manifestação da Procuradoria Regional Eleitoral em São Paulo cita relatório da área técnica do TRE-SP que aponta atraso na comunicação de repasse de R$ 3,5 milhões do PL à campanha do parlamentar",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/politica/mp-eleitoral-pede-desaprovacao-de-contas-do-senador-eleito-andre-do-prado/",
-    "date": "2026-11-24T15:31:03Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/nacional-montagem-7.jpg?w=200",
-    "title_pt": "MP Eleitoral pede desaprovação de contas do senador eleito André do Prado",
-    "summary_pt": "Manifestação da Procuradoria Regional Eleitoral em São Paulo cita relatório da área técnica do TRE-SP que aponta atraso na comunicação de repasse de R$ 3,5 milhões do PL à campanha do parlamentar"
-  },
-  {
     "title": "Midterms : une victoire démocrate historique, traduite par la conquête de lieux de pouvoir stratégiques",
     "summary": "Avec 56 sièges remportés au Sénat et au moins 258 à la Chambre des représentants, les démocrates remportent une victoire au moins égale à celle de Bill Clinton à l’élection présidentielle de 1992. Le rejet de Donald Trump a également fait basculer dans le camp démocrate la majorité des sièges de gouverneurs.",
     "category": "Geral",
@@ -2478,20 +2709,6 @@
     "image": "https://img.lemde.fr/2026/11/04/0/0/2560/1706/1440/960/60/0/87adb77_upload-1-gslm10b4mrrk-11-3-2026-tova-katzman-austin-election-results-21.jpg",
     "title_pt": "Meios de mandato: uma vitória democrata histórica, traduzida pela conquista de lugares estratégicos de poder",
     "summary_pt": "Com 56 assentos conquistados no Senado e pelo menos 258 na Câmara dos Representantes, os Democratas obtiveram uma vitória pelo menos igual à de Bill Clinton nas eleições presidenciais de 1992. A rejeição de Donald Trump também transferiu a maioria dos assentos dos governadores para o campo democrata."
-  },
-  {
-    "title": "O que é a Megaspeed, cliente da Nvidia suspeita de espionagem para a China",
-    "summary": "Empresa de Singapura era comandada por Alice Huang, executiva que teve caso extraconjugal com CEO da Nvidia e é suspeita de manter relações com a inteligência chinesa",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/o-que-e-a-megaspeed-cliente-da-nvidia-suspeita-de-espionagem-para-a-china/",
-    "date": "2026-11-24T15:30:01Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-12T210350Z_1_LYNXNPEMAB28E_RTROPTP_4_NVIDIA-CEO.jpg?w=200",
-    "title_pt": "O que é a Megaspeed, cliente da Nvidia suspeita de espionagem para a China",
-    "summary_pt": "Empresa de Singapura era comandada por Alice Huang, executiva que teve caso extraconjugal com CEO da Nvidia e é suspeita de manter relações com a inteligência chinesa"
   },
   {
     "title": "EN DIRECT, guerre en Ukraine : la Russie confirme la suspension du trafic routier sur le pont de Crimée",
@@ -2718,6 +2935,20 @@
     "summary_pt": "A Comissão calcula que as contas espanholas acumulam um desvio de mais de 5.000 milhões de euros em compromissos fiscais"
   },
   {
+    "title": "Tarifaço de Trump: EUA preparam aumento de tarifas contra China, União Europeia e mais",
+    "summary": "O presidente Donald Trump se reúne com o presidente chinês Xi Jinping e o presidente russo Vladimir Putin na Vila Kylin em Shenzhen, na província de Guangdong, no sul da China, na quinta-feira, 19 de novembro de 2026 Mark Schiefelbein/AP Os Estados Unidos se preparam para aplicar novas tarifas sobre produtos da China, da União Europeia e de outras 14 economi",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "G1 Mundo",
+    "url": "https://g1.globo.com/economia/noticia/2026/11/24/eua-tarifas.ghtml",
+    "date": "2026-11-24T15:03:32Z",
+    "lang": "pt",
+    "image": "https://s2-g1.glbimg.com/9HGMhfzAgrFKCX0Xc43dUWajWPk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/0/RSx2FtQ7OJNMOU0arvMA/ap26323327789634.jpg",
+    "title_pt": "Tarifaço de Trump: EUA preparam aumento de tarifas contra China, União Europeia e mais",
+    "summary_pt": "O presidente Donald Trump se reúne com o presidente chinês Xi Jinping e o presidente russo Vladimir Putin na Vila Kylin em Shenzhen, na província de Guangdong, no sul da China, na quinta-feira, 19 de novembro de 2026 Mark Schiefelbein/AP Os Estados Unidos se preparam para aplicar novas tarifas sobre produtos da China, da União Europeia e de outras 14 economi"
+  },
+  {
     "title": "VÍDEO: ilha deserta na China é transformada em refúgio para gatos de rua",
     "summary": "Ilha deserta na China vira refúgio para gatos de rua Em uma pequena ilha de cerca de 1.500 metros quadrados na Nova Área de Tianfu, em Chengdu, capital da província de Sichuan, no sudoeste da China, uma área que antes estava abandonada foi transformada em um refúgio para gatos de rua. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O espaço não a",
     "category": "Geral",
@@ -2744,6 +2975,18 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795532171.jpg?resize=1920%2C1080&quality=80",
     "title_pt": "Rússia reboca navio de carga de volta para casa após ataque de drone ucraniano",
     "summary_pt": "O navio de carga russo Sparta II foi rebocado de volta às suas águas após um ataque de drone ucraniano no Golfo da Finlândia"
+  },
+  {
+    "title": "China probes Shanghai party boss Chen Jining, marking fourth Politburo member to fall since 2025",
+    "summary": "China probes Shanghai party boss Chen Jining, marking fourth Politburo member to fall since 2025 Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWENXdFJEUVN5WUF1ODgwSWdpRUZiSWk0UVFoX3QzbVF4N19LRDJmaUdpTm1ZVlU2Rmx2Zm5hX1RleFg2aDRjWlN6QTBCM1JNc0VOZ2FRbEFvVUYyNF96REhoU0RsUTVyVkYzUXVfdmFHaTQxMnk2WVZQWU1XR25NaGV0TERXS2RtVmR6bVBCZ1loZHRzZzlQajlZdjkySHhpdDJV?oc=5",
+    "date": "2026-11-24T14:56:18Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Migrant caravans head north through Mexico towards US border",
@@ -2879,7 +3122,7 @@
     "country": "US",
     "source": "The New York Times",
     "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
-    "date": "2026-11-24T14:42:30Z",
+    "date": "2026-11-24T14:42:31Z",
     "lang": "en",
     "image": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg",
     "title_pt": "A China investiga Chen Jining, líder do Partido em Xangai, à medida que as purgas de Xi se expandem",
@@ -2912,6 +3155,18 @@
     "image": "https://static.dw.com/image/80017680_6.jpg",
     "title_pt": "Porque é que a cadeia de abastecimento de medicamentos do Irão está a falhar",
     "summary_pt": "As farmácias no Irão estão a fechar, as entregas aos hospitais estão paralisadas e os pacientes estão a racionar doses ou a recorrer ao mercado negro."
+  },
+  {
+    "title": "Medtronic misses quarterly revenue estimates after diabetes business spinoff",
+    "summary": "Medtronic misses quarterly revenue estimates after diabetes business spinoff Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTdJMTVmekw4SkV5cXlGbzZkblkzRXZ0Z1lQTEtlVXp1elFnRFJlT25Na1B5a295SHhXV1F5cE50dkdxS3NjWkVFc3VwdXFJSXh3XzNmWGZwUnBWaWVfV3phVGFCNEF0ZUNnbmFIcWNWWVZoR2tSWE1yZWt4U3hEWHBoeTdlMjM4WXJnbjk1TnR2NEQ4bFpUbnhyaTJLR2ROQmJhY0xxbG4tQU1lcVVTdU5XeFF2N00wRy1qWElvRkZNS2NHWnRkNXcxcGtwWkZNSlV3?oc=5",
+    "date": "2026-11-24T14:35:57Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco",
@@ -3263,6 +3518,18 @@
     "summary_pt": "Os candidatos às eleições presidenciais francesas do próximo ano compareceram ao 108º Congresso de Autarcas Franceses, em Paris, na terça-feira, na esperança de obter apoio para as suas campanhas. Relatórios de Luke Shrago da France 24."
   },
   {
+    "title": "EU members lean toward including British EVs in 'Made in Europe' scheme",
+    "summary": "EU members lean toward including British EVs in 'Made in Europe' scheme Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3VhTUtUbXpnYWg5WURUY2RpRzNhdzFXX1N2S0RRNGZXcDd1VnEtM0R3RG9TcnNKQWhBdXpfbjkwNjRQSlEyODU2OGJRNkcxYlNjWHprcURKVWJLZEZVSlpyaC1MQ0pnejBSdUluNldueFVsMURGZ0h6b2pGcmZTdG51V0dIWkt6dnRXckxJbWZQdE9yd21RSzR1b3ZEMlhtbVl1U2VvU2x6VGhOWkRoaQ?oc=5",
+    "date": "2026-11-24T13:50:09Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "Trump's role in Huang's Nvidia return under scrutiny",
     "summary": "Jensen Huang's return as CEO of Nvidia was greeted with triumph by US President Donald Trump, and the AI chipmaker's stock price was sent soaring. But the national security implications of Huang's extra-marital affair with an alleged Chinese spy, as well as Trump's intervention in the operations of a company in which he holds stock, have stirred anger in Con",
     "category": "Geral",
@@ -3319,6 +3586,18 @@
     "summary_pt": "O dirigente deixa o cargo após a entidade patronal ter apoiado a denúncia da União Europeia de Clubes contra o acordo entre a UEFA e a Associação Europeia de Clubes, da qual o CEO do Atlético faz parte da diretoria."
   },
   {
+    "title": "Sooryavanshi, 15, blasts 204 off 53 balls for India A",
+    "summary": "Sooryavanshi, 15, blasts 204 off 53 balls for India A Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekZyYkNiWlh4RzFIOW9BRkFJaHdTSzhxcERlbmlkZS1NSzdqS3R6WmwxWEJzd21adkE4MEJKMTA5aG0zUVZUT1NxNmdXX2NqR2p4SHV1emRMYXdyaHI5ekYyTFlWelZyb1B4M2hGQkZtUUh5VGVJRWRrU1pCRnRjYTNiM213MTAzQVhWeVFhNERSZnQtc0dEUVNMTGg?oc=5",
+    "date": "2026-11-24T13:41:43Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
     "summary": "Six years after leaving the country, the Sussexes are back and arranging a careful program of public appearances. Will they complement the royal family, or compete with it?",
     "category": "Geral",
@@ -3359,6 +3638,18 @@
     "image": "https://s.france24.com/media/display/49b19f2a-e800-11f1-b97c-c131ae9bfe9c/w:1024/p:16x9/EN-20261123-225155-225317-CS.jpg",
     "title_pt": "RD Congo e Quénia concordam em restabelecer laços",
     "summary_pt": "Depois de anos de relações tensas devido ao conflito no leste do Congo, Kinshasa e Nairobi estão a avançar no sentido de uma retoma diplomática. O Presidente da RD Congo, Felix Tshisekedi, reuniu-se com o seu homólogo queniano, William Ruto, no fim de semana e eles concordaram em restaurar os laços normais e aprofundar a cooperação económica e regional. Relatórios de Emmet Livingstone."
+  },
+  {
+    "title": "Nvidia board's Huang reversal raises doubts about independence, critics say",
+    "summary": "Nvidia board's Huang reversal raises doubts about independence, critics say Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc0s4b2VlR0lnRDlhYWpheHZuRHcwNmd3VWFzUFZTZkNfbjlYaG8ybDVjZ1d4VlFXS3JaZmFWTjhkTlpaeTBKVTN3aGV1eERkMFlmZGRxUzVsYzRaZFhNblp5S2d0czFZV3ZJZVpOc0c4YlJJazhiQzlYYkFJYUo5YnhfMklmdDVGVklQMHBCQkN6dVRLQkRHWEFGaDZQMFBDblJzam5wSTFxdWd5SUdNRXdpUVRSVzNFYmNOUFo0SkllU0FMSF9lbQ?oc=5",
+    "date": "2026-11-24T13:35:26Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Land mine deaths reach five-year high, watchdog says",
@@ -3433,6 +3724,18 @@
     "summary_pt": "À medida que o número de mortos subiu para 26, uma equipe de resgate disse que mais vítimas poderiam ser encontradas perto de uma escada do prédio. A polícia abriu uma investigação criminal."
   },
   {
+    "title": "Number of EU laws has more than doubled since 2010, study shows",
+    "summary": "Number of EU laws has more than doubled since 2010, study shows Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWNpUUdiNzVaUzFSNmZJUV93dVFKc05Cc19FVS01c0FwN1F4OURYUHRnVFhjZXYxQWFwOUx2ZG5OV3Y2Mm1RQ0dqR0l4NzJoZmo0dThaN2RhVDYtMjlPSDh2cXpIalBnRm5CZ19KNjRGOXBDblF1LWN0czl5eDZ0c3VOTkQ5WkE3N2l3dVJGcTFjN093M3hCeQ?oc=5",
+    "date": "2026-11-24T13:08:39Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "Israeli strikes on Gaza kill senior Hamas security official and six other people, medics say",
     "summary": "Israeli air strikes on the devastated Gaza Strip killed Brigadier General Naeem Abu Nahel, director-general of the Palestinian territory's Internal Security Service on Tuesday, the ministry said. Another six people, including two police officers and a 17-year-old teenager, were killed in Israeli strikes across the enclave.",
     "category": "Geral",
@@ -3445,6 +3748,18 @@
     "image": "https://s.france24.com/media/display/627512ce-e802-11f1-ad6d-1991d4929b54/w:1024/p:16x9/000-D7J44LE.jpg",
     "title_pt": "Ataques israelenses em Gaza matam alto funcionário de segurança do Hamas e seis outras pessoas, dizem médicos",
     "summary_pt": "Os ataques aéreos israelenses na devastada Faixa de Gaza mataram na terça-feira o brigadeiro-general Naeem Abu Nahel, diretor-geral do Serviço de Segurança Interna do território palestino, disse o ministério. Outras seis pessoas, incluindo dois policiais e um adolescente de 17 anos, foram mortas em ataques israelenses no enclave."
+  },
+  {
+    "title": "Spotify back online after brief outage, Downdetector shows",
+    "summary": "Spotify back online after brief outage, Downdetector shows Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDN6R0pjNFo5VFRaOGNYNGplaE1zcnFCeWlCdDVXY2dQOGM4bngxMTZMTktuNmhOWDVGTzJ4aWR1azVFV0xYUXJzV1FBOTFHOEJUSFZPTzE4VW05QnRtcHBiX1VTZnlJVHh0TlY1N0k0SXpCcDhNMkF5WVRiX1RsX0dsQXczck5wRjZtNEtrbE1OdFB0YVFqY3VB?oc=5",
+    "date": "2026-11-24T13:05:17Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Hacienda rebaja el IRPF de los autónomos y elimina los pagos trimestrales del IVA para los pequeños negocios",
@@ -3643,18 +3958,40 @@
     "summary_pt": "Parastoo Ahmadi cantou sem usar o véu obrigatório num concerto virtual em 2024 que se espalhou rapidamente online e atraiu a ira das autoridades da república islâmica."
   },
   {
-    "title": "Malasia deportará a miles de rohinyás en diciembre pese a la condena por genocidio a Myanmar",
-    "summary": "Turquía rechaza acoger a los 10.000 refugiados de la minoría birmana que el Gobierno malasio dio por reubicados allí",
+    "title": "Xiaomi profit falls as China auto downturn weighs, eyes Europe car market",
+    "summary": "Xiaomi profit falls as China auto downturn weighs, eyes Europe car market Reuters",
     "category": "Geral",
     "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-24/malasia-devolvera-a-miles-de-rohinyas-en-diciembre-pese-a-la-condena-por-genocidio-a-myanmar.html",
-    "date": "2026-11-24T12:31:09Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/WJKLF6PR6JKEZDN54SLYYQAQII.jpg?auth=97c1d9c0ab2c5f572aa1e83ada5f8829410ef53d716c3a3a30f38360bf9ed18a",
-    "title_pt": "A Malásia deportará milhares de rohingyas em dezembro, apesar da condenação de Mianmar por genocídio",
-    "summary_pt": "A Turquia se recusa a acolher os 10 mil refugiados da minoria birmanesa que o governo da Malásia considerou realocados para lá"
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTdNQlhOOXJOaGNReUtEVmRIekJ3cG5hbzJhbUM5SFVlc2M0SUIwMDA1eU81NHBQN0x3MEZEd0VyNnR3Y2NWTVBueTBZTHUzNDNRZlJsQy03RG5tdkFybi13cGt6OFdfZG91a1UzT0Nabnk1dHN0emdfZUhCWE51WHBORFJJRWgyQlNFbUtUNkluRU9qdlprNjJXRlZkVFBD?oc=5",
+    "date": "2026-11-24T12:34:18Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
+    "title": "US bill aims to clear hurdle to medication for people with opioid addiction",
+    "summary": "US bill aims to clear hurdle to medication for people with opioid addiction Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSHFPaFBuVUJnRXZ6T0xnbHdtN0xLcUwtMUhLY040YTlPT0FxZ0dHelJ3VkZVXzc5M1NUOFJYbEJxeDA2QXpNNlhndFJscTczWkt3NHVyeGZLcGp5Tlgtc2hmN0JzcmNSU0dnYzlyZ2tIZnZzOHZPTTQ4X1ZoVWhCNWtveHNDV29lTmgwZkd4M3l4emZUckFVYXpKczdoQlh2WktFTDR6SkdNM25IUXF1dVktZUQyYlFqb3c?oc=5",
+    "date": "2026-11-24T12:34:00Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
+    "title": "US malls make a holiday comeback as shoppers seek more than deals",
+    "summary": "US malls make a holiday comeback as shoppers seek more than deals Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ25sNHZjclNNMU5UMTlEenRWYTBtZkpwNllhVVFxMzhwaTVBb0V6SzVZNHp1RlJKa0MteXFzUkFWenM5SlhjLTd5UGdOSEZvaW96ZG01NEk5QkwxZ25NQ0hQRU9HX0VNbGR1RXNYaDhEcTFWeFlXMUstVml4Q1RBMURfdy1kTFFLN1piWjRPTHFqN2x4eW9GZVc4d3llbXBDc2Q1TVdQZ2o4SUNqMklJZzJ1anJnYnEwdFVMUTNn?oc=5",
+    "date": "2026-11-24T12:30:21Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "VIH/sida : la chute des financements internationaux fragilise la lutte contre l’épidémie, pointe l’Onusida",
@@ -3797,6 +4134,18 @@
     "summary_pt": "Bombardeiros russos sobrevoam Mar do Japão Bombardeiros estratégicos russos entraram na zona de identificação de defesa aérea da Coreia do Sul, informou nesta terça-feira (24) a agência de notícias sul-coreana Yonhap, após corrigir uma informação anterior segundo a qual uma suposta aeronave norte-coreana havia violado o espaço aéreo do país. A Rússia falou e"
   },
   {
+    "title": "What we know about Megaspeed, the Nvidia customer blacklisted by US",
+    "summary": "What we know about Megaspeed, the Nvidia customer blacklisted by US Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWVhaTZ1VE1DODl2cm9KdXRyTWgwV1Q4cjRsSzRhOG1wU3FjLUtKajNVN2NIV1VqNU9OS0tTMkF1T1NTTFRiTEtIT1V6aXMzbDctRnR5X3ZTbVFRdEQ5NGE2ZnlOa0c4YjhzN3pRbUJzQTlUZDZwRE5SNlhOSjVzY1UxaXlZWTRDNm1RNmFHLXhZOU40Tm9UcnBKdnVfcnJTemFhT21EOEE1Y3dtNkR3VmZxV0VHTHhGSWVpYlNoSk0?oc=5",
+    "date": "2026-11-24T12:01:13Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "Las víctimas de la dana de 2024 piden limitar el aforamiento de los diputados de Les Corts afectados por casos con víctimas mortales",
     "summary": "Una asociación propone modificar el Estatuto de Autonomía para que se sometan a la jurisdicción penal ordinaria en determiandos procesos",
     "category": "Geral",
@@ -3869,6 +4218,18 @@
     "summary_pt": "A princesa de Gales disse que o câncer a fez confrontar suas próprias vulnerabilidades, em um novo trecho de seu próximo documentário, Heal."
   },
   {
+    "title": "Bangladesh garment workers clash with police as pay protests shut factories",
+    "summary": "Bangladesh garment workers clash with police as pay protests shut factories Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSk9tZVJkeVE3S3BJa0RXYlBQTWl5b3hndUYzNTUtSHRKUjUwTmI0dGN2clF6MUFRNms5djczY1FYeWhBWk41WW1jZFp1Z214ZlIwb1hzNUg0Tzh1N3ZiTUdnNXdDUWtBeW1sSlI5d2lMMThSb05RNkhUaWUyVWVOVWJDWUI0eUNSZmNPTWNidG8zWVV1bGRBWWZfWEVlRWdrU1dpLTBDTTdscVVkOUdJcmVCNmFtUG9TZHBXYnpxdHFiMmlZeElydmxNMA?oc=5",
+    "date": "2026-11-24T11:54:23Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "El papa Francisco asegura en su diario íntimo que vio al diablo tres veces: “No olvido sus ojos amenazantes y a la vez seductores”",
     "summary": "El Vaticano publica los apuntes de la agenda personal del Pontífice entre 1992 y 2024. Percibió el escándalo de la pederastia como la “entrada del infierno”: “Qué vergüenza y qué mal le hace a la Iglesia”",
     "category": "Geral",
@@ -3913,6 +4274,18 @@
     "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
+    "title": "UK prisoner admits 'cold-blooded' murder of child killer Huntley on second day of trial",
+    "summary": "UK prisoner admits 'cold-blooded' murder of child killer Huntley on second day of trial Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVWFWRWtGRHFfWFBfaDNoMHk1R1l6MlNjdWRrVHJiSWNpaXJjbFBfZHA1YWFUcWRWdXEyeURxc3F6RGZnX2tjelBxWExjdi1xZGRabVlaWjdhTHlHWGk4S2U3NVBhbDIzN2hCXy1SMHlkMm1WakhKZGlGbFFyaTRWTHVzdndFdGx6bFBnN2VZSHY3blppNnpCbkk3TFVEUkkyQ3FOZ2VKOWNfMzV3V203aHp3Y3kyUzhyMy00dmJoQXdXUmViUGZRaw?oc=5",
+    "date": "2026-11-24T11:48:46Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "Car bomb tears through Colombian city wounding more than 20",
     "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
     "category": "Geral",
@@ -3953,6 +4326,18 @@
     "image": "https://imagenes.elpais.com/resizer/v2/KB4SSQ5R25BITKC3UDCJQ65BW4.jpg?auth=765afbf1ee770e378a2aa64a5b226a10fba495a2249da22d209b248b3f362358",
     "title_pt": "Mulher ligada ao narcotráfico afirma que um ex-juiz a encarregou de \"eliminar\" a juíza Biedma",
     "summary_pt": "O ex-magistrado Tejada, apontado como colaborador de Leire Díez, interroga Cintia Rocho e eles se enfrentam no Tribunal Nacional"
+  },
+  {
+    "title": "China Southern Airlines unit to buy 50 Boeing 737-8 aircraft at $7.4 billion list price",
+    "summary": "China Southern Airlines unit to buy 50 Boeing 737-8 aircraft at $7.4 billion list price Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeko4UlRESEhUV2xFR2JHbnFic04yTlZiMkpaU2FVS2w0TzV3djlxNHVicmFNUXpDV2FfamtPWlh2NW5HOUdfOXpDWEpmWlY3dUlhSFVwb2FocWtVR1Rjd3Nramp0VVJhSTB1dzJBS0UzWmx5VVptamdRbkhtcDNfSVZwN3dFOENnOFRnUmJILTVvRXM5YlZyMzQ0ckNFQUczX1RRd0pNZXkxUUhCbklaeFRR?oc=5",
+    "date": "2026-11-24T11:42:58Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Tarifaço de Trump: EUA barram primeira tentativa do Brasil de julgamento na OMC",
@@ -4011,6 +4396,18 @@
     "summary_pt": "Os detidos, que foram presos, estão ligados a uma rede que transferia fundos para a organização terrorista na Faixa de Gaza."
   },
   {
+    "title": "Narrow majority of Germans oppose military aid to Ukraine in survey",
+    "summary": "Narrow majority of Germans oppose military aid to Ukraine in survey Reuters",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUHJBa1I4ckctdE9mNTh4RTVHZHdqazBiR0pZVG1iUVlSUl9vWUdvVEJpdHA3ejUxQkxIRnpCeFl4YkY4YjNBU2ZSYnpBYUNWVDEzUXVHbXEwUFgtaFhnUFRxbWdLM2x3UXpwLTdVMFJJdWNkTlZ6RXVLcGhSV0Qxb1dtU3FnUDZZaE5JRWVJRDJfZ0JXNXQtZk9qLUxIU2E5ekE?oc=5",
+    "date": "2026-11-24T11:25:47Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "Carbon capture was a sticking point at COP31: Is it a delay tactic or genuine solution?",
     "summary": "The technology has been found to be “technically uncertain and very high cost” - yet the European Commission is funding it.",
     "category": "Clima e desastres",
@@ -4025,6 +4422,18 @@
     "summary_pt": "Verificou-se que a captura e o armazenamento de carbono são \"tecnicamente incertos e de custo muito elevado\" — no entanto, a Comissão Europeia está financiando-os."
   },
   {
+    "title": "AI boom looms over Warsh's Fed as inflation worries grow",
+    "summary": "AI boom looms over Warsh's Fed as inflation worries grow Reuters",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLTBqVnllWWdXMThBVk1EbTYyUVgwVW9RYTR6TW1faTkwM2R3eV9yRVQ4VUkteFBMbS1TdDRCb2VzZXNCT0kySThGTUg2d3EyalZpMHZrZEltcko1Ui1lTGdlSS1PZUpiQlo1WGlxbG1hclV2NC1pUU5YU01GbjB2R2dPMFZQUVBoSGRBMXBhNnRDZ1JUdURuamtRWkpTdw?oc=5",
+    "date": "2026-11-24T11:25:29Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "Man with Alzheimer's found alive after 11 days lost in jungle",
     "summary": "Rescue workers said the man survived in the jungle by eating berries, drinking water from natural sources and making bedlike structures with the leaves of acai palms.",
     "category": "Geral",
@@ -4037,6 +4446,30 @@
     "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/24/cc5e7e2d-1def-4915-a25f-977ed01f7f00/thumbnail/1200x630g8/87289ca712d8f1fd82588a809c33c304/brazil-screenshot-2026-11-24-060353.png",
     "title_pt": "Homem com Alzheimer é encontrado vivo após 11 dias perdido na selva",
     "summary_pt": "Os socorristas disseram que o homem sobreviveu na selva comendo frutas silvestres, bebendo água de fontes naturais e fazendo estruturas semelhantes a camas com as folhas de palmeiras de açaí."
+  },
+  {
+    "title": "Roche expects approved cancer pill to become its best-selling drug",
+    "summary": "Roche expects approved cancer pill to become its best-selling drug Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ0ZIVTBMSV9JZVhObUNuZ09CNXMwd0lHb083NUNCRmNzdWtDcTRTUVlsZjhLbUZPMm1KR0FQN0VoRW1MQUtWcUxEWllKeWU1TDdaNmlsdk95UE9oUGxOdEU0TXFpSmdXWGxuRHhOSVNidzVJbnNkNFRzTzBBblRqdkh0WU5Ra1kxa3dQRUdjMlZxWU1mVloyZnUyQ1FQLWlyNDZCeThPUk1oTER2dEtfd3RjYmhvRVk?oc=5",
+    "date": "2026-11-24T11:19:20Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
+    "title": "Airlines, squeezed by high fuel costs, rethink jet financing strategy",
+    "summary": "Airlines, squeezed by high fuel costs, rethink jet financing strategy Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX3FMUjJQUjM5RndMUHBGRnM4LWY3eVcwX2dPTnNWWURVVlp2aXZRMG5IWGNKMGFJTFhRY2pSMThVMnpzbnR1bklPNWNVZXlUWTNFVXBHOU9zR1NucVd1Q2x3em1icFZldGpacHVyVUNhUjdzNVZqSEJEMkFpNFN4THJyZU9vVEJUeC1FS0NfTlNXcUxIWS1qLUt3WUJNV3hwdF9vVFNtWWtadUxta0c5Y2pObzJ1cms2Z1N3?oc=5",
+    "date": "2026-11-24T11:17:22Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Latvian president sees possible 'tipping point' in Ukraine war next year",
@@ -4209,18 +4642,16 @@
     "summary_pt": "Os funcionários da Nvidia vibraram e aplaudiram o CEO Jensen Huang quando ele retornou à sede da empresa em Santa Clara, Califórnia, na segunda-feira, 11 dias após ter se afastado do cargo."
   },
   {
-    "title": "Canicules : en Angleterre, les vagues de chaleur ont fait plus de 5 200 morts durant l’été 2026",
-    "summary": "L’agence de sécurité sanitaire britannique ne publie pas à ce stade d’éléments sur l’âge, la répartition géographique et les causes précises de ces morts, comptabilisées entre mai et septembre.",
+    "title": "Moroccan federation reports incident to CAS during Senegal AFCON appeal, source says",
+    "summary": "Moroccan federation reports incident to CAS during Senegal AFCON appeal, source says Reuters",
     "category": "Geral",
     "region": "Global",
-    "country": "FR",
-    "source": "Le Monde",
-    "url": "https://www.lemonde.fr/planete/article/2026/11/24/canicules-en-angleterre-les-vagues-de-chaleur-ont-fait-plus-de-5-200-morts-durant-l-ete-2026_6814748_3244.html",
-    "date": "2026-11-24T10:55:48Z",
-    "lang": "fr",
-    "image": "https://img.lemde.fr/2026/11/24/0/17/4966/3311/1440/960/60/0/08c994c_upload-1-xi0encgqogat-000-b8ae4ap.jpg",
-    "title_pt": "Ondas de calor: na Inglaterra, as ondas de calor causaram mais de 5.200 mortes no verão de 2026",
-    "summary_pt": "A agência britânica de segurança sanitária não está divulgando, nesta fase, informações sobre a idade, a distribuição geográfica e as causas exatas dessas mortes, registradas entre maio e setembro."
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTlJaWGxXTkJTQmxxa1djNFRERGhsZWM5TnMxYTRPQTRUNlNzRlNiZnFVOWNLYURZSEpmYlhpU0VuWThBVldDU243Zk56dC1zRDRDX1ZrZFdZc0lTSTVybWVYYnhhbF9SUWxaQ3d3bUU5WHFqcFZodkN2TkRndzVPaUwtczJsQnFObHY1Si0zenBDWVdjeDE4S1dVTUlBcVlpZjl0SENEOWhaalZqTFJDbFVFbGoycW41dnRjU2NSbjIwMXhvbzgxQ3VR?oc=5",
+    "date": "2026-11-24T10:53:44Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
@@ -4307,6 +4738,18 @@
     "summary_pt": "Jensen Huang volta à presidência da Nvidia Três acontecimentos surpreendentes marcaram o último dia em torno do retorno de Jensen Huang ao cargo de CEO da Nvidia, depois que ele admitiu ter tido um caso amoroso com uma mulher apontada como uma espiã chinesa. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O anúncio inesperado de seu retorno à fab"
   },
   {
+    "title": "US envoy 'not certain' military aid to Israel will end this year as Trump promised",
+    "summary": "US envoy 'not certain' military aid to Israel will end this year as Trump promised Reuters",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVBIRjVvdm1kSlZiZHR3Q2M0aEw4UTRvR2p0eGpXVFJ6ZE5wcm52UjZkaXh1UGE2VWhpajc2aGxTT2l1UGxQQ05RTVZERHJvaHF0YVhsMkZVYWpNWkttMlBRN1piVTc1RnlYbXFqcWczVjlpSG5mZXhqMVh4bG5yekFpMzE4VG9nclNucXFValJZY0MzY0JZaE9KNlM2dWJJYm1YNEpfWlZrQXFaU0c3bzBaRDFVc05tT0RB?oc=5",
+    "date": "2026-11-24T10:37:03Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
     "summary": "Sanae Takaichi welcomed the court’s president and vowed to accelerate financial support despite an effort by the Trump administration to cripple the global body.",
     "category": "Geral",
@@ -4319,6 +4762,18 @@
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-japan-icc-qkgc/24int-japan-icc-qkgc-mediumSquareAt3X.jpg",
     "title_pt": "O líder do Japão, rompendo com os EUA, defende o Tribunal Penal Internacional",
     "summary_pt": "Sanae Takaichi deu as boas-vindas ao presidente do tribunal e prometeu acelerar o apoio financeiro, apesar dos esforços do governo Trump para prejudicar o órgão global."
+  },
+  {
+    "title": "French police officer who shot teenager will face murder trial",
+    "summary": "French police officer who shot teenager will face murder trial Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGkyM3pxV25SRFhXMzlEYmpkaVg1ckxDcldhTFFjd2NnQ0tJQXF1NG1yNHlvM0QtUHNIWlVQMDg2bzdwMG1iUnh0ZlNMV19UTGo3Z1BxZW50MnJTektrWHJMVkt5b0NoeHF1U1ExdjFQU0p2T0Etb0hxS0Jwc25aOTIwUEtGb19OQmNJc3ZReWZlckFxNFJfaEtTN2UxOGdHUFZEZVFFRQ?oc=5",
+    "date": "2026-11-24T10:30:09Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Muere en el hospital el narco colombiano tiroteado en un garaje de Valdebebas",
@@ -4671,6 +5126,18 @@
     "summary_pt": "Imagens recém-divulgadas de câmeras corporais mostram o momento em que as tropas detiveram \"El Chapo Isidro\", que havia conseguido escapar da captura por anos."
   },
   {
+    "title": "China, India set for record Russian oil imports in 2026, but demand seen peaking",
+    "summary": "China, India set for record Russian oil imports in 2026, but demand seen peaking Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEl6LThLbVZLWTlSU3lNdHJLa2dnanBPQjdqRGdaeDd2bGU4VmpzVnRRZ1VETzdRelFLWnI0QVVkUE0tUUE0TDkyR2lpcEMzUGNFS09iWW1LREpvOHJkb25Fdkd2MWFSYWZQRkwwbGpQR21sYkxvRXI5ZHBJTGcxTzVDdGNWdjktUFQ2OTRsYmlUSEkyRU5qUWJKeTNkbF9FX2dYNTJsdXN1RlBsVDZVc3EzUGxOeFNZNm53?oc=5",
+    "date": "2026-11-24T09:05:44Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "Pakistani astronaut to join Chinese space mission",
     "summary": "A Pakistani astronaut is set to become to the first foreigner to board China's Tiangong space station. Muhammad Zeeshan Ali, a payload specialist, will join the Shenzhou-24 mission when it launches on Wednesday.",
     "category": "Geral",
@@ -4741,6 +5208,18 @@
     "summary_pt": "A atmosfera da Terra oferece proteção contra uma explosão nuclear no espaço, mas os satélites estão mais expostos. Explicamos como a radiação pode danificá-los, por que os efeitos podem persistir e que proteção é possível."
   },
   {
+    "title": "TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility",
+    "summary": "TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGhGRUlVZHA1MXVNbkVDQUZjN3U0aDR4NHRYNlR3cG1ValF0OUNQbU5wWjNrMnBMOWFVN195eUVNaVhiNy14b3YtSVdFWHpRYl9ZQTNmOFE2ZUdjaEtDRUNva1UxeHJFSVJfSWhHU2hJUHFrNUNWekRGSzBqbU1kRFVxQk52bDVGRUVEUGEtR0MyMDRGM0dacjdmNDNEMEFDaGNTMTVlU2JfUEVrTGVCYkJkb0otSVpyd2c?oc=5",
+    "date": "2026-11-24T08:33:57Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "Leader of India’s Cockroach movement says he was stopped from boarding flight to UK",
     "summary": "Saurav Das was due to give talks at UK universities on protest movement but says ‘coward government’ prevented him flying A leader of India’s youth-led Cockroach movement has said he was prevented from leaving Delhi to fly to the UK to give talks on the viral group’s protests. Saurav Das, 27, has been at the forefront of the Cockroach Janta party (CJP), whic",
     "category": "Geral",
@@ -4767,6 +5246,18 @@
     "image": "https://images.euronews.com/articles/stories/10/00/55/77/696x392_cmsv2_05639b92-1825-5bf3-98be-918b0b49c257-10005577.jpg",
     "title_pt": "O Pentágono acusa o Canadá de não ser um parceiro de defesa confiável devido aos gastos e à revisão dos caças F-35",
     "summary_pt": "As críticas surgem no momento em que o primeiro-ministro Mark Carney diversifica os gastos com defesa e avalia alternativas aos equipamentos de defesa dos EUA em meio às relações tensas com o governo Trump."
+  },
+  {
+    "title": "Japan accelerates ICC funding as US sanctions threaten court",
+    "summary": "Japan accelerates ICC funding as US sanctions threaten court Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVlqQzhUUnlVXy11enMtemVoQURZSDZ4cFZ4czFBM091NW9GWDZVUmE2dGg2V2xCeHhzS2JINGI3RDdJdGw5N0t5bThLWDNGTk5DUVk0bnZJeEZSYWZTRElIbTQ5dzVMb2NySUhHaVZEZTNPZks2eldrbmt4ckx4YWpXR3UzWnE4bWhmS3BRdE5SZDZlam5vbC1VQndoWnQtcjgzMnhZRzVaalQ1?oc=5",
+    "date": "2026-11-24T08:15:28Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Footage of Russian cargo ship hit by Ukrainian drone attack in the Gulf of Finland",
@@ -5007,6 +5498,30 @@
     "summary_pt": "As cabras Bagot são utilizadas para manter a vegetação sob controle e ajudar a preservar a vista do Observatório Real."
   },
   {
+    "title": "Europe's earnings boom challenges Wall Street, but may prove fleeting",
+    "summary": "Europe's earnings boom challenges Wall Street, but may prove fleeting Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNelplRGFFX0pZWWEyR0VCN29QUHQtd1A5Q1N2R3lHa3plVDFYeDV1eXBCc0dCaktPMW50cDFJcjlvb0FId0YxOUVXS0pEQ1VxR0d1ckVFYXpPWldmU0trNjhFcldleExhcktDbVZ3YWdFY1I1Zjd4VlF1T3dHQVRNM2FNT0xITHFNSnBCTDUxdDNpQTNHeTNYeDJXQlZjZm04S0habjhuNnJEQXNOQkE2dEdoVkI4Nlk?oc=5",
+    "date": "2026-11-24T06:09:00Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
+    "title": "West Africa's rush to refine its own gold unleashes flood of capacity",
+    "summary": "West Africa's rush to refine its own gold unleashes flood of capacity Reuters",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTGNqT2ZGcU9hQW1ldS1mb09xYjNjMVFqSkVieWxYQzk3bUVsbHJWTjhvYnZrcXduOVZydHI4ZlNodXdLWDVQMVFKMWMzaGUzTTR3Qm1mY0hJMlY4bVFZV2xNVklIYVZsRXNsZUN3cnhELXk5eFg0V1JNR09ETWgzRGVLUkNfZDF4aWF5Yk1KZUJiSnZ6Nm9IUlU3b0x4aG1ZT01wY0xfdm5Gd3JQN0x6Tg?oc=5",
+    "date": "2026-11-24T06:03:00Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "Is no deal better than a bad deal? Why some see hope in COP31’s collapse",
     "summary": "The EU, the UK and many small nations rejected a pact that promoted carbon capture and omitted a commitment to move away from fossil fuels.",
     "category": "Clima e desastres",
@@ -5189,20 +5704,6 @@
     "summary_pt": "O CEO da Nvidia está de volta, o Presidente Trump está a celebrar e os mercados estão a recuperar."
   },
   {
-    "title": "Bus and truck collision kills 11 in UAE's Ras Al Khaimah",
-    "summary": "Bus and truck collision kills 11 in UAE's Ras Al Khaimah Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMFM2TDhwNU9ELWxXVHpJVnZ6ZmV2SHJmVjZUaXIxWHM5d3lZV3Z2djNYazdBRDVxVmFnV3JhcnlXc0NhR29QZHkyWUVDN2dPcDRtZ2tJRjVHbm5ia3d6T0I4QUxwcUJueW9Hd3h3Y09sanZhVE5XMHFlSldpVFRRWGVRSmdHVEsxbUdnTmNHdkoyWGNY?oc=5",
-    "date": "2026-11-24T05:42:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Colisão entre ônibus e caminhão deixa 11 mortos em Ras Al Khaimah, nos Emirados Árabes Unidos",
-    "summary_pt": "Colisão entre ônibus e caminhão mata 11 pessoas em Ras Al Khaimah, nos Emirados Árabes Unidos Reuters"
-  },
-  {
     "title": "Bangladesh's ousted leader Hasina plans to return home from exile on Dec 16",
     "summary": "DHAKA, Bangladesh (AP) — Sheikh Hasina, who was ousted as Bangladesh’s prime minister more than two years ago, said Tuesday that she plans to return home from exile in India on Dec. 16, the day the country celebrates as Victory Day when it won independence after a war with Pakistan. Hasina went into …",
     "category": "Geral",
@@ -5217,18 +5718,16 @@
     "summary_pt": "DHAKA, Bangladesh (AP) – Sheikh Hasina, que foi destituída do cargo de primeira-ministra de Bangladesh há mais de dois anos, disse na terça-feira que planeja voltar para casa do exílio na Índia em 16 de dezembro, dia em que o país comemora o Dia da Vitória, quando conquistou a independência após uma guerra com o Paquistão. Hasina entrou em…"
   },
   {
-    "title": "SpaceX, Tesla appoint five directors to guide merger talks, FT reports",
-    "summary": "SpaceX, Tesla appoint five directors to guide merger talks, FT reports Reuters",
+    "title": "Coffin-carrying Volkswagen workers threaten strikes after first wage talks",
+    "summary": "Coffin-carrying Volkswagen workers threaten strikes after first wage talks Reuters",
     "category": "Geral",
     "region": "Global",
     "country": "GLOBAL",
     "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXlLNG9FZFJ0SjJ6YmxybS03UEdTTDZuMUpzQ1pHdmZQUG1WRVdMRktKZ3ptRVVCNXkxdm92eEVBZ0N5c0pDemw5M3NOLUpxWV9tZHdQRWtJM2NnQnZZZVljOEtaRjQzdlRDR2hjM2VIWU9MZS12QmkwbDkyUl9mNGxRRUk4WW5IVm1QVWJuQWhyYS1jN1FMQzBmOHdhLWhTMjRHUnJhOVplSnY4Nm9YMmNfUHdqbms?oc=5",
-    "date": "2026-11-24T05:20:00Z",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjVsMkV1WGhCc3BLVnRDb3B4TXluZ0JIT2JJOGxlZnhlY0xDbURXVDJuWVdQc3JKb2tJMmxlWWhwOFUyQ21vb21JTDVnZ2FSN2ZIOHN4WmpGSlI5akUzWHhBNF9YREw2OW92dUw4UEswejB5bXo1Qm53LVd4bW5tOXpUUU1HZVlIbmUxWXlROENHX3VwcWF1YXVWMktvc2NaXy1xQ3Fza1NCV2NaZlJzdU5WR2Izdw?oc=5",
+    "date": "2026-11-24T05:32:00Z",
     "lang": "en",
-    "image": "",
-    "title_pt": "SpaceX e Tesla nomeiam cinco diretores para orientar negociações de fusão, relata FT",
-    "summary_pt": "SpaceX e Tesla nomeiam cinco diretores para orientar negociações de fusão, informa FT Reuters"
+    "image": ""
   },
   {
     "title": "Ebikes, screens and failing manners pose challenge for Dutch cycling culture",
@@ -5399,20 +5898,6 @@
     "summary_pt": "As cartas ao editor falam sobre a morte digna, a greve dos professores na Comunidade de Madri e as manifestações franquistas no dia 20 de novembro"
   },
   {
-    "title": "Russian attack kills 2 people in Ukraine's Zaporizhzhia, governor says",
-    "summary": "Russian attack kills 2 people in Ukraine's Zaporizhzhia, governor says Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRl9vM3Z6UzJTZlZjU3JmcDhQem1tVS1rMS1yemtlVjFicVlnZjVqTFRBUGlrWG1LTWU1b29waVI2NEthUnZFZ0VzMVRaclZDaURJNWk0MDNOdWtaQnJwU2RteUhISWdqYXg0R2VoSEd0S0ZKM01hVUxTS2pwbWZSOHdVNkRYUmVkRURSRTN6RmtvemF1bmFFZnUtZXZwU1JkV0hha3lLSGVoaGR2cE5hSTdIZ2pibk1W?oc=5",
-    "date": "2026-11-24T04:18:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Ataque russo mata duas pessoas em Zaporíjia, na Ucrânia, diz governador",
-    "summary_pt": "Ataque russo mata 2 pessoas em Zaporíjia, na Ucrânia, diz governador à Reuters"
-  },
-  {
     "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
     "summary": "The order was issued after aircraft entered the country’s air defence identification zone over the island of Ulleungdo Residents of a remote South Korean island were ordered to take shelter on Tuesday morning after several Russian military aircraft came close to entering its airspace, prompting a pre-emptive alert from the military that anticipated a violati",
     "category": "Conflitos",
@@ -5425,20 +5910,6 @@
     "image": "https://i.guim.co.uk/img/media/a64555d05e60fde8290f1489232b209ec8ba900c/996_199_4012_3210/master/4012.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=afa6528b0912329f12ab2008c340f708",
     "title_pt": "Coreia do Sul orienta moradores de ilha a se abrigarem após aproximação de aeronaves militares russas",
     "summary_pt": "A ordem foi emitida após aeronaves terem entrado na zona de identificação de defesa aérea do país sobre a ilha de Ulleungdo. Os moradores de uma ilha remota da Coreia do Sul foram orientados a se abrigar na manhã de terça-feira após várias aeronaves militares russas terem se aproximado de seu espaço aéreo, provocando um alerta preventivo das Forças Armadas que antecipava uma violação."
-  },
-  {
-    "title": "Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says",
-    "summary": "Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnFJU2tabWVwRnU2YnozaFFRTWZ4VWc4TmNseXdPRGZoa25Zc0RXZ251ODdJQ3ZxYl9fWVhlSkwtU0xhajZpeHNRSXQyclM0WUdKT1Y2cHh1OExteDRnVUlfcFVMaXc1X3NnNk15QTczVklYMHR5dVZldGJBcGtnRjhlaDczNFQ0RnZoMWFlRC1rZ1pfWGUwYlNGMmNuNVlXam9peE5xb0NKWTQ?oc=5",
-    "date": "2026-11-24T03:48:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Trump se reunirá com o chefe da OTAN, Mark Rutte, na quarta-feira, diz a Casa Branca",
-    "summary_pt": "Trump se reunirá com o chefe da OTAN, Mark Rutte, na quarta-feira, diz a Casa Branca à Reuters"
   },
   {
     "title": "South Korea says several Russian aircraft flew into its air defense zone",
@@ -5483,34 +5954,6 @@
     "summary_pt": "Vídeo mostra ataque de drones ucranianos a navio de guerra russo em base naval na Líbia O presidente Volodimir Zelensky afirmou na segunda-feira (23) que a Ucrânia foi a responsável pelos ataques contra duas embarcações russas na costa da Líbia, acrescentando que uma delas afundou — um novo desdobramento da guerra entre Moscou e Kiev. ✅ Siga o canal de notíc"
   },
   {
-    "title": "EXCLUSIVE: Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier",
-    "summary": "EXCLUSIVE: Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTZ3QXNQYmJqMENPRDZLVFAyS3JkUmhjaWxHLUF6TkwzejRmTTZHaERqdmd5NkZmMVVOMEZCaW1MWnlIS3hMVE5BUjJiRTNoMy1RdXUtUVpibnhicDgxZ0JHOUNuYmRDVTNrLVpTVUFaUVM5UDVaZExqR3hTSkxrNU9nSG5aMG9sc2hsMmFvTkstR2g4Qk1UZDMzM2JSaE1yTHVtSV9qaTRPbzN1U2F3UWM4S0hyT2FpaWc?oc=5",
-    "date": "2026-11-24T02:56:00Z",
-    "lang": "en",
-    "image": "",
-    "summary_pt": "EXCLUSIVO: Sheikh Hasina busca retornar a Bangladesh em 16 de dezembro na companhia aérea estatal Reuters",
-    "title_pt": "EXCLUSIVO: Sheikh Hasina busca retornar a Bangladesh em 16 de dezembro pela companhia aérea estatal"
-  },
-  {
-    "title": "Oil rises $1 on Hormuz ship attacks, surplus supply outlook curbs gains",
-    "summary": "Oil rises $1 on Hormuz ship attacks, surplus supply outlook curbs gains Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDQ4RU9qMFd6TWl0WkFDUGVsdk5Gb3Q1dURMcjcwbGxUV3ItdjhZUGdQUTBZOVUyZEZlRzdmSEtjM3EwQTNUam1nRVZNdXFRbmNfeHhpUnNVQjNPbjNyOGtSZHVnNEZmbnpJdC1VdVA5X25rWndhMnZqemNGVWdVU1Y5OE8ybExyT2xLelF6dnZsNkM0OU55b1dKc1NuNF9sWkVGSGZJaUNxLXc4eEdGZTl3LUtFTDFuUUE?oc=5",
-    "date": "2026-11-24T02:56:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "O petróleo sobe US$ 1 após os ataques a navios em Ormuz, mas a perspectiva de excesso de oferta limita os ganhos",
-    "summary_pt": "O petróleo sobe US$ 1 após ataques a navios em Ormuz, e a perspectiva de excesso de oferta limita os ganhos, segundo a Reuters"
-  },
-  {
     "title": "Gisele Pelicot 'deeply shocked' as nude photos of her sent to media",
     "summary": "Gisele Pelicot has said she is \"deeply shocked\" and \"humiliated\" after nude images of her were sent to the media without her consent to promote a new book about coercive control.",
     "category": "Geral",
@@ -5537,20 +5980,6 @@
     "image": "https://i.guim.co.uk/img/media/5d7028c1f7418b6df67a8b82c97cfc5563385eba/154_0_2536_2029/master/2536.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a95a804a7a2e793e1fc9c362b557b3a",
     "title_pt": "China condena funcionário à morte por espionar para país estrangeiro",
     "summary_pt": "Autoridade acusada vazou segredos nacionais para um país não identificado e recebeu pagamentos de mais de US$ 150 mil, segundo editora ligada ao Estado. Uma autoridade chinesa foi condenada à morte por espionar para um país estrangeiro, afirmou uma editora ligada ao governo. A Gold Wall Press, uma editora associada à Administração Nacional de Proteção de Segredos de Estado da China,"
-  },
-  {
-    "title": "Singapore investigating Nvidia-linked Megaspeed after US blacklisting",
-    "summary": "Singapore investigating Nvidia-linked Megaspeed after US blacklisting Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3FSU3Z2eG9hMGxOaUJ3VkptMG9CbEx0cHhoQzZ6RC1uRXV0OWtRa3k1VzYtQkhMRUVBVzE5QlAwSktWS1IzN2o3SFRWalVsQ1UzMkNkYXM0TEdJUzhYMTU2VjNtdVkyWTBpRGVlbUMxREdoS1ZmeUUwbElCcF9CSmxHVDBhdVJNM3FfOGVNU1YwUEpwLUw0MXVBUUdKbDF5VjFHVHY5c0FGcFNxWGZCbQ?oc=5",
-    "date": "2026-11-24T02:27:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Singapura investiga a Megaspeed, empresa ligada à Nvidia, após sua inclusão na lista de proibições dos EUA",
-    "summary_pt": "Singapura investiga a Megaspeed, empresa ligada à Nvidia, após ser colocada na lista de restrições dos EUA pela Reuters"
   },
   {
     "title": "Experts say failed climate talks could worsen climate inequality, though all progress is not stalled",
@@ -5613,20 +6042,6 @@
     "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
-    "title": "US stocks slide as Nvidia rally fizzles out, dollar falls",
-    "summary": "US stocks slide as Nvidia rally fizzles out, dollar falls Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5",
-    "date": "2026-11-24T01:29:00Z",
-    "lang": "en",
-    "image": "",
-    "summary_pt": "Ações dos EUA caem à medida que a alta da Nvidia se esvai, e o dólar cai — Reuters",
-    "title_pt": "Ações dos EUA caem à medida que a alta da Nvidia se esvai e o dólar cai"
-  },
-  {
     "title": "Kate Middleton on cancer journey: \"We're not meant to carry life's challenges alone\"",
     "summary": "The Princess of Wales, Kate Middleton, opened up about her cancer battle in a new documentary. Leigh Kiniry has more details from London.",
     "category": "Geral",
@@ -5681,20 +6096,6 @@
     "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/64c7a5bd-d287-4ac9-b312-c6b8b3260a9b/thumbnail/1200x630/b9d2c5d1c3979fa43b60d4abefda624f/cbsn-fusion-ukraine-sinks-russian-warships-thousands-miles-battlefield-libya-thumbnail.jpg",
     "title_pt": "A Ucrânia afunda navios de guerra russos a milhares de quilômetros do campo de batalha, perto da Líbia",
     "summary_pt": "Um vídeo militar publicado pelo presidente ucraniano, Volodymyr Zelenskyy, supostamente mostra os ataques de drones navais do país a navios russos perto da Líbia, a milhares de quilômetros do campo de batalha. Charlie D'Agata informa."
-  },
-  {
-    "title": "Gold ticks lower on hawkish Fed bets, US inflation data in focus",
-    "summary": "Gold ticks lower on hawkish Fed bets, US inflation data in focus Reuters",
-    "category": "Economia",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5",
-    "date": "2026-11-24T00:57:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Ouro cai com apostas agressivas do Fed, dados de inflação dos EUA em destaque",
-    "summary_pt": "O ouro cai com as apostas agressivas do Fed e os dados da inflação dos EUA em destaque Reuters"
   },
   {
     "title": "24 Killed After Fire Rips Through Candy Factory in Indonesia",
@@ -5765,20 +6166,6 @@
     "image": "https://ic-cdn.flipboard.com/apnews.com/10550b89fee9da96bb6ace87e2e103c3ec1d6c83/_large.webp",
     "title_pt": "Aqui está o que vem a seguir após o colapso das negociações climáticas: Reforma, ação individual, esperança e mais calor",
     "summary_pt": "Só porque as negociações climáticas da ONU na Turquia implodiram, não significa que a esperança de salvar um mundo cada vez mais quente tenha desaparecido, dizem os especialistas. Mas o caminho a seguir será mais difícil, exigirá mudanças nas negociações e poderá depender mais de esforços individuais de nações e empresas, em vez de esforços conjuntos..."
-  },
-  {
-    "title": "US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports",
-    "summary": "US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports Reuters",
-    "category": "Segurança cibernética",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjR1WG9RTVdfSTNnS1RTOWcwVlhpeGMtaUdMZGVIU1I0ZWt1ZlhtQ2F1ODJZOEwxVzB2ZHBYNDIxMkEtdjdMY1Z2X050QjY2VjYwR1VmTDZSbWxiQTNwZ09nZTRHYzdweXEzajYxcnZxTUp3eWdSdEtvX2RMTllnY205N3VoTlJnTEQtOEYySEVHNDZMa0p5bHdPWG9KTUw1Zzg3VnZuVEVGV3czanhjQUJxdDNqTXFvMXlZT1k4bmlQYkJfYXUya0lsbzRoUQ?oc=5",
-    "date": "2026-11-24T00:18:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Os EUA consideram o Irã como possível culpado por dezenas de novos ciberataques contra navios, informa o WSJ",
-    "summary_pt": "Os EUA consideram o Irã como possível culpado por dezenas de novos ciberataques contra navios, informa o WSJ à Reuters"
   },
   {
     "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
@@ -5865,20 +6252,6 @@
     "summary_pt": "Uma paralisação de companhias aéreas no fim de semana causa problemas de viagem para milhares de pessoas; Jensen Huang faz um retorno impressionante como CEO da Nvidia."
   },
   {
-    "title": "South Korea issues 'take shelter' warning after Russia aircraft fly near airspace",
-    "summary": "South Korea issues 'take shelter' warning after Russia aircraft fly near airspace Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnMyeTNTLWNPT1JoWVRGdTZmb2hnVi1USk9WNldKUVNfVWkzRk5RSjI5UlVIYkprbnEtOFplWGdpd2JoWmtZeEVZQTF6TGJJU0tEZXhsYVVNaHl1OVlfOF9sc3lHUUdzNXBpeHNqUTF0ZXY2VTcxbHEwbHluRF9sR3N0WnR1T3R1cmRKa1FDSnpOeGJwVVIyN0NhYmF4QmlyZHZjT2JNXzB4ZlY1cTJRNVZtTTluY3lYbmd0TEtlXzA3WUZwTVk3Uw?oc=5",
-    "date": "2026-11-23T23:25:00Z",
-    "lang": "en",
-    "image": "",
-    "summary_pt": "Coreia do Sul emite alerta de \"procura de abrigo\" após aeronaves russas sobrevoarem perto do espaço aéreo Reuters",
-    "title_pt": "Coreia do Sul emite alerta de \"procura de abrigo\" após aeronaves russas sobrevoarem perto do seu espaço aéreo"
-  },
-  {
     "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
     "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
     "category": "Tecnologia",
@@ -5935,34 +6308,6 @@
     "summary_pt": "Soldados fazem guarda diante da bandeira nacional na Praça da Paz Celestial em Pequim, na China, em 3 de março de 2026. Andy Wong/AP Um funcionário do governo chinês foi condenado à morte por espionar para um país estrangeiro, informou nesta segunda-feira (23) uma editora ligada ao governo. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp A Gold W"
   },
   {
-    "title": "EXCLUSIVE: JD Vance's ties to prized Venezuelan oil contract under investigation by US Senate panel",
-    "summary": "EXCLUSIVE: JD Vance's ties to prized Venezuelan oil contract under investigation by US Senate panel Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcXNHRzZxSXRIbENTdUYwdUh0eTZHWTJBb1diaGRXYm8tTTBRWTFRTk9Lc3FsbW1kb1g5QTg0eXZEbHdHNFVyWUl2ZzhxNDloajNfeDUyV0dKVVQ2QjA3UUU2S3NoaXZ1OUVhMGMtamxNMFpTTFhxT2NUTUNJTDl6TlVJSFNTWENydE1sUWNiM1o3SzIySUVTV1JUbzE2TVI5YktHb1AzZlZIUnJsR2lYLVp2RzhpTDdHbzZUVmZmRTAzYjFZejZWbkRR?oc=5",
-    "date": "2026-11-23T22:47:22Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "EXCLUSIVO: Vínculos de JD Vance com valioso contrato de petróleo venezuelano sob investigação por comissão do Senado dos EUA",
-    "summary_pt": "EXCLUSIVO: Os vínculos de JD Vance com um valioso contrato de petróleo venezuelano estão sendo investigados por uma comissão do Senado dos EUA Reuters"
-  },
-  {
-    "title": "EXCLUSIVE: Some US banks tighten AI-agent controls on concern about models escaping safeguards",
-    "summary": "EXCLUSIVE: Some US banks tighten AI-agent controls on concern about models escaping safeguards Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb0pELTVieEVteWV5TWE5cU80T1M4MmNHVmxQVjNmb0tkQ3diUHRFSTg0X1NJTnhEMGZHcS1CaFZfRHUyeWUyQ0RSMWVOa2drMEY0VG1Ba3puU0FmamtxdzF3dFFLaXl0TGloeVIteHFxMkNiRlFLMU5Yc0FUeDNvVzJZS0lLS2t1TWo5Tmk1RWJjMGlHQ2Q2eXlwc1NRU0lXNEFxODVLZ1FmQm4xLUR0QWFoRTRTS1FqSE5FRGVfUzNPaFZGUlNJREtSb0ZjUQ?oc=5",
-    "date": "2026-11-23T22:45:12Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "EXCLUSIVO: Alguns bancos dos EUA reforçam os controles sobre agentes de IA por preocupação com modelos que escapam às proteções",
-    "summary_pt": "EXCLUSIVO: Alguns bancos dos EUA reforçam os controles de agentes de IA por preocupação com modelos que escapam às proteções Reuters"
-  },
-  {
     "title": "Irã aplica pena de 74 chibatadas em cantora que se apresentou sem hijab",
     "summary": "A apresentação de Parastoo Ahmadi foi transmitida ao vivo em seu canal no YouTube em dezembro de 2024. Reprodução/Youtube A cantora iraniana Parastoo Ahmadi e quatro integrantes de sua equipe de produção receberam 74 chibatadas cada nesta segunda-feira (23) no Irã. Eles também foram proibidos por 2 anos de praticar atividades artísticas e musicais e de reali",
     "category": "Geral",
@@ -6005,20 +6350,6 @@
     "summary_pt": "O secretário-geral da OTAN, Mark Rutte, disse na segunda-feira que a aliança se defenderia contra ameaças no espaço quando questionado sobre notícias da mídia alemã de que a Rússia pode estar se preparando para lançar um satélite com armas nucleares. As notícias da imprensa, citando fontes não identificadas das forças armadas alemãs e da agência de espionagem BND, afirmaram que se acredita que Moscou esteja planejando esse lançamento nas próximas semanas, o que lhe daria a capacidade de..."
   },
   {
-    "title": "US lawmakers criticize Nvidia decision to reinstate Huang as CEO",
-    "summary": "US lawmakers criticize Nvidia decision to reinstate Huang as CEO Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY290QTRyd09iaGNpaWpuNmlnOHQ2MVZSMm43Q29tS05BSE00ekxCeF9DZ013THRtUzVsTUItS2FIa1R6UzdOQ2FlOFlscXRLVUdfNkhLNS1JZ0FNNTZuOEgxdVVhN2JnaDBYdVFJQXBhSUNxeFBnR0V2XzZLTzZBaEh4NVUxLWRhZjJHOGR5NGVZOXpjWGZjaVFWR0NobElUaUE?oc=5",
-    "date": "2026-11-23T22:30:50Z",
-    "lang": "en",
-    "image": "",
-    "summary_pt": "Legisladores dos EUA criticam a decisão da Nvidia de reintegrar Huang como CEO Reuters",
-    "title_pt": "Legisladores dos EUA criticam a decisão da Nvidia de reintegrar Huang como CEO"
-  },
-  {
     "title": "China sentences an official to death for spying and leaking national secrets",
     "summary": "BEIJING (AP) — A Chinese official has been sentenced to death for spying for a foreign country, a government-linked publisher said Monday. Gold Wall Press, a publishing company associated with China’s National Administration of State Secrets Protection, said the convicted person was surnamed Ma and …",
     "category": "Geral",
@@ -6031,20 +6362,6 @@
     "image": "https://ic-cdn.flipboard.com/apnews.com/28b8b4806ca9cb9bd94f9af671c415d9b25a50a8/_xlarge.jpeg",
     "title_pt": "China condena um funcionário à morte por espionagem e vazamento de segredos nacionais",
     "summary_pt": "PEQUIM (AP) – Um funcionário chinês foi condenado à morte por espionar para um país estrangeiro, disse na segunda-feira uma editora ligada ao governo. A Gold Wall Press, uma editora associada à Administração Nacional de Proteção de Segredos de Estado da China, disse que a pessoa condenada tinha o sobrenome Ma e…"
-  },
-  {
-    "title": "Iran carries out flogging of singer and her team, Iranian website says",
-    "summary": "Iran carries out flogging of singer and her team, Iranian website says Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTdQZHhWWEpadDE4WGc0WkR4ZW5Ud3pHQ3dKS2xaUGtMdGNnd0JKRC1sNk1qUUt4MG9UUGJlRU91NlJiVHhHNFVZWWluTjJpMWVmNkwtNTYzN0g5cFZVNVg4ZWFCYTRaQlNQWTU0djI4bTZBUnBWNmVIWjF3ZEFfYVp3UVJEdml1c0xEVkxSYzh1UlNNU3BiaG53Z2ctRExWLXVMNENwdjVPNEoxZ25vX2FvUjZGNmk2eGZjeGRR?oc=5",
-    "date": "2026-11-23T22:21:42Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Irã aplica chibatadas em cantora e sua equipe, diz site iraniano",
-    "summary_pt": "Irã aplica chibatadas em cantora e sua equipe, diz site iraniano à Reuters"
   },
   {
     "title": "11/23: The Takeout with Major Garrett",
@@ -6177,7 +6494,7 @@
   {
     "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
     "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6245,20 +6562,6 @@
     "summary_pt": "Milhares de pessoas marcharam por Bruxelas na segunda-feira, 23 de novembro de 2026, contra as medidas de austeridade propostas, com alguns confrontos que levaram a polícia a usar gás lacrimogêneo e canhões de água. Os protestos ocorreram enquanto o governo da Bélgica enfrentava dificuldades para chegar a um acordo sobre seu orçamento para 2027."
   },
   {
-    "title": "Zelenskiy says intelligence shows Russia planning new strikes on Ukraine",
-    "summary": "Zelenskiy says intelligence shows Russia planning new strikes on Ukraine Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUEtCdFptTFlUZFVRQTdNbV9MZTBUM1AwRXFBVlptR2RoZ0h4S1RVUEgtVTJLSzhTTVBVZVRSU1YxMlhVQzBNZEh2MmM1UlI2MUNLQ3kzN2JpY1I5dERzQlBoc1hHel9QaU9qOWltdEdScE96OHJfUXVkX1ZLaXpJVDdDSUoxX0ZkMXBVMUFwaTUtMzlYQUVPSUgxLWZSQ0pXSzZmUExIWERRNi10X1JFaw?oc=5",
-    "date": "2026-11-23T21:03:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Zelensky afirma que informações de inteligência indicam que a Rússia está planejando novos ataques contra a Ucrânia",
-    "summary_pt": "Zelensky diz que informações de inteligência mostram que a Rússia está planejando novos ataques contra a Ucrânia Reuters"
-  },
-  {
     "title": "Iranian singer and four others receive lashes after performance without hijab",
     "summary": "Western governments and rights groups have criticised flogging as torture and a violation of international law An Iranian singer and four members of her production team ⁠have each received 74 lashes after being sentenced for “offending public decency by producing and ⁠publishing obscene and ⁠immoral ​content online”, an Iranian news website said on Monday. P",
     "category": "Geral",
@@ -6285,20 +6588,6 @@
     "image": "https://ic-cdn.flipboard.com/apnews.com/2010d54c91642ce09009709ea24006374abb37b1/_large.webp",
     "title_pt": "EUA voaram drone sobre território mexicano para ajudar a capturar traficante em Sinaloa",
     "summary_pt": "CIDADE DO MÉXICO (AP) – Os Estados Unidos pilotaram um drone de vigilância sobre o território mexicano para ajudar o governo a rastrear e capturar um importante traficante de drogas no fim de semana em Sinaloa, disseram autoridades de segurança mexicanas na segunda-feira. A recente detenção de Fausto Isidro Meza Flores, conhecido como “El Chapo Isidro”…"
-  },
-  {
-    "title": "US blacklists Alibaba subsidiary and Megaspeed linked to Nvidia scandal",
-    "summary": "US blacklists Alibaba subsidiary and Megaspeed linked to Nvidia scandal Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3ZUR1ZCZXpLTkNjVFA5cm1ueHd6VjlHUzZSZWUtNE40NndKNFNWQVJqV3k4WHA5SU5BQTBvWmw5dlN3S1RZZHQ5WG5LRGhWMDFxUk83RjdGV0dqWUtjU3c4RlVkdkFBVlhfbXdiVm1WWW44dEtpUXY0Yjk0ZndBN2w3MURmNkVJLUlvM3ZpSmRfV3RTeUJYNHQtS29HaUFwejF2SlVtR2lpY0NqX3BYMg?oc=5",
-    "date": "2026-11-23T20:51:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "EUA colocam subsidiária da Alibaba e a Megaspeed, ligadas ao escândalo da Nvidia, em listas negras",
-    "summary_pt": "EUA colocam subsidiária da Alibaba e a Megaspeed, ligadas ao escândalo da Nvidia, em listas negras Reuters"
   },
   {
     "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
@@ -6329,20 +6618,6 @@
     "summary_pt": "Jean-Luc Mélenchon, candidato do partido francês de esquerda França Insubmissa (LFI) à Presidência da França em 2027, discursa durante um comício de campanha em Le Bourget, nos arredores de Paris, na França, no sábado, 7 de novembro de 2026. Teresa Suarez/AP O candidato presidencial de extrema-esquerda francês Jean-Luc Mélenchon ganhou cinco pontos percentua"
   },
   {
-    "title": "Moscow accuses Estonia of hostile actions on 'verge of triggering open war'",
-    "summary": "Moscow accuses Estonia of hostile actions on 'verge of triggering open war' Reuters",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3hoekpkTmwxcjE1NnNid3RFSXVsVGtob3A3dFNKVjRNZzVnaXMxRnV6N3pIellLeVdQRHNjUVpMR0R3aUpWaFV1MHBWRWljclZQbTdKakEzcUZ5cTBFNE5xVTlWSFNzTXlWN2tqRlpvbnk1M2RuUWRxclZMNmw2a01laUM0c09QNHRSY0c4amtsQS1XeV8zV3JCb2VFUzMwRUNqYVhrTHVIQQ?oc=5",
-    "date": "2026-11-23T20:45:41Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Moscou acusa a Estônia de ações hostis \"à beira de desencadear uma guerra aberta\"",
-    "summary_pt": "Moscou acusa a Estônia de ações hostis \"à beira de desencadear uma guerra aberta\" Reuters"
-  },
-  {
     "title": "CVM suspende registro do BRB, envolvido no caso Master",
     "summary": "Autarquia puniu empresas que deixaram de divulgar informações obrigatórias ao mercado por mais de um ano. Banco de Brasília enfrenta investigações sobre operações com grupo de Daniel Vorcaro.",
     "category": "Geral",
@@ -6369,20 +6644,6 @@
     "image": "https://s.france24.com/media/display/a90c2d3e-e777-11f1-bbf4-e56ab3dc0809/w:1024/p:16x9/EN-20261123-203823-204018-CS.jpg",
     "title_pt": "O leste da Líbia quer que a ONU investigue as alegações de presença de militares ucranianos no oeste do país",
     "summary_pt": "As autoridades do leste da Líbia dividida pediram na segunda-feira que as Nações Unidas investigassem as alegações de que forças ucranianas estavam presentes no oeste do país, ao mesmo tempo em que apresentaram uma queixa sobre ataques ucranianos a dois navios russos ao largo de Benghazi. Os ataques de domingo, reivindicados por Kiev, ocorrem no momento em que a Ucrânia intensifica os ataques contra a Rússia longe das linhas de frente da"
-  },
-  {
-    "title": "Anthropic launches Claude Ship to help developers ship code faster",
-    "summary": "Anthropic launches Claude Ship to help developers ship code faster Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVURIRFNoWllBMDkzLVhtNFloSkdUTFZ2ZmZWN2pMMm52ckI0N1dXT3pVX0VDa3NZYW1YNW5NMVlVdkJCSXVTTGJVc0RxVVNndnhCdTA2dDRIVFIyempCd0MxTEc4SzJoTHJsZGVNTTNDRUlmN1RWb0tzRWRzX2RBZzFkLTlFQkF3VllOUV9ReHg0VHQ4cWtld3psMWpiYTVDZER3UUJ0cXpseWpj?oc=5",
-    "date": "2026-11-23T20:05:43Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "A Anthropic lança o Claude Ship para ajudar os desenvolvedores a entregar códigos mais rapidamente",
-    "summary_pt": "A Anthropic lança o Claude Ship para ajudar os desenvolvedores a enviar códigos mais rapidamente Reuters"
   },
   {
     "title": "Israel seeks to jail Palestinian student activist without trial after dorm arrest",
@@ -6413,20 +6674,6 @@
     "summary_pt": "A Ucrânia afirmou na segunda-feira que estava por trás dos ataques a dois navios russos ao largo da Líbia, incluindo um que afundou um navio de guerra moderno, no mais recente repercussão da invasão de Moscou. Os ataques de domingo perto do porto líbio de Benghazi ocorrem num momento em que a Ucrânia intensificou os seus ataques ousados ​​contra a Rússia, longe da linha de frente, em retaliação pelos mortos de Moscovo."
   },
   {
-    "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks",
-    "summary": "US imposes sanctions on dozens linked to Iran's shadow banking networks Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5",
-    "date": "2026-11-23T19:38:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Os EUA impõem sanções a dezenas de pessoas ligadas às redes bancárias paralelas do Irã",
-    "summary_pt": "EUA impõem sanções a dezenas de pessoas ligadas às redes bancárias paralelas do Irã Reuters"
-  },
-  {
     "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
     "summary": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
     "category": "Geral",
@@ -6439,20 +6686,6 @@
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
     "title_pt": "As negociações da COP31 fracassam na Turquia em um confronto sobre combustíveis fósseis",
     "summary_pt": "Nações europeias e vulneráveis rejeitaram uma proposta de acordo depois que a Arábia Saudita e outros produtores de petróleo bloquearam qualquer menção ao fim gradual do uso de carvão, petróleo e gás."
-  },
-  {
-    "title": "Trump saw Nvidia's Huang as protector of open-weight AI models, sources say",
-    "summary": "Trump saw Nvidia's Huang as protector of open-weight AI models, sources say Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPam9EWkNKUkVWckNXeXJpWmh0OEhTcy1reWhiOWRkUHllZWZtc1V0N0l1UWJLMEtjSUR5V3F6YXlJdXRYaTZyQ0Z6ZGp2UjJnc1FfSExfaUNtblB5eUg4WG9QQm9XdUxPTmdMb3diZGl5LU53c2l4aXdXaTkyaUJnNVprM1Y3UWdjMjd6M0dLc2RmbXY5ZUFPaWwwRXR2SXZreTdZMmM2M2MtVFJqelI2MmxB?oc=5",
-    "date": "2026-11-23T19:23:26Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Fontes afirmam que Trump via Huang, da Nvidia, como protetor dos modelos de IA de pesos abertos",
-    "summary_pt": "Trump via Huang, da Nvidia, como protetor dos modelos de IA de pesos abertos, dizem fontes à Reuters"
   },
   {
     "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
@@ -6481,20 +6714,6 @@
     "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-mexico-analysis01a-photo-wkjz/22int-mexico-analysis01a-photo-wkjz-mediumSquareAt3X.jpg",
     "title_pt": "O México está intensificando a guerra contra as drogas?",
     "summary_pt": "Com vários poderosos chefes do tráfico de drogas derrubados recentemente pelas forças mexicanas, alguns especialistas veem o que pode ser o início de um novo capítulo no México."
-  },
-  {
-    "title": "NATO to send early-warning system aircraft to Poland after missiles incident",
-    "summary": "NATO to send early-warning system aircraft to Poland after missiles incident Reuters",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEhFQnBrZnZEa0dZclBpTkZMV3BBNS1tN3NjeGhINDZKcllFTERwWnR6NlpzM0Q0WTZkbGM3SXpVWGZ2bGFFaW4xV2M4T3BIUE1VUkxMX19wa0RwM0JaTDBEM3l4R1ROZlVwSjE1LWVUYnp6SU40WjMyeFlFZjlJYjV0ZE9LVTZkR0pIblp0cXdzeE5fLTNhbkR3QVFfa3pDU2M4blFEMlI4dm5XUTRDUExwTUpyLXJxU0ZiRjBZcFhQWVBFQ294SllhMld3UQ?oc=5",
-    "date": "2026-11-23T19:01:22Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "OTAN enviará aeronaves com sistema de alerta precoce para a Polônia após incidente com mísseis",
-    "summary_pt": "OTAN enviará aeronaves com sistema de alerta precoce para a Polônia após incidente com mísseis Reuters"
   },
   {
     "title": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
@@ -6565,20 +6784,6 @@
     "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/35ff1268-2d2b-4dfb-aa51-7aaa1edf8163/thumbnail/1200x630/45eac8172cfc63e11f0253d9912ad8f6/florida-murder-06d6ef69-d5eb-4f0a-b5de-143fe98e8f8f-untitledmay302026at13-05-291standardyoutubethumbnail1280x7205.png",
     "title_pt": "Homem dos EUA condenado por matar mulher do Reino Unido que conheceu em site de fetiche",
     "summary_pt": "Dwain Hall foi considerado culpado de sequestro e assassinato de Sonia Exelby e condenado a duas penas consecutivas de prisão perpétua, disseram os promotores da Flórida."
-  },
-  {
-    "title": "CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount",
-    "summary": "CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUdmOUFLaEppLU9uMl80V2x1RTg4YWg3VUc5cWZsVzNfUWJBN2pFY3BhTndKanI0U2gzZHMzZVdpeWlkVkdBMkxGZkEtNFYyYmhteTQ5MHM0NnhkN2lfVk1WcDRxZDluQzVXNll2OWhodnVmaG9qNm15SWdweEM4YmxSWXVKd21mNW9uWW82MHUyWlJLTEE?oc=5",
-    "date": "2026-11-23T18:31:10Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "A CrowdStrike adquire a Zscaler em um negócio de US$ 44 bilhões à medida que as ameaças cibernéticas aumentam",
-    "summary_pt": "CrowdStrike adquire a Zscaler em um negócio de US$ 44 bilhões à medida que as ameaças cibernéticas aumentam Reuters"
   },
   {
     "title": "Iran carries out flogging of singer who performed without hijab",
@@ -6679,20 +6884,6 @@
     "summary_pt": "A guerra no Irã provocou uma rápida transição das motocicletas para os veículos elétricos de duas rodas no Vietnã, criando uma economia informal de carregamento liderada por proprietários de imóveis empreendedores."
   },
   {
-    "title": "Trump thinks China will buy another 250 Boeing airplanes",
-    "summary": "Trump thinks China will buy another 250 Boeing airplanes Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVTRDX1g3YlY5UEgxMzJ3OTdhU0VUdU1ubmRRXzZwaDVibmRycVllN2hQSUhyeEFfNWpwc1VWQ1hKR3NSeTVmZHpSQ1hLeW5pUFpoNW15MGljX1BXUkdRX0hxeEdUMzkyNFVFYzlpb2ZNN09IN1FDXzIxblBEVjgtS3hlNTZRcnRWN2ZQOW8tYmtKeXlwTDI0bW9rSXpJZ2cxcU9wazcyMGZ1RFFaM01SRUd3QkYwN000dVFJ?oc=5",
-    "date": "2026-11-23T17:44:34Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Trump acredita que a China comprará mais 250 aviões da Boeing",
-    "summary_pt": "Trump acha que a China vai comprar mais 250 aviões da Boeing Reuters"
-  },
-  {
     "title": "Tourists evacuated after fire destroys 6 hotels in Zanzibar's popular Nungwi Beach area",
     "summary": "ZANZIBAR, Tanzania (AP) — An investigation was underway on Monday following a huge fire that engulfed six hotels in Tanzania over the weekend, along a popular beach on the semiautonomous archipelago of Zanzibar. Several hotel workers were injured and authorities said about 180 tourists were safely …",
     "category": "Geral",
@@ -6761,257 +6952,5 @@
     "image": "https://ic-cdn.flipboard.com/apnews.com/b9e0ff770cf428af151f8775394db5a2abdc7cac/_xlarge.jpeg",
     "title_pt": "O primeiro-ministro da Armênia propõe uma nova Constituição em busca da paz com o Azerbaijão",
     "summary_pt": "EREVAN, Armênia (AP) — O primeiro-ministro da Armênia, Nikol Pashinyan, apresentou na segunda-feira uma proposta de minuta da nova Constituição do país, no mais recente passo em direção a um acordo de paz com o Azerbaijão, país vizinho e inimigo de longa data. Em um pronunciamento à nação, Pashinyan disse que, após a proposta..."
-  },
-  {
-    "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
-    "summary": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
-    "date": "2026-11-23T17:15:17Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg",
-    "title_pt": "Líderes políticos israelenses denunciam \"terrorismo judaico\" após ataques na Cisjordânia",
-    "summary_pt": "Colonizadores extremistas realizaram uma série de ataques violentos em vilarejos palestinos no fim de semana, levando os opositores do governo Netanyahu a exigir uma resposta contundente."
-  },
-  {
-    "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
-    "summary": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-23T17:14:50Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f36/live/7d4e5560-e758-11f1-b407-33329b1ec67a.png",
-    "title_pt": "Comediante imita os passos de dança de Trump e zomba das negociações comerciais no jantar da imprensa canadense",
-    "summary_pt": "O imitador, o comediante canadense Mark Critch, zombou da busca do presidente dos EUA por um novo secretário de imprensa e das negociações comerciais entre os EUA e o Canadá."
-  },
-  {
-    "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-    "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-23T17:07:25Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810a/live/c0542f80-e73d-11f1-99a1-253766e7ad8b.jpg",
-    "title_pt": "Os ataques israelenses transformaram Gaza em um \"deserto tóxico\", diz a Oxfam",
-    "summary_pt": "O relatório afirma que há sinais de possível contaminação em quase toda Gaza como resultado das ações de Israel."
-  },
-  {
-    "title": "Latest news bulletin | November 23rd, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "EU",
-    "source": "Euronews",
-    "url": "https://www.euronews.com/video/2026/11/23/latest-news-bulletin-november-23rd-2026-evening",
-    "date": "2026-11-23T17:00:26Z",
-    "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/10/00/52/81/696x392_cmsv2_521a6ba7-0553-536d-837c-bc83f8dd9a69-10005281.jpg",
-    "title_pt": "Último boletim de notícias | 23 de novembro de 2026 – Noite",
-    "summary_pt": "Fique por dentro das notícias mais importantes da Europa e de outras partes do mundo neste dia 23 de novembro de 2026. Últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens."
-  },
-  {
-    "title": "U.S. will host the 2031 Women's World Cup, FIFA announces",
-    "summary": "FIFA has confirmed a United States-led bid to host the 2031 Women's World Cup and a U.K. project led by England for the 2035 edition.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/news/us-host-2031-fifa-women-world-cup-announcement/",
-    "date": "2026-11-23T16:59:31Z",
-    "lang": "en",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/568b5d53-3464-4c24-8691-8e31f677c7da/thumbnail/1200x630/80eb8522140f258a6e3ed3d121f1a343/ap26327543485466.jpg",
-    "title_pt": "Os EUA sediarão a Copa do Mundo Feminina de 2031, anuncia a FIFA",
-    "summary_pt": "A FIFA confirmou uma candidatura liderada pelos Estados Unidos para sediar a Copa do Mundo Feminina de 2031 e um projeto liderado pela Inglaterra para a edição de 2035."
-  },
-  {
-    "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
-    "summary": "Island’s labour minister, Colin Jordan, says agreement acknowledges links between Speightstown and UK city are rooted in slave trade A town in Barbados known as “Little Bristol” has signed a “twinning’” agreement with the UK city, marking a new chapter in a centuries-long relationship rooted in the transatlantic slave trade. Barbados says the new partnership",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
-    "date": "2026-11-23T16:53:13Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/24fed4fd10403e24fe12b5488f5534556ec94642/381_0_2926_2340/master/2926.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab6951d4cf5c8305be3e08db3a762fe9",
-    "title_pt": "O acordo de três anos entre a cidade de Barbados e Bristol faz \"parte do processo de reparação\"",
-    "summary_pt": "O ministro do Trabalho da ilha, Colin Jordan, afirma que o acordo reconhece que os vínculos entre Speightstown e a cidade britânica têm suas raízes no comércio de escravos. Uma cidade em Barbados conhecida como \"Pequena Bristol\" assinou um acordo de \"irmandade\" com a cidade britânica, marcando um novo capítulo em uma relação centenária enraizada no comércio transatlântico de escravos. Barbados afirma que a nova parceria"
-  },
-  {
-    "title": "Finland summons Russian ambassador after suspected airspace violation",
-    "summary": "Finland on Monday said it had summoned Russia's ambassador over a suspected violation of Finnish airspace by a Russian helicopter and after a Ukrainian drone strike on a Russian cargo ship located in the Gulf of Finland in recent days. Helsinki also condemned Moscow's escalating strikes on civilian targets in Ukraine.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/europe/20261123-finland-summons-russian-ambassador-after-suspected-airspace-violation",
-    "date": "2026-11-23T16:50:41Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/7ad57222-e759-11f1-9bc1-e56ab3dc0809/w:1024/p:16x9/AP26326490305591.jpg",
-    "title_pt": "Finlândia convoca embaixador russo após suspeita de violação do espaço aéreo",
-    "summary_pt": "Na segunda-feira, a Finlândia informou que convocou o embaixador da Rússia devido a uma suspeita de violação do espaço aéreo finlandês por um helicóptero russo e após um ataque de drones ucranianos a um navio de carga russo localizado no Golfo da Finlândia nos últimos dias. Helsinque também condenou a escalada dos ataques de Moscou a alvos civis na Ucrânia."
-  },
-  {
-    "title": "Lucy Powell to visit China to promote UK education weeks after MI5 warning",
-    "summary": "Delegation of 50 to accompany minister, with trip criticised after universities were warned about Chinese interference The education secretary, Lucy Powell, is travelling to Beijing this week to promote UK education, weeks after MI5 issued a rare public warning to universities about Chinese interference in UK academia. A 50-strong UK delegation, including 18",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
-    "date": "2026-11-23T16:42:09Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/8d0b2aa07aef04841b4d35eb7ba1dfe6f5ffc3ad/643_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab79fd20f474578d6cfea40f5513cc9d",
-    "title_pt": "Lucy Powell visitará a China para promover a educação do Reino Unido semanas após o alerta do MI5",
-    "summary_pt": "Delegação de 50 pessoas para acompanhar a ministra, com a viagem sendo criticada após as universidades terem sido alertadas sobre a interferência chinesa. A secretária de Educação, Lucy Powell, viajará para Pequim esta semana para promover a educação do Reino Unido, semanas depois de o MI5 ter emitido um raro alerta público às universidades sobre a interferência chinesa no meio acadêmico do Reino Unido. Uma delegação britânica de 50 pessoas, incluindo 18"
-  },
-  {
-    "title": "Capture of drug lord on FBI's most wanted list leads to more arrests",
-    "summary": "Fausto Isidro Meza Flores, alias \"Chapo Isidro,\" was captured in Sinaloa during a special forces raid in coordination with U.S. intelligence.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/news/chapo-isidro-capture-violence-arrests-mexico/",
-    "date": "2026-11-23T16:37:00Z",
-    "lang": "en",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/8d3a216a-b007-41d4-aaae-5e0e35a67dc5/thumbnail/1200x630/fbef4429daf27728001ed33722ff5bf7/mexico-screenshot-2026-11-23-093551.png",
-    "title_pt": "Captura de narcotraficante da lista dos mais procurados do FBI leva a mais prisões",
-    "summary_pt": "Fausto Isidro Meza Flores, conhecido como \"Chapo Isidro\", foi capturado em Sinaloa durante uma operação das forças especiais coordenada com a inteligência dos EUA."
-  },
-  {
-    "title": "Justiça da Espanha concede anistia definitiva a líder separatista catalão Carles Puigdemont",
-    "summary": "Carles Puigdemont faz sinal de resistência em foto de 2024, quando ele compareceu para fazer um discurso para apoiadores em Barcelona e depois, fugiu de novo. Lorena Sopena/Reuters O Tribunal Supremo espanhol aplicou a lei de anistia ao líder independentista catalão Carles Puigdemont e encerrou o processo por sua implicação na tentativa fracassada de secessã",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "G1 Mundo",
-    "url": "https://g1.globo.com/mundo/noticia/2026/11/23/justica-espanhola-concede-anistia-definitiva-ao-lider-independentista-catalao-puigdemont.ghtml",
-    "date": "2026-11-23T16:35:08Z",
-    "lang": "pt",
-    "image": "https://s2-g1.glbimg.com/DqouR5utyMEwIK7wCmM6T6bli5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/g/D/RAGCDARpyzLtgIkXsx5A/2024-08-08t071316z-1141321341-rc2ib9alj7qi-rtrmadp-3-spain-politics-puigdemont.jpg",
-    "title_pt": "Justiça da Espanha concede anistia definitiva a líder separatista catalão Carles Puigdemont",
-    "summary_pt": "Carles Puigdemont faz sinal de resistência em foto de 2024, quando ele compareceu para fazer um discurso para apoiadores em Barcelona e depois, fugiu de novo. Lorena Sopena/Reuters O Tribunal Supremo espanhol aplicou a lei de anistia ao líder independentista catalão Carles Puigdemont e encerrou o processo por sua implicação na tentativa fracassada de secessã"
-  },
-  {
-    "title": "EU Commission proposes ban on Russian athletes, ex-fighters in new Russia sanctions package",
-    "summary": "EU Commission proposes ban on Russian athletes, ex-fighters in new Russia sanctions package Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1A2RHl1RS1IaFcyWmlES0xYNW1lbnM5VlhwWVU5ajZhRVVBa0Mydi1OZG4tS0tCYVJKX1JiOUtmWlNTZVJmTGRTRlFtZTRXRTRxcXB1aGMya2JhWm41UXE5Y2pxTlFDNzVSQ2MyV0RPZzNoYlZtazdMX3RYRnB6VFFsaEFnTGI5RFk4TnczUE9aTXFqcGNxZ0psd1JUczRBNi1LSkpnVk8?oc=5",
-    "date": "2026-11-23T16:26:12Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Comissão Europeia propõe proibição de atletas russos e ex-combatentes no novo pacote de sanções contra a Rússia",
-    "summary_pt": "Comissão Europeia propõe proibição de atletas russos e ex-combatentes no novo pacote de sanções à Rússia Reuters"
-  },
-  {
-    "title": "US and UK to host Women's World Cups in 2031 and 2035",
-    "summary": "FIFA has confirmed the United States, Mexico, Costa Rica and Jamaica will host the 2031 Women's World Cup — the first to feature 48 teams. The UK will stage the 2035 edition, its first World Cup since 1966.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "DE",
-    "source": "Deutsche Welle",
-    "url": "https://www.dw.com/en/us-and-uk-to-host-women-s-world-cups-in-2031-and-2035/a-80023786?maca=en-rss-en-all-1573-rdf",
-    "date": "2026-11-23T16:19:00Z",
-    "lang": "en",
-    "image": "https://static.dw.com/image/66583051_6.jpg",
-    "title_pt": "EUA e Reino Unido sediarão as Copas do Mundo Femininas de 2031 e 2035",
-    "summary_pt": "A FIFA confirmou que os Estados Unidos, o México, a Costa Rica e a Jamaica sediarão a Copa do Mundo Feminina de 2031 — a primeira a contar com 48 seleções. O Reino Unido sediará a edição de 2035, sua primeira Copa do Mundo desde 1966."
-  },
-  {
-    "title": "COP31 Climate Talks Broke Down. Now What?",
-    "summary": "With big diplomatic efforts faltering, smaller pacts, local leaders and booming clean energy take center stage.",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
-    "date": "2026-11-23T16:18:49Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23CLI-COP31-WHAT-NOW-1-fpgh/23CLI-COP31-WHAT-NOW-1-fpgh-mediumSquareAt3X-v2.jpg",
-    "title_pt": "As negociações climáticas da COP31 fracassaram. E agora?",
-    "summary_pt": "Com os grandes esforços diplomáticos vacilando, pactos menores, líderes locais e o crescimento da energia limpa ganham destaque."
-  },
-  {
-    "title": "WHO director-general visits Cuba as healthcare system breaks down",
-    "summary": "HAVANA (AP) — The World Health Organization’s top official is visiting Cuba as the island’s healthcare system is crumbling under a spiraling economic crisis and worsening power outages. WHO Director-General Tedros Adhanom Ghebreyesus toured a darkened pediatric cardiology center on Monday with Cuban …",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/cuba-who-director-general-health-system-tedros-4432aa03abf3f5fc8b6f2e480f451b8c?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-    "date": "2026-11-23T16:16:28Z",
-    "lang": "en",
-    "image": "https://ic-cdn.flipboard.com/apnews.com/148b9e36fd31f763f5515b809673f6a79fb67321/_large.jpeg",
-    "title_pt": "Diretor-geral da OMS visita Cuba enquanto o sistema de saúde entra em colapso",
-    "summary_pt": "HAVANA (AP) — A principal autoridade da Organização Mundial da Saúde está visitando Cuba em um momento em que o sistema de saúde da ilha está entrando em colapso devido a uma crise econômica crescente e ao agravamento dos apagões de energia. O diretor-geral da OMS, Tedros Adhanom Ghebreyesus, visitou um centro de cardiologia pediátrica às escuras na segunda-feira com..."
-  },
-  {
-    "title": "Why some Europeans have started prepping for doomsday",
-    "summary": "Amid tech glitches, cyberattacks and climate change, some European governments are urging people to prepare for days without access to basic necessities.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/news/prepping-comes-to-europe-government-advice-stockpile-food-water/",
-    "date": "2026-11-23T16:15:02Z",
-    "lang": "en",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/76495184-0ab4-4f02-993e-213ed751fc39/thumbnail/1200x630/9cbb7afb63fc8447df231ec9a09dcffe/uk-prepping-2304452242.jpg",
-    "title_pt": "Por que alguns europeus começaram a se preparar para o fim do mundo",
-    "summary_pt": "Em meio a falhas tecnológicas, ciberataques e mudanças climáticas, alguns governos europeus estão pedindo às pessoas que se preparem para dias sem acesso a itens básicos."
-  },
-  {
-    "title": "How important are Nvidia and Jensen Huang to the US economy?",
-    "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-    "category": "Economia",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-23T16:12:35Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
-    "title_pt": "Qual é a importância da Nvidia e de Jensen Huang para a economia dos Estados Unidos?",
-    "summary_pt": "O CEO da Nvidia tem estado no centro do boom da inteligência artificial."
-  },
-  {
-    "title": "Ukraine releases footage of strikes on two Russian vessels off Libya",
-    "summary": "Ukraine has released footage showing what it says are strikes against two Russian vessels off the Libyan port of Benghazi.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "EU",
-    "source": "Euronews",
-    "url": "https://www.euronews.com/2026/11/23/ukraine-releases-footage-of-strikes-on-two-russian-vessels-off-libya",
-    "date": "2026-11-23T15:56:16Z",
-    "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/10/00/48/26/696x392_cmsv2_8a3492da-71d2-58f2-a38e-51294aeca9de-10004826.jpg",
-    "title_pt": "A Ucrânia divulga imagens de ataques a dois navios russos ao largo da Líbia",
-    "summary_pt": "A Ucrânia divulgou imagens que, segundo ela, mostram ataques contra dois navios russos ao largo do porto líbio de Benghazi."
-  },
-  {
-    "title": "The rise and fall and rise again of Jensen Huang",
-    "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-23T15:49:52Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
-    "title_pt": "A ascensão, a queda e a nova ascensão de Jensen Huang",
-    "summary_pt": "Dias depois de renunciar enquanto estava envolvido em um escândalo de casos extraconjugais, Jensen Huang, da Nvidia, está fazendo um retorno notável."
   }
 ]
