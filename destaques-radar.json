@@ -1,8 +1,8 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T19:57:15.984454Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T20:02:26.925904Z",
+  "status": "checado",
   "items": [
     {
       "title": "Sputnik-S, o satélite russo que ameaça levar a guerra nuclear ao espaço",
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "A pressão de Trump sobre a Nvidia mostra a importância das empresas na guerra econômica global",
+      "summary": "Os presidentes que o antecederam socorreram empresas em tempos de crise nacional. Trump foi além: apostou o destino dos Estados Unidos no de um diretor-executivo de sua preferência.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+      "published_on": "24/11/2026 15:54 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Ben-Gvir de Israel acusado de buscar “guerra religiosa” por causa de ataques a mesquitas",
       "summary": "A polícia israelense confiscou alto-falantes de mesquitas enquanto legisladores de extrema direita pressionam uma legislação para restringir o chamado à oração.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss",
       "published_on": "24/11/2026 14:38 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b044cea4a73-1795443946.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "A pressão de Trump sobre a Nvidia mostra a importância das empresas na guerra econômica global",
-      "summary": "Os presidentes que o antecederam socorreram empresas em tempos de crise nacional. Trump foi além: apostou o destino dos Estados Unidos no de um diretor-executivo de sua preferência.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
-      "published_on": "24/11/2026 14:34 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
