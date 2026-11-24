@@ -1,8 +1,44 @@
 [
   {
+    "title": "‘Saturday Night Live’ Is Coming to France",
+    "summary": "A French adaptation of the American sketch comedy institution will premiere next month on the premium channel Canal+. It comes as a British version is hitting a stride.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
+    "date": "2026-11-24T21:02:37Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-snl-france/24xp-snl-france-mediumSquareAt3X.jpg"
+  },
+  {
+    "title": "Tech Life",
+    "summary": "Experts from around the world plot the progress of AI development every five years.",
+    "category": "Tecnologia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-24T21:00:00Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq4sx.jpg"
+  },
+  {
+    "title": "Armed men take hostages at supermarket in Cartagena, Colombia",
+    "summary": "Colombian President Abelardo de la Espriella said that the men were \"common criminals\" who fled into the supermarket after a failed attempt to hold up an armored truck.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/news/cartagena-colombia-hostages-supermarket/",
+    "date": "2026-11-24T20:59:44Z",
+    "lang": "en",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/083d9220-fa69-48d6-9c7c-3fb7b201ce3f/thumbnail/1200x630/eeaf70bc20115ee99a80dbe635dd2e72/ap26328715944401.jpg"
+  },
+  {
     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -12,6 +48,20 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
     "title_pt": "Huawei considerada culpada de roubar segredos comerciais, mas absolvida de extorsão",
     "summary_pt": "O veredicto segue-se a um julgamento de meses em Nova York."
+  },
+  {
+    "title": "Real Madrid-PSV, en directo, el partido de la Champions League en vivo | El PSV gana al descanso gracias a un tanto de Perisic",
+    "summary": "Un pisotón de Tchouameni sobre Mijnans provoca un penal que pone por detrás en el marcador a los blancos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/futbol/2026-11-24/real-madrid-psv-en-directo-el-partido-de-la-champions-league-en-vivo.html",
+    "date": "2026-11-24T20:57:50Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/FZ3G4A4XQBBYXCYLU75UADCKXQ.jpg?auth=1e39f2029dc5ac77261d60939d5801fdfedc49aa152fdaccf673bff3a2f65379",
+    "title_pt": "Real Madrid-PSV, ao vivo, jogo da Liga dos Campeões ao vivo | PSV vence ao intervalo graças a golo de Perisic",
+    "summary_pt": "Uma pisada de Tchouameni sobre o Mijnans provoca um pênalti que deixa os brancos em desvantagem no placar"
   },
   {
     "title": "National Security vs. the Stock Market",
@@ -28,18 +78,16 @@
     "summary_pt": "O presidente Trump afastou as preocupações sobre uma possível espionagem quando pressionou o conselho da Nvidia para reintegrar Jensen Huang como presidente-executivo."
   },
   {
-    "title": "Real Madrid-PSV, en directo, el partido de la Champions League en vivo | El PSV gana al descanso gracias a un tanto de Perisic",
-    "summary": "Un pisotón de Tchouameni sobre Mijnans provoca un penal que pone por detrás en el marcador a los blancos",
+    "title": "TikTok sufre problemas de acceso a nivel global: los usuarios reportan fallos generalizados en la aplicación",
+    "summary": "Los usuarios de la red social han notificado fallos para entrar en la app, ver vídeos y dejar comentarios, entre otras funciones",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
     "source": "El País",
-    "url": "https://elpais.com/deportes/futbol/2026-11-24/real-madrid-psv-en-directo-el-partido-de-la-champions-league-en-vivo.html",
-    "date": "2026-11-24T20:51:01Z",
+    "url": "https://elpais.com/tecnologia/2026-11-24/tiktok-sufre-problemas-de-acceso-a-nivel-global-los-usuarios-reportan-fallos-generalizados-en-la-aplicacion.html",
+    "date": "2026-11-24T20:53:53Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/FZ3G4A4XQBBYXCYLU75UADCKXQ.jpg?auth=1e39f2029dc5ac77261d60939d5801fdfedc49aa152fdaccf673bff3a2f65379",
-    "title_pt": "Real Madrid-PSV, ao vivo, jogo da Liga dos Campeões ao vivo | PSV vence ao intervalo graças a golo de Perisic",
-    "summary_pt": "Uma pisada de Tchouameni sobre o Mijnans provoca um pênalti que deixa os brancos em desvantagem no placar"
+    "image": "https://imagenes.elpais.com/resizer/v2/BHLDTWBBPNGALM67KZ2LSIII6Q.jpg?auth=1144c94ea80d4c623aae6c8a20e0ed3f9212f51a9c08d8b867f6e168fdf39b87"
   },
   {
     "title": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
@@ -49,11 +97,25 @@
     "country": "GB",
     "source": "The Guardian",
     "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-    "date": "2026-11-24T20:44:23Z",
+    "date": "2026-11-24T20:49:25Z",
     "lang": "en",
     "image": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=01befd13f3a603c531ac6b7679e3523b",
     "title_pt": "O DoJ de Trump ‘investigou’ as preocupações sobre Huang após um caso com um suposto espião chinês, mas diz que nenhum risco de segurança foi encontrado – ao vivo",
     "summary_pt": "O Departamento de Justiça e outras agências chegaram a um “consenso coletivo” de que Jensen Huang não é um risco para a segurança nacional, diz o procurador-geral Todd Blanche. Ele concederá a mais alta honraria civil do país"
+  },
+  {
+    "title": "Australian politics live: Chalmers notes ‘serious moment for our economy’; inflation expected to jump to 4.8%",
+    "summary": "Get our daily political email , free app or daily news podcast Wells says meeting with US ambassador ‘really useful’ Anika Wells says she won’t hypothesise what the United States will do, if anything, after the US ambassador raised “objections” to the digital duty of care bill. It’s not for me to hypothesise what another nations administration might want to ",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+    "date": "2026-11-24T20:48:41Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/225db5ddbf67036e02aa877e209fa7a017281505/868_768_3204_2565/master/3204.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b4c2b21a4f120bff3401e6ddfbf6e4dd",
+    "title_pt": "A política australiana está viva: Chalmers observa “momento sério para a nossa economia”; inflação deverá saltar para 4,8%",
+    "summary_pt": "Receba nosso e-mail político diário, aplicativo gratuito ou podcast de notícias diárias Embaixador dos EUA critica projeto de lei de dever de cuidado digital do Partido Trabalhista O embaixador americano na Austrália levantou “objeções” ao projeto de lei de dever de cuidado digital do Partido Trabalhista, dizendo que estava “preocupado” com o fato de que isso prejudicaria as empresas de tecnologia dos EUA. Hoje encontrei-me com a Ministra das Comunicações, Anika Wells, e expus o Trump Admi"
   },
   {
     "title": "Assembleias imitam Congresso e ampliam controle parlamentar sobre verbas públicas",
@@ -96,20 +158,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/VDVHGZVYPNNP7CXUOFZGSNNBJY.jpg?auth=68bb3b7ad374d3d0217c50319bcb84a6d73994eb7c2ae4d409e3281b6abd1489",
     "title_pt": "Fúria e consternação no Congresso dos EUA com o retorno de Huang à Nvidia e o papel de Trump nisso",
     "summary_pt": "O CEO da gigante dos semicondutores comparecerá na próxima semana perante quatro comissões no Capitólio"
-  },
-  {
-    "title": "Australian politics live: Chalmers notes ‘serious moment for our economy’; inflation expected to jump to 4.8%",
-    "summary": "Get our daily political email , free app or daily news podcast US ambassador criticises Labor’s digital duty of care bill The American ambassador to Australia has raised “objections” to Labor’s digital duty of care bill, saying he was “concerned” it would hurt US tech businesses. Today I met Minister for Communications Anika Wells and laid out the Trump Admi",
-    "category": "Economia",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-    "date": "2026-11-24T20:41:16Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/225db5ddbf67036e02aa877e209fa7a017281505/868_768_3204_2565/master/3204.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b4c2b21a4f120bff3401e6ddfbf6e4dd",
-    "title_pt": "A política australiana está viva: Chalmers observa “momento sério para a nossa economia”; inflação deverá saltar para 4,8%",
-    "summary_pt": "Receba nosso e-mail político diário, aplicativo gratuito ou podcast de notícias diárias Embaixador dos EUA critica projeto de lei de dever de cuidado digital do Partido Trabalhista O embaixador americano na Austrália levantou “objeções” ao projeto de lei de dever de cuidado digital do Partido Trabalhista, dizendo que estava “preocupado” com o fato de que isso prejudicaria as empresas de tecnologia dos EUA. Hoje encontrei-me com a Ministra das Comunicações, Anika Wells, e expus o Trump Admi"
   },
   {
     "title": "Procurador despista sobre investigação contra CEO da Nvidia: “Pelo quê?”",
@@ -616,20 +664,6 @@
     "summary_pt": "A revisão do ministro diz que o sistema Pip não é mais adequado ao propósito e recomenda novo teste para quem tem permissão para reivindicar. Centenas de milhares de pessoas enfrentam a perda de seus benefícios por invalidez sob planos que estão sendo considerados pelos ministros como parte de uma mudança no sistema de bem-estar social. As autoridades estão elaborando planos para redesenhar o sistema de pagamento de independência pessoal (Pip) f"
   },
   {
-    "title": "The Bukele method: will Salvadoran leader's strong-arm tactics work for Haiti?",
-    "summary": "Haitians are hailing the Bukele method. Citizens of the Americas’ poorest nation cheering the Salvadoran president’s ’shoot first, ask questions later’ method of dealing with the gangs that have overrun their country the past six years. Can the police force deployed actually restore law and order? We’ll ask about the latest in a decades-long list of efforts ",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/the-debate/20261124-the-bukele-method-will-salvadoran-leader-s-strong-arm-tactics-work-for-haiti",
-    "date": "2026-11-24T19:59:35Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/efcdc226-e837-11f1-8734-81da3ab2acbb/w:1024/p:16x9/2026-11-22T004619Z-487606393-RC26SOA1S5RQ-RTRMADP-3-HAITI-EL-SALVADOR.jpg",
-    "title_pt": "O método Bukele: as táticas de braço forte do líder salvadorenho funcionarão para o Haiti?",
-    "summary_pt": "Os haitianos estão aplaudindo o método Bukele. Cidadãos da nação mais pobre das Américas aplaudindo o método do presidente salvadorenho de “atirar primeiro, perguntar depois” para lidar com os gangues que invadiram o seu país nos últimos seis anos. A força policial mobilizada pode realmente restaurar a lei e a ordem? Perguntaremos sobre o que há de mais recente em uma lista de esforços de décadas"
-  },
-  {
     "title": "Chefe da ONU alerta que a IA não deve decidir quem vive ou morre em guerras",
     "summary": "Secretário-geral da organização, António Guterres, afirmou que tecnologia não deve substituir o julgamento humano em decisões sobre uso da força em conflitos",
     "category": "Geral",
@@ -670,34 +704,6 @@
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg",
     "title_pt": "A pressão de Trump sobre a Nvidia mostra a importância das empresas na guerra econômica global",
     "summary_pt": "Os presidentes que o antecederam socorreram empresas em tempos de crise nacional. Trump foi além: apostou o destino dos Estados Unidos no de um diretor-executivo de sua preferência."
-  },
-  {
-    "title": "Senegal AFCON ruling 'good in the books of sports law', expert says",
-    "summary": "Speaking with FRANCE 24's Jennie Shin, sports presenter and journalist Thando Sibiya explains that the decision by the Court of Arbitration for Sport to reinstate Senegal as ⁠winner of ​the 2025 Africa Cup of Nations \"from a jurisprudence perspective or creating precedent, it is going to be good in the books of sports law, because if every single decision of",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/senegal-afcon-ruling-good-in-the-books-of-sports-law-expert-says",
-    "date": "2026-11-24T19:54:12Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/2c587954-e840-11f1-a6fd-29d00e23de9a/w:1024/p:16x9/EN-20261124-203334-203830-CS.jpg",
-    "title_pt": "Decisão da AFCON do Senegal é 'boa nos livros de direito desportivo', diz especialista",
-    "summary_pt": "Falando com Jennie Shin do FRANCE 24, o apresentador esportivo e jornalista Thando Sibiya explica que a decisão do Tribunal Arbitral do Esporte de restabelecer o Senegal como ⁠vencedor da Copa das Nações Africanas de 2025 \"do ponto de vista da jurisprudência ou da criação de precedentes, será bom nos livros de direito desportivo, porque se cada decisão de"
-  },
-  {
-    "title": "Senegal regain AFCON title on appeal at Morocco's expense",
-    "summary": "Senegal on Tuesday regained their Africa Cup of Nations title after winning an appeal at the Court of Arbitration for Sport (CAS) against the decision by the Confederation of African Football to declare Morocco the winners following a chaotic final in January. CAS said in a statement it had \"upheld the appeal by the Senegalese Football Federation (FSF) again",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/senegal-regain-afcon-title-on-appeal-at-morocco-s-expense",
-    "date": "2026-11-24T19:52:29Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/7b26b62e-e83e-11f1-adf5-c131ae9bfe9c/w:1024/p:16x9/EN-20261124-202104-202249-CS.jpg",
-    "title_pt": "Senegal recupera o título da AFCON em recurso às custas de Marrocos",
-    "summary_pt": "O Senegal recuperou na terça-feira o título da Taça das Nações Africanas depois de vencer um recurso no Tribunal Arbitral do Desporto (CAS) contra a decisão da Confederação Africana de Futebol de declarar Marrocos vencedor após uma final caótica em Janeiro. O CAS disse em comunicado que \"aceitou novamente o apelo da Federação Senegalesa de Futebol (FSF)"
   },
   {
     "title": "Turkish military helicopter crash kills five in western Turkiye",
@@ -1020,20 +1026,6 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/palacio-do-planalto.webp?w=200",
     "title_pt": "Moraes autoriza Bolsonaro a receber advogado durante internação",
     "summary_pt": "Encontros deverão respeitar horários de visitação e regras do hospital particular; boletim médico desta terça apontou \"melhora discreta\" no quadro clínico do ex-presidente"
-  },
-  {
-    "title": "Car bomb destroys buildings in central Colombian city",
-    "summary": "A car bomb detonated in the central Colombian city of Villavicencio on Monday, destroying a local governor's office and surrounding buildings, President Abelardo de la Espriella said. The right-wing leader has conducted a major crackdown on the country's drug trade, in response to left-wing FARC rebels who have stepped up attacks over the past two years. FRA",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/car-bomb-destroys-buildings-in-central-colombian-city",
-    "date": "2026-11-24T19:27:10Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/4b5f90de-e83c-11f1-b3ea-c131ae9bfe9c/w:1024/p:16x9/EN-20261124-201336-201510-CS.jpg",
-    "title_pt": "Carro-bomba destrói prédios em cidade central da Colômbia",
-    "summary_pt": "Um carro-bomba foi detonado na cidade de Villavicencio, no centro da Colômbia, na segunda-feira, destruindo o gabinete do governador local e os edifícios vizinhos, disse o presidente Abelardo de la Espriella. O líder de direita conduziu uma grande repressão ao comércio de drogas no país, em resposta aos rebeldes de esquerda das FARC que intensificaram os ataques nos últimos dois anos. França"
   },
   {
     "title": "Defesa Civil alerta para temporais e calor em São Paulo",
@@ -1444,7 +1436,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1864,7 +1856,7 @@
   {
     "title": "Faisal Islam: Fears over the AI boom haven't gone away",
     "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2226,20 +2218,6 @@
     "summary_pt": "Austrália propõe permitir que usuários 'desliguem' algoritmo das redes sociais A Austrália quer aumentar as punições para empresas de tecnologia que não impeçam a circulação de conteúdos prejudiciais em suas plataformas. Pelo projeto de lei, gigantes como Google e Meta poderão ser multadas em até 5% de sua receita global caso não removam conteúdos nocivos ou"
   },
   {
-    "title": "Gunmen hold two dozen people hostage at supermarket in Colombia's Cartagena",
-    "summary": "Armed robbers took roughly two dozen people hostage at a supermarket in Colombia’s tourist city of Cartagena on Tuesday, prompting a major police operation and a temporary suspension of incoming flights, authorities said. Landings at Rafael Nunez international airport resumed about 45 minutes later, after the military used a runway during the operation.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
-    "date": "2026-11-24T17:35:48Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/0002202a-e841-11f1-b0e2-29d00e23de9a/w:1024/p:16x9/000-D8HP763.jpg",
-    "title_pt": "Homens armados mantêm duas dúzias de pessoas como reféns em um supermercado em Cartagena, na Colômbia",
-    "summary_pt": "Assaltantes armados fizeram cerca de duas dúzias de pessoas reféns em um supermercado na cidade turística colombiana de Cartagena na terça-feira, o que provocou uma grande operação policial e a suspensão temporária dos voos de chegada, disseram as autoridades. Os pousos no Aeroporto Internacional Rafael Núñez foram retomados cerca de 45 minutos depois, após as forças armadas terem usado uma pista durante a operação."
-  },
-  {
     "title": "Spacecraft enters Mercury's orbit after 8-year journey despite glitch",
     "summary": "BepiColombo was launched as a joint mission between the European Space Agency and the Japan Aerospace Exploration Agency in October 2018.",
     "category": "Geral",
@@ -2576,20 +2554,6 @@
     "summary_pt": "Dois homens foram presos após invasão à casa de campo do príncipe William e de sua esposa, Kate, segundo a polícia do Reino Unido, informa a Reuters"
   },
   {
-    "title": "Yemen’s army says Houthi fighters closing in on government stronghold of Aden",
-    "summary": "Yemen's military on Tuesday said that Houthi fighters were closing in on the internationally recognised government's stronghold of Aden from about 60km (40 miles) away and vowed to repel any assault. A military spokesman said defences were prepared following Houthi advances and government pullbacks near the Red Sea.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden",
-    "date": "2026-11-24T16:51:30Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/b85cbb02-e522-11f1-8892-13439ca2fe89/w:1024/p:16x9/000-D86P464.jpg",
-    "title_pt": "Exército do Iêmen diz que combatentes Houthi estão se aproximando do reduto governamental de Áden",
-    "summary_pt": "Os militares do Iêmen disseram na terça-feira que os combatentes Houthi estavam se aproximando do reduto do governo internacionalmente reconhecido, Aden, a cerca de 60 km (40 milhas) de distância e prometeram repelir qualquer ataque. Um porta-voz militar disse que as defesas foram preparadas após os avanços dos Houthi e os recuos do governo perto do Mar Vermelho."
-  },
-  {
     "title": "El Tribunal de Estrasburgo avala las devoluciones en frontera cuando un país vecino use los flujos migratorios para desestabilizar",
     "summary": "El TEDH rechaza las demandas de cuatro solicitantes de asilo que fueron expulsados desde Lituania a Bielorrusia",
     "category": "Geral",
@@ -2716,20 +2680,6 @@
     "summary_pt": "Os EUA procuraram alinhar aliados em toda a América Latina para permitir que as forças dos EUA operassem nos seus territórios, com respostas mistas de toda a região."
   },
   {
-    "title": "France's ex-president Nicolas Sarkozy, wife Carla Bruni to stand trial for alleged witness tampering",
-    "summary": "France's former president Nicolas Sarkozy and his wife, singer Carla Bruni-Sarkozy, are set to be tried in 2027 on charges of \"criminal conspiracy with intent to commit fraud\" as well as benefitting from witness tampering. The new charges are related to the Sarkozy couple's actions during the case examining illegal campaign funding from Libyan strongman Muam",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/france/20261124-france-ex-president-nicolas-sarkozy-wife-carla-stand-trial-over-alleged-witness-tampering",
-    "date": "2026-11-24T16:33:12Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/abed1f82-ae51-11f0-9cc4-005056a97e36/w:1024/p:16x9/AP25294269505797.jpg",
-    "title_pt": "O ex-presidente francês Nicolas Sarkozy e sua esposa Carla Bruni serão julgados por suposta adulteração de testemunhas",
-    "summary_pt": "O ex-presidente da França Nicolas Sarkozy e sua esposa, a cantora Carla Bruni-Sarkozy, serão julgados em 2027 sob a acusação de “conspiração criminosa com intenção de cometer fraude”, bem como de se beneficiarem de adulteração de testemunhas. As novas acusações estão relacionadas com as ações do casal Sarkozy durante o caso que examina o financiamento ilegal de campanha do homem forte da Líbia, Muam."
-  },
-  {
     "title": "‘Unfinished Beginnings’: Art installation for children affected by war",
     "summary": "Artist Bachir Mohamad’s ‘Unfinished Beginnings’ uses 20,000 baby bottles to highlight children affected by war.",
     "category": "Conflitos",
@@ -2812,20 +2762,6 @@
     "image": "https://img.lemde.fr/2026/11/13/0/5/5889/3926/1440/960/60/0/b200b9b_ftp-1-1lvm6jhzcyb8-2026-11-13t101511z-878040256-rc2xmoahw9zb-rtrmadp-3-eu-summit.JPG",
     "title_pt": "Suécia: o centro-esquerda não consegue formar governo",
     "summary_pt": "Dois meses e meio depois das eleições legislativas, os sociais-democratas, os centristas, os Verdes e o Partido da Esquerda declararam a sua incapacidade de formar uma coligação. O primeiro-ministro conservador cessante, Ulf Kristersson, diz estar pronto para concorrer a um segundo mandato à frente da direita."
-  },
-  {
-    "title": "'We are ready to facilitate removal of Netanyahu': Head of Israel's Arab-majority Joint List",
-    "summary": "In an interview with FRANCE 24, the head of the Arab-majority Joint List said his political alliance is prepared to play a decisive role in bringing down Israeli Prime Minister Benjamin Netanyahu's government following the recent election. \"We are ready to facilitate the removal of Netanyahu\" from power, Yousef Jabareen said, signalling a willingness to expl",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261124-we-are-ready-to-facilitate-the-removal-of-netanyahu-from-power-head-of-israel-s-joint-list",
-    "date": "2026-11-24T16:29:15Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/25fa58f2-e818-11f1-b949-c131ae9bfe9c/w:1024/p:16x9/photojabareen.png",
-    "title_pt": "‘Estamos prontos para facilitar a remoção de Netanyahu’: Chefe da Lista Conjunta de maioria árabe de Israel",
-    "summary_pt": "Numa entrevista ao FRANCE 24, o chefe da Lista Conjunta de maioria árabe disse que a sua aliança política está preparada para desempenhar um papel decisivo na derrubada do governo do primeiro-ministro israelita, Benjamin Netanyahu, após as recentes eleições. “Estamos prontos para facilitar a remoção de Netanyahu” do poder, disse Yousef Jabareen, sinalizando a vontade de explorar"
   },
   {
     "title": "Ukraine: Zelenskyy and Hungary's Magyar meet amid thaw in ties",
@@ -2940,20 +2876,6 @@
     "summary_pt": "O Presidente ucraniano, Volodymyr Zelenskyy, apela à rápida aceitação do seu país na NATO. No entanto, falta a unanimidade necessária para isso, como ficou demonstrado durante a Assembleia Parlamentar da NATO em Berlim."
   },
   {
-    "title": "Senegal reinstated as 2025 Africa Cup of Nations winners",
-    "summary": "Senegal ​were reinstated as 2025 Africa Cup of Nations winners ​on Tuesday after the Court of Arbitration for Sport upheld their appeal against being stripped of the title. Senegal contested the ​Confederation ‌of African Football's decision to declare ⁠Morocco champions, despite Senegal beating the hosts 1-0 after extra time in ‌January's final in Rabat. Mo",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261124-senegal-reinstated-as-2025-africa-cup-of-nations-winners",
-    "date": "2026-11-24T16:16:03Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/cca0443c-e81d-11f1-8930-c131ae9bfe9c/w:1024/p:16x9/MINI-AFCON.jpg",
-    "title_pt": "Senegal reintegrado como vencedor da Taça das Nações Africanas de 2025",
-    "summary_pt": "O Senegal foi reintegrado como vencedor da Copa das Nações Africanas de 2025 na terça-feira, depois que o Tribunal Arbitral do Esporte deu provimento ao recurso contra a perda do título. O Senegal contestou a decisão da Confederação Africana de Futebol de declarar ⁠campeão de Marrocos, apesar de o Senegal ter derrotado os anfitriões por 1-0 após prolongamento na final de janeiro em Rabat. Mo"
-  },
-  {
     "title": "'Sedução pagã', 'voz do demônio', 'Virgem me salvou': veja frases escritas pelo papa Francisco no diário em que relatou ter visto o diabo",
     "summary": "Exemplares da coletânia com escritos de diários do papa Francisco exibida em livraria em Roma, na Itália, em 23 de novembro de 2026. Remo Casilli/ Reuters O mundo conheceu nesta terça-feira (24) anotações pessoais e confidenciais escritas pelo papa Francisco em diários que ele manteve nos últimos de sua vida. As anotações foram compiladas em um livro lançado",
     "category": "Geral",
@@ -3022,20 +2944,6 @@
     "image": "https://static.dw.com/image/71544502_6.jpg",
     "title_pt": "A ONU alerta que as infecções por HIV podem aumentar em meio aos cortes de ajuda",
     "summary_pt": "O impacto dos cortes no financiamento do governo dos Estados Unidos tem sido dramático para muitos programas de combate ao HIV, alertou o UNAIDS. A agência espera que os dados de 2027 mostrem um aumento no número de novas infecções depois de estarmos prestes a acabar com a AIDS."
-  },
-  {
-    "title": "'Tis the season to be green: Can the Christmas holidays be a present for the planet?",
-    "summary": "With the holiday season just around the corner, we take a look at its environmental impact. We discuss how to make Christmas a little greener as consumers, whether plastic trees or natural ones are better for the planet, and what small steps we can all take to reduce our carbon footprint during the festivities.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/entre-nous/20261124-tis-the-season-to-be-green-can-the-christmas-holidays-be-a-present-for-the-planet",
-    "date": "2026-11-24T16:06:14Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/8b957a54-e81b-11f1-9cc0-95e072ff0a91/w:1024/p:16x9/capture-ca8cac1d.jpg",
-    "title_pt": "'Esta é a época de ser verde: as férias de Natal podem ser um presente para o planeta?",
-    "summary_pt": "Com a época festiva ao virar da esquina, damos uma vista de olhos ao seu impacto ambiental. Discutimos como tornar o Natal um pouco mais verde para os consumidores, se as árvores de plástico ou as naturais são melhores para o planeta, e quais pequenos passos todos podemos tomar para reduzir a nossa pegada de carbono durante as festividades."
   },
   {
     "title": "Anthropic pierde el precio de la salida a Bolsa cuatro días después de debutar",
@@ -3220,20 +3128,6 @@
     "summary_pt": "Pelo menos 25 pessoas ficaram feridas num atentado bombista em Villavicencio, que danificou edifícios governamentais, empresas e veículos. Entretanto, centenas de residentes marcharam com velas em Cúcuta após um ataque separado, no meio de um ressurgimento da violência armada na Colômbia."
   },
   {
-    "title": "French police officer who shot teenager to face murder trial",
-    "summary": "A French police officer will stand trial for murder in the killing of a teenager in 2023 that sparked violent protests across the country, the Versailles appeals court said on Tuesday. Nahel Merzouk, 17, was shot in the Paris suburb of Nanterre after he failed to comply with an order to stop his car.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261124-french-police-officer-who-shot-teenager-to-face-murder-trial",
-    "date": "2026-11-24T15:54:17Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/f33a9164-e81e-11f1-811b-95e072ff0a91/w:1024/p:16x9/EN-20261124-161833-162020-CS.jpg",
-    "title_pt": "Policial francês que atirou em adolescente será julgado por homicídio",
-    "summary_pt": "Um policial francês será julgado por assassinato pelo assassinato de um adolescente em 2023, que gerou protestos violentos em todo o país, disse o tribunal de apelações de Versalhes na terça-feira. Nahel Merzouk, de 17 anos, foi baleado no subúrbio parisiense de Nanterre depois de não cumprir uma ordem para parar o seu carro."
-  },
-  {
     "title": "Las víctimas de abusos sexuales de un enfermero del colegio jesuita de Barcelona exigen en el juicio a la escuela que les pida perdón",
     "summary": "“Me da angustia que los niños se puedan quedar solos con un adulto”, relata una de las víctimas sobre las secuelas. La Fiscalía ha pedido 20 años para el religioso",
     "category": "Geral",
@@ -3246,34 +3140,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/JAX73CIZYBGUVJM5ODWHAUSHOQ.jpeg?auth=b5b8b6a83fc4595e3bd35616c239657765fe192d2320d4598ec6a96211594003",
     "title_pt": "As vítimas de abuso sexual cometido por um enfermeiro do colégio jesuíta de Barcelona exigem que a escola peça perdão a elas no julgamento",
     "summary_pt": "\"Me angustia pensar que as crianças podem ficar sozinhas com um adulto\", relata uma das vítimas sobre as sequelas. O Ministério Público pediu 20 anos para o religioso"
-  },
-  {
-    "title": "Leaked data suggests 500,000 Russian soldiers killed since start of Ukraine invasion",
-    "summary": "More than 500,000 Russian soldiers have been killed in the war with Ukraine, according to an estimate by a number of media organisations. The figures are based on a huge dataset that was hacked from Russia’s state statistics agency Rosstat by Belarusian activist group Cyber Partisans and a Ukrainian hacker group, Silent Crow. Two independent Russian news out",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261124-leaked-data-suggests-500-000-russian-soldiers-killed-since-start-of-ukraine-invasion",
-    "date": "2026-11-24T15:53:03Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/c10d4f8e-e81d-11f1-82e4-81da3ab2acbb/w:1024/p:16x9/EN-20261124-160120-160737-CS.jpg",
-    "title_pt": "Dados vazados sugerem que 500 mil soldados russos foram mortos desde o início da invasão da Ucrânia",
-    "summary_pt": "Mais de 500 mil soldados russos foram mortos na guerra com a Ucrânia, de acordo com uma estimativa de vários meios de comunicação social. Os números baseiam-se num enorme conjunto de dados que foi pirateado da agência estatal de estatísticas da Rússia, Rosstat, pelo grupo activista bielorrusso Cyber ​​Partisans e por um grupo de hackers ucraniano, Silent Crow. Duas notícias russas independentes divulgadas"
-  },
-  {
-    "title": "Burnham's EU reset brings back Brexit debate",
-    "summary": "UK Prime Minister Andy Burnham accused predecessors who have warned him against reigniting the Brexit debate of being \"stuck in the past\", as he trumpeted his EU reset deal on Monday. Burnham has in recent weeks smashed a consensus that Britain's acrimonious departure from the European Union was done and dusted, floating the possibility that Britain could ap",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261124-burnham-s-eu-reset-brings-back-brexit-debate",
-    "date": "2026-11-24T15:51:19Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/a94aeeac-e81c-11f1-8f79-95e072ff0a91/w:1024/p:16x9/EN-20261124-152448-153331-CS.jpg",
-    "title_pt": "A redefinição da UE de Burnham traz de volta o debate sobre o Brexit",
-    "summary_pt": "O primeiro-ministro do Reino Unido, Andy Burnham, acusou os antecessores que o alertaram contra o reacendimento do debate do Brexit de estarem “presos ao passado”, ao alardear o seu acordo de redefinição da UE na segunda-feira. Nas últimas semanas, Burnham destruiu o consenso de que a saída amarga da Grã-Bretanha da União Europeia foi feita e descartada, levantando a possibilidade de que a Grã-Bretanha pudesse se apropriar"
   },
   {
     "title": "Derrière l’affaire Nvidia, un vaste réseau de détournement de puces d’IA au service de la Chine",
@@ -3362,20 +3228,6 @@
     "summary_pt": "Naeem Abu Nahel, que estava no cargo há apenas dois meses, foi alvo de um ataque no oeste da cidade de Gaza, segundo o Ministério do Interior de Gaza."
   },
   {
-    "title": "'Nina Roza' director: 'I was inspired by a real case of a child painter prodigy'",
-    "summary": "The director of a film nominated by Canada for next year's Oscars has told FRANCE 24 she was inspired by stories of a child painter prodigy, as well as the idea of identity and what you leave behind when you change countries. The film \"Nina Roza\" tells the story of a Bulgarian man who leaves his homeland with his daughter and sets himself up as an art curato",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/perspective/20261124-nina-roza-director-i-was-inspired-by-a-real-case-of-a-child-painter-prodigy",
-    "date": "2026-11-24T15:33:40Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/e1e18e20-e81b-11f1-ad64-29d00e23de9a/w:1024/p:16x9/capture-15c7b3fc.jpg",
-    "title_pt": "Diretora de ‘Nina Roza’: ‘Me inspirei em um caso real de uma criança pintora prodígio’",
-    "summary_pt": "A diretora de um filme indicado pelo Canadá ao Oscar do próximo ano disse ao FRANCE 24 que se inspirou nas histórias de uma criança pintora prodígio, bem como na ideia de identidade e no que você deixa para trás quando muda de país. O filme \"Nina Roza\" conta a história de um búlgaro que deixa sua terra natal com a filha e se estabelece como curador de arte"
-  },
-  {
     "title": "Midterms : une victoire démocrate historique, traduite par la conquête de lieux de pouvoir stratégiques",
     "summary": "Avec 56 sièges remportés au Sénat et au moins 258 à la Chambre des représentants, les démocrates remportent une victoire au moins égale à celle de Bill Clinton à l’élection présidentielle de 1992. Le rejet de Donald Trump a également fait basculer dans le camp démocrate la majorité des sièges de gouverneurs.",
     "category": "Geral",
@@ -3404,20 +3256,6 @@
     "summary_pt": "A maioria dos membros deste órgão de controlo defendeu que as suas questões não eram neutras"
   },
   {
-    "title": "UK’s Burnham on a mission to build public support EU reset",
-    "summary": "While he insists it would be unthinkable to rejoin the bloc without another referendum, British PM Andy Burnham has nevertheless reopened the debate over Brexit. After striking a deal that brings the UK and the EU closer on issues including food export control standards, youth mobility and carbon emissions, he's set to discuss the future of the relationship ",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261124-uk-s-burnham-on-a-mission-to-build-public-support-eu-reset",
-    "date": "2026-11-24T15:21:24Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/3cbe90dc-e811-11f1-bfba-81da3ab2acbb/w:1024/p:16x9/EN-20261124-143930-144132-CS.jpg",
-    "title_pt": "Burnham do Reino Unido numa missão para obter apoio público Reinicialização da UE",
-    "summary_pt": "Embora insista que seria impensável voltar a aderir ao bloco sem outro referendo, o primeiro-ministro britânico Andy Burnham reabriu, no entanto, o debate sobre o Brexit. Depois de chegar a um acordo que aproxima o Reino Unido e a UE em questões como normas de controlo das exportações de alimentos, mobilidade dos jovens e emissões de carbono, ele está pronto para discutir o futuro da relação"
-  },
-  {
     "title": "Pope Francis diaries recount spiritual crisis, him seeing the 'Devil'",
     "summary": "Extracts of the late Pope Francis' diaries have been published, the first release of its kind since the 1960s. They discuss his struggles with his role in the Vatican and visions of the devil and the gates of hell.",
     "category": "Geral",
@@ -3444,20 +3282,6 @@
     "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/10/84bf62cf-6140-46e4-8b87-283149990932/thumbnail/1200x630g6/d75410464e5faa0c0fe3f24f0983bb8c/gettyimages-2177028126.jpg",
     "title_pt": "Casa de campo do príncipe William e Kate invadida e dois presos",
     "summary_pt": "Intrusos invadiram a residência de campo do príncipe William e da princesa Catherine, informou a mídia britânica na terça-feira."
-  },
-  {
-    "title": "The French mayors refusing to back presidential candidates",
-    "summary": "Tuesday marks the opening in Paris of the 108th Congress of French Mayors, where the presidential race is a contentious issue. Candidates need 500 mayor endorsements to run, yet nearly half of mayors this year say they refuse to endorse anyone. France 2 and Caitlin Brown have more.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261124-the-french-mayors-refusing-to-back-presidential-candidates",
-    "date": "2026-11-24T15:18:39Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/f6b5e9b0-e80f-11f1-b19a-81da3ab2acbb/w:1024/p:16x9/EN-20261124-143733-143902-CS.jpg",
-    "title_pt": "Os prefeitos franceses se recusam a apoiar candidatos presidenciais",
-    "summary_pt": "Terça-feira marca a abertura em Paris do 108º Congresso dos Autarcas Franceses, onde a corrida presidencial é uma questão controversa. Os candidatos precisam de 500 apoios de prefeitos para concorrer, mas quase metade dos prefeitos deste ano dizem que se recusam a apoiar qualquer pessoa. França 2 e Caitlin Brown têm mais."
   },
   {
     "title": "Land mine casualties soar in Syria, two years after war",
@@ -3502,6 +3326,18 @@
     "summary_pt": "Bayer retirará medicamento renal Kerendia da Alemanha Reuters"
   },
   {
+    "title": "CAS ruling in favour of Senegal reasserts that referee's decision is final",
+    "summary": "CAS ruling in favour of Senegal reasserts that referee's decision is final Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSTdKUzQ2ampEcUdsZXhFSW5IWlJmcmpYNzh5cDlVSGFybl9obDFGY2lvLUhSYXFpdG1MM1N4eWtFb2lqZHRTNkVaeThQQXhJT0hZNHJwU0JzV241TkJaUFRfdGJ4Vk1Fd1E2LXZXV2NkMWYtWm53MFpPckRZWndYQW1RRF9GRUhFRk5YeEhHMm8zeTNIdFAwa0hycTdZSkpLZGdEUzVucElhdFhzZDNSMFd1QVV2ZzMt?oc=5",
+    "date": "2026-11-24T15:11:43Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "Ukraine needs $125 billion in external support in 2027, Zelenskiy says",
     "summary": "Ukraine needs $125 billion in external support in 2027, Zelenskiy says Reuters",
     "category": "Geral",
@@ -3512,20 +3348,6 @@
     "date": "2026-11-24T15:09:43Z",
     "lang": "en",
     "image": ""
-  },
-  {
-    "title": "France's femicide orphans: The invisible victims of violence against women",
-    "summary": "In France, 111 women were killed by their current or ex-partners in 2025 alone, leaving behind dozens of children. How can they rebuild their lives without their mother? How can they seek help? In this episode of France in Focus, we meet Cloé and Eva-Louise, whose world collapsed when their father brutally murdered their mother. FRANCE 24's Natacha Vesnitch,",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/france-in-focus/20261124-france-s-femicide-orphans-the-invisible-victims-of-violence-against-women",
-    "date": "2026-11-24T15:08:41Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/5b4bb494-e7f8-11f1-95ca-81da3ab2acbb/w:1024/p:16x9/cef-femicide.jpg",
-    "title_pt": "Os órfãos do feminicídio na França: as vítimas invisíveis da violência contra as mulheres",
-    "summary_pt": "Em França, 111 mulheres foram mortas pelos seus actuais ou ex-parceiros só em 2025, deixando para trás dezenas de crianças. Como eles podem reconstruir suas vidas sem a mãe? Como eles podem procurar ajuda? Neste episódio de France in Focus, conhecemos Cloé e Eva-Louise, cujo mundo desabou quando o pai assassinou brutalmente a mãe. Natacha Vesnitch da FRANÇA 24,"
   },
   {
     "title": "Gisèle Pelicot to sue publisher after nude images sent to media",
@@ -3822,19 +3644,6 @@
     "summary_pt": "Ramy Inocencio viajou para Cingapura e Malásia para uma análise mais aprofundada da Megaspeed, onde a suspeita espiã chinesa Alice Huang trabalhava como executiva."
   },
   {
-    "title": "🔴Senegal regain AFCON title after successful appeal at sport arbitration court",
-    "summary": "",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/sport/20261124-sports-court-verdict-senegal-appeal-africa-cup-of-nations-title-tuesday",
-    "date": "2026-11-24T14:25:06Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/ed1ba8ae-e814-11f1-b70a-1991d4929b54/w:1280/p:16x9/000-D8CE8ZQ.jpg",
-    "title_pt": "🔴Senegal recupera o título da AFCON após recurso bem-sucedido no tribunal de arbitragem esportiva"
-  },
-  {
     "title": "At least 490,000 Russian soldiers killed in Ukraine, Rosstat data leak reveals",
     "summary": "Two hacking groups extracted the data from the statistics agency's systems on 1 November. The figure comes from death certificates registered up to the end of August, so it excludes missing servicemen and deaths not yet recorded.",
     "category": "Geral",
@@ -4045,34 +3854,6 @@
     "summary_pt": "Svalbard tem uma história mineira que remonta a mais de um século. Mas este arquipélago gelado é agora um destino para navios de cruzeiro e um ponto geopolítico importante."
   },
   {
-    "title": "Rwanda's malaria cases on the rise: Climate change leads to more mosquitoes",
-    "summary": "In Rwanda, malaria cases are on the rise due to climate change. Higher temperatures and prolonged rainfall are creating more breeding grounds for mosquitoes. According to researchers, the risk of infection could increase by as much as 20 percent by 2100 in the Rift Valley. Our correspondent Aurore Bayoud reports on Rwanda's efforts to tackle the problem.",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/focus/20261124-rwanda-s-malaria-cases-on-the-rise-climate-change-leads-to-more-mosquitoes",
-    "date": "2026-11-24T13:52:59Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/c9c06476-e7e2-11f1-adb6-1bac47ab2f5d/w:1024/p:16x9/capture-01df9741.jpg",
-    "title_pt": "Casos de malária em Ruanda aumentam: Mudanças climáticas levam a mais mosquitos",
-    "summary_pt": "No Ruanda, os casos de malária estão a aumentar devido às alterações climáticas. As temperaturas mais elevadas e as chuvas prolongadas estão a criar mais criadouros de mosquitos. Segundo os investigadores, o risco de infecção poderá aumentar até 20% até 2100 no Vale do Rift. A nossa correspondente Aurore Bayoud relata os esforços do Ruanda para resolver o problema."
-  },
-  {
-    "title": "'Political hunting ground': French presidential candidates campaign mayors' congress",
-    "summary": "Candidates in next year’s French presidential election descended on the 108th Congress of French Mayors in Paris on Tuesday, hoping to win endorsements for their campaigns. France 24’s Luke Shrago reports.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261124-political-hunting-ground-french-presidential-candidates-campaign-mayors-congress",
-    "date": "2026-11-24T13:51:52Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/84425f2a-e80b-11f1-a44b-29d00e23de9a/w:1024/p:16x9/EN-20261124-133704-134048-CS.jpg",
-    "title_pt": "'Campo de caça política': candidatos presidenciais franceses fazem campanha no congresso de prefeitos",
-    "summary_pt": "Os candidatos às eleições presidenciais francesas do próximo ano compareceram ao 108º Congresso de Autarcas Franceses, em Paris, na terça-feira, na esperança de obter apoio para as suas campanhas. Relatórios de Luke Shrago da France 24."
-  },
-  {
     "title": "EU members lean toward including British EVs in 'Made in Europe' scheme",
     "summary": "EU members lean toward including British EVs in 'Made in Europe' scheme Reuters",
     "category": "Geral",
@@ -4085,20 +3866,6 @@
     "image": "",
     "title_pt": "Membros da UE tendem a incluir VEs britânicos no esquema 'Made in Europe'",
     "summary_pt": "Membros da UE tendem a incluir VEs britânicos no esquema ‘Made in Europe’ Reuters"
-  },
-  {
-    "title": "Trump's role in Huang's Nvidia return under scrutiny",
-    "summary": "Jensen Huang's return as CEO of Nvidia was greeted with triumph by US President Donald Trump, and the AI chipmaker's stock price was sent soaring. But the national security implications of Huang's extra-marital affair with an alleged Chinese spy, as well as Trump's intervention in the operations of a company in which he holds stock, have stirred anger in Con",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261124-trump-s-role-in-huang-s-nvidia-return-under-scrutiny",
-    "date": "2026-11-24T13:48:17Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/623826b4-e809-11f1-9725-c131ae9bfe9c/w:1024/p:16x9/EN-20261124-123155-123352-CS.jpg",
-    "title_pt": "O papel de Trump no retorno da Nvidia de Huang sob escrutínio",
-    "summary_pt": "O retorno de Jensen Huang como CEO da Nvidia foi saudado com triunfo pelo presidente dos EUA, Donald Trump, e o preço das ações da fabricante de chips de IA disparou. Mas as implicações para a segurança nacional do caso extraconjugal de Huang com um alegado espião chinês, bem como a intervenção de Trump nas operações de uma empresa da qual detém ações, provocaram a ira nos Condes."
   },
   {
     "title": "El Gobierno reivindica su traca final de medidas sociales previas al 29-N: “Cumplimos con nuestro deber”",
@@ -5677,20 +5444,6 @@
     "summary_pt": "Ucrânia afunda navio russo na costa da Líbia A corveta russa Merkury, avaliada em cerca de R$ 1 bilhão, foi atingida na última segunda-feira (22) durante um ataque atribuído à Ucrânia contra o porto de Benghazi, na Líbia. Imagens divulgadas após a operação mostram que a maior parte do navio ficou submersa. Apenas parte da proa permaneceu acima da água. ✅ Sig"
   },
   {
-    "title": "Explosion kills 6, injures 10 in Vietnam capital Hanoi",
-    "summary": "Explosion kills 6, injures 10 in Vietnam capital Hanoi Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZldRdngyRk9qdWlNdVBkYlFrTnBtV3M3WU45al9qVVp6OE9VRktQTWVKRWY0aWlfNjBhTVFNVlhaYkp4aEJVeVItSlpIUjAwd2I5RGh5MV9wZHVnNkc5c3F1MzA0elVvZ2x2bVFrMUM3NHgwVjJYaHpPRS0xa25Tb0VIUVBySTd5blMxNXhQYlVWMkh5bG0tbHRNN3hvck8zQnI3SG4tdGg?oc=5",
-    "date": "2026-11-24T07:52:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Explosão mata 6 e fere 10 na capital do Vietnã, Hanói",
-    "summary_pt": "Explosão mata 6 e fere 10 na capital do Vietnã, Hanói Reuters"
-  },
-  {
     "title": "After 80 years in Oxford, Naga ancestors are finally going home",
     "summary": "A campaign securing the landmark return to India of ancestral remains taken during British colonial rule has opened a wider conversation about restitution • Don’t get This is India delivered to your inbox? Sign up here The lacerating legacy of colonialism survives in many spaces, particularly in museum collections and private holdings across the western worl",
     "category": "Geral",
@@ -6151,20 +5904,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/NHQKA5GWKZLKPDRQT6ZTM52UBY.jpg?auth=cac0976e595f3bc1700cb67294a4e04f0b1acccd51671a281a36f4bef44b8f84",
     "title_pt": "Esse erro de \"casting\"",
     "summary_pt": "Nunca imaginamos que o mundo sofreria com o autoritarismo dos três grandes atores mundiais por tantos anos."
-  },
-  {
-    "title": "Henar Álvarez y el índice Agrado",
-    "summary": "Sea como fuere, Henar ya ha ganado. No necesito una bola de cristal para saber que no le faltarán oportunidades ni en la tele, ni más allá",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/television/2026-11-24/henar-alvarez-y-el-indice-agrado.html",
-    "date": "2026-11-24T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/57KEIPM53ZAX3DG6YAT5EXUFD4.jpg?auth=9f8ca93711098f58cf4d4e8eba28dd08754ba79d5852e7cf080f87dec5996b03",
-    "title_pt": "Henar Álvarez e o índice Agrado",
-    "summary_pt": "Seja como for, Henar já venceu. Não preciso de uma bola de cristal para saber que não faltarão oportunidades para ela, nem na TV, nem em outros lugares."
   },
   {
     "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
@@ -6763,7 +6502,7 @@
   {
     "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
     "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -7011,5 +6750,221 @@
     "image": "https://s2-g1.glbimg.com/vb0qykLMJ_qH0pbYL9-aHdfdloE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/9/5TfnsgTHWm7PqwKPeQng/ap26325066137247.jpg",
     "title_pt": "Trump diz que proibiu detonação de explosivos instáveis em Iowa até decisão da Justiça dos EUA",
     "summary_pt": "Foto divulgada pelo Exército dos Estados Unidos mostra a Fábrica de Munições do Exército de Iowa, em Middletown, no estado de Iowa. Dori Whipple / Associated Press O presidente ds Estados Unidos, Donald Trump, ordenou nesta segunda-feira (23) que o Exército do país espere por uma decisão judicial antes de detonar as cinco toneladas de material explosivo enco"
+  },
+  {
+    "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+    "summary": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23T18:49:19Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda1/live/ad61f0f0-e76b-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+    "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+    "summary": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23T18:43:00Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caf3/live/63f423d0-e76a-11f1-99b6-a35a62fa4264.jpg"
+  },
+  {
+    "title": "U.S. man convicted of killing U.K. woman he met on fetish website",
+    "summary": "Dwain Hall was found guilty of kidnapping and murdering Sonia Exelby, and was sentenced to two consecutive life terms, Florida prosecutors said.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/news/dwain-hall-convicted-sonia-exelby-murder-florida/",
+    "date": "2026-11-23T18:33:13Z",
+    "lang": "en",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/35ff1268-2d2b-4dfb-aa51-7aaa1edf8163/thumbnail/1200x630/45eac8172cfc63e11f0253d9912ad8f6/florida-murder-06d6ef69-d5eb-4f0a-b5de-143fe98e8f8f-untitledmay302026at13-05-291standardyoutubethumbnail1280x7205.png"
+  },
+  {
+    "title": "Iran carries out flogging of singer who performed without hijab",
+    "summary": "Ahmadi and four members of her concert team received lashes in Qom on Monday, her lawyer said, over a December 2024 performance, streamed live without an audience. A court sentenced nine team members to 74 lashes each, a two-year travel ban, and a two-year ban on artistic activity.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/2026/11/23/iran-carries-out-flogging-of-singer-who-performed-without-hijab",
+    "date": "2026-11-23T18:29:34Z",
+    "lang": "en",
+    "image": "https://images.euronews.com/articles/stories/10/00/46/99/696x392_cmsv2_0b10ba89-087c-57e3-8c5f-9e18f94c3b1b-10004699.jpg"
+  },
+  {
+    "title": "Ukraine Attack Off Coast of Libya Shows Reach of Its Naval Drones",
+    "summary": "President Volodymyr Zelensky said that Ukrainian drones had sunk a corvette and hit a dry cargo vessel, in attacks that involved special operations forces.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+    "date": "2026-11-23T18:09:46Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-ukraine-libya-01-wljg/23int-ukraine-libya-01-wljg-mediumSquareAt3X.jpg"
+  },
+  {
+    "title": "Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict",
+    "summary": "At least three people were injured. The United Nations has reported a 445 percent increase in drone bombings in the country.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
+    "date": "2026-11-23T18:05:31Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-colombia-drone-attack-bgqm/23int-colombia-drone-attack-bgqm-mediumSquareAt3X.jpg"
+  },
+  {
+    "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+    "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23T18:04:20Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg"
+  },
+  {
+    "title": "Pip assessments need 'fundamental overhaul', report to say",
+    "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23T17:59:55Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg"
+  },
+  {
+    "title": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’",
+    "summary": "The American rapper was performing in Manchester on Sunday when people in the crowd began experiencing effects from the substance, prompting an emergency response.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
+    "date": "2026-11-23T17:50:10Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/23xp-manchester-01-tfcg/23xp-manchester-01-tfcg-mediumSquareAt3X.jpg"
+  },
+  {
+    "title": "How Homeowners Are Powering Vietnam’s E-Bike Surge",
+    "summary": "The war in Iran has brought on a rapid switch from motorbikes to electric two-wheelers in Vietnam, creating an informal charging economy led by entrepreneurial homeowners.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
+    "date": "2026-11-23T17:44:58Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-05-vlqb/Biz-Vietnam-EV-05-vlqb-mediumSquareAt3X.jpg"
+  },
+  {
+    "title": "Tourists evacuated after fire destroys 6 hotels in Zanzibar's popular Nungwi Beach area",
+    "summary": "ZANZIBAR, Tanzania (AP) — An investigation was underway on Monday following a huge fire that engulfed six hotels in Tanzania over the weekend, along a popular beach on the semiautonomous archipelago of Zanzibar. Several hotel workers were injured and authorities said about 180 tourists were safely …",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/tanzania-zanzibar-hotels-fire-a2ab9b14501baad65b594421cc1249db?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+    "date": "2026-11-23T17:44:00Z",
+    "lang": "en",
+    "image": "https://ic-cdn.flipboard.com/apnews.com/6a57c08478f4b567489fa6300397021f89a98b0a/_large.webp"
+  },
+  {
+    "title": "EU proposes sweeping new Russia sanctions targeting banks, crypto and sports events",
+    "summary": "BRUSSELS (AP) — The European Commission on Monday proposed to target dozens of Russia’s banks, crack down on crypto platforms, and slap bans on sporting teams and athletes from competing under the country’s flag in a new round of sanctions over Moscow’s war in Ukraine. The proposals, put forward by …",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/europe-russia-sanctions-banks-crypto-visas-sports-ecad86868390f6602b346c70d1fa5757?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+    "date": "2026-11-23T17:31:53Z",
+    "lang": "en",
+    "image": "https://ic-cdn.flipboard.com/apnews.com/1c2aba8aae805f369a23ef7edba06418573bb2fc/_large.jpeg"
+  },
+  {
+    "title": "Drone attack on Colombian police base injures 3 civilians and damages homes",
+    "summary": "BOGOTA, Colombia (AP) — Explosive-laden drones struck a police base in the Colombian city of Cúcuta Monday, injuring at least three civilians, including a baby, and damaging 60 homes. Officials did not immediately say who was responsible for the attack on a base belonging to the Norte de Santander …",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/colombia-violence-cucuta-drone-attacks-66c38976a40270fb1a5fdcba26c3716d?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+    "date": "2026-11-23T17:30:44Z",
+    "lang": "en",
+    "image": "https://ic-cdn.flipboard.com/apnews.com/5216b8fd3f736bf5dc783c5a77cac24605674f8b/_xlarge.png"
+  },
+  {
+    "title": "What failure of COP31 reveals about a divided world",
+    "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23T17:24:25Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c650/live/3a868c20-e767-11f1-99a1-253766e7ad8b.jpg"
+  },
+  {
+    "title": "Armenian prime minister proposes new constitution in bid for peace with Azerbaijan",
+    "summary": "YEREVAN, Armenia (AP) — Armenian Prime Minister Nikol Pashinyan presented a proposed draft version of the country’s new constitution Monday in the latest step toward a peace agreement with longtime foe and neighbor Azerbaijan. In an address to the nation, Pashinyan said that after the proposed …",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/armenia-new-constitution-azerbaijan-karabakh-f912a60316e544dbabfba9a1aef4e887?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+    "date": "2026-11-23T17:16:22Z",
+    "lang": "en",
+    "image": "https://ic-cdn.flipboard.com/apnews.com/b9e0ff770cf428af151f8775394db5a2abdc7cac/_xlarge.jpeg"
+  },
+  {
+    "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+    "summary": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+    "date": "2026-11-23T17:15:17Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg"
+  },
+  {
+    "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+    "summary": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23T17:14:50Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f36/live/7d4e5560-e758-11f1-b407-33329b1ec67a.png"
+  },
+  {
+    "title": "Latest news bulletin | November 23rd, 2026 – Evening",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/video/2026/11/23/latest-news-bulletin-november-23rd-2026-evening",
+    "date": "2026-11-23T17:00:26Z",
+    "lang": "en",
+    "image": "https://images.euronews.com/articles/stories/10/00/52/81/696x392_cmsv2_521a6ba7-0553-536d-837c-bc83f8dd9a69-10005281.jpg"
   }
 ]
