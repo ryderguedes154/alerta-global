@@ -1,9 +1,22 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T13:39:22.991925Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T13:45:00.212097Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "O tráfego de petróleo em Ormuz caiu 40%: os ataques do Irã a petroleiros estão funcionando?",
+      "summary": "Os ataques a petroleiros aumentaram, afetando o fluxo de petróleo pelo Estreito de Ormuz.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss",
+      "published_on": "24/11/2026 09:32 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b05752f-1795519791.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
     {
       "title": "Terremoto de magnitude 6.4 — Mauritius - Reunion region",
       "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
@@ -18,6 +31,32 @@
       "selection": "automatic"
     },
     {
+      "title": "Guerra da Ucrânia já matou 720 mil soldados russos, mostram dados",
+      "summary": "Soma de baixas de russos e ucranianos transforma guerra na mais letal desde Segunda Guerra Mundial",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/guerra-da-ucrania-ja-matou-720-mil-soldados-russos-mostram-dados/",
+      "published_on": "24/11/2026 09:39 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-23T133034Z_1_LOP056823112026RP1_RTRMADP_BASEIMAGE-960X540_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
+      "title": "Guerra Rússia-Ucrânia ao vivo: Kiev diz que os ataques a navios ao largo da Líbia são em legítima defesa",
+      "summary": "Kiev responde às críticas após assumir a responsabilidade pelo ataque a um navio de guerra russo e a um navio de carga ao largo da Líbia.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence?traffic_source=rss",
+      "published_on": "24/11/2026 09:30 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b058e59021e8-1795526233.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
+    {
       "title": "Itália expressa preocupação à Ucrânia com ataques a navios na Líbia – Europa ao vivo",
       "summary": "A Ucrânia confirmou anteriormente que utilizou drones navais em ataques a navios russos ao largo da costa da Líbia. O líder da coligação de esquerda Espanhola, Frente Ampla, apelou a um repensar drástico de todo o sistema de arrendamento habitacional do país e descreveu o despejo de uma mulher de 87 anos – a faísca para protestos a nível nacional que, por su",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -26,34 +65,8 @@
       "country": "GB",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-      "published_on": "24/11/2026 09:09 (Boa Vista)",
+      "published_on": "24/11/2026 09:28 (Boa Vista)",
       "image": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3d2a47ebcd3157a1c708fc46a40dcc11",
-      "selection": "automatic"
-    },
-    {
-      "title": "O Irã entra com ações judiciais nos tribunais dos EUA e da UE: conseguirá justiça por \"crimes de guerra\"?",
-      "summary": "Enquanto o Irã busca responsabilização e indenização por supostos crimes de guerra, especialistas afirmam que os processos judiciais enfrentam grandes obstáculos.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/11/24/irans-fight-for-wartime-redress-moves-from-battlefield-to-us-eu-courts?traffic_source=rss",
-      "published_on": "24/11/2026 08:56 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b0552a97c-1795510953.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "Governo Trump negocia produção de drones militares com fabricantes automotivas, diz jornal",
-      "summary": "Drone militar MQ-9 Reaper, de função dupla de monitoramento e ataque, do Exército dos Estados Unidos. Jam Sta Rosa/AFP O Pentágono está em negociações com a General Motors (GM), a Ford e outras fabricantes automotivas para ajudar na produção em larga escala de drones militares, informou nesta terça-feira (24) o jornal norte-americano \"The Wall Street Journal",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/24/governo-trump-drones-militares-fabricantes-automotivas-diz-jornal.ghtml",
-      "published_on": "24/11/2026 08:36 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/n1fcS1vydpqNhA4CKmfZThKCOEU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/C/9/HkSBceQHKriaVL849SAQ/33dp6u4-highres.jpg",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
       "published_on": "24/11/2026 06:58 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Ataques aéreos israelenses em Gaza matam 7 pessoas enquanto médicos alertam para surto de meningite",
-      "summary": "Autoridades de saúde de Gaza afirmam que os casos de meningite aumentaram para 272 em outubro, mais de oito vezes a taxa mensal típica.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Saúde",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
-      "published_on": "24/11/2026 06:47 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b055927c071-1795512615.jpg?resize=1920%2C1440",
       "selection": "automatic"
     }
   ]
