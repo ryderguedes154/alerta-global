@@ -1,8 +1,8 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T15:44:56.696820Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T15:50:19.275675Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os preços do petróleo caem, apesar dos ataques contínuos do Irã a petroleiros",
@@ -13,7 +13,7 @@
       "country": "US",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
-      "published_on": "24/11/2026 10:33 (Boa Vista)",
+      "published_on": "24/11/2026 11:04 (Boa Vista)",
       "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/855de539-52ca-4644-b2eb-c3bba31967cb/thumbnail/1200x630/2275cf724c16f3cff5af0ad5d7c8a80f/iran-tanker-strait-of-hormuz-fire.jpg",
       "selection": "automatic"
     },
@@ -52,8 +52,21 @@
       "country": "GB",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-      "published_on": "24/11/2026 10:43 (Boa Vista)",
+      "published_on": "24/11/2026 11:15 (Boa Vista)",
       "image": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3d2a47ebcd3157a1c708fc46a40dcc11",
+      "selection": "automatic"
+    },
+    {
+      "title": "Rússia reboca navio de carga de volta para casa após ataque de drone ucraniano",
+      "summary": "O navio de carga russo Sparta II foi rebocado de volta às suas águas após um ataque de drone ucraniano no Golfo da Finlândia",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/russia-tows-it-cargo-ship-back-home-after-ukrainian-drone-attack?traffic_source=rss",
+      "published_on": "24/11/2026 10:56 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795532171.jpg?resize=1920%2C1080&quality=80",
       "selection": "automatic"
     },
     {
@@ -67,19 +80,6 @@
       "url": "https://www.euronews.com/2026/11/24/qatar-says-it-will-not-accept-attacks-after-iran-protests-over-joint-statement-with-german",
       "published_on": "24/11/2026 10:29 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/60/78/696x392_cmsv2_9d09502a-144f-5247-9576-d579408b901d-10006078.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "A guerra entre a Rússia e a Ucrânia poderia ameaçar o frágil processo de reunificação da Líbia?",
-      "summary": "O envolvimento da Ucrânia na Líbia gera preocupações, já que Zelensky admite ter atacado embarcações russas em uma importante cidade portuária.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss",
-      "published_on": "24/11/2026 10:16 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20250510__468H6NP__v1__HighRes__RussiaLibyaDiplomacyHistoryWwiiAnniversary-1795515547.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
