@@ -1,8 +1,8 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T17:20:08.373069Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T17:25:16.483991Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os preços do petróleo caem, apesar dos ataques contínuos do Irã a petroleiros",
@@ -13,7 +13,7 @@
       "country": "US",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
-      "published_on": "24/11/2026 12:10 (Boa Vista)",
+      "published_on": "24/11/2026 13:20 (Boa Vista)",
       "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/855de539-52ca-4644-b2eb-c3bba31967cb/thumbnail/1200x630/2275cf724c16f3cff5af0ad5d7c8a80f/iran-tanker-strait-of-hormuz-fire.jpg",
       "selection": "automatic"
     },
@@ -41,6 +41,19 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud6h",
       "published_on": "24/11/2026 07:06 (Boa Vista)",
       "image": "",
+      "selection": "automatic"
+    },
+    {
+      "title": "Aliados da OTAN ansiosos à medida que a guerra se espalha para além das fronteiras da Ucrânia e da Rússia",
+      "summary": "À medida que a Ucrânia ataca navios russos em águas distantes, alguns países da NATO expressam uma ansiedade crescente relativamente à propagação da guerra a novas regiões.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ukraine-russia-war-warship-cargo-ship-attacks-nato-allies-anxiety/",
+      "published_on": "24/11/2026 13:16 (Boa Vista)",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/dbcb0f39-eb93-4867-a447-96b865aa44e1/thumbnail/1200x630/ccf297ec2f3ea6b89708d36ce061fac3/ukraine-russia-sparta-ship.jpg",
       "selection": "automatic"
     },
     {
@@ -80,19 +93,6 @@
       "url": "https://www.france24.com/en/video/20261124-leaked-data-suggests-500-000-russian-soldiers-killed-since-start-of-ukraine-invasion",
       "published_on": "24/11/2026 11:53 (Boa Vista)",
       "image": "https://s.france24.com/media/display/c10d4f8e-e81d-11f1-82e4-81da3ab2acbb/w:1024/p:16x9/EN-20261124-160120-160737-CS.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Rússia reboca navio de carga de volta para casa após ataque de drone ucraniano",
-      "summary": "O navio de carga russo Sparta II foi rebocado de volta às suas águas após um ataque de drone ucraniano no Golfo da Finlândia",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/russia-tows-it-cargo-ship-back-home-after-ukrainian-drone-attack?traffic_source=rss",
-      "published_on": "24/11/2026 10:56 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795532171.jpg?resize=1920%2C1080&quality=80",
       "selection": "automatic"
     },
     {
