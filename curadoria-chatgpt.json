@@ -2,9 +2,23 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-24T02:35:39.958Z",
+  "updated_at": "2026-11-24T23:07:34.801Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Gavi firma acordo para garantir até 1,5 milhão de doses de vacina experimental contra ebola",
+      "summary": "Em 24 de novembro, a Gavi anunciou compromisso de compra antecipada de vacina contra o vírus Bundibugyo, desenvolvida pela Universidade de Oxford e pelo Serum Institute da Índia. O fornecimento depende dos resultados clínicos, das aprovações regulatórias e das recomendações da OMS. A medida busca acelerar a resposta ao surto no Congo.",
+      "impact_br": "Pode fortalecer a preparação sanitária internacional; não implica vacinação imediata nem mudança confirmada no risco para o Brasil.",
+      "category": "Saúde",
+      "region": "África",
+      "country": "CD",
+      "source": "Gavi",
+      "url": "https://www.gavi.org/news/media-room/gavi-signs-agreement-serum-institute-india-secure-rapid-access-bundibugyo-vaccines",
+      "published_on": "2026-11-24",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-24T23:07:34.801Z"
+    },
     {
       "title": "Organização internacional de controle de armas químicas enfrenta crise financeira",
       "summary": "A diretora-geral da OPAQ informou em 23 de novembro que falta um quarto do orçamento anual de 83 milhões de euros, principalmente por pagamentos pendentes dos EUA. A crise pode interromper trabalhos de destruição de munições proibidas na Síria.",
