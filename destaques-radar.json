@@ -1,8 +1,8 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T12:41:58.208849Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T12:47:05.412739Z",
+  "status": "checado",
   "items": [
     {
       "title": "Terremoto de magnitude 6.4 — Mauritius - Reunion region",
@@ -18,29 +18,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Aviões militares russos causam alerta na Coreia do Sul; Rússia fala em voo programado",
-      "summary": "Aeronave Blackjack (Tu-160), da força nuclear estratégica da Rússia. Reprodução/Tupolev Bombardeiros estratégicos russos entraram na zona de identificação de defesa aérea da Coreia do Sul, informou nesta terça-feira (24) a agência de notícias sul-coreana Yonhap, após corrigir uma informação anterior segundo a qual uma suposta aeronave norte-coreana havia vio",
+      "title": "Governo Trump negocia produção de drones militares com fabricantes automotivas, diz jornal",
+      "summary": "Drone MQ-9A Reaper, fabricado pelos Estados Unidos General Atomics Aeronautical/Reprodução O Pentágono está em negociações com a General Motors (GM), a Ford e outras fabricantes automotivas para ajudar na produção em larga escala de drones militares, informou nesta terça-feira (24) o jornal norte-americano \"The Wall Street Journal\", citando pessoas familiari",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "BR",
       "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/24/bombardeiros-russos-coreia-do-sul.ghtml",
-      "published_on": "24/11/2026 08:07 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/tvfs_RI2p2gUjoRX146gMKGoFGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/2/O/YlwwF1QTG2sygDu43hRw/tu-160-13-.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "A \"oitava frente\": por que a guerra de influência de Israel nos EUA está fracassando",
-      "summary": "Apesar de ter quadruplicado seu orçamento de hasbara, Israel está perdendo os corações e as mentes dos americanos, e suas relações públicas podem estar piorando a situação.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/24/the-eighth-front-why-israels-influence-war-in-the-us-is-failing?traffic_source=rss",
-      "published_on": "24/11/2026 07:30 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20251229__899A8MG__v1__HighRes__IsraeliPmBenjaminNetanyahuVisits-1795408044.jpg?resize=1920%2C1440",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/24/governo-trump-drones-militares-fabricantes-automotivas-diz-jornal.ghtml",
+      "published_on": "24/11/2026 08:36 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/1evHmxZ9e4J26tlIoV5Zt7AWr_Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/E/z/WxBAmxSlGswa8OU26piA/captura-de-tela-2024-04-25-143005.png",
       "selection": "automatic"
     },
     {
@@ -52,8 +39,21 @@
       "country": "GB",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-      "published_on": "24/11/2026 07:29 (Boa Vista)",
+      "published_on": "24/11/2026 08:30 (Boa Vista)",
       "image": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e2e04a1671a3feb27f1354db8663a5e9",
+      "selection": "automatic"
+    },
+    {
+      "title": "Aviões militares russos causam alerta na Coreia do Sul; Rússia fala em voo programado",
+      "summary": "Aeronave Blackjack (Tu-160), da força nuclear estratégica da Rússia. Reprodução/Tupolev Bombardeiros estratégicos russos entraram na zona de identificação de defesa aérea da Coreia do Sul, informou nesta terça-feira (24) a agência de notícias sul-coreana Yonhap, após corrigir uma informação anterior segundo a qual uma suposta aeronave norte-coreana havia vio",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/24/bombardeiros-russos-coreia-do-sul.ghtml",
+      "published_on": "24/11/2026 08:07 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/tvfs_RI2p2gUjoRX146gMKGoFGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/2/O/YlwwF1QTG2sygDu43hRw/tu-160-13-.jpg",
       "selection": "automatic"
     },
     {
