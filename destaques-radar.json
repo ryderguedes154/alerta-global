@@ -1,8 +1,8 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T17:50:56.408191Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-24T17:56:05.177140Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os preços do petróleo caem, apesar dos ataques contínuos do Irã a petroleiros",
@@ -13,21 +13,8 @@
       "country": "US",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
-      "published_on": "24/11/2026 13:20 (Boa Vista)",
+      "published_on": "24/11/2026 13:41 (Boa Vista)",
       "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/855de539-52ca-4644-b2eb-c3bba31967cb/thumbnail/1200x630/2275cf724c16f3cff5af0ad5d7c8a80f/iran-tanker-strait-of-hormuz-fire.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "O tráfego de petróleo em Ormuz caiu 40%: os ataques do Irã a petroleiros estão funcionando?",
-      "summary": "Os ataques a petroleiros aumentaram, afetando o fluxo de petróleo pelo Estreito de Ormuz.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss",
-      "published_on": "24/11/2026 09:32 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b05752f-1795519791.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
@@ -106,6 +93,19 @@
       "url": "https://www.france24.com/en/video/20261124-leaked-data-suggests-500-000-russian-soldiers-killed-since-start-of-ukraine-invasion",
       "published_on": "24/11/2026 11:53 (Boa Vista)",
       "image": "https://s.france24.com/media/display/c10d4f8e-e81d-11f1-82e4-81da3ab2acbb/w:1024/p:16x9/EN-20261124-160120-160737-CS.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Os Estados Unidos finalizam novas tarifas para a China, a União Europeia e mais uma dúzia de países",
+      "summary": "O Escritório de Comércio conclui a investigação contra 16 jurisdições por incentivarem a superprodução e permitirem a concorrência desleal",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "ES",
+      "source": "El País",
+      "url": "https://elpais.com/us/2026-11-24/estados-unidos-ultima-nuevos-aranceles-a-china-la-ue-y-otra-docena-de-paises.html",
+      "published_on": "24/11/2026 12:04 (Boa Vista)",
+      "image": "https://imagenes.elpais.com/resizer/v2/5G3PMYC575IDNA5OUBBEIDIKUI.jpg?auth=e7981eaba55f1451b8154f861fbafc68094f2e1d6545d9c2cf91e39a0cdb3879",
       "selection": "automatic"
     }
   ]
