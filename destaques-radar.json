@@ -1,7 +1,7 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T08:41:14.087175Z",
+  "checked_at": "2026-11-24T08:46:37.498266Z",
   "status": "checado",
   "items": [
     {
@@ -18,6 +18,19 @@
       "selection": "automatic"
     },
     {
+      "title": "ICG: “É difícil imaginar” que Trípoli arriscaria seus laços com a Rússia ao aprovar um ataque ucraniano",
+      "summary": "Angela Diffley tem o prazer de dar as boas-vindas a Claudia Gazzini, analista sênior do International Crisis Group para a Líbia. O ataque ucraniano a um navio de guerra russo ao largo da costa oriental da Líbia levantou questões sobre a actividade militar russa e ucraniana no país. Gazzini discute a presença militar estabelecida da Rússia no leste da Líbia e",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "FR",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261124-icg-it-s-hard-to-imagine-tripoli-would-risk-its-ties-with-russia-by-approving-a-ukrainian-attack",
+      "published_on": "24/11/2026 03:45 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/64f11d00-e7cf-11f1-81de-6b451f569414/w:1024/p:16x9/EN-20261123-150729-151220-CS.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Ataque russo mata 2 pessoas e deixa 22 feridos na Ucrânia, diz autoridade",
       "summary": "Entre os feridos estão duas crianças; bombardeio atingiu prédios residenciais e infraestrutura de transporte em Zaporizhzhia",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -28,19 +41,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/ataque-russo-deixa-mortos-e-feridos-na-ucrania-diz-autoridade/",
       "published_on": "24/11/2026 02:47 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/ataque-russia-ucrania-sancoes-diesel.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Da Alemanha à costa da África: os sinais de que a guerra na Ucrânia está se expandindo no mundo",
-      "summary": "Vídeo mostra ataque de drones ucranianos a navio de guerra russo em base naval na Líbia O presidente Volodimir Zelensky afirmou na segunda-feira (23) que a Ucrânia foi a responsável pelos ataques contra duas embarcações russas na costa da Líbia, acrescentando que uma delas afundou — um novo desdobramento da guerra entre Moscou e Kiev. ✅ Siga o canal de notíc",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/24/da-alemanha-a-costa-da-africa-os-sinais-de-que-a-guerra-na-ucrania-esta-se-expandindo-no-mundo.ghtml",
-      "published_on": "23/11/2026 23:00 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/99zFOb8jCCOygoS6HrRYBd1oj_s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/t/kTR8rBRAuC4xOaMHuHJg/2026-11-23t090233z-26004991-rc2ysoavk78q-rtrmadp-3-ukraine-crisis-ships-1-.jpg",
       "selection": "automatic"
     },
     {
@@ -70,19 +70,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump enfrenta reação negativa após dizer que \"convenceu\" a Nvidia a reintegrar o CEO Jensen Huang",
-      "summary": "A Nvidia havia sofrido pressão do presidente Trump para renomear Huang, cujo retorno ajudou a acrescentar US$ 1 trilhão ao valor das ações da empresa.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "published_on": "24/11/2026 00:36 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Chefe da OTAN promete defesa contra ameaça espacial após relatos de satélite nuclear russo",
       "summary": "A mídia alemã afirmou que a Rússia planejava lançar um satélite com uma ogiva nuclear no espaço nas próximas semanas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -96,16 +83,29 @@
       "selection": "automatic"
     },
     {
-      "title": "Rússia está prestes a posicionar bomba atômica no espaço, diz imprensa alemã",
-      "summary": "Satélite da Rússia e da China em órbita, em imagem de 2025. Reuters via DW A Rússia está planejando posicionar no espaço ainda neste ano uma bomba atômica, revelou uma investigação conjunta do jornal alemão \"Süddeutsche Zeitung\", e das emissoras alemães NDR e WDR. A ogiva nuclear seria colocada em órbita dentro de um satélite, ainda de acordo com os jornais,",
+      "title": "Um retorno para a história: a influência de Trump no retorno de Huang à Nvidia",
+      "summary": "A correspondente de negócios da BBC, Michelle Fleury, explica qual foi o papel do apoio de Trump no retorno de Huang.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
+      "category": "Economia",
       "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/24/russia-esta-prestes-a-posicionar-bomba-atomica-no-espaco-diz-imprensa-alema.ghtml",
-      "published_on": "24/11/2026 03:00 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/WfifRPrzaUfE6H060YGUgrzI1xw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/U/ULFWr2S4mFTvlp7U9CbQ/universo.webp",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
+      "published_on": "23/11/2026 17:40 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9328/live/2bcba8f0-e785-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Ativistas pedem ao governo albanês que rejeite a expansão das minas de carvão da “bomba climática” após a Cop31",
+      "summary": "A expansão das operações de Hunter Valley em Nova Gales do Sul permitiria a extração e queima de 430 milhões de toneladas adicionais de carvão. Inscreva-se no boletim informativo gratuito Clear Air do editor de clima e meio ambiente, Adam Morton, aqui.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
+      "published_on": "24/11/2026 03:42 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/67fe74e925e14e027af689b261f186a2cc29acfe/408_0_4080_3264/master/4080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4830a1b4d2beb65b2a3f6c2b0ecf9904",
       "selection": "automatic"
     }
   ]
