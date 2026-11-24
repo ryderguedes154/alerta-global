@@ -1,20 +1,34 @@
 [
   {
-    "title": "Real Madrid-PSV, en directo, el partido de la Champions League en vivo | Mbappé amplia la ventaja para los blancos",
+    "title": "Real Madrid-PSV, en directo, el partido de la Champions League en vivo | Mbappé sentencia el partido con el cuarto gol de los blancos",
     "summary": "El Madrid se pone por delante después de un comienzo eléctrico en la segunda parte, donde han metido al PSV en su propio campo",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
     "source": "El País",
     "url": "https://elpais.com/deportes/futbol/2026-11-24/real-madrid-psv-en-directo-el-partido-de-la-champions-league-en-vivo.html",
-    "date": "2026-11-24T21:37:53Z",
+    "date": "2026-11-24T21:43:36Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/DD6LMIRDDJM4XDJSKUM53KDA7M.jpg?auth=faa1aff4d69c7366ad7fc99d3606e7473c47e74baf05949f8a7cf727ea955262"
   },
   {
+    "title": "UK warns of Russian sabotage threat to companies that supply Ukraine",
+    "summary": "UK warns of Russian sabotage threat to companies that supply Ukraine Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWthWEU2V2VxbjBhWTVtNE5wdC1LWFBYM24tVF92ekgyb25wMDRablR5eUJCQXFNUFVXU2NMYnkwWUlkWmpmNnhNaUhXZGdOSjUxeVItUzdING0xbDZZRENTTmFHdzJyWXZHM0NCbl91QU1DR3ZpMlpWNGYyVmVVV3dXM2RJSWMxUk1qckdVR18tSjJfbml3enVHUFpZcDBEaG5lSVlDQQ?oc=5",
+    "date": "2026-11-24T21:32:51Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Reino Unido alerta sobre ameaça de sabotagem russa a empresas que abastecem a Ucrânia",
+    "summary_pt": "Reino Unido alerta sobre ameaça de sabotagem russa a empresas que abastecem a Ucrânia Reuters"
+  },
+  {
     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -94,7 +108,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2239,7 +2253,7 @@
   {
     "title": "Faisal Islam: Fears over the AI boom haven't gone away",
     "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2595,20 +2609,6 @@
     "image": "",
     "title_pt": "A confiança do consumidor dos EUA sobe para o nível mais alto em quase dois anos",
     "summary_pt": "Confiança do consumidor nos EUA salta para nível mais alto em quase dois anos Reuters"
-  },
-  {
-    "title": "UK warns of Russian sabotage threat to companies that supply Ukraine",
-    "summary": "UK warns of Russian sabotage threat to companies that supply Ukraine Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWthWEU2V2VxbjBhWTVtNE5wdC1LWFBYM24tVF92ekgyb25wMDRablR5eUJCQXFNUFVXU2NMYnkwWUlkWmpmNnhNaUhXZGdOSjUxeVItUzdING0xbDZZRENTTmFHdzJyWXZHM0NCbl91QU1DR3ZpMlpWNGYyVmVVV3dXM2RJSWMxUk1qckdVR18tSjJfbml3enVHUFpZcDBEaG5lSVlDQQ?oc=5",
-    "date": "2026-11-24T17:25:01Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Reino Unido alerta sobre ameaça de sabotagem russa a empresas que abastecem a Ucrânia",
-    "summary_pt": "Reino Unido alerta sobre ameaça de sabotagem russa a empresas que abastecem a Ucrânia Reuters"
   },
   {
     "title": "NATO allies anxious as war spreads beyond Ukraine, Russia borders",
@@ -6769,7 +6769,7 @@
   {
     "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
     "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
