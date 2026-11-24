@@ -1,7 +1,7 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T10:15:49.553327Z",
+  "checked_at": "2026-11-24T10:20:59.393789Z",
   "status": "checado",
   "items": [
     {
@@ -57,6 +57,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Clínica geral suspende consultas de rotina devido ao \"tsunami\" de demanda",
+      "summary": "A Aberfoyle Medical Practice, em Derry, afirma que seus médicos atendem 60 pacientes por dia cada um.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm62pze6xn37o?at_medium=RSS&at_campaign=rss",
+      "published_on": "24/11/2026 06:17 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca8/live/4160e700-e7e6-11f1-8b26-c1adae33e7f2.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Sanções, cimeiras e greves: a guerra na Ucrânia não mostra sinais de abrandamento",
       "summary": "Bom dia. Leo Cendrowicz aqui, trazendo para vocês o boletim informativo de segunda-feira. Esta semana, estamos a lidar com mais bombardeamentos na Ucrânia e com o bombardeamento metafórico das negociações climáticas da COP31 na Turquia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://www.cnnbrasil.com.br/curiosidades/apos-gastar-todas-as-economias-nas-cirurgias-da-esposa-veterano-de-guerra-volta-a-trabalhar-aos-81-anos-e-ganha-surpresa-em-caixa-de-mercado/",
       "published_on": "24/11/2026 05:50 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/24476_A4CFD1CB7CE87AC0-3.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Chefe da OTAN promete defesa contra ameaça espacial após relatos de satélite nuclear russo",
-      "summary": "A mídia alemã afirmou que a Rússia planejava lançar um satélite com uma ogiva nuclear no espaço nas próximas semanas.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "published_on": "23/11/2026 22:15 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg",
       "selection": "automatic"
     }
   ]
