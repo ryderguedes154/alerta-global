@@ -1,9 +1,35 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-24T11:22:48.157627Z",
+  "checked_at": "2026-11-24T11:28:05.782390Z",
   "status": "checado",
   "items": [
+    {
+      "title": "Terremoto de magnitude 6.4 — Mauritius - Reunion region",
+      "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Mauritius - Reunion region",
+      "country": "GLOBAL",
+      "source": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud6h",
+      "published_on": "24/11/2026 07:06 (Boa Vista)",
+      "image": "",
+      "selection": "automatic"
+    },
+    {
+      "title": "Enviado dos EUA duvida que ajuda militar a Israel acabe neste ano",
+      "summary": "Apoio público a Israel diminuiu nos Estados Unidos, especialmente entre os democratas, mas também entre os republicanos, em razão da atuação israelense na guerra em Gaza",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/enviado-dos-eua-duvida-que-ajuda-militar-a-israel-acabe-neste-ano/",
+      "published_on": "24/11/2026 06:52 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-04T132255Z_1_LYNXNPEMA31HT_RTROPTP_4_USA-ELECTION.jpg?w=200",
+      "selection": "automatic"
+    },
     {
       "title": "Drone russo viola o espaço aéreo polonês dias depois que mísseis de cruzeiro caíram no país – Europa ao vivo",
       "summary": "Autoridades investigam “actividade intencional” no meio de tensões crescentes entre Moscovo e países do flanco oriental da NATO. Entretanto, o Financial Times informa esta manhã que o Pentágono está a atrasar a entrega de cerca de 60 interceptadores de defesa aérea Patriot, muito necessários, à Ucrânia. Os interceptadores, pagos pelos aliados ocidentais da U",
@@ -31,19 +57,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Ataque russo mata duas pessoas na Ucrânia, dias após ataque a navio ao largo da Líbia",
-      "summary": "O ataque russo a Zaporíjia destruiu uma casa e danificou um prédio de apartamentos de cinco andares, disseram autoridades ucranianas.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
-      "published_on": "24/11/2026 05:51 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b054d95ca5e-1795509653.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
       "title": "UE propõe novas sanções abrangentes à Rússia visando bancos, criptomoedas e eventos esportivos",
       "summary": "BRUXELAS (AP) – A Comissão Europeia propôs na segunda-feira atingir dezenas de bancos da Rússia, reprimir as plataformas criptográficas e proibir equipes esportivas e atletas de competir sob a bandeira do país em uma nova rodada de sanções sobre a guerra de Moscou na Ucrânia. As propostas, apresentadas por…",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -67,19 +80,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cm62pze6xn37o?at_medium=RSS&at_campaign=rss",
       "published_on": "24/11/2026 06:17 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca8/live/4160e700-e7e6-11f1-8b26-c1adae33e7f2.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Sanções, cimeiras e greves: a guerra na Ucrânia não mostra sinais de abrandamento",
-      "summary": "Bom dia. Leo Cendrowicz aqui, trazendo para vocês o boletim informativo de segunda-feira. Esta semana, estamos a lidar com mais bombardeamentos na Ucrânia e com o bombardeamento metafórico das negociações climáticas da COP31 na Turquia.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/23/sanctions-summits-and-strikes-the-war-in-ukraine-shows-no-sign-of-slowing",
-      "published_on": "23/11/2026 03:26 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/10/00/37/25/696x392_cmsv2_b61d1d5c-2bdb-586f-be92-5a37e32ca1c5-10003725.jpg",
       "selection": "automatic"
     },
     {
