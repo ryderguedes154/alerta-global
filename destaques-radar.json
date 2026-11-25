@@ -1,7 +1,7 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T06:22:30.635641Z",
+  "checked_at": "2026-11-25T06:27:37.303763Z",
   "status": "checado",
   "items": [
     {
@@ -18,6 +18,19 @@
       "selection": "automatic"
     },
     {
+      "title": "EUA abandonam plano de acordos com Rússia para encerrar guerra, diz jornal",
+      "summary": "Moscou demonstrou pouco interesse em propostas de investimentos americanos nos setores de energia e aviação",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/eua-abandonam-plano-de-acordos-com-russia-para-encerrar-guerra-diz-jornal/",
+      "published_on": "25/11/2026 02:08 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/kremlin-eua.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
       "title": "Espionagem telefônica para mísseis: por que os laços estratégicos Índia-Israel vão além de Modi",
       "summary": "O partido da oposição, o Congresso, chama a guerra de Israel em Gaza de genocídio, mas o seu líder ainda quer laços fortes com Israel.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -28,19 +41,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi?traffic_source=rss",
       "published_on": "25/11/2026 01:27 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-02-26T125806Z_667581333_RC2OTJAZOSZ2_RTRMADP_3_ISRAEL-INDIA-1795520918.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "Pesquisa revela que os eleitores dos EUA querem que o governo encerre a guerra com o Irã, independentemente das condições",
-      "summary": "Nova pesquisa revela que 55% dos eleitores, incluindo 80% dos democratas, querem que a guerra termine imediatamente.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
-      "published_on": "24/11/2026 21:14 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26103713873653-1776138849.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
