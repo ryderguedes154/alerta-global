@@ -1,7 +1,7 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T04:00:34.195541Z",
+  "checked_at": "2026-11-25T04:05:43.307247Z",
   "status": "checado",
   "items": [
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Os Estados Unidos finalizam novas tarifas para a China, a União Europeia e mais uma dúzia de países",
-      "summary": "O Escritório de Comércio conclui a investigação contra 16 jurisdições por incentivarem a superprodução e permitirem a concorrência desleal",
+      "title": "Clínica geral suspende consultas de rotina devido ao \"tsunami\" de demanda",
+      "summary": "A Aberfoyle Medical Practice, em Derry, afirma que seus médicos atendem 60 pacientes por dia cada um.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
+      "category": "Clima e desastres",
       "region": "Global",
-      "country": "ES",
-      "source": "El País",
-      "url": "https://elpais.com/us/2026-11-24/estados-unidos-ultima-nuevos-aranceles-a-china-la-ue-y-otra-docena-de-paises.html",
-      "published_on": "24/11/2026 12:04 (Boa Vista)",
-      "image": "https://imagenes.elpais.com/resizer/v2/5G3PMYC575IDNA5OUBBEIDIKUI.jpg?auth=e7981eaba55f1451b8154f861fbafc68094f2e1d6545d9c2cf91e39a0cdb3879",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm62pze6xn37o?at_medium=RSS&at_campaign=rss",
+      "published_on": "24/11/2026 14:12 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca8/live/4160e700-e7e6-11f1-8b26-c1adae33e7f2.jpg",
       "selection": "automatic"
     }
   ]
