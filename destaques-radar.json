@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T07:55:12.421758Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T08:00:19.628916Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os próprios números da Rússia mostram quase 500.000 mortes na guerra na Ucrânia",
@@ -26,7 +26,7 @@
       "country": "US",
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
-      "published_on": "25/11/2026 03:03 (Boa Vista)",
+      "published_on": "25/11/2026 03:29 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-nkorea-swiss-kctw/25int-nkorea-swiss-kctw-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
@@ -70,19 +70,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Magda: Petrobras já não é empresa de petróleo e gás, mas de energia",
-      "summary": "Presidente da estatal destacou a importância dos combustíveis fósseis, mas ressaltou a busca da companhia por renováveis e biocombustíveis",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/infra/magda-petrobras-ja-nao-e-empresa-de-petroleo-e-gas-mas-de-energia/",
-      "published_on": "24/11/2026 18:09 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/top-view-eyeshadows-make-up.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
       "title": "A guerra da Rússia contra a Ucrânia: ‘Ambos os lados estão preparados para operar fora da zona de conflito’",
       "summary": "Charli James tem o prazer de dar as boas-vindas a Gavin Hall, professor de Política, Ciência Política e Segurança Internacional na Universidade de Strathclyde. Ele é especialista em OTAN, instituições de segurança e no papel da tecnologia emergente na guerra. Hall examina as recentes operações russas e ucranianas fora da principal zona de conflito, as condiç",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,6 +80,19 @@
       "url": "https://www.france24.com/en/russia-s-war-on-ukraine-both-sides-are-prepared-to-operate-outside-of-the-conflict-zone",
       "published_on": "24/11/2026 13:26 (Boa Vista)",
       "image": "https://s.france24.com/media/display/7262fe1c-e820-11f1-9829-95e072ff0a91/w:1024/p:16x9/EN-20261124-130504-131126-CS.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Tarifaço de Trump: EUA preparam aumento de tarifas contra China, União Europeia e mais",
+      "summary": "O presidente Donald Trump se reúne com o presidente chinês Xi Jinping e o presidente russo Vladimir Putin na Vila Kylin em Shenzhen, na província de Guangdong, no sul da China, na quinta-feira, 19 de novembro de 2026 Mark Schiefelbein/AP Os Estados Unidos se preparam para aplicar novas tarifas sobre produtos da China, da União Europeia e de outras 14 economi",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/economia/noticia/2026/11/24/eua-tarifas.ghtml",
+      "published_on": "24/11/2026 11:03 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/9HGMhfzAgrFKCX0Xc43dUWajWPk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/0/RSx2FtQ7OJNMOU0arvMA/ap26323327789634.jpg",
       "selection": "automatic"
     },
     {
