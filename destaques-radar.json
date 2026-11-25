@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T11:02:03.332600Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T11:07:13.270293Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os próprios números da Rússia mostram que ela perdeu quase 500 mil pessoas na guerra da Ucrânia",
@@ -57,19 +57,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Terremoto de magnitude 6.4 — Mauritius - Reunion region",
-      "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Mauritius - Reunion region",
-      "country": "GLOBAL",
-      "source": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud6h",
-      "published_on": "24/11/2026 07:06 (Boa Vista)",
-      "image": "",
-      "selection": "automatic"
-    },
-    {
       "title": "Imigrante deportado por engano que se tornou símbolo da política migratória de Trump deixa os EUA voluntariamente",
       "summary": "Kilmar Abrego, o imigrante cuja deportação indevida para El Salvador o tornou um símbolo das políticas imigratórias agressivas do presidente dos EUA, Donald Trump, comparece para uma apresentação no escritório local do ICE em Baltimore, três dias após sua liberação da custódia criminal no Tennessee — em Baltimore, Maryland, EUA, 25 de agosto de 2025. REUTERS",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://news.sky.com/story/donald-trump-set-to-raise-tariffs-on-16-major-economies-13616253",
       "published_on": "24/11/2026 22:45 (Boa Vista)",
       "image": "https://e3.365dm.com/26/11/1920x1080/skynews-donald-trump-us_7415874.jpg?20261125040319",
+      "selection": "automatic"
+    },
+    {
+      "title": "Clínica geral suspende consultas de rotina devido ao \"tsunami\" de demanda",
+      "summary": "A Aberfoyle Medical Practice, em Derry, afirma que seus médicos atendem 60 pacientes por dia cada um.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm62pze6xn37o?at_medium=RSS&at_campaign=rss",
+      "published_on": "24/11/2026 14:12 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca8/live/4160e700-e7e6-11f1-8b26-c1adae33e7f2.jpg",
       "selection": "automatic"
     }
   ]
