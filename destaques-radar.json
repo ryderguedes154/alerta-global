@@ -1,7 +1,7 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T08:42:01.012753Z",
+  "checked_at": "2026-11-25T08:47:08.506957Z",
   "status": "checado",
   "items": [
     {
@@ -18,19 +18,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Teerã denuncia uso de IA pelos EUA na guerra contra o Irã",
-      "summary": "O embaixador de Teerã na ONU disse que o uso de IA na guerra viola as obrigações dos EUA sob o direito internacional.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-      "published_on": "25/11/2026 04:34 (Boa Vista)",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Coreia do Norte expulsa diplomatas suíços em briga ligada à guerra na Ucrânia",
       "summary": "A medida seguiu-se à decisão da Suíça de sancionar um acampamento internacional de jovens na Coreia do Norte, que é acusado de acolher crianças ucranianas para doutrinação.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,6 +28,19 @@
       "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
       "published_on": "25/11/2026 03:29 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-nkorea-swiss-kctw/25int-nkorea-swiss-kctw-mediumSquareAt3X.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "EUA abandonam plano de acordos com Rússia para encerrar guerra, diz jornal",
+      "summary": "Moscou demonstrou pouco interesse em propostas de investimentos americanos nos setores de energia e aviação",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/eua-abandonam-plano-de-acordos-com-russia-para-encerrar-guerra-diz-jornal/",
+      "published_on": "25/11/2026 02:08 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/kremlin-eua.jpg?w=200",
       "selection": "automatic"
     },
     {
@@ -57,19 +57,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Donald Trump deve aumentar tarifas sobre 16 principais economias",
-      "summary": "Donald Trump deverá aumentar as tarifas sobre a China, a União Europeia e vários outros países, segundo relatos.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "GB",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/donald-trump-set-to-raise-tariffs-on-16-major-economies-13616253",
-      "published_on": "24/11/2026 22:45 (Boa Vista)",
-      "image": "https://e3.365dm.com/26/11/1920x1080/skynews-donald-trump-us_7415874.jpg?20261125040319",
-      "selection": "automatic"
-    },
-    {
       "title": "A guerra da Rússia contra a Ucrânia: ‘Ambos os lados estão preparados para operar fora da zona de conflito’",
       "summary": "Charli James tem o prazer de dar as boas-vindas a Gavin Hall, professor de Política, Ciência Política e Segurança Internacional na Universidade de Strathclyde. Ele é especialista em OTAN, instituições de segurança e no papel da tecnologia emergente na guerra. Hall examina as recentes operações russas e ucranianas fora da principal zona de conflito, as condiç",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -80,6 +67,19 @@
       "url": "https://www.france24.com/en/russia-s-war-on-ukraine-both-sides-are-prepared-to-operate-outside-of-the-conflict-zone",
       "published_on": "24/11/2026 13:26 (Boa Vista)",
       "image": "https://s.france24.com/media/display/7262fe1c-e820-11f1-9829-95e072ff0a91/w:1024/p:16x9/EN-20261124-130504-131126-CS.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Donald Trump deve aumentar tarifas sobre 16 principais economias",
+      "summary": "Donald Trump deverá aumentar as tarifas sobre a China, a União Europeia e vários outros países, segundo relatos.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "GB",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/donald-trump-set-to-raise-tariffs-on-16-major-economies-13616253",
+      "published_on": "24/11/2026 22:45 (Boa Vista)",
+      "image": "https://e3.365dm.com/26/11/1920x1080/skynews-donald-trump-us_7415874.jpg?20261125040319",
       "selection": "automatic"
     },
     {
