@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T20:36:28.396544Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T20:41:38.079762Z",
+  "status": "checado",
   "items": [
     {
       "title": "Cinco jatos militares russos atingidos em ataque a campo de aviação, diz Ucrânia",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Imigrante deportado por engano que se tornou símbolo da política migratória de Trump deixa os EUA voluntariamente",
-      "summary": "O salvadorenho Kilmar Abrego García, deportado por engano pelo governo de Donald Trump, chega a Madri, na Espanha, em 24 de novembro de 2026. Francisco Seco/ AP Kilmar Abrego García, imigrante salvadorenho que foi deportado por engano dos Estados Unidos em 2025, deixou o país voluntariamente na terça-feira (24) e viajou para a Espanha, segundo autoridades e",
+      "title": "‘Você está protegendo Trump’: Hanson-Young entra em conflito com o senador liberal antes que a legislação do dever de cuidado digital seja aprovada – como aconteceu",
+      "summary": "Receba nosso e-mail político diário, aplicativo gratuito ou podcast de notícias diário Wells diz que o investimento em IA e as proteções criativas não são um 'jogo de soma zero'. Pesando no gigantesco debate que é as empresas de IA que querem extrair dados australianos para treinar modelos versus criativos que querem proteger seu trabalho, Anika Wells diz qu",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Geral",
       "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/25/imigrante-deportado-por-engano-pelo-governo-trump-deixa-os-eua.ghtml",
-      "published_on": "25/11/2026 05:40 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/R7N7_dQ_MoDV2vYHWVhyDRGD7pY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/d/sBEjG5Syy19f7OLVb4YQ/5kq2mrf3ovla3cf7nptiltyq5m-1-.jpg",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+      "published_on": "25/11/2026 03:34 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/b1c138581dfdb0d3ad5c3e6a9f769bebe5972389/623_0_6230_4984/master/6230.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=32c5001108470dd98e0a601dcf82f38f",
       "selection": "automatic"
     }
   ]
