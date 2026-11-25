@@ -101,7 +101,7 @@
     "country": "FR",
     "source": "Le Monde",
     "url": "https://www.lemonde.fr/international/article/2026/11/25/a-londres-l-inquietant-delabrement-des-ponts-et-du-palais-de-westminster_6814966_3210.html",
-    "date": "2026-11-25T02:00:07Z",
+    "date": "2026-11-25T02:00:03Z",
     "lang": "fr",
     "image": "https://img.lemde.fr/2026/11/25/0/0/6840/4560/1440/960/60/0/e15e3a4_upload-1-xv9f7hjpe3ys-000-b2qf2kn.jpg",
     "title_pt": "Em Londres, a preocupante deterioração das pontes e do Palácio de Westminster",
@@ -350,7 +350,7 @@
   {
     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -406,7 +406,7 @@
   {
     "title": "The rising cost of putting food on the table in India",
     "summary": "India's food inflation is broadening, squeezing household budgets.",
-    "category": "Economia",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -600,7 +600,7 @@
   {
     "title": "Why tiny cars are taking off across Europe",
     "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2080,7 +2080,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2258,6 +2258,18 @@
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-theworld-nvidia-trump-01-alt-fphm-promo/25int-theworld-nvidia-trump-01-alt-fphm-promo-mediumSquareAt3X.jpg",
     "title_pt": "Segurança Nacional vs. Mercado de Ações",
     "summary_pt": "O presidente Trump afastou as preocupações sobre uma possível espionagem quando pressionou o conselho da Nvidia para reintegrar Jensen Huang como presidente-executivo."
+  },
+  {
+    "title": "AI consumes less water per dollar spent than almond milk or golf, Enverus report says",
+    "summary": "AI consumes less water per dollar spent than almond milk or golf, Enverus report says Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLXlYaTU4SDlDWXJSNGFNN1FFaGZSZzcxY3NnM0VEd0ZhbThkT1d5UDBsLTRfLXAzSmk5MUxpUGdMY1BrakhsbndpV2pycnpsblZaX0E0V2JpTExxam5VWW0xcUV4RFNabTk3bk51QmwyQjd4bHZEdFI2ZTFMeVpPWmVpc1RFaXFtRHZMWHdPaXNTWE9PQ253S1M5eFFaZHF1UE01SFZJbGtkdGNZWngwUVgxLVpNSGpaQ1JyeExYRlUxc3h3?oc=5",
+    "date": "2026-11-24T20:53:59Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "UN slams Iran after it flogs singer for performing without veil",
@@ -3208,7 +3220,7 @@
   {
     "title": "Faisal Islam: Fears over the AI boom haven't gone away",
     "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5210,18 +5222,6 @@
     "summary_pt": "Bombardeiros russos sobrevoam Mar do Japão Bombardeiros estratégicos russos entraram na zona de identificação de defesa aérea da Coreia do Sul, informou nesta terça-feira (24) a agência de notícias sul-coreana Yonhap, após corrigir uma informação anterior segundo a qual uma suposta aeronave norte-coreana havia violado o espaço aéreo do país. A Rússia falou e"
   },
   {
-    "title": "What we know about Megaspeed, the Nvidia customer blacklisted by US",
-    "summary": "What we know about Megaspeed, the Nvidia customer blacklisted by US Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcWVhaTZ1VE1DODl2cm9KdXRyTWgwV1Q4cjRsSzRhOG1wU3FjLUtKajNVN2NIV1VqNU9OS0tTMkF1T1NTTFRiTEtIT1V6aXMzbDctRnR5X3ZTbVFRdEQ5NGE2ZnlOa0c4YjhzN3pRbUJzQTlUZDZwRE5SNlhOSjVzY1UxaXlZWTRDNm1RNmFHLXhZOU40Tm9UcnBKdnVfcnJTemFhT21EOEE1Y3dtNkR3VmZxV0VHTHhGSWVpYlNoSk0?oc=5",
-    "date": "2026-11-24T12:01:13Z",
-    "lang": "en",
-    "image": ""
-  },
-  {
     "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
     "summary": "Beijing may welcome the return of the leading U.S. advocate for A.I. chip sales to China. But the saga could reinforce a Chinese push for self-reliance, analysts say.",
     "category": "Geral",
@@ -6446,20 +6446,6 @@
     "summary_pt": "Campanha de conscientização lembra ao público que \"o trânsito é um esporte coletivo\" em meio a menos civilidade e mais colisões nas vias. Durante décadas, a Holanda foi famosa por sua orgulhosa cultura ciclística, com uma rede de 37 mil quilômetros de ciclovias usadas por todos, desde crianças menores de oito anos até adultos com mais de 80 anos. Nos últimos anos, no entanto, como tantos outros países ao redor do mundo, ela..."
   },
   {
-    "title": "Pentagon sharply rebukes Canada over defense spending and the F-35 fighter jet review",
-    "summary": "TORONTO (AP) — The Pentagon has accused Canada of falling short as a credible partner in defending North America, delivering a sharp rebuke over military spending and its reconsideration of American-made F-35 fighter jets. In an unusually blunt fact sheet, the U.S. Defense Department on Monday said …",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/canada-us-defense-spending-hegseth-pentagon-2ce983323fc56d21db88db5401422fde?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-    "date": "2026-11-24T04:46:43Z",
-    "lang": "en",
-    "image": "https://ic-cdn.flipboard.com/apnews.com/d1fc8a26bbe8c2c902257b4dc14f619ef400532e/_large.jpeg",
-    "title_pt": "Pentágono repreende duramente o Canadá pelos gastos com defesa e pela revisão do caça F-35",
-    "summary_pt": "TORONTO (AP) – O Pentágono acusou o Canadá de não ser um parceiro credível na defesa da América do Norte, repreendendo duramente os gastos militares e reconsiderando os caças F-35 fabricados nos EUA. Em um folheto informativo incomumente contundente, o Departamento de Defesa dos EUA disse na segunda-feira ..."
-  },
-  {
     "title": "Sciammarella y las elecciones: internacional",
     "summary": "Viñeta del 24 de noviembre de 2026",
     "category": "Geral",
@@ -6934,5 +6920,17 @@
     "image": "https://i.guim.co.uk/img/media/fd2a6955fac805e0a3ba873c88fcd4cd86fea573/448_0_3149_2519/master/3149.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4c88aa5713477d0de2d92033b6c335c",
     "title_pt": "Alvo da piada: imitador de Trump zomba do presidente no jantar da imprensa do Canadá",
     "summary_pt": "Carney assiste enquanto comediante satiriza o líder dos EUA e seu interesse pelas nádegas dos homens em evento de correspondentes em Ottawa O primeiro-ministro do Canadá, Mark Carney, foi acompanhado no palco em Ottawa por um imitador de Donald Trump que zombou do presidente dos EUA sob gargalhadas estridentes de uma plateia de políticos e jornalistas em um jantar da galeria de imprensa parlamentar no sábado."
+  },
+  {
+    "title": "NATO vows space defence after Russia nuclear satellite report",
+    "summary": "NATO chief Mark Rutte said Monday the alliance would defend against threats in space when asked about German media reports that Russia may be preparing to launch a nuclear-armed satellite. The media reports, citing unnamed German military and BND spy agency sources, said Moscow was thought to be planning such a launch in the coming weeks, giving it the capab",
+    "category": "Geral",
+    "region": "Global",
+    "country": "FR",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/nato-vows-space-defence-after-russia-nuclear-satellite-report",
+    "date": "2026-11-23T22:33:03Z",
+    "lang": "en",
+    "image": "https://s.france24.com/media/display/2f1e3dc6-e78d-11f1-9ce0-1bac47ab2f5d/w:1024/p:16x9/EN-20261123-230634-230830-CS.jpg"
   }
 ]
