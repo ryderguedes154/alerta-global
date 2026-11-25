@@ -1,5 +1,47 @@
 [
   {
+    "title": "Household energy prices to rise by 26% in January as new price cap confirmed",
+    "summary": "Domestic gas prices will drive the rise which affects millions of people on variable tariffs.",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-25T07:05:29Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a30b/live/889ad760-e89b-11f1-801d-b916df288324.jpg",
+    "title_pt": "Os preços da energia doméstica aumentarão 26% em janeiro, com a confirmação do novo limite de preço",
+    "summary_pt": "Os preços domésticos do gás impulsionarão o aumento que afecta milhões de pessoas com tarifas variáveis."
+  },
+  {
+    "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+    "summary": "The move followed Switzerland’s decision to sanction an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+    "date": "2026-11-25T07:03:16Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-nkorea-swiss-kctw/25int-nkorea-swiss-kctw-mediumSquareAt3X.jpg",
+    "title_pt": "Coreia do Norte expulsa diplomatas suíços em briga ligada à guerra na Ucrânia",
+    "summary_pt": "A medida seguiu-se à decisão da Suíça de sancionar um acampamento internacional de jovens na Coreia do Norte, que é acusado de acolher crianças ucranianas para doutrinação."
+  },
+  {
+    "title": "Colombia security forces storm supermarket where hostages are being held",
+    "summary": "A botched armoured-vehicle robbery led to the crisis, which brought President Abelardo de la Espriella to the scene after negotiators had already secured 10 people's release.",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/2026/11/25/colombia-security-forces-storm-supermarket-where-hostages-are-being-held",
+    "date": "2026-11-25T07:02:51Z",
+    "lang": "en",
+    "image": "https://images.euronews.com/articles/stories/10/00/71/03/696x392_cmsv2_b36d6bd9-b31f-5e66-ab3e-471c1d95158e-10007103.jpg",
+    "title_pt": "Forças de segurança da Colômbia invadem supermercado onde reféns estão mantidos",
+    "summary_pt": "Um roubo fracassado de um veículo blindado levou à crise, que trouxe o presidente Abelardo de la Espriella ao local depois que os negociadores já haviam garantido a libertação de 10 pessoas."
+  },
+  {
     "title": "En Espagne, pays aux avant-postes du changement climatique, l’environnement reste le grand absent de la campagne électorale",
     "summary": "Malgré les catastrophes climatiques à répétition, la lutte contre le réchauffement peine à s’imposer dans le débat public, victime des clivages politiques qui fracturent le pays.",
     "category": "Geral",
@@ -10,8 +52,8 @@
     "date": "2026-11-25T07:00:05Z",
     "lang": "fr",
     "image": "https://img.lemde.fr/2026/07/26/0/69/5262/3508/1440/960/60/0/65891ff_ftp-1-xqdllzjdyar2-5712073-01-06.jpg",
-    "summary_pt": "Apesar dos repetidos desastres climáticos, a luta contra o aquecimento global tem dificuldade em afirmar-se no debate público, vítima das divisões políticas que estão a fracturar o país.",
-    "title_pt": "Em Espanha, um país na vanguarda das alterações climáticas, o ambiente permanece em grande parte ausente da campanha eleitoral"
+    "title_pt": "Em Espanha, um país na vanguarda das alterações climáticas, o ambiente permanece em grande parte ausente da campanha eleitoral",
+    "summary_pt": "Apesar dos repetidos desastres climáticos, a luta contra o aquecimento global tem dificuldade em afirmar-se no debate público, vítima das divisões políticas que estão a fracturar o país."
   },
   {
     "title": "Domestic violence soars to record high in Germany",
@@ -110,6 +152,22 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Captura-de-tela-2026-10-01-235904.png?w=200",
     "title_pt": "Logo após atingir um marco histórico, a Voyager 1 pode estar em apuros tenebrosos; retornando apenas um “sinal portador” vazio",
     "summary_pt": "Engenheiros investigam se o subsistema de dados de voo da espaçonave voltou a apresentar defeito após três anos"
+  },
+  {
+    "title": "Terremoto de magnitude 5.2 — 175 km N of Hicks Bay, New Zealand",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "175 km N of Hicks Bay, New Zealand",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ude3",
+    "date": "2026-11-25T06:34:08.672000Z",
+    "lat": -36.0191,
+    "lon": 178.3688,
+    "depth_km": 25.327,
+    "forcedSev": "med",
+    "title_pt": "Terremoto de magnitude 5.2 — 175 km N of Hicks Bay, New Zealand",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
     "title": "Equipe econômica aguarda Lula para avançar com PEC do ajuste fiscal",
@@ -739,7 +797,7 @@
     "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/podemos-busca-capitalizar-el-25n-en-la-disputa-por-el-voto-feminista-en-la-izquierda.html",
     "date": "2026-11-25T04:30:01Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/2YSG44EJXBMUJBSPCOOA6MU2M4.jpg?auth=4007fab0d3bd3770b7e950e1bd7da2fc0d66485f45a83ed85141a18ddcaebc7b",
+    "image": "https://imagenes.elpais.com/resizer/v2/5WR44VNYXVHDDIY76ABDLYBGF4.jpg?auth=d43f23408f0492ec85e676727fe6012190c474c926e4ff31ec8b6cefab7374b2",
     "title_pt": "Podemos busca capitalizar 25N na disputa pelo voto feminista à esquerda",
     "summary_pt": "Montero apela a “encher as ruas” no Dia Internacional para a Eliminação da Violência contra as Mulheres. Colau também participa de uma das marchas convocadas em Madrid"
   },
@@ -1038,20 +1096,6 @@
     "summary_pt": "Várias medidas acordadas pelos Trabalhistas com o CC OO e a UGT permanecem no ar com o Governo prestes a tomar posse. Yolanda Díaz culpa o PSOE"
   },
   {
-    "title": "La Junta Electoral rechaza por unanimidad las quejas de PP y Vox sobre noticias sin pruebas contra el voto CERA",
-    "summary": "El magistrado presidente del órgano reconoce que recurriría si el Supremo no le dejara votar como a los afectados por la ley de nietos",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-25/la-junta-electoral-rechaza-por-unanimidad-las-quejas-de-pp-y-vox-sobre-noticias-sin-pruebas-contra-el-voto-cera.html",
-    "date": "2026-11-25T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/GPZYOQC7ORC4DPMVFW4AHLUEII.jpg?auth=5199ae99ee441b77a5c3f77c6f550920563049bfc2b4235f908b51076f75b43f",
-    "title_pt": "A Junta Eleitoral rejeita por unanimidade as denúncias do PP e Vox sobre notícias sem provas contra o voto do CERA",
-    "summary_pt": "O juiz presidente do órgão reconhece que recorreria se o Supremo Tribunal não lhe permitisse votar como os afetados pela lei dos netos."
-  },
-  {
     "title": "El rescate político de Nvidia",
     "summary": "Trump ata su legado a la inteligencia artificial al imponer su voluntad sobre una empresa privada de la que además es inversor",
     "category": "Geral",
@@ -1218,6 +1262,20 @@
     "image": "https://imagenes.elpais.com/resizer/v2/I6I7G3CXDZIBRESWWU5X3C5HJM.jpg?auth=33834eaee3d612258f748a21a9e54d1da4540399b8515074319a9963e3cb2dd0",
     "title_pt": "Governo e sindicatos disputam o controle da narrativa em relação à greve da educação de amanhã",
     "summary_pt": "Em um momento de declínio da mobilização dos professores, ambas as partes intensificam suas mensagens para colocar o coletivo do seu lado."
+  },
+  {
+    "title": "¿Por qué no hablan los hombres buenos?",
+    "summary": "Conozco a muchos que sienten auténtica repugnancia ante la violencia machista y que jamás la tolerarían en su presencia. Y, sin embargo, cuesta escucharlos públicamente",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/catalunya/2026-11-25/por-que-no-hablan-los-hombres-buenos.html",
+    "date": "2026-11-25T04:30:01Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/WZIMTTTYRFECLIZJM324IEJ3RI.jpg?auth=53818e666af778fb9c49dd9286d5018eddd9ef9405c6a175adee579425e86794",
+    "title_pt": "Por que os homens bons não falam?",
+    "summary_pt": "Conheço muitos que sentem uma repulsa genuína pela violência sexista e nunca a tolerariam na sua presença. E, no entanto, é difícil ouvi-los publicamente"
   },
   {
     "title": "Steffen Krach, líder del SPD en Berlín: “No creo que nacionalizar viviendas baje los alquileres, al contrario”",
@@ -1502,7 +1560,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1594,8 +1652,8 @@
     "date": "2026-11-25T03:19:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Coreia do Norte expulsa diplomata suíço por sanções semanas após reabertura do escritório Reuters",
-    "title_pt": "Coreia do Norte expulsa diplomata suíço por causa de sanções semanas após reabertura do escritório"
+    "title_pt": "Coreia do Norte expulsa diplomata suíço por causa de sanções semanas após reabertura do escritório",
+    "summary_pt": "Coreia do Norte expulsa diplomata suíço por sanções semanas após reabertura do escritório Reuters"
   },
   {
     "title": "Bangladesh raises garment workers' minimum wage 36% after protests",
@@ -1670,7 +1728,7 @@
   {
     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2274,7 +2332,7 @@
   {
     "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
     "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2288,7 +2346,7 @@
   {
     "title": "The rising cost of putting food on the table in India",
     "summary": "India's food inflation is broadening, squeezing household budgets.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2620,20 +2678,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg",
     "title_pt": "'Só uso a máquina de lavar aos domingos' - como estamos a manter as nossas contas de energia baixas",
     "summary_pt": "A BBC fala com três pessoas sobre as medidas que tomam para manter suas contas de energia sob controle."
-  },
-  {
-    "title": "Households braced for soaring energy bills with new price cap to be announced",
-    "summary": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
-    "category": "Economia",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-25T00:29:58Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg",
-    "title_pt": "Famílias se preparam para o aumento das contas de energia com o novo teto de preços a ser anunciado",
-    "summary_pt": "Os preços do gás doméstico aumentarão significativamente em janeiro, de acordo com o novo teto de preços da agência reguladora Ofgem."
   },
   {
     "title": "Armed men take hostages at supermarket in Cartagena, Colombia",
@@ -3573,7 +3617,7 @@
     "url": "https://elpais.com/espana/2026-11-24/seis-nuevos-cayucos-llegan-a-canarias-con-900-personas.html",
     "date": "2026-11-24T22:26:20Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/IDZ4IBUZO5IJFCHR6SNRYRXSEY.jpg?auth=37e6b2416dec6eb7dfc8eec92e19a0977de8fbf7fd009937dfb86783dd111400",
+    "image": "https://imagenes.elpais.com/resizer/v2/T2HRAF4QYBNSRC2HCCFDGNJNNA.jpg?auth=9b87798fab4cdc06db6d4ee8d75b61a19a8694594bedddbf7016f11cbd0eee66",
     "title_pt": "A rota das Canárias volta a bater o recorde de chegadas num dia: 2.100 migrantes em El Hierro",
     "summary_pt": "Entre os resgatados estão 203 mulheres e 127 menores, um deles um bebê nascido na viagem. Clavijo e Torres discordam sobre a eficácia dos esforços com os países de origem"
   },
@@ -6978,47 +7022,5 @@
     "image": "https://ic-cdn.flipboard.com/apnews.com/077a325262be87cffcce32a758d0fac797083baf/_xlarge.jpeg",
     "title_pt": "Líder deposto de Bangladesh, Hasina, planeja voltar para casa do exílio em 16 de dezembro",
     "summary_pt": "DHAKA, Bangladesh (AP) – Sheikh Hasina, que foi destituída do cargo de primeira-ministra de Bangladesh há mais de dois anos, disse na terça-feira que planeja voltar para casa do exílio na Índia em 16 de dezembro, dia em que o país comemora o Dia da Vitória, quando conquistou a independência após uma guerra com o Paquistão. Hasina entrou em…"
-  },
-  {
-    "title": "Pentagon sharply rebukes Canada over defense spending and the F-35 fighter jet review",
-    "summary": "TORONTO (AP) — The Pentagon has accused Canada of falling short as a credible partner in defending North America, delivering a sharp rebuke over military spending and its reconsideration of American-made F-35 fighter jets. In an unusually blunt fact sheet, the U.S. Defense Department on Monday said …",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/canada-us-defense-spending-hegseth-pentagon-2ce983323fc56d21db88db5401422fde?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-    "date": "2026-11-24T04:46:43Z",
-    "lang": "en",
-    "image": "https://ic-cdn.flipboard.com/apnews.com/d1fc8a26bbe8c2c902257b4dc14f619ef400532e/_large.jpeg",
-    "title_pt": "Pentágono repreende duramente o Canadá pelos gastos com defesa e pela revisão do caça F-35",
-    "summary_pt": "TORONTO (AP) – O Pentágono acusou o Canadá de não ser um parceiro credível na defesa da América do Norte, repreendendo duramente os gastos militares e reconsiderando os caças F-35 fabricados nos EUA. Em um folheto informativo incomumente contundente, o Departamento de Defesa dos EUA disse na segunda-feira ..."
-  },
-  {
-    "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
-    "summary": "The order was issued after aircraft entered the country’s air defence identification zone over the island of Ulleungdo Residents of a remote South Korean island were ordered to take shelter on Tuesday morning after several Russian military aircraft came close to entering its airspace, prompting a pre-emptive alert from the military that anticipated a violati",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
-    "date": "2026-11-24T04:14:43Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/a64555d05e60fde8290f1489232b209ec8ba900c/996_199_4012_3210/master/4012.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=afa6528b0912329f12ab2008c340f708",
-    "title_pt": "Coreia do Sul orienta moradores de ilha a se abrigarem após aproximação de aeronaves militares russas",
-    "summary_pt": "A ordem foi emitida após aeronaves terem entrado na zona de identificação de defesa aérea do país sobre a ilha de Ulleungdo. Os moradores de uma ilha remota da Coreia do Sul foram orientados a se abrigar na manhã de terça-feira após várias aeronaves militares russas terem se aproximado de seu espaço aéreo, provocando um alerta preventivo das Forças Armadas que antecipava uma violação."
-  },
-  {
-    "title": "South Korea says several Russian aircraft flew into its air defense zone",
-    "summary": "SEOUL, South Korea (AP) — South Korea scrambled fighter jets Tuesday to chase away Russian military aircraft that flew inside the country’s air defense identification zone over waters between the Korean Peninsula and Japan, Seoul’s military said, correcting earlier government statements that the …",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/south-north-korea-tensions-airspace-ulleung-island-a0347d1dda863d8189bbdf21c320ee3b?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-    "date": "2026-11-24T03:23:00Z",
-    "lang": "en",
-    "image": "https://ic-cdn.flipboard.com/apnews.com/3dd76026592b85d9d2414612a692ac2b8a224f9c/_xlarge.jpeg",
-    "title_pt": "Coreia do Sul diz que vários aviões russos voaram para a sua zona de defesa aérea",
-    "summary_pt": "SEUL, Coreia do Sul (AP) - A Coreia do Sul enviou caças na terça-feira para afugentar aeronaves militares russas que voavam dentro da zona de identificação de defesa aérea do país sobre as águas entre a Península Coreana e o Japão, disseram os militares de Seul, corrigindo declarações anteriores do governo de que ..."
   }
 ]
