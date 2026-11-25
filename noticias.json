@@ -350,7 +350,7 @@
   {
     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -406,7 +406,7 @@
   {
     "title": "The rising cost of putting food on the table in India",
     "summary": "India's food inflation is broadening, squeezing household budgets.",
-    "category": "Clima e desastres",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -600,7 +600,7 @@
   {
     "title": "Why tiny cars are taking off across Europe",
     "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1082,6 +1082,18 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/nasa-marte-e-terra.png?w=200",
     "title_pt": "Por que chefs recomendam comer feijão frio? A combinação com alho-poró e frango que renova o almoço de verão",
     "summary_pt": "Aprenda a ajustar o ponto de cozimento dos grãos e aplicar técnicas de refrigeração para preparar saladas leves, nutritivas e seguras"
+  },
+  {
+    "title": "11/24: CBS Evening News",
+    "summary": "Severe weather threatens Thanksgiving travel; U.S. spy agencies hit with cybersecurity breach.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/video/112426-cbs-evening-news/",
+    "date": "2026-11-24T23:30:00Z",
+    "lang": "en",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/1a6d0549-879a-40f5-b459-5f46cfe85045/thumbnail/1200x630/1d41b8742ffe6a95f8581b90ee8e0e06/enthumb1124.jpg"
   },
   {
     "title": "Terremoto de magnitude 4.7 — 2 km NNW of Cabatuan, Philippines",
@@ -2080,7 +2092,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3220,7 +3232,7 @@
   {
     "title": "Faisal Islam: Fears over the AI boom haven't gone away",
     "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3368,20 +3380,6 @@
     "summary_pt": "O instrutor deixa nas mãos dos tribunais de Madrid a investigação dos pagamentos do 'OkDiario' ao advogado do ex-assessor ministerial Koldo García"
   },
   {
-    "title": "European court finds states can turn back migrants in some cases",
-    "summary": "Europe's top human rights court ruled that member states can turn back migrants unless they've been identified as people who were at risk of suffering.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "DE",
-    "source": "Deutsche Welle",
-    "url": "https://www.dw.com/en/european-court-finds-states-can-turn-back-migrants-in-some-cases/a-80038352?maca=en-rss-en-all-1573-rdf",
-    "date": "2026-11-24T17:43:00Z",
-    "lang": "en",
-    "image": "https://static.dw.com/image/66463429_6.jpg",
-    "title_pt": "Tribunal europeu conclui que os estados podem recusar migrantes em alguns casos",
-    "summary_pt": "O principal tribunal europeu de direitos humanos decidiu que os Estados-membros podem recusar migrantes, a menos que estes tenham sido identificados como pessoas em risco de sofrimento."
-  },
-  {
     "title": "Thomas Markle formally charged over child sexual abuse material",
     "summary": "Thomas Markle has been formally charged on two counts of possessing child sexual abuse material in Los Angeles.",
     "category": "Geral",
@@ -3394,6 +3392,20 @@
     "image": "https://e3.365dm.com/26/11/1920x1080/skynews-thomas-markle-us_7411020.jpg?20261119231423",
     "title_pt": "Thomas Markle é formalmente acusado de material de abuso sexual infantil",
     "summary_pt": "Thomas Markle foi formalmente acusado de duas acusações de posse de material de abuso sexual infantil em Los Angeles."
+  },
+  {
+    "title": "European court finds states can turn back migrants in some cases",
+    "summary": "Europe's top human rights court ruled that member states can turn back migrants unless they've been identified as people who were at risk of suffering.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "DE",
+    "source": "Deutsche Welle",
+    "url": "https://www.dw.com/en/european-court-finds-states-can-turn-back-migrants-in-some-cases/a-80038352?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-11-24T17:43:00Z",
+    "lang": "en",
+    "image": "https://static.dw.com/image/66463429_6.jpg",
+    "title_pt": "Tribunal europeu conclui que os estados podem recusar migrantes em alguns casos",
+    "summary_pt": "O principal tribunal europeu de direitos humanos decidiu que os Estados-membros podem recusar migrantes, a menos que estes tenham sido identificados como pessoas em risco de sofrimento."
   },
   {
     "title": "Iranian women praise singer lashed for not wearing a hijab",
@@ -6920,17 +6932,5 @@
     "image": "https://i.guim.co.uk/img/media/fd2a6955fac805e0a3ba873c88fcd4cd86fea573/448_0_3149_2519/master/3149.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4c88aa5713477d0de2d92033b6c335c",
     "title_pt": "Alvo da piada: imitador de Trump zomba do presidente no jantar da imprensa do Canadá",
     "summary_pt": "Carney assiste enquanto comediante satiriza o líder dos EUA e seu interesse pelas nádegas dos homens em evento de correspondentes em Ottawa O primeiro-ministro do Canadá, Mark Carney, foi acompanhado no palco em Ottawa por um imitador de Donald Trump que zombou do presidente dos EUA sob gargalhadas estridentes de uma plateia de políticos e jornalistas em um jantar da galeria de imprensa parlamentar no sábado."
-  },
-  {
-    "title": "NATO vows space defence after Russia nuclear satellite report",
-    "summary": "NATO chief Mark Rutte said Monday the alliance would defend against threats in space when asked about German media reports that Russia may be preparing to launch a nuclear-armed satellite. The media reports, citing unnamed German military and BND spy agency sources, said Moscow was thought to be planning such a launch in the coming weeks, giving it the capab",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/nato-vows-space-defence-after-russia-nuclear-satellite-report",
-    "date": "2026-11-23T22:33:03Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/2f1e3dc6-e78d-11f1-9ce0-1bac47ab2f5d/w:1024/p:16x9/EN-20261123-230634-230830-CS.jpg"
   }
 ]
