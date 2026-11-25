@@ -1,7 +1,7 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T12:58:48.743233Z",
+  "checked_at": "2026-11-25T13:04:03.827440Z",
   "status": "checado",
   "items": [
     {
@@ -18,6 +18,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Irã denuncia o uso de IA pelos EUA na guerra",
+      "summary": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+      "published_on": "25/11/2026 09:00 (Boa Vista)",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Líbia diz que ataque de drones da Ucrânia matou militares do país e promete retaliação",
       "summary": "Dois oficiais navais líbios morreram em decorrência de ferimentos sofridos em um ataque — realizado no fim de semana por um drone marítimo ucraniano — contra um navio de guerra russo atracado em um porto no leste da Líbia. Autoridades militares líbias confirmaram as mortes e prometeram retaliações, ainda não especificadas, contra Kiev. Os dois homens tiveram",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -28,19 +41,6 @@
       "url": "https://g1.globo.com/mundo/noticia/2026/11/25/libia-diz-que-ataque-de-drones-da-ucrania-matou-militares-do-pais-e-promete-retaliacao.ghtml",
       "published_on": "25/11/2026 08:50 (Boa Vista)",
       "image": "https://g1.globo.com/mundo/noticia/2026/11/25/None",
-      "selection": "automatic"
-    },
-    {
-      "title": "Irã denuncia o uso de IA pelos EUA na guerra",
-      "summary": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-      "published_on": "25/11/2026 08:08 (Boa Vista)",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
       "selection": "automatic"
     },
     {
