@@ -2,9 +2,24 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-24T23:07:34.801Z",
+  "updated_at": "2026-11-25T13:31:28.706Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "EUA anunciam proposta de novas tarifas contra 14 parceiros comerciais",
+      "summary": "O escritório do representante comercial dos EUA anunciou em 25 de novembro propostas tarifárias após investigação sobre excesso de capacidade industrial. China, União Europeia, Japão e Coreia do Sul estão entre os atingidos. As medidas ainda passarão por consulta pública e não estão em vigor; implementação prevista não antes de janeiro.",
+      "impact_br": "O Brasil não está na lista anunciada, mas pode sofrer efeitos indiretos sobre exportações, câmbio e concorrência internacional.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+      "published_on": "2026-11-25",
+      "published_at": "2026-11-25T09:15:00-04:00",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-25T13:31:28.706Z"
+    },
     {
       "title": "Gavi firma acordo para garantir até 1,5 milhão de doses de vacina experimental contra ebola",
       "summary": "Em 24 de novembro, a Gavi anunciou compromisso de compra antecipada de vacina contra o vírus Bundibugyo, desenvolvida pela Universidade de Oxford e pelo Serum Institute da Índia. O fornecimento depende dos resultados clínicos, das aprovações regulatórias e das recomendações da OMS. A medida busca acelerar a resposta ao surto no Congo.",
