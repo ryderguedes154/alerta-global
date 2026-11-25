@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T20:26:08.050321Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T20:31:17.286220Z",
+  "status": "checado",
   "items": [
     {
       "title": "Cinco jatos militares russos atingidos em ataque a campo de aviação, diz Ucrânia",
@@ -28,6 +28,19 @@
       "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
       "published_on": "25/11/2026 08:21 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Dados vazados mostram que 490 mil soldados russos morreram na guerra na Ucrânia",
+      "summary": "Dados do governo russo obtidos por hackers pró-Ucrânia e analisados ​​pela BBC indicam que a Rússia perdeu pelo menos 490.334 soldados durante a guerra contra a Ucrânia.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Segurança cibernética",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/russia-ukraine-war-russian-soldier-death-toll-data-leak/",
+      "published_on": "25/11/2026 16:28 (Boa Vista)",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/25/acf9fde0-9680-4a3b-a595-866bc3f80292/thumbnail/1200x630/55f336a7e4cf8d601d9a837f1f2389fb/gettyimages-1239916962.jpg",
       "selection": "automatic"
     },
     {
@@ -80,19 +93,6 @@
       "url": "https://www.euronews.com/2026/11/25/russian-strikes-kill-seven-in-ukraine-as-kyiv-hits-three-refineries",
       "published_on": "25/11/2026 10:06 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/71/46/696x392_cmsv2_f926f88f-61cf-5639-80ad-168f618ac23f-10007146.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Dados vazados mostram que 490 mil soldados russos morreram na guerra na Ucrânia",
-      "summary": "Dados do governo russo obtidos por hackers pró-Ucrânia e analisados ​​pela BBC indicam que a Rússia perdeu pelo menos 490.334 soldados durante a guerra contra a Ucrânia.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Segurança cibernética",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/russia-ukraine-war-russian-soldier-death-toll-data-leak/",
-      "published_on": "25/11/2026 07:59 (Boa Vista)",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/25/acf9fde0-9680-4a3b-a595-866bc3f80292/thumbnail/1200x630/55f336a7e4cf8d601d9a837f1f2389fb/gettyimages-1239916962.jpg",
       "selection": "automatic"
     },
     {
