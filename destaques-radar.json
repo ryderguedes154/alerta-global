@@ -1,7 +1,7 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T16:19:30.214299Z",
+  "checked_at": "2026-11-25T16:24:42.409858Z",
   "status": "checado",
   "items": [
     {
@@ -31,19 +31,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Teddy Riner critica o envio de soldados franceses à Ucrânia para missões não-combatentes: “Não é a nossa guerra”",
-      "summary": "O candidato presidencial referia-se ao envio de pequenos contingentes de soldados franceses para a Ucrânia. A França tem um pequeno núcleo de forças convencionais que realizam rotações regulares na Ucrânia para treino e reparação de equipamento.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-critique-le-deploiement-de-soldats-francais-en-ukraine-pour-des-missions-non-combattantes-ce-n-est-pas-notre-guerre_6815137_823448.html",
-      "published_on": "25/11/2026 12:10 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/25/86/151/1813/1209/1440/960/60/0/74ec1d2_upload-1-yzvfcwpv44gs-l1004345.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Os EUA anunciam novas tarifas para vários países, incluindo a China",
       "summary": "Os novos impostos afetariam muitos dos maiores parceiros comerciais dos Estados Unidos, incluindo a China e a União Europeia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -52,8 +39,34 @@
       "country": "GB",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "published_on": "25/11/2026 10:52 (Boa Vista)",
+      "published_on": "25/11/2026 12:21 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Vítimas russas na guerra na Ucrânia: novos relatórios sugerem que o número de mortos chega a 700.000",
+      "summary": "Uma nova análise de dados vazados do governo russo sugere que cerca de 700 mil soldados russos morreram na guerra contra a Ucrânia. Os meios de comunicação russos independentes atualizaram as suas estimativas das baixas militares de Moscovo depois de hackers bielorrussos e ucranianos terem obtido números da agência de estatísticas russa.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Segurança cibernética",
+      "region": "Global",
+      "country": "FR",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/video/20261125-russian-casualties-in-ukraine-war-new-reports-suggest-death-toll-as-high-as-700-000",
+      "published_on": "25/11/2026 12:17 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/997db198-e8ea-11f1-9ee6-95e072ff0a91/w:1024/p:16x9/EN-20261125-120429-120550-CS.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Teddy Riner critica o envio de soldados franceses à Ucrânia para missões não-combatentes: “Não é a nossa guerra”",
+      "summary": "O candidato presidencial refere-se ao pequeno núcleo de forças convencionais que se deslocam regularmente para a Ucrânia para treino e reparação de equipamento.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "FR",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-critique-le-deploiement-de-soldats-francais-en-ukraine-pour-des-missions-non-combattantes-ce-n-est-pas-notre-guerre_6815137_823448.html",
+      "published_on": "25/11/2026 12:10 (Boa Vista)",
+      "image": "https://img.lemde.fr/2026/11/25/86/151/1813/1209/1440/960/60/0/74ec1d2_upload-1-yzvfcwpv44gs-l1004345.jpg",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://www.lemonde.fr/international/article/2026/11/25/l-union-europeenne-veut-creer-un-fonds-souverain-de-50-milliards-d-euros-pour-investir-dans-l-informatique-quantique-et-l-intelligence-artificielle_6815093_3210.html",
       "published_on": "25/11/2026 08:29 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/10/30/77/0/4601/3067/1440/960/60/0/a1ba8d9_ftp-1-ytpt2s6nxior-843dd8777d4a4831a290a40792c7aff2-0-43e2594b99e8435b8d3086b97d7ab341.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Imigrante deportado por engano que se tornou símbolo da política migratória de Trump deixa os EUA voluntariamente",
-      "summary": "O salvadorenho Kilmar Abrego García, deportado por engano pelo governo de Donald Trump, chega a Madri, na Espanha, em 24 de novembro de 2026. Francisco Seco/ AP Kilmar Abrego García, imigrante salvadorenho que foi deportado por engano dos Estados Unidos em 2025, deixou o país voluntariamente na terça-feira (24) e viajou para a Espanha, segundo autoridades e",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Geral",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/25/imigrante-deportado-por-engano-pelo-governo-trump-deixa-os-eua.ghtml",
-      "published_on": "25/11/2026 05:40 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/R7N7_dQ_MoDV2vYHWVhyDRGD7pY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/d/sBEjG5Syy19f7OLVb4YQ/5kq2mrf3ovla3cf7nptiltyq5m-1-.jpg",
       "selection": "automatic"
     }
   ]
