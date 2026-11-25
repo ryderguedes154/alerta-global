@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T17:01:05.048849Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T17:06:32.919735Z",
+  "status": "checado",
   "items": [
     {
       "title": "Cinco jatos militares russos atingidos em ataque a campo de aviação, diz Ucrânia",
@@ -31,16 +31,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Irã denuncia o uso de IA pelos EUA na guerra",
-      "summary": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias.",
+      "title": "Coreia do Norte expulsa diplomatas suíços em briga ligada à guerra na Ucrânia",
+      "summary": "A medida seguiu-se à decisão da Suíça de sancionar um acampamento internacional de jovens na Coreia do Norte, que é acusado de acolher crianças ucranianas para doutrinação.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-      "published_on": "25/11/2026 12:26 (Boa Vista)",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+      "published_on": "25/11/2026 13:00 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-nkorea-swiss-kctw/25int-nkorea-swiss-kctw-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
