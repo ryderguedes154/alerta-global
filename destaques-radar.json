@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T13:09:18.895361Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T13:14:45.469760Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os próprios números da Rússia mostram que ela perdeu quase 500 mil pessoas na guerra na Ucrânia",
@@ -31,8 +31,8 @@
       "selection": "automatic"
     },
     {
-      "title": "Líbia diz que ataque de drones da Ucrânia matou militares do país e promete retaliação",
-      "summary": "Dois oficiais navais líbios morreram em decorrência de ferimentos sofridos em um ataque — realizado no fim de semana por um drone marítimo ucraniano — contra um navio de guerra russo atracado em um porto no leste da Líbia. Autoridades militares líbias confirmaram as mortes e prometeram retaliações, ainda não especificadas, contra Kiev. Os dois homens tiveram",
+      "title": "Líbia diz que ataque de drones da Ucrânia matou militares líbios e promete retaliação",
+      "summary": "Drones ucranianos afundam navio da Rússia na Líbia O governo da Líbia anunciou nesta quarta-feira (25) que dois oficiais navais líbios morreram em decorrência de ferimentos sofridos no ataque de drones da Ucrânia contra um navio de guerra russo atracado em um porto no leste da Líbia. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Autoridades mil",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
@@ -40,7 +40,7 @@
       "source": "G1 Mundo",
       "url": "https://g1.globo.com/mundo/noticia/2026/11/25/libia-diz-que-ataque-de-drones-da-ucrania-matou-militares-do-pais-e-promete-retaliacao.ghtml",
       "published_on": "25/11/2026 08:50 (Boa Vista)",
-      "image": "https://g1.globo.com/mundo/noticia/2026/11/25/None",
+      "image": "https://s2-g1.glbimg.com/gb3PGq5poyh2LY_lEheoN0x0EPk=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/18/53/15275318",
       "selection": "automatic"
     },
     {
@@ -70,6 +70,19 @@
       "selection": "automatic"
     },
     {
+      "title": "A União Europeia quer criar um fundo soberano de 50 mil milhões de euros para investir em computação quântica e inteligência artificial",
+      "summary": "A Europa já tem uma liderança inegável no domínio da investigação em computação quântica, mas está a lutar para traduzi-la em atividades comerciais.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "FR",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/international/article/2026/11/25/l-union-europeenne-veut-creer-un-fonds-souverain-de-50-milliards-d-euros-pour-investir-dans-l-informatique-quantique-et-l-intelligence-artificielle_6815093_3210.html",
+      "published_on": "25/11/2026 08:29 (Boa Vista)",
+      "image": "https://img.lemde.fr/2026/10/30/77/0/4601/3067/1440/960/60/0/a1ba8d9_ftp-1-ytpt2s6nxior-843dd8777d4a4831a290a40792c7aff2-0-43e2594b99e8435b8d3086b97d7ab341.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Imigrante deportado por engano que se tornou símbolo da política migratória de Trump deixa os EUA voluntariamente",
       "summary": "Kilmar Abrego, o imigrante cuja deportação indevida para El Salvador o tornou um símbolo das políticas imigratórias agressivas do presidente dos EUA, Donald Trump, comparece para uma apresentação no escritório local do ICE em Baltimore, três dias após sua liberação da custódia criminal no Tennessee — em Baltimore, Maryland, EUA, 25 de agosto de 2025. REUTERS",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://news.sky.com/story/donald-trump-set-to-raise-tariffs-on-16-major-economies-13616253",
       "published_on": "24/11/2026 22:45 (Boa Vista)",
       "image": "https://e3.365dm.com/26/11/1920x1080/skynews-donald-trump-us_7415874.jpg?20261125040319",
-      "selection": "automatic"
-    },
-    {
-      "title": "A guerra da Rússia contra a Ucrânia: ‘Ambos os lados estão preparados para operar fora da zona de conflito’",
-      "summary": "Charli James tem o prazer de dar as boas-vindas a Gavin Hall, professor de Política, Ciência Política e Segurança Internacional na Universidade de Strathclyde. Ele é especialista em OTAN, instituições de segurança e no papel da tecnologia emergente na guerra. Hall examina as recentes operações russas e ucranianas fora da principal zona de conflito, as condiç",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "FR",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-s-war-on-ukraine-both-sides-are-prepared-to-operate-outside-of-the-conflict-zone",
-      "published_on": "24/11/2026 13:26 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/7262fe1c-e820-11f1-9829-95e072ff0a91/w:1024/p:16x9/EN-20261124-130504-131126-CS.jpg",
       "selection": "automatic"
     }
   ]
