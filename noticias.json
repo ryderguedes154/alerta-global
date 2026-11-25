@@ -38,8 +38,8 @@
     "date": "2026-11-25T22:23:18Z",
     "lang": "en",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-top-gear/25xp-top-gear-mediumSquareAt3X-v2.jpg",
-    "summary_pt": "O programa automotivo britânico “Top Gear” interrompeu a produção há três anos e retornará com um novo apresentador em 2028, disse a BBC.",
-    "title_pt": "Gordon Ramsay apresentará o renascimento do ‘Top Gear’ da BBC"
+    "title_pt": "Gordon Ramsay apresentará o renascimento do ‘Top Gear’ da BBC",
+    "summary_pt": "O programa automotivo britânico “Top Gear” interrompeu a produção há três anos e retornará com um novo apresentador em 2028, disse a BBC."
   },
   {
     "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
@@ -52,8 +52,8 @@
     "date": "2026-11-25T22:18:06Z",
     "lang": "en",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg",
-    "summary_pt": "Outras 21 pessoas ficaram feridas depois que o navio-tanque capotou em um movimentado anel viário da capital egípcia.",
-    "title_pt": "Trinta e um mortos em grande incêndio quando um caminhão-tanque de combustível caiu na rodovia do Cairo"
+    "title_pt": "Trinta e um mortos em grande incêndio quando um caminhão-tanque de combustível caiu na rodovia do Cairo",
+    "summary_pt": "Outras 21 pessoas ficaram feridas depois que o navio-tanque capotou em um movimentado anel viário da capital egípcia."
   },
   {
     "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
@@ -112,20 +112,6 @@
     "summary_pt": "Incêndio no anel viário que cerca a capital egípcia fere pelo menos 25 pessoas e deixa carros e motocicletas carbonizados Um acidente envolvendo um caminhão-tanque provocou um grande incêndio em uma rodovia ao redor do Cairo na quarta-feira, matando pelo menos 30 pessoas, disseram autoridades egípcias. O incêndio no anel viário, uma importante artéria que circunda a capital egípcia, também ficou ferido em"
   },
   {
-    "title": "Atlético-MG x Corinthians: escalações e onde assistir ao jogo do Brasileiro",
-    "summary": "Equipes se enfrentam nesta quarta-feira (25), às 20h (de Brasília), pela 36ª rodada da competição",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/atletico-mg-x-corinthians-escalacoes-e-onde-assistir-ao-jogo-do-brasileiro/",
-    "date": "2026-11-25T22:06:52Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/corinthians-botafogo-brasileirao-1-e1795055390659.jpg?w=200",
-    "title_pt": "Atlético-MG x Corinthians: escalações e onde assistir ao jogo do Brasileiro",
-    "summary_pt": "Equipes se enfrentam nesta quarta-feira (25), às 20h (de Brasília), pela 36ª rodada da competição"
-  },
-  {
     "title": "Dos horas con Plex: Sánchez sueña con ser juez en el ‘GTA VI’ y Feijóo tiembla en un coche a 247 kilómetros por hora",
     "summary": "El ‘youtuber’ zamorano de 24 años invita por primera vez en su canal, con 15 millones de seguidores, a los dirigentes de PSOE y PP",
     "category": "Geral",
@@ -138,6 +124,20 @@
     "image": "https://imagenes.elpais.com/resizer/v2/QWXGB4G4RJBNDLWKG4JVRSKDFY.jpg?auth=70c9019732c14ec9fe21da9fbf2277b446ac31075d69c41628a9beb92bda2b57",
     "title_pt": "Duas horas com Plex: Sánchez sonha em ser juiz em ‘GTA VI’ e Feijóo treme dentro de carro a 247 quilômetros por hora",
     "summary_pt": "O 'youtuber' Zamorano de 24 anos convida pela primeira vez os dirigentes do PSOE e do PP em seu canal, com 15 milhões de seguidores"
+  },
+  {
+    "title": "Atlético-MG x Corinthians: escalações e onde assistir ao jogo do Brasileiro",
+    "summary": "Equipes se enfrentam nesta quarta-feira (25), às 20h (de Brasília), pela 36ª rodada da competição",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/atletico-mg-x-corinthians-escalacoes-e-onde-assistir-ao-jogo-do-brasileiro/",
+    "date": "2026-11-25T22:06:52Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/corinthians-botafogo-brasileirao-1-e1795055390659.jpg?w=200",
+    "title_pt": "Atlético-MG x Corinthians: escalações e onde assistir ao jogo do Brasileiro",
+    "summary_pt": "Equipes se enfrentam nesta quarta-feira (25), às 20h (de Brasília), pela 36ª rodada da competição"
   },
   {
     "title": "Tarifa dos EUA sobre açúcar deve preservar cota brasileira, diz Sindiaçúcar",
@@ -296,7 +296,7 @@
   {
     "title": "US stocks fall further as fears over AI intensify",
     "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2946,7 +2946,7 @@
   {
     "title": "US announces new tariffs on host of countries including China",
     "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4304,20 +4304,6 @@
     "summary_pt": "Acompanhe as histórias mais importantes de toda a Europa e além neste dia 25 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens."
   },
   {
-    "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
-    "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "NPR",
-    "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
-    "date": "2026-11-25T11:00:00Z",
-    "lang": "en",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F31%2F6520f9574826bfd5bcbffd103b34%2Ffarflungpostcard-ef1.jpg",
-    "title_pt": "Saudações do Monte Kilimanjaro, o ponto mais alto da África em todo o seu esplendor",
-    "summary_pt": "Escalar montanhas altas como o Kilimanjaro é um estudo de contrastes – desde o sol forte até as noites geladas, o fogo e a neve."
-  },
-  {
     "title": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
     "summary": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias.",
     "category": "Geral",
@@ -4330,6 +4316,20 @@
     "image": "",
     "title_pt": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
     "summary_pt": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias."
+  },
+  {
+    "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+    "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "NPR",
+    "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+    "date": "2026-11-25T11:00:00Z",
+    "lang": "en",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F31%2F6520f9574826bfd5bcbffd103b34%2Ffarflungpostcard-ef1.jpg",
+    "title_pt": "Saudações do Monte Kilimanjaro, o ponto mais alto da África em todo o seu esplendor",
+    "summary_pt": "Escalar montanhas altas como o Kilimanjaro é um estudo de contrastes – desde o sol forte até as noites geladas, o fogo e a neve."
   },
   {
     "title": "VÍDEO: mulher é perseguida por perus selvagens na rua nos EUA às vésperas do Dia de Ação de Graças",
@@ -4348,7 +4348,7 @@
   {
     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4544,7 +4544,7 @@
   {
     "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
     "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5488,7 +5488,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5672,7 +5672,7 @@
   {
     "title": "Trump's rescue of Nvidia's Huang brings political risks",
     "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5812,7 +5812,7 @@
   {
     "title": "Why tiny cars are taking off across Europe",
     "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5936,22 +5936,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg",
     "title_pt": "A China está por trás de uma onda de vídeos falsos gerados por IA que têm Taiwan como alvo?",
     "summary_pt": "A rede atacou figuras-chave do DPP no poder, incluindo o presidente Lai e o candidato a prefeito Shen."
-  },
-  {
-    "title": "Terremoto de magnitude 4.5 — 64 km W of San Juan, Peru",
-    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
-    "category": "Clima e desastres",
-    "region": "64 km W of San Juan, Peru",
-    "country": "GLOBAL",
-    "source": "USGS",
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udcc",
-    "date": "2026-11-24T22:36:30.355000Z",
-    "lat": -15.3841,
-    "lon": -75.766,
-    "depth_km": 10.0,
-    "forcedSev": "low",
-    "title_pt": "Terremoto de magnitude 4.5 — 64 km W of San Juan, Peru",
-    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
     "title": "Imprensa iraniana divulga VÍDEO de suposto ataque a avião comercial no início da guerra",
@@ -6608,8 +6592,8 @@
     "date": "2026-11-24T15:40:54Z",
     "lang": "en",
     "image": "https://images.euronews.com/articles/stories/10/00/46/57/696x392_cmsv2_ab6966e3-04fe-5cfd-905d-b7b83b209ebb-10004657.jpg",
-    "summary_pt": "O vice-primeiro-ministro e ministro dos Negócios Estrangeiros de Itália, Antonio Tajani, disse à Euronews que Roma tem procurado expandir as suas relações comerciais com Baku, agora que a paz trouxe estabilidade e melhorou a conectividade à região.",
-    "title_pt": "Itália desenvolve negócios “ambiciosos” com o “parceiro estratégico” Azerbaijão, diz Tajani à Euronews"
+    "title_pt": "Itália desenvolve negócios “ambiciosos” com o “parceiro estratégico” Azerbaijão, diz Tajani à Euronews",
+    "summary_pt": "O vice-primeiro-ministro e ministro dos Negócios Estrangeiros de Itália, Antonio Tajani, disse à Euronews que Roma tem procurado expandir as suas relações comerciais com Baku, agora que a paz trouxe estabilidade e melhorou a conectividade à região."
   },
   {
     "title": "Gisèle Pelicot to sue publisher after nude images sent to media",
@@ -6622,8 +6606,8 @@
     "date": "2026-11-24T15:04:12Z",
     "lang": "en",
     "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/12/19/46fa2afe-84c2-4ea7-a5c7-dce8668c9268/thumbnail/1200x630/b5d6ba3744bd383e4157cfee630d0468/gettyimages-2190030341.jpg",
-    "summary_pt": "Gisèle Pelicot, que falou sobre ter sido drogada e estuprada pelo marido e por outros 50 homens, diz que foi “mais uma vez humilhada”.",
-    "title_pt": "Gisèle Pelicot processará editora após imagens de nudez enviadas à mídia"
+    "title_pt": "Gisèle Pelicot processará editora após imagens de nudez enviadas à mídia",
+    "summary_pt": "Gisèle Pelicot, que falou sobre ter sido drogada e estuprada pelo marido e por outros 50 homens, diz que foi “mais uma vez humilhada”."
   },
   {
     "title": "Tarifaço de Trump: EUA preparam aumento de tarifas contra China, União Europeia e mais",
@@ -6664,8 +6648,8 @@
     "date": "2026-11-24T14:54:26Z",
     "lang": "en",
     "image": "https://images.euronews.com/articles/stories/10/00/57/24/696x392_cmsv2_b419b952-842a-5565-b589-295840aea6e7-10005724.jpg",
-    "summary_pt": "Migrantes de vários países da América Central viajam em caravana pelo sul do México, na esperança de chegar aos Estados Unidos.",
-    "title_pt": "Caravanas de migrantes dirigem-se para norte através do México em direção à fronteira com os EUA"
+    "title_pt": "Caravanas de migrantes dirigem-se para norte através do México em direção à fronteira com os EUA",
+    "summary_pt": "Migrantes de vários países da América Central viajam em caravana pelo sul do México, na esperança de chegar aos Estados Unidos."
   },
   {
     "title": "Senegal reinstated as AFCON champions as Morocco vows to fight on",
@@ -6706,8 +6690,8 @@
     "date": "2026-11-24T14:49:00Z",
     "lang": "en",
     "image": "https://static.dw.com/image/73043749_6.jpg",
-    "summary_pt": "Cada Estado-Membro da UE utiliza os seus poderes de veto para bloquear países candidatos no processo de adesão - muitas vezes por razões de política interna. A DW analisa alguns casos e examina o que está por trás deles.",
-    "title_pt": "Alargamento da UE: Porque é que alguns Estados-Membros da UE utilizam os seus vetos para bloquear a adesão de certos países candidatos?"
+    "title_pt": "Alargamento da UE: Porque é que alguns Estados-Membros da UE utilizam os seus vetos para bloquear a adesão de certos países candidatos?",
+    "summary_pt": "Cada Estado-Membro da UE utiliza os seus poderes de veto para bloquear países candidatos no processo de adesão - muitas vezes por razões de política interna. A DW analisa alguns casos e examina o que está por trás deles."
   },
   {
     "title": "South Korea tells island residents to take shelter as Russian warplanes near its airspace",
@@ -6748,8 +6732,8 @@
     "date": "2026-11-24T14:42:31Z",
     "lang": "en",
     "image": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg",
-    "summary_pt": "Antes da sua queda abrupta, o tecnocrático Chen Jining era visto como um futuro líder nacional na China de Xi Jinping.",
-    "title_pt": "China investiga Chen Jining, líder do partido de Xangai, à medida que os expurgos de Xi se expandem"
+    "title_pt": "China investiga Chen Jining, líder do partido de Xangai, à medida que os expurgos de Xi se expandem",
+    "summary_pt": "Antes da sua queda abrupta, o tecnocrático Chen Jining era visto como um futuro líder nacional na China de Xi Jinping."
   },
   {
     "title": "CAS reinstates Senegal as 2025 AFCON champions",
@@ -6972,8 +6956,8 @@
     "date": "2026-11-24T12:22:00Z",
     "lang": "en",
     "image": "https://e3.365dm.com/26/11/1920x1080/skynews-mss-ministry-state-security_7415284.jpg?20261124131351",
-    "summary_pt": "A China condenou à morte um funcionário que teria vazado segredos de Estado para um país estrangeiro.",
-    "title_pt": "China 'sentencia funcionário à morte por espionagem'"
+    "title_pt": "China 'sentencia funcionário à morte por espionagem'",
+    "summary_pt": "A China condenou à morte um funcionário que teria vazado segredos de Estado para um país estrangeiro."
   },
   {
     "title": "US and Armenia launch Trump-backed regional transit route as Baku welcomes move",
@@ -6986,8 +6970,8 @@
     "date": "2026-11-24T12:21:36Z",
     "lang": "en",
     "image": "https://images.euronews.com/articles/stories/10/00/52/22/696x392_cmsv2_a1b33030-7519-5e85-a728-359ec70f3dee-10005222.jpg",
-    "summary_pt": "Um ano depois da cimeira de Washington que trouxe a paz entre a Arménia e o Azerbaijão, o projecto Rota Trump para a Paz e Prosperidade Internacional (TRIPP) entrou na sua fase de construção no meio de uma remodelação geopolítica mais ampla na região e fora dela.",
-    "title_pt": "EUA e Armênia lançam rota de trânsito regional apoiada por Trump enquanto Baku saúda a medida"
+    "title_pt": "EUA e Armênia lançam rota de trânsito regional apoiada por Trump enquanto Baku saúda a medida",
+    "summary_pt": "Um ano depois da cimeira de Washington que trouxe a paz entre a Arménia e o Azerbaijão, o projecto Rota Trump para a Paz e Prosperidade Internacional (TRIPP) entrou na sua fase de construção no meio de uma remodelação geopolítica mais ampla na região e fora dela."
   },
   {
     "title": "Israeli strikes kill Hamas security chief and six others in Gaza",
@@ -7016,5 +7000,19 @@
     "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=g-s1-155227",
     "title_pt": "Jensen Huang regressa à Nvidia. E o deputado Gomez renuncia em meio a suposta má conduta sexual",
     "summary_pt": "O presidente Trump recebeu o crédito por negociar o retorno de Jensen Huang como CEO da Nvidia. E o deputado Jimmy Gomez, D-Calif., diz que sua renúncia entrará em vigor em 1º de dezembro."
+  },
+  {
+    "title": "FA chair had to sign NDA to view FIFA documents on World Cup sell-off",
+    "summary": "Football Association chair Debbie Hewitt has now viewed some FIFA documents on the World Cup sell-off but had to sign a nondisclosure agreement, Sky News has learned.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "Sky News",
+    "url": "https://news.sky.com/story/fa-chair-had-to-sign-nda-to-view-fifa-documents-on-world-cup-sell-off-13615958",
+    "date": "2026-11-24T12:12:00Z",
+    "lang": "en",
+    "image": "https://e3.365dm.com/26/11/1920x1080/skynews-gianni-infantino-debbie-hewitt_7415270.jpg?20261124130731",
+    "title_pt": "O presidente da FA teve que assinar o NDA para ver os documentos da FIFA sobre a liquidação da Copa do Mundo",
+    "summary_pt": "A presidente da Associação de Futebol, Debbie Hewitt, já viu alguns documentos da FIFA sobre a liquidação da Copa do Mundo, mas teve que assinar um acordo de sigilo, apurou a Sky News."
   }
 ]
