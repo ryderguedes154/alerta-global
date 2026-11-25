@@ -1,8 +1,8 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T01:07:51.879693Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T01:13:18.772363Z",
+  "status": "checado",
   "items": [
     {
       "title": "Sputnik-S, o satélite russo que ameaça levar a guerra nuclear ao espaço",
@@ -19,7 +19,7 @@
     },
     {
       "title": "Governo Trump suspende operações militares conjuntas com Equador, diz jornal",
-      "summary": "O governo do presidente dos Estados Unidos, Donald Trump, suspendeu operações militares conjuntas com o Equador. A informação foi divulgada pelo jornal The New York Times nesta terça-feira (24). Em atualização.",
+      "summary": "O governo do presidente dos Estados Unidos, Donald Trump, suspendeu as operações militares conjuntas com o Equador em meio a uma investigação sobre uma ação letal realizada por forças equatorianas. A informação foi publicada pelo jornal \"The New York Times\" nesta terça-feira (24). A suspensão ocorreu após questionamentos sobre possíveis crimes e violações de",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
@@ -83,19 +83,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Petróleo fecha em alta após relatos de ataques em Ormuz e na Arábia Saudita",
-      "summary": "WTI e Brent avançaram mais de 2% na sessão, com ganhos de US$ 1,88 e US$ 2,03 por barril, respectivamente",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/petroleo-fecha-em-alta-com-aumento-dos-riscos-a-navegacao-em-ormuz-e-tensoes-na-arabia-saudita/",
-      "published_on": "24/11/2026 17:26 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-06T153356Z_1_LYNXNPEMA51JL_RTROPTP_4_USA-ECONOMY-SENTIMENT.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
       "title": "A guerra da Rússia contra a Ucrânia: ‘Ambos os lados estão preparados para operar fora da zona de conflito’",
       "summary": "Charli James tem o prazer de dar as boas-vindas a Gavin Hall, professor de Política, Ciência Política e Segurança Internacional na Universidade de Strathclyde. Ele é especialista em OTAN, instituições de segurança e no papel da tecnologia emergente na guerra. Hall examina as recentes operações russas e ucranianas fora da principal zona de conflito, as condiç",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://www.france24.com/en/russia-s-war-on-ukraine-both-sides-are-prepared-to-operate-outside-of-the-conflict-zone",
       "published_on": "24/11/2026 13:26 (Boa Vista)",
       "image": "https://s.france24.com/media/display/7262fe1c-e820-11f1-9829-95e072ff0a91/w:1024/p:16x9/EN-20261124-130504-131126-CS.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Putin diz que retaliação é \"inevitável\" após a Ucrânia atacar refinarias de petróleo russas",
+      "summary": "Os ataques ucranianos diminuíram após a declaração de Trump, em meados de outubro, de um cessar-fogo energético, mas voltaram a aumentar depois disso.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
+      "published_on": "24/11/2026 15:22 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-01T105125Z_349816858_RC29YT9KV71D_RTRMADP_3_UKRAINE-CRISIS-EU.jpg?resize=1920%2C1440",
       "selection": "automatic"
     }
   ]
