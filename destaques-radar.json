@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T13:19:55.141416Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T13:25:41.031232Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os próprios números da Rússia mostram que ela perdeu quase 500 mil pessoas na guerra na Ucrânia",
@@ -18,6 +18,32 @@
       "selection": "automatic"
     },
     {
+      "title": "Os EUA anunciam novas tarifas para vários países, incluindo a China",
+      "summary": "Os novos impostos afetariam muitos dos maiores parceiros comerciais dos Estados Unidos, incluindo a China e a União Europeia.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "published_on": "25/11/2026 09:19 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Por que os indianos ainda estão acabando na guerra da Rússia",
+      "summary": "Seja por engano ou por desespero, os indianos continuam sendo atraídos para a guerra da Rússia na Ucrânia. O que Nova Délhi pode fazer para evitar que seus cidadãos acabem lutando na Ucrânia?",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "DE",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/why-indians-are-still-ending-up-in-russia-s-war/a-80048537?maca=en-rss-en-all-1573-rdf",
+      "published_on": "25/11/2026 09:17 (Boa Vista)",
+      "image": "https://static.dw.com/image/69612381_6.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Irã denuncia o uso de IA pelos EUA na guerra",
       "summary": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -28,19 +54,6 @@
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
       "published_on": "25/11/2026 09:00 (Boa Vista)",
       "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Líbia diz que ataque de drones da Ucrânia matou militares líbios e promete retaliação",
-      "summary": "Drones ucranianos afundam navio da Rússia na Líbia O governo da Líbia anunciou nesta quarta-feira (25) que dois oficiais navais líbios morreram em decorrência de ferimentos sofridos no ataque de drones da Ucrânia contra um navio de guerra russo atracado em um porto no leste da Líbia. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Autoridades mil",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/25/libia-diz-que-ataque-de-drones-da-ucrania-matou-militares-do-pais-e-promete-retaliacao.ghtml",
-      "published_on": "25/11/2026 08:50 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/gb3PGq5poyh2LY_lEheoN0x0EPk=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/18/53/15275318",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://g1.globo.com/mundo/noticia/2026/11/25/imigrante-deportado-por-engano-pelo-governo-trump-deixa-os-eua.ghtml",
       "published_on": "25/11/2026 05:40 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/R7N7_dQ_MoDV2vYHWVhyDRGD7pY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/d/sBEjG5Syy19f7OLVb4YQ/5kq2mrf3ovla3cf7nptiltyq5m-1-.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Donald Trump deve aumentar tarifas sobre 16 principais economias",
-      "summary": "Donald Trump deverá aumentar as tarifas sobre a China, a União Europeia e vários outros países, segundo relatos.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "GB",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/donald-trump-set-to-raise-tariffs-on-16-major-economies-13616253",
-      "published_on": "24/11/2026 22:45 (Boa Vista)",
-      "image": "https://e3.365dm.com/26/11/1920x1080/skynews-donald-trump-us_7415874.jpg?20261125040319",
       "selection": "automatic"
     }
   ]

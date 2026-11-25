@@ -1,5 +1,89 @@
 [
   {
+    "title": "'I'm not looking forward to energy price increase' says student",
+    "summary": "Student Isaac told the BBC he and his flatmates have no choice but to keep the heating on 'constantly' due to poor insulation.",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/videos/cm3wg47gnjnno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-25T13:24:29Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac10/live/f7c19070-e8d2-11f1-99a1-253766e7ad8b.jpg",
+    "title_pt": "\"Não estou ansioso pelo aumento dos preços da energia\", diz o estudante",
+    "summary_pt": "O estudante Isaac disse à BBC que ele e seus colegas de apartamento não têm escolha a não ser manter o aquecimento ligado \"constantemente\" devido ao isolamento precário."
+  },
+  {
+    "title": "La Audiencia Nacional revoca el tercer grado del etarra Henri Parot ante la “extrema gravedad” de sus delitos",
+    "summary": "El juez le mantiene en un régimen anterior de semilibertad hasta “constatar que los avances tratamentales son sólidos”",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-25/la-audiencia-nacional-revoca-el-tercer-grado-de-henri-parot-ante-la-extrema-gravedad-de-sus-delitos.html",
+    "date": "2026-11-25T13:21:13Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/BYPG7EBNMFDJLB22DHLOJ3GSNM.jpg?auth=3f4e5c8eb6a6bfd90ae602716452b16cb618b1f4811b87411fe6892939d0718e",
+    "title_pt": "O Tribunal Nacional revoga o terceiro grau do membro da ETA Henri Parot devido à “extrema gravidade” dos seus crimes",
+    "summary_pt": "O juiz mantém-no em regime anterior de semi-liberdade até “verificar se o progresso do tratamento é sólido”"
+  },
+  {
+    "title": "Kilmar Abrego García, víctima de las deportaciones masivas de Trump, aterriza en Madrid",
+    "summary": "El salvadoreño fue trasladado el año pasado a la megacárcel de Bukele y ha sufrido la persecución de las autoridades estadounidense. Tras pasar por España, su plan es asentarse en México",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-25/kilmar-abrego-garcia-victima-de-las-deportaciones-masivas-de-trump-aterriza-en-madrid.html",
+    "date": "2026-11-25T13:20:42Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/VND6M2L4IZDF5I7J34BC3HHNTM.jpg?auth=a433b6e51496e9b918557d2f4f4d34a97fab3eededc46b000ceb285b99fc0c35",
+    "title_pt": "Kilmar Abrego García, vítima das deportações em massa de Trump, chega a Madri",
+    "summary_pt": "O salvadorenho foi transferido no ano passado para a megaprisão de Bukele e tem sofrido perseguição por parte das autoridades dos Estados Unidos. Depois de passar pela Espanha, seu plano é se estabelecer no México."
+  },
+  {
+    "title": "US announces new tariffs on host of countries including China",
+    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-25T13:19:41Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
+    "title_pt": "Os EUA anunciam novas tarifas para vários países, incluindo a China",
+    "summary_pt": "Os novos impostos afetariam muitos dos maiores parceiros comerciais dos Estados Unidos, incluindo a China e a União Europeia."
+  },
+  {
+    "title": "Los peritos de Adamuz apuntan a un fallo en la soldadura y un hundimiento del terreno como causas del siniestro",
+    "summary": "El informe pericial señala que la cesión del asentamiento de la vía ya fue detectada en octubre de 2025, tres meses antes del siniestro",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-25/los-peritos-de-adamuz-apuntan-a-un-fallo-en-la-soldadura-y-un-hundimiento-del-terreno-como-causas-del-siniestro.html",
+    "date": "2026-11-25T13:18:49Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/TIEOJKSHINGQXKEHPWLUMRQI74.jpg?auth=bf870fc4ed9f4b94771ec89a4f8d0099f06b35fcaf9e00a83d0371b6a120885b",
+    "title_pt": "Os peritos de Adamuz apontam uma falha na soldagem e um afundamento do terreno como causas do acidente",
+    "summary_pt": "O laudo pericial aponta que a cessão do assentamento da via já havia sido detectada em outubro de 2025."
+  },
+  {
+    "title": "Why Indians are still ending up in Russia's war",
+    "summary": "Whether through deception or desperation, Indians continue to be drawn into Russia's war in Ukraine. What can New Delhi do to protect its citizens from ending up fighting in Ukraine?",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "DE",
+    "source": "Deutsche Welle",
+    "url": "https://www.dw.com/en/why-indians-are-still-ending-up-in-russia-s-war/a-80048537?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-11-25T13:17:00Z",
+    "lang": "en",
+    "image": "https://static.dw.com/image/69612381_6.jpg",
+    "title_pt": "Por que os indianos ainda estão acabando na guerra da Rússia",
+    "summary_pt": "Seja por engano ou por desespero, os indianos continuam sendo atraídos para a guerra da Rússia na Ucrânia. O que Nova Délhi pode fazer para evitar que seus cidadãos acabem lutando na Ucrânia?"
+  },
+  {
     "title": "My husband lives off sandwiches due to energy costs",
     "summary": "A woman already in energy debt says anxiety is \"through the roof\" over further increases.",
     "category": "Economia",
@@ -14,32 +98,18 @@
     "summary_pt": "Uma mulher que já está com dívidas energéticas diz que a ansiedade está \"às alturas\" com novos aumentos."
   },
   {
-    "title": "La Audiencia Nacional revoca el tercer grado del etarra Henri Parot ante la “extrema gravedad” de sus delitos",
-    "summary": "El juez le mantiene en un régimen anterior de semilibertad hasta “constatar que los avances tratamentales son sólidos”",
+    "title": "Badenoch quizzes Burnham at PMQs over tuition fee bill in deal with EU – UK politics live",
+    "summary": "The prime minister says the government is bringing forward legislation for the three deals announced last week Diane Taylor is a Guardian reporter who covers migration. Britons get many of the facts about migration wrong and Reform UK voters are the group who get these facts most wrong, according to new research published today by King’s College University a",
     "category": "Geral",
     "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-25/la-audiencia-nacional-revoca-el-tercer-grado-de-henri-parot-ante-la-extrema-gravedad-de-sus-delitos.html",
-    "date": "2026-11-25T13:13:58Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/BYPG7EBNMFDJLB22DHLOJ3GSNM.jpg?auth=3f4e5c8eb6a6bfd90ae602716452b16cb618b1f4811b87411fe6892939d0718e",
-    "title_pt": "O Tribunal Nacional revoga o terceiro grau do membro da ETA Henri Parot devido à “extrema gravidade” dos seus crimes",
-    "summary_pt": "O juiz mantém-no em regime anterior de semi-liberdade até “verificar se o progresso do tratamento é sólido”"
-  },
-  {
-    "title": "Kilmar Abrego García, víctima de las deportaciones masivas de Trump, aterriza en Madrid",
-    "summary": "El salvadoreño fue trasladado el año pasado a la megacárcel de Bukele y ha sufrido la persecución de las autoridades estadounidense. Tras pasar por España, su plan es asentarse en México",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-25/kilmar-abrego-garcia-victima-de-las-deportaciones-masivas-de-trump-aterriza-en-madrid.html",
-    "date": "2026-11-25T13:13:44Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/VND6M2L4IZDF5I7J34BC3HHNTM.jpg?auth=a433b6e51496e9b918557d2f4f4d34a97fab3eededc46b000ceb285b99fc0c35",
-    "title_pt": "Kilmar Abrego García, vítima das deportações em massa de Trump, chega a Madri",
-    "summary_pt": "O salvadorenho foi transferido no ano passado para a megaprisão de Bukele e tem sofrido perseguição por parte das autoridades dos Estados Unidos. Depois de passar pela Espanha, seu plano é se estabelecer no México."
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+    "date": "2026-11-25T13:12:17Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ed4d0b84f2d54f6f0c5ef1aa6a9fe389",
+    "title_pt": "Badenoch questiona Burnham na sessão de perguntas ao primeiro-ministro sobre o projeto de lei de taxas universitárias no acordo com a UE – Política do Reino Unido ao vivo",
+    "summary_pt": "O primeiro-ministro afirma que o governo está apresentando legislação para os três acordos anunciados na semana passada. Diane Taylor é repórter do The Guardian e cobre o tema da migração. Os britânicos interpretam erroneamente muitos dos fatos sobre a migração, e os eleitores do Reform UK são o grupo que mais erra em relação a esses fatos, de acordo com uma nova pesquisa publicada hoje pela King's College University."
   },
   {
     "title": "La Guardia Civil investiga como violencia machista el asesinato de una mujer de 32 años en Murcia",
@@ -168,18 +238,18 @@
     "summary_pt": "As Ilhas Salomão terão de consultar Canberra antes de fazer novos acordos de segurança ou infra-estruturas ao abrigo do novo pacto."
   },
   {
-    "title": "Alcolumbre se reúne com Tereza Cristina e bancada feminina",
-    "summary": "Presidente faz agenda com senadoras eleitas e parlamentares da legislatura atual em meio à disputa pelo comando do Senado",
+    "title": "Plane crash off coast of Mississippi kills six, including two children",
+    "summary": "Divers recover bodies after Cessna 210 went down in Gulf of Mexico on Tuesday afternoon killing all onboard Divers have found the bodies of six people killed in a small plane crash on Tuesday off the coast of Mississippi, according to the US Coast Guard. Their bodies were in the plane’s fuselage after the Cessna 210 went down in the Gulf of Mexico between Pa",
     "category": "Geral",
     "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/politica/alcolumbre-se-reune-com-tereza-cristina-e-bancada-feminina/",
-    "date": "2026-11-25T13:01:51Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/alcolumbre-promulgacao-pec-6x1-161026.jpg?w=200",
-    "title_pt": "Alcolumbre se reúne com Tereza Cristina e bancada feminina",
-    "summary_pt": "Presidente faz agenda com senadoras eleitas e parlamentares da legislatura atual em meio à disputa pelo comando do Senado"
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/25/mississippi-plane-crash-gulf-mexico",
+    "date": "2026-11-25T13:02:24Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/8e8ee327dd7249670e74c62e7990fff64deb3349/225_0_750_600/master/750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b639464822a3483cd005a50c35fe08ba",
+    "title_pt": "Acidente de avião na costa do Mississippi mata seis pessoas, incluindo duas crianças",
+    "summary_pt": "Mergulhadores recuperam corpos após a queda de um Cessna 210 no Golfo do México na tarde de terça-feira, matando todos a bordo. Os mergulhadores encontraram os corpos de seis pessoas mortas em um acidente com um pequeno avião na terça-feira, ao largo da costa do Mississippi, de acordo com a Guarda Costeira dos EUA. Os corpos estavam na fuselagem do avião depois que o Cessna 210 caiu no Golfo do México entre Pa"
   },
   {
     "title": "Iran denounces U.S. use of AI in war",
@@ -196,18 +266,32 @@
     "summary_pt": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias."
   },
   {
-    "title": "Quase 30% das cidades brasileiras têm áreas de descarte consideradas lixões",
-    "summary": "Dados são da Pesquisa Nacional de Saneamento Básico 2024, do IBGE (Instituto Brasileiro de Geografia e Estatística), divulgada nesta quarta-feira (25); situação é mais grave na Região Norte, onde 69,2% dos municípios registraram a presença de lixões",
+    "title": "‘This is political oppression’: Native Americans accuse Massachusetts town in Thanksgiving dispute",
+    "summary": "Plymouth, where Pilgrims settled, accused of breaking 28-year old agreement over National Day of Mourning protest Nearly 30 years after a violent clash between Native Americans and police, the Massachusetts town of Plymouth is in court accused of “silencing” their National Day of Mourning – again. A Native American group won a “mixed” victory over the histor",
     "category": "Geral",
     "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/nacional/brasil/quase-30-das-cidades-brasileiras-tem-areas-de-descarte-consideradas-lixoes/",
-    "date": "2026-11-25T13:00:30Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Divulgacao-B3.webp?w=200",
-    "title_pt": "Quase 30% das cidades brasileiras têm áreas de descarte consideradas lixões",
-    "summary_pt": "Dados são da Pesquisa Nacional de Saneamento Básico 2024, do IBGE (Instituto Brasileiro de Geografia e Estatística), divulgada nesta quarta-feira (25); situação é mais grave na Região Norte, onde 69,2% dos municípios registraram a presença de lixões"
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/25/native-americans-national-day-of-mourning-thanksgiving",
+    "date": "2026-11-25T13:00:26Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/39e89e648d6eef3840b5e6998ccfcab1201493c2/0_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=40c83f9ca65404293ae323cbae63e2ce",
+    "title_pt": "\"Isso é opressão política\": nativos americanos acusam cidade de Massachusetts em disputa sobre o Dia de Ação de Graças",
+    "summary_pt": "Plymouth, onde os peregrinos se estabeleceram, é acusada de violar um acordo de 28 anos relacionado ao protesto do Dia Nacional de Luto. Quase 30 anos após um confronto violento entre nativos americanos e a polícia, a cidade de Plymouth, em Massachusetts, está sendo processada por \"silenciar\" seu Dia Nacional de Luto – mais uma vez. Um grupo de nativos americanos obteve uma vitória \"mista\" sobre a história."
+  },
+  {
+    "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
+    "summary": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ If you want to hear more about the new death toll, listen to today’s Today in Focus podcast with our Russia expert, Pjotr Sauer. “Two groups of hackers accessed Russia’s main statistics database last month and discovered a cache of 11m death certificates that revealed n",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
+    "date": "2026-11-25T13:00:18Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/621e93b6debd15c2bb0ba21a27a32b9d2d861391/400_106_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3753f56cd40c2c3bfd73fc8e8ec43f83",
+    "title_pt": "\"A Rússia quer mais do que a Ucrânia\", alerta Merz, da Alemanha – Europa ao vivo",
+    "summary_pt": "Em um discurso abrangente, a chanceler alemã afirma que Moscou está \"intensificando as ações em grande escala\". Merz relembra a reunião da Coalizão dos Dispostos, realizada na semana passada em Berlim, dizendo que a delegação dos EUA \"pareceu, claramente, surpresa com o grau de união... dos europeus em relação a essa questão\". \"É justamente essa determinação, senhoras e senhores, que permite"
   },
   {
     "title": "Como o PCC e o Comando Vermelho se espalharam pelo Brasil",
@@ -224,46 +308,18 @@
     "summary_pt": "Nascidas nas prisões de São Paulo e do Rio de Janeiro, as duas maiores facções do país ampliaram sua atuação e hoje influenciam mercados ilegais em praticamente todas as regiões brasileiras e em rotas internacionais."
   },
   {
-    "title": "Crianças de Gaza chegam ao Reino Unido para receber tratamento médico",
+    "title": "Crianças de Gaza chegam ao Reino Unido para receberem tratamento médico",
     "summary": "Pacientes gravemente feridos viajaram com familiares e receberão atendimento especializado após colapso do sistema médico local",
     "category": "Geral",
     "region": "Global",
     "country": "BR",
     "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/internacional/criancas-de-gaza-chegam-ao-reino-unido-para-receber-tratamento-medico/",
+    "url": "https://www.cnnbrasil.com.br/internacional/criancas-de-gaza-chegam-ao-reino-unido-para-receberem-tratamento-medico/",
     "date": "2026-11-25T12:56:41Z",
     "lang": "pt",
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM4O177-BASEIMAGE.jpg?w=200",
-    "title_pt": "Crianças de Gaza chegam ao Reino Unido para receber tratamento médico",
+    "title_pt": "Crianças de Gaza chegam ao Reino Unido para receberem tratamento médico",
     "summary_pt": "Pacientes gravemente feridos viajaram com familiares e receberão atendimento especializado após colapso do sistema médico local"
-  },
-  {
-    "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
-    "summary": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ If you want to hear more about the new death toll, listen to today’s Today in Focus podcast with our Russia expert, Pjotr Sauer. “Two groups of hackers accessed Russia’s main statistics database last month and discovered a cache of 11m death certificates that revealed n",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
-    "date": "2026-11-25T12:56:35Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/621e93b6debd15c2bb0ba21a27a32b9d2d861391/400_106_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3753f56cd40c2c3bfd73fc8e8ec43f83",
-    "title_pt": "\"A Rússia quer mais do que a Ucrânia\", alerta Merz, da Alemanha – Europa ao vivo",
-    "summary_pt": "Em um discurso abrangente, a chanceler alemã afirma que Moscou está \"intensificando as ações em grande escala\". Merz relembra a reunião da Coalizão dos Dispostos, realizada na semana passada em Berlim, dizendo que a delegação dos EUA \"pareceu, claramente, surpresa com o grau de união... dos europeus em relação a essa questão\". \"É justamente essa determinação, senhoras e senhores, que permite"
-  },
-  {
-    "title": "Badenoch quizzes Burnham at PMQs over tuition fee bill in deal with EU – UK politics live",
-    "summary": "The prime minister says the government is bringing forward legislation for the three deals announced last week Diane Taylor is a Guardian reporter who covers migration. Britons get many of the facts about migration wrong and Reform UK voters are the group who get these facts most wrong, according to new research published today by King’s College University a",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
-    "date": "2026-11-25T12:56:21Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ed4d0b84f2d54f6f0c5ef1aa6a9fe389",
-    "title_pt": "Badenoch questiona Burnham na sessão de perguntas ao primeiro-ministro sobre o projeto de lei de taxas universitárias no acordo com a UE – Política do Reino Unido ao vivo",
-    "summary_pt": "O primeiro-ministro afirma que o governo está apresentando legislação para os três acordos anunciados na semana passada. Diane Taylor é repórter do The Guardian e cobre o tema da migração. Os britânicos interpretam erroneamente muitos dos fatos sobre a migração, e os eleitores do Reform UK são o grupo que mais erra em relação a esses fatos, de acordo com uma nova pesquisa publicada hoje pela King's College University."
   },
   {
     "title": "Israeli MPs advance bill for inquiry into security failings that led to October 7 Hamas attack",
@@ -609,7 +665,7 @@
     "country": "US",
     "source": "The New York Times",
     "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
-    "date": "2026-11-25T12:31:34Z",
+    "date": "2026-11-25T12:31:35Z",
     "lang": "en",
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Yemen-assess-promo/25int-Yemen-assess-vhjk-mediumSquareAt3X.jpg",
     "title_pt": "Como um aliado iraniano ganhou vantagem na guerra do Iêmen",
@@ -1304,6 +1360,20 @@
     "summary_pt": "\"A Rússia quer mais do que a Ucrânia\", afirma Merz, da Alemanha, ao defender a ajuda a Kiev Reuters"
   },
   {
+    "title": "COMMENTARY: Morning Bid: Tariff fear compounds AI recoil",
+    "summary": "COMMENTARY: Morning Bid: Tariff fear compounds AI recoil Reuters",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTzdrbThVSVJPbGJhMzJuU1EzY194YTh4WmZScXNHZTVqcUt6QlBua2k2VTRmN3RmRTFSc3ctVGo4MkhoTjZ0QTB1cWpCa2xad0hzNjgyMV9NTzR0QW01T0hGYzhaV3dIME5fN0FGWUVoUnJhLVFTdkl0R09fc2RTOHF1R2t4Y3pFeG9pZHhwLTB0T0lscmVR?oc=5",
+    "date": "2026-11-25T11:34:23Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "COMENTÁRIO: Morning Bid: O medo de tarifas agrava o recuo da IA Reuters",
+    "title_pt": "COMENTÁRIO: Morning Bid: O medo de tarifas agrava o recuo da IA"
+  },
+  {
     "title": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide",
     "summary": "He gets 12-month sentence suspended for 18 months Former England forward pleaded guilty in September Raheem Sterling has avoided jail for dangerous driving while inhaling nitrous oxide, receiving a 12-month sentence suspended for 18 months at Basingstoke magistrates court on Wednesday. The former England international was also ordered to do 100 hours of comm",
     "category": "Geral",
@@ -1456,20 +1526,6 @@
     "image": "https://img.lemde.fr/2026/11/25/0/0/6000/4000/1440/960/60/0/4635b8d_ftp-1-fskvk0rij5xf-2026-11-25t103113z-2092645648-rc2yuoaj235b-rtrmadp-3-spain-politics-puigdemont.JPG",
     "title_pt": "O independentista catalão Carles Puigdemont retornará à Espanha no dia 12 de dezembro",
     "summary_pt": "Depois de ter sido definitivamente inocentado pelo Supremo Tribunal espanhol, Carles Puigdemont anunciou que pretende regressar à Espanha cerca de duas semanas após as eleições legislativas."
-  },
-  {
-    "title": "Los peritos de Adamuz apuntan a un fallo en la soldadura y un hundimiento del terreno como causas del siniestro",
-    "summary": "El informe pericial señala que la cesión del asentamiento de la vía ya fue detectada en octubre de 2025, tres meses antes del siniestro",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-25/los-peritos-de-adamuz-apuntan-a-un-fallo-en-la-soldadura-y-un-hundimiento-del-terreno-como-causas-del-siniestro.html",
-    "date": "2026-11-25T11:20:34Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/TIEOJKSHINGQXKEHPWLUMRQI74.jpg?auth=bf870fc4ed9f4b94771ec89a4f8d0099f06b35fcaf9e00a83d0371b6a120885b",
-    "title_pt": "Os peritos de Adamuz apontam uma falha na soldagem e um afundamento do terreno como causas do acidente",
-    "summary_pt": "O laudo pericial aponta que a cessão do assentamento da via já havia sido detectada em outubro de 2025."
   },
   {
     "title": "Defending Aden, Yemen’s Holdout Against the Houthis",
@@ -1682,20 +1738,6 @@
     "summary_pt": "A proprietária de uma empresa de moda, Aderayo Soile, diz que a eletricidade não confiável está prejudicando seu negócio."
   },
   {
-    "title": "Midterm gains by US gun control activists’ signals decline of gun lobby",
-    "summary": "More than 200 people endorsed by Everytown for Gun Safety won state and federal races in loss of dominance for NRA The US midterm elections were not only a big win for the Democrats, but also a huge victory for the gun violence prevention movement, and a sign of the declining power of the once-feared gun lobby. More than 200 people who were endorsed by Every",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/us-news/2026/nov/25/midterms-democrats-gun-control-violence-prevention-movement",
-    "date": "2026-11-25T11:00:47Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/51d7e69cab6939935fa4a076de75a98ed9833713/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47e141b8186d3593612479a9370b6f81",
-    "title_pt": "Ganhos intermediários dos ativistas de controle de armas nos EUA sinalizam declínio do lobby das armas",
-    "summary_pt": "Mais de 200 pessoas apoiadas pela Everytown for Gun Safety venceram as eleições estaduais e federais, perdendo o domínio da NRA. As eleições intercalares dos EUA não foram apenas uma grande vitória para os Democratas, mas também uma enorme vitória para o movimento de prevenção da violência armada, e um sinal do declínio do poder do outrora temido lobby das armas. Mais de 200 pessoas que foram endossadas por Every"
-  },
-  {
     "title": "China misusing Interpol to target dissidents, says leading UK lawyer",
     "summary": "Concerns over Beijing’s use of ‘red notices’ as Hong Kong prepares to host police organisation’s general assembly China is misusing Interpol to target and silence dissidents, a leading British lawyer has claimed, as Hong Kong prepares to host the police organisation’s general assembly for the first time. Ben Keith, a specialist in “red notices” - the Interpo",
     "category": "Geral",
@@ -1824,7 +1866,7 @@
   {
     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2242,6 +2284,19 @@
     "summary_pt": "O incêndio se espalha significativamente pelo norte da Ilha Flinders após ter sido iniciado por raios. Casas e propriedades em uma ilha remota e pitoresca estão sob ameaça de um incêndio florestal fora de controle, que espalhou fumaça por centenas de quilômetros ao sul. O incêndio na Ilha Flinders, no Estreito de Bass, se espalhou significativamente na quarta-feira após ter sido iniciado por raios."
   },
   {
+    "title": "🔴 Surprise Eurostar strike cancels London, Paris and Brussels trains",
+    "summary": "",
+    "category": "Geral",
+    "region": "Global",
+    "country": "FR",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
+    "date": "2026-11-25T10:14:45Z",
+    "lang": "en",
+    "image": "https://s.france24.com/media/display/5292c004-e8b6-11f1-b877-81da3ab2acbb/w:1280/p:16x9/000-A6LZ3KE.jpg",
+    "title_pt": "🔴 Greve surpresa da Eurostar cancela trens para Londres, Paris e Bruxelas"
+  },
+  {
     "title": "Lalachus anima en ‘La revuelta’ a ir a votar el domingo y se acuerda de Henar Álvarez: “Estoy agotada”",
     "summary": "La colaboradora visitó el programa de David Broncano, que no se emitió ni el jueves ni el lunes por los debates electorales",
     "category": "Geral",
@@ -2396,20 +2451,6 @@
     "summary_pt": "O editor de tecnologia e IA da BBC fala sobre como o chefe da Nvidia se tornou impossível de ser demitido."
   },
   {
-    "title": "Surprise Eurostar strike cancels London, Paris and Brussels trains",
-    "summary": "Several Eurostar trains connecting London, Paris and Brussels were cancelled in a surprise strike on Wednesday. The train operator did not specify who exactly was striking or the reasons why.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
-    "date": "2026-11-25T10:02:32Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/5292c004-e8b6-11f1-b877-81da3ab2acbb/w:1024/p:16x9/000-A6LZ3KE.jpg",
-    "summary_pt": "Vários comboios Eurostar que ligam Londres, Paris e Bruxelas foram cancelados numa greve surpresa na quarta-feira. A operadora do trem não especificou quem exatamente estava em greve ou os motivos.",
-    "title_pt": "Greve surpresa do Eurostar cancela trens de Londres, Paris e Bruxelas"
-  },
-  {
     "title": "Una jueza cita a Leire Díez y al exjefe de gabinete de Sánchez en el PSOE por presuntas irregularidades en Correos",
     "summary": "La instructora admite a trámite una querella de Vox por orden de la Audiencia de Madrid y fija los interrogatorios el 9 de diciembre",
     "category": "Geral",
@@ -2520,20 +2561,6 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/04/Leilao-Saneamento-Para-e1790201093756.jpeg?w=200",
     "title_pt": "Implementação do cashback preocupa setor elétrico e empresas de saneamento",
     "summary_pt": "Associações alertam para falta de regulamentação e preveem risco de atraso no mecanismo, que oferece devolução de parte dos tributos pagos pelos consumidores mais pobres"
-  },
-  {
-    "title": "Iowa town shelters in place as army prepares to detonate entire US stockpile of lead azide",
-    "summary": "Controlled blast to proceed after multiple delays and outpouring of concern about potential health and environmental effects The US Army is set to detonate the nation’s entire stockpile of lead azide in Iowa on Wednesday morning, moving ahead after multiple delays and despite an outpouring of public concern about potential health and environmental effects. T",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
-    "date": "2026-11-25T10:00:12Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/8170d6fcedd53aa93400f6d124cb450c8937f23d/677_691_4453_3564/master/4453.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d64267cdff633a3aa459f261992d7cc",
-    "title_pt": "Abrigos em uma cidade de Iowa enquanto o exército se prepara para detonar todo o estoque de azida de chumbo dos EUA",
-    "summary_pt": "Explosão controlada deve ocorrer após vários adiamentos e uma enxurrada de preocupações sobre possíveis efeitos à saúde e ao meio ambiente. O Exército dos EUA deve detonar todo o estoque nacional de azida de chumbo em Iowa na manhã de quarta-feira, prosseguindo após vários adiamentos e apesar de uma enxurrada de preocupações do público sobre possíveis efeitos à saúde e ao meio ambiente."
   },
   {
     "title": "La RDC impose un nouvel embargo sur les exportations de cobalt pour faire monter les cours",
@@ -3280,6 +3307,34 @@
     "summary_pt": "Funcionários da Meta se reúnem com o Congresso da oposição da Índia em meio a protestos contra as restrições de conteúdo, dizem fontes à Reuters"
   },
   {
+    "title": "Queda de avião com seis pessoas deixa todos mortos no Mississippi, nos EUA",
+    "summary": "Aeronave transportava quatro adultos e dois meninos, de 8 e 10 anos; corpos foram encontrados dentro da fuselagem após quatro horas de buscas",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/internacional/queda-de-aviao-com-seis-pessoas-deixa-todos-mortos-no-mississippi/",
+    "date": "2026-11-25T07:32:01Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/guarda-costeira-dos-EUA-e1791158958372.jpg?w=200",
+    "title_pt": "Queda de avião com seis pessoas deixa todos mortos no Mississippi, nos EUA",
+    "summary_pt": "Aeronave transportava quatro adultos e dois meninos, de 8 e 10 anos; corpos foram encontrados dentro da fuselagem após quatro horas de buscas"
+  },
+  {
+    "title": "Mercosul tenta lançar acordo comercial com Coreia do Sul em cúpula",
+    "summary": "Grupo de trabalho estabelecido em julho acelerou conversas; bloco sul-americano e país asiático negociaram tratado entre 2018 e 2021, mas sem sucesso",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/mercosul-tenta-lancar-acordo-comercial-com-coreia-do-sul-em-cupula/",
+    "date": "2026-11-25T07:30:52Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM3K12O-BASEIMAGE.jpg?w=200",
+    "title_pt": "Mercosul tenta lançar acordo comercial com Coreia do Sul em cúpula",
+    "summary_pt": "Grupo de trabalho estabelecido em julho acelerou conversas; bloco sul-americano e país asiático negociaram tratado entre 2018 e 2021, mas sem sucesso"
+  },
+  {
     "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
     "summary": "The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.",
     "category": "Conflitos",
@@ -3431,6 +3486,20 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb6d/live/6e173110-e899-11f1-801d-b916df288324.jpg",
     "title_pt": "Duas crianças entre seis mortos após acidente de avião na costa do Mississippi",
     "summary_pt": "Mergulhadores encontraram os corpos de quatro adultos e dois meninos, de 8 e 10 anos, na fuselagem, informou a Guarda Costeira dos EUA."
+  },
+  {
+    "title": "China's Politburo shrinks as graft crackdown spreads",
+    "summary": "China's Politburo shrinks as graft crackdown spreads Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkVra2VHQ1VrTFk2ZFRaLTZaLWhackFqUm9ZRkJsTVVpNUd2UjJ1ejY2XzctUmcxUFlKeDBrR3h1bE52cEpWUmhXaFloaUFLQUtCNTdzZnBUUkFtYWRNVGREZWtDWHdMdlJmaDJka0NNOEtCUkgxbnJwTDVpSk5aRTVHTko4elpoZHlFNFlMSldqcDJqUExrQ25VRVc?oc=5",
+    "date": "2026-11-25T07:04:00Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "O Politburo da China encolhe à medida que a repressão à corrupção se espalha",
+    "summary_pt": "O Politburo da China encolhe à medida que a repressão à corrupção se espalha Reuters"
   },
   {
     "title": "Spain thought it had the 2030 World Cup final. Morocco had other plans.",
@@ -4501,6 +4570,20 @@
     "summary_pt": "A esposa do astronauta canadense Joshua Kutryk, que atualmente está a bordo da Estação Espacial Internacional, deu à luz o terceiro filho do casal, anunciaram autoridades canadenses."
   },
   {
+    "title": "Russia sends home Chinese suspected of illegally raising $2.3 billion in deposits",
+    "summary": "Russia sends home Chinese suspected of illegally raising $2.3 billion in deposits Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQnZkRzN6LS1BVWpiaGRocklGcmJDdmlXMHQycEZmeTlqVTBNX3BadHNGUlpBTW81NzlaTHNMVzdzT2NmMW02YXBuamZROFBHM0dZQVYyZk1qZTl4cktNWU5nUEZwOHItX1JRZFR1QjdJSDZ5TnFoejV6SXpfemlxYzJseVJ0V08xNHdLMFJpR2xFRjBzaTU4TFVERUMtZ2MtQXRUMC1OWl9LVXhQdlR1ekFhU0tPVzBMd01Pb3JB?oc=5",
+    "date": "2026-11-25T04:16:00Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Rússia manda para casa chineses suspeitos de arrecadar ilegalmente US$ 2,3 bilhões em depósitos",
+    "summary_pt": "Rússia manda para casa chineses suspeitos de arrecadar ilegalmente US$ 2,3 bilhões em depósitos Reuters"
+  },
+  {
     "title": "Amnesty calls for ICC genocide probe over Israel's impact on births in Gaza",
     "summary": "Amnesty International on Wednesday urged the International Criminal Court to investigate whether Israeli officials committed genocide in Gaza, citing measures it says have prevented births and severely harmed women's reproductive health. The rights group said it had serious concerns that these effects were intentional, while acknowledging it could not reach ",
     "category": "Geral",
@@ -4559,7 +4642,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4609,8 +4692,8 @@
     "date": "2026-11-25T03:22:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Goldman diz que o boom dos data centers nos EUA até 2028 aumentará a demanda por energia e gás Reuters",
-    "title_pt": "Goldman diz que o boom dos data centers nos EUA até 2028 aumentará a demanda por energia e gás"
+    "title_pt": "Goldman diz que o boom dos data centers nos EUA até 2028 aumentará a demanda por energia e gás",
+    "summary_pt": "Goldman diz que o boom dos data centers nos EUA até 2028 aumentará a demanda por energia e gás Reuters"
   },
   {
     "title": "North Korea expels Swiss diplomat over sanctions weeks after office reopening",
@@ -5133,20 +5216,6 @@
     "summary_pt": "A polícia do Reino Unido enviou cães, drones e um helicóptero após relatos de \"atividade suspeita\" perto da casa de campo do príncipe William e da princesa Kate. Agora, dois homens estão sob custódia. Imtiaz Tyab reporta de Londres."
   },
   {
-    "title": "US preparing to unveil plan for new tariffs on global trading partners",
-    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-25T00:38:01Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
-    "title_pt": "Os EUA se preparam para revelar um plano de novas tarifas para parceiros comerciais globais",
-    "summary_pt": "Os novos impostos afetariam muitos dos maiores parceiros comerciais dos Estados Unidos, incluindo a China e a União Europeia."
-  },
-  {
     "title": "Why tiny cars are taking off across Europe",
     "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
     "category": "Tecnologia",
@@ -5213,8 +5282,8 @@
     "date": "2026-11-25T00:06:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Liderança de Xangai promete lealdade a Pequim enquanto alta autoridade enfrenta investigação Reuters",
-    "title_pt": "Liderança de Xangai promete lealdade a Pequim enquanto alto funcionário enfrenta investigação"
+    "title_pt": "Liderança de Xangai promete lealdade a Pequim enquanto alto funcionário enfrenta investigação",
+    "summary_pt": "Liderança de Xangai promete lealdade a Pequim enquanto alta autoridade enfrenta investigação Reuters"
   },
   {
     "title": "Australia, Solomon Islands sign security pact in blow to China",
@@ -5255,8 +5324,8 @@
     "date": "2026-11-24T23:43:44Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Problema de radar atrasa voos no aeroporto O'Hare de Chicago, diz FAA Reuters",
-    "title_pt": "Problema de radar atrasa voos no aeroporto O'Hare de Chicago, diz FAA"
+    "title_pt": "Problema de radar atrasa voos no aeroporto O'Hare de Chicago, diz FAA",
+    "summary_pt": "Problema de radar atrasa voos no aeroporto O'Hare de Chicago, diz FAA Reuters"
   },
   {
     "title": "Nidal Hasan asks US judge for stay of execution for Fort Hood murders",
@@ -5373,20 +5442,6 @@
     "summary_pt": "Dell eleva previsões anuais após trimestre recorde devido ao aumento da demanda por servidores de IA Reuters"
   },
   {
-    "title": "Salvadoran migrant Kilmar Abrego Garcia leaves US for Spain",
-    "summary": "Salvadoran migrant Kilmar Abrego Garcia leaves US for Spain Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObmstVGdVdGg5bDFyaTJ3MTRxdU1Pb1BhQVRrejJkNFgwMXdQNnRvWDg1VXZkMU0xWjd3dGlqcjRYQUF1TkRlSVFPQTRGMnlwM0hnbThjRE5ic2FtcVdnQmxuemJHQ1BjbDY1M2hsZWs3dHNmSWEzci1PSEkxRFd1M3V1eTRuYi1VWkRwLW4yUGdWMlpMd2I5bmFEd1pJWTI3VGxSZG5Ib3FnS01kbHRRSkhZeXdIMmV1ZDlRWGFOUl9Idm1wLVMw?oc=5",
-    "date": "2026-11-24T23:08:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Imigrante salvadorenho Kilmar Abrego Garcia deixa os EUA e vai para a Espanha",
-    "summary_pt": "Imigrante salvadorenho Kilmar Abrego Garcia deixa os EUA e vai para a Espanha Reuters"
-  },
-  {
     "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
     "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
     "category": "Geral",
@@ -5427,34 +5482,6 @@
     "image": "https://s.france24.com/media/display/16447d6a-e85a-11f1-b652-1991d4929b54/w:1024/p:16x9/AP26328810233650.jpg",
     "title_pt": "Liga dos Campeões: Real Madrid goleou o PSV por 5 a 1 na vitória de retorno, enquanto o Manchester City empatou com o Napoli",
     "summary_pt": "O Real Madrid ampliou sua série de vitórias para 10 jogos em todas as competições na terça-feira, superando um déficit inicial para derrotar o PSV Eindhoven por 5 a 1 na Liga dos Campeões, com Jude Bellingham marcando um gol espetacular e Kylian Mbappé marcando duas vezes. Enquanto isso, o Manchester City recuperou de desvantagem duas vezes e empatou em 2 a 2 com o Napoli, enquanto o Arsenal empatou em 1 a 1 com o Napoli."
-  },
-  {
-    "title": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says",
-    "summary": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5",
-    "date": "2026-11-24T22:55:43Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "CIA dos EUA e ODNI sofrem violação de segurança cibernética de algumas informações não confidenciais, diz fonte",
-    "summary_pt": "CIA dos EUA e ODNI sofrem violação de segurança cibernética de algumas informações não confidenciais, disse fonte à Reuters"
-  },
-  {
-    "title": "East Coast storm to bring rain, strong winds on US Thanksgiving",
-    "summary": "East Coast storm to bring rain, strong winds on US Thanksgiving Reuters",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb0pUdklTRTRidkl0Y3dHUXU1RGxJWEtyM0Z1UHJZUEhJcGNPSWdYNzZNRjFfUUxLeW02UV9lcVRuWW5feUFLTTVXdF9ydV9pbEJoNmI5Ry1TZXB3aTd6cy1jTURSOUhyVmZYM2RCV2x5bXRlV2tEcWJQTUhjeVk0VTU3UHVpdzlxeHQzQW5TTk9FUENmSEo1YmZxNFZ1dWhqTW9jQTBqV29PSU9CaXJyTUVOUQ?oc=5",
-    "date": "2026-11-24T22:48:13Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Tempestade na Costa Leste trará chuva e ventos fortes no Dia de Ação de Graças nos EUA",
-    "summary_pt": "Tempestade na Costa Leste trará chuva e ventos fortes no Dia de Ação de Graças dos EUA Reuters"
   },
   {
     "title": "Terremoto de magnitude 4.5 — 64 km W of San Juan, Peru",
@@ -6079,20 +6106,6 @@
     "summary_pt": "Mahdi Tounsi pareceu ter sofrido maus-tratos em audiência em que não lhe foi permitido ouvir os argumentos da acusação contra ele. O estudante palestino Mahdi Tounsi compareceu a uma audiência judicial a portas fechadas em Jerusalém, enquanto acadêmicos e ativistas alertaram que a tentativa de Israel de prendê-lo sem julgamento representa uma grave escalada nos ataques aos direitos dos palestinos. Yael"
   },
   {
-    "title": "European court finds states can turn back migrants in some cases",
-    "summary": "Europe's top human rights court ruled that member states can turn back migrants unless they've been identified as people who were at risk of suffering.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "DE",
-    "source": "Deutsche Welle",
-    "url": "https://www.dw.com/en/european-court-finds-states-can-turn-back-migrants-in-some-cases/a-80038352?maca=en-rss-en-all-1573-rdf",
-    "date": "2026-11-24T17:43:00Z",
-    "lang": "en",
-    "image": "https://static.dw.com/image/66463429_6.jpg",
-    "title_pt": "Tribunal europeu conclui que os estados podem recusar migrantes em alguns casos",
-    "summary_pt": "O principal tribunal europeu de direitos humanos decidiu que os Estados-membros podem recusar migrantes, a menos que estes tenham sido identificados como pessoas em risco de sofrimento."
-  },
-  {
     "title": "Thomas Markle formally charged over child sexual abuse material",
     "summary": "Thomas Markle has been formally charged on two counts of possessing child sexual abuse material in Los Angeles.",
     "category": "Geral",
@@ -6529,20 +6542,6 @@
     "summary_pt": "O interesse em criar hobbies, como tricô ou cerâmica, não é novo, mas vários fatores após a pandemia também os tornaram atraentes. Aqui estão algumas sugestões para retiros práticos."
   },
   {
-    "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-    "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-24T15:35:53Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
-    "title_pt": "Ataque aéreo israelense mata chefe de segurança interna do Hamas em Gaza",
-    "summary_pt": "Naeem Abu Nahel, que estava no cargo há apenas dois meses, foi alvo de um ataque no oeste da cidade de Gaza, segundo o Ministério do Interior de Gaza."
-  },
-  {
     "title": "Gisèle Pelicot to sue publisher after nude images sent to media",
     "summary": "Gisèle Pelicot, who spoke out about being drugged and raped by her husband and 50 other men, says she's been \"once again humiliated.\"",
     "category": "Geral",
@@ -6851,22 +6850,6 @@
     "summary_pt": "Relatos de uma leoa vagando ao norte de Istambul provocaram uma confusão na segurança depois que imagens granuladas pareciam mostrar um grande gato rondando em terreno aberto. Após um dia de buscas, as autoridades turcas afirmaram que o animal não era um leão nem qualquer outro felino grande."
   },
   {
-    "title": "Terremoto de magnitude 4.8 — 71 km W of Vallenar, Chile",
-    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
-    "category": "Clima e desastres",
-    "region": "71 km W of Vallenar, Chile",
-    "country": "GLOBAL",
-    "source": "USGS",
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud7h",
-    "date": "2026-11-24T13:22:38.945000Z",
-    "lat": -28.6118,
-    "lon": -71.4886,
-    "depth_km": 33.412,
-    "forcedSev": "low",
-    "title_pt": "Terremoto de magnitude 4.8 — 71 km W of Vallenar, Chile",
-    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
-  },
-  {
     "title": "Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for",
     "summary": "As the death toll rose to 26, one rescue worker said that more victims might be found near a stairwell in the building. The police opened a criminal investigation.",
     "category": "Geral",
@@ -7019,5 +7002,19 @@
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-china-chips-analysis-01-zjqb/24int-china-chips-analysis-01-zjqb-mediumSquareAt3X.jpg",
     "title_pt": "Para a China, o retorno de Jensen Huang à Nvidia é uma bênção ambígua",
     "summary_pt": "Pequim pode comemorar o retorno do principal defensor norte-americano das vendas de chips de IA para a China. Mas a saga pode reforçar o esforço chinês para alcançar a autossuficiência, dizem os analistas."
+  },
+  {
+    "title": "Tarifaço de Trump: EUA barram primeira tentativa do Brasil de julgamento na OMC",
+    "summary": "Miriam Leitão: Brasil defende multilateralismo na OMC Os Estados Unidos bloquearam nesta terça-feira (24) a primeira tentativa do Brasil de abrir um painel na Organização Mundial do Comércio (OMC) para analisar se as tarifas adicionais impostas pelo governo americano a produtos brasileiros violam as regras do comércio internacional. (entenda mais abaixo) O p",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "G1 Mundo",
+    "url": "https://g1.globo.com/economia/noticia/2026/11/24/eua-bloqueia-pedido-do-brasil-para-um-painel-de-disputas-tarifarias-diz-um-funcionario-comercial.ghtml",
+    "date": "2026-11-24T11:42:37Z",
+    "lang": "pt",
+    "image": "https://s2-g1.glbimg.com/bHmNkJhR8njNpD0Vvhu02wG7E1s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/s/WTH8GTQ1KaDgXbbEgnOg/globo-canal-4-20260720-2000-frame-75376.jpeg",
+    "title_pt": "Tarifaço de Trump: EUA barram primeira tentativa do Brasil de julgamento na OMC",
+    "summary_pt": "Miriam Leitão: Brasil defende multilateralismo na OMC Os Estados Unidos bloquearam nesta terça-feira (24) a primeira tentativa do Brasil de abrir um painel na Organização Mundial do Comércio (OMC) para analisar se as tarifas adicionais impostas pelo governo americano a produtos brasileiros violam as regras do comércio internacional. (entenda mais abaixo) O p"
   }
 ]
