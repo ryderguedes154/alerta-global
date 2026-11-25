@@ -1,5 +1,47 @@
 [
   {
+    "title": "A Gaza, un bombardement israélien tue un responsable de la sécurité du Hamas et des membres de sa famille",
+    "summary": "Un homme, identifié par le ministère de l’intérieur de Gaza comme étant le directeur du service de sécurité intérieure pour le nord de l’enclave, a été tué avec son épouse et ses deux filles, selon les services de secours palestiniens.",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "FR",
+    "source": "Le Monde",
+    "url": "https://www.lemonde.fr/international/article/2026/11/25/a-gaza-un-bombardement-israelien-tue-un-responsable-de-la-securite-du-hamas-et-des-membres-de-sa-famille_6815073_3210.html",
+    "date": "2026-11-25T09:27:04Z",
+    "lang": "fr",
+    "image": "https://img.lemde.fr/2026/11/25/0/0/8640/5760/1440/960/60/0/8f061d9_ftp-1-leia7bmbacqp-11cf1a8f6d884238b0f622085b572d44-0-f5b115b9cfa14b8496d1ed0f9e521edb.jpg",
+    "title_pt": "Em Gaza, um bombardeio israelense mata um oficial de segurança do Hamas e membros de sua família",
+    "summary_pt": "Um homem, identificado pelo Ministério do Interior de Gaza como sendo o diretor do Serviço de Segurança Interna do norte do enclave, foi morto junto com sua esposa e suas duas filhas, segundo os serviços de resgate palestinos."
+  },
+  {
+    "title": "Energy bills will soar - here's how you can ease the pain",
+    "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-25T09:24:48Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
+    "title_pt": "As contas de energia vão disparar – veja como você pode aliviar o impacto",
+    "summary_pt": "As contas de energia doméstica estão prestes a aumentar, mas há maneiras de controlar seus gastos."
+  },
+  {
+    "title": "El Gobierno prohíbe los sabores de los vapeadores y limita la cantidad de nicotina de las bolsitas",
+    "summary": "La medida tiene por objetivo reducir la entrada de adolescentes al hábito de fumar. La patronal de los cigarrillos electrónicos ve peligrar su negocio",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/sociedad/2026-11-25/el-gobierno-prohibe-los-sabores-de-los-vapeadores-y-limita-la-cantidad-de-nicotina-de-las-bolsitas.html",
+    "date": "2026-11-25T09:21:31Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/PUNXIVGURFC7THEBYPFJC7BAUA.jpg?auth=7827a4454c608d12962008ecda78fa4137c420625d4212642b87a8c932af281f",
+    "title_pt": "O governo proíbe os sabores dos vapes e limita a quantidade de nicotina nos sachês",
+    "summary_pt": "A medida visa reduzir o número de adolescentes que adquirem o hábito de fumar. A associação dos fabricantes de cigarros eletrônicos vê seus negócios ameaçados"
+  },
+  {
     "title": "Energy bills to rise by 26% from January",
     "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
     "category": "Economia",
@@ -28,6 +70,20 @@
     "summary_pt": "Colau prevê que, se Abascal for vice-presidente, ele implementará \"um ICE\" nas ruas da Espanha | Os candidatos se preparam para o debate entre quatro candidatos na quinta-feira | Puigdemont aparece após a sentença do Supremo Tribunal"
   },
   {
+    "title": "Ataque hacker atinge sedes da CIA e de agência federal dos EUA",
+    "summary": "Invasão atingiu plataforma usada para análise de inteligência de fontes abertas e suspeita inicial aponta origem na China",
+    "category": "Segurança cibernética",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/internacional/ataque-hacker-atinge-sede-da-cia-e-de-agencia-federal-dos-eua/",
+    "date": "2026-11-25T09:14:36Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/08/40410_622BD424A44D57D8.jpg?w=200",
+    "title_pt": "Ataque hacker atinge sedes da CIA e de agência federal dos EUA",
+    "summary_pt": "Invasão atingiu plataforma usada para análise de inteligência de fontes abertas e suspeita inicial aponta origem na China"
+  },
+  {
     "title": "US tells citizens to leave Iran, warns hostilities could escalate fast",
     "summary": "The US Virtual Embassy in Iran said Tehran, Yemen's Houthis and other aligned groups may target US interests and citizens in the region, including companies and institutions. The alert followed Iranian attacks on US assets in Bahrain and Kuwait and a Houthi strike on Riyadh that injured 11 people.",
     "category": "Geral",
@@ -52,8 +108,8 @@
     "date": "2026-11-25T09:09:27Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/EY27O3YLBJD6LFVNV73HMYM2DY.jpg?auth=3505df3972800a4897de2acd7ae6582357a097c115821e3522452819d38680b9",
-    "summary_pt": "A colaboradora participou do programa de David Broncano, que não foi ao ar nem na quinta-feira nem na segunda-feira por causa dos debates eleitorais.",
-    "title_pt": "Lalachus pede ao público de \"La revuelta\" que vá votar no domingo e se lembra de Henar Álvarez: \"Estou exausta\""
+    "title_pt": "Lalachus pede ao público de \"La revuelta\" que vá votar no domingo e se lembra de Henar Álvarez: \"Estou exausta\"",
+    "summary_pt": "A colaboradora participou do programa de David Broncano, que não foi ao ar nem na quinta-feira nem na segunda-feira por causa dos debates eleitorais."
   },
   {
     "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
@@ -68,20 +124,6 @@
     "image": "https://i.guim.co.uk/img/media/621e93b6debd15c2bb0ba21a27a32b9d2d861391/400_106_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3753f56cd40c2c3bfd73fc8e8ec43f83",
     "title_pt": "\"A Rússia quer mais do que a Ucrânia\", alerta Merz, da Alemanha – Europa ao vivo",
     "summary_pt": "Em um discurso abrangente, a chanceler alemã afirma que Moscou está \"intensificando as ações em grande escala\". Merz relembra a reunião da Coalizão dos Dispostos, realizada na semana passada em Berlim, dizendo que a delegação dos EUA \"pareceu, claramente, surpresa com o grau de união... dos europeus em relação a essa questão\". \"É justamente essa determinação, senhoras e senhores, que permite"
-  },
-  {
-    "title": "Energy bills will soar - here's how you can ease the pain",
-    "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
-    "category": "Economia",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-25T09:05:41Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
-    "title_pt": "As contas de energia vão disparar – veja como você pode aliviar o impacto",
-    "summary_pt": "As contas de energia doméstica estão prestes a aumentar, mas há maneiras de controlar seus gastos."
   },
   {
     "title": "Large bushfire threatens homes and properties on remote island off Tasmania",
@@ -112,6 +154,20 @@
     "summary_pt": "O Manchester United busca se recuperar da derrota no primeiro jogo de Mauricio Pochettino no comando, ao viajar para Lisboa."
   },
   {
+    "title": "Investigadores descobrem falha em roteador que parou voos nos EUA; entenda",
+    "summary": "Exclusivo CNN: Apuração aponta troca de roteador como causa principal pela paralisação; agência nacional de aviação ainda enfrenta questionamentos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/internacional/investigadores-descobrem-falha-em-roteador-que-parou-voos-nos-eua-entenda/",
+    "date": "2026-11-25T09:03:41Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Caos-aereo-1.jpeg?w=200",
+    "title_pt": "Investigadores descobrem falha em roteador que parou voos nos EUA; entenda",
+    "summary_pt": "Exclusivo CNN: Apuração aponta troca de roteador como causa principal pela paralisação; agência nacional de aviação ainda enfrenta questionamentos"
+  },
+  {
     "title": "Watch: 'Beaver Supermoon' lights up skies around the world",
     "summary": "The November Beaver Supermoon rises over Rome and Dubai, illuminating the historic Italian capital and the UAE’s modern skyline.",
     "category": "Geral",
@@ -138,6 +194,62 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2021-11-22T115343Z_1052369494_RC2YYQ9INXUV_RTRMADP_3_YEMEN-SECURITY-DISPLACED-1795557695.jpg?resize=1920%2C1440",
     "title_pt": "O aumento dos preços leva as famílias ao limite em Hodeidah, no Iêmen",
     "summary_pt": "Os combates renovados, o aumento dos custos dos combustíveis e a redução das rendas agravam a luta pela sobrevivência na cidade controlada pelos houthis."
+  },
+  {
+    "title": "Buscando expansão no Nordeste, Tecto anuncia data center no Recife",
+    "summary": "Empreendimento de plataforma controla pelo BTG Pactual terá capacidade escalável de até seis megawatts e integra plano da companhia de investimentos de US$ 2 bilhões até 2028",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/infra/buscando-expansao-no-nordeste-tecto-anuncia-data-center-no-recife/",
+    "date": "2026-11-25T09:00:41Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM2J0QU-BASEIMAGE.jpg?w=200",
+    "title_pt": "Buscando expansão no Nordeste, Tecto anuncia data center no Recife",
+    "summary_pt": "Empreendimento de plataforma controla pelo BTG Pactual terá capacidade escalável de até seis megawatts e integra plano da companhia de investimentos de US$ 2 bilhões até 2028"
+  },
+  {
+    "title": "Veja provável escalação do Corinthians para enfrentar o Atlético-MG",
+    "summary": "Na luta contra o rebaixamento, Timão enfrenta o Galo nesta quarta-feira (25), às 20h (de Brasília), na Arena MRV",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/veja-provavel-escalacao-do-corinthians-para-enfrentar-o-atletico-mg/",
+    "date": "2026-11-25T09:00:26Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/parque_sao_jorge-e1764026605435.jpg?w=200",
+    "title_pt": "Veja provável escalação do Corinthians para enfrentar o Atlético-MG",
+    "summary_pt": "Na luta contra o rebaixamento, Timão enfrenta o Galo nesta quarta-feira (25), às 20h (de Brasília), na Arena MRV"
+  },
+  {
+    "title": "Estoques de concentrado de ferro brasileiro triplicam em portos chineses",
+    "summary": "Segundo a consultoria Shanghai Metals Market, volume armazenado em dez portos chineses saltou de 550 mil para 1,83 milhão de toneladas em quatro semanas; preço do produto recuou 2,8%",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/infra/estoques-de-concentrado-de-ferro-brasileiro-triplicam-em-portos-chineses/",
+    "date": "2026-11-25T09:00:24Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM290PO-BASEIMAGE.jpg?w=200",
+    "title_pt": "Estoques de concentrado de ferro brasileiro triplicam em portos chineses",
+    "summary_pt": "Segundo a consultoria Shanghai Metals Market, volume armazenado em dez portos chineses saltou de 550 mil para 1,83 milhão de toneladas em quatro semanas; preço do produto recuou 2,8%"
+  },
+  {
+    "title": "EUDR pode impulsionar legalização e rastreabilidade do setor florestal",
+    "summary": "Regulamentação europeia abre oportunidade para ampliar o controle sobre a origem da madeira e estimular práticas sustentáveis também no mercado interno, avalia Imaflora",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/agro/eudr-pode-impulsionar-legalizacao-e-rastreabilidade-do-setor-florestal/",
+    "date": "2026-11-25T09:00:03Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/BR_CNN_100226_ENTREVISTA_ADRIANA_MAUGERI_frame_13054.jpeg?w=200",
+    "title_pt": "EUDR pode impulsionar legalização e rastreabilidade do setor florestal",
+    "summary_pt": "Regulamentação europeia abre oportunidade para ampliar o controle sobre a origem da madeira e estimular práticas sustentáveis também no mercado interno, avalia Imaflora"
   },
   {
     "title": "Kilmar Abrego García viaja voluntariamente de Estados Unidos a España tras 20 meses de batalla legal",
@@ -322,6 +434,20 @@
     "image": "https://i.guim.co.uk/img/media/a5c069113373baf36b55dbce4358afd21f67fadf/0_0_4722_3777/master/4722.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d18f1b84593b794dd5f30f93d2820ac9",
     "title_pt": "Todos os reféns foram libertados após as forças de segurança colombianas invadirem o supermercado, diz o presidente",
     "summary_pt": "Operação em que um sequestrador foi morto põe fim a um cerco de um dia em que 30 reféns foram inicialmente mantidos. As forças de segurança colombianas invadiram um supermercado na cidade caribenha de Cartagena para pôr fim a um cerco de reféns que durou um dia, com o presidente afirmando que todos os reféns foram resgatados e um sequestrador foi morto. Abelardo de la Espriella disse: \"Em uma operação extraordinária,"
+  },
+  {
+    "title": "Iran says it is prepared to withstand US blockade, seeks to curb price rises",
+    "summary": "Iran says it is prepared to withstand US blockade, seeks to curb price rises Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUtreFI1ZkdfaWRTMFJZWElnOFJtM2E1ZlZ6OVhiSDlVTnFOLVQtZTExQWZjbWRvRjR0SFJ3ZUotcEV5Z3RFaE5Wb1RsUEFSdUVoVUhvaXU1bFFNckhHcHdDZjdkRTNMUVlzR0ZVcUx1VWRLeV9DSnFtQjJrOUU1NjJSM1VyTEc3QUltV2p6bFpvSGVLd3dKMXRkaXpnVEJrUWcycHI5UVBNOTAwWTIzTTloYlZSeXpiUjJIcS1HOWQ?oc=5",
+    "date": "2026-11-25T08:29:22Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "O Irã afirma estar preparado para resistir ao bloqueio dos EUA e busca conter os aumentos de preços",
+    "summary_pt": "Irã diz que está preparado para resistir ao bloqueio dos EUA e busca conter o aumento dos preços Reuters"
   },
   {
     "title": "Colombian security forces storm supermarket, free hostages",
@@ -2359,7 +2485,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2513,7 +2639,7 @@
   {
     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2660,7 +2786,7 @@
     "url": "https://www.cnnbrasil.com.br/internacional/agente-dos-eua-usa-cavalo-para-prender-imigrante-na-fronteira-veja-video/",
     "date": "2026-11-25T02:24:26Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-24T200220Z_1_LYNXNPEMAN1TK_RTROPTP_4_COLOMBIA-HOSTAGES.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXd2NWg5bG4wMDAxM2I2dDg5ejZhc3Ny-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd3Y1YXFlMjAwMnkyOHA0NDdueTZ5dG0.jpg?w=200",
     "title_pt": "Agente dos EUA usa cavalo para prender imigrante na fronteira; veja vídeo",
     "summary_pt": "Imagens foram divulgadas pelo CBP (Serviço de Proteção de Fronteiras dos Estados Unidos), que informou que o homem estava em situação irregular e escondido na vegetação"
   },
@@ -2747,20 +2873,6 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/LULA-E-ALCKMIN-06-08-26.jpg?w=200",
     "title_pt": "Governo piora projeções, mas libera R$ 3,4 bi com gastos fora da meta",
     "summary_pt": "Equipe econômica elevou expectativa de déficit primário para R$ 89,3 bilhões, enquanto gastos descontados para cumprimento da meta somam R$ 77 bilhões; projeto de ajuste liberou R$ 10,5 bilhões referentes a subsídios de combustíveis"
-  },
-  {
-    "title": "Dinorah Figuera, negociadora de la transición con el chavismo: “Esto no es una mesa romántica”",
-    "summary": "La opositora gestiona las expectativas democráticas de millones de venezolanos en la mesa de diálogo, tutelada por Estados Unidos",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/america/2026-11-25/dinorah-figuera-negociadora-de-la-transicion-con-el-chavismo-esto-no-es-una-mesa-romantica.html",
-    "date": "2026-11-25T02:13:37Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/FI45WHASPFHMHN4IG7DW3IUWQY.jpg?auth=c84fd75ef865797efe650bb1e9fc81ef76eca54ea596116d240355c2c290290f",
-    "title_pt": "Dinorah Figuera, negociadora da transição com o chavismo: “Esta não é uma mesa romântica”",
-    "summary_pt": "A oposição administra as expectativas democráticas de milhões de venezuelanos na mesa de diálogo, supervisionada pelos Estados Unidos"
   },
   {
     "title": "Aliado da família Bolsonaro, assessor de Trump para o Brasil deixa cargo no Departamento de Estado dos EUA",
@@ -3096,7 +3208,7 @@
     "url": "https://www.cnnbrasil.com.br/internacional/governo-trump-suspende-operacoes-conjuntas-com-o-equador-diz-jornal/",
     "date": "2026-11-25T01:09:31Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-24T200220Z_1_LYNXNPEMAN1TK_RTROPTP_4_COLOMBIA-HOSTAGES.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXd2NWg5bG4wMDAxM2I2dDg5ejZhc3Ny-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd3Y1YXFlMjAwMnkyOHA0NDdueTZ5dG0.jpg?w=200",
     "title_pt": "Governo Trump suspende operações conjuntas com o Equador, diz jornal",
     "summary_pt": "Medida acontece em meio a preocupações com possíveis crimes ou violações dos direitos humanos cometidos por forças equatorianas durante uma missão em 23 de setembro, informou o New York Times"
   },
@@ -3117,7 +3229,7 @@
   {
     "title": "Trump's rescue of Nvidia's Huang brings political risks",
     "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3131,7 +3243,7 @@
   {
     "title": "The rising cost of putting food on the table in India",
     "summary": "India's food inflation is broadening, squeezing household budgets.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3355,7 +3467,7 @@
   {
     "title": "Why tiny cars are taking off across Europe",
     "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3628,7 +3740,7 @@
     "url": "https://www.cnnbrasil.com.br/internacional/pai-de-meghan-markle-e-denunciado-nos-eua-por-posse-de-pornografia-infantil/",
     "date": "2026-11-24T23:53:45Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-24T200220Z_1_LYNXNPEMAN1TK_RTROPTP_4_COLOMBIA-HOSTAGES.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXd2NWg5bG4wMDAxM2I2dDg5ejZhc3Ny-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd3Y1YXFlMjAwMnkyOHA0NDdueTZ5dG0.jpg?w=200",
     "title_pt": "Pai de Meghan Markle é denunciado nos EUA por posse de pornografia infantil",
     "summary_pt": "Nova denúncia dobra o número de acusações; Thomas Markle é acusado de posar para fotografias com uma menor de idade nua e crianças em diferentes estágios de nudez"
   },
@@ -3698,7 +3810,7 @@
     "url": "https://www.cnnbrasil.com.br/internacional/na-onu-brasil-defende-controle-humano-sobre-ia-em-conflitos-armados/",
     "date": "2026-11-24T23:43:43Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-24T200220Z_1_LYNXNPEMAN1TK_RTROPTP_4_COLOMBIA-HOSTAGES.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXd2NWg5bG4wMDAxM2I2dDg5ejZhc3Ny-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd3Y1YXFlMjAwMnkyOHA0NDdueTZ5dG0.jpg?w=200",
     "title_pt": "Na ONU, Brasil defende controle humano sobre IA em conflitos armados",
     "summary_pt": "Em declaração ao Conselho de Segurança, representante do país afirmou que \"a responsabilidade e a prestação de contas não podem ser transferidas para as máquinas\""
   },
@@ -3826,7 +3938,7 @@
     "url": "https://www.cnnbrasil.com.br/internacional/secretario-geral-da-otan-deve-se-reunir-com-trump-na-quarta-feira-25/",
     "date": "2026-11-24T23:19:02Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-24T200220Z_1_LYNXNPEMAN1TK_RTROPTP_4_COLOMBIA-HOSTAGES.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXd2NWg5bG4wMDAxM2I2dDg5ejZhc3Ny-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntd3Y1YXFlMjAwMnkyOHA0NDdueTZ5dG0.jpg?w=200",
     "title_pt": "Secretário-geral da Otan deve se reunir com Trump na quarta-feira (25)",
     "summary_pt": "Encontro deve ter como objetivo \"discutir os desdobramentos na área de segurança que afetam a Aliança\", informou a organização em comunicado"
   },
@@ -4022,7 +4134,7 @@
     "url": "https://www.cnnbrasil.com.br/agro/croplife-espera-regulamentacao-de-bioinsumos-ainda-em-2026/",
     "date": "2026-11-24T22:54:10Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/11/potatoes-g74cfb3a92_1920.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/09/image-slider-wide-pine_plantations.jpg?w=200",
     "title_pt": "CropLife espera regulamentação de bioinsumos ainda em 2026",
     "summary_pt": "Segundo a presidente da organização, Ana Repezza, a expectativa é que em 2027 o setor seja regulado por portarias e estruturas normativas"
   },
@@ -4083,76 +4195,6 @@
     "summary_pt": "\"Represente\" quer aproximar liga de basquete norte-americana dos fãs brasileiros"
   },
   {
-    "title": "Superlua é vista sobre o Partenon, em Atenas, e proporciona espetáculo",
-    "summary": "Evento ocorre quando a lua cheia coincide com o momento em que a órbita lunar se aproxima mais da Terra",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/internacional/superlua-e-vista-sobre-o-partenon-em-atenas-e-proporciona-espetaculo/",
-    "date": "2026-11-24T22:46:48Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/folclores-brasileiro-halloween-e1787234229281.jpg?w=200",
-    "title_pt": "Superlua é vista sobre o Partenon, em Atenas, e proporciona espetáculo",
-    "summary_pt": "Evento ocorre quando a lua cheia coincide com o momento em que a órbita lunar se aproxima mais da Terra"
-  },
-  {
-    "title": "Justiça dá 72 horas para 99Food comprovar fim de cláusulas de banimento",
-    "summary": "Denúncia foi feita pela Keeta, que acusa a concorrente de alterar contratos com restaurantes parceiros para manter, na prática, a exclusão da plataforma do mercado",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/economia/money/negocios/justica-da-72-horas-a-99food-para-comprovar-fim-de-clausulas-de-banimento/",
-    "date": "2026-11-24T22:46:19Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM2517N-BASEIMAGE.jpg?w=200",
-    "title_pt": "Justiça dá 72 horas para 99Food comprovar fim de cláusulas de banimento",
-    "summary_pt": "Denúncia foi feita pela Keeta, que acusa a concorrente de alterar contratos com restaurantes parceiros para manter, na prática, a exclusão da plataforma do mercado"
-  },
-  {
-    "title": "Como vence AEK Atenas e segue na cola de gigantes europeus na Champions",
-    "summary": "Clube italiano, em sua primeira participação histórica, soma 12 pontos e briga no topo da fase de grupos da competição",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/como-vence-aek-atenas-e-segue-na-cola-de-gigantes-europeus-na-champions/",
-    "date": "2026-11-24T22:42:30Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/porto-feyenoord-champions-league-e1795559460253.jpg?w=200",
-    "title_pt": "Como vence AEK Atenas e segue na cola de gigantes europeus na Champions",
-    "summary_pt": "Clube italiano, em sua primeira participação histórica, soma 12 pontos e briga no topo da fase de grupos da competição"
-  },
-  {
-    "title": "Alerj propõe ajustar salário de governador para R$ 36 mil",
-    "summary": "Estudo apresentado nesta terça-feira também contempla vice-governador, secretários e subsecretários do governo estadual fluminense",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/politica/alerj-propoe-ajustar-salario-de-governador-para-r-36-mil/",
-    "date": "2026-11-24T22:41:56Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/img20260520170048734.jpg?w=200",
-    "title_pt": "Alerj propõe ajustar salário de governador para R$ 36 mil",
-    "summary_pt": "Estudo apresentado nesta terça-feira também contempla vice-governador, secretários e subsecretários do governo estadual fluminense"
-  },
-  {
-    "title": "Reino Unido alerta para sabotagem russa a empresas parceiras da Ucrânia",
-    "summary": "Comunicado emitido pelo Ministério da Defesa e a agência de inteligência britânica MI5 pede para companhias tomarem medidas para reforçar a segurança",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/internacional/reino-unido-alerta-para-sabotagem-russa-a-empresas-parceiras-da-ucrania/",
-    "date": "2026-11-24T22:40:41Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-24T200220Z_1_LYNXNPEMAN1TK_RTROPTP_4_COLOMBIA-HOSTAGES.jpg?w=200",
-    "title_pt": "Reino Unido alerta para sabotagem russa a empresas parceiras da Ucrânia",
-    "summary_pt": "Comunicado emitido pelo Ministério da Defesa e a agência de inteligência britânica MI5 pede para companhias tomarem medidas para reforçar a segurança"
-  },
-  {
     "title": "Terremoto de magnitude 4.5 — 64 km W of San Juan, Peru",
     "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
     "category": "Clima e desastres",
@@ -4181,20 +4223,6 @@
     "image": "https://static.dw.com/image/80041951_6.jpg",
     "title_pt": "Cientistas descobrem quasar formado 630 milhões de anos após o Big Bang",
     "summary_pt": "Os cientistas estão a ver o quasar tal como era há 13,1 mil milhões de anos – quando o Universo tinha menos de 5% da sua idade atual."
-  },
-  {
-    "title": "Com gol contra “relâmpago”, Porto vence Feyenoord pela Champions",
-    "summary": "Resultado garante ao time português um salto para 20ª posição na Champions League, dentro na zona de classificação para o playoff; Feyenoord ocupa 36º lugar",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/com-gol-contra-relampago-porto-vence-feyenoord-pela-champions/",
-    "date": "2026-11-24T22:31:35Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/vini-jr-real-madrid-champions-e1795557521952.jpg?w=200",
-    "title_pt": "Com gol contra “relâmpago”, Porto vence Feyenoord pela Champions",
-    "summary_pt": "Resultado garante ao time português um salto para 20ª posição na Champions League, dentro na zona de classificação para o playoff; Feyenoord ocupa 36º lugar"
   },
   {
     "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -4915,20 +4943,6 @@
     "summary_pt": "O Emir de Daura é um dos monarcas mais conhecidos da Nigéria, e os políticos muitas vezes tentam obter o seu apoio."
   },
   {
-    "title": "VIDEO CAN 2025 : le Sénégal champion d’Afrique plus de 300 jours après la finale",
-    "summary": "Le 18 janvier 2026, la finale de la CAN entre les deux équipes s’était achevée dans le chaos et la tension, suivie par près d’une année de batailles juridiques entre le Sénégal et le Maroc.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "Le Monde",
-    "url": "https://www.lemonde.fr/international/video/2026/11/24/can-2025-le-senegal-champion-d-afrique-de-football-voici-la-decision-du-tribunal-arbitral-du-sport_6814845_3210.html",
-    "date": "2026-11-24T19:08:17Z",
-    "lang": "fr",
-    "image": "https://img.lemde.fr/2026/11/24/3/0/3776/2517/1440/960/60/0/384ce91_ftp-1-chz3mllsrgd7-2026-11-24t151139z-1304802060-rc2euoab0957-rtrmadp-3-soccer-nations-senegal.JPG",
-    "title_pt": "VÍDEO CAN 2025: Senegal campeão da África mais de 300 dias após a final",
-    "summary_pt": "No dia 18 de janeiro de 2026, a final do CAN entre as duas seleções terminou em caos e tensão, seguida de quase um ano de batalhas jurídicas entre Senegal e Marrocos."
-  },
-  {
     "title": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
     "summary": "WHO chief says life expectancy has fallen from 78.8 years in 2020 to 74.4 in 2025, figures that predate US fuel blockade Life expectancy has fallen for the first time in Cuba since 1950 as the island reels from a severe economic crisis, the head of the World Health Organization (WHO) said on Tuesday. On a visit to Havana, WHO chief Tedros Adhanom Ghebreyesus",
     "category": "Geral",
@@ -5085,7 +5099,7 @@
   {
     "title": "Faisal Islam: Fears over the AI boom haven't gone away",
     "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5277,20 +5291,6 @@
     "image": "https://s.france24.com/media/display/7262fe1c-e820-11f1-9829-95e072ff0a91/w:1024/p:16x9/EN-20261124-130504-131126-CS.jpg",
     "title_pt": "A guerra da Rússia contra a Ucrânia: ‘Ambos os lados estão preparados para operar fora da zona de conflito’",
     "summary_pt": "Charli James tem o prazer de dar as boas-vindas a Gavin Hall, professor de Política, Ciência Política e Segurança Internacional na Universidade de Strathclyde. Ele é especialista em OTAN, instituições de segurança e no papel da tecnologia emergente na guerra. Hall examina as recentes operações russas e ucranianas fora da principal zona de conflito, as condições necessárias"
-  },
-  {
-    "title": "US consumer confidence jumps to highest level in nearly two years",
-    "summary": "US consumer confidence jumps to highest level in nearly two years Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSlNZMXlsT1hncHloZ0owYU5ZTlZmbFVsTlFtSFRNdGNhTVFia0RMVGVEeE4wbHVYalhxWkl1WkdJNzRGajN4cVN2N2N6YU1Kc3N0dWo3RGVRQXBpel9sSUNFNDVRMDYyeHhHczQ0RkVNbnF5d3pBMTAzTVQ3WjZ1cVFvSWZEcnpSSWR1cDl5MElSNm54ek9UbER6ZE51Q1BTT28tR25Ya3A?oc=5",
-    "date": "2026-11-24T17:25:47Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "A confiança do consumidor dos EUA sobe para o nível mais alto em quase dois anos",
-    "summary_pt": "A confiança do consumidor dos EUA sobe para o nível mais alto em quase dois anos Reuters"
   },
   {
     "title": "NATO allies anxious as war spreads beyond Ukraine, Russia borders",
