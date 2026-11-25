@@ -1,8 +1,8 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T01:18:29.056894Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T01:23:42.381429Z",
+  "status": "checado",
   "items": [
     {
       "title": "Sputnik-S, o satélite russo que ameaça levar a guerra nuclear ao espaço",
@@ -15,19 +15,6 @@
       "url": "https://elpais.com/internacional/2026-11-24/sputnik-s-el-satelite-ruso-que-amenaza-con-llevar-la-guerra-nuclear-al-espacio.html",
       "published_on": "24/11/2026 14:10 (Boa Vista)",
       "image": "https://imagenes.elpais.com/resizer/v2/PJHHAJNVRJJ7XKHQ7WL7EWUFVQ.jpg?auth=b7f06f94edf8aacfbea0c7be6a4da02d84ceea3a00baa2f113e1aac85c78cb81",
-      "selection": "automatic"
-    },
-    {
-      "title": "Governo Trump suspende operações militares conjuntas com Equador, diz jornal",
-      "summary": "O governo do presidente dos Estados Unidos, Donald Trump, suspendeu as operações militares conjuntas com o Equador em meio a uma investigação sobre uma ação letal realizada por forças equatorianas. A informação foi publicada pelo jornal \"The New York Times\" nesta terça-feira (24). A suspensão ocorreu após questionamentos sobre possíveis crimes e violações de",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/24/governo-trump-suspende-operacoes-militares-conjuntas-com-equador-diz-jornal.ghtml",
-      "published_on": "24/11/2026 21:00 (Boa Vista)",
-      "image": "https://g1.globo.com/mundo/noticia/2026/11/24/None",
       "selection": "automatic"
     },
     {
@@ -54,6 +41,19 @@
       "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
       "published_on": "24/11/2026 16:35 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG_5435-1795549817.jpg?resize=1920%2C1381",
+      "selection": "automatic"
+    },
+    {
+      "title": "A pressão de Trump sobre a Nvidia mostra a importância das empresas na guerra econômica global",
+      "summary": "Os presidentes que o antecederam socorreram empresas em tempos de crise nacional. Trump foi além: apostou o destino dos Estados Unidos no de um diretor-executivo de sua preferência.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+      "published_on": "24/11/2026 15:54 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
