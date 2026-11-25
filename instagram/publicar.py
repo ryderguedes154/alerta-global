@@ -493,8 +493,9 @@ def publicar():
         return
     base = url_base_imagens()
 
+    # Publica no máximo MAX_POSTS por execução (o resto fica na fila para as próximas).
     falhas = 0
-    for item in list(fila):
+    for item in fila[:MAX_POSTS]:
         print(f"\nPublicando: {item['titulo']}")
         try:
             id_post = publicar_no_instagram(item, base)
