@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T14:48:36.616389Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T14:53:45.879935Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os próprios números da Rússia mostram que ela perdeu quase 500 mil pessoas na guerra na Ucrânia",
@@ -15,6 +15,19 @@
       "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
       "published_on": "25/11/2026 08:21 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Os EUA anunciam novas tarifas para vários países, incluindo a China",
+      "summary": "Os novos impostos afetariam muitos dos maiores parceiros comerciais dos Estados Unidos, incluindo a China e a União Europeia.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "published_on": "25/11/2026 10:52 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
       "selection": "automatic"
     },
     {
@@ -41,19 +54,6 @@
       "url": "https://www.euronews.com/2026/11/25/russian-strikes-kill-seven-in-ukraine-as-kyiv-hits-three-refineries",
       "published_on": "25/11/2026 10:06 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/71/46/696x392_cmsv2_f926f88f-61cf-5639-80ad-168f618ac23f-10007146.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Os EUA anunciam novas tarifas para vários países, incluindo a China",
-      "summary": "Os novos impostos afetariam muitos dos maiores parceiros comerciais dos Estados Unidos, incluindo a China e a União Europeia.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "published_on": "25/11/2026 09:49 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
       "selection": "automatic"
     },
     {
