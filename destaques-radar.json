@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T10:21:28.051936Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T10:26:39.672506Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os próprios números da Rússia mostram que ela perdeu quase 500 mil pessoas na guerra da Ucrânia",
@@ -18,6 +18,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Aliados da OTAN ansiosos à medida que a guerra se espalha para além das fronteiras da Ucrânia e da Rússia",
+      "summary": "À medida que a Ucrânia ataca navios russos em águas distantes, alguns países da NATO expressam uma ansiedade crescente relativamente à propagação da guerra a novas regiões.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ukraine-russia-war-warship-cargo-ship-attacks-nato-allies-anxiety/",
+      "published_on": "25/11/2026 06:22 (Boa Vista)",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/dbcb0f39-eb93-4867-a447-96b865aa44e1/thumbnail/1200x630/ccf297ec2f3ea6b89708d36ce061fac3/ukraine-russia-sparta-ship.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "A guerra na Ucrânia pelas cartas de Olga e Sasha: \"Quando meu coral incluiu um compositor russo no repertório, fiquei com náuseas\"",
       "summary": "Olga e Sasha Kurovska são duas irmãs ucranianas. Uma mora em Paris, a outra em Kiev. Enquanto Olga se indigna ao ver os europeus continuarem a promover a cultura russa em detrimento dos artistas ucranianos, Sasha, assustada com os ataques diários, desiste de sair do seu bairro.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -28,19 +41,6 @@
       "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/25/la-guerre-en-ukraine-a-travers-les-lettres-d-olga-et-de-sasha-quand-ma-chorale-a-inscrit-un-auteur-russe-au-repertoire-j-ai-eu-un-haut-le-c-ur_6815078_4500055.html",
       "published_on": "25/11/2026 06:00 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/11/24/1005/0/743/495/1440/960/60/0/819db4f_ftp-1-2u98k7bodldn-452799-3548826.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Irã denuncia o uso de IA pelos EUA na guerra",
-      "summary": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-      "published_on": "25/11/2026 05:57 (Boa Vista)",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
       "selection": "automatic"
     },
     {
