@@ -1,7 +1,7 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T17:06:32.919735Z",
+  "checked_at": "2026-11-25T17:11:58.777666Z",
   "status": "checado",
   "items": [
     {
@@ -31,16 +31,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Coreia do Norte expulsa diplomatas suíços em briga ligada à guerra na Ucrânia",
-      "summary": "A medida seguiu-se à decisão da Suíça de sancionar um acampamento internacional de jovens na Coreia do Norte, que é acusado de acolher crianças ucranianas para doutrinação.",
+      "title": "Irã denuncia o uso de IA pelos EUA na guerra",
+      "summary": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
-      "published_on": "25/11/2026 13:00 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-nkorea-swiss-kctw/25int-nkorea-swiss-kctw-mediumSquareAt3X.jpg",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+      "published_on": "25/11/2026 13:10 (Boa Vista)",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
       "selection": "automatic"
     },
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "A União Europeia quer criar um fundo soberano de 50 mil milhões de euros para investir em computação quântica e inteligência artificial",
-      "summary": "A Europa já tem uma liderança inegável no domínio da investigação em computação quântica, mas está a lutar para traduzi-la em atividades comerciais.",
+      "title": "Imigrante deportado por engano que se tornou símbolo da política migratória de Trump deixa os EUA voluntariamente",
+      "summary": "O salvadorenho Kilmar Abrego García, deportado por engano pelo governo de Donald Trump, chega a Madri, na Espanha, em 24 de novembro de 2026. Francisco Seco/ AP Kilmar Abrego García, imigrante salvadorenho que foi deportado por engano dos Estados Unidos em 2025, deixou o país voluntariamente na terça-feira (24) e viajou para a Espanha, segundo autoridades e",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
+      "category": "Geral",
       "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/international/article/2026/11/25/l-union-europeenne-veut-creer-un-fonds-souverain-de-50-milliards-d-euros-pour-investir-dans-l-informatique-quantique-et-l-intelligence-artificielle_6815093_3210.html",
-      "published_on": "25/11/2026 08:29 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/10/30/77/0/4601/3067/1440/960/60/0/a1ba8d9_ftp-1-ytpt2s6nxior-843dd8777d4a4831a290a40792c7aff2-0-43e2594b99e8435b8d3086b97d7ab341.jpg",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/25/imigrante-deportado-por-engano-pelo-governo-trump-deixa-os-eua.ghtml",
+      "published_on": "25/11/2026 05:40 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/R7N7_dQ_MoDV2vYHWVhyDRGD7pY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/d/sBEjG5Syy19f7OLVb4YQ/5kq2mrf3ovla3cf7nptiltyq5m-1-.jpg",
       "selection": "automatic"
     }
   ]
