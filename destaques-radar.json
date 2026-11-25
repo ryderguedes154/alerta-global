@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T12:53:30.986537Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T12:58:48.743233Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os próprios números da Rússia mostram que ela perdeu quase 500 mil pessoas na guerra na Ucrânia",
@@ -15,6 +15,19 @@
       "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
       "published_on": "25/11/2026 08:21 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Líbia diz que ataque de drones da Ucrânia matou militares do país e promete retaliação",
+      "summary": "Dois oficiais navais líbios morreram em decorrência de ferimentos sofridos em um ataque — realizado no fim de semana por um drone marítimo ucraniano — contra um navio de guerra russo atracado em um porto no leste da Líbia. Autoridades militares líbias confirmaram as mortes e prometeram retaliações, ainda não especificadas, contra Kiev. Os dois homens tiveram",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/25/libia-diz-que-ataque-de-drones-da-ucrania-matou-militares-do-pais-e-promete-retaliacao.ghtml",
+      "published_on": "25/11/2026 08:50 (Boa Vista)",
+      "image": "https://g1.globo.com/mundo/noticia/2026/11/25/None",
       "selection": "automatic"
     },
     {
@@ -41,19 +54,6 @@
       "url": "https://www.cbsnews.com/news/russia-ukraine-war-russian-soldier-death-toll-data-leak/",
       "published_on": "25/11/2026 07:59 (Boa Vista)",
       "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/25/acf9fde0-9680-4a3b-a595-866bc3f80292/thumbnail/1200x630/55f336a7e4cf8d601d9a837f1f2389fb/gettyimages-1239916962.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Austrália e Ilhas Salomão assinam pacto abrangente visto como contra-ataque à China",
-      "summary": "A Austrália tornar-se-á o principal parceiro de segurança das Ilhas Salomão, enquanto o arquipélago rejeitará qualquer potência estrangeira que tente “interferir” na sua infra-estrutura “sensível”.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "DE",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646?maca=en-rss-en-all-1573-rdf",
-      "published_on": "25/11/2026 06:51 (Boa Vista)",
-      "image": "https://static.dw.com/image/80042382_6.jpg",
       "selection": "automatic"
     },
     {
