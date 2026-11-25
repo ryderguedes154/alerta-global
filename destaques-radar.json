@@ -1,8 +1,8 @@
 {
   "edition": "24/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T03:24:15.862906Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T03:29:24.458460Z",
+  "status": "checado",
   "items": [
     {
       "title": "Sputnik-S, o satélite russo que ameaça levar a guerra nuclear ao espaço",
@@ -28,6 +28,19 @@
       "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
       "published_on": "24/11/2026 21:14 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26103713873653-1776138849.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
+    {
+      "title": "Guerra do Irã ao vivo: coalizão liderada pela Arábia Saudita ataca o porto de Hodeidah, no Iêmen",
+      "summary": "A coligação saudita afirma que as suas forças visaram capacidades operacionais no porto de Hodeidah e atingiram locais no norte do Iémen.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+      "published_on": "24/11/2026 20:00 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-24T172418Z_1883247986_RC2AUOAQ8FSH_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1795561635.jpg?resize=1200%2C630",
       "selection": "automatic"
     },
     {
@@ -70,19 +83,6 @@
       "selection": "automatic"
     },
     {
-      "title": "A pressão de Trump sobre a Nvidia mostra a importância das empresas na guerra econômica global",
-      "summary": "Os presidentes que o antecederam socorreram empresas em tempos de crise nacional. Trump foi além: apostou o destino dos Estados Unidos no de um diretor-executivo de sua preferência.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
-      "published_on": "24/11/2026 15:54 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "A guerra da Rússia contra a Ucrânia: ‘Ambos os lados estão preparados para operar fora da zona de conflito’",
       "summary": "Charli James tem o prazer de dar as boas-vindas a Gavin Hall, professor de Política, Ciência Política e Segurança Internacional na Universidade de Strathclyde. Ele é especialista em OTAN, instituições de segurança e no papel da tecnologia emergente na guerra. Hall examina as recentes operações russas e ucranianas fora da principal zona de conflito, as condiç",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Putin diz que retaliação é \"inevitável\" após a Ucrânia atacar refinarias de petróleo russas",
-      "summary": "Os ataques ucranianos diminuíram após a declaração de Trump, em meados de outubro, de um cessar-fogo energético, mas voltaram a aumentar depois disso.",
+      "title": "Os Estados Unidos finalizam novas tarifas para a China, a União Europeia e mais uma dúzia de países",
+      "summary": "O Escritório de Comércio conclui a investigação contra 16 jurisdições por incentivarem a superprodução e permitirem a concorrência desleal",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Economia",
       "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
-      "published_on": "24/11/2026 15:22 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-01T105125Z_349816858_RC29YT9KV71D_RTRMADP_3_UKRAINE-CRISIS-EU.jpg?resize=1920%2C1440",
+      "country": "ES",
+      "source": "El País",
+      "url": "https://elpais.com/us/2026-11-24/estados-unidos-ultima-nuevos-aranceles-a-china-la-ue-y-otra-docena-de-paises.html",
+      "published_on": "24/11/2026 12:04 (Boa Vista)",
+      "image": "https://imagenes.elpais.com/resizer/v2/5G3PMYC575IDNA5OUBBEIDIKUI.jpg?auth=e7981eaba55f1451b8154f861fbafc68094f2e1d6545d9c2cf91e39a0cdb3879",
       "selection": "automatic"
     }
   ]
