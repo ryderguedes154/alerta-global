@@ -1,7 +1,7 @@
 [
   {
     "title": "Energy bills to rise by 26% from January",
-    "summary": "A typical household would see its annual bill would rise from £1,723 to £2,166 under the cap.",
+    "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 under the cap.",
     "category": "Economia",
     "region": "Global",
     "country": "GB",
@@ -24,8 +24,8 @@
     "date": "2026-11-25T07:17:04Z",
     "lang": "en",
     "image": "https://images.euronews.com/articles/stories/10/00/65/31/696x392_cmsv2_8ba0c882-de52-5d7a-84e6-dc299f65e890-10006531.jpg",
-    "summary_pt": "Quase um em cada três europeus afirma que não pode arcar com o custo inicial da instalação de uma bomba de calor.",
-    "title_pt": "Os europeus estão recorrendo às bombas de calor antes de um inverno frio. Mas quanto custa instalá-las?"
+    "title_pt": "Os europeus estão recorrendo às bombas de calor antes de um inverno frio. Mas quanto custa instalá-las?",
+    "summary_pt": "Quase um em cada três europeus afirma que não pode arcar com o custo inicial da instalação de uma bomba de calor."
   },
   {
     "title": "L’Australie et les Iles Salomon signent un traité freinant les ambitions de la Chine dans le Pacifique",
@@ -40,6 +40,48 @@
     "image": "https://img.lemde.fr/2026/11/25/0/0/5470/3646/1440/960/60/0/e7f1a21_ftp-1-adt8a8e9c7zc-ffa5d898078c4bce80cb1b75f7bf64e2-0-8886c2c7093e49739685f839e277913b.jpg",
     "title_pt": "A Austrália e as Ilhas Salomão assinam um tratado que freia as ambições da China no Pacífico",
     "summary_pt": "O tratado, que abrange amplas áreas (educação, saúde, polícia, energia, resiliência climática...), consagra a Austrália como \"principal parceira de segurança\" das Ilhas Salomão e estipula que não pode haver bases militares estrangeiras no arquipélago."
+  },
+  {
+    "title": "Australian politics live: Survivors welcome Tasmanian plan to outlaw conversion therapy; Chalmers denies Australia is in ‘stagflation’",
+    "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+    "date": "2026-11-25T07:07:18Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/42365c997a7e64f7397399f6bb94257386b759d8/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6a0f3cf06845c61f059ed95d366c7977",
+    "title_pt": "A política australiana está viva: os sobreviventes acolhem o plano da Tasmânia para proibir a terapia de conversão; Chalmers nega que a Austrália esteja em ‘estagflação’",
+    "summary_pt": "Receba nosso e-mail político diário, aplicativo gratuito ou podcast de notícias diário Wells diz que o investimento em IA e as proteções criativas não são um 'jogo de soma zero'. Pesando no gigantesco debate que é as empresas de IA que querem extrair dados australianos para treinar modelos versus criativos que querem proteger seu trabalho, Anika Wells diz que não é um jogo de 'soma zero'. Eu rejeito esse tipo de zero"
+  },
+  {
+    "title": "Pakistan rejoices as country’s first astronaut enters orbit",
+    "summary": "Zeeshan Ali makes history as the first foreign national to board China's space station",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit?traffic_source=rss",
+    "date": "2026-11-25T07:05:59Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b067e9c711c-1795587740.jpg?resize=1920%2C1440",
+    "title_pt": "O Paquistão se alegra com a entrada do primeiro astronauta do país em órbita",
+    "summary_pt": "Zeeshan Ali faz história como o primeiro estrangeiro a embarcar na estação espacial da China"
+  },
+  {
+    "title": "Energy bills in Great Britain to rise 26% in January, lifting annual bills over £2,000",
+    "summary": "Ofgem’s price cap will increase for third quarter in a row after rise in wholesale cost of gas Millions of British households will face annual energy bills of more than £2,000 a year for the first time since Russia’s invasion of Ukraine, as the cap on energy bills climbs for a third straight quarter. Gas and electricity prices will rise by 26% from January u",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap",
+    "date": "2026-11-25T07:03:21Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/af41bcfc141d1368dbf63412f77e9419c1fde3aa/388_0_2703_2162/master/2703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b276989316f4f5423f498cca9cca670d",
+    "title_pt": "As contas de energia na Grã-Bretanha vão aumentar 26% em janeiro, elevando as contas anuais para mais de £ 2 mil",
+    "summary_pt": "O teto de preços da Ofgem aumentará pelo terceiro trimestre consecutivo após o aumento do custo do gás no atacado. Milhões de famílias britânicas terão contas de energia anuais de mais de £ 2 mil por ano pela primeira vez desde a invasão da Ucrânia pela Rússia, à medida que o teto das contas de energia sobe pelo terceiro trimestre consecutivo. Os preços do gás e da eletricidade aumentarão 26% a partir de janeiro."
   },
   {
     "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
@@ -84,6 +126,20 @@
     "summary_pt": "Uma placa de boas-vindas recebe os visitantes da Fábrica de Munições do Exército de Iowa em Middletown Zach Boyden-Holmes via REUTERS O Exército dos Estados Unidos deve explodir 68 barris de azida de chumbo, substância usada na fabricação de munições, nesta quarta-feira (25), no estado de Iowa. A operação recebeu autorização da Justiça após uma disputa envol"
   },
   {
+    "title": "‘Nature’s Ozempic’: oat sales soar as shoppers seek out foods that mimic effect of GLP-1s",
+    "summary": "Porridge emerges as trend’s poster child with consumers looking to foods that help them feel full for longer, says Waitrose Sales of filling foods such as porridge oats that mimic the effect of taking weight-loss medication are booming on the back of social media hype billing them as “nature’s Ozempic” or “oatzempic”. Sales of Waitrose Scottish Oats are up 1",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/business/2026/nov/25/natures-ozempic-oat-sales-soar-shoppers-seek-out-foods-mimic-effect-glp-1s",
+    "date": "2026-11-25T07:00:10Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/e490c03163e195c840b3af6c794375a0238cc767/480_0_4840_3872/master/4840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98c6340c957c9b45c41533c8c6d65737",
+    "title_pt": "\"O Ozempic da natureza\": as vendas de aveia disparam à medida que os consumidores procuram alimentos que imitam o efeito dos GLP-1",
+    "summary_pt": "O mingau surge como o símbolo da tendência, com os consumidores buscando alimentos que os ajudem a se sentir saciados por mais tempo, afirma a Waitrose. As vendas de alimentos saciantes, como a aveia para mingau, que imitam o efeito do uso de medicamentos para perda de peso, estão crescendo graças ao burburinho nas redes sociais, que os apelidaram de \"Ozempic da natureza\" ou \"oatzempic\". As vendas da Scottish Oats da Waitrose aumentaram 1"
+  },
+  {
     "title": "En Espagne, pays aux avant-postes du changement climatique, l’environnement reste le grand absent de la campagne électorale",
     "summary": "Malgré les catastrophes climatiques à répétition, la lutte contre le réchauffement peine à s’imposer dans le débat public, victime des clivages politiques qui fracturent le pays.",
     "category": "Geral",
@@ -96,6 +152,20 @@
     "image": "https://img.lemde.fr/2026/07/26/0/69/5262/3508/1440/960/60/0/65891ff_ftp-1-xqdllzjdyar2-5712073-01-06.jpg",
     "title_pt": "Em Espanha, um país na vanguarda das alterações climáticas, o ambiente permanece em grande parte ausente da campanha eleitoral",
     "summary_pt": "Apesar dos repetidos desastres climáticos, a luta contra o aquecimento global tem dificuldade em afirmar-se no debate público, vítima das divisões políticas que estão a fracturar o país."
+  },
+  {
+    "title": "Bangladesh garment workers win 36% pay rise after weeks of protest",
+    "summary": "The protests have cost Bangladesh hundreds of millions, but workers are yet to accept the offer.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest?traffic_source=rss",
+    "date": "2026-11-25T06:58:02Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06799f-1795586463.jpg?resize=1920%2C1440",
+    "summary_pt": "Os protestos custaram centenas de milhões ao Bangladesh, mas os trabalhadores ainda não aceitaram a oferta.",
+    "title_pt": "Trabalhadores do setor de vestuário de Bangladesh conquistam aumento salarial de 36% após semanas de protestos"
   },
   {
     "title": "Domestic violence soars to record high in Germany",
@@ -154,18 +224,18 @@
     "summary_pt": "Paquistanês Muhammad Zeeshan Ali viajará à Tiangong ao lado de dois tripulantes chineses, em iniciativa inédita de cooperação internacional"
   },
   {
-    "title": "Australian politics live: Survivors welcome Tasmanian plan to outlaw conversion therapy; Chalmers denies Australia is in ‘stagflation’",
-    "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero",
+    "title": "Books, wisdom keepers and psychic abilities among sources of birth keeper’s knowledge, inquest hears",
+    "summary": "Sita Kali tells NSW coroner ‘there’s a lot of mystery’ around pregnancies involving twins Get our breaking news email , free app or daily news podcast A self-taught birth keeper who failed to recognise a woman was carrying twins says she doubted her psychic abilities after two babies died in freebirth tragedies. Sita Kali was present in 2022 when a New South",
     "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-    "date": "2026-11-25T06:37:35Z",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/25/books-wisdom-keepers-and-psychic-abilities-among-sources-of-birth-keepers-knowledge-inquest-hears-ntwnfb",
+    "date": "2026-11-25T06:38:51Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/42365c997a7e64f7397399f6bb94257386b759d8/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6a0f3cf06845c61f059ed95d366c7977",
-    "title_pt": "A política australiana está viva: os sobreviventes acolhem o plano da Tasmânia para proibir a terapia de conversão; Chalmers nega que a Austrália esteja em ‘estagflação’",
-    "summary_pt": "Receba nosso e-mail político diário, aplicativo gratuito ou podcast de notícias diário Wells diz que o investimento em IA e as proteções criativas não são um 'jogo de soma zero'. Pesando no gigantesco debate que é as empresas de IA que querem extrair dados australianos para treinar modelos versus criativos que querem proteger seu trabalho, Anika Wells diz que não é um jogo de 'soma zero'. Eu rejeito esse tipo de zero"
+    "image": "https://i.guim.co.uk/img/media/f1717a2a58a718f26e5ea27c390dc3e864b3b906/0_0_3000_2399/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5437af7e5542b211cc48c45951912113",
+    "title_pt": "Livros, guardiões da sabedoria e habilidades mediúnicas estão entre as fontes de conhecimento das parteiras, segundo depoimentos em inquérito",
+    "summary_pt": "Sita Kali diz ao legista de Nova Gales do Sul que \"há muitos mistérios\" em torno de gestações de gêmeos. Receba nosso e-mail de notícias de última hora, o aplicativo gratuito ou o podcast diário de notícias. Uma doula autodidata que não reconheceu que uma mulher estava grávida de gêmeos diz que começou a duvidar de suas habilidades mediúnicas depois que dois bebês morreram em tragédias de partos domiciliares. Sita Kali estava presente em 2022, quando uma mulher de Nova Gales do Sul"
   },
   {
     "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
@@ -1498,8 +1568,8 @@
     "date": "2026-11-25T04:16:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Rússia manda para casa chineses suspeitos de arrecadar ilegalmente US$ 2,3 bilhões em depósitos Reuters",
-    "title_pt": "Rússia manda para casa chineses suspeitos de arrecadar ilegalmente US$ 2,3 bilhões em depósitos"
+    "title_pt": "Rússia manda para casa chineses suspeitos de arrecadar ilegalmente US$ 2,3 bilhões em depósitos",
+    "summary_pt": "Rússia manda para casa chineses suspeitos de arrecadar ilegalmente US$ 2,3 bilhões em depósitos Reuters"
   },
   {
     "title": "Cifras de violaciones y pulseras antimaltrato: las medias verdades sobre violencia de género de la campaña",
@@ -1796,7 +1866,7 @@
     "summary_pt": "O presidente da Colômbia, Abelardo de la Espriella, fala durante uma entrevista coletiva na sede da Procuradoria-Geral, em Bogotá, em 18 de novembro de 2026. Sebastian Barros / AFP Dez anos depois de assinar o acordo de paz que levou as Forças Armadas Revolucionárias da Colômbia (Farc) a depor as armas, o país enfrenta uma nova escalada de violência. O anive"
   },
   {
-    "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+    "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
     "category": "Tecnologia",
     "region": "Global",
@@ -1806,8 +1876,8 @@
     "date": "2026-11-25T02:59:27Z",
     "lang": "en",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
-    "title_pt": "Huawei considerada culpada de roubar segredos comerciais, mas absolvida de extorsão",
-    "summary_pt": "O veredicto segue-se a um julgamento de meses em Nova York."
+    "summary_pt": "O veredicto vem após um julgamento que durou meses em Nova York.",
+    "title_pt": "A Huawei foi considerada culpada de roubar segredos comerciais dos EUA, mas foi absolvida da acusação de extorsão."
   },
   {
     "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – as it happened",
@@ -2132,20 +2202,6 @@
     "summary_pt": "Beau Lamarre foi considerado culpado na quarta-feira pelo assassinato de seu ex Jesse Baird e do novo parceiro de Baird, Luke Davies."
   },
   {
-    "title": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
-    "summary": "Anthony Albanese and Matthew Wale sign new treaty as Solomon Islands PM states his country no longer ‘a source of uncertainty and doubt in the region’ The Solomon Islands prime minister says the days of his country being an uncertain partner in the Pacific are over as he signed a sweeping agreement to make Australia his country’s primary security partner and",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
-    "date": "2026-11-25T01:51:02Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/b962796bea53cf339ac44ee52d0043644f41d4b1/450_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7c50cef4f990c33a923967864290cfd",
-    "title_pt": "O pacto de segurança da Austrália com as Ilhas Salomão é um golpe para a influência da China no Pacífico",
-    "summary_pt": "Anthony Albanese e Matthew Wale assinam novo tratado enquanto o primeiro-ministro das Ilhas Salomão afirma que seu país não é mais “uma fonte de incerteza e dúvida na região” O primeiro-ministro das Ilhas Salomão diz que os dias em que seu país era um parceiro incerto no Pacífico acabaram quando ele assinou um acordo abrangente para tornar a Austrália o principal parceiro de segurança e limitar o vínculo"
-  },
-  {
     "title": "Stocks retreat as AI rebound stumbles, tariff threats loom",
     "summary": "Stocks retreat as AI rebound stumbles, tariff threats loom Reuters",
     "category": "Economia",
@@ -2402,7 +2458,7 @@
   {
     "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
     "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2416,7 +2472,7 @@
   {
     "title": "The rising cost of putting food on the table in India",
     "summary": "India's food inflation is broadening, squeezing household budgets.",
-    "category": "Economia",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2916,34 +2972,6 @@
     "image": "https://i.guim.co.uk/img/media/67f6b8205eaf39a5b94cbd9b3456ef299091da0f/605_0_3218_2574/master/3218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4a7faf55b95f7498b47fdb6791fd2231",
     "title_pt": "A última revisão da cultura policial do Met revela que pouco mudou desde a última",
     "summary_pt": "A falha na implementação de relatórios anteriores significa racismo institucional, misoginia e homofobia ainda presentes em vigor A polícia metropolitana ainda é institucionalmente racista e misógina, diz o relatório Desde o inquérito Stephen Lawrence em 1999 até a revisão histórica de Louise Casey em 2023, relatórios sucessivos sobre a Polícia Metropolitana chegaram à mesma conclusão contundente"
-  },
-  {
-    "title": "UK to launch world’s first licensing scheme for knife sales",
-    "summary": "Exclusive: Measures aimed at tackling grey market sellers known to sell dangerous knives to children Ministers will introduce the world’s first licensing scheme for businesses and private individuals selling all types of knives including cutlery, the Home Office announced on Wednesday. In a drive to fulfil the government’s pledge to halve knife crime within ",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme",
-    "date": "2026-11-25T00:01:01Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/e94bf5ba5d5beca7dddc4a23c12e0c25dbf9e3a5/644_0_6440_5152/master/6440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad37621f6f0647b38d99d872024f7c0f",
-    "title_pt": "Reino Unido lançará o primeiro esquema de licenciamento do mundo para vendas de facas",
-    "summary_pt": "Exclusivo: Medidas destinadas a combater os vendedores do mercado paralelo conhecidos por venderem facas perigosas a crianças Os ministros introduzirão o primeiro esquema de licenciamento do mundo para empresas e particulares que vendem todos os tipos de facas, incluindo talheres, anunciou o Ministério do Interior na quarta-feira. Num esforço para cumprir a promessa do governo de reduzir para metade o crime com faca no"
-  },
-  {
-    "title": "England has largest frailty gap out of 31 countries, study finds",
-    "summary": "People from lowest socioeconomic group in all countries studied had higher frailty scores than those in highest socioeconomic group England has the largest gap between higher and lower socioeconomic groups when it comes to frailty compared with 30 other countries, a major study has found. The research, led by academics at King’s College London and published ",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/society/2026/nov/25/england-has-largest-frailty-gap-out-of-31-countries-study-finds",
-    "date": "2026-11-25T00:01:01Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/03c099112981b7055e78c51a3d179c98b98545fa/416_0_4158_3327/master/4158.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=00fe50acc5be0fddc2fd62bc260bf75c",
-    "title_pt": "A Inglaterra tem a maior lacuna de fragilidade entre 31 países, segundo estudo",
-    "summary_pt": "As pessoas do grupo socioeconómico mais baixo em todos os países estudados apresentaram pontuações de fragilidade mais elevadas do que as do grupo socioeconómico mais elevado. A Inglaterra tem a maior disparidade entre os grupos socioeconómicos mais elevados e mais baixos no que diz respeito à fragilidade, em comparação com outros 30 países, concluiu um importante estudo. A pesquisa, liderada por acadêmicos do King’s College London e publicada"
   },
   {
     "title": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
@@ -3944,20 +3972,6 @@
     "summary_pt": "O presidente colombiano, De la Espriella, culpa as FARC por planejarem um atentado que feriu dezenas de pessoas e promete retaliar."
   },
   {
-    "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
-    "summary": "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
-    "date": "2026-11-24T21:43:34Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2024/03/2021-06-23T213734Z_2018083332_RC2J6O9U7F43_RTRMADP_3_HUAWEI-5G-1-1709274412.jpg?resize=1920%2C1440",
-    "title_pt": "Huawei da China é considerada culpada de conspiração de segredos comerciais e fraude em julgamento nos EUA",
-    "summary_pt": "Os jurados absolveram a empresa da acusação mais grave que ela enfrentou de envolvimento em uma conspiração criminosa de extorsão."
-  },
-  {
     "title": "'Quid pro quo’: Nvidia too big to fail or ‘too close to personal interest of people around Trump’?",
     "summary": "Angela Diffley is pleased to welcome Bernard Benhamou, Secretary General of the Institute of Digital Sovereignty and Senior Lecturer in Internet Governance at Paris 1 Panthéon-Sorbonne University. What does Jensen Huang's return to Nvidia mean for Trump, Lutnick, the US, the AI industry and China? Describing Huang as “the global banker of the AI industry”, B",
     "category": "Geral",
@@ -4026,20 +4040,6 @@
     "image": "https://s.france24.com/media/display/e1b18544-e83f-11f1-b5a9-95e072ff0a91/w:1024/p:16x9/EN-20261124-180430-181401-CS.jpg",
     "title_pt": "A Nvidia enviou conscientemente chips para o ‘recorte’ da China? Houve ‘pay-to-play’ envolvendo Trump, Lutnick?",
     "summary_pt": "François Picard tem o prazer de dar as boas-vindas a Andrew Weissmann, professor de prática na NYU School of Law e ex-procurador federal conhecido por liderar importantes investigações do Departamento de Justiça (DOJ) e do FBI. \"Por que eles estavam tratando a Nvidia tão favoravelmente? O professor Weissmann se junta a nós para discutir as questões legais e éticas que cercam a administração Trump"
-  },
-  {
-    "title": "Russian jets spark air raid alert in South Korea",
-    "summary": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
-    "date": "2026-11-24T21:14:57Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795554891.jpg?resize=1920%2C1080&quality=80",
-    "title_pt": "Jatos russos provocam alerta de ataque aéreo na Coreia do Sul",
-    "summary_pt": "Os moradores da Coreia do Sul foram aconselhados a buscar abrigo quando jatos militares russos se aproximaram de seu espaço aéreo na terça-feira."
   },
   {
     "title": "Senegal reinstated as AFCON 2025 winners",
@@ -6670,8 +6670,8 @@
     "date": "2026-11-24T09:10:43Z",
     "lang": "en",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c802/live/49133f20-e764-11f1-b407-33329b1ec67a.jpg",
-    "summary_pt": "Diz-se que o turismo e as fossas sépticas desatualizadas estão contribuindo para o declínio ecológico de Buttermere.",
-    "title_pt": "\"Ação urgente\" necessária para proteger o lago"
+    "title_pt": "\"Ação urgente\" necessária para proteger o lago",
+    "summary_pt": "Diz-se que o turismo e as fossas sépticas desatualizadas estão contribuindo para o declínio ecológico de Buttermere."
   },
   {
     "title": "Watch: Moment troops raid home and capture Mexican drug lord",
