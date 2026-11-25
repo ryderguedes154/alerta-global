@@ -1,17 +1,59 @@
 [
   {
-    "title": "All hostages rescued after Colombian security forces storm supermarket, says president",
-    "summary": "Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially held Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one hostage-taker was killed. Abelardo de la Espriella, the far-ri",
-    "category": "Clima e desastres",
+    "title": "Russian strikes kill seven in Ukraine as Kyiv hits three refineries",
+    "summary": "Russia's drone attack killed people in six Ukrainian regions and hit a Naftogaz gas production facility, a DTEK thermal power plant and power networks in several parts of the country. Ukrainian drones struck Russian refineries in Samara and Rostov regions and an airbase in Nizhny Novgorod region.",
+    "category": "Geral",
     "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
-    "date": "2026-11-25T13:56:55Z",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/2026/11/25/russian-strikes-kill-seven-in-ukraine-as-kyiv-hits-three-refineries",
+    "date": "2026-11-25T14:06:14Z",
     "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/a5c069113373baf36b55dbce4358afd21f67fadf/0_0_4722_3777/master/4722.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d18f1b84593b794dd5f30f93d2820ac9",
-    "title_pt": "Todos os reféns foram resgatados após as forças de segurança colombianas invadirem o supermercado, diz o presidente",
-    "summary_pt": "A operação em que um sequestrador foi morto encerra um cerco de um dia em um shopping center de Cartagena, onde 30 pessoas foram inicialmente mantidas reféns. As forças de segurança colombianas invadiram um supermercado na cidade caribenha de Cartagena, encerrando um cerco de um dia a reféns, com o presidente afirmando que todas as pessoas mantidas reféns foram resgatadas e um sequestrador foi morto. Várias explosões"
+    "image": "https://images.euronews.com/articles/stories/10/00/71/46/696x392_cmsv2_f926f88f-61cf-5639-80ad-168f618ac23f-10007146.jpg",
+    "title_pt": "Ataques russos matam sete na Ucrânia enquanto Kyiv atinge três refinarias",
+    "summary_pt": "O ataque de drones da Rússia matou pessoas em seis regiões ucranianas e atingiu uma instalação de produção de gás Naftogaz, uma central térmica DTEK e redes de energia em várias partes do país. Drones ucranianos atacaram refinarias russas nas regiões de Samara e Rostov e uma base aérea na região de Nizhny Novgorod."
+  },
+  {
+    "title": "US plans new tariffs on EU, China and 12 others",
+    "summary": "The Trump administration is planning new import duties of up to 20% to counter excessive manufacturing abroad. The measures could put further pressure on US consumers already struggling with high living costs.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "DE",
+    "source": "Deutsche Welle",
+    "url": "https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-11-25T14:02:00Z",
+    "lang": "en",
+    "image": "https://static.dw.com/image/76067257_6.jpg",
+    "summary_pt": "A administração Trump está a planear novas taxas de importação de até 20% para combater o excesso de produção no estrangeiro. As medidas poderão colocar ainda mais pressão sobre os consumidores norte-americanos que já lutam com os elevados custos de vida.",
+    "title_pt": "EUA planejam novas tarifas sobre UE, China e outros 12 países"
+  },
+  {
+    "title": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
+    "summary": "The Iran-backed Houthis are on a winning streak, securing strategic territory as they fight Saudi Arabia and its Yemeni allies in an asymmetrical war of attrition.",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
+    "date": "2026-11-25T13:59:32Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Yemen-assess-promo/25int-Yemen-assess-vhjk-mediumSquareAt3X.jpg",
+    "title_pt": "Como um aliado iraniano ganhou vantagem na guerra do Iêmen",
+    "summary_pt": "Os Houthis apoiados pelo Irão estão numa série de vitórias, garantindo território estratégico enquanto lutam contra a Arábia Saudita e os seus aliados iemenitas numa guerra assimétrica de desgaste."
+  },
+  {
+    "title": "Retailers face rising AI cyberattack threat ahead of Black Friday, many uninsured",
+    "summary": "Retailers face rising AI cyberattack threat ahead of Black Friday, many uninsured Reuters",
+    "category": "Segurança cibernética",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQXpGTVZodUxhM09Jb0ZEQ1JXcmt0VkoxUndncmc3cXhoSWNmWlduNlJmRlA3VzhuRktZT2F6ZjJoTGZ5eVZEa01xZ3A2OHBaVjA4dDJkUTR4TkNNUnc5ay1XazlBcHAzSkVuQVpEVGtsMGlPVlNzLVM0X3F3WnJMZklqMTJnMWszSkxBMEZRLWx5cXgyRE9aSEJtSDlELWRCVjByTGhqT0hPQ200Ui03TUJfaGd1NXRjLUVVM21ObUlSSWd0bEktdmtua0VMWlpoRHFadg?oc=5",
+    "date": "2026-11-25T13:58:42Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Os varejistas enfrentam ameaça crescente de ataques cibernéticos de IA antes da Black Friday, muitos sem seguro",
+    "summary_pt": "Varejistas enfrentam ameaça crescente de ataque cibernético de IA antes da Black Friday, muitos sem seguro Reuters"
   },
   {
     "title": "Criminosos criam uma deepfake sexual por minuto, indica projeção",
@@ -26,20 +68,6 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/MULHER-IA-MG.png?w=200",
     "title_pt": "Criminosos criam uma deepfake sexual por minuto, indica projeção",
     "summary_pt": "Estudo da SaferNet mapeou 222 vítimas em escolas de 11 estados brasileiros; todos os 61 infratores mapeados eram meninos"
-  },
-  {
-    "title": "Large bushfire threatens homes and properties on Flinders Island off Tasmania",
-    "summary": "Blaze spreads significantly across the north of Flinders Island after being started by lightning strikes Get our breaking news email , free app or daily news podcast Homes and properties on a picturesque remote island were under threat on Wednesday night from an out-of-control bushfire that had sent smoke hundreds of kilometres south. The blaze on Flinders I",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
-    "date": "2026-11-25T13:55:42Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/233bcc415b139a4c7cb303ad0a176d9ff6433c48/66_0_880_704/master/880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a3239cfbd27b5759d8030bbb9a37c0a8",
-    "title_pt": "Grande incêndio florestal ameaça casas e propriedades na Ilha Flinders, na Tasmânia",
-    "summary_pt": "O incêndio se espalha significativamente pelo norte da Ilha Flinders após ser iniciado por raios Receba nosso e-mail de notícias de última hora, aplicativo gratuito ou podcast de notícias diárias Casas e propriedades em uma pitoresca ilha remota estavam sob ameaça na noite de quarta-feira por um incêndio florestal fora de controle que enviou fumaça centenas de quilômetros ao sul. O incêndio em Flinders I"
   },
   {
     "title": "Sobe para seis o número de mortos após fortes chuvas no Paraná",
@@ -68,6 +96,20 @@
     "image": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a10800e04b1fe8bbe505f3b2eea0512f",
     "title_pt": "Preços ao consumidor são os mais altos desde maio, subindo 3,8% em outubro",
     "summary_pt": "O aumento ocorre em meio ao aumento dos preços da energia, de acordo com a última leitura da inflação antes de uma reunião crucial do conselho do Fed. Os preços ao consumidor subiram 3,8% anualizados em outubro, de acordo com novos dados de inflação divulgados na quarta-feira, o mais alto desde maio e a última leitura da inflação antes de uma reunião crucial do conselho do Federal Reserve dos EUA no próximo mês. Os preços subiram 0,3% em relação a setembro"
+  },
+  {
+    "title": "Los cuatro candidatos, ante el último gran debate: así se prepara la cita decisiva de este jueves",
+    "summary": "El reloj empieza a correr para Sánchez, Feijóo, Abascal y Colau, que se medirán en un debate de dos horas centrado en cinco grandes bloques de 20 minutos cada uno. El orden de entrada y el de las intervenciones se han establecido mediante sorteo",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/los-cuatro-candidatos-ante-el-ultimo-gran-debate-asi-se-prepara-la-cita-decisiva-de-este-jueves.html",
+    "date": "2026-11-25T13:52:50Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/2VCLRRCQVNODLFXRSKGXV6AULA.jpg?auth=530c289d9f6cf7bdb48aee624b630674d8fe310b06b95b2ffb24195d8bb7de2b",
+    "title_pt": "Os quatro candidatos, antes do último grande debate: é assim que se preparam para a nomeação decisiva desta quinta-feira",
+    "summary_pt": "O tempo começa a contar para Sánchez, Feijóo, Abascal e Colau, que vão disputar um debate de duas horas centrado em cinco grandes blocos de 20 minutos cada. A ordem de entrada e a das intervenções foram estabelecidas por sorteio"
   },
   {
     "title": "Syrian teams clear landmines after deadly explosion",
@@ -124,20 +166,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
     "title_pt": "Os EUA anunciam novas tarifas para vários países, incluindo a China",
     "summary_pt": "Os novos impostos afetariam muitos dos maiores parceiros comerciais dos Estados Unidos, incluindo a China e a União Europeia."
-  },
-  {
-    "title": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
-    "summary": "The Iran-backed Houthis are on a winning streak, securing strategic territory as they fight Saudi Arabia and its Yemeni allies in an asymmetrical war of attrition.",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
-    "date": "2026-11-25T13:48:36Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Yemen-assess-promo/25int-Yemen-assess-vhjk-mediumSquareAt3X.jpg",
-    "title_pt": "Como um aliado iraniano ganhou vantagem na guerra do Iêmen",
-    "summary_pt": "Os Houthis apoiados pelo Irão estão numa série de vitórias, garantindo território estratégico enquanto lutam contra a Arábia Saudita e os seus aliados iemenitas numa guerra assimétrica de desgaste."
   },
   {
     "title": "7-Octobre : en Israël, la Knesset approuve en lecture préliminaire la création d’une commission d’enquête",
@@ -406,6 +434,20 @@
     "summary_pt": "O primeiro-ministro afirma que o governo está apresentando legislação para os três acordos anunciados na semana passada. Diane Taylor é repórter do The Guardian e cobre o tema da migração. Os britânicos interpretam erroneamente muitos dos fatos sobre a migração, e os eleitores do Reform UK são o grupo que mais erra em relação a esses fatos, de acordo com uma nova pesquisa publicada hoje pela King's College University."
   },
   {
+    "title": "El Ejército de Estados Unidos se prepara para detonar sus reservas de un compuesto explosivo en Iowa",
+    "summary": "El estallido puede generar una nube tóxica que amenazaría una franja de 150 kilómetros de largo en ese Estado y Misuri",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/us/2026-11-25/el-ejercito-de-estados-unidos-se-prepara-para-detonar-sus-reservas-de-un-compuesto-explosivo-en-iowa.html",
+    "date": "2026-11-25T13:32:00Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/4VZP2Y6F4JLUNH4LM7ESXRQBME.jpg?auth=36eb04871dfa3602045e32f7808553d6a35601f9b7ac46a5339a6efae74ea703",
+    "summary_pt": "A explosão poderia gerar uma nuvem tóxica que ameaçaria uma faixa de 150 quilômetros naquele estado e no Missouri.",
+    "title_pt": "O Exército dos Estados Unidos se prepara para detonar seu estoque de um composto explosivo em Iowa"
+  },
+  {
     "title": "La Audiencia Nacional revoca el tercer grado del etarra Henri Parot ante la “extrema gravedad” de sus delitos",
     "summary": "El juez le mantiene en un régimen anterior de semilibertad hasta “constatar que los avances tratamentales son sólidos”",
     "category": "Geral",
@@ -556,8 +598,8 @@
     "date": "2026-11-25T13:21:18Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "EUA propõem novas tarifas sobre 14 parceiros comerciais para combater o excesso de capacidade fabril Reuters",
-    "title_pt": "EUA propõem novas tarifas sobre 14 parceiros comerciais para combater o excesso de capacidade fabril"
+    "title_pt": "EUA propõem novas tarifas sobre 14 parceiros comerciais para combater o excesso de capacidade fabril",
+    "summary_pt": "EUA propõem novas tarifas sobre 14 parceiros comerciais para combater o excesso de capacidade fabril Reuters"
   },
   {
     "title": "Kilmar Abrego García, víctima de las deportaciones masivas de Trump, aterriza en Madrid",
@@ -924,6 +966,20 @@
     "summary_pt": "Plymouth, onde os peregrinos se estabeleceram, é acusada de violar um acordo de 28 anos relacionado ao protesto do Dia Nacional de Luto. Quase 30 anos após um confronto violento entre nativos americanos e a polícia, a cidade de Plymouth, em Massachusetts, está sendo processada por \"silenciar\" seu Dia Nacional de Luto – mais uma vez. Um grupo de nativos americanos obteve uma vitória \"mista\" sobre a história."
   },
   {
+    "title": "Ruta 29N | El día contra la violencia de género coincide con la recta final de la campaña electoral",
+    "summary": "El programa especial de análisis de la última semana antes de las elecciones generales pone el foco en la posición de los partidos frente a la violencia machista",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/ruta-29n-el-dia-contra-la-violencia-de-genero-coincide-con-la-recta-final-de-la-campana-electoral.html",
+    "date": "2026-11-25T13:00:00Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/UD2U6JGVNJBO7MBOILILVELW7Q.JPG?auth=d34767fc3c98d3ee963cdcaf1753ba0a0256124f5a8b3906aacd6855d4e05190",
+    "summary_pt": "O programa especial de análise da última semana antes das eleições gerais centra-se na posição dos partidos relativamente à violência sexista",
+    "title_pt": "Rota 29N | O dia contra a violência de género coincide com a reta final da campanha eleitoral"
+  },
+  {
     "title": "Como o PCC e o Comando Vermelho se espalharam pelo Brasil",
     "summary": "Nascidas nas prisões de São Paulo e do Rio de Janeiro, as duas maiores facções do país ampliaram sua atuação e hoje influenciam mercados ilegais em praticamente todas as regiões brasileiras e em rotas internacionais.",
     "category": "Geral",
@@ -1093,7 +1149,7 @@
   },
   {
     "title": "EN DIRECT, guerre en Ukraine : le Kremlin refuse de commenter le bilan estimé de 500 000 à 700 000 soldats russes tués en Ukraine",
-    "summary": "« Le seul à pouvoir officiellement rendre publics des données sur les pertes est le ministère de la défense de la Fédération de Russie », a déclaré son porte-parole, Dmitri Peskov, lors de son briefing quotidien. « Je suggère de ne prêter attention à aucune autre donnée », a-t-il ajouté, en référence aux récentes estimations fondées sur des données piratées ",
+    "summary": "« Le seul à pouvoir officiellement rendre publiques des données sur les pertes est le ministère de la défense de la Fédération de Russie », a déclaré son porte-parole, Dmitri Peskov, lors de son briefing quotidien. « Je suggère de ne prêter attention à aucune autre donnée », a-t-il ajouté, en référence aux récentes estimations fondées sur des données piratée",
     "category": "Conflitos",
     "region": "Global",
     "country": "FR",
@@ -1496,6 +1552,20 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
     "title_pt": "Ramaphosa, da África do Sul, vence batalha judicial sobre ameaça de impeachment",
     "summary_pt": "O arrombamento aconteceu em 2020, quando os ladrões supostamente roubaram maços de notas de dólar americano escondidos dentro de um sofá na fazenda."
+  },
+  {
+    "title": "Walmart-backed PhonePe restarts IPO process, eyes up to $15 billion valuation in market debut, source says",
+    "summary": "Walmart-backed PhonePe restarts IPO process, eyes up to $15 billion valuation in market debut, source says Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkVTQU5UZjA4Wnc3STdBc0xPZnhhdzE5VWxlbUJHTG5XWjFlRHRiZWFUcHdHeThRQTJZVkZqOXFMRWNJR0lQVnlLQkEtSllnQ1ZXVVl4ZmJhTkNxaGwwcGh6bHZIZjZDRmttX09iOU5nS3BKMDB6aWhybHNyc1BiVlRNQ1loSXBUSFB0Z1UwbXJtTW9WRW9wMVBJOU5PU3N0Ul9mT2dibTk4NXZnbVV5Ny1UZFZwdG5vc1BiZXVRemFXT0NFbmc?oc=5",
+    "date": "2026-11-25T12:20:07Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "PhonePe, apoiado pelo Walmart, reinicia processo de IPO e espera avaliação de até US$ 15 bilhões na estreia no mercado, disse fonte",
+    "summary_pt": "PhonePe, apoiado pelo Walmart, reinicia processo de IPO e espera avaliação de até US$ 15 bilhões na estreia no mercado, disse fonte à Reuters"
   },
   {
     "title": "Russian strikes on Ukraine cause power outages in five regions",
@@ -2426,7 +2496,7 @@
   {
     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2732,20 +2802,6 @@
     "summary_pt": "Itália repreende Ucrânia por ataques a navios russos na Líbia Reuters"
   },
   {
-    "title": "Retailers face rising AI cyberattack threat ahead of Black Friday, many uninsured",
-    "summary": "Retailers face rising AI cyberattack threat ahead of Black Friday, many uninsured Reuters",
-    "category": "Segurança cibernética",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQXpGTVZodUxhM09Jb0ZEQ1JXcmt0VkoxUndncmc3cXhoSWNmWlduNlJmRlA3VzhuRktZT2F6ZjJoTGZ5eVZEa01xZ3A2OHBaVjA4dDJkUTR4TkNNUnc5ay1XazlBcHAzSkVuQVpEVGtsMGlPVlNzLVM0X3F3WnJMZklqMTJnMWszSkxBMEZRLWx5cXgyRE9aSEJtSDlELWRCVjByTGhqT0hPQ200Ui03TUJfaGd1NXRjLUVVM21ObUlSSWd0bEktdmtua0VMWlpoRHFadg?oc=5",
-    "date": "2026-11-25T10:28:01Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Os varejistas enfrentam ameaça crescente de ataques cibernéticos de IA antes da Black Friday, muitos sem seguro",
-    "summary_pt": "Varejistas enfrentam ameaça crescente de ataque cibernético de IA antes da Black Friday, muitos sem seguro Reuters"
-  },
-  {
     "title": "Could Netanyahu take Israel into another war with Iran to cling to power?",
     "summary": "As Israeli opposition leader Eisenkot moves to form a government, could war with Iran derail talks and save Netanyahu?",
     "category": "Conflitos",
@@ -2814,6 +2870,33 @@
     "image": "",
     "title_pt": "Papa Leão chama fracasso da COP31 de 'preocupante' e pede ação contra mudanças climáticas",
     "summary_pt": "Papa Leão chama fracasso da COP31 de 'preocupante' e pede ação contra mudança climática Reuters"
+  },
+  {
+    "title": "Large bushfire threatens homes and properties on remote island off Tasmania",
+    "summary": "Blaze spreads significantly across the north of Flinders Island after being started by lightning strikes Get our breaking news email , free app or daily news podcast Homes and properties on a picturesque remote island were under threat on Wednesday night from an out-of-control bushfire that had sent smoke hundreds of kilometres south. The blaze on Flinders I",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
+    "date": "2026-11-25T10:18:31Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/233bcc415b139a4c7cb303ad0a176d9ff6433c48/66_0_880_704/master/880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a3239cfbd27b5759d8030bbb9a37c0a8",
+    "title_pt": "Grande incêndio florestal ameaça casas e propriedades em ilha remota na Tasmânia",
+    "summary_pt": "O incêndio se espalha significativamente pelo norte da Ilha Flinders após ser iniciado por raios Receba nosso e-mail de notícias de última hora, aplicativo gratuito ou podcast de notícias diárias Casas e propriedades em uma pitoresca ilha remota estavam sob ameaça na noite de quarta-feira por um incêndio florestal fora de controle que enviou fumaça centenas de quilômetros ao sul. O incêndio em Flinders I"
+  },
+  {
+    "title": "🔴 Surprise Eurostar strike cancels London, Paris and Brussels trains",
+    "summary": "",
+    "category": "Geral",
+    "region": "Global",
+    "country": "FR",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
+    "date": "2026-11-25T10:14:45Z",
+    "lang": "en",
+    "image": "https://s.france24.com/media/display/5292c004-e8b6-11f1-b877-81da3ab2acbb/w:1280/p:16x9/000-A6LZ3KE.jpg",
+    "title_pt": "🔴 Greve surpresa do Eurostar cancela trens de Londres, Paris e Bruxelas"
   },
   {
     "title": "Lalachus anima en ‘La revuelta’ a ir a votar el domingo y se acuerda de Henar Álvarez: “Estoy agotada”",
@@ -2926,20 +3009,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg",
     "title_pt": "Zoe Kleinman: Ninguém é insubstituível – a menos que você seja Jensen Huang",
     "summary_pt": "O editor de tecnologia e IA da BBC fala sobre como o chefe da Nvidia se tornou impossível de ser demitido."
-  },
-  {
-    "title": "Surprise Eurostar strike cancels London, Paris and Brussels trains",
-    "summary": "Several Eurostar trains connecting London, Paris and Brussels were cancelled in a surprise strike on Wednesday. The train operator did not specify who exactly was striking or the reasons why.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
-    "date": "2026-11-25T10:02:32Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/5292c004-e8b6-11f1-b877-81da3ab2acbb/w:1024/p:16x9/000-A6LZ3KE.jpg",
-    "title_pt": "Greve surpresa do Eurostar cancela trens de Londres, Paris e Bruxelas",
-    "summary_pt": "Vários comboios Eurostar que ligam Londres, Paris e Bruxelas foram cancelados numa greve surpresa na quarta-feira. A operadora do trem não especificou quem exatamente estava em greve ou os motivos."
   },
   {
     "title": "Una jueza cita a Leire Díez y al exjefe de gabinete de Sánchez en el PSOE por presuntas irregularidades en Correos",
@@ -3234,6 +3303,20 @@
     "image": "https://img.lemde.fr/2026/11/25/0/0/8640/5760/1440/960/60/0/8f061d9_ftp-1-leia7bmbacqp-11cf1a8f6d884238b0f622085b572d44-0-f5b115b9cfa14b8496d1ed0f9e521edb.jpg",
     "title_pt": "Em Gaza, um bombardeio israelense mata um oficial de segurança do Hamas e membros de sua família",
     "summary_pt": "Um homem, identificado pelo Ministério do Interior de Gaza como sendo o diretor do Serviço de Segurança Interna do norte do enclave, foi morto junto com sua esposa e suas duas filhas, segundo os serviços de resgate palestinos."
+  },
+  {
+    "title": "All hostages rescued after Colombian security forces storm supermarket, says president",
+    "summary": "Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially held Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a day-long siege in which all the hostages were freed and one hostage-taker was killed. Abelardo de la Espriella, the far-r",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+    "date": "2026-11-25T09:26:25Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/a5c069113373baf36b55dbce4358afd21f67fadf/0_0_4722_3777/master/4722.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d18f1b84593b794dd5f30f93d2820ac9",
+    "title_pt": "Todos os reféns foram resgatados após as forças de segurança colombianas invadirem o supermercado, diz o presidente",
+    "summary_pt": "A operação em que um sequestrador foi morto encerra um cerco de um dia em um shopping center de Cartagena, onde 30 pessoas foram inicialmente mantidas reféns. As forças de segurança colombianas invadiram um supermercado na cidade caribenha de Cartagena, encerrando um cerco de um dia a reféns, com o presidente afirmando que todas as pessoas mantidas reféns foram resgatadas e um sequestrador foi morto. Várias explosões"
   },
   {
     "title": "El Gobierno prohíbe los sabores de los vapeadores y limita la cantidad de nicotina de las bolsitas",
@@ -4011,7 +4094,7 @@
   {
     "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
     "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
-    "category": "Clima e desastres",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4403,34 +4486,6 @@
     "summary_pt": "A população de origem estrangeira em Espanha é muito heterogénea tanto em ideologia como em participação e ainda não tem muito peso nas urnas."
   },
   {
-    "title": "La España Vaciada rehúye el pulso del 29-N por el clima de polarización política",
-    "summary": "Solo Teruel Existe, la única formación provincialista que logró un escaño en 2019, y Soria ¡YA! aspiran a entrar en el Congreso",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/la-espana-vaciada-rehuye-el-pulso-del-29-n-por-el-clima-de-polarizacion-politica.html",
-    "date": "2026-11-25T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/DDCEMCG5OBK6BLTF7GS2J3VCAA.jpg?auth=b0c2bbb0de7134367882b7967de8e95a45d0c21343a35d6a87025bb56a6158c2",
-    "title_pt": "Espanha vazia evita o pulso de 29-N devido ao clima de polarização política",
-    "summary_pt": "Só Existe Teruel, única formação provincialista que conquistou cadeira em 2019, e Soria AGORA! Eles aspiram entrar no Congresso"
-  },
-  {
-    "title": "¿Qué proponen los partidos para abordar la escasez de vivienda en España? Las medidas clave para el 29N",
-    "summary": "Segundo capítulo del especial de Malvivienda sobre los puntos clave de las formaciones en el gran tema de esta campaña electoral",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/videos/2026-11-25/que-proponen-los-partidos-para-abordar-la-escasez-de-vivienda-en-espana-las-medidas-clave-para-el-29n.html",
-    "date": "2026-11-25T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/3JJNNB5VTJAT5DOUOYPLPTK6WU.jpeg?auth=272ee46d609f8a4d2b2d2cebc24c388194df2a8f6788613d6ff4c1d465e33e5f",
-    "title_pt": "O que propõem as partes para resolver a escassez de habitação em Espanha? As principais medidas para 29N",
-    "summary_pt": "Segundo capítulo do especial Malvivienda sobre os pontos-chave das formações no grande tema desta campanha eleitoral"
-  },
-  {
     "title": "Rodrigo Sorogoyen: “Expresar a quién voto y explicar por qué me parece sano”",
     "summary": "El cineasta habla de su miedo “a lo que viene” y de su firma del manifiesto de apoyo a Frente Amplio junto a otras 200 personalidades",
     "category": "Geral",
@@ -4527,20 +4582,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/YZ5J7SBSLZG5HDEDSL3DYCBUNM.jpg?auth=91f8e6ecc16383e96de1d8b2c71b82275288138f1334d8bc7ac20a4e142507e1",
     "title_pt": "“E se tudo fosse um sonho?”: a visibilidade das mulheres na cultura estagna",
     "summary_pt": "Diferentes estudos de associações setoriais confirmam uma distorção entre os avanços estatísticos e a realidade cotidiana"
-  },
-  {
-    "title": "Libia se convierte en el nuevo frente entre Ucrania y Rusia",
-    "summary": "Moscú se alía con Egipto y Emiratos Árabes Unidos frente a Turquía y Qatar en la pugna por el control de un país estratégico y rico en hidrocarburos",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-25/libia-se-convierte-en-el-nuevo-frente-entre-ucrania-y-rusia.html",
-    "date": "2026-11-25T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/HMY3SAZUYRFEFBUM3QODIZK6SY.jpg?auth=ec80c5d3d65550dfafa6dbb886ccce5456b11757066be865f5b6d0746ba6d4c9",
-    "title_pt": "Líbia se torna a nova frente entre Ucrânia e Rússia",
-    "summary_pt": "Moscovo alia-se ao Egipto e aos Emirados Árabes Unidos contra a Turquia e o Qatar na luta pelo controlo de um país estratégico rico em hidrocarbonetos"
   },
   {
     "title": "Dormir con luz es malo para la salud del corazón: “El cuerpo se mantiene en modo de estrés leve durante la noche”",
@@ -4825,7 +4866,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4963,20 +5004,6 @@
     "summary_pt": "O presidente da Colômbia, Abelardo de la Espriella, fala durante uma entrevista coletiva na sede da Procuradoria-Geral, em Bogotá, em 18 de novembro de 2026. Sebastian Barros / AFP Dez anos depois de assinar o acordo de paz que levou as Forças Armadas Revolucionárias da Colômbia (Farc) a depor as armas, o país enfrenta uma nova escalada de violência. O anive"
   },
   {
-    "title": "China launches Shenzhou-24 to Tiangong station",
-    "summary": "A new Chinese crew is on its way to the Tiangong station after a launch that China called a complete success. This includes a Pakistani pilot, who is making a brief visit.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "DE",
-    "source": "Deutsche Welle",
-    "url": "https://www.dw.com/en/china-launches-shenzhou-24-to-tiangong-station/a-80042281?maca=en-rss-en-all-1573-rdf",
-    "date": "2026-11-25T02:56:00Z",
-    "lang": "en",
-    "image": "https://static.dw.com/image/80042190_6.jpg",
-    "title_pt": "China lança Shenzhou-24 para estação Tiangong",
-    "summary_pt": "Uma nova tripulação chinesa está a caminho da estação Tiangong após um lançamento que a China considerou um sucesso total. Isto inclui um piloto paquistanês, que está fazendo uma breve visita."
-  },
-  {
     "title": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
     "summary": "Mr. Markle, 82, was indicted by a grand jury in Los Angeles and is expected to be arraigned in the coming weeks, prosecutors said.",
     "category": "Geral",
@@ -4989,20 +5016,6 @@
     "image": "https://static01.nyt.com/images/2026/12/10/multimedia/10xp-markle-bjgq/10xp-markle-bjgq-mediumSquareAt3X.jpg",
     "title_pt": "Thomas Markle indiciado nos EUA por acusações de posse de materiais de abuso sexual infantil",
     "summary_pt": "Markle, 82 anos, foi indiciado por um grande júri em Los Angeles e deverá ser processado nas próximas semanas, disseram os promotores."
-  },
-  {
-    "title": "Donald Trump set to raise tariffs on 16 major economies",
-    "summary": "Donald Trump is set to raise tariffs on China, the European Union and several other countries, according to reports.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "Sky News",
-    "url": "https://news.sky.com/story/donald-trump-set-to-raise-tariffs-on-16-major-economies-13616253",
-    "date": "2026-11-25T02:45:00Z",
-    "lang": "en",
-    "image": "https://e3.365dm.com/26/11/1920x1080/skynews-donald-trump-us_7415874.jpg?20261125040319",
-    "title_pt": "Donald Trump deve aumentar tarifas sobre 16 principais economias",
-    "summary_pt": "Donald Trump deverá aumentar as tarifas sobre a China, a União Europeia e vários outros países, segundo relatos."
   },
   {
     "title": "Yemen's Houthis threaten to target Jeddah and other Saudi Red Sea ports",
@@ -5205,7 +5218,7 @@
   {
     "title": "Trump's rescue of Nvidia's Huang brings political risks",
     "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5219,7 +5232,7 @@
   {
     "title": "The rising cost of putting food on the table in India",
     "summary": "India's food inflation is broadening, squeezing household budgets.",
-    "category": "Clima e desastres",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5229,20 +5242,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg",
     "title_pt": "O aumento do custo para colocar comida na mesa na Índia",
     "summary_pt": "A inflação de alimentos na Índia está aumentando, o que pesa no orçamento das famílias."
-  },
-  {
-    "title": "Trump administration pauses joint military operations with Ecuador, NYT says",
-    "summary": "Trump administration pauses joint military operations with Ecuador, NYT says Reuters",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSVpvMXZiV3QtTzBUWGJ2NlhRVUlrZndMTnplZXBmUWFWb3NfckVEWm1aRTlhajROMC1OR2lDdVdIZlJ0MFBuTnJpVTd6Y0NTX3dYQ3g0clBNOFZOUlBMemNTdEdOc01iTXM1emN6YXdBd2d6SHVoUmxmbm5IYXBxTGJNX2ZDQzBZcm53MFdndy1qOVcxbTNTQUJXUXFNdmlZeVNvdEhaeUQxX2Y2WE9HNHFoakVlVnJ6NmVWQVV6OTRTdV9H?oc=5",
-    "date": "2026-11-25T01:02:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Administração Trump interrompe operações militares conjuntas com o Equador, diz NYT",
-    "summary_pt": "Administração Trump interrompe operações militares conjuntas com o Equador, diz NYT Reuters"
   },
   {
     "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
