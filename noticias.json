@@ -1,5 +1,31 @@
 [
   {
+    "title": "National Security vs. the Stock Market",
+    "summary": "President Trump swept aside concerns about possible espionage when he lobbied Nvidia’s board to reinstate Jensen Huang as chief executive.",
+    "category": "Economia",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
+    "date": "2026-11-25T05:45:35Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-theworld-nvidia-trump-01-alt-fphm-promo/25int-theworld-nvidia-trump-01-alt-fphm-promo-mediumSquareAt3X.jpg",
+    "title_pt": "Segurança Nacional vs. Mercado de Ações",
+    "summary_pt": "O presidente Trump afastou as preocupações sobre uma possível espionagem quando pressionou o conselho da Nvidia para reintegrar Jensen Huang como presidente-executivo."
+  },
+  {
+    "title": "Australian politics live: ‘A tragedy in the life of our nation’: prime minister apologises to LGBTQ+ veterans",
+    "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+    "date": "2026-11-25T05:43:47Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/abe3e1517beb197540881ae188764c6b9ed1e8d5/268_271_6089_4871/master/6089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=faaaa20b1c1752dea2e3f0a496619101"
+  },
+  {
     "title": "Le succès des IA chinoises auprès des entreprises met les leaders Anthropic et OpenAI sous pression",
     "summary": "Moins coûteux que les outils américains et pouvant être installés sur des serveurs propres aux entreprises, les modèles ouverts de DeepSeek, Moonshot AI, Z.ai ou Alibaba grignotent des parts de marché.",
     "category": "Geral",
@@ -10,18 +36,6 @@
     "date": "2026-11-25T05:30:05Z",
     "lang": "fr",
     "image": "https://img.lemde.fr/2026/11/24/0/0/8640/5760/1440/960/60/0/a9acb34_upload-1-29k5td9ayrer-ap26201254531260.jpg"
-  },
-  {
-    "title": "Australian politics live: ‘A tragedy in the life of our nation’: prime minister apologises to LGBTQ+ veterans",
-    "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-    "date": "2026-11-25T05:28:45Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/abe3e1517beb197540881ae188764c6b9ed1e8d5/268_271_6089_4871/master/6089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=faaaa20b1c1752dea2e3f0a496619101"
   },
   {
     "title": "EN DIRECT, guerre en Ukraine : deux militaires libyens succombent à leurs blessures après les frappes revendiquées par Kiev contre des navires russes à Benghazi",
@@ -51,7 +65,7 @@
   },
   {
     "title": "Au Bangladesh, les ouvriers du textile, secteur clé de l’économie nationale, obtiennent une revalorisation du salaire minimum",
-    "summary": "Début novembre, de nombreux salariés de l’industrie ont manifesté, pendant plusieurs jours, pour réclamer une hausse de leurs salaires, sur fond de hausse du coût de la vie. La principale association patronale du textile a estimé à plusieurs centaines de millions d’euros les pertes engendrées par ce mouvement de protestation.",
+    "summary": "Début novembre, de nombreux salariés, confrontés à la cherté du coût de la vie, ont manifesté pendant plusieurs jours pour réclamer une hausse des rémunérations. La principale association patronale du secteur a estimé à plusieurs centaines de millions d’euros les pertes engendrées par ce mouvement de protestation.",
     "category": "Geral",
     "region": "Global",
     "country": "FR",
@@ -491,28 +505,16 @@
     "image": "https://imagenes.elpais.com/resizer/v2/NO7HNMIOTBEHPBGGJGO3FFVFJU.jpg?auth=1d005fcfd51c1929f7d1d0891cadab378a1f25c42295cd21a6b480f08ba25b53"
   },
   {
-    "title": "Nirosta Steel, de conductor de Uber a estrella musical con 69: “Pensé que esto me pasaría cuando era joven, pero no pasó”",
-    "summary": "El hallazgo de 2026 es un escocés llamado Steven Hall que vivió por todo el mundo, conoció a leyendas de la música y el arte y grabó cientos de canciones durante décadas. Pero el mundo no las escuchó hasta este año",
+    "title": "Tara Davis-Woodhall, medallista olímpica: “Hay gente a la que no le parece ‘sexy’ tener músculos, pero no podría hacer lo que hago sin estas formas”",
+    "summary": "De la importancia de poder lucir unas trenzas en la pista a la necesidad de reconocer que las cosas no son fáciles para una deportista de élite. La atleta olímpica, embajadora de la nueva fragancia de Boss, defiende la relevancia de los modelos a seguir",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
     "source": "El País",
-    "url": "https://elpais.com/icon/2026-11-25/nirosta-steel-de-conductor-de-uber-a-estrella-musical-con-69-pense-que-esto-me-pasaria-cuando-era-joven-pero-no-paso.html",
+    "url": "https://elpais.com/smoda/belleza/2026-11-25/tara-davis-woodhall-medallista-olimpica-hay-gente-a-la-que-no-le-parece-sexy-tener-musculos-pero-no-podria-hacer-lo-que-hago-sin-estas-formas.html",
     "date": "2026-11-25T04:30:01Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/KRVONOU5GVFJNLARXGEV3SSUNY.jpg?auth=4eb615f14382e2d47b20026464b6078c8f759a2f610878a885a48ab6d890a12a"
-  },
-  {
-    "title": "Dormir con luz es malo para la salud del corazón: “El cuerpo se mantiene en modo de estrés leve durante la noche”",
-    "summary": "Un estudio revela que una mayor exposición a luminosidad en las horas nocturnas se asocia con paredes cardíacas más gruesas y una menor capacidad de contracción del músculo",
-    "category": "Saúde",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/salud-y-bienestar/2026-11-25/dormir-con-luz-es-malo-para-la-salud-del-corazon-el-cuerpo-se-mantiene-en-modo-de-estres-leve-durante-la-noche.html",
-    "date": "2026-11-25T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/KOKUB4VVVFCG7KVURKVBL6DBAA.jpg?auth=0082a10cded98451899935eb7d753f1afea990543388052362d99462a6f818ce"
+    "image": "https://imagenes.elpais.com/resizer/v2/NUWLUWGZLFGJLI6ADJ5EANY5BQ.jpg?auth=c25a87e66677deaf9f75c471934d47ded96c6a9abe36ac3482f7a77a68d19119"
   },
   {
     "title": "¡Felipe, Felipe!",
@@ -611,16 +613,28 @@
     "image": "https://imagenes.elpais.com/resizer/v2/76WXRTNJ5XH2NYZFLFNMN7XKTA.jpg?auth=09da2eaafff9954489ed5f9cc1283cdd5419d3cec518d12f95119e71af3216bd"
   },
   {
-    "title": "Tara Davis-Woodhall, medallista olímpica: “Hay gente a la que no le parece ‘sexy’ tener músculos, pero no podría hacer lo que hago sin estas formas”",
-    "summary": "De la importancia de poder lucir unas trenzas en la pista a la necesidad de reconocer que las cosas no son fáciles para una deportista de élite. La atleta olímpica, embajadora de la nueva fragancia de Boss, defiende la relevancia de los modelos a seguir",
+    "title": "Dormir con luz es malo para la salud del corazón: “El cuerpo se mantiene en modo de estrés leve durante la noche”",
+    "summary": "Un estudio revela que una mayor exposición a luminosidad en las horas nocturnas se asocia con paredes cardíacas más gruesas y una menor capacidad de contracción del músculo",
+    "category": "Saúde",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/salud-y-bienestar/2026-11-25/dormir-con-luz-es-malo-para-la-salud-del-corazon-el-cuerpo-se-mantiene-en-modo-de-estres-leve-durante-la-noche.html",
+    "date": "2026-11-25T04:30:01Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/KOKUB4VVVFCG7KVURKVBL6DBAA.jpg?auth=0082a10cded98451899935eb7d753f1afea990543388052362d99462a6f818ce"
+  },
+  {
+    "title": "Nirosta Steel, de conductor de Uber a estrella musical con 69: “Pensé que esto me pasaría cuando era joven, pero no pasó”",
+    "summary": "El hallazgo de 2026 es un escocés llamado Steven Hall que vivió por todo el mundo, conoció a leyendas de la música y el arte y grabó cientos de canciones durante décadas. Pero el mundo no las escuchó hasta este año",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
     "source": "El País",
-    "url": "https://elpais.com/smoda/belleza/2026-11-25/tara-davis-woodhall-medallista-olimpica-hay-gente-a-la-que-no-le-parece-sexy-tener-musculos-pero-no-podria-hacer-lo-que-hago-sin-estas-formas.html",
+    "url": "https://elpais.com/icon/2026-11-25/nirosta-steel-de-conductor-de-uber-a-estrella-musical-con-69-pense-que-esto-me-pasaria-cuando-era-joven-pero-no-paso.html",
     "date": "2026-11-25T04:30:01Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/NUWLUWGZLFGJLI6ADJ5EANY5BQ.jpg?auth=c25a87e66677deaf9f75c471934d47ded96c6a9abe36ac3482f7a77a68d19119"
+    "image": "https://imagenes.elpais.com/resizer/v2/KRVONOU5GVFJNLARXGEV3SSUNY.jpg?auth=4eb615f14382e2d47b20026464b6078c8f759a2f610878a885a48ab6d890a12a"
   },
   {
     "title": "Ernest Urtasun: “A las medidas sobre vivienda hay que darles un poco de tiempo”",
@@ -845,18 +859,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/BV7XNYLXJJC65D2X47XM2NSWCU.jpg?auth=ddcd8e86c3fed005ce2ba9e01558adb2010b0c04b7c34d7381894bb4ad5b705e"
   },
   {
-    "title": "Cómo saber si se puede comer un alimento que ha pasado su fecha de consumo preferente",
-    "summary": "Los sentidos y las fechas de duración nos pueden indicar si lo que vamos a comer es seguro o no, pero no siempre basta con eso. Y no, ni la miel ni las especias son eternas, aunque lo parezca",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/gastronomia/el-comidista/2026-11-25/como-saber-si-se-puede-comer-un-alimento-que-ha-pasado-su-fecha-de-consumo-preferente.html",
-    "date": "2026-11-25T04:30:00Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/RK2QKOTLMJB3LLAX7YS7GKTZLY.jpg?auth=111fe8e13cc9b3926778352d8f6e318d996b154ec90237e57c3d69a572d4a3af"
-  },
-  {
     "title": "Colin Farrell y Emma Fogarty, la amistad que ha animado al actor a exponer su vida privada por una causa",
     "summary": "El intérprete protagoniza un documental sobre esta mujer irlandesa que nació con epidermólisis ampollosa. En ‘The Slightest Touch’ también habla sobre sus hijos, la relación con su padre o sus adicciones. “No tengo interés en que se sepa nada sobre mi vida, pero quería contar la historia de Emma”, dice en la cinta que se estrena este miércoles en HBO Max",
     "category": "Geral",
@@ -867,6 +869,18 @@
     "date": "2026-11-25T04:30:00Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/ZBBNOMYUPVD4JAYOSUDPL7VETY.jpg?auth=2617e2584a119e8ea7b9359e9c6f5b6ab306e61ff81dddb1aab4ac88dcbafe6a"
+  },
+  {
+    "title": "Cómo saber si se puede comer un alimento que ha pasado su fecha de consumo preferente",
+    "summary": "Los sentidos y las fechas de duración nos pueden indicar si lo que vamos a comer es seguro o no, pero no siempre basta con eso. Y no, ni la miel ni las especias son eternas, aunque lo parezca",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/gastronomia/el-comidista/2026-11-25/como-saber-si-se-puede-comer-un-alimento-que-ha-pasado-su-fecha-de-consumo-preferente.html",
+    "date": "2026-11-25T04:30:00Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/RK2QKOTLMJB3LLAX7YS7GKTZLY.jpg?auth=111fe8e13cc9b3926778352d8f6e318d996b154ec90237e57c3d69a572d4a3af"
   },
   {
     "title": "David Ferrer: “Quiero ganar esta Copa Davis, pero no me va la vida en ello”",
@@ -1071,7 +1085,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1209,7 +1223,7 @@
   {
     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2035,7 +2049,7 @@
   {
     "title": "Why tiny cars are taking off across Europe",
     "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3655,20 +3669,6 @@
     "summary_pt": "Especialistas de todo o mundo mapeiam o progresso do desenvolvimento da IA a cada cinco anos."
   },
   {
-    "title": "National Security vs. the Stock Market",
-    "summary": "President Trump swept aside concerns about possible espionage when he lobbied Nvidia’s board to reinstate Jensen Huang as chief executive.",
-    "category": "Economia",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
-    "date": "2026-11-24T20:56:04Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-theworld-nvidia-trump-01-alt-fphm-promo/25int-theworld-nvidia-trump-01-alt-fphm-promo-mediumSquareAt3X.jpg",
-    "title_pt": "Segurança Nacional vs. Mercado de Ações",
-    "summary_pt": "O presidente Trump afastou as preocupações sobre uma possível espionagem quando pressionou o conselho da Nvidia para reintegrar Jensen Huang como presidente-executivo."
-  },
-  {
     "title": "AI consumes less water per dollar spent than almond milk or golf, Enverus report says",
     "summary": "AI consumes less water per dollar spent than almond milk or golf, Enverus report says Reuters",
     "category": "Geral",
@@ -4345,7 +4345,7 @@
   {
     "title": "Faisal Islam: Fears over the AI boom haven't gone away",
     "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5241,18 +5241,6 @@
     "summary_pt": "Bayer retirará medicamento renal Kerendia da Alemanha Reuters"
   },
   {
-    "title": "CAS ruling in favour of Senegal reasserts that referee's decision is final",
-    "summary": "CAS ruling in favour of Senegal reasserts that referee's decision is final Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSTdKUzQ2ampEcUdsZXhFSW5IWlJmcmpYNzh5cDlVSGFybl9obDFGY2lvLUhSYXFpdG1MM1N4eWtFb2lqZHRTNkVaeThQQXhJT0hZNHJwU0JzV241TkJaUFRfdGJ4Vk1Fd1E2LXZXV2NkMWYtWm53MFpPckRZWndYQW1RRF9GRUhFRk5YeEhHMm8zeTNIdFAwa0hycTdZSkpLZGdEUzVucElhdFhzZDNSMFd1QVV2ZzMt?oc=5",
-    "date": "2026-11-24T15:11:43Z",
-    "lang": "en",
-    "image": ""
-  },
-  {
     "title": "Gisèle Pelicot to sue publisher after nude images sent to media",
     "summary": "Gisèle Pelicot, who spoke out about being drugged and raped by her husband and 50 other men, says she's been \"once again humiliated.\"",
     "category": "Geral",
@@ -5293,6 +5281,18 @@
     "image": "https://s2-g1.glbimg.com/rB9PXKJnEfVwYc-LBGrfXbdxyz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/c/Bxo4OwTuyTQvsaxl6tEQ/design-sem-nome-2026-11-24t075236.395.jpg",
     "title_pt": "VÍDEO: ilha deserta na China é transformada em refúgio para gatos de rua",
     "summary_pt": "Ilha deserta na China vira refúgio para gatos de rua Em uma pequena ilha de cerca de 1.500 metros quadrados na Nova Área de Tianfu, em Chengdu, capital da província de Sichuan, no sudoeste da China, uma área que antes estava abandonada foi transformada em um refúgio para gatos de rua. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O espaço não a"
+  },
+  {
+    "title": "China probes Shanghai party boss Chen Jining, marking fourth Politburo member to fall since 2025",
+    "summary": "China probes Shanghai party boss Chen Jining, marking fourth Politburo member to fall since 2025 Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWENXdFJEUVN5WUF1ODgwSWdpRUZiSWk0UVFoX3QzbVF4N19LRDJmaUdpTm1ZVlU2Rmx2Zm5hX1RleFg2aDRjWlN6QTBCM1JNc0VOZ2FRbEFvVUYyNF96REhoU0RsUTVyVkYzUXVfdmFHaTQxMnk2WVZQWU1XR25NaGV0TERXS2RtVmR6bVBCZ1loZHRzZzlQajlZdjkySHhpdDJV?oc=5",
+    "date": "2026-11-24T14:56:18Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Migrant caravans head north through Mexico towards US border",
