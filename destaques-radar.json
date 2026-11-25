@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T10:37:01.639359Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T10:43:34.836420Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os próprios números da Rússia mostram que ela perdeu quase 500 mil pessoas na guerra da Ucrânia",
@@ -15,6 +15,19 @@
       "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
       "published_on": "24/11/2026 20:56 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Netanyahu poderia levar Israel a outra guerra com o Irã para se apegar ao poder?",
+      "summary": "Enquanto o líder da oposição israelense, Eisenkot, se prepara para formar um governo, a guerra com o Irã poderia atrapalhar as negociações e salvar Netanyahu?",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
+      "published_on": "25/11/2026 06:27 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06b7c8-1795602376.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
@@ -31,16 +44,16 @@
       "selection": "automatic"
     },
     {
-      "title": "A guerra na Ucrânia pelas cartas de Olga e Sasha: \"Quando meu coral incluiu um compositor russo no repertório, fiquei com náuseas\"",
-      "summary": "Olga e Sasha Kurovska são duas irmãs ucranianas. Uma mora em Paris, a outra em Kiev. Enquanto Olga se indigna ao ver os europeus continuarem a promover a cultura russa em detrimento dos artistas ucranianos, Sasha, assustada com os ataques diários, desiste de sair do seu bairro.",
+      "title": "O Irã raciona eletricidade: quão profundamente as sanções e o bloqueio dos EUA estão afetando o país?",
+      "summary": "O Irã, um dos principais produtores de petróleo, está enfrentando uma crise energética cada vez mais grave à medida que o inverno se aproxima.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
+      "category": "Economia",
       "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/25/la-guerre-en-ukraine-a-travers-les-lettres-d-olga-et-de-sasha-quand-ma-chorale-a-inscrit-un-auteur-russe-au-repertoire-j-ai-eu-un-haut-le-c-ur_6815078_4500055.html",
-      "published_on": "25/11/2026 06:00 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/24/1005/0/743/495/1440/960/60/0/819db4f_ftp-1-2u98k7bodldn-452799-3548826.jpg",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/11/25/iran-rations-electricity-how-deeply-are-us-sanctions-blockade-biting?traffic_source=rss",
+      "published_on": "25/11/2026 06:01 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b069e778520-1795595895.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://news.sky.com/story/donald-trump-set-to-raise-tariffs-on-16-major-economies-13616253",
       "published_on": "24/11/2026 22:45 (Boa Vista)",
       "image": "https://e3.365dm.com/26/11/1920x1080/skynews-donald-trump-us_7415874.jpg?20261125040319",
-      "selection": "automatic"
-    },
-    {
-      "title": "Clínica geral suspende consultas de rotina devido ao \"tsunami\" de demanda",
-      "summary": "A Aberfoyle Medical Practice, em Derry, afirma que seus médicos atendem 60 pacientes por dia cada um.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm62pze6xn37o?at_medium=RSS&at_campaign=rss",
-      "published_on": "24/11/2026 14:12 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca8/live/4160e700-e7e6-11f1-8b26-c1adae33e7f2.jpg",
       "selection": "automatic"
     }
   ]
