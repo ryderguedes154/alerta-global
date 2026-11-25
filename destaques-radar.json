@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T14:33:10.034634Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T14:38:17.629366Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os próprios números da Rússia mostram que ela perdeu quase 500 mil pessoas na guerra na Ucrânia",
@@ -15,6 +15,19 @@
       "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
       "published_on": "25/11/2026 08:21 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Na Ucrânia, face ao aumento dos ataques russos às pontes, Kiev considera construir um túnel sob o Dnieper",
+      "summary": "Sob o fogo incessante de drones e mísseis russos, a vulnerabilidade das pontes do Dnieper representa o risco de um país ser dividido em dois. Para combater esta ameaça, um debate aceso opõe os defensores de um túnel sob o rio contra aqueles que consideram que o projecto demora demasiado tempo a ser executado em tempos de guerra.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "FR",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/international/article/2026/11/25/en-ukraine-face-a-la-multiplication-des-frappes-russes-sur-les-ponts-kiev-songe-a-se-doter-d-un-tunnel-sous-le-dniepr_6815113_3210.html",
+      "published_on": "25/11/2026 10:30 (Boa Vista)",
+      "image": "https://img.lemde.fr/2026/11/24/2/0/4000/2666/1440/960/60/0/8828df4_upload-1-fs1htbedr8cl-sujet-ponts-kiev-2.jpg",
       "selection": "automatic"
     },
     {
@@ -54,19 +67,6 @@
       "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
       "published_on": "25/11/2026 09:40 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-nkorea-swiss-kctw/25int-nkorea-swiss-kctw-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Forças líbias ameaçam retaliação pelo ataque da Ucrânia a navios russos",
-      "summary": "O ataque de um drone ucraniano na costa da Líbia matou dois oficiais da Marinha líbia, de acordo com as forças que controlam o leste do país.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html",
-      "published_on": "25/11/2026 09:25 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/25int-libya-ships-ppal/23int-ukraine-libya-01-wljg-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
