@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T10:00:13.316435Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T10:05:49.567825Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os próprios números da Rússia mostram que ela perdeu quase 500 mil pessoas na guerra da Ucrânia",
@@ -18,29 +18,29 @@
       "selection": "automatic"
     },
     {
-      "title": "Irã denuncia o uso de IA pelos EUA durante a guerra",
-      "summary": "O embaixador do Irã na ONU afirmou que o uso de IA na guerra viola as obrigações dos EUA nos termos do direito internacional.",
+      "title": "A guerra na Ucrânia pelas cartas de Olga e Sasha: \"Quando meu coral incluiu um compositor russo no repertório, fiquei com náuseas\"",
+      "summary": "Olga e Sasha Kurovska são duas irmãs ucranianas. Uma mora em Paris, a outra em Kiev. Enquanto Olga se indigna ao ver os europeus continuarem a promover a cultura russa em detrimento dos artistas ucranianos, Sasha, assustada com os ataques diários, desiste de sair do seu bairro.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "FR",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/25/la-guerre-en-ukraine-a-travers-les-lettres-d-olga-et-de-sasha-quand-ma-chorale-a-inscrit-un-auteur-russe-au-repertoire-j-ai-eu-un-haut-le-c-ur_6815078_4500055.html",
+      "published_on": "25/11/2026 06:00 (Boa Vista)",
+      "image": "https://img.lemde.fr/2026/11/24/1005/0/743/495/1440/960/60/0/819db4f_ftp-1-2u98k7bodldn-452799-3548826.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Irã denuncia o uso de IA pelos EUA na guerra",
+      "summary": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "US",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-      "published_on": "25/11/2026 04:45 (Boa Vista)",
+      "published_on": "25/11/2026 05:57 (Boa Vista)",
       "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Coreia do Norte expulsa diplomatas suíços em briga ligada à guerra na Ucrânia",
-      "summary": "A medida seguiu-se à decisão da Suíça de sancionar um acampamento internacional de jovens na Coreia do Norte, que é acusado de acolher crianças ucranianas para doutrinação.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
-      "published_on": "25/11/2026 03:29 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-nkorea-swiss-kctw/25int-nkorea-swiss-kctw-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
@@ -57,7 +57,7 @@
       "selection": "automatic"
     },
     {
-      "title": "Imigrante deportado por engano pelo governo Trump deixa os EUA",
+      "title": "Imigrante deportado por engano que se tornou símbolo da política migratória de Trump deixa os EUA voluntariamente",
       "summary": "Kilmar Abrego, o imigrante cuja deportação indevida para El Salvador o tornou um símbolo das políticas imigratórias agressivas do presidente dos EUA, Donald Trump, comparece para uma apresentação no escritório local do ICE em Baltimore, três dias após sua liberação da custódia criminal no Tennessee — em Baltimore, Maryland, EUA, 25 de agosto de 2025. REUTERS",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Geral",
@@ -66,7 +66,7 @@
       "source": "G1 Mundo",
       "url": "https://g1.globo.com/mundo/noticia/2026/11/25/imigrante-deportado-por-engano-pelo-governo-trump-deixa-os-eua.ghtml",
       "published_on": "25/11/2026 05:40 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/vB7gxVBjNOaxeY2fkI_GecuC0yU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/h/YiZEcUS1GwPWMKCZMEZg/5kq2mrf3ovla3cf7nptiltyq5m.jpg",
+      "image": "https://s2-g1.glbimg.com/R7N7_dQ_MoDV2vYHWVhyDRGD7pY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/d/sBEjG5Syy19f7OLVb4YQ/5kq2mrf3ovla3cf7nptiltyq5m-1-.jpg",
       "selection": "automatic"
     },
     {
