@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T15:10:06.990875Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T15:15:17.613409Z",
+  "status": "checado",
   "items": [
     {
       "title": "Cinco jatos militares russos atingidos em ataque a campo de aviação, diz Ucrânia",
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "O Kremlin se recusa a comentar as notícias de que 700 mil soldados russos foram mortos na guerra na Ucrânia",
+      "summary": "Na quarta-feira, o porta-voz do Kremlin, Dmitry Peskov, se recusou a comentar as notícias veiculadas por veículos de comunicação russos e internacionais de que cerca de 700 mil soldados russos já teriam sido mortos na guerra na Ucrânia. As reportagens se basearam em dados hackeados da agência oficial de estatísticas da Rússia. Peskov disse que apenas o Minis",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "FR",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20261125-kremlin-declines-comment-reports-700-000-russian-soldiers-killed-ukraine-war",
+      "published_on": "25/11/2026 11:14 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/537505cc-e8de-11f1-8609-29d00e23de9a/w:1024/p:16x9/AP26308532895133.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Os EUA anunciam novas tarifas para vários países, incluindo a China",
       "summary": "Os novos impostos afetariam muitos dos maiores parceiros comerciais dos Estados Unidos, incluindo a China e a União Europeia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,19 +54,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
       "published_on": "25/11/2026 10:52 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Na Ucrânia, face ao aumento dos ataques russos às pontes, Kiev considera construir um túnel sob o Dnieper",
-      "summary": "Sob o fogo incessante de drones e mísseis russos, a vulnerabilidade das pontes do Dnieper representa o risco de um país ser dividido em dois. Para combater esta ameaça, um debate aceso opõe os defensores de um túnel sob o rio contra aqueles que consideram que o projecto demora demasiado tempo a ser executado em tempos de guerra.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/international/article/2026/11/25/en-ukraine-face-a-la-multiplication-des-frappes-russes-sur-les-ponts-kiev-songe-a-se-doter-d-un-tunnel-sous-le-dniepr_6815113_3210.html",
-      "published_on": "25/11/2026 10:30 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/24/2/0/4000/2666/1440/960/60/0/8828df4_upload-1-fs1htbedr8cl-sujet-ponts-kiev-2.jpg",
       "selection": "automatic"
     },
     {
