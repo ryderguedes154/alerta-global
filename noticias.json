@@ -1,5 +1,45 @@
 [
   {
+    "title": "China launches first foreign astronaut to its space station",
+    "summary": "China has launched the Shenzhou 24 spacecraft with three astronauts, sending the first foreign crew member to its space station.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/news/china-launches-shenzhou-24-spacecraft/",
+    "date": "2026-11-25T01:38:29Z",
+    "lang": "en",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/da8b942a-eba9-4dd6-a853-df810d33acb9/thumbnail/1200x630/99f10cec4fd143c51658b03d8ff68e9a/ap26328810783744.jpg"
+  },
+  {
+    "title": "Haddad sinaliza a Lula disposição de não integrar equipe ministerial",
+    "summary": "Ex-ministro da Fazenda discutiu nesta terça-feira com o presidente a nova etapa do ajuste fiscal e seu futuro político",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/politica/haddad-sinaliza-a-lula-disposicao-de-nao-integrar-equipe-ministerial/",
+    "date": "2026-11-25T01:33:13Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/0d7a3564.jpg-e1779476300234.jpeg?w=200",
+    "title_pt": "Haddad sinaliza a Lula disposição de não integrar equipe ministerial",
+    "summary_pt": "Ex-ministro da Fazenda discutiu nesta terça-feira com o presidente a nova etapa do ajuste fiscal e seu futuro político"
+  },
+  {
+    "title": "Sinais emitidos por comércio afetavam pousos no Aeroporto de Guarulhos",
+    "summary": "Uma fiscalização da Anatel utilizou drones com analisadores de espectro para localizar o ponto exato das emissões, que foi identificado também na cidade de Guarulhos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sinais-emitidos-por-comercio-afetavam-pousos-no-aeroporto-de-guarulhos/",
+    "date": "2026-11-25T01:28:55Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/APURACAO-CNN-3.jpg?w=200",
+    "title_pt": "Sinais emitidos por comércio afetavam pousos no Aeroporto de Guarulhos",
+    "summary_pt": "Uma fiscalização da Anatel utilizou drones com analisadores de espectro para localizar o ponto exato das emissões, que foi identificado também na cidade de Guarulhos"
+  },
+  {
     "title": "Politics live: Marles apologises to LGBTQ+ veterans; Australia and Solomon Islands sign ‘historic’ treaty",
     "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero",
     "category": "Geral",
@@ -52,6 +92,20 @@
     "image": "https://s.france24.com/media/display/c5b81ec4-d3af-11f1-94da-695cb59fade5/w:1024/p:16x9/2026-10-16T085801Z-1180937654-RC284OA1JXI9-RTRMADP-3-EU-SUMMIT.jpg"
   },
   {
+    "title": "Alckmin seria boa sinalização de Lula ao mercado, avalia economista",
+    "summary": "Deborah Bizarria afirma, ao Hora H, que escolha de Alckmin para Ministério da Fazenda seria um primeiro aceno ao mercado, mas que autonomia e apoio da Casa Civil seriam essenciais",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/alckmin-seria-boa-sinalizacao-de-lula-ao-mercado-avalia-economista/",
+    "date": "2026-11-25T01:16:41Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM4O1NQ-BASEIMAGE.jpg?w=200",
+    "title_pt": "Alckmin seria boa sinalização de Lula ao mercado, avalia economista",
+    "summary_pt": "Deborah Bizarria afirma, ao Hora H, que escolha de Alckmin para Ministério da Fazenda seria um primeiro aceno ao mercado, mas que autonomia e apoio da Casa Civil seriam essenciais"
+  },
+  {
     "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
     "summary": "President took credit for convincing Nvidia’s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soared Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Office at 11am ET. He will be awarding the nation’s highest",
     "category": "Geral",
@@ -68,7 +122,7 @@
   {
     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -122,7 +176,7 @@
   {
     "title": "The rising cost of putting food on the table in India",
     "summary": "India's food inflation is broadening, squeezing household budgets.",
-    "category": "Economia",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -475,7 +529,7 @@
     "url": "https://www.cnnbrasil.com.br/politica/em-carta-pt-diz-que-urnas-valem-mais-que-poder-economico-e-ignora-fiscal/",
     "date": "2026-11-25T00:22:59Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Renata-2.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Captura-de-tela-2026-08-22-120912-e1787411426982.png?w=200",
     "title_pt": "Em carta, PT diz que urnas valem mais que poder econômico e ignora fiscal",
     "summary_pt": "Partido lança nova Carta ao Povo Brasileiro 24 anos depois, se define como \"democrático e socialista\", agradece Alckmin e cita \"importante contribuição\" de Janones"
   },
@@ -716,18 +770,6 @@
     "summary_pt": "Em declaração ao Conselho de Segurança, representante do país afirmou que \"a responsabilidade e a prestação de contas não podem ser transferidas para as máquinas\""
   },
   {
-    "title": "Nidal Hasan asks US judge for stay of execution for Fort Hood murders",
-    "summary": "Nidal Hasan asks US judge for stay of execution for Fort Hood murders Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUmZGVko4b1BpV0JWMHI2Y3FRRzlvUmQ1NjVic0FxSnpDbTlhT3U3M3oxQ08yd01sbVVlTVl5Wkd5V25YYmloMGJLbWhBQVRaYzNxeVNiVjc4NnctaDVVZ0tyODkxdXlpVGdPYnUtUkZYd1Bua1AxOEl4OVQ3MTh0UTUzN1VuQnFZdGRaTWVKQ0hCR1dvMmhuT3FobWZNdHo1cFBHdUlCVkdZTlUtQW9mQUIwVmtGTjFTa09IakdWdw?oc=5",
-    "date": "2026-11-24T23:40:00Z",
-    "lang": "en",
-    "image": ""
-  },
-  {
     "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
     "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
     "category": "Geral",
@@ -938,6 +980,18 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/02/rafael-sobis-7-e1708885476988.png?w=200",
     "title_pt": "Baptista segue no Inter após derrota e busca milagre contra o rebaixamento",
     "summary_pt": "Treinador permanece para os dois últimos jogos na disputa pela permanência na Série A do Campeonato Brasileiro mesmo após derrota em casa para o Vitória"
+  },
+  {
+    "title": "Salvadoran migrant Kilmar Abrego Garcia to leave US voluntarily, US media reports",
+    "summary": "Salvadoran migrant Kilmar Abrego Garcia to leave US voluntarily, US media reports Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObmstVGdVdGg5bDFyaTJ3MTRxdU1Pb1BhQVRrejJkNFgwMXdQNnRvWDg1VXZkMU0xWjd3dGlqcjRYQUF1TkRlSVFPQTRGMnlwM0hnbThjRE5ic2FtcVdnQmxuemJHQ1BjbDY1M2hsZWs3dHNmSWEzci1PSEkxRFd1M3V1eTRuYi1VWkRwLW4yUGdWMlpMd2I5bmFEd1pJWTI3VGxSZG5Ib3FnS01kbHRRSkhZeXdIMmV1ZDlRWGFOUl9Idm1wLVMw?oc=5",
+    "date": "2026-11-24T23:11:01Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "US Army sets out measures to limit lead dust from Iowa explosives blast",
@@ -1565,7 +1619,7 @@
     "url": "https://www.cnnbrasil.com.br/politica/congresso-vai-atuar-em-defesa-de-van-hattem-em-acao-no-stf-diz-alcolumbre/",
     "date": "2026-11-24T21:59:06Z",
     "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Renata-2.jpg?w=200",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Captura-de-tela-2026-08-22-120912-e1787411426982.png?w=200",
     "title_pt": "Congresso vai atuar em defesa de Van Hattem em ação no STF, diz Alcolumbre",
     "summary_pt": "Deputado pode se tornar réu por injúria e calúnia contra delegado da Polícia Federal; presidente do Senado colocou advocacia da Casa à disposição após pedido da oposição"
   },
@@ -1794,34 +1848,6 @@
     "summary_pt": "Reino Unido alerta sobre ameaça de sabotagem russa a empresas que abastecem a Ucrânia Reuters"
   },
   {
-    "title": "Pacote fiscal possibilita ajustes no orçamento e reflete na queda do dólar",
-    "summary": "Segundo o analista de Economia Gabriel Monteiro, aprovação do pacote fiscal no Congresso gera alívio no mercado, mas especialistas ainda consideram medida insuficiente para ajuste das contas públicas",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/pacote-fiscal-possibilita-ajustes-no-orcamento-e-reflete-na-queda-do-dolar/",
-    "date": "2026-11-24T21:30:11Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/09/GettyImages-1128678254-e1748729848829.jpg?w=200",
-    "title_pt": "Pacote fiscal possibilita ajustes no orçamento e reflete na queda do dólar",
-    "summary_pt": "Segundo o analista de Economia Gabriel Monteiro, aprovação do pacote fiscal no Congresso gera alívio no mercado, mas especialistas ainda consideram medida insuficiente para ajuste das contas públicas"
-  },
-  {
-    "title": "O concurso Miss Universo está mergulhado no caos. Novamente",
-    "summary": "Renúncias de jurados e a desistência de uma candidata envolverem o maior concurso de beleza do mundo em escândalo",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/o-concurso-miss-universo-esta-mergulhado-no-caos-novamente/",
-    "date": "2026-11-24T21:29:30Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/coroa-miss.jpg?w=200",
-    "title_pt": "O concurso Miss Universo está mergulhado no caos. Novamente",
-    "summary_pt": "Renúncias de jurados e a desistência de uma candidata envolverem o maior concurso de beleza do mundo em escândalo"
-  },
-  {
     "title": "Jensen Huang's Nvidia comeback sends AI videos into overdrive",
     "summary": "Just 11 days after resigning as Nvidia CEO, Jensen Huang’s return has unleashed a fresh wave of AI-generated videos. But the internet has changed its tune: while last week’s memes mocked Huang, many now celebrate his comeback. One viral video purportedly showing him dancing is actually AI-manipulated footage of a basketball coach from 2016. From humiliation ",
     "category": "Geral",
@@ -1848,20 +1874,6 @@
     "image": "",
     "title_pt": "Reféns detidos em supermercado de Cartagena, Colômbia, após roubo fracassado de carro blindado",
     "summary_pt": "Reféns detidos em supermercado de Cartagena, Colômbia, após falha no sequestro de carro blindado Reuters"
-  },
-  {
-    "title": "Ouro fecha em queda com perspectiva de alta nos juros pelo Fed",
-    "summary": "Recuo foi mais intenso na prata, que registrou queda superior a 5% na sessão",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/ouro-fecha-em-queda-com-perspectiva-de-alta-adicional-nos-juros-pelo-fed-e-de-olho-em-pce/",
-    "date": "2026-11-24T21:26:37Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/pexels-hyundaimotorgroup-19319639.jpg?w=200",
-    "title_pt": "Ouro fecha em queda com perspectiva de alta nos juros pelo Fed",
-    "summary_pt": "Recuo foi mais intenso na prata, que registrou queda superior a 5% na sessão"
   },
   {
     "title": "ONU aprova proposta do Brasil de turismo amigável para muçulmanos",
@@ -1894,7 +1906,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2300,6 +2312,18 @@
     "forcedSev": "low",
     "title_pt": "Terremoto de magnitude 4.6 — 49 km SW of Ovalle, Chile",
     "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
+  },
+  {
+    "title": "Brazil zoo hails birth of Spix's macaw chick as boost for species' recovery",
+    "summary": "Brazil zoo hails birth of Spix's macaw chick as boost for species' recovery Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWtlTXBLWGllRW9vTkVSdFpFaEdLTWtNWXNDYkFhZTdId3R1VWwxZlVpVXRlV0I1SnoyamZLVlRxUVlXRzZ2VkY5dHhfQ1JwT0trTlRMSEMza1o1eWdKZUoyWEdUS3NXeVF2ZnRhbExxR1A2N3ZSLVZ2QUtBd3pGdVhnXzJiWUNZaXJGYTg4S1Z2ZlRzNWNsU0RvNmtueEVkRWxTbFozOFdYeVNvVklDLXJSeTdHQ1d6a1FraA?oc=5",
+    "date": "2026-11-24T20:19:43Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Feijóo: “En España no habrá sitio para quien no respete a las mujeres ni a las personas LGTBI”",
@@ -5270,18 +5294,6 @@
     "summary_pt": "Miriam Leitão: Brasil defende multilateralismo na OMC Os Estados Unidos bloquearam nesta terça-feira (24) a primeira tentativa do Brasil de abrir um painel na Organização Mundial do Comércio (OMC) para analisar se as tarifas adicionais impostas pelo governo americano a produtos brasileiros violam as regras do comércio internacional. (entenda mais abaixo) O p"
   },
   {
-    "title": "Maersk orders 12 ultra-large container ships",
-    "summary": "Maersk orders 12 ultra-large container ships Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlF0RGVFc1h1UERtdlVVamUwSkE3RnM5WTNQMEJtSzUtUEwtQW1RX3RYWE91aFg1SHQxSk02bDVHcHd1YU5yWmI5WUNnVmtPaEMwdHJEVVI0ZGlkY1Z6NUxKYnJ0QjQwcUt6OS15MjBFakZXak9pMm0tbUgtNlB2OVJLQzF2QVcyOFpwV0xZVmpQN0lROVZn?oc=5",
-    "date": "2026-11-24T11:42:09Z",
-    "lang": "en",
-    "image": ""
-  },
-  {
     "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
     "summary": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends.",
     "category": "Clima e desastres",
@@ -6922,17 +6934,5 @@
     "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/a4a0dfb3-6df2-4097-ae33-8b3aac2e1176/thumbnail/1200x630/a7e3c0c81aa77399cd1baf366215d8c0/takeoutfull112326.jpg",
     "title_pt": "23/11: The Takeout com Major Garrett",
     "summary_pt": "Jensen Huang é reintegrado como CEO da Nvidia; Irã afirma que usará todos os meios para acabar com o bloqueio naval dos EUA."
-  },
-  {
-    "title": "Ukraine: 'A war of unmanned machines, AI and total transparency of the battlefield'",
-    "summary": "Speaking with FRANCE 24's Sharon Gaffney, Nobel Peace Prize laureate Oleksandra Matviichuk, Director of the Centre for Civil Liberties, says that today's war in Ukraine \"is a war of unmanned machines, AI, total transparency of the battlefield, mass drone attacks and long-range weapons, and this means we have to rethink how to protect human beings\".",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/a-propos/20261123-a-war-of-unmanned-machines-ai-and-total-transparency-of-the-battlefield",
-    "date": "2026-11-23T21:56:25Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/ce343aba-e809-11f1-88a0-95e072ff0a91/w:1024/p:16x9/capture-80e7ac32.jpg"
   }
 ]
