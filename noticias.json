@@ -1,19 +1,5 @@
 [
   {
-    "title": "Sabah - FC Barcelona, en directo, el partido de la Champions League en vivo | Gordon adelanta al Barça en el partido",
-    "summary": "El conjunto azulgrana visita Azerbaiyán en busca de sumar tres puntos que le permitan encarrilar su clasificación a la siguiente ronda del certamen",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/deportes/futbol/2026-11-25/sabah-fc-barcelona-en-directo-el-partido-de-la-champions-league-en-vivo.html",
-    "date": "2026-11-25T18:22:45Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/MNIM4EAL4VIRBDRUOYUYVZT3QQ.jpg?auth=0020368291483d60346358d77f85153a1f2d1a3157db241c657801cb586c28a0",
-    "summary_pt": "O time blaugrana visita o Azerbaijão em busca de somar três pontos que lhe permitam encaminhar sua classificação para a próxima fase da competição.",
-    "title_pt": "Sabah – FC Barcelona, ao vivo, a partida da Champions League ao vivo | Gordon coloca o Barça na frente na partida"
-  },
-  {
     "title": "Manifestaciones 25-N contra la violencia de género, en directo | Comienzan las manifestaciones por el día contra la violencia de género en varias ciudades de España",
     "summary": "Ana Redondo defiende situarse con las mujeres que sufren el “terrorismo privado” de la violencia machista: “No cabe la equidistancia” | El feminismo se moviliza contra la violencia machista en medio de la campaña, con temor a un retroceso si la ultraderecha llega al Gobierno",
     "category": "Geral",
@@ -21,11 +7,25 @@
     "country": "ES",
     "source": "El País",
     "url": "https://elpais.com/sociedad/2026-11-25/manifestaciones-25-n-contra-la-violencia-de-genero-en-directo.html",
-    "date": "2026-11-25T18:22:07Z",
+    "date": "2026-11-25T18:26:47Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/7VJKCRB7VJGI3CDP5IAOUQI3PM.jpg?auth=188b0abe96490a3ada17a9e448937d88d5dedc4d97c58d6e981b7780f4b7448d",
     "title_pt": "Manifestações de 25 de novembro contra a violência de gênero, ao vivo | Começam as manifestações pelo Dia contra a Violência de Gênero em várias cidades da Espanha",
     "summary_pt": "Ana Redondo defende o posicionamento ao lado das mulheres que sofrem o \"terrorismo privado\" da violência machista: \"Não há espaço para a equidistância\" | O feminismo se mobiliza contra a violência machista no meio da campanha, com receio de um retrocesso se a extrema-direita chegar ao governo"
+  },
+  {
+    "title": "Sabah - FC Barcelona, en directo, el partido de la Champions League en vivo | Gordon adelanta al Barça en el partido",
+    "summary": "El conjunto azulgrana visita Azerbaiyán en busca de sumar tres puntos que le permitan encarrilar su clasificación a la siguiente ronda del certamen",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/futbol/2026-11-25/sabah-fc-barcelona-en-directo-el-partido-de-la-champions-league-en-vivo.html",
+    "date": "2026-11-25T18:24:36Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/MNIM4EAL4VIRBDRUOYUYVZT3QQ.jpg?auth=0020368291483d60346358d77f85153a1f2d1a3157db241c657801cb586c28a0",
+    "title_pt": "Sabah – FC Barcelona, ao vivo, a partida da Champions League ao vivo | Gordon coloca o Barça na frente na partida",
+    "summary_pt": "O time blaugrana visita o Azerbaijão em busca de somar três pontos que lhe permitam encaminhar sua classificação para a próxima fase da competição."
   },
   {
     "title": "Greece: 14,000 march in Athens against rising living costs",
@@ -208,6 +208,20 @@
     "image": "",
     "title_pt": "A queda das ações de IA se aprofunda, com a Anthropic chegando a US$ 74",
     "summary_pt": "A queda das ações de IA se aprofunda, com a Anthropic atingindo US$ 74 Reuters"
+  },
+  {
+    "title": "Recreación visual | Así fue la detonación de cinco toneladas de material explosivo en Iowa",
+    "summary": "El Ejército trabajó para cubrir los polvorines que contenían los barriles con azida de plomo antes de hacerlos estallar",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/us/2026-11-25/recreacion-visual-asi-fue-la-detonacion-de-cinco-toneladas-de-material-explosivo-en-iowa.html",
+    "date": "2026-11-25T18:00:48Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/2GYJKN2BCVHJ3OVKLANYS4FEUU.png?auth=365f2428c9a2557c332fd3d11b11dafe85fe3f93f43594e8ec562a990d53a655&width=1200",
+    "title_pt": "Reconstituição visual | Assim foi a detonação de cinco toneladas de material explosivo em Iowa",
+    "summary_pt": "O Exército trabalhou para cobrir os paióis que continham os barris de azida de chumbo antes de detoná-los."
   },
   {
     "title": "Como evitar o acúmulo de gelo no congelador: a regra dos -18°C e os cuidados ao fechar a porta",
@@ -502,20 +516,6 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2024binary_LYNXMPEK6N0X0-FILEDIMAGE.jpg?w=200",
     "title_pt": "Justiça Federal nega pedido de suspensão do leilão de baterias",
     "summary_pt": "ABEEólica questionava principalmente o custeio da contratação das baterias, que por definição legal foi imputado aos geradores de energia"
-  },
-  {
-    "title": "El Ejército de Estados Unidos detona sus reservas de un compuesto explosivo en Iowa",
-    "summary": "El estallido podía generar una nube tóxica que amenazaría una franja de 150 kilómetros de largo en ese Estado y Misuri, pero la Administración de Trump asegura que la operación se ha desarrollado con un éxito “superior a las expectativas”",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/us/2026-11-25/el-ejercito-de-estados-unidos-se-prepara-para-detonar-sus-reservas-de-un-compuesto-explosivo-en-iowa.html",
-    "date": "2026-11-25T17:33:59Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/LP6D6I4EZ5MFBGVE6IUNSDMHVM.jpg?auth=92a0b1ac9b908ad3f75d7bf8c8a46c946f0cd0673d1ab3ccacacabac56e15c7b",
-    "title_pt": "O Exército dos Estados Unidos detona suas reservas de um composto explosivo em Iowa",
-    "summary_pt": "A explosão pode gerar uma nuvem tóxica que ameaçaria uma faixa de 150 quilômetros de extensão naquele estado e no Missouri."
   },
   {
     "title": "2 Men Charged After Break-In at Prince William and Kate’s Country Home",
@@ -2506,6 +2506,20 @@
     "summary_pt": "Fabricantes globais de fragrâncias recebem multa de quase US$ 517 milhões da UE por participarem de cartel Reuters"
   },
   {
+    "title": "Eni, Repsol pledge to invest $2 billion in Venezuela JVs",
+    "summary": "Eni, Repsol pledge to invest $2 billion in Venezuela JVs Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdnRsMHJNUEp3QjFnV25pWHpLeTZod1BaZjY3LTYtdzB5LWdNbFBLVkZtTFJkWTZDNkg0NGpRVkZHazhmQ0JXdUd2M3UtM1c4R3Z2bWI3VDBSWUhqZWNyZWJfUW56WmtpbWR0M3d4ZHJ0c1lvenI3b0VWd1RIdTJZZHNvRjFVY1poMXZ0ZDhiQmFlY0Q4UVZUd3RXRmJwYWVnZ0E?oc=5",
+    "date": "2026-11-25T15:24:53Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "Eni e Repsol se comprometem a investir US$ 2 bilhões em joint ventures na Venezuela Reuters",
+    "title_pt": "Eni e Repsol se comprometem a investir US$ 2 bilhões em joint ventures na Venezuela"
+  },
+  {
     "title": "Lynas pede incentivos do Brasil para refinaria de terras raras em MG",
     "summary": "Mineradora australiana considera Malásia mais competitiva para ampliar capacidade de separação dos minerais; aquisição da Meteoric por R$ 3,5 bilhões depende de aval do governo brasileiro",
     "category": "Geral",
@@ -2980,6 +2994,20 @@
     "image": "https://img.lemde.fr/2026/11/19/0/0/3000/2000/1440/960/60/0/b1522df_ftp-1-n6c3sjytr5kf-02b1110b9d764a22beee36ccec3fa40c-0-b81b6a8df22e40c98cb1941e131468ce.jpg",
     "title_pt": "“De reunião em reunião, o passo de Donald Trump está cada vez mais alinhado com o de Xi Jinping”",
     "summary_pt": "Teria a distensão sino-americana funcionado em benefício de Pequim? Na verdade, todo o paradoxo do presidente americano reside numa realidade que opõe a desordem que enfraquece a sua presidência à estabilidade personificada pelo seu homólogo chinês, avalia Gilles Paris, colunista do “Le Monde”, na sua coluna."
+  },
+  {
+    "title": "Ukraine says it struck a major Russian air base, damaging five planes",
+    "summary": "Ukraine says it struck a major Russian air base, damaging five planes Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZm1PXzlrNXY0LXdObV93VWg5QnMzNk1rby1CSHNiMHYtcVpvYUpteDBGWi1GQS1tNjU4VTV6MmVBTXpxY3I2NTdfbzVvVTdBWS1LeVBMeGpCMkdUTDVpWE1nNzRld3NBbUtYRlRoTlhPLWp4ZjdsMmRCRUdycERtcVRDNGk5UjNxR3RRUTN3V2QyU1VDT29acWEtc096cjVkS0xtN0V2dURHTmUyM0ZIbnRvcndIRUZrRnBBWmlDNDRRSng1OHdFWg?oc=5",
+    "date": "2026-11-25T14:43:20Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "A Ucrânia afirma ter atacado uma importante base aérea russa, danificando cinco aviões Reuters",
+    "title_pt": "A Ucrânia afirma ter atacado uma importante base aérea russa, danificando cinco aviões"
   },
   {
     "title": "New York's annual Thanksgiving Parade threatened by approaching storm",
@@ -4300,20 +4328,6 @@
     "summary_pt": "Acompanhe as histórias mais importantes de toda a Europa e além neste dia 25 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens."
   },
   {
-    "title": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
-    "summary": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "DW Brasil",
-    "url": "https://www.dw.com/pt-br/um-ano-após-feminicídios-no-cefet-rj-denúncias-de-assédio-seguem-sem-resposta/a-80032239?maca=bra-rss-br-br-1031-rdf",
-    "date": "2026-11-25T11:00:00Z",
-    "lang": "pt",
-    "image": "",
-    "title_pt": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
-    "summary_pt": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias."
-  },
-  {
     "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
     "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
     "category": "Geral",
@@ -4326,6 +4340,20 @@
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F31%2F6520f9574826bfd5bcbffd103b34%2Ffarflungpostcard-ef1.jpg",
     "title_pt": "Saudações do Monte Kilimanjaro, o ponto mais alto da África em todo o seu esplendor",
     "summary_pt": "Escalar montanhas altas como o Kilimanjaro é um estudo de contrastes – desde o sol forte até as noites geladas, o fogo e a neve."
+  },
+  {
+    "title": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
+    "summary": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "DW Brasil",
+    "url": "https://www.dw.com/pt-br/um-ano-após-feminicídios-no-cefet-rj-denúncias-de-assédio-seguem-sem-resposta/a-80032239?maca=bra-rss-br-br-1031-rdf",
+    "date": "2026-11-25T11:00:00Z",
+    "lang": "pt",
+    "image": "",
+    "title_pt": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
+    "summary_pt": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias."
   },
   {
     "title": "VÍDEO: mulher é perseguida por perus selvagens na rua nos EUA às vésperas do Dia de Ação de Graças",
@@ -4344,7 +4372,7 @@
   {
     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5128,20 +5156,6 @@
     "summary_pt": "Os houthis do Iêmen reivindicam ataque à maior refinaria da Arábia Saudita Reuters"
   },
   {
-    "title": "Britons face soaring energy bills after 26% price cap hike",
-    "summary": "Britons face soaring energy bills after 26% price cap hike Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWxiYkU2dDI4WjRoOUdyaDN0RDQ3MGR2b1k2aUdmQ3dseXVrQkpwSjlIb1NtbzRZbENaYnJfODJKN0pMV2VBMUx3NHZQZWEtUTh3VlRSVWNzMUhHdklzTlZlM1BmSkktbXpUVFhjTlNqY2pUdGpRbUV6bVdpdV9BWDYtQld1MDExX1BNTUt6YVRtSm81LU9VTXV3MF9GOHpMNTJHcVFSanlJWUVkWE1J?oc=5",
-    "date": "2026-11-25T07:19:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Britânicos enfrentam aumento nas contas de energia após aumento de 26% no preço máximo",
-    "summary_pt": "Britânicos enfrentam aumento nas contas de energia após aumento de 26% no limite de preço Reuters"
-  },
-  {
     "title": "Europeans are turning to heat pumps ahead of a cold winter. But what do they cost to install?",
     "summary": "Almost one in three Europeans say they cannot afford the upfront cost of installing a heat pump.",
     "category": "Clima e desastres",
@@ -5196,20 +5210,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb6d/live/6e173110-e899-11f1-801d-b916df288324.jpg",
     "title_pt": "Duas crianças entre seis mortos após acidente de avião na costa do Mississippi",
     "summary_pt": "Mergulhadores encontraram os corpos de quatro adultos e dois meninos, de 8 e 10 anos, na fuselagem, informou a Guarda Costeira dos EUA."
-  },
-  {
-    "title": "China's Politburo shrinks as graft crackdown spreads",
-    "summary": "China's Politburo shrinks as graft crackdown spreads Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkVra2VHQ1VrTFk2ZFRaLTZaLWhackFqUm9ZRkJsTVVpNUd2UjJ1ejY2XzctUmcxUFlKeDBrR3h1bE52cEpWUmhXaFloaUFLQUtCNTdzZnBUUkFtYWRNVGREZWtDWHdMdlJmaDJka0NNOEtCUkgxbnJwTDVpSk5aRTVHTko4elpoZHlFNFlMSldqcDJqUExrQ25VRVc?oc=5",
-    "date": "2026-11-25T07:04:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Politburo da China encolhe à medida que a repressão à corrupção se espalha",
-    "summary_pt": "Politburo da China encolhe à medida que repressão à corrupção se espalha Reuters"
   },
   {
     "title": "All hostages rescued after Colombian forces storm Cartagena supermarket",
