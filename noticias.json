@@ -1,5 +1,17 @@
 [
   {
+    "title": "En Colombie, le président et l’armée à Carthagènes pour une prise d’otages en cours dans un supermarché",
+    "summary": "Le chef de l’Etat, Abelardo de la Espriella, a affirmé que cette prise d’otages relevait de la criminalité de droit commun, écartant toute implication des groupes armés ayant commis plusieurs attentats à travers le pays, ces derniers mois.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "FR",
+    "source": "Le Monde",
+    "url": "https://www.lemonde.fr/international/article/2026/11/25/en-colombie-le-president-et-l-armee-a-carthagenes-pour-une-prise-d-otages-en-cours-dans-un-supermarche_6814815_3211.html",
+    "date": "2026-11-25T04:52:04Z",
+    "lang": "fr",
+    "image": "https://img.lemde.fr/2026/11/24/0/0/3907/2605/1440/960/60/0/0a2de76_ftp-1-dorodl20rinm-afp-d8hw69g.jpg"
+  },
+  {
     "title": "North Korea expels Swiss diplomat and orders Bern's new Pyongyang office to close",
     "summary": "Switzerland opened the office on 19 October, when Foreign Minister Ignazio Cassis travelled to Pyongyang and met senior officials, including his counterpart Choe Son Hui.",
     "category": "Geral",
@@ -10,8 +22,8 @@
     "date": "2026-11-25T04:50:43Z",
     "lang": "en",
     "image": "https://images.euronews.com/articles/stories/10/00/69/20/696x392_cmsv2_c0785ec3-67e3-5502-baa1-ae9338ac6c36-10006920.jpg",
-    "summary_pt": "A Suíça abriu o escritório em 19 de Outubro, quando o Ministro dos Negócios Estrangeiros, Ignazio Cassis, viajou para Pyongyang e se reuniu com altos funcionários, incluindo o seu homólogo Choe Son Hui.",
-    "title_pt": "Coreia do Norte expulsa diplomata suíço e ordena fechamento do novo escritório de Berna em Pyongyang"
+    "title_pt": "Coreia do Norte expulsa diplomata suíço e ordena fechamento do novo escritório de Berna em Pyongyang",
+    "summary_pt": "A Suíça abriu o escritório em 19 de Outubro, quando o Ministro dos Negócios Estrangeiros, Ignazio Cassis, viajou para Pyongyang e se reuniu com altos funcionários, incluindo o seu homólogo Choe Son Hui."
   },
   {
     "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
@@ -323,7 +335,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -449,7 +461,7 @@
   {
     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1263,7 +1275,7 @@
   {
     "title": "Why tiny cars are taking off across Europe",
     "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3819,7 +3831,7 @@
   {
     "title": "Faisal Islam: Fears over the AI boom haven't gone away",
     "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3927,20 +3939,6 @@
     "image": "",
     "title_pt": "Huang, da Nvidia, retorna aos aplausos na China, mas os obstáculos políticos aumentam",
     "summary_pt": "Huang, da Nvidia, volta aos aplausos na China, mas obstáculos políticos aumentam Reuters"
-  },
-  {
-    "title": "En Colombie, prise d’otages lors du braquage d’un supermarché à Carthagène, au lendemain d’un attentat à la voiture piégée à Villavicencio",
-    "summary": "Cette attaque intervient le jour du dixième anniversaire d’un accord de paix historique entre l’Etat colombien et la guérilla des Forces armées révolutionnaires de Colombie.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "Le Monde",
-    "url": "https://www.lemonde.fr/international/article/2026/11/24/en-colombie-prise-d-otages-lors-du-braquage-d-un-supermarche-a-carthagene-au-lendemain-d-un-attentat-a-la-voiture-piegee-a-villavicencio_6814815_3211.html",
-    "date": "2026-11-24T17:53:27Z",
-    "lang": "fr",
-    "image": "https://img.lemde.fr/2026/11/24/0/0/5472/3648/1440/960/60/0/ccf3a40_ftp-1-glgpcbk1rsde-2026-11-24t151037z-52219646-rc2buoaccdbi-rtrmadp-3-colombia-violence.JPG",
-    "title_pt": "Na Colômbia, pessoas são feitas reféns durante assalto a supermercado em Cartagena, um dia após atentado com carro-bomba em Villavicencio",
-    "summary_pt": "Este ataque ocorre no dia do 10º aniversário de um histórico acordo de paz entre o Estado colombiano e a guerrilha das Forças Armadas Revolucionárias da Colômbia (FARC)."
   },
   {
     "title": "El juez del ‘caso Leire Díez’ reclama más información al PSOE para saber quién autorizó los pagos a sus abogados",
