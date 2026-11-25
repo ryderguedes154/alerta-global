@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T16:14:06.678606Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T16:19:30.214299Z",
+  "status": "checado",
   "items": [
     {
       "title": "Cinco jatos militares russos atingidos em ataque a campo de aviação, diz Ucrânia",
@@ -31,16 +31,16 @@
       "selection": "automatic"
     },
     {
-      "title": "EUA deixam de lado proposta de acordos comerciais com Rússia para tentar encerrar guerra na Ucrânia, diz jornal",
-      "summary": "Trump anunciou na semana passada um novo acordo para o fornecimento de diesel com o presidente russo Vladimir Putin Getty Images via BBC O governo dos Estados Unidos deixou de lado, de forma discreta, propostas de acordos comerciais com a Rússia que seriam utilizadas como incentivo para tentar encerrar a guerra na Ucrânia. A iniciativa perdeu força depois qu",
+      "title": "Teddy Riner critica o envio de soldados franceses à Ucrânia para missões não-combatentes: “Não é a nossa guerra”",
+      "summary": "O candidato presidencial referia-se ao envio de pequenos contingentes de soldados franceses para a Ucrânia. A França tem um pequeno núcleo de forças convencionais que realizam rotações regulares na Ucrânia para treino e reparação de equipamento.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/25/eua-deixam-de-lado-proposta-de-acordos-comerciais-com-russia-para-tentar-encerrar-guerra-na-ucrania-diz-jornal.ghtml",
-      "published_on": "25/11/2026 11:58 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/q8SWw5I8ed8jmld77TUdHRirqu4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/JjH8UPTmqXIDApdYUllg/novo-projeto-7-.jpg",
+      "country": "FR",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-critique-le-deploiement-de-soldats-francais-en-ukraine-pour-des-missions-non-combattantes-ce-n-est-pas-notre-guerre_6815137_823448.html",
+      "published_on": "25/11/2026 12:10 (Boa Vista)",
+      "image": "https://img.lemde.fr/2026/11/25/86/151/1813/1209/1440/960/60/0/74ec1d2_upload-1-yzvfcwpv44gs-l1004345.jpg",
       "selection": "automatic"
     },
     {
