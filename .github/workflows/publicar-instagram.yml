@@ -1,10 +1,7 @@
 name: Publicar noticias no Instagram
 
 on:
-  schedule:
-    # 1 post por hora, das 7h as 21h no horario de Boa Vista (UTC-4) = 15 posts por dia.
-    # Cabe no plano gratis do Make (1.000 creditos/mes, 2 por post = ~16 por dia).
-    - cron: "0 11-23,0,1 * * *"
+  # Agendamento desativado a pedido do dono. Para voltar, restaure o bloco "schedule".
   workflow_dispatch:         # permite rodar na mao pela aba "Actions"
 
 permissions:
