@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T05:23:50.179946Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T05:29:47.600831Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os próprios números da Rússia mostram quase 500.000 mortes na guerra na Ucrânia",
@@ -44,19 +44,6 @@
       "selection": "automatic"
     },
     {
-      "title": "A guerra da Rússia contra a Ucrânia: ‘Ambos os lados estão preparados para operar fora da zona de conflito’",
-      "summary": "Charli James tem o prazer de dar as boas-vindas a Gavin Hall, professor de Política, Ciência Política e Segurança Internacional na Universidade de Strathclyde. Ele é especialista em OTAN, instituições de segurança e no papel da tecnologia emergente na guerra. Hall examina as recentes operações russas e ucranianas fora da principal zona de conflito, as condiç",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "FR",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/russia-s-war-on-ukraine-both-sides-are-prepared-to-operate-outside-of-the-conflict-zone",
-      "published_on": "24/11/2026 13:26 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/7262fe1c-e820-11f1-9829-95e072ff0a91/w:1024/p:16x9/EN-20261124-130504-131126-CS.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Terremoto de magnitude 6.4 — Mauritius - Reunion region",
       "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,6 +80,19 @@
       "url": "https://www.cnnbrasil.com.br/infra/magda-petrobras-ja-nao-e-empresa-de-petroleo-e-gas-mas-de-energia/",
       "published_on": "24/11/2026 18:09 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/top-view-eyeshadows-make-up.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
+      "title": "A guerra da Rússia contra a Ucrânia: ‘Ambos os lados estão preparados para operar fora da zona de conflito’",
+      "summary": "Charli James tem o prazer de dar as boas-vindas a Gavin Hall, professor de Política, Ciência Política e Segurança Internacional na Universidade de Strathclyde. Ele é especialista em OTAN, instituições de segurança e no papel da tecnologia emergente na guerra. Hall examina as recentes operações russas e ucranianas fora da principal zona de conflito, as condiç",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "FR",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/russia-s-war-on-ukraine-both-sides-are-prepared-to-operate-outside-of-the-conflict-zone",
+      "published_on": "24/11/2026 13:26 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/7262fe1c-e820-11f1-9829-95e072ff0a91/w:1024/p:16x9/EN-20261124-130504-131126-CS.jpg",
       "selection": "automatic"
     },
     {
