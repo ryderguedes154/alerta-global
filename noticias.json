@@ -1,5 +1,57 @@
 [
   {
+    "title": "Poundland collapses putting 11,000 jobs at risk",
+    "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-25T15:54:32Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eda/live/616fb5d0-e8bd-11f1-ac76-db9e97f93d67.jpg"
+  },
+  {
+    "title": "Iran denounces U.S. use of AI in war",
+    "summary": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days.",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+    "date": "2026-11-25T15:53:48Z",
+    "lang": "en",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
+    "title_pt": "Irã denuncia o uso de IA pelos EUA na guerra",
+    "summary_pt": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias."
+  },
+  {
+    "title": "US stocks fall further as fears over AI intensify",
+    "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-25T15:52:58Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76b3/live/acdb5650-e8e0-11f1-a3b9-79c60ec9ab33.jpg",
+    "title_pt": "As ações dos EUA caem ainda mais à medida que os temores em relação à IA se intensificam",
+    "summary_pt": "Todos os três principais índices dos EUA caíram no início do pregão, com o Nasdaq, dominado pelo setor de tecnologia, caindo quase 4%."
+  },
+  {
+    "title": "Manifestaciones 25-N contra la violencia de género, en directo | Ana Redondo defiende situarse con las mujeres que sufren el “terrorismo privado” de la violencia machista: “No cabe la equidistancia”",
+    "summary": "El feminismo se moviliza contra la violencia machista en medio de la campaña, con temor a un retroceso si la ultraderecha llega al Gobierno | 49 mujeres han sido asesinadas por sus parejas o exparejas en lo que va de año",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/sociedad/2026-11-25/manifestaciones-25-n-contra-la-violencia-de-genero-en-directo.html",
+    "date": "2026-11-25T15:50:48Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/M54YKCQUTZFAHAVDIQ2LQ3OZ24.jpg?auth=41fe66fbe6ab02723547f1da62b8675abeb3e677825212f5166b47792c3578f6"
+  },
+  {
     "title": "Video shows massive explosion as US Army destroys entire stockpile of lead azide",
     "summary": "The US Army detonates around five tonnes of degraded lead azide at an ammunition plant in Iowa, destroying the country's entire stockpile of the explosive.",
     "category": "Geral",
@@ -10,6 +62,18 @@
     "date": "2026-11-25T15:47:17Z",
     "lang": "en",
     "image": "https://images.euronews.com/articles/stories/10/00/84/05/696x392_cmsv2_48ca22bf-34bd-526f-9f16-60d395fd145d-10008405.jpg"
+  },
+  {
+    "title": "'We need to stop the war in Iran': US Congresswoman Pramila Jayapal",
+    "summary": "In an interview with FRANCE 24, Democratic Congresswoman Pramila Jayapal laid out her priorities for the new Congress: ending the war in Iran, tackling the cost-of-living crisis, curbing political corruption and holding the Trump administration accountable for its immigration crackdown. She also called for the \"complete\" dismantling of the US federal immigra",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "FR",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261125-we-need-to-stop-the-war-in-iran-us-congresswoman-pramila-jayapal",
+    "date": "2026-11-25T15:46:59Z",
+    "lang": "en",
+    "image": "https://s.france24.com/media/display/33fdce0e-e8c0-11f1-b0b2-95e072ff0a91/w:1024/p:16x9/pramila.png"
   },
   {
     "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
@@ -102,18 +166,6 @@
     "date": "2026-11-25T15:39:54Z",
     "lang": "en",
     "image": "https://i.guim.co.uk/img/media/298e2e76a81f2b29227315e2f639e4892114e948/426_0_4300_3440/master/4300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd0436572e4b7985ac765fcf1fc3c288"
-  },
-  {
-    "title": "Campaña electoral 29-N y actualidad política, en directo | Yolanda Díaz reta al PP a aclarar si se plantea derogar los nuevos permisos sociales",
-    "summary": "Puigdemont anuncia que regresará a España el 12 de diciembre: “Volveré a Cataluña sin pedir permiso y sin pedir perdón” | Sánchez afirma que las pensiones gozan de “extraordinaria salud” y promete aumentar la hucha a 50.000 millones en 2030",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/campana-electoral-29-n-y-actualidad-politica-en-directo.html",
-    "date": "2026-11-25T15:39:48Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/SJCBBEXRZJGN5ERSO3LEK5CQZ4.jpg?auth=2ff717c7a6a1f5189e16535d6aa280811138770f225f52a479efcd077ab95f1c"
   },
   {
     "title": "Moretti reafirma foco em conter gasto obrigatório com novas medidas fiscais",
@@ -318,20 +370,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/DAPKMIO7CJHB7FWE2B5EPO322Y.jpeg?auth=e6152241ba523590773a3ef04e67662b219ba20e943052eab424ae59c3a75960"
   },
   {
-    "title": "US stocks fall further as fears over AI intensify",
-    "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-    "category": "Economia",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-25T15:24:34Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76b3/live/acdb5650-e8e0-11f1-a3b9-79c60ec9ab33.jpg",
-    "title_pt": "As ações dos EUA caem ainda mais à medida que os temores em relação à IA se intensificam",
-    "summary_pt": "Todos os três principais índices dos EUA caíram no início do pregão, com o Nasdaq, dominado pelo setor de tecnologia, caindo quase 4%."
-  },
-  {
     "title": "Lynas pede incentivos do Brasil para refinaria de terras raras em MG",
     "summary": "Mineradora australiana considera Malásia mais competitiva para ampliar capacidade de separação dos minerais; aquisição da Meteoric por R$ 3,5 bilhões depende de aval do governo brasileiro",
     "category": "Geral",
@@ -365,7 +403,7 @@
     "country": "FR",
     "source": "Le Monde",
     "url": "https://www.lemonde.fr/international/article/2026/11/25/droits-de-douane-l-ue-conteste-fermement-le-bien-fonde-des-nouvelles-sanctions-americaines_6815121_3210.html",
-    "date": "2026-11-25T15:20:38Z",
+    "date": "2026-11-25T15:20:37Z",
     "lang": "fr",
     "image": "https://img.lemde.fr/2026/11/16/0/0/6000/4000/1440/960/60/0/f7ad60a_ftp-1-44odv1rjgjdm-2026-11-16t100504z-242520707-rc2xooadjzkm-rtrmadp-3-eu-enlargement.JPG"
   },
@@ -990,6 +1028,18 @@
     "summary_pt": "Teria a distensão sino-americana funcionado em benefício de Pequim? Na verdade, todo o paradoxo do presidente americano reside numa realidade que opõe a desordem que enfraquece a sua presidência à estabilidade personificada pelo seu homólogo chinês, avalia Gilles Paris, colunista do “Le Monde”, na sua coluna."
   },
   {
+    "title": "Ukraine says it struck a major Russian air base, damaging five planes",
+    "summary": "Ukraine says it struck a major Russian air base, damaging five planes Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZm1PXzlrNXY0LXdObV93VWg5QnMzNk1rby1CSHNiMHYtcVpvYUpteDBGWi1GQS1tNjU4VTV6MmVBTXpxY3I2NTdfbzVvVTdBWS1LeVBMeGpCMkdUTDVpWE1nNzRld3NBbUtYRlRoTlhPLWp4ZjdsMmRCRUdycERtcVRDNGk5UjNxR3RRUTN3V2QyU1VDT29acWEtc096cjVkS0xtN0V2dURHTmUyM0ZIbnRvcndIRUZrRnBBWmlDNDRRSng1OHdFWg?oc=5",
+    "date": "2026-11-25T14:43:20Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "Moraes determina destruição dos passaportes de Filipe Martins",
     "summary": "Ex-assessor de Jair Bolsonaro cumpre pena de 21 anos de prisão por envolvimento na trama golpista; segundo o ministro, custódia judicial dos documentos se tornou desnecessária após início da execução da pena",
     "category": "Geral",
@@ -1254,6 +1304,18 @@
     "summary_pt": "Pesquisas de longo prazo mostram que modelo recupera perdas de carbono mais rapidamente do que exploração convencional; após 30 anos, áreas manejadas também apresentaram saldo positivo de biomassa"
   },
   {
+    "title": "US to cap India tariff at 17% if trade deal is reached, USTR says",
+    "summary": "US to cap India tariff at 17% if trade deal is reached, USTR says Reuters",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
+    "date": "2026-11-25T14:29:44Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "US third-quarter GDP growth revised sharply higher",
     "summary": "US third-quarter GDP growth revised sharply higher Reuters",
     "category": "Geral",
@@ -1426,6 +1488,18 @@
     "date": "2026-11-25T14:14:10Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/WFS3JL3VAZJWDMPRVDY4YASVU4.jpg?auth=4a06875217515485daebfa885969f78234cf60d9374bd9bf3a365788c26bee00"
+  },
+  {
+    "title": "El salario mínimo en Bangladés por fabricar la ropa de las grandes marcas aumenta a 124 euros pero no aplaca las protestas",
+    "summary": "El sueldo mínimo mensual pasa de 12.500 a 17.000 takas (unos 124 euros) lejos de los 32.000 que reclamaban inicialmente los empleados. El anuncio ha desatado nuevas movilizaciones en varias zonas industriales",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/planeta-futuro/2026-11-25/el-salario-minimo-en-banglades-por-fabricar-la-ropa-de-las-grandes-marcas-aumenta-a-124-euros-pero-no-aplaca-las-protestas.html",
+    "date": "2026-11-25T14:12:35Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/FFQGOIF4JNNBNJKPUJIF23I4A4.jpg?auth=b803cf793aaee508b53b78fe9d8596503eee9975456dad318f91b1c28d762d9a"
   },
   {
     "title": "Qué dicen los programas electorales sobre las personas LGTBIQ+",
@@ -1758,6 +1832,18 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/chuvas-em-sp.jpeg?w=200",
     "title_pt": "Sobe para seis o número de mortos após fortes chuvas no Paraná",
     "summary_pt": "Casos ocorreram em diversas regiões do estado desde segunda-feira (23); alerta de tempestades segue em vigor para quase todo o Paraná nesta quarta (25)"
+  },
+  {
+    "title": "Salvadoran migrant Kilmar Abrego Garcia lands in Spain after US departure deal",
+    "summary": "Salvadoran migrant Kilmar Abrego Garcia lands in Spain after US departure deal Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWW0yaWlzUi0wM216d2FrV0R0b0xEbTd6TTJPcnE0MVVOREpjWFY3TnFmbEUzeGkxQUpxQ2xhcVNUeHdSV0tCRnZ1aGRPbHVwSGZfZkthQUJLcFZ3MjlvWFVXUlAzSGFzaDloX3dqZ1h3YXVQZ2lFb2Z0ZDR0SnRUM2VyME9Ta2piYlUwWjRKdEJ3cWFsVmc1NTNxNGF1cXd1eGlXSVVZQ2FWYlRmZWZQTE80bXc0bzZJbzBTSVdRQWtFOFct?oc=5",
+    "date": "2026-11-25T13:54:12Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Violence against women in the digital age: When the internet becomes a weapon",
@@ -2436,20 +2522,6 @@
     "summary_pt": "As Ilhas Salomão terão de consultar Canberra antes de fazer novos acordos de segurança ou infra-estruturas ao abrigo do novo pacto."
   },
   {
-    "title": "Iran denounces U.S. use of AI in war",
-    "summary": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days.",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-    "date": "2026-11-25T13:00:44Z",
-    "lang": "en",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
-    "title_pt": "Irã denuncia o uso de IA pelos EUA na guerra",
-    "summary_pt": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias."
-  },
-  {
     "title": "Como o PCC e o Comando Vermelho se espalharam pelo Brasil",
     "summary": "Nascidas nas prisões de São Paulo e do Rio de Janeiro, as duas maiores facções do país ampliaram sua atuação e hoje influenciam mercados ilegais em praticamente todas as regiões brasileiras e em rotas internacionais.",
     "category": "Geral",
@@ -2830,18 +2902,6 @@
     "summary_pt": "As autoridades evacuaram uma área com raio de 8 quilômetros para se prepararem para descartar milhares de quilos de azida de chumbo. E, após uma batalha jurídica de quase dois anos, Kilmar Abrego Garcia deixou os Estados Unidos voluntariamente."
   },
   {
-    "title": "Catalan separatist Puigdemont to return to Spain after election",
-    "summary": "Catalan separatist Puigdemont to return to Spain after election Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMllTYTRRSkU3SjVsVWFMdVZFWjB1OHVQTHo4eGFRSndDY2RiNDNZS2ZLN3JZLW1Oem5lX1FRR3dsdGp1MkwzLU1jdHZTcFlyaHFWTlhKUWVBZGhzOG1TLVV1RllnLWpOdTRFRjU4YTMxMjMtMHU4ZG95RXlrcUI1U0gzeF9Ha1BFbHVNel9EWkpIcTZuRjJDV0o4Ung?oc=5",
-    "date": "2026-11-25T12:15:47Z",
-    "lang": "en",
-    "image": ""
-  },
-  {
     "title": "La lluvia, nieve y viento intensos de hoy, con 13 comunidades bajo aviso, darán paso a días estables",
     "summary": "El domingo electoral se esperan lluvias aseguradas en Galicia y Cantábrico y no se descartan en otras zonas del norte y oeste",
     "category": "Geral",
@@ -2952,6 +3012,18 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b06b9bd3343-1795602877.jpg?resize=1920%2C1440",
     "title_pt": "As RSF do Sudão matam pelo menos 19 pessoas em ataques de drones no estado do Nilo Azul",
     "summary_pt": "Os ataques ao estado do Nilo Azul também feriram pelo menos 20 pessoas – em uma guerra de drones que está se intensificando rapidamente."
+  },
+  {
+    "title": "Bollywood union asks Modi to bar Netflix's Pakistani series in India",
+    "summary": "Bollywood union asks Modi to bar Netflix's Pakistani series in India Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjd6WlRJdWdFcldKRGYzUFdFNlQ0NnVIcVJWV2drcTZySFFoV1Q4NHFlWE9KV3hpbWVSa2hvU0J3bTN6bmZRZHlubjBxaXVRWUc5aVRkV0haU1RCMk1iRjRWN2NJa2R1YjNpb2dlSW5oelVveUh4OEhqLS1FaWFvN0ZaM2Q2aGtYZHFRbTE0Wmwzd2FXSXo2ZDhGZWQ2UXptUWxuUlpPemxuWk1ib1JuTUlSOWV3S3F6ZWptQQ?oc=5",
+    "date": "2026-11-25T11:57:38Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Spain: Catalan separatist Puigdemont sets date for return",
@@ -3396,7 +3468,7 @@
   {
     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3638,6 +3710,18 @@
     "summary_pt": "À medida que a Ucrânia ataca navios russos em águas distantes, alguns países da NATO expressam uma ansiedade crescente relativamente à propagação da guerra a novas regiões."
   },
   {
+    "title": "🔴 Surprise Eurostar strike cancels London, Paris and Brussels trains",
+    "summary": "",
+    "category": "Geral",
+    "region": "Global",
+    "country": "FR",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
+    "date": "2026-11-25T10:14:45Z",
+    "lang": "en",
+    "image": "https://s.france24.com/media/display/5292c004-e8b6-11f1-b877-81da3ab2acbb/w:1280/p:16x9/000-A6LZ3KE.jpg"
+  },
+  {
     "title": "Lalachus anima en ‘La revuelta’ a ir a votar el domingo y se acuerda de Henar Álvarez: “Estoy agotada”",
     "summary": "La colaboradora visitó el programa de David Broncano, que no se emitió ni el jueves ni el lunes por los debates electorales",
     "category": "Geral",
@@ -3708,7 +3792,7 @@
   {
     "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
     "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3718,18 +3802,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg",
     "title_pt": "Zoe Kleinman: Ninguém é insubstituível – a menos que você seja Jensen Huang",
     "summary_pt": "O editor de tecnologia e IA da BBC fala sobre como o chefe da Nvidia se tornou impossível de ser demitido."
-  },
-  {
-    "title": "Surprise Eurostar strike cancels London, Paris and Brussels trains",
-    "summary": "Several Eurostar trains connecting London, Paris and Brussels were cancelled in a surprise strike on Wednesday. The train operator did not specify who exactly was striking or the reasons why.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
-    "date": "2026-11-25T10:02:32Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/5292c004-e8b6-11f1-b877-81da3ab2acbb/w:1024/p:16x9/000-A6LZ3KE.jpg"
   },
   {
     "title": "Una jueza cita a Leire Díez y al exjefe de gabinete de Sánchez en el PSOE por presuntas irregularidades en Correos",
@@ -4090,18 +4162,6 @@
     "forcedSev": "med",
     "title_pt": "Terremoto de magnitude 5.3 — 83 km ESE of Hengchun, Taiwan",
     "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
-  },
-  {
-    "title": "Aramco, S-Oil inaugurate $7 billion petrochemicals complex in South Korea",
-    "summary": "Aramco, S-Oil inaugurate $7 billion petrochemicals complex in South Korea Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdC1LV09jNTg1TExDUjBUUDgyRWhmYk9xNFV6QmdfYUtRZXlERDF0aS1rZlpuLXh0eWpMZTJXMUM5c1dHMGJJZ2k1YlJjOUdaeUNmMmdFTk1Gc3JTUC1zX242dWxGVmV0NDBSR2VsTjhIU013bGZyWFc1Q2xNWWR1cHMtdjJ5bTlwME84S0Z5T0xRQnhKVmlGYUFrYjFaQnZXTWM2R1FqS0dHMi02d0h5UlZnZnlQdzVockxLMg?oc=5",
-    "date": "2026-11-25T08:42:39Z",
-    "lang": "en",
-    "image": ""
   },
   {
     "title": "Stunning Supermoon photos: The best shots of last night's Beaver moon lighting up the night sky",
@@ -4865,20 +4925,6 @@
     "summary_pt": "A incerteza sobre o resultado de domingo desencadeia hipérboles e leva os candidatos a recorrerem a aliados e inimigos inesperados"
   },
   {
-    "title": "Una pregunta que agita la campaña: “¿Debe tener cabida la extrema derecha en la televisión pública?”",
-    "summary": "Seis analistas reflexionan sobre las declaraciones que han valido a la periodista Silvia Intxaurrondo un expediente de la Junta Electoral y el impacto de la decisión",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/opinion/2026-11-25/silvia-intxaurrondo-y-los-limites-de-la-conversacion-publica.html",
-    "date": "2026-11-25T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZV4DU55QEJGE7H4HG3KMDT3L64.jpg?auth=99370708a0f337b4c2d255abd7be37b417fce3306b21f853bea0d10201d173f9",
-    "title_pt": "Uma questão que agita a campanha: “Deve a extrema-direita ter lugar na televisão pública?”",
-    "summary_pt": "Seis analistas refletem sobre as declarações que renderam à jornalista Silvia Intxaurrondo um arquivo da Junta Eleitoral e o impacto da decisão"
-  },
-  {
     "title": "Comparador de los programas electorales para las elecciones generales del 29-N",
     "summary": "Conozca las principales propuestas electorales del PP, PSOE, Vox y Frente Amplio de cara a la próxima legislatura",
     "category": "Geral",
@@ -4891,34 +4937,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/DBQ6GYAKPREXDLZ72MYFEOZ5GY.jpg?auth=13dacbfb2dc42f7f86124408684bf285a36b18a70a9f6ccd4800dc27e0037711",
     "title_pt": "Comparador dos programas eleitorais para as eleições gerais de 29-N",
     "summary_pt": "Conheça as principais propostas eleitorais do PP, PSOE, Vox e Frente Amplio para a próxima legislatura"
-  },
-  {
-    "title": "¿A quién votan los inmigrantes nacionalizados? Parecido al resto de los electores, pero apenas influyen en el resultado",
-    "summary": "La población de origen extranjero en España es muy heterogénea tanto en la ideología como en la participación y sigue sin tener mucho peso en las urnas",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/a-quien-votan-los-inmigrantes-parecido-a-los-espanoles-pero-apenas-influyen-en-el-resultado.html",
-    "date": "2026-11-25T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/TKQ7WQF7GJASPIMDSU64AQIF4E.jpg?auth=cb734a2cdbbb1b4aedc210101b2387ff03384a273dbcc19b945888008b85d3e8",
-    "title_pt": "Em quem votam os imigrantes naturalizados? Semelhante ao resto dos eleitores, mas quase não influencia o resultado",
-    "summary_pt": "A população de origem estrangeira em Espanha é muito heterogénea tanto em ideologia como em participação e ainda não tem muito peso nas urnas."
-  },
-  {
-    "title": "Rodrigo Sorogoyen: “Expresar a quién voto y explicar por qué me parece sano”",
-    "summary": "El cineasta habla de su miedo “a lo que viene” y de su firma del manifiesto de apoyo a Frente Amplio junto a otras 200 personalidades",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/rodrigo-sorogoyen-expresar-a-quien-voto-y-explicar-por-que-me-parece-sano.html",
-    "date": "2026-11-25T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/QVYTZCBZR5FIFGWCV25TS23A2A.jpg?auth=da7f8c5f688fefd678499f3d5685879fc7588f59deabf160cc7ca30b655439ef",
-    "title_pt": "Rodrigo Sorogoyen: “Expressar em quem voto e explicar porque me parece saudável”",
-    "summary_pt": "O cineasta fala sobre seu medo “do que está por vir” e da assinatura do manifesto de apoio à Frente Ampla junto com outras 200 personalidades"
   },
   {
     "title": "“¿Pero qué te hizo pensar que podías ganar tanto?“: la misógina entrevista a Hailey Bieber que cuestionó su faceta empresarial",
@@ -4991,18 +5009,46 @@
     "summary_pt": "Estudo revela que maior exposição à luz à noite está associada a paredes cardíacas mais espessas e menor capacidade de contração muscular"
   },
   {
-    "title": "Del registro horario a la absorción de pluses salariales: los acuerdos de Gobierno y sindicatos que quedan en el cajón",
-    "summary": "Varias medidas pactadas por Trabajo con CC OO y UGT quedan en el aire con el Gobierno a punto de entrar en funciones. Yolanda Díaz culpa al PSOE",
+    "title": "Rodrigo Sorogoyen: “Expresar a quién voto y explicar por qué me parece sano”",
+    "summary": "El cineasta habla de su miedo “a lo que viene” y de su firma del manifiesto de apoyo a Frente Amplio junto a otras 200 personalidades",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
     "source": "El País",
-    "url": "https://elpais.com/economia/2026-11-25/del-registro-horario-a-la-absorcion-de-pluses-salariales-los-acuerdos-de-gobierno-y-sindicatos-que-quedan-en-el-cajon.html",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/rodrigo-sorogoyen-expresar-a-quien-voto-y-explicar-por-que-me-parece-sano.html",
     "date": "2026-11-25T04:30:01Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/VKBSOBPE2VAC5EKJI6IZHLZ6EM.jpg?auth=5feccb91602e15e556d6989c536387d12e0497eb0176c3c6f8b776399560c905",
-    "title_pt": "Do momento do cadastramento à absorção do abono salarial: os acordos governamentais e sindicais que ficam na gaveta",
-    "summary_pt": "Várias medidas acordadas pelos Trabalhistas com o CC OO e a UGT permanecem no ar com o Governo prestes a tomar posse. Yolanda Díaz culpa o PSOE"
+    "image": "https://imagenes.elpais.com/resizer/v2/QVYTZCBZR5FIFGWCV25TS23A2A.jpg?auth=da7f8c5f688fefd678499f3d5685879fc7588f59deabf160cc7ca30b655439ef",
+    "title_pt": "Rodrigo Sorogoyen: “Expressar em quem voto e explicar porque me parece saudável”",
+    "summary_pt": "O cineasta fala sobre seu medo “do que está por vir” e da assinatura do manifesto de apoio à Frente Ampla junto com outras 200 personalidades"
+  },
+  {
+    "title": "¿A quién votan los inmigrantes nacionalizados? Parecido al resto de los electores, pero apenas influyen en el resultado",
+    "summary": "La población de origen extranjero en España es muy heterogénea tanto en la ideología como en la participación y sigue sin tener mucho peso en las urnas",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/a-quien-votan-los-inmigrantes-parecido-a-los-espanoles-pero-apenas-influyen-en-el-resultado.html",
+    "date": "2026-11-25T04:30:01Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/TKQ7WQF7GJASPIMDSU64AQIF4E.jpg?auth=cb734a2cdbbb1b4aedc210101b2387ff03384a273dbcc19b945888008b85d3e8",
+    "title_pt": "Em quem votam os imigrantes naturalizados? Semelhante ao resto dos eleitores, mas quase não influencia o resultado",
+    "summary_pt": "A população de origem estrangeira em Espanha é muito heterogénea tanto em ideologia como em participação e ainda não tem muito peso nas urnas."
+  },
+  {
+    "title": "Una pregunta que agita la campaña: “¿Debe tener cabida la extrema derecha en la televisión pública?”",
+    "summary": "Seis analistas reflexionan sobre las declaraciones que han valido a la periodista Silvia Intxaurrondo un expediente de la Junta Electoral y el impacto de la decisión",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/opinion/2026-11-25/silvia-intxaurrondo-y-los-limites-de-la-conversacion-publica.html",
+    "date": "2026-11-25T04:30:01Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/ZV4DU55QEJGE7H4HG3KMDT3L64.jpg?auth=99370708a0f337b4c2d255abd7be37b417fce3306b21f853bea0d10201d173f9",
+    "title_pt": "Uma questão que agita a campanha: “Deve a extrema-direita ter lugar na televisão pública?”",
+    "summary_pt": "Seis analistas refletem sobre as declarações que renderam à jornalista Silvia Intxaurrondo um arquivo da Junta Eleitoral e o impacto da decisão"
   },
   {
     "title": "El insoportable coste de la violencia machista",
@@ -5159,20 +5205,6 @@
     "summary_pt": "A esposa do astronauta canadense Joshua Kutryk, que atualmente está a bordo da Estação Espacial Internacional, deu à luz o terceiro filho do casal, anunciaram autoridades canadenses."
   },
   {
-    "title": "Amnesty calls for ICC genocide probe over Israel's impact on births in Gaza",
-    "summary": "Amnesty International on Wednesday urged the International Criminal Court to investigate whether Israeli officials committed genocide in Gaza, citing measures it says have prevented births and severely harmed women's reproductive health. The rights group said it had serious concerns that these effects were intentional, while acknowledging it could not reach ",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/middle-east/20261125-amnesty-calls-for-icc-genocide-probe-over-israel-s-impact-on-births-in-gaza",
-    "date": "2026-11-25T04:01:48Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/456077bc-a605-11f1-b43e-005056a90284/w:1024/p:16x9/000-C6ZG6V4.jpg",
-    "title_pt": "Amnistia pede investigação do genocídio do TPI sobre o impacto de Israel nos nascimentos em Gaza",
-    "summary_pt": "A Amnistia Internacional instou na quarta-feira o Tribunal Penal Internacional a investigar se as autoridades israelitas cometeram genocídio em Gaza, citando medidas que, segundo ela, impediram nascimentos e prejudicaram gravemente a saúde reprodutiva das mulheres. O grupo de direitos humanos disse ter sérias preocupações de que estes efeitos fossem intencionais, embora reconhecesse que não poderia atingir"
-  },
-  {
     "title": "Coreia do Norte expulsa chefe de escritório diplomático suíço",
     "summary": "Ministro das Relações Exteriores da Suíça, Ignazio Cassis, se reúne com a chanceler norte-coreana, Choe Son Hui, em Pyongyang, em 30 de outubro de 2026. Korean Central News Agency/Korea News Service via AP A Coreia do Norte exigiu nesta quarta-feira (25) o fechamento do novo escritório diplomático da Suíça em Pyongyang e ordenou que o principal diplomata res",
     "category": "Geral",
@@ -5215,7 +5247,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5265,20 +5297,6 @@
     "image": ""
   },
   {
-    "title": "North Korea expels Swiss diplomat over sanctions weeks after office reopening",
-    "summary": "North Korea expels Swiss diplomat over sanctions weeks after office reopening Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNUNWNUd3TUtJYTY3OEc0TGI5U1NhNDdFREhNdzVxU3pnV2ZoaDgybzlaS0lvbVRXNWVxeG5uZFRRVEswT2s3V25GLWppMEJtLUZvSTJ3UVVVTE8tMUtGVFVSempYNmhyMmdjTXJGb0RGTFdMcVc0ZTJaUkVENC1tWk1Mbl9LYlBGZUYyRUJqejhCRXdyWGdhVVdxNnJjRTA1dlVmdUxHd0JOalNrWXBLQ2hGQktJalJjQmhqMkVBT1ZNWlFqa2xWeHFiMWdaRmZtRV9EYkNibTczZw?oc=5",
-    "date": "2026-11-25T03:19:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Coreia do Norte expulsa diplomata suíço por causa de sanções semanas após reabertura do escritório",
-    "summary_pt": "Coreia do Norte expulsa diplomata suíço por sanções semanas após reabertura do escritório Reuters"
-  },
-  {
     "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
     "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
     "category": "Geral",
@@ -5291,18 +5309,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d1/live/b36a7310-e87d-11f1-98e2-c97dce6bef0d.jpg",
     "title_pt": "Ilhas Salomão encerra polêmico pacto de segurança com a China para tratado australiano",
     "summary_pt": "O líder das Ilhas Salomão, Matthew Wale, disse que seu país não seria mais um ponto de incerteza regional."
-  },
-  {
-    "title": "Bangladesh minimum wage hike misses garment worker demands, sparks fresh protests",
-    "summary": "Bangladesh minimum wage hike misses garment worker demands, sparks fresh protests Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX25GRDZCYm1IVFNncXVSenBCSUFwYTVUbEZYU1JvQktGWTNZa0FsNzl5bXQyazNzeXF1ODl1VXJBa1hYZkdZc0s2dUFPRi1JS3V1SXFnTjQ3M0hRTEtQaE1GaF9lVm9KNUc2amhiYkFudk5WT0M4RXpUMWJNRzVvQzFneHp6TUF5Vng2YWd2UUJFRlBmU2pxc3RidmZ3SlUzLXViTmw4VmhtclBDVUFxSDdhNFlfTTFEcVZyYm5KRkU?oc=5",
-    "date": "2026-11-25T03:13:00Z",
-    "lang": "en",
-    "image": ""
   },
   {
     "title": "The Russian army’s secret death toll – podcast",
@@ -5615,7 +5621,7 @@
   {
     "title": "Why tiny cars are taking off across Europe",
     "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6207,7 +6213,7 @@
   {
     "title": "Faisal Islam: Fears over the AI boom haven't gone away",
     "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6217,20 +6223,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
     "title_pt": "Faisal Islam: Os temores em relação ao boom da IA não desapareceram",
     "summary_pt": "Havia receios legítimos antes da saída abrupta de Huang da Nvidia — e o seu retorno não vai resolver isso"
-  },
-  {
-    "title": "GP surgery suspends routine appointments due to 'tsunami' of demand",
-    "summary": "Aberfoyle Medical Practice in Derry says its doctors are treating 60 patients each every day.",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cm62pze6xn37o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-24T18:12:52Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca8/live/4160e700-e7e6-11f1-8b26-c1adae33e7f2.jpg",
-    "title_pt": "Clínica geral suspende consultas de rotina devido ao \"tsunami\" de demanda",
-    "summary_pt": "A Aberfoyle Medical Practice, em Derry, afirma que seus médicos atendem 60 pacientes por dia cada um."
   },
   {
     "title": "At least 24 injured after car bomb detonates in central Colombia",
