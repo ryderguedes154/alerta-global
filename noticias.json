@@ -1,5 +1,17 @@
 [
   {
+    "title": "China sends first foreign astronaut to its space station as Pakistani joins Shenzhou 24 crew",
+    "summary": "China launches Shenzhou 24 spacecraft carrying foreign crew",
+    "category": "Geral",
+    "region": "Global",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/2026/11/25/china-sends-first-foreign-astronaut-to-its-space-station-as-pakistani-joins-shenzhou-24-cr",
+    "date": "2026-11-25T05:12:28Z",
+    "lang": "en",
+    "image": "https://images.euronews.com/articles/stories/10/00/69/66/696x392_cmsv2_35f4a487-e2e6-5255-9d47-9dc446d060dc-10006966.jpg"
+  },
+  {
     "title": "The Gambia election: Can the next president deliver on a decade of promise",
     "summary": "Gambians head to the polls amid economic hardship and unfulfilled promises of reform and justice.",
     "category": "Geral",
@@ -253,6 +265,22 @@
     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Oz-Solomons-01-gzjw/25int-Oz-Solomons-01-gzjw-mediumSquareAt3X.jpg",
     "title_pt": "Ilhas Salomão firmam tratado de segurança com a Austrália, em um golpe contra a China",
     "summary_pt": "Um acordo firmado em 2022 entre as Ilhas Salomão e a China havia gerado preocupações de que ele permitiria a Pequim estabelecer uma presença militar na ilha do Pacífico. O novo acordo impede a criação dessas bases."
+  },
+  {
+    "title": "Terremoto de magnitude 4.7 — 178 km ESE of Kimbe, Papua New Guinea",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "178 km ESE of Kimbe, Papua New Guinea",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uddj",
+    "date": "2026-11-25T04:30:32.480000Z",
+    "lat": -6.3544,
+    "lon": 151.5376,
+    "depth_km": 10.0,
+    "forcedSev": "low",
+    "title_pt": "Terremoto de magnitude 4.7 — 178 km ESE of Kimbe, Papua New Guinea",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
     "title": "Las últimas oposiciones de Feijóo",
@@ -993,7 +1021,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1119,7 +1147,7 @@
   {
     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1681,7 +1709,7 @@
   {
     "title": "The rising cost of putting food on the table in India",
     "summary": "India's food inflation is broadening, squeezing household budgets.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1933,7 +1961,7 @@
   {
     "title": "Why tiny cars are taking off across Europe",
     "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4305,7 +4333,7 @@
   {
     "title": "Faisal Islam: Fears over the AI boom haven't gone away",
     "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6873,33 +6901,5 @@
     "image": "https://e3.365dm.com/26/11/1920x1080/skynews-gisele-pelicot-france_7414958.jpg?20261124010316",
     "title_pt": "Gisele Pelicot está \"profundamente chocada\" com o envio de suas fotos de nua para a mídia",
     "summary_pt": "Gisele Pelicot disse que está \"profundamente chocada\" e \"humilhada\" depois que imagens suas nuas foram enviadas à mídia sem seu consentimento para promover um novo livro sobre controle coercitivo."
-  },
-  {
-    "title": "China sentences official to death for spying for foreign country",
-    "summary": "Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher says A Chinese official has been sentenced to death for spying for a foreign country, a government-linked publisher has said. Gold Wall Press, a publishing company associated with China’s national administration of state secrets prote",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
-    "date": "2026-11-24T02:37:36Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/5d7028c1f7418b6df67a8b82c97cfc5563385eba/154_0_2536_2029/master/2536.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a95a804a7a2e793e1fc9c362b557b3a",
-    "title_pt": "China condena funcionário à morte por espionar para país estrangeiro",
-    "summary_pt": "Autoridade acusada vazou segredos nacionais para um país não identificado e recebeu pagamentos de mais de US$ 150 mil, segundo editora ligada ao Estado. Uma autoridade chinesa foi condenada à morte por espionar para um país estrangeiro, afirmou uma editora ligada ao governo. A Gold Wall Press, uma editora associada à Administração Nacional de Proteção de Segredos de Estado da China,"
-  },
-  {
-    "title": "Experts say failed climate talks could worsen climate inequality, though all progress is not stalled",
-    "summary": "This year’s U.N. climate talks in Turkey failed to deliver consensus on how the world should confront climate change, even as it triggers more natural disasters that hit hardest in vulnerable countries that didn’t cause the problem. Dozens of nations on Sunday objected to the final text — meant to …",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "US",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/climate-talks-cop31-turkey-ae4c6b1fc5d6b6679947e01c9ff8f607?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-    "date": "2026-11-24T02:08:04Z",
-    "lang": "en",
-    "image": "https://ic-cdn.flipboard.com/apnews.com/04a1d4e3190521648b5c2141d0fde18acf2c31a6/_xlarge.jpeg",
-    "title_pt": "Especialistas dizem que as negociações climáticas fracassadas podem piorar a desigualdade climática, embora nem todo o progresso esteja paralisado",
-    "summary_pt": "As conversações climáticas da ONU deste ano na Turquia não conseguiram chegar a um consenso sobre a forma como o mundo deveria enfrentar as alterações climáticas, mesmo que estas desencadeiem mais catástrofes naturais que atingem mais duramente os países vulneráveis ​​que não causaram o problema. Dezenas de nações se opuseram no domingo ao texto final – destinado a…"
   }
 ]
