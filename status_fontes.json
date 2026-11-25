@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-25T00:30:19.517957Z",
+  "updated_at": "2026-11-25T00:35:34.530402Z",
   "total": 500,
   "total_sources": 19,
-  "translated_titles": 424,
-  "translated_summaries": 423,
+  "translated_titles": 416,
+  "translated_summaries": 415,
   "with_images": 433,
   "sources": [
     {
@@ -14,7 +14,7 @@
       "failed_feeds": 0,
       "status": "online",
       "latest_article_at": "2026-11-24T21:22:00Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "Al Jazeera",
@@ -23,8 +23,8 @@
       "working_feeds": 1,
       "failed_feeds": 0,
       "status": "online",
-      "latest_article_at": "2026-11-25T00:00:00Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "latest_article_at": "2026-11-25T00:28:28Z",
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "Associated Press",
@@ -34,27 +34,27 @@
       "failed_feeds": 0,
       "status": "online",
       "latest_article_at": "2026-11-24T06:01:41Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "BBC News",
-      "count": 50,
-      "collected": 119,
+      "count": 52,
+      "collected": 120,
       "working_feeds": 5,
       "failed_feeds": 0,
       "status": "online",
-      "latest_article_at": "2026-11-25T00:03:37Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "latest_article_at": "2026-11-25T00:34:05Z",
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "CBS News",
-      "count": 21,
+      "count": 22,
       "collected": 30,
       "working_feeds": 1,
       "failed_feeds": 0,
       "status": "online",
       "latest_article_at": "2026-11-25T00:29:14Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "CNN Brasil",
@@ -64,7 +64,7 @@
       "failed_feeds": 0,
       "status": "online",
       "latest_article_at": "2026-11-24T23:55:15Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "DW Brasil",
@@ -74,7 +74,7 @@
       "failed_feeds": 0,
       "status": "online",
       "latest_article_at": "2026-11-24T20:43:00Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "Deutsche Welle",
@@ -84,7 +84,7 @@
       "failed_feeds": 0,
       "status": "online",
       "latest_article_at": "2026-11-24T22:34:00Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "El País",
@@ -94,17 +94,17 @@
       "failed_feeds": 0,
       "status": "online",
       "latest_article_at": "2026-11-24T23:36:31Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "Euronews",
-      "count": 31,
+      "count": 30,
       "collected": 59,
       "working_feeds": 2,
       "failed_feeds": 0,
       "status": "online",
       "latest_article_at": "2026-11-24T18:04:08Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "France 24",
@@ -114,17 +114,17 @@
       "failed_feeds": 0,
       "status": "online",
       "latest_article_at": "2026-11-24T23:31:22Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "G1 Mundo",
-      "count": 43,
+      "count": 42,
       "collected": 65,
       "working_feeds": 1,
       "failed_feeds": 0,
       "status": "online",
       "latest_article_at": "2026-11-24T23:26:38Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "Le Monde",
@@ -133,8 +133,8 @@
       "working_feeds": 1,
       "failed_feeds": 0,
       "status": "online",
-      "latest_article_at": "2026-11-25T00:15:16Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "latest_article_at": "2026-11-25T00:15:12Z",
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "NHK World",
@@ -144,7 +144,7 @@
       "failed_feeds": 0,
       "status": "online",
       "latest_article_at": null,
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "NPR",
@@ -154,7 +154,7 @@
       "failed_feeds": 0,
       "status": "online",
       "latest_article_at": "2026-11-24T14:24:04Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "Reuters",
@@ -164,7 +164,7 @@
       "failed_feeds": 0,
       "status": "online",
       "latest_article_at": "2026-11-24T23:15:07Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "Sky News",
@@ -174,7 +174,7 @@
       "failed_feeds": 0,
       "status": "online",
       "latest_article_at": "2026-11-24T21:36:00Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "The Guardian",
@@ -183,18 +183,18 @@
       "working_feeds": 1,
       "failed_feeds": 0,
       "status": "online",
-      "latest_article_at": "2026-11-25T00:12:44Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "latest_article_at": "2026-11-25T00:27:02Z",
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "The New York Times",
-      "count": 25,
+      "count": 24,
       "collected": 57,
       "working_feeds": 1,
       "failed_feeds": 0,
       "status": "online",
-      "latest_article_at": "2026-11-24T22:03:38Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "latest_article_at": "2026-11-25T00:27:45Z",
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     },
     {
       "name": "USGS",
@@ -204,7 +204,7 @@
       "failed_feeds": 0,
       "status": "online",
       "latest_article_at": "2026-11-24T23:29:55.097000Z",
-      "checked_at": "2026-11-25T00:30:19.517957Z"
+      "checked_at": "2026-11-25T00:35:34.530402Z"
     }
   ]
 }
