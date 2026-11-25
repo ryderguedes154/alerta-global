@@ -1,7 +1,7 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T16:24:42.409858Z",
+  "checked_at": "2026-11-25T16:29:50.086929Z",
   "status": "checado",
   "items": [
     {
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Irã denuncia o uso de IA pelos EUA na guerra",
+      "summary": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+      "published_on": "25/11/2026 12:26 (Boa Vista)",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Os EUA anunciam novas tarifas para vários países, incluindo a China",
       "summary": "Os novos impostos afetariam muitos dos maiores parceiros comerciais dos Estados Unidos, incluindo a China e a União Europeia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://www.france24.com/en/video/20261125-russian-casualties-in-ukraine-war-new-reports-suggest-death-toll-as-high-as-700-000",
       "published_on": "25/11/2026 12:17 (Boa Vista)",
       "image": "https://s.france24.com/media/display/997db198-e8ea-11f1-9ee6-95e072ff0a91/w:1024/p:16x9/EN-20261125-120429-120550-CS.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Teddy Riner critica o envio de soldados franceses à Ucrânia para missões não-combatentes: “Não é a nossa guerra”",
-      "summary": "O candidato presidencial refere-se ao pequeno núcleo de forças convencionais que se deslocam regularmente para a Ucrânia para treino e reparação de equipamento.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-critique-le-deploiement-de-soldats-francais-en-ukraine-pour-des-missions-non-combattantes-ce-n-est-pas-notre-guerre_6815137_823448.html",
-      "published_on": "25/11/2026 12:10 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/25/86/151/1813/1209/1440/960/60/0/74ec1d2_upload-1-yzvfcwpv44gs-l1004345.jpg",
       "selection": "automatic"
     },
     {

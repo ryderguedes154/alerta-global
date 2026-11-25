@@ -1,5 +1,47 @@
 [
   {
+    "title": "Iran denounces U.S. use of AI in war",
+    "summary": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days.",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+    "date": "2026-11-25T16:26:25Z",
+    "lang": "en",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
+    "title_pt": "Irã denuncia o uso de IA pelos EUA na guerra",
+    "summary_pt": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias."
+  },
+  {
+    "title": "Poundland collapses putting 11,000 jobs at risk",
+    "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-25T16:24:30Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eda/live/616fb5d0-e8bd-11f1-ac76-db9e97f93d67.jpg",
+    "title_pt": "A Poundland entra em colapso, colocando 11 mil empregos em risco",
+    "summary_pt": "A rede de lojas de descontos entrou em processo de recuperação judicial depois que seus proprietários não conseguiram encontrar um comprador."
+  },
+  {
+    "title": "Why has Poundland collapsed and what happens next?",
+    "summary": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-25T16:24:30Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab50/live/540f97f0-e8ec-11f1-99b6-a35a62fa4264.jpg",
+    "summary_pt": "A cadeia retalhista entrou em colapso apenas um ano depois de ter sido comprada por 1 libra por uma empresa americana.",
+    "title_pt": "Por que Poundland entrou em colapso e o que acontece a seguir?"
+  },
+  {
     "title": "Manifestaciones 25-N contra la violencia de género, en directo | Ana Redondo defiende situarse con las mujeres que sufren el “terrorismo privado” de la violencia machista: “No cabe la equidistancia”",
     "summary": "El feminismo se moviliza contra la violencia machista en medio de la campaña, con temor a un retroceso si la ultraderecha llega al Gobierno | 49 mujeres han sido asesinadas por sus parejas o exparejas en lo que va de año",
     "category": "Geral",
@@ -7,7 +49,7 @@
     "country": "ES",
     "source": "El País",
     "url": "https://elpais.com/sociedad/2026-11-25/manifestaciones-25-n-contra-la-violencia-de-genero-en-directo.html",
-    "date": "2026-11-25T16:22:32Z",
+    "date": "2026-11-25T16:23:34Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/M54YKCQUTZFAHAVDIQ2LQ3OZ24.jpg?auth=41fe66fbe6ab02723547f1da62b8675abeb3e677825212f5166b47792c3578f6",
     "title_pt": "Manifestações do dia 25 de novembro contra a violência de gênero, ao vivo | Ana Redondo defende o apoio às mulheres que sofrem o \"terrorismo privado\" da violência machista: \"Não há espaço para a neutralidade\"",
@@ -66,8 +108,8 @@
     "date": "2026-11-25T16:20:57Z",
     "lang": "en",
     "image": "https://s.france24.com/media/display/4e7ac158-e8e6-11f1-a131-c131ae9bfe9c/w:1024/p:16x9/EN-20261125-162057-162259-CS.jpg",
-    "summary_pt": "As irmãs gêmeas Taraneh e Romina Rahimi aguardam a sentença no Irã. Foram detidos em janeiro de 2026, com apenas 19 anos, por participarem em protestos contra o regime iraniano. Taraneh enfrenta a pena de morte, enquanto Romina foi condenada a 25 anos de prisão. A família deles tem feito campanha pela sua libertação.",
-    "title_pt": "Família iraniana busca libertação de irmãs gêmeas que enfrentam pena de morte e 25 anos de prisão"
+    "title_pt": "Família iraniana busca libertação de irmãs gêmeas que enfrentam pena de morte e 25 anos de prisão",
+    "summary_pt": "As irmãs gêmeas Taraneh e Romina Rahimi aguardam a sentença no Irã. Foram detidos em janeiro de 2026, com apenas 19 anos, por participarem em protestos contra o regime iraniano. Taraneh enfrenta a pena de morte, enquanto Romina foi condenada a 25 anos de prisão. A família deles tem feito campanha pela sua libertação."
   },
   {
     "title": "El Ejército de Estados Unidos detona sus reservas de un compuesto explosivo en Iowa",
@@ -168,6 +210,20 @@
     "summary_pt": "O presidente dos EUA instou o líder da tecnologia a 'dizer a verdade' no próximo depoimento em uma audiência no Senado. Inscreva-se no e-mail de notícias de última hora dos EUA para receber alertas de boletins informativos em sua caixa de entrada Olá e bem-vindo ao blog ao vivo sobre política dos EUA. Donald Trump disse que consideraria perdoar o presidente-executivo da Nvidia, Jensen Huang, se necessário, mas acrescentou que não achava"
   },
   {
+    "title": "Airline Norse Atlantic says financial situation 'critical', shares plunge over 70%",
+    "summary": "Airline Norse Atlantic says financial situation 'critical', shares plunge over 70% Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnBxTTlMWW9sR2p0cHd4OXk3enppYzRYOTFkOENpamtod1VHTExCQjRqZ1cxRWRjZ04wZlp4NzR1SVdQaGpPeWNTLVpmN09fc3R0WGxUMUFUQ0tOekxYV3ZSY2w2WTQtUDR6N2pETVotWWRlV1VrRVhXYTFYY19SRXRfZ3Z5bmFnb2xVVjNjRkJPdG9qRE4yRGxMMVNyMjlEdXBvSEw1SjMxYVFvNjVEckszYw?oc=5",
+    "date": "2026-11-25T16:12:03Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "A companhia aérea Norse Atlantic afirma que sua situação financeira é \"crítica\", e suas ações caem mais de 70%",
+    "summary_pt": "A companhia aérea Norse Atlantic afirma que sua situação financeira é \"crítica\", e suas ações caem mais de 70% — Reuters"
+  },
+  {
     "title": "Ronaldo defende Ancelotti e Neymar: “Soberba é a última coisa que ele tem”",
     "summary": "Ex-jogador avaliou o trabalho do técnico da Seleção Brasileira e criticou comentários sobre visual do camisa 10 da seleção",
     "category": "Geral",
@@ -206,8 +262,8 @@
     "date": "2026-11-25T16:10:23Z",
     "lang": "es",
     "image": "https://imagenes.elpais.com/resizer/v2/RVOL5FHCPEAFNPTODBK2CTFK7Y.jpg?auth=dc273e109f0521fb794e56f738ea2576eadd7119db67fefc814e623a81cb6b5a",
-    "summary_pt": "A orquestra sinfônica mais importante da Catalunha está parada há três finais de semana para exigir a aplicação da jornada de trabalho de 35 horas semanais",
-    "title_pt": "Os músicos da OBC dão uma folga ao L'Auditori e vão se apresentar nos shows deste fim de semana"
+    "title_pt": "Os músicos da OBC dão uma folga ao L'Auditori e vão se apresentar nos shows deste fim de semana",
+    "summary_pt": "A orquestra sinfônica mais importante da Catalunha está parada há três finais de semana para exigir a aplicação da jornada de trabalho de 35 horas semanais"
   },
   {
     "title": "Nasdaq slides 4% as AI selloff, tariff proposals rattle Wall St",
@@ -306,20 +362,6 @@
     "image": "",
     "title_pt": "561 mil milhões de euros e ainda não são suficientes: o orçamento da Alemanha para 2027 expõe uma coligação à beira do abismo",
     "summary_pt": "O orçamento para 2027 atingiu novos máximos e os fundos de pensões, as despesas com a defesa e uma economia fraca estão a aumentar a pressão. Ao mesmo tempo, as tensões aumentam dentro do governo."
-  },
-  {
-    "title": "Poundland collapses putting 11,000 jobs at risk",
-    "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
-    "category": "Economia",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-25T16:03:07Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eda/live/616fb5d0-e8bd-11f1-ac76-db9e97f93d67.jpg",
-    "title_pt": "A Poundland entra em colapso, colocando 11 mil empregos em risco",
-    "summary_pt": "A rede de lojas de descontos entrou em processo de recuperação judicial depois que seus proprietários não conseguiram encontrar um comprador."
   },
   {
     "title": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
@@ -502,20 +544,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/SQDAR4H7HJFYJFHURQBLOEAWEE.jpg?auth=9792ec9a9e7f01f7cd2d9a68ba3afe70f8c1ae1ea8aaff5fa99676f9efa4baa2",
     "title_pt": "O horror revelado por Ximena Santaolalla: “Fui abusada diariamente durante nove anos pelo meu padrasto Francisco Aguirre”",
     "summary_pt": "A escritora mexicana conta ao EL PAÍS os ataques que sofreu quando criança pelas mãos do empresário, que presidiu o Grupo Rádio Centro por quase 30 anos."
-  },
-  {
-    "title": "Iran denounces U.S. use of AI in war",
-    "summary": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days.",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-    "date": "2026-11-25T15:53:48Z",
-    "lang": "en",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
-    "title_pt": "Irã denuncia o uso de IA pelos EUA na guerra",
-    "summary_pt": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias."
   },
   {
     "title": "How to Celebrate Thanksgiving as an Expat",
@@ -1120,6 +1148,20 @@
     "summary_pt": "Segundo o analista de Segurança Pública da CNN Elijonas Maia, cúpula da corporação se apoiou estritamente a ordem do presidente do STF na elaboração do documento"
   },
   {
+    "title": "EXCLUSIVE: Boehly signs US-backed share swap deal to buy Lukoil global assets",
+    "summary": "EXCLUSIVE: Boehly signs US-backed share swap deal to buy Lukoil global assets Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM05VWXNudnhTWW1BY2VFUHpZRzdNSjU4TG1Ob3NYZTRKM0tNUWNGQmxyNEp6NW0yTEJWaTZabF9UNW9CUUZTclBhaGpnQmZ6WVRZTVhqS3dpOTBsZEtaOGZnMzFPQlR5MDRpZThJNmU0cXc5Q0trMDNhdWtxVjV4V1lMYzYyR1RHU0lBNDdWZDlzOWxBN1J1Wm0xWlJkNEVMaVNXUXdQcTRuUHlvczlnMTd1VGRWQQ?oc=5",
+    "date": "2026-11-25T15:18:49Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "EXCLUSIVO: Boehly assina acordo de troca de ações apoiado pelos EUA para comprar ativos globais da Lukoil",
+    "summary_pt": "EXCLUSIVO: Boehly assina acordo de troca de ações apoiado pelos EUA para comprar ativos globais da Lukoil Reuters"
+  },
+  {
     "title": "Cazé vê Inter em cenário “assustador” e critica Alan Patrick",
     "summary": "Comentarista da CazéTV avaliou momento do Colorado após vexame contra o Vitória e derrota para o Vasco; risco de queda é de 93,7%",
     "category": "Geral",
@@ -1345,7 +1387,7 @@
   },
   {
     "title": "EUA fazem explosão controlada de material tóxico que gerou polêmica e virou batalha judicial",
-    "summary": "Nuvel de fumaça é vista no local onde Exército dos EUA detonou material explosivo, em Middletown, Iowa, em 25 de novembro de 2026. Jim Urquhart/ Reuters O Exército dos Estados Unidos realizou nesta quarta-feira (25) a polêmica explosão controlada de 68 barris de azida de chumbo, substância usada na fabricação de munições. A detonação ocorreu no estado de Iow",
+    "summary": "EUA fazem explosão controlada de material tóxico em Iowa O Exército dos Estados Unidos realizou nesta quarta-feira (25) a polêmica explosão controlada de 68 barris de azida de chumbo, substância usada na fabricação de munições. A detonação ocorreu no estado de Iowa e só foi possível com autorização da Justiça, após uma disputa envolvendo possíveis riscos à s",
     "category": "Geral",
     "region": "Global",
     "country": "BR",
@@ -1355,7 +1397,7 @@
     "lang": "pt",
     "image": "https://s2-g1.glbimg.com/gC6giin3dHYdtrTRi5W1xn6U1kw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/R/tOh7bARAmU9nDeSYm7Hw/2026-11-25t152000z-1113860993-rc23voa25d25-rtrmadp-3-iowa-army-detonation.jpg",
     "title_pt": "EUA fazem explosão controlada de material tóxico que gerou polêmica e virou batalha judicial",
-    "summary_pt": "Nuvel de fumaça é vista no local onde Exército dos EUA detonou material explosivo, em Middletown, Iowa, em 25 de novembro de 2026. Jim Urquhart/ Reuters O Exército dos Estados Unidos realizou nesta quarta-feira (25) a polêmica explosão controlada de 68 barris de azida de chumbo, substância usada na fabricação de munições. A detonação ocorreu no estado de Iow"
+    "summary_pt": "EUA fazem explosão controlada de material tóxico em Iowa O Exército dos Estados Unidos realizou nesta quarta-feira (25) a polêmica explosão controlada de 68 barris de azida de chumbo, substância usada na fabricação de munições. A detonação ocorreu no estado de Iowa e só foi possível com autorização da Justiça, após uma disputa envolvendo possíveis riscos à s"
   },
   {
     "title": "Austrália aprova lei que prevê multas bilionárias para redes sociais",
@@ -1479,7 +1521,7 @@
     "url": "https://g1.globo.com/mundo/noticia/2026/11/25/video-turista-tenta-atravessar-ponte-durante-ventania-no-chile-e-enfrenta-forte-turbulencia.ghtml",
     "date": "2026-11-25T14:58:11Z",
     "lang": "pt",
-    "image": "https://s2-g1.glbimg.com/a8yT1CQbNe6i1_YUkOI2KelhmeI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/2/0py8c1Qh2lDHvjYcxACg/ponte-.png",
+    "image": "https://s2-g1.glbimg.com/6XlIqGLNHYMlxBlwqebimIGFUyM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/c/XJ1yM9Q2OmPBE7DMej4A/design-sem-nome-2026-11-25t132302.406.jpg",
     "title_pt": "VÍDEO: turista tenta atravessar ponte móvel durante ventania no Chile e enfrenta forte 'turbulência'",
     "summary_pt": "Homem fica 'preso' em ponte no Chile durante forte ventania Um turista que fazia trekking em um parque nacional do Chile passou por momentos de tensão ao ser surpreendido por um forte vendaval quando atravessava uma ponte. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O homem teve de se agarrar forte à ponte, que é móvel, para não cair. Veja no"
   },
@@ -2716,20 +2758,6 @@
     "summary_pt": "A correspondente da BBC, Colletta Smith, explica o aumento de janeiro."
   },
   {
-    "title": "Airline Norse Atlantic says financial situation 'critical', shares plunge over 70%",
-    "summary": "Airline Norse Atlantic says financial situation 'critical', shares plunge over 70% Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnBxTTlMWW9sR2p0cHd4OXk3enppYzRYOTFkOENpamtod1VHTExCQjRqZ1cxRWRjZ04wZlp4NzR1SVdQaGpPeWNTLVpmN09fc3R0WGxUMUFUQ0tOekxYV3ZSY2w2WTQtUDR6N2pETVotWWRlV1VrRVhXYTFYY19SRXRfZ3Z5bmFnb2xVVjNjRkJPdG9qRE4yRGxMMVNyMjlEdXBvSEw1SjMxYVFvNjVEckszYw?oc=5",
-    "date": "2026-11-25T13:19:45Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "A companhia aérea Norse Atlantic afirma que sua situação financeira é \"crítica\", e suas ações caem mais de 70%",
-    "summary_pt": "A companhia aérea Norse Atlantic afirma que sua situação financeira é \"crítica\", e suas ações caem mais de 70% — Reuters"
-  },
-  {
     "title": "Why Indian nationals are still ending up in Russia's war on Ukraine",
     "summary": "Whether through deception or desperation, Indians continue to be drawn into Russia's war in Ukraine. What can New Delhi do to protect its citizens from ending up fighting in Ukraine?",
     "category": "Conflitos",
@@ -3770,7 +3798,7 @@
   {
     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4092,7 +4120,7 @@
   {
     "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
     "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4964,7 +4992,7 @@
   {
     "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
     "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5058,20 +5086,6 @@
     "image": "",
     "title_pt": "UE planeja fundo de tecnologia de 50 bilhões de euros para desafiar EUA e China, informa FT",
     "summary_pt": "UE planeja fundo de tecnologia de € 50 bilhões para desafiar EUA e China, informa FT Reuters"
-  },
-  {
-    "title": "US shelves plans for business deals with Russia to end Ukraine war, FT says",
-    "summary": "US shelves plans for business deals with Russia to end Ukraine war, FT says Reuters",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5",
-    "date": "2026-11-25T05:16:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "EUA arquivam planos de acordos comerciais com a Rússia para acabar com a guerra na Ucrânia, diz FT",
-    "summary_pt": "EUA arquivam planos de acordos comerciais com a Rússia para acabar com a guerra na Ucrânia, diz FT Reuters"
   },
   {
     "title": "China sends first foreign astronaut to its space station as Pakistani joins Shenzhou 24 crew",
@@ -5526,7 +5540,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Tecnologia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5752,7 +5766,7 @@
   {
     "title": "The rising cost of putting food on the table in India",
     "summary": "India's food inflation is broadening, squeezing household budgets.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5878,7 +5892,7 @@
   {
     "title": "Why tiny cars are taking off across Europe",
     "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6470,20 +6484,6 @@
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-istanbul-lion-bmfp/24int-istanbul-lion-bmfp-mediumSquareAt3X.jpg",
     "title_pt": "Um leão solto perto de Istambul? Calma lá.",
     "summary_pt": "Imagens de vigilância desfocadas desencadearam uma busca frenética — até que as autoridades turcas disseram que não estava claro se o animal era o felino."
-  },
-  {
-    "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-    "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-    "category": "Tecnologia",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-24T18:21:43Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
-    "title_pt": "Faisal Islam: Os temores em relação ao boom da IA não desapareceram",
-    "summary_pt": "Havia receios legítimos antes da saída abrupta de Huang da Nvidia — e o seu retorno não vai resolver isso"
   },
   {
     "title": "At least 24 injured after car bomb detonates in central Colombia",
