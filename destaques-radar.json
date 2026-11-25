@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-25T22:04:08.873342Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-25T22:09:56.331109Z",
+  "status": "checado",
   "items": [
     {
       "title": "Cinco jatos militares russos atingidos em ataque a campo de aviação, diz Ucrânia",
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Irã denuncia o uso de IA pelos EUA na guerra",
+      "summary": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+      "published_on": "25/11/2026 18:03 (Boa Vista)",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Dados vazados mostram que 490 mil soldados russos morreram na guerra na Ucrânia",
       "summary": "Dados do governo russo obtidos por hackers pró-Ucrânia e analisados ​​pela BBC indicam que a Rússia perdeu pelo menos 490.334 soldados durante a guerra contra a Ucrânia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
       "published_on": "25/11/2026 15:38 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9742/live/bc650a50-e906-11f1-99a1-253766e7ad8b.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Irã denuncia o uso de IA pelos EUA na guerra",
-      "summary": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-      "published_on": "25/11/2026 15:08 (Boa Vista)",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
       "selection": "automatic"
     },
     {
