@@ -2,9 +2,23 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-25T13:31:28.706Z",
+  "updated_at": "2026-11-26T21:46:21.890Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "Surto de ebola no Congo supera 12 mil casos; violência dificulta resposta sanitária",
+      "summary": "Boletim do ECDC de 26 de novembro registra 12.021 casos confirmados e 5.904 mortes na República Democrática do Congo, com dados até 24 de novembro. A Associated Press relata evacuação de profissionais de saúde devido a confrontos. A OMS mantém a emergência de saúde pública de importância internacional.",
+      "impact_br": "Reforça a importância da vigilância epidemiológica e da preparação para casos importados; não implica transmissão no Brasil.",
+      "category": "Saúde",
+      "region": "África",
+      "country": "CD",
+      "source": "ECDC",
+      "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-11-26",
+      "published_on": "2026-11-26",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-26T21:46:21.890Z"
+    },
     {
       "title": "EUA anunciam proposta de novas tarifas contra 14 parceiros comerciais",
       "summary": "O escritório do representante comercial dos EUA anunciou em 25 de novembro propostas tarifárias após investigação sobre excesso de capacidade industrial. China, União Europeia, Japão e Coreia do Sul estão entre os atingidos. As medidas ainda passarão por consulta pública e não estão em vigor; implementação prevista não antes de janeiro.",
