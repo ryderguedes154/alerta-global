@@ -1,9 +1,22 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T14:41:43.197825Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T14:47:28.237113Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Trump pode continuar com a guerra contra o Irã, apesar das restrições de financiamento?",
+      "summary": "Um projeto de lei orçamentária do Congresso poderia servir como uma tática de pressão sobre Trump para pôr fim à guerra, mas também poderia desencadear uma paralisação.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
+      "published_on": "26/11/2026 10:17 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04df4d-1795481421.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
     {
       "title": "Rússia lança mísseis balísticos e uma saraivada de drones contra a Ucrânia, matando pelo menos três pessoas",
       "summary": "As defesas aéreas da Ucrânia abateram 87 mísseis e drones russos durante a noite de quinta-feira. Enquanto isso, drones ucranianos atacaram uma fábrica de produtos químicos que fabrica componentes para explosivos militares e uma usina de energia na região de Stavropol.",
@@ -28,19 +41,6 @@
       "url": "https://www.cbsnews.com/video/heres-why-black-sea-matters-for-nato-russia-ukraine-war/",
       "published_on": "26/11/2026 09:46 (Boa Vista)",
       "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/26/1e93f110-3d7c-4656-9389-71b5a78cf175/thumbnail/1200x630/c2f51336bc962cdbdc1018e979ab80e9/cbsn-fusion-heres-why-black-sea-matters-for-nato-russia-ukraine-war-thumbnail.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Kremlin acusa Ucrânia de tentar expandir guerra para novos mares",
-      "summary": "Moscou afirma que ataques em portos da Líbia e no Mar Báltico representam manobras perigosas para aliança ocidental",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/kremlin-acusa-ucrania-de-tentar-expandir-guerra-para-novos-mares/",
-      "published_on": "26/11/2026 08:56 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/Secretario-geral-da-Otan-Mark-Rutte-e-o-presidente-dos-EUA-Donald-Trump-21-de-janeiro-de-2026-REUTERS-Jonathan-Ernst.jpg?w=200",
       "selection": "automatic"
     },
     {
