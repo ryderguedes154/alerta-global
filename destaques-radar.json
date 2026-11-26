@@ -1,7 +1,7 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T10:26:42.260227Z",
+  "checked_at": "2026-11-26T10:32:11.998290Z",
   "status": "checado",
   "items": [
     {
@@ -18,29 +18,55 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump e chefe da Otan pedem que Rússia evite ações que ampliem guerra na Ucrânia",
-      "summary": "Presidente dos Estados Unidos, Donald Trump, dá coletiva de imprensa com o secretário-geral da Otan, Mark Rutte, em Ancara, na Turquia, em 8 de julho de 2026. FILIP SINGER/Pool via REUTERS A Rússia deve evitar ações que ampliem sua guerra na Ucrânia, afirmaram o presidente dos Estados Unidos, Donald Trump, e o secretário-geral da Otan, Mark Rutte, em um comu",
+      "title": "Depois que ataques cibernéticos e ameaças de bomba atingiram a Europa, o sobrevivencialismo se tornou popular",
+      "summary": "Mais governos na Europa estão a dizer aos cidadãos para se prepararem para emergências. Após interrupções inesperadas, muitos estão ouvindo.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/26/trump-e-chefe-da-otan-pedem-que-russia-evite-acoes-que-ampliem-guerra-na-ucrania.ghtml",
-      "published_on": "26/11/2026 02:23 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/hdkywJtqydvESMHlPq7HTz3p_vM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/A/EacI4mQrAxYhLkRoLDiQ/2026-07-08t084012z-1479568968-rc2k9mabh2dg-rtrmadp-3-nato-summit.jpg",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
+      "published_on": "26/11/2026 06:02 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-europe-preppers-fvzk/27int-europe-preppers-fvzk-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
-      "title": "Como o Vale do Silício se tornou central na guerra de Israel contra os palestinos",
-      "summary": "Dos sistemas de vigilância aos alvos da IA, os gigantes tecnológicos dos EUA estão profundamente enraizados na máquina de guerra de Israel.",
+      "title": "Ataque de drone na Ucrânia mata cinco pessoas em Zaporizhia ocupada pela Rússia",
+      "summary": "As forças russas lançam um ataque com mísseis balísticos contra a capital ucraniana, Kiev, atingindo um centro comercial e outros edifícios.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "QA",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
-      "published_on": "26/11/2026 02:12 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2024-10-15T021535Z_123914133_RC2IKAA62WWQ_RTRMADP_3_USA-DEFENSE-ARMY-1784890221.jpg?resize=1920%2C1440",
+      "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
+      "published_on": "26/11/2026 06:02 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b07dde5-1795677669.jpg?resize=1200%2C675",
+      "selection": "automatic"
+    },
+    {
+      "title": "Brasileiro enganado na luta pela Rússia: ‘A guerra é um inferno’",
+      "summary": "Dezenas de brasileiros ingressaram no exército russo, alguns dizem que foram atraídos por dois recrutadores que prometeram dinheiro e aventura. Aqui está a história de um soldado.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
+      "published_on": "26/11/2026 06:00 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/07/13/multimedia/00int-brazil-soldier-03-bfkl/00int-brazil-soldier-03-bfkl-facebookJumbo.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "A guerra Rússia-Ucrânia estende-se ao Báltico e ao Mediterrâneo",
+      "summary": "Ao atacar navios russos em todo o mundo, Kiev está a tentar aumentar a pressão sobre Moscovo e também a enviar sinais aos seus aliados ocidentais. Qual é o impacto no comércio marítimo global?",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "DE",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-all-1573-rdf",
+      "published_on": "26/11/2026 05:27 (Boa Vista)",
+      "image": "https://static.dw.com/image/80042297_6.jpg",
       "selection": "automatic"
     },
     {
@@ -57,19 +83,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Reino Unido investirá £ 9,5 milhões em parque eólico na Ucrânia para fortalecer o sistema de energia afetado pela guerra",
-      "summary": "Projecto capaz de abastecer 300.000 casas, tendo a Grã-Bretanha oferecido mais de 770 milhões de libras para reconstruir o sector energético. A Grã-Bretanha irá adicionar aos seus investimentos multimilionários na reconstrução do sistema energético da Ucrânia, financiando um projecto de parque eólico capaz de abastecer 300.000 famílias ucranianas. Ed Miliban",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
-      "published_on": "26/11/2026 01:00 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/0eb49fd7cf3892e47cfeb7ea38b317f175a29005/0_1053_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6feab567ca1f14566073f970c083d512",
-      "selection": "automatic"
-    },
-    {
       "title": "Os EUA anunciam novas tarifas para vários países, incluindo a China",
       "summary": "Os novos impostos afetariam muitos dos maiores parceiros comerciais dos Estados Unidos, incluindo a China e a União Europeia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -80,19 +93,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
       "published_on": "26/11/2026 00:10 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Os preços do petróleo voltam a subir à medida que o Irã e os houthis intensificam as ameaças",
-      "summary": "O aumento dos confrontos entre os aliados houtis do Irã e a Arábia Saudita, além das ameaças implacáveis de Teerã no Estreito de Ormuz, parecem estar revertendo semanas de queda nos preços do petróleo.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-      "published_on": "26/11/2026 06:18 (Boa Vista)",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
       "selection": "automatic"
     },
     {
