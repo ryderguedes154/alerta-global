@@ -1,8 +1,8 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T17:54:34.860466Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T17:59:44.628980Z",
+  "status": "checado",
   "items": [
     {
       "title": "À frente do BCE, um trio recém-nomeado para proteger a Europa da inflação… e talvez a França de um ataque aos mercados",
@@ -15,6 +15,19 @@
       "url": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
       "published_on": "26/11/2026 11:04 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/11/26/0/0/6000/4000/1440/960/60/0/98cc741_upload-1-gjf1s9dawpkv-ap26330506683267.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Dois italianos mortos em ataque no Kuwait, enquanto o Irã nega responsabilidade",
+      "summary": "Os dois eram técnicos da empresa alemã Rheinmetall, segundo o Ministério das Relações Exteriores da Itália.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "published_on": "26/11/2026 13:54 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
       "selection": "automatic"
     },
     {
@@ -54,19 +67,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/ataque-do-ira-ao-kuwait-mata-italianos-diz-italia-regime-iraniano-nega/",
       "published_on": "26/11/2026 12:38 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Centro-da-cidade-do-Kuwait.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Poderia o Mar Negro levar os EUA à guerra na Europa?",
-      "summary": "A guerra Rússia-Ucrânia está a alastrar para o Mar Negro, onde surgiram incidentes violentos, chegando mesmo à porta da NATO.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/black-sea-incidents-nato-russia-ukraine-war/",
-      "published_on": "26/11/2026 12:18 (Boa Vista)",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/26/fbdf7f7f-67cf-4834-8935-5e0d44573bc9/thumbnail/1200x630/f7e9d7a105a00acc1cbac6a437ffd0e6/martin-odonnell.png",
       "selection": "automatic"
     },
     {
