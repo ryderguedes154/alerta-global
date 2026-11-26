@@ -1,5 +1,19 @@
 [
   {
+    "title": "Au Mexique, le calvaire numérique d’une écrivaine féministe",
+    "summary": "Dahlia de la Cerda est victime d’un violent cyberharcèlement après ses prises de position en faveur de l’avortement, des droits des prostituées et contre la transphobie.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "FR",
+    "source": "Le Monde",
+    "url": "https://www.lemonde.fr/international/article/2026/11/26/au-mexique-le-calvaire-numerique-d-une-ecrivaine-feministe_6815332_3210.html",
+    "date": "2026-11-26T02:00:07Z",
+    "lang": "fr",
+    "image": "https://img.lemde.fr/2026/11/25/180/0/1218/812/1440/960/60/0/cc782e7_upload-1-u0zkpvyd8eur-screen-shot-2026-11-25-at-2-44-19-pm.png",
+    "title_pt": "No México, a provação digital de uma escritora feminista",
+    "summary_pt": "Dahlia de la Cerda é vítima de violento assédio cibernético após suas posições a favor do aborto, dos direitos das prostitutas e contra a transfobia."
+  },
+  {
     "title": "SpaceX reçoit l’autorisation de lancer jusqu’à un million de satellites pour ses centres de données spatiaux",
     "summary": "La course aux data centers spatiaux s’intensifie, l’espace offrant de nombreux avantages par rapport à la terre. Google mène ses propres travaux et Blue Origin a soumis une demande pour son projet.",
     "category": "Geral",
@@ -12,6 +26,22 @@
     "image": "https://img.lemde.fr/2026/11/25/0/0/4000/2666/1440/960/60/0/9bf7864_ftp-1-ywzskelvecxd-2026-11-25t182119z-215101840-rc2urlamebgu-rtrmadp-3-space-exploration-spacex.JPG",
     "title_pt": "SpaceX recebe permissão para lançar até um milhão de satélites para seus data centers espaciais",
     "summary_pt": "A corrida pelos data centers espaciais está se intensificando, com o espaço oferecendo muitas vantagens em relação à Terra. O Google está conduzindo seu próprio trabalho e a Blue Origin apresentou uma inscrição para seu projeto."
+  },
+  {
+    "title": "Terremoto de magnitude 5.2 — 183 km N of Hicks Bay, New Zealand",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "183 km N of Hicks Bay, New Zealand",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udjx",
+    "date": "2026-11-26T01:48:44.213000Z",
+    "lat": -35.9665,
+    "lon": 178.6429,
+    "depth_km": 12.687,
+    "forcedSev": "med",
+    "title_pt": "Terremoto de magnitude 5.2 — 183 km N of Hicks Bay, New Zealand",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
     "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – live",
@@ -184,7 +214,7 @@
   {
     "title": "US announces new tariffs on host of countries including China",
     "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1792,20 +1822,6 @@
     "summary_pt": "Senne Lammens soltou bola nos pés do adversário quando os Red Devils venciam por 2 a 1"
   },
   {
-    "title": "Novo tarifaço proposto por Trump é \"inaceitável\", diz governo brasileiro",
-    "summary": "Em nota, Secretaria de Comunicação da Presidência da República afirma que o Brasil pode retaliar os EUA com mais tarifas e que ameaça do governo Trump ignora negociações em curso entre os dois países.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "DW Brasil",
-    "url": "https://www.dw.com/pt-br/novo-tarifaço-proposto-por-trump-é-inaceitável-diz-governo-brasileiro/a-80055430?maca=bra-rss-br-br-1031-rdf",
-    "date": "2026-11-25T22:00:00Z",
-    "lang": "pt",
-    "image": "",
-    "title_pt": "Novo tarifaço proposto por Trump é \"inaceitável\", diz governo brasileiro",
-    "summary_pt": "Em nota, Secretaria de Comunicação da Presidência da República afirma que o Brasil pode retaliar os EUA com mais tarifas e que ameaça do governo Trump ignora negociações em curso entre os dois países."
-  },
-  {
     "title": "11/25: The Takeout with Major Garrett",
     "summary": "Weather postpones Macy's Thanksgiving Day Parade; Trump introduces new tariffs on China, the EU and major trading partners.",
     "category": "Geral",
@@ -1818,6 +1834,20 @@
     "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/26/00872662-9f55-4300-80aa-52489ef0d26f/thumbnail/1200x630/64dac3490091ff0941d482e99f1c0690/takeoutfull112526.jpg",
     "title_pt": "25/11: A comida para viagem com o Major Garrett",
     "summary_pt": "Tempo adia desfile do Dia de Ação de Graças da Macy's; Trump introduz novas tarifas sobre a China, a UE e os principais parceiros comerciais."
+  },
+  {
+    "title": "Novo tarifaço proposto por Trump é \"inaceitável\", diz governo brasileiro",
+    "summary": "Em nota, Secretaria de Comunicação da Presidência da República afirma que o Brasil pode retaliar os EUA com mais tarifas e que ameaça do governo Trump ignora negociações em curso entre os dois países.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "DW Brasil",
+    "url": "https://www.dw.com/pt-br/novo-tarifaço-proposto-por-trump-é-inaceitável-diz-governo-brasileiro/a-80055430?maca=bra-rss-br-br-1031-rdf",
+    "date": "2026-11-25T22:00:00Z",
+    "lang": "pt",
+    "image": "",
+    "title_pt": "Novo tarifaço proposto por Trump é \"inaceitável\", diz governo brasileiro",
+    "summary_pt": "Em nota, Secretaria de Comunicação da Presidência da República afirma que o Brasil pode retaliar os EUA com mais tarifas e que ameaça do governo Trump ignora negociações em curso entre os dois países."
   },
   {
     "title": "Kim Jong-un diz que status nuclear da Coreia do Norte é 'inviolável' e faz ameaça de guerra",
@@ -1934,7 +1964,7 @@
   {
     "title": "US stocks fall further as fears over AI intensify",
     "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2804,7 +2834,7 @@
   {
     "title": "What we know about Trump's Thanksgiving tariffs",
     "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3968,7 +3998,7 @@
   {
     "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
     "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4454,20 +4484,6 @@
     "image": "https://img.lemde.fr/2026/11/09/0/0/3999/2666/1440/960/60/0/3fb4e11_ftp-1-qbdoslm3ja6i-2026-11-09t094156z-1054697827-rc29koaaf5mu-rtrmadp-3-ai-energy.JPG",
     "title_pt": "Disputa entre Google e sua subsidiária russa: nova apreensão cautelar de 1,9 bilhão de euros em França",
     "summary_pt": "A apreensão teria sido realizada por um oficial de justiça, mandatado pela subsidiária russa do Google. A ação visa penhorar dívidas pertencentes à subsidiária irlandesa do grupo americano."
-  },
-  {
-    "title": "L’Australie et les îles Salomon concluent un accord sécuritaire, endiguant l’influence de la Chine dans le Pacifique",
-    "summary": "Le traité bilatéral signé le 25 novembre consacre l’Australie comme « premier partenaire en matière de sécurité » de l’archipel mélanésien. En 2022, les Iles Salomon avaient conclu un accord de sécurité avec Pékin, qui avait provoqué un électrochoc à Canberra.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "Le Monde",
-    "url": "https://www.lemonde.fr/international/article/2026/11/25/l-australie-et-les-iles-salomon-concluent-un-accord-securitaire-endiguant-l-influence-de-la-chine-dans-le-pacifique_6815126_3210.html",
-    "date": "2026-11-25T15:30:16Z",
-    "lang": "fr",
-    "image": "https://img.lemde.fr/2026/11/24/0/0/7926/5284/1440/960/60/0/45ac9e7_ftp-1-qe6zkaiwqka3-2026-11-24t231431z-831091997-rc2nuoa59a30-rtrmadp-3-australia-solomon-islands.JPG",
-    "title_pt": "Austrália e Ilhas Salomão chegam a acordo de segurança, restringindo a influência da China no Pacífico",
-    "summary_pt": "O tratado bilateral assinado em 25 de novembro estabelece a Austrália como o “primeiro parceiro de segurança” do arquipélago da Melanésia. Em 2022, as Ilhas Salomão concluíram um acordo de segurança com Pequim, o que chocou Camberra."
   },
   {
     "title": "Nigeria's upcoming election marred by rising AI disinformation",
@@ -5564,20 +5580,6 @@
     "summary_pt": "Acompanhe as histórias mais importantes de toda a Europa e além neste dia 25 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens."
   },
   {
-    "title": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
-    "summary": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "DW Brasil",
-    "url": "https://www.dw.com/pt-br/um-ano-após-feminicídios-no-cefet-rj-denúncias-de-assédio-seguem-sem-resposta/a-80032239?maca=bra-rss-br-br-1031-rdf",
-    "date": "2026-11-25T11:00:00Z",
-    "lang": "pt",
-    "image": "",
-    "title_pt": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
-    "summary_pt": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias."
-  },
-  {
     "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
     "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
     "category": "Geral",
@@ -5590,6 +5592,20 @@
     "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F31%2F6520f9574826bfd5bcbffd103b34%2Ffarflungpostcard-ef1.jpg",
     "title_pt": "Saudações do Monte Kilimanjaro, o ponto mais alto da África em todo o seu esplendor",
     "summary_pt": "Escalar montanhas altas como o Kilimanjaro é um estudo de contrastes – desde o sol forte até as noites geladas, o fogo e a neve."
+  },
+  {
+    "title": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
+    "summary": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "DW Brasil",
+    "url": "https://www.dw.com/pt-br/um-ano-após-feminicídios-no-cefet-rj-denúncias-de-assédio-seguem-sem-resposta/a-80032239?maca=bra-rss-br-br-1031-rdf",
+    "date": "2026-11-25T11:00:00Z",
+    "lang": "pt",
+    "image": "",
+    "title_pt": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
+    "summary_pt": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias."
   },
   {
     "title": "VÍDEO: mulher é perseguida por perus selvagens na rua nos EUA às vésperas do Dia de Ação de Graças",
@@ -5608,7 +5624,7 @@
   {
     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5804,7 +5820,7 @@
   {
     "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
     "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6762,7 +6778,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6996,19 +7012,5 @@
     "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/083d9220-fa69-48d6-9c7c-3fb7b201ce3f/thumbnail/1200x630/eeaf70bc20115ee99a80dbe635dd2e72/ap26328715944401.jpg",
     "title_pt": "Homens armados fazem reféns em supermercado em Cartagena, Colômbia",
     "summary_pt": "O presidente colombiano, Abelardo de la Espriella, disse que os homens eram \"criminosos comuns\" que fugiram para o supermercado após uma tentativa fracassada de assaltar um carro-forte."
-  },
-  {
-    "title": "Hostages held in Colombia supermarket after botched robbery",
-    "summary": "Gunmen in Colombia stormed into a supermarket on Tuesday, now holding around two dozen people hostage after what authorities said was a botched effort to rob an armored truck. Lilia Luciano reports.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/video/hostages-held-colombia-supermarket-botched-robbery/",
-    "date": "2026-11-25T00:25:35Z",
-    "lang": "en",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/25/8f1587bf-cbfb-40fc-9e45-47f868e9f130/thumbnail/1200x630/3b228da8e0bacc13df4285645c0740d8/cbsn-fusion-hostages-held-colombia-supermarket-botched-robbery-thumbnail.jpg",
-    "title_pt": "Reféns são detidos em supermercado na Colômbia após assalto fracassado",
-    "summary_pt": "Homens armados na Colômbia invadiram um supermercado na terça-feira, mantendo agora cerca de duas dezenas de pessoas como reféns, após o que as autoridades consideraram uma tentativa fracassada de roubar um caminhão blindado. Lília Luciano relata."
   }
 ]
