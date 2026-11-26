@@ -41,7 +41,7 @@
   },
   {
     "title": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
-    "summary": "Dario Amodei's remarks come amid predictions that AI matching or surpassing human intelligence is imminent.",
+    "summary": "Dario Amodei's remarks come amid predictions that AI may soon match or surpass human intelligence.",
     "category": "Geral",
     "region": "Global",
     "country": "QA",
@@ -237,7 +237,7 @@
   },
   {
     "title": "Des grandes marées historiques inondent le littoral californien, San Francisco évite les dévastations redoutées",
-    "summary": "Au sud de la métropole californienne, les habitants de la ville de Pacifica ont vu des vagues gigantesques briser le ponton et inonder les rues et les maisons proches de l’océan. L’amplitude de ces marées est accentuée par le réchauffement climatique et par un épisode d’El Niño très intense, cette année.",
+    "summary": "Au sud de la métropole californienne, les habitants de la ville de Pacifica ont vu des vagues gigantesques briser le ponton et inonder les rues et les maisons proches de l’océan. L’amplitude de ces marées est accentuée par le réchauffement climatique et par un épisode d’El Niño très intense.",
     "category": "Geral",
     "region": "Global",
     "country": "FR",
@@ -800,8 +800,8 @@
     "summary_pt": "Gana foi eleita para presidir o Conselho Executivo da ONU Turismo em 2027. A escolha ocorreu durante a 127ª reunião do colegiado nesta quarta-feira (25), nos Emirados Árabes Unidos. O país africano recebeu 19 votos, vencendo a Argentina, que teve 14 votos. O Brasil, que deixa a presidência do conselho no biênio 2025-2026, permanecerá na vice-presidência ao l"
   },
   {
-    "title": "US judge blocks FCC from threatening Disney-owned ABC stations",
-    "summary": "US judge blocks FCC from threatening Disney-owned ABC stations Reuters",
+    "title": "US judge blocks FCC from targeting Disney-owned ABC stations",
+    "summary": "US judge blocks FCC from targeting Disney-owned ABC stations Reuters",
     "category": "Geral",
     "region": "Global",
     "country": "GLOBAL",
@@ -809,9 +809,7 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa3U4SjN4dnBlQUVGemRWMkxMdndfMXJjMHBmNUtvRDMtVmJhRWhZVS1kZzd0UHVUend5T3NJRlV2elRaTW1jQ3Y1QjNpVEtWRlltZ0x2WE5kSVNQbWdUZ1BpWmtyZHFQYjVmTUphNk1wWlRlbU8wTUpuUjdHa0ZXc19tV3hFUEFMY3Q3WVphZDdTeGRKUGRDWTU1YmxoRWl0anJCUTc2NA?oc=5",
     "date": "2026-11-26T00:34:00Z",
     "lang": "en",
-    "image": "",
-    "title_pt": "Juiz dos EUA impede a FCC de ameaçar as emissoras da ABC, que pertencem à Disney",
-    "summary_pt": "Juiz dos EUA impede a FCC de ameaçar as emissoras da ABC, pertencentes à Disney Reuters"
+    "image": ""
   },
   {
     "title": "En Egypte, un incendie meurtrier sur une autoroute de l’agglomération du Caire fait une trentaine de victimes",
@@ -942,7 +940,7 @@
   {
     "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
     "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1068,7 +1066,7 @@
   {
     "title": "US approves SpaceX plan to send a million data satellites to space",
     "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-    "category": "Economia",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2158,20 +2156,6 @@
     "summary_pt": "Equipes se enfrentam nesta quarta-feira (25), às 20h (de Brasília), na Arena MRV, em Belo Horizonte, em partida que encerra a 36ª rodada do Campeonato Brasileiro"
   },
   {
-    "title": "11/25: The Takeout with Major Garrett",
-    "summary": "Weather postpones Macy's Thanksgiving Day Parade; Trump introduces new tariffs on China, the EU and major trading partners.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/video/112526-the-takeout-with-major-garrett/",
-    "date": "2026-11-25T22:00:00Z",
-    "lang": "en",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/26/00872662-9f55-4300-80aa-52489ef0d26f/thumbnail/1200x630/64dac3490091ff0941d482e99f1c0690/takeoutfull112526.jpg",
-    "title_pt": "25/11: A comida para viagem com o Major Garrett",
-    "summary_pt": "Tempo adia desfile do Dia de Ação de Graças da Macy's; Trump introduz novas tarifas sobre a China, a UE e os principais parceiros comerciais."
-  },
-  {
     "title": "Novo tarifaço proposto por Trump é \"inaceitável\", diz governo brasileiro",
     "summary": "Em nota, Secretaria de Comunicação da Presidência da República afirma que o Brasil pode retaliar os EUA com mais tarifas e que ameaça do governo Trump ignora negociações em curso entre os dois países.",
     "category": "Geral",
@@ -2184,6 +2168,20 @@
     "image": "",
     "title_pt": "Novo tarifaço proposto por Trump é \"inaceitável\", diz governo brasileiro",
     "summary_pt": "Em nota, Secretaria de Comunicação da Presidência da República afirma que o Brasil pode retaliar os EUA com mais tarifas e que ameaça do governo Trump ignora negociações em curso entre os dois países."
+  },
+  {
+    "title": "11/25: The Takeout with Major Garrett",
+    "summary": "Weather postpones Macy's Thanksgiving Day Parade; Trump introduces new tariffs on China, the EU and major trading partners.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/video/112526-the-takeout-with-major-garrett/",
+    "date": "2026-11-25T22:00:00Z",
+    "lang": "en",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/26/00872662-9f55-4300-80aa-52489ef0d26f/thumbnail/1200x630/64dac3490091ff0941d482e99f1c0690/takeoutfull112526.jpg",
+    "title_pt": "25/11: A comida para viagem com o Major Garrett",
+    "summary_pt": "Tempo adia desfile do Dia de Ação de Graças da Macy's; Trump introduz novas tarifas sobre a China, a UE e os principais parceiros comerciais."
   },
   {
     "title": "Kim Jong-un diz que status nuclear da Coreia do Norte é 'inviolável' e faz ameaça de guerra",
@@ -2848,7 +2846,7 @@
   {
     "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
     "summary": "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3369,6 +3367,18 @@
     "summary_pt": "Depois de anos de relações frias e hostis sob o governo do ex-primeiro-ministro húngaro Viktor Orban, aliado do Kremlin, seu sucessor, Peter Magyar, e o presidente ucraniano Volodymyr Zelenskyy buscam restabelecer as relações entre seus países."
   },
   {
+    "title": "Venezuela data deluge cheers investors, but $237 billion debt test lies ahead",
+    "summary": "Venezuela data deluge cheers investors, but $237 billion debt test lies ahead Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSnBhS2YxRk5nTjRFbDJON0ROb19SVEYzc2dGYUpnb0ozdzV0Y2p2eHRjMVlYd3p3M09lam1qTHN2dkNhVDhsZmVvNUE3NXg3dFlCOWh4NUNzVXNqUmt4LVBDRFNCdDNGdlU0ak9hVTY1c1J4VXJ4a2stZndwbzE3b2QxLWxjMlJydmNkUlJDTTRDTmdDV21PS2hraVRUT0pLM29OLXJtZV9kaVhqTWlRc2tWM25tMFdNUnR0RXU3TQ?oc=5",
+    "date": "2026-11-25T18:50:43Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "La UME se desplegará en El Hierro tras declarar Canarias la emergencia por la crisis migratoria",
     "summary": "Clavijo solicita la intervención de la unidad militar tras la llegada de otras 255 personas",
     "category": "Geral",
@@ -3735,7 +3745,7 @@
   {
     "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
     "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5617,20 +5627,6 @@
     "summary_pt": "Acompanhe as histórias mais importantes de toda a Europa e além neste dia 25 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens."
   },
   {
-    "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
-    "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "NPR",
-    "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
-    "date": "2026-11-25T11:00:00Z",
-    "lang": "en",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F31%2F6520f9574826bfd5bcbffd103b34%2Ffarflungpostcard-ef1.jpg",
-    "title_pt": "Saudações do Monte Kilimanjaro, o ponto mais alto da África em todo o seu esplendor",
-    "summary_pt": "Escalar montanhas altas como o Kilimanjaro é um estudo de contrastes – desde o sol forte até as noites geladas, o fogo e a neve."
-  },
-  {
     "title": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
     "summary": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias.",
     "category": "Geral",
@@ -5643,6 +5639,20 @@
     "image": "",
     "title_pt": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
     "summary_pt": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias."
+  },
+  {
+    "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+    "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "NPR",
+    "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+    "date": "2026-11-25T11:00:00Z",
+    "lang": "en",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F31%2F6520f9574826bfd5bcbffd103b34%2Ffarflungpostcard-ef1.jpg",
+    "title_pt": "Saudações do Monte Kilimanjaro, o ponto mais alto da África em todo o seu esplendor",
+    "summary_pt": "Escalar montanhas altas como o Kilimanjaro é um estudo de contrastes – desde o sol forte até as noites geladas, o fogo e a neve."
   },
   {
     "title": "VÍDEO: mulher é perseguida por perus selvagens na rua nos EUA às vésperas do Dia de Ação de Graças",
@@ -5661,7 +5671,7 @@
   {
     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Geral",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5767,18 +5777,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c45/live/c86e5fb0-e8b4-11f1-99a1-253766e7ad8b.jpg",
     "title_pt": "Por que a China enviou o primeiro astronauta paquistanês ao espaço?",
     "summary_pt": "O paquistanês Muhammad Zeeshan Ali se tornou o primeiro estrangeiro a embarcar na estação espacial chinesa Tiangong."
-  },
-  {
-    "title": "Buy the stock dip? Options market signals say wait",
-    "summary": "Buy the stock dip? Options market signals say wait Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0dOWTF0OFdPY3R6M1VaWklxVjlwaGkzcDk3d1U4WXp2Q1dNX3FfYW5qYmMzZG1MbDUtRGg5elI1RUEwZzBVaGVZZnV1LUptczdWQU1teXhlVkN5cWVXNjZneXcxMkxPcEJtbVltV3VjWkVrN2pWTmNhTC1zby1sNWdDbGtCOVEyMEdXemdLNXRydHVv?oc=5",
-    "date": "2026-11-25T10:25:50Z",
-    "lang": "en",
-    "image": ""
   },
   {
     "title": "NATO allies anxious as war spreads beyond Ukraine, Russia borders",
