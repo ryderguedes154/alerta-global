@@ -1,7 +1,7 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T15:28:49.512936Z",
+  "checked_at": "2026-11-26T15:33:59.530044Z",
   "status": "checado",
   "items": [
     {
@@ -15,6 +15,19 @@
       "url": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
       "published_on": "26/11/2026 11:04 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/11/26/0/0/6000/4000/1440/960/60/0/98cc741_upload-1-gjf1s9dawpkv-ap26330506683267.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Brasileiro enganado na luta pela Rússia: ‘A guerra é um inferno’",
+      "summary": "Dezenas de brasileiros ingressaram no exército russo, alguns dizem que foram atraídos por dois recrutadores que prometeram dinheiro e aventura. Aqui está a história de um soldado.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
+      "published_on": "26/11/2026 11:27 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/07/13/multimedia/00int-brazil-soldier-03-bfkl/00int-brazil-soldier-03-bfkl-facebookJumbo.jpg",
       "selection": "automatic"
     },
     {
@@ -32,7 +45,7 @@
     },
     {
       "title": "Trump pede a Putin que pare 'banho de sangue' com ataques pela Europa",
-      "summary": "Presidente dos Estados Unidos, Donald Trump, dá coletiva de imprensa com o secretário-geral da Otan, Mark Rutte, em Ancara, na Turquia, em 8 de julho de 2026. FILIP SINGER/Pool via REUTERS A Rússia deve evitar ações que ampliem sua guerra na Ucrânia, afirmaram o presidente dos Estados Unidos, Donald Trump, e o secretário-geral da Otan, Mark Rutte, em um comu",
+      "summary": "Presidente dos Estados Unidos, Donald Trump, dá coletiva de imprensa com o secretário-geral da Otan, Mark Rutte, em Ancara, na Turquia, em 8 de julho de 2026. FILIP SINGER/Pool via REUTERS O presidente dos Estados Unidos, Donald Trump, pediu nesta quinta-feira (26) ao presidente da Rússia, Vladimir Putin, para que interrompa ataques na Ucrânia e \"ao redor da",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
@@ -41,19 +54,6 @@
       "url": "https://g1.globo.com/mundo/noticia/2026/11/26/trump-pede-a-putin-que-pare-banho-de-sangue-com-ataques-pela-europa.ghtml",
       "published_on": "26/11/2026 11:15 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/hdkywJtqydvESMHlPq7HTz3p_vM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/A/EacI4mQrAxYhLkRoLDiQ/2026-07-08t084012z-1479568968-rc2k9mabh2dg-rtrmadp-3-nato-summit.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump diz ter pedido que Putin pare com agressão militar contra a Europa",
-      "summary": "Presidente dos EUA detalhou encontro com líder russo em reunião com o secretário-geral da Otan, Mark Rutte, na Flórida",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-ter-pedido-que-putin-pare-com-agressao-militar-contra-a-europa/",
-      "published_on": "26/11/2026 11:15 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/porta-voz-kremlin.jpeg.jpg?w=200",
       "selection": "automatic"
     },
     {
