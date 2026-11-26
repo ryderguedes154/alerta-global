@@ -1,14 +1,14 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T10:32:11.998290Z",
+  "checked_at": "2026-11-26T10:37:27.057519Z",
   "status": "checado",
   "items": [
     {
       "title": "Após ter navio de guerra atingido na costa da África, Rússia acusa Ucrânia de tentar expandir guerra",
-      "summary": "Imagem de satélite mostra navio de guerra russo afundado na base naval Benghazi, na Líbia, em 22 de novembro de 2026. Vantor/Handout via REUTERS A Rússia acusou nesta quinta-feira (26) a Ucrânia de tentar expandir para os mares Mediterrâneo e Báltico a guerra que trava contra a Rússia, uma iniciativa que classificou como \"muito perigosa\". O Kremlin acrescent",
+      "summary": "Drones ucranianos afundam navio da Rússia na Líbia A Rússia acusou nesta quinta-feira (26) a Ucrânia de tentar expandir para os mares Mediterrâneo e Báltico a guerra que trava contra a Rússia, uma iniciativa que classificou como \"muito perigosa\". O Kremlin acrescentou que \"ninguém quer isso\". ✅ Siga o canal de notícias internacionais do g1 no WhatsApp A fala",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
+      "category": "Conflitos",
       "region": "Global",
       "country": "BR",
       "source": "G1 Mundo",
@@ -41,19 +41,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
       "published_on": "26/11/2026 06:02 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b07dde5-1795677669.jpg?resize=1200%2C675",
-      "selection": "automatic"
-    },
-    {
-      "title": "Brasileiro enganado na luta pela Rússia: ‘A guerra é um inferno’",
-      "summary": "Dezenas de brasileiros ingressaram no exército russo, alguns dizem que foram atraídos por dois recrutadores que prometeram dinheiro e aventura. Aqui está a história de um soldado.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
-      "published_on": "26/11/2026 06:00 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/07/13/multimedia/00int-brazil-soldier-03-bfkl/00int-brazil-soldier-03-bfkl-facebookJumbo.jpg",
       "selection": "automatic"
     },
     {
@@ -106,6 +93,19 @@
       "url": "https://www.cbsnews.com/news/russia-ukraine-war-russian-soldier-death-toll-data-leak/",
       "published_on": "25/11/2026 16:28 (Boa Vista)",
       "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/25/acf9fde0-9680-4a3b-a595-866bc3f80292/thumbnail/1200x630/55f336a7e4cf8d601d9a837f1f2389fb/gettyimages-1239916962.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "A migração líquida do Reino Unido cai para 77 mil, o menor número desde 1997, excluindo a pandemia de Covid – Política do Reino Unido ao vivo",
+      "summary": "A migração líquida caiu no ano encerrado em junho de 2026, de acordo com o Escritório Nacional de Estatísticas. Os Democratas Liberais afirmam que o Reino Unido precisa de um plano adequado para a imigração. Essa é a opinião de Paul Kohler, porta-voz do partido para questões de asilo e imigração. O Reino Unido precisa retomar o controle do seu sistema de imi",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Saúde",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+      "published_on": "26/11/2026 06:19 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/f9438b12e25d0510100c2baa53822bd454f6de67/41_0_2972_2377/master/2972.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9b9eed9b51b9301a43f17228a3301383",
       "selection": "automatic"
     }
   ]
