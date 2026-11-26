@@ -1,5 +1,43 @@
 [
   {
+    "title": "'Unacceptable': Major economies push back against new US tariffs",
+    "summary": "China, the European Union and other major trading partners on Thursday criticised new US tariffs of up to 20 percent proposed by US President Donald Trump after a probe into alleged global overcapacity, raising the prospect of fresh trade tensions with allies and rivals alike.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "FR",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/americas/20261126-unacceptable-major-economies-push-back-against-new-us-tariffs",
+    "date": "2026-11-26T07:16:41Z",
+    "lang": "en",
+    "image": "https://s.france24.com/media/display/1b38f54e-e968-11f1-b414-81bc2b1dcd65/w:1024/p:16x9/2026-11-25T135439Z-2052634195-RC21VOAE4UVU-RTRMADP-3-USA-TRUMP-TARIFFS.jpg"
+  },
+  {
+    "title": "Muere un marinero tras el hundimiento de un buque cargado de combustible cerca de Ibiza",
+    "summary": "Seis de los 17 tripulantes han resultado heridos leves en el naufragio del carguero, que transportaba 1,2 millones de litros de gasóleo. El Gobierno ha activado el Plan Nacional de Contingencias por Contaminación Marítima en nivel 2",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-26/muere-un-marinero-en-el-hundimiento-de-un-buque-cargado-de-combustible-cerca-de-ibiza.html",
+    "date": "2026-11-26T07:16:23Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/VR7NBIOE4NCCZE6QOKWCVHPNPY.jpg?auth=190bff7ca5a9c6324ef5590b7a18f29143d95b123999894b4a771eafe08ba359"
+  },
+  {
+    "title": "Was Japan Prime Minister Takaichi Snubbed at China’s Big Summit?",
+    "summary": "Images show the differences between the welcomes afforded to Sanae Takaichi and other world leaders in Shenzhen, as some officials in Japan cry foul.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
+    "date": "2026-11-26T07:14:18Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/26/multimedia/2026-11-24-apec-greeting-index/2026-11-24-apec-greeting-index-mediumSquareAt3X.jpg",
+    "title_pt": "A primeira-ministra do Japão, Takaichi, foi esnobada na grande cúpula da China?",
+    "summary_pt": "As imagens mostram as diferenças entre as recepções oferecidas a Sanae Takaichi e a outros líderes mundiais em Shenzhen, enquanto algumas autoridades no Japão protestam."
+  },
+  {
     "title": "King tides and powerful waves destroy pier and flood homes in California",
     "summary": "King tides and powerful waves destroy part of Pacifica's pier and flood coastal homes in California, US, prompting warnings from authorities.",
     "category": "Clima e desastres",
@@ -67,16 +105,16 @@
     "summary_pt": "A Índia negou as alegações dos EUA de que as políticas de Nova Deli promovem o excesso de capacidade industrial. Outras manchetes da Índia incluem as celebrações do Dia da Constituição. DW tem mais."
   },
   {
-    "title": "Muere un marinero tras el hundimiento de un buque cargado de combustible cerca de Ibiza",
-    "summary": "Seis de los 17 tripulantes han resultado heridos leves en el naufragio del carguero, que transportaba 1,2 millones de litros de gasóleo. El Gobierno ha activado el Plan Nacional de Contingencias por Contaminación Marítima en nivel dos",
+    "title": "EE UU propone nuevos aranceles contra 15 socios comerciales, entre ellos China y la UE",
+    "summary": "Los gravámenes más altos los sufrirá Pekín, mientras que México queda exento. Brasil no estaba en la lista inicial, pero ha sido añadido más tarde",
     "category": "Geral",
     "region": "Global",
     "country": "ES",
     "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-26/muere-un-marinero-en-el-hundimiento-de-un-buque-cargado-de-combustible-cerca-de-ibiza.html",
-    "date": "2026-11-26T06:57:55Z",
+    "url": "https://elpais.com/internacional/2026-11-25/ee-uu-anuncia-nuevos-aranceles-contra-14-socios-comerciales.html",
+    "date": "2026-11-26T06:58:17Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/VR7NBIOE4NCCZE6QOKWCVHPNPY.jpg?auth=190bff7ca5a9c6324ef5590b7a18f29143d95b123999894b4a771eafe08ba359"
+    "image": "https://imagenes.elpais.com/resizer/v2/YCJD3GQHXFONJAABQIAIPGVVJI.jpg?auth=db7959cfe9ccde6d4e4ced7b14f255bd09dd3747dbcd99b9d530a14f025acb6b"
   },
   {
     "title": "War and drought threaten livelihoods of Sudan’s farmers",
@@ -321,6 +359,18 @@
     "image": "https://s.france24.com/media/display/e60ee952-e960-11f1-829c-174dac1c1bf0/w:1024/p:16x9/AP19153526752150.jpg"
   },
   {
+    "title": "EXCLUSIVE: Data from Chinese AI firm MiniMax accessed by unidentified parties, researcher says",
+    "summary": "EXCLUSIVE: Data from Chinese AI firm MiniMax accessed by unidentified parties, researcher says Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXlXQVE4enJyRWstWjJvUGdBczBMWHdfZHRmYTNSN3I0eFpqeXBfVU5tN3NRSERpcjBPeE1rV1kwWTBwWnY3U2s1TnlpY2EtakM5TmItUW1UdnVFZXJWTWVRQk1paVhJeTBpSlB0eHJyWERRdnZ1bVctUmctdGJZOXpZMnFMdkxYVlZ3UHI4OE1wZEhocHBGNW0wU1Z3S2VxQ0x6a1pablJOUzlTOXlMSkxUYjRFcWtIc2tB?oc=5",
+    "date": "2026-11-26T06:28:14Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "Trump e chefe da Otan pedem que Rússia evite ações que ampliem guerra na Ucrânia",
     "summary": "Presidente dos Estados Unidos, Donald Trump, dá coletiva de imprensa com o secretário-geral da Otan, Mark Rutte, em Ancara, na Turquia, em 8 de julho de 2026. FILIP SINGER/Pool via REUTERS A Rússia deve evitar ações que ampliem sua guerra na Ucrânia, afirmaram o presidente dos Estados Unidos, Donald Trump, e o secretário-geral da Otan, Mark Rutte, em um comu",
     "category": "Conflitos",
@@ -545,18 +595,6 @@
     "date": "2026-11-26T05:56:15Z",
     "lang": "en",
     "image": "https://s.france24.com/media/display/9dd23b16-e91b-11f1-b396-95e072ff0a91/w:1024/p:16x9/EN-20261125-181554-182305-CS.jpg"
-  },
-  {
-    "title": "North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture",
-    "summary": "Kim accused Washington of encouraging its regional allies to acquire nuclear-powered submarines and of pledging to share its own nuclear weapons with them.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "EU",
-    "source": "Euronews",
-    "url": "https://www.euronews.com/2026/11/26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
-    "date": "2026-11-26T05:55:00Z",
-    "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/10/00/88/17/696x392_cmsv2_ba3f3382-7581-5112-be9d-1cddc3a1fd21-10008817.jpg"
   },
   {
     "title": "Iran denounces U.S. use of AI in war",
@@ -799,20 +837,6 @@
     "summary_pt": "Depois que um casal italiano comprou uma casa construída por Pier Paolo Pasolini, um dos maiores diretores de cinema do país, os moradores locais reivindicaram a propriedade."
   },
   {
-    "title": "Was Japan Prime Minister Takaichi Snubbed at China’s Big Summit?",
-    "summary": "Images show the differences between the welcomes afforded to Sanae Takaichi and other world leaders in Shenzhen, as some officials in Japan cry foul.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
-    "date": "2026-11-26T05:01:04Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/26/multimedia/2026-11-24-apec-greeting-index/2026-11-24-apec-greeting-index-mediumSquareAt3X.jpg",
-    "title_pt": "A primeira-ministra do Japão, Takaichi, foi esnobada na grande cúpula da China?",
-    "summary_pt": "As imagens mostram as diferenças entre as recepções oferecidas a Sanae Takaichi e a outros líderes mundiais em Shenzhen, enquanto algumas autoridades no Japão protestam."
-  },
-  {
     "title": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
     "summary": "Project capable of powering 300,000 homes, with Britain having offered more than £770m to rebuild energy sector Britain will add to its multimillion pound investments in rebuilding Ukraine’s energy system by funding a windfarm project capable of powering 300,000 Ukrainian households. Ed Miliband, the UK foreign secretary, said Britain would invest £9.5m to b",
     "category": "Conflitos",
@@ -930,18 +954,6 @@
     "summary_pt": "Esse ex-morador de Maryland, casado com uma americana, havia sido deportado injustamente para El Salvador em 2025 antes de ser indiciado, sem prosseguimento, ao retornar aos Estados Unidos. \"Estou feliz e comemorando minha liberdade\", disse ele ao chegar a Madri na quarta-feira."
   },
   {
-    "title": "¿Por qué las elecciones no están del todo decididas?",
-    "summary": "Nuevo episodio del pódcast ‘Entre datos’, donde Kiko Llaneras repasa todas las encuestas, explica su predicción y dice qué cifra mirar el domingo para saber pronto qué pasará",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/podcasts/2026-11-26/por-que-las-elecciones-no-estan-del-todo-decididas.html",
-    "date": "2026-11-26T04:45:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/IZCMRVM3NVDLHLH3OFRUY7RQHQ.png?auth=8bdf4b1c5b51590c73054bad85e57c5fbdd04e58a03bebfb2af1dea9bd0ec161&width=1200"
-  },
-  {
     "title": "¿Por qué a PP y a Vox les interesa alimentar la teoría del pucherazo?: “Lanzan un manto de sospecha sobre el sistema sin ninguna prueba”",
     "summary": "La sospecha de fraude electoral ha sido protagonista a lo largo de la campaña",
     "category": "Geral",
@@ -1010,18 +1022,6 @@
     "image": "https://img.lemde.fr/2026/11/19/0/0/7056/4704/1440/960/60/0/416287a_ftp-1-o72zp5beoynf-afp-d7yy2df.jpg",
     "title_pt": "Guerra na Ucrânia: os europeus estão prontos para conversar com Vladimir Putin para impor sua visão da arquitetura de segurança do Velho Continente",
     "summary_pt": "Embora não imaginem que a retomada do diálogo com Moscou possa levar à paz no curto ou médio prazo, os líderes europeus não querem deixar os Estados Unidos discutirem as relações da Rússia com a OTAN e a UE sem a participação deles."
-  },
-  {
-    "title": "Sánchez: “Estamos tocando con la yema de los dedos la mayoría progresista, si llegamos al 75% la podemos tener”",
-    "summary": "“Feijóo y Abascal practican un trumpismo preventivo. Tengo dudas de que reconozcan el resultado electoral si no suman”, asegura",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-26/sanchez-estamos-tocando-con-la-yema-de-los-dedos-la-mayoria-progresista-si-llegamos-al-75-la-podemos-tener.html",
-    "date": "2026-11-26T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/PFKBYTQL4VEFFB36OR4FJTEZ6Q.jpg?auth=a7e5b3db8c436d10d946fa0c97fa4579a66cef4a51f0e9018090eedafeb4e8cc"
   },
   {
     "title": "Sánchez, Feijóo, Abascal y Colau afrontan un debate clave para la definición de los dos bloques ante el 29-N",
@@ -1208,30 +1208,6 @@
     "summary_pt": "A oposição critica o governo pela queda na oferta apontada por alguns relatórios setoriais, enquanto o Ministério da Habitação defende que há meio milhão de contratos em vigor a mais do que em 2021 e que eles são mais estáveis."
   },
   {
-    "title": "El desahucio sin fin y sin fecha de Andrea y su hija de 13 años en una habitación de una pensión de Sevilla",
-    "summary": "Lleva siete meses en pensiones y pisos del Ayuntamiento sin opción de encontrar un alquiler. Vive con dos bolsas de viaje con toda su ropa. Su estancia se revisa cada semana",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/andalucia/2026-11-26/el-desahucio-sin-fin-y-sin-fecha-de-andrea-y-su-hija-de-13-anos-en-una-habitacion-de-una-pension-de-sevilla.html",
-    "date": "2026-11-26T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/EV3SK33U4BBJXNLOPJUEU4C7FE.jpg?auth=4c403abea000b006d430c6ae2a7de68af26cbb10bd9cd742a26c6412458dbb21"
-  },
-  {
-    "title": "Buscador de la movilidad laboral en España | Madrid pierde trabajadores y Valencia lidera la atracción de asalariados",
-    "summary": "Más de 342.000 empleados cambiaron de provincia para trabajar en 2025 respecto al año previo",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/economia/2026-11-26/buscador-de-la-movilidad-laboral-en-espana-madrid-pierde-trabajadores-y-valencia-lidera-la-atraccion-de-asalariados.html",
-    "date": "2026-11-26T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/A54FYWOS3BEKDMMRU2XEHM3RVI.jpg?auth=fd7c7b1ae4f2d3eb33610485704520870324f633d496ddc77d08bebdcc5cb1b2"
-  },
-  {
     "title": "Países Bajos se resiste a aceptar la derrota ante Hernández de Cos en la presidencia del BCE",
     "summary": "El español parte con ventaja frente al candidato holandés en una decisión que se toma previsiblemente este jueves",
     "category": "Geral",
@@ -1272,18 +1248,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/WZF3XWVAPJCU7BB5WDXZXF5NL4.jpg?auth=1459b9587e33e4f877842848c4f8d61f3c2b8d493743f8584139600aebbfe14a",
     "title_pt": "O plano de retorno de Puigdemont abre as portas para que ele deixe a política",
     "summary_pt": "O presidente do Junts admite que precisa avaliar seu grau de aceitação na Catalunha, porque em nove anos \"as coisas mudaram muito\""
-  },
-  {
-    "title": "El millonario Chambers, tras pasar meses encarcelado por una petición de EE UU: “Le podría pasar a cualquiera, es una táctica para aterrorizar a la gente”",
-    "summary": "El activista propalestino, que quedó libre el viernes a la espera de que España decida sobre su extradición, denuncia una creciente tendencia “a la represión política y a la criminalización de la protesta”",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-26/el-millonario-chambers-tras-pasar-meses-encarcelado-por-una-peticion-de-ee-uu-le-podria-pasar-a-cualquiera-es-una-forma-de-aterrorizar-a-la-gente.html",
-    "date": "2026-11-26T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/4P7CSLGIURHTDBL7MBULF4AXIE.jpg?auth=d083c903e89747120beeaf6ce8aa18c0d7616b1b5318209dfa2a892b7bf61668"
   },
   {
     "title": "La justicia francesa investiga la filtración de información confidencial para favorecer al partido de Le Pen",
@@ -1338,18 +1302,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/FDKOPIARY5FCRHHB2LHAX5NIYE.jpg?auth=14bb3ad146269f9263a25d627a235a3dc6ab2cec4c99b0a7fd904e49f6d7fd20",
     "title_pt": "Francesc Beltri: da estrela Michelin à revolução do bar de bairro",
     "summary_pt": "O chef de Barcelona teve que fechar seu premiado restaurante Slow & Low. Enquanto isso, as filas para entrar no Bar Canyí, estabelecimento que ele abriu ao lado em homenagem aos bares de sempre, à sua avó e à música que ele ama, dão a volta no quarteirão."
-  },
-  {
-    "title": "La cultura en los programas electorales: medidas, ausencias, posibles acuerdos y choques",
-    "summary": "Un análisis comparado de las promesas electorales para las artes de PSOE, PP, Vox, Frente Amplio, Podemos y Se Acabó la Fiesta muestra puntos de contacto en el mecenazgo o la internacionalización y discrepancias respecto a la historia o la tauromaquia",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/cultura/2026-11-26/la-cultura-en-los-programas-electorales-medidas-ausencias-posibles-acuerdos-y-choques.html",
-    "date": "2026-11-26T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/N2IJG5MDHFKCFDXJ7A2IKFOPPY.jpg?auth=c88ee20aa11025913ed422941e3ad7560bdc5f73fa0656c2dac4be2d071824a0"
   },
   {
     "title": "La agenda animal ante el 29-N: PP y Vox se centran en la caza y la tauromaquia y la izquierda en el bienestar",
@@ -1524,54 +1476,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/LYP4YBB3VBCRXKZ3BEXDI3L6TI.jpg?auth=e53956ff29aab3b654cdaa099bdedca05bb6979acb02e76135b8e1f3680722f2"
   },
   {
-    "title": "La Comunidad de Madrid utiliza un festival de arquitectura para “acercar a los ciudadanos” tres promociones del Plan Vive",
-    "summary": "El Open House se celebra cada año y permite conocer espacios singulares normalmente cerrados al público. La última edición incluyó por primera vez visitas a viviendas del programa de alquiler asequible del Gobierno de Ayuso",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/madrid/2026-11-26/la-comunidad-de-madrid-utiliza-un-festival-de-arquitectura-para-acercar-a-los-ciudadanos-tres-promociones-del-plan-vive.html",
-    "date": "2026-11-26T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/YU2M5QHSPZEIFJPCQYWOQ2H7KE.jpeg?auth=c1ccd7886e12baaa2aae21124398b60a3b6e02310188faa85143ae1eeb13511f"
-  },
-  {
-    "title": "La última batalla por el legado de Muñoz Ramonet: la fundación reclama a los herederos la entrega de 58 obras de arte más",
-    "summary": "La entidad ha identificado, con elementos “fotográficos, técnicos y documentales”, más pinturas de la herencia a la ciudad entre las incautadas por la Guardia Civil",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/catalunya/2026-11-26/la-ultima-batalla-por-el-legado-de-munoz-ramonet-la-fundacion-reclama-a-los-herederos-la-entrega-de-58-obras-de-arte-mas.html",
-    "date": "2026-11-26T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/6RSVGAZYK5KTTJXBAGE76XH7QY.jpg?auth=760c3e4a7f9700520c15e7c7de53425c70aaaebdce00ef9d2ec96557d00644a6"
-  },
-  {
-    "title": "Ripoll atribuye a un “error administrativo” el retraso de dos años para actualizar la nómina del jefe de policía local",
-    "summary": "Francesc Campayo había denunciado ante los tribunales haber sufrido “represalias” por reclamar el reconocimiento salarial",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/catalunya/2026-11-26/ripoll-atribuye-a-un-error-administrativo-el-retraso-de-dos-anos-para-actualizar-la-nomina-del-jefe-de-policia-local.html",
-    "date": "2026-11-26T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/MZBAOARI5BD6XE2TG3WOU5OF4A.jpg?auth=6587304346c9967f70847633942dc9e7e5ecd113a6fda7333e44ad773981e4c7"
-  },
-  {
-    "title": "La era atómica en el CCCB es la bomba",
-    "summary": "El centro barcelonés despliega una magnífica y abrumadora exposición que captura todo el terror y la fascinación que ha despertado y despierta la tecnología nuclear, especialmente en el mundo de la cultura y el arte",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/cultura/2026-11-26/la-era-atomica-en-el-cccb-es-la-bomba.html",
-    "date": "2026-11-26T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/JHVFSMIGDND3LNYFYBYYPZKSQQ.jpg?auth=2d8683c900b15c405b021f7f4ab33acffb845f903f4490f415aa9eec60642ca7"
-  },
-  {
     "title": "La obsesión por ganarse a los ‘influencers’ pone en aprietos al Gobierno británico",
     "summary": "La difusión de vídeos humorísticos de estrellas de TikTok en la sede del Ejecutivo abre un debate sobre la banalización de la institución y su empeño por llegar al electorado joven",
     "category": "Geral",
@@ -1614,6 +1518,78 @@
     "summary_pt": "De acordo com a ONU, 75% dos serviços destinados a mulheres e meninas foram suspensos, enquanto cerca de 15 caminhões com ajuda humanitária permanecem bloqueados devido a restrições de segurança e à deterioração das estradas."
   },
   {
+    "title": "La desigualdad salarial entre las cúpulas del Ibex y sus empleados se dispara a niveles récord en cinco años",
+    "summary": "Un informe de EY muestra que los altos directivos ganan un 51% más tras la pandemia, frente al estancamiento del poder adquisitivo del trabajador medio",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/economia/2026-11-26/la-desigualdad-salarial-entre-las-cupulas-del-ibex-y-sus-empleados-se-dispara-a-niveles-record-en-cinco-anos.html",
+    "date": "2026-11-26T04:30:01Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/DG6WKS7UOJIOZDU7ZYYQX643MA.jpg?auth=67ab15b9cadd378b6537c8203501aeeae049b663cde6cc563ed9f3093cd09956"
+  },
+  {
+    "title": "Ferran Bassas, el base de España que monta pistas de ‘pickleball’",
+    "summary": "El jugador del Manresa simboliza el valor de la clase media en la selección, que este jueves disputa un partido clave en Montenegro",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/baloncesto/2026-11-26/ferran-bassas-el-base-de-espana-que-monta-pistas-de-pickleball.html",
+    "date": "2026-11-26T04:30:01Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/BZDP7T7D4ZDO3NENVAN27YIVRI.jpg?auth=2971d80232f42f5a7553651c23239c7a13704afa253c0c0937836970a8b78419"
+  },
+  {
+    "title": "Senegal - Marruecos y la magia negra de los despachos",
+    "summary": "La sentencia del TAS sobre la victoria de Senegal ante Marruecos en la Copa de África incide en la jurisprudencia sobre “la doctrina del terreno de juego” que no cuestiona las decisiones deportivas del árbitro salvo que se prueben la mala fe o la corrupción, una consideración nada desdeñable en estos tiempos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/futbol/2026-11-26/senegal-marruecos-y-la-magia-negra-de-los-despachos.html",
+    "date": "2026-11-26T04:30:01Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/Z4QY6YA7UVLNRHTWJIULAR3GDY.jpg?auth=90630dea3852ef6121121eef977784bc95f611230650d34050e06c838fcbcc5a"
+  },
+  {
+    "title": "A la conquista teatral de la España vacía",
+    "summary": "‘Los rastreadores’, un proyecto pedagógico de La Joven Compañía Nacional de Teatro Clásico, busca acercar el Siglo de Oro a los institutos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/cultura/2026-11-26/a-la-conquista-teatral-de-la-espana-vaciada.html",
+    "date": "2026-11-26T04:30:01Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/KLMAZZ25MFCPLOV2CRMAUVKITQ.jpg?auth=a69b041bf27cb38eaef655b896d83d38d74fb6791aba76610b24bf345e2c4f2f"
+  },
+  {
+    "title": "Una caja de resistencia vacía e innecesaria",
+    "summary": "En la cháchara sobre censura y cláusulas antiideológicas hay mucho de cortina de humo. La batalla cultural es vistosa y permite que mientras la libramos se acometan fuera de foco recortes aún más dañinos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/television/2026-11-26/una-caja-de-resistencia-vacia-e-innecesaria.html",
+    "date": "2026-11-26T04:30:01Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/KPVHQI5NEJC2LFL5JLVRLRSJUU.jpg?auth=4af1c9f13200d8aae7e4ba4015bd41f9023d32fe82cfc3061abd655d00820334"
+  },
+  {
+    "title": "Nativel Preciado: “No me cabe en la cabeza que haya mujeres que voten a la extrema derecha”",
+    "summary": "La periodista y escritora, defensora de la moderación, reflexiona sobre el “peligro antidemocrático” en este 29N, sus vivencias con personajes de la Transición o el acoso sexual y laboral que sufrió",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/cultura/2026-11-26/nativel-preciado-no-me-cabe-en-la-cabeza-que-haya-mujeres-que-voten-a-la-extrema-derecha.html",
+    "date": "2026-11-26T04:30:01Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/NCST6IOQWREBDFQGG5V7PBYXA4.jpg?auth=dbdcaa394ae3c980cc47f8b9a30af6a9839d6899c1d3e656032ef57f368f132f"
+  },
+  {
     "title": "¿Por qué votar el domingo si un solo voto no cambia el resultado?",
     "summary": "Uno puede pensar que su papeleta no va a cambiar nada. Pero la ciencia muestra que no es así, el resultado de unas elecciones no deja de ser algo imprevisible. Hay, además, razones morales para votar: el abstencionismo es indicador de individualismo",
     "category": "Geral",
@@ -1642,6 +1618,30 @@
     "summary_pt": "\"Madonna: Into the Groove. An Intimate Portrait of the Queen of Pop\", nas livrarias dos Estados Unidos e do Canadá a partir de 8 de dezembro, reúne alguns retratos inéditos da cantora feitos em 1985 pelo falecido fotógrafo, quando a lenda da rainha do pop ainda estava apenas começando."
   },
   {
+    "title": "Mi contrato está en tácita reconducción. ¿La actualización de la renta se hace conforme el IPC?",
+    "summary": "Los lectores envían sus preguntas al consultorio de vivienda de EL PAÍS en colaboración con Legálitas",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/economia/vivienda/consultorio/2026-11-26/mi-contrato-esta-en-tacita-reconduccion-la-actualizacion-de-la-renta-se-hace-conforme-el-ipc.html",
+    "date": "2026-11-26T04:30:00Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/VAIOM5OYF5ARTFPG6BYGXTBFEA.jpg?auth=5fac1f971fc9080db12eb18190b3e3c6ed3081d86e29be194a07bc906cd6bd89"
+  },
+  {
+    "title": "¿Cuánto vale un CEO en Bolsa? Del billón de dólares de Elon Musk y Jensen Huang al jet de Steve Jobs",
+    "summary": "La resurrección de Jensen Huang reabre el debate sobre la dependencia de los grandes gurús de la IA, convertidos en timoneles de la economía mundial",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-26/cuanto-vale-un-ceo-en-bolsa-del-billon-de-dolares-de-elon-musk-y-jensen-huang-al-jet-de-steve-jobs.html",
+    "date": "2026-11-26T04:25:00Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/RCBO6TWHOJJORAXDPMVOCU534E.jpg?auth=3c3f017cd7c0ff298b8442c4ec4077494c0a96cd5fc78032fceb6c5700f80375"
+  },
+  {
     "title": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war",
     "summary": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war Reuters",
     "category": "Conflitos",
@@ -1666,6 +1666,30 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795666645.jpg?resize=1920%2C1080&quality=80",
     "title_pt": "Escritório de hipódromo destruído no Brasil",
     "summary_pt": "Uma forte tempestade quebrou janelas e lançou detritos para dentro de um escritório de um autódromo no Brasil."
+  },
+  {
+    "title": "Las eléctricas rechazan la desviación de un superávit en las redes aprobada por la CNMC",
+    "summary": "El regulador cierra la liquidación del sistema de 2025, en la que se trasvasan 428 millones para redes a otros costes de la factura, lo que perjudicará las inversiones de las empresas",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://cincodias.elpais.com/companias/2026-11-26/las-electricas-rechazan-la-desviacion-de-un-superavit-en-las-redes-aprobada-por-la-cnmc.html",
+    "date": "2026-11-26T04:15:00Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/ILA6KAZL4RK2TCSOVD4IXZSY7Y.jpg?auth=aad1761df5678b77fc8c78ebe7fdb0cf238177a404e0b8925bdadbfae69eba4a"
+  },
+  {
+    "title": "Recasens copia en Indra el modelo chino del automóvil: acelerar por tres los ritmos de desarrollo para hacer blindados “como churros”",
+    "summary": "Prevé hacer 1.053 unidades para 2034 de los diferentes programas que se le han asignado. Entre 2028 y 2029 quiere tener disponible una nueva plataforma terrestre propia adaptable a diferentes tipos de misión",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://cincodias.elpais.com/companias/2026-11-26/recasens-copia-en-indra-el-modelo-chino-del-automovil-acelerar-por-tres-los-ritmos-de-desarrollo-para-hacer-blindados-como-churros.html",
+    "date": "2026-11-26T04:15:00Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/S6SPOUD7OBE23K2R5RIA4OCN7Q.JPG?auth=71297a2b9de368c4d5dd9846332a0d7c0d7bd801f27fb6d77da37c9b540506c0"
   },
   {
     "title": "Musk pledges two SpaceX shares for every American child",
@@ -2004,6 +2028,18 @@
     "image": "https://static.dw.com/image/80055851_6.jpg",
     "title_pt": "O clima extremo ameaça as festividades de Ação de Graças nos EUA",
     "summary_pt": "Está prevista a passagem de uma grande tempestade pela costa leste dos EUA, o que provavelmente causará atrasos nas viagens. Os alertas meteorológicos foram suficientes para adiar o Desfile do Dia de Ação de Graças da Macy's pela primeira vez em seus 100 anos de história."
+  },
+  {
+    "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+    "summary": "SEOUL, South Korea (AP) — North Korean leader Kim Jong Un visited facilities that produce nuclear ingredients and called for building more nuclear weapons, days after ignoring U.S. President Donald Trump’s offer to meet during his recent visit to Asia. Kim’s statement signals again that he won’t …",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/north-korea-kim-nuclear-uranium-trump-78d6642ea055e8257518c3d695a58cd4?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+    "date": "2026-11-26T02:43:34Z",
+    "lang": "en",
+    "image": "https://ic-cdn.flipboard.com/apnews.com/4b5b4f5d015a0c79a004073c98988da634891f9f/_large.jpeg"
   },
   {
     "title": "TCU afasta multas a Dilma Rousseff por irregularidades fiscais em 2014",
@@ -2916,7 +2952,7 @@
   {
     "title": "US approves SpaceX plan to send a million data satellites to space",
     "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-    "category": "Clima e desastres",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3498,20 +3534,6 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Pronunciamento-Lula-e-Haddad-4-.jpeg?w=200",
     "title_pt": "Câmara aprova regras para escolas públicas em tempo integral",
     "summary_pt": "Proposta define jornada mínima de sete horas por dia ou 35 horas por semana durante todo o ano letivo; texto ainda precisa passar pelo Senado"
-  },
-  {
-    "title": "La Justicia argentina cita a declarar al número dos mundial del Opus Dei por trata de mujeres y reducción a la servidumbre",
-    "summary": "Mariano Fazio, vicario auxiliar del Opus Dei, deberá declarar en febrero junto a otros dos altos directivos de la Obra por la investigación abierta sobre el presunto sistema de captación y explotación laboral contra 43 mujeres",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/argentina/2026-11-25/la-justicia-argentina-cita-a-declarar-al-numero-dos-mundial-del-opus-dei-por-trata-de-mujeres-y-reduccion-a-la-servidumbre.html",
-    "date": "2026-11-25T22:40:18Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/O55HP2MCY5BJDEU52SRCCHVM6M.jpg?auth=cbde4b7b939bb21cc2faf1580fc2f880e2bb61f8794e71106f5696050e7342de",
-    "title_pt": "A Justiça argentina convoca o número dois mundial do Opus Dei a testemunhar por tráfico de mulheres e redução à servidão",
-    "summary_pt": "Mariano Fazio, vigário auxiliar do Opus Dei, deve testemunhar em fevereiro junto com outros dois dirigentes da Obra pela investigação aberta sobre o suposto sistema de recrutamento e exploração laboral contra 43 mulheres"
   },
   {
     "title": "Cosan negocia reduzir participação na Rumo, Compass e Moove, dizem fontes",
@@ -5122,20 +5144,6 @@
     "summary_pt": "Uma análise das divulgações financeiras do presidente dos EUA mostra que as carteiras de investimentos de Donald Trump negociaram regularmente ações da gigante de tecnologia."
   },
   {
-    "title": "'Free' land and thriving businesses: French village defies rural decline",
-    "summary": "As France's mayors gather in Paris for their annual convention, the decline in living standards and public services in both urban and rural areas is high on the agenda. Rural mayors, in particular, are concerned about the shrinking populations of their communities. But one small French town bucking the trend is Parlan, in the Cantal region, where the populat",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261125-free-land-and-thriving-businesses-french-village-defies-rural-decline",
-    "date": "2026-11-25T16:37:37Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/083d1a08-e8ee-11f1-bfaa-1991d4929b54/w:1024/p:16x9/EN-20261125-171233-171433-CS.jpg",
-    "title_pt": "Terras “livres” e negócios prósperos: aldeia francesa desafia o declínio rural",
-    "summary_pt": "Enquanto os presidentes de Câmara de França se reúnem em Paris para a sua convenção anual, o declínio dos padrões de vida e dos serviços públicos, tanto nas zonas urbanas como rurais, está no topo da agenda. Os presidentes de câmara rurais, em particular, estão preocupados com a diminuição da população das suas comunidades. Mas uma pequena cidade francesa que contraria a tendência é Parlan, na região de Cantal, onde a população"
-  },
-  {
     "title": "Moldova launches national preparedness campaign after drone incursions",
     "summary": "Moldova is urging its citizens to prepare for emergencies as the war in neighbouring Ukraine brings new risks across its border. The “Moldova Ready” campaign, launched in Chisinau, includes a display of the remains of a drone carrying 52kg of explosives after it crashed in the country last month. FRANCE 24's Daniel Whittington reports.",
     "category": "Geral",
@@ -5640,18 +5648,6 @@
     "image": "https://s2-g1.glbimg.com/aXyNVVWsq60bPQtSWJG7V6w9CH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/9/jd0F5xTUOKSVRgim8nnA/2026-11-16t144017z-1345596019-rc22poaux99k-rtrmadp-3-usa-trump.jpg",
     "title_pt": "Tarifaço: EUA propõem taxas sobre 14 países para combater 'excesso de capacidade industrial'",
     "summary_pt": "EUA propõem novas tarifas contra Brasil e 14 economias O governo dos Estados Unidos propôs nesta quarta-feira (25) novas tarifas de importação sobre produtos de 14 parceiros comerciais, incluindo China, União Europeia, Japão e Índia. O anúncio foi feito por Jamieson Greer, chefe do Escritório do Representante Comercial dos Estados Unidos (USTR, na sigla em i"
-  },
-  {
-    "title": "Israeli strike kills Hamas official, his wife and children",
-    "summary": "Israeli strike kills Hamas official, his wife and children Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjNlV0dRZTd0cDZJZVBnNFl6VUpTMDFlQlFIY0tJQzR5ZmNrYm9lNS1kMTRYbEpyM2FNMWp6Qms1NGh4VTU0YkxQN0NaY1FRV1diOENoQmdIQjJ0eU12VGZfamhNWHpsZUQ0MXczanBWZW1uWUZsVXpwcElhR2RXdG80RTBIcjZ1WjVHYW94MUhfUDI5dTA0ODZWRlBiVkFYNlhwR1RSaW1OZ2M?oc=5",
-    "date": "2026-11-25T14:19:53Z",
-    "lang": "en",
-    "image": ""
   },
   {
     "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
@@ -6288,7 +6284,7 @@
   {
     "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
     "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
