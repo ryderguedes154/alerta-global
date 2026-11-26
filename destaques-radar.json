@@ -1,9 +1,22 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T13:49:16.803718Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T13:55:03.226581Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Eis por que o Mar Negro é importante para a OTAN na guerra entre Rússia e Ucrânia",
+      "summary": "Chris Livesay viajou para a Romênia para entender o papel do Mar Negro na guerra entre Rússia e Ucrânia, enquanto sua Marinha trabalha para repelir ataques desonestos da Rússia contra a Ucrânia.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/video/heres-why-black-sea-matters-for-nato-russia-ukraine-war/",
+      "published_on": "26/11/2026 09:46 (Boa Vista)",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/26/1e93f110-3d7c-4656-9389-71b5a78cf175/thumbnail/1200x630/c2f51336bc962cdbdc1018e979ab80e9/cbsn-fusion-heres-why-black-sea-matters-for-nato-russia-ukraine-war-thumbnail.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Kremlin acusa Ucrânia de tentar expandir guerra para novos mares",
       "summary": "Moscou afirma que ataques em portos da Líbia e no Mar Báltico representam manobras perigosas para aliança ocidental",
@@ -41,19 +54,6 @@
       "url": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/11/26/720-mil-mortos-o-custo-humano-da-guerra-de-putin-na-ucrania-ameaca-o-futuro-da-russia.ghtml",
       "published_on": "26/11/2026 07:31 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/7A0XqkoPGR--0X1b0uxP3Uk0eME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/l/7nLRgkRKKKGyo3KeBwoQ/ap26118609512829-2-.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Após ter navio de guerra atingido na costa da África, Rússia acusa Ucrânia de tentar expandir conflito",
-      "summary": "Drones ucranianos afundam navio da Rússia na Líbia A Rússia acusou nesta quinta-feira (26) a Ucrânia de tentar expandir a guerra contra a Rússia para os mares Mediterrâneo e Báltico, uma iniciativa que classificou como \"muito perigosa\". \"Ninguém deseja isso\", disse o Kremlin. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp A fala ocorreu dias apó",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/26/russia-acusa-ucrania-tentar-expandir-guerra-ataques-africa-mar-baltico.ghtml",
-      "published_on": "26/11/2026 06:18 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/99zFOb8jCCOygoS6HrRYBd1oj_s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/t/kTR8rBRAuC4xOaMHuHJg/2026-11-23t090233z-26004991-rc2ysoavk78q-rtrmadp-3-ukraine-crisis-ships-1-.jpg",
       "selection": "automatic"
     },
     {
