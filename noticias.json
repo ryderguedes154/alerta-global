@@ -1,5 +1,31 @@
 [
   {
+    "title": "Huge explosion at oil depot in Bangkok sends fireball into sky",
+    "summary": "An explosion at an oil depot in Bangkok sent a large fireball and thick black smoke into the sky, journalists said Thursday, as local authorities urged people nearby to evacuate.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "FR",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/asia-pacific/20261126-huge-explosion-at-oil-depot-in-bangkok-sends-fireball-into-sky",
+    "date": "2026-11-26T08:27:20Z",
+    "lang": "en",
+    "image": "https://s.france24.com/media/display/8553b8ac-e971-11f1-8ef4-174dac1c1bf0/w:1024/p:16x9/AP1207040864.jpg"
+  },
+  {
+    "title": "Muere un marinero tras el hundimiento de un buque cargado de combustible cerca de Ibiza",
+    "summary": "Seis de los 17 tripulantes han resultado heridos leves en el naufragio del carguero, que transportaba 7.000 toneladas de gasóleo. El Gobierno ha activado el Plan Nacional de Contingencias por Contaminación Marítima en nivel 2",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-26/muere-un-marinero-en-el-hundimiento-de-un-buque-cargado-de-combustible-cerca-de-ibiza.html",
+    "date": "2026-11-26T08:24:51Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/TL3FGJD2TJCILOPMDCSVRYENLI.jpg?auth=7695cf7b528759005873d6e8e156e816ad0e8ab14948fb4b29f9b32b5b0a9aab",
+    "title_pt": "Um marinheiro morre após o naufrágio de um navio carregado de combustível perto de Ibiza",
+    "summary_pt": "Seis dos 17 tripulantes sofreram ferimentos leves no naufrágio do cargueiro, que transportava 1,2 milhão de litros de óleo diesel. O governo ativou o Plano Nacional de Contingências para Contaminação Marítima no nível 2"
+  },
+  {
     "title": "Poundland collapses putting 11,000 jobs at risk",
     "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
     "category": "Economia",
@@ -7,11 +33,49 @@
     "country": "GB",
     "source": "BBC News",
     "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-26T08:14:40Z",
+    "date": "2026-11-26T08:24:29Z",
     "lang": "en",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg",
     "title_pt": "A Poundland entra em colapso, colocando 11 mil empregos em risco",
     "summary_pt": "A rede de lojas de descontos entrou em processo de recuperação judicial depois que seus proprietários não conseguiram encontrar um comprador."
+  },
+  {
+    "title": "Iran denounces U.S. use of AI in war",
+    "summary": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days.",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+    "date": "2026-11-26T08:24:00Z",
+    "lang": "en",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
+    "title_pt": "Irã denuncia o uso de IA pelos EUA na guerra",
+    "summary_pt": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias."
+  },
+  {
+    "title": "Los astrónomos se rebelan contra el permiso de Elon Musk para desplegar un millón de centros de datos en el espacio",
+    "summary": "Las constelaciones de satélites de SpaceX ya dificultan la observación científica del espacio y la vigilancia de asteroides peligrosos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/ciencia/2026-11-26/los-astronomos-se-rebelan-contra-el-permiso-de-elon-musk-para-desplegar-un-millon-de-centros-de-datos-en-el-espacio.html",
+    "date": "2026-11-26T08:16:59Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/5RJ2VBNFXBBXFKCBPDPYM7M5AE.webp?auth=cf0d242bade572bec10aed46ee40ed3e5765e9338b21f6491606fb648dac0e04"
+  },
+  {
+    "title": "Mueren dos personas al ser atropelladas por un vehículo en Sevilla",
+    "summary": "El conductor ha dado negativo en las pruebas de alcohol y drogas",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/andalucia/2026-11-26/mueren-dos-personas-al-ser-atropelladas-por-un-vehiculo-en-sevilla.html",
+    "date": "2026-11-26T08:14:38Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/OV6DNLTYOZBWJJTEY4MRO3WUUE.png?auth=23e4f2c31920e4bd8ccd2f44a7cb53772767b9fc34836e66d07dbf6b9b6d51f9"
   },
   {
     "title": "Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities",
@@ -300,20 +364,6 @@
     "image": "https://s.france24.com/media/display/1b38f54e-e968-11f1-b414-81bc2b1dcd65/w:1024/p:16x9/2026-11-25T135439Z-2052634195-RC21VOAE4UVU-RTRMADP-3-USA-TRUMP-TARIFFS.jpg",
     "title_pt": "‘Inaceitável’: China e UE entre as principais economias contra as novas tarifas dos EUA",
     "summary_pt": "A China, a União Europeia e outros grandes parceiros comerciais criticaram na quinta-feira as novas tarifas dos EUA de até 20 por cento propostas pelo presidente dos EUA, Donald Trump, após uma investigação sobre o suposto excesso de capacidade global, aumentando a perspectiva de novas tensões comerciais com aliados e rivais."
-  },
-  {
-    "title": "Muere un marinero tras el hundimiento de un buque cargado de combustible cerca de Ibiza",
-    "summary": "Seis de los 17 tripulantes han resultado heridos leves en el naufragio del carguero, que transportaba 1,2 millones de litros de gasóleo. El Gobierno ha activado el Plan Nacional de Contingencias por Contaminación Marítima en nivel 2",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-26/muere-un-marinero-en-el-hundimiento-de-un-buque-cargado-de-combustible-cerca-de-ibiza.html",
-    "date": "2026-11-26T07:16:23Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/TL3FGJD2TJCILOPMDCSVRYENLI.jpg?auth=7695cf7b528759005873d6e8e156e816ad0e8ab14948fb4b29f9b32b5b0a9aab",
-    "title_pt": "Um marinheiro morre após o naufrágio de um navio carregado de combustível perto de Ibiza",
-    "summary_pt": "Seis dos 17 tripulantes sofreram ferimentos leves no naufrágio do cargueiro, que transportava 1,2 milhão de litros de óleo diesel. O governo ativou o Plano Nacional de Contingências para Contaminação Marítima no nível 2"
   },
   {
     "title": "Sem apoio a Hugo, ala pragmática do PL teme risco de isolamento na Câmara",
@@ -984,6 +1034,18 @@
     "summary_pt": "CEO da Nvidia, Jensen Huang, tem no presidente dos EUA, Donald Trump, um aliado decisivo Evan Vucci/REUTERS Pelos padrões de qualquer empresa americana comum, o antigo e agora novo diretor-presidente da Nvidia, Jensen Huang, já teria feito o suficiente para perder seu cargo no gigante dos chips. Como ficou claro nas sucessivas declarações da companhia, ele m"
   },
   {
+    "title": "India's top court tightens food warning labels in new setback for industry",
+    "summary": "India's top court tightens food warning labels in new setback for industry Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOXlHUEdKdndCTE54MEMyVERBWFVsZXQ4TXZYTmN4SVB1TF80bTVUbExoMEZlMWxKdkJJZUVlVHQzczQ3MnJlZGZ1RnZWZjZJbVBiT1pyX3pyc24xY3dtSkRIUTlpUENzNkJiREJDWnBaU2RINVFkQzU1ckU2ckFEMVhfazJXaW02Ykdra2pwSnlwcWJxY0NhRHFhekhxdHFBVHJVQUJGRk1RbmxXbzl4ZWF3?oc=5",
+    "date": "2026-11-26T05:59:00Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners",
     "summary": "WASHINGTON (AP) — Chinese consumer rights advocate Wang Hai has spent three decades exposing counterfeit goods and seeking compensation for buyers. In recent months, he left China fearing he was a target of the authorities, but now he is stranded in South Korea with his family, facing possible …",
     "category": "Geral",
@@ -1024,20 +1086,6 @@
     "image": "https://images.euronews.com/articles/stories/10/00/88/17/696x392_cmsv2_ba3f3382-7581-5112-be9d-1cddc3a1fd21-10008817.jpg",
     "title_pt": "Kim da Coreia do Norte promete construir mais armas nucleares depois de ignorar a abertura de Trump",
     "summary_pt": "Kim acusou Washington de encorajar os seus aliados regionais a adquirir submarinos com propulsão nuclear e de se comprometer a partilhar com eles as suas próprias armas nucleares."
-  },
-  {
-    "title": "Iran denounces U.S. use of AI in war",
-    "summary": "Iran's U.N. envoy claims the U.S. military used Palantir and Anthropic AI systems to select some 2,000 targets over just four days.",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-    "date": "2026-11-26T05:52:14Z",
-    "lang": "en",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
-    "title_pt": "Irã denuncia o uso de IA pelos EUA na guerra",
-    "summary_pt": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias."
   },
   {
     "title": "“Tentativa de me intimidar”, diz Gustavo Gayer sobre denúncia da PGR",
@@ -2005,18 +2053,6 @@
     "summary_pt": "Quando o amor e o dinheiro se misturam, geralmente nada de bom sai disso"
   },
   {
-    "title": "Sylvie Retailleau, exministra de Educación de Francia: “Es muy importante darles la palabra a los jóvenes”",
-    "summary": "La actual presidenta de Universcience, el organismo que agrupa los principales museos científicos de París, defiende el papel de la ciencia y la cultura frente a los desafíos políticos y sociales de Europa",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/ciencia/2026-11-26/sylvie-retailleau-exministra-de-educacion-en-francia-es-muy-importante-darles-la-palabra-a-los-jovenes.html",
-    "date": "2026-11-26T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/LYP4YBB3VBCRXKZ3BEXDI3L6TI.jpg?auth=e53956ff29aab3b654cdaa099bdedca05bb6979acb02e76135b8e1f3680722f2"
-  },
-  {
     "title": "La Comunidad de Madrid utiliza un festival de arquitectura para “acercar a los ciudadanos” tres promociones del Plan Vive",
     "summary": "El Open House se celebra cada año y permite conocer espacios singulares normalmente cerrados al público. La última edición incluyó por primera vez visitas a viviendas del programa de alquiler asequible del Gobierno de Ayuso",
     "category": "Geral",
@@ -2091,20 +2127,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/Q2SIEOSWZ5D4XKPVO2MH23BYP4.jpg?auth=14189f2ef2b43f52a4bc2ab7c51e85eb802792c5d8c6ef446818cdf8dcd863e4",
     "title_pt": "Shirin Ebadi, Prêmio Nobel da Paz iraniana: \"O regime do Irã é irreformável. É preciso eliminá-lo\"",
     "summary_pt": "A advogada exilada critica a estratégia europeia de negociar com Teerã e defende Reza Pahlavi, filho do último xá, como a única alternativa existente."
-  },
-  {
-    "title": "Las yemeníes se ven obligadas a dar a luz en casa bajo el asedio de Taiz",
-    "summary": "El 75% de los servicios destinados a mujeres y niñas han sido suspendidos, según la ONU, mientras una quincena de camiones con ayuda humanitaria permanecen bloqueados debido a restricciones de seguridad y al deterioro de las carreteras",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/planeta-futuro/salud-materno-infantil/2026-11-26/las-yemenies-se-ven-obligadas-a-dar-a-luz-en-casa-bajo-el-asedio-de-taiz.html",
-    "date": "2026-11-26T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/IXG2FRTCCZACDAL7T72ZLLLJ7E.jpg?auth=335bd669cd852de1ca00f4cbe8db511c13519acfff571a5c2b850b026b15f6af",
-    "title_pt": "As iemenitas são forçadas a dar à luz em casa sob o cerco de Taiz",
-    "summary_pt": "De acordo com a ONU, 75% dos serviços destinados a mulheres e meninas foram suspensos, enquanto cerca de 15 caminhões com ajuda humanitária permanecem bloqueados devido a restrições de segurança e à deterioração das estradas."
   },
   {
     "title": "¿Por qué votar el domingo si un solo voto no cambia el resultado?",
@@ -2205,7 +2227,7 @@
   {
     "title": "US announces new tariffs on host of countries including China",
     "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2285,8 +2307,8 @@
     "summary_pt": "Acidente destruiu 27 veículos nos arredores do Cairo; outras 21 pessoas ficaram feridas e foram levadas a hospitais"
   },
   {
-    "title": "Gold ticks up after hitting 15-month low; Fed outlook in focus",
-    "summary": "Gold ticks up after hitting 15-month low; Fed outlook in focus Reuters",
+    "title": "Gold steadies after hitting over 1-year low; Fed outlook in focus",
+    "summary": "Gold steadies after hitting over 1-year low; Fed outlook in focus Reuters",
     "category": "Geral",
     "region": "Global",
     "country": "GLOBAL",
@@ -3217,7 +3239,7 @@
   {
     "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
     "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3315,7 +3337,7 @@
   {
     "title": "US approves SpaceX plan to send a million data satellites to space",
     "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-    "category": "Economia",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3943,20 +3965,6 @@
     "image": "https://ic-cdn.flipboard.com/apnews.com/35f94ec627eccf25f88bcc95823ef504b815b530/_xlarge.jpeg"
   },
   {
-    "title": "11/25: The Takeout with Major Garrett",
-    "summary": "Weather postpones Macy's Thanksgiving Day Parade; Trump introduces new tariffs on China, the EU and major trading partners.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/video/112526-the-takeout-with-major-garrett/",
-    "date": "2026-11-25T22:00:00Z",
-    "lang": "en",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/26/00872662-9f55-4300-80aa-52489ef0d26f/thumbnail/1200x630/64dac3490091ff0941d482e99f1c0690/takeoutfull112526.jpg",
-    "title_pt": "25/11: A comida para viagem com o Major Garrett",
-    "summary_pt": "Tempo adia desfile do Dia de Ação de Graças da Macy's; Trump introduz novas tarifas sobre a China, a UE e os principais parceiros comerciais."
-  },
-  {
     "title": "Novo tarifaço proposto por Trump é \"inaceitável\", diz governo brasileiro",
     "summary": "Em nota, Secretaria de Comunicação da Presidência da República afirma que o Brasil pode retaliar os EUA com mais tarifas e que ameaça do governo Trump ignora negociações em curso entre os dois países.",
     "category": "Geral",
@@ -3969,6 +3977,20 @@
     "image": "",
     "title_pt": "Novo tarifaço proposto por Trump é \"inaceitável\", diz governo brasileiro",
     "summary_pt": "Em nota, Secretaria de Comunicação da Presidência da República afirma que o Brasil pode retaliar os EUA com mais tarifas e que ameaça do governo Trump ignora negociações em curso entre os dois países."
+  },
+  {
+    "title": "11/25: The Takeout with Major Garrett",
+    "summary": "Weather postpones Macy's Thanksgiving Day Parade; Trump introduces new tariffs on China, the EU and major trading partners.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/video/112526-the-takeout-with-major-garrett/",
+    "date": "2026-11-25T22:00:00Z",
+    "lang": "en",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/26/00872662-9f55-4300-80aa-52489ef0d26f/thumbnail/1200x630/64dac3490091ff0941d482e99f1c0690/takeoutfull112526.jpg",
+    "title_pt": "25/11: A comida para viagem com o Major Garrett",
+    "summary_pt": "Tempo adia desfile do Dia de Ação de Graças da Macy's; Trump introduz novas tarifas sobre a China, a UE e os principais parceiros comerciais."
   },
   {
     "title": "Kim Jong-un diz que status nuclear da Coreia do Norte é 'inviolável' e faz ameaça de guerra",
@@ -4027,7 +4049,7 @@
   {
     "title": "US stocks fall further as fears over AI intensify",
     "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4377,7 +4399,7 @@
   {
     "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
     "summary": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4515,7 +4537,7 @@
   {
     "title": "What we know about Trump's Thanksgiving tariffs",
     "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4539,18 +4561,6 @@
     "image": "https://i.guim.co.uk/img/media/546c0ebb54136f55c3f3a18f2bb47b1e31a9cb02/68_0_2390_1912/master/2390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ed911f7fa0764eb47993371a0d18a777",
     "title_pt": "Kilmar Ábrego García, alvo da repressão à imigração de Trump, chega à Espanha depois de ‘partir feliz’",
     "summary_pt": "Ábrego García opta por partir dos EUA depois de ter sido deportado para El Salvador devido a um “erro administrativo”. Kilmar Ábrego García, o cidadão salvadorenho cuja deportação equivocada o transformou num símbolo dos esforços de deportação em massa de Donald Trump, desembarcou em Espanha. Ábrego García chegou a Madrid na quarta-feira depois de deixar os Estados Unidos da América"
-  },
-  {
-    "title": "EU postpones discussion to approve Tesla's self-driving tech",
-    "summary": "EU postpones discussion to approve Tesla's self-driving tech Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY2Y4eUpOVTVYVmhONGo0aGJyUF8yYXlZb3hCR3E4UGxUMk4xT08yTjlRSThYaEROejVsaVRhdjlFOEZpNmNYbVhUa1puUGxRLVIyT2NkejFuWjF5emVLeVY3V0EtQV9lVTRXZ3MzOEE4WndGdDBfcXhmcGwtRlI2bEUzR2pPNnBkUnJMTjNwMXFsYTRJNGRPWXU1LVJLSjc5ZDR6M3RlNFJwZVBzaGc0RnVha2FCREVZMTdtMEpMRQ?oc=5",
-    "date": "2026-11-25T19:36:04Z",
-    "lang": "en",
-    "image": ""
   },
   {
     "title": "Madagascar : Marco Tsaradia élu président de l’Assemblée nationale, après la destitution de Siteny Randrianasoloniaiko, accusé d’abus de pouvoir",
@@ -5069,7 +5079,7 @@
   {
     "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
     "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5307,7 +5317,7 @@
   {
     "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
     "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6201,20 +6211,6 @@
     "summary_pt": "Acompanhe as histórias mais importantes de toda a Europa e além neste dia 25 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens."
   },
   {
-    "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
-    "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "NPR",
-    "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
-    "date": "2026-11-25T11:00:00Z",
-    "lang": "en",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F31%2F6520f9574826bfd5bcbffd103b34%2Ffarflungpostcard-ef1.jpg",
-    "title_pt": "Saudações do Monte Kilimanjaro, o ponto mais alto da África em todo o seu esplendor",
-    "summary_pt": "Escalar montanhas altas como o Kilimanjaro é um estudo de contrastes – desde o sol forte até as noites geladas, o fogo e a neve."
-  },
-  {
     "title": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
     "summary": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias.",
     "category": "Geral",
@@ -6227,6 +6223,20 @@
     "image": "",
     "title_pt": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
     "summary_pt": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias."
+  },
+  {
+    "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+    "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "NPR",
+    "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+    "date": "2026-11-25T11:00:00Z",
+    "lang": "en",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F31%2F6520f9574826bfd5bcbffd103b34%2Ffarflungpostcard-ef1.jpg",
+    "title_pt": "Saudações do Monte Kilimanjaro, o ponto mais alto da África em todo o seu esplendor",
+    "summary_pt": "Escalar montanhas altas como o Kilimanjaro é um estudo de contrastes – desde o sol forte até as noites geladas, o fogo e a neve."
   },
   {
     "title": "VÍDEO: mulher é perseguida por perus selvagens na rua nos EUA às vésperas do Dia de Ação de Graças",
@@ -6371,7 +6381,7 @@
   {
     "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
     "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6803,19 +6813,5 @@
     "image": "https://ic-cdn.flipboard.com/apnews.com/654db0cdd2f1fb42663502ada156c6ae79865a8a/_large.jpeg",
     "title_pt": "Ilhas Salomão assinam tratado com a Austrália que verifica a influência da China no Pacífico Sul",
     "summary_pt": "MELBOURNE, Austrália (AP) - As Ilhas Salomão rejeitaram um acordo secreto de defesa de 4 anos com a China que levantou temores de uma posição naval chinesa no país do Pacífico Sul e declarou na quarta-feira, ao assinar um tratado com a Austrália, que nunca permitiria uma base militar estrangeira em seu ..."
-  },
-  {
-    "title": "Teachers clash with police during nationwide strike over education cuts in Chile",
-    "summary": "Thousands of teachers marched in Santiago during a nationwide strike against proposed budget cuts to public and higher education, with some protesters clashing with police.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "EU",
-    "source": "Euronews",
-    "url": "https://www.euronews.com/video/2026/11/25/teachers-clash-with-police-during-nationwide-strike-over-education-cuts-in-chile",
-    "date": "2026-11-25T06:23:23Z",
-    "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/10/00/71/06/696x392_cmsv2_2f2ef439-3eec-556a-9cce-99ab8105b98a-10007106.jpg",
-    "title_pt": "Professores entram em confronto com a polícia durante greve nacional contra cortes na educação no Chile",
-    "summary_pt": "Milhares de professores marcharam em Santiago durante uma greve nacional contra os cortes orçamentários propostos para a educação pública e superior, com alguns manifestantes entrando em confronto com a polícia."
   }
 ]

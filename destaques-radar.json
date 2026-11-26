@@ -1,9 +1,22 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T08:24:13.675116Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T08:29:28.704713Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Irã denuncia o uso de IA pelos EUA na guerra",
+      "summary": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+      "published_on": "26/11/2026 04:24 (Boa Vista)",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Trump e chefe da Otan pedem que Rússia evite ações que ampliem guerra na Ucrânia",
       "summary": "Presidente dos Estados Unidos, Donald Trump, dá coletiva de imprensa com o secretário-geral da Otan, Mark Rutte, em Ancara, na Turquia, em 8 de julho de 2026. FILIP SINGER/Pool via REUTERS A Rússia deve evitar ações que ampliem sua guerra na Ucrânia, afirmaram o presidente dos Estados Unidos, Donald Trump, e o secretário-geral da Otan, Mark Rutte, em um comu",
@@ -28,19 +41,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
       "published_on": "26/11/2026 02:12 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2024-10-15T021535Z_123914133_RC2IKAA62WWQ_RTRMADP_3_USA-DEFENSE-ARMY-1784890221.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "Irã denuncia o uso de IA pelos EUA na guerra",
-      "summary": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-      "published_on": "26/11/2026 01:52 (Boa Vista)",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
       "selection": "automatic"
     },
     {
@@ -70,19 +70,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Dados vazados mostram que 490 mil soldados russos morreram na guerra na Ucrânia",
-      "summary": "Dados do governo russo obtidos por hackers pró-Ucrânia e analisados ​​pela BBC indicam que a Rússia perdeu pelo menos 490.334 soldados durante a guerra contra a Ucrânia.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Segurança cibernética",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/russia-ukraine-war-russian-soldier-death-toll-data-leak/",
-      "published_on": "25/11/2026 16:28 (Boa Vista)",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/25/acf9fde0-9680-4a3b-a595-866bc3f80292/thumbnail/1200x630/55f336a7e4cf8d601d9a837f1f2389fb/gettyimages-1239916962.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "China ameaça retaliar após EUA proporem novas tarifas sobre produtos",
       "summary": "Pequim classifica investigação americana sobre excesso de capacidade produtiva como ato unilateral e pede retomada do diálogo",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,6 +80,19 @@
       "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/china-ameaca-retaliar-apos-eua-proporem-novas-tarifas-sobre-produtos/",
       "published_on": "26/11/2026 03:53 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPEL580C2-BASEIMAGE.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
+      "title": "Dados vazados mostram que 490 mil soldados russos morreram na guerra na Ucrânia",
+      "summary": "Dados do governo russo obtidos por hackers pró-Ucrânia e analisados ​​pela BBC indicam que a Rússia perdeu pelo menos 490.334 soldados durante a guerra contra a Ucrânia.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Segurança cibernética",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/russia-ukraine-war-russian-soldier-death-toll-data-leak/",
+      "published_on": "25/11/2026 16:28 (Boa Vista)",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/25/acf9fde0-9680-4a3b-a595-866bc3f80292/thumbnail/1200x630/55f336a7e4cf8d601d9a837f1f2389fb/gettyimages-1239916962.jpg",
       "selection": "automatic"
     },
     {
