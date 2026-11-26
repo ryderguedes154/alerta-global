@@ -1,8 +1,8 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T14:31:10.513695Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T14:36:24.292848Z",
+  "status": "checado",
   "items": [
     {
       "title": "Rússia lança mísseis balísticos e uma saraivada de drones contra a Ucrânia, matando pelo menos três pessoas",
@@ -57,19 +57,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Governo Trump cogitou usar lei de guerra para pressionar Nvidia, diz jornal",
-      "summary": "Autoridades do Pentágono consideram a Nvidia, empresa de inteligência artificial (IA), estratégica para a segurança nacional dos Estados Unidos, segundo The Washington Post",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/governo-trump-cogitou-usar-lei-de-guerra-para-pressionar-nvidia-diz-jornal/",
-      "published_on": "26/11/2026 06:18 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-13T124701Z_1_LYNXNPEMAC11V_RTROPTP_4_NVIDIA-CEO.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
       "title": "A guerra Rússia-Ucrânia estende-se ao Báltico e ao Mediterrâneo",
       "summary": "Ao atacar navios russos em todo o mundo, Kiev está a tentar aumentar a pressão sobre Moscovo e também a enviar sinais aos seus aliados ocidentais. Qual é o impacto no comércio marítimo global?",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -80,6 +67,19 @@
       "url": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-all-1573-rdf",
       "published_on": "26/11/2026 05:27 (Boa Vista)",
       "image": "https://static.dw.com/image/80042297_6.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Poderá Rassvet, 'Starlink da Rússia', mudar o curso da guerra na Ucrânia?",
+      "summary": "O sistema de satélite Starlink dos EUA da SpaceX desempenhou um papel fundamental no combate aos militares russos na Ucrânia, mas agora um homólogo russo está em desenvolvimento. O que isto poderá significar para a Ucrânia no futuro?",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "DE",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-all-1573-rdf",
+      "published_on": "26/11/2026 01:45 (Boa Vista)",
+      "image": "https://static.dw.com/image/71856660_6.jpg",
       "selection": "automatic"
     },
     {
