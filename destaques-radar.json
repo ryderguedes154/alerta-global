@@ -1,8 +1,8 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T07:36:09.949685Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T07:42:03.478942Z",
+  "status": "checado",
   "items": [
     {
       "title": "Trump e chefe da Otan pedem que Rússia evite ações que ampliem guerra na Ucrânia",
@@ -70,16 +70,16 @@
       "selection": "automatic"
     },
     {
-      "title": "O que sabemos sobre as tarifas de Ação de Graças de Trump",
-      "summary": "Donald Trump tem como alvo a China, a União Europeia e 12 outras jurisdições numa nova ronda de tarifas.",
+      "title": "Ameaça de tarifas de Trump é \"inaceitável\", diz o Brasil, enquanto a China denuncia as taxas como infundadas",
+      "summary": "O Brasil está indignado com as tarifas propostas sobre açúcar e aeronaves, enquanto Pequim afirma que as novas taxas equivalem a \"manipulação política\". Trump propõe novas tarifas para 14 parceiros, incluindo a China e a UE. O Brasil afirmou que não cederá à nova \"ameaça\" tarifária dos EUA, e a China acusou Washington de \"manipulação política\" após as última",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Economia",
       "region": "Global",
       "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
-      "published_on": "25/11/2026 15:38 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9742/live/bc650a50-e906-11f1-99a1-253766e7ad8b.jpg",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "published_on": "26/11/2026 02:10 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/2368ea981f5660064edcacf6ff595f03bb38028d/139_0_1390_1112/master/1390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7bd177a609f3fd201c7b0cc7f40d507c",
       "selection": "automatic"
     },
     {
