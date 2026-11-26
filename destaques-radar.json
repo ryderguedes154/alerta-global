@@ -1,8 +1,8 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T08:03:02.137525Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T08:08:16.423532Z",
+  "status": "checado",
   "items": [
     {
       "title": "Trump e chefe da Otan pedem que Rússia evite ações que ampliem guerra na Ucrânia",
@@ -70,16 +70,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Ameaça de tarifas de Trump é \"inaceitável\", diz o Brasil, enquanto a China denuncia as taxas como infundadas",
-      "summary": "O Brasil está indignado com as tarifas propostas sobre açúcar e aeronaves, enquanto Pequim afirma que as novas taxas equivalem a \"manipulação política\". Trump propõe novas tarifas para 14 parceiros, incluindo a China e a UE. O Brasil afirmou que não cederá à nova \"ameaça\" tarifária dos EUA, e a China acusou Washington de \"manipulação política\" após as última",
+      "title": "China ameaça retaliar após EUA proporem novas tarifas sobre produtos",
+      "summary": "Pequim classifica investigação americana sobre excesso de capacidade produtiva como ato unilateral e pede retomada do diálogo",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Economia",
       "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-      "published_on": "26/11/2026 02:10 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/2368ea981f5660064edcacf6ff595f03bb38028d/139_0_1390_1112/master/1390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7bd177a609f3fd201c7b0cc7f40d507c",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/china-ameaca-retaliar-apos-eua-proporem-novas-tarifas-sobre-produtos/",
+      "published_on": "26/11/2026 03:53 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPEL580C2-BASEIMAGE.jpg?w=200",
       "selection": "automatic"
     },
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Por que Trump pressionou pela volta de Jensen Huang à chefia da Nvidia",
-      "summary": "CEO da Nvidia, Jensen Huang, tem no presidente dos EUA, Donald Trump, um aliado decisivo Evan Vucci/REUTERS Pelos padrões de qualquer empresa americana comum, o antigo e agora novo diretor-presidente da Nvidia, Jensen Huang, já teria feito o suficiente para perder seu cargo no gigante dos chips. Como ficou claro nas sucessivas declarações da companhia, ele m",
+      "title": "Preço dos legumes acumula alta de 44,9% no ano com clima no radar",
+      "summary": "Levantamento da Neogrid antecipado à CNN Agro mostra que a carne suína também encareceu no varejo, enquanto ovos e café ficaram mais baratos",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
+      "category": "Clima e desastres",
       "region": "Global",
       "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/11/26/por-que-trump-pressionou-pela-volta-de-jensen-huang-a-chefia-da-nvidia.ghtml",
-      "published_on": "26/11/2026 02:00 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/kOO4wX-6YPHgD4SqSGMi55K7eBk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/R/1BrFuJSVecJpVfPbZrxg/80029338-1004.jpg",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/agro/preco-dos-legumes-sobe-91-em-outubro-e-acumula-alta-de-449-no-ano/",
+      "published_on": "26/11/2026 03:50 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/23842_44B7D100FA93469C-1.png?w=200",
       "selection": "automatic"
     }
   ]
