@@ -1,22 +1,9 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T10:15:32.347242Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T10:21:27.561344Z",
+  "status": "checado",
   "items": [
-    {
-      "title": "Irã denuncia o uso de IA pelos EUA na guerra",
-      "summary": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-      "published_on": "26/11/2026 04:24 (Boa Vista)",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
-      "selection": "automatic"
-    },
     {
       "title": "Trump e chefe da Otan pedem que Rússia evite ações que ampliem guerra na Ucrânia",
       "summary": "Presidente dos Estados Unidos, Donald Trump, dá coletiva de imprensa com o secretário-geral da Otan, Mark Rutte, em Ancara, na Turquia, em 8 de julho de 2026. FILIP SINGER/Pool via REUTERS A Rússia deve evitar ações que ampliem sua guerra na Ucrânia, afirmaram o presidente dos Estados Unidos, Donald Trump, e o secretário-geral da Otan, Mark Rutte, em um comu",
@@ -57,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Reino Unido investirá £ 9,5 milhões em parque eólico na Ucrânia para fortalecer o sistema de energia afetado pela guerra",
+      "summary": "Projecto capaz de abastecer 300.000 casas, tendo a Grã-Bretanha oferecido mais de 770 milhões de libras para reconstruir o sector energético. A Grã-Bretanha irá adicionar aos seus investimentos multimilionários na reconstrução do sistema energético da Ucrânia, financiando um projecto de parque eólico capaz de abastecer 300.000 famílias ucranianas. Ed Miliban",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
+      "published_on": "26/11/2026 01:00 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/0eb49fd7cf3892e47cfeb7ea38b317f175a29005/0_1053_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6feab567ca1f14566073f970c083d512",
+      "selection": "automatic"
+    },
+    {
       "title": "Os EUA anunciam novas tarifas para vários países, incluindo a China",
       "summary": "Os novos impostos afetariam muitos dos maiores parceiros comerciais dos Estados Unidos, incluindo a China e a União Europeia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -70,16 +70,16 @@
       "selection": "automatic"
     },
     {
-      "title": "China ameaça retaliação após EUA proporem novas tarifas sobre produtos",
-      "summary": "Pequim classifica investigação americana sobre excesso de capacidade produtiva como ato unilateral e pede retomada do diálogo",
+      "title": "Os preços do petróleo voltam a subir à medida que o Irã e os houthis intensificam as ameaças",
+      "summary": "O aumento dos confrontos entre os aliados houtis do Irã e a Arábia Saudita, além das ameaças implacáveis de Teerã no Estreito de Ormuz, parecem estar revertendo semanas de queda nos preços do petróleo.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Economia",
       "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/china-ameaca-retaliar-apos-eua-proporem-novas-tarifas-sobre-produtos/",
-      "published_on": "26/11/2026 03:53 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPEL580C2-BASEIMAGE.jpg?w=200",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+      "published_on": "26/11/2026 06:18 (Boa Vista)",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
       "selection": "automatic"
     },
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Como as empresas chinesas contornam as sanções aos chips no Sudeste Asiático",
-      "summary": "Chips de IA de alta tecnologia são difíceis de obter na China devido às restrições dos EUA. Para contornar esta situação, as empresas chinesas utilizam frequentemente capacidade de computação offshore, especialmente no Sudeste Asiático. Os EUA também estão tentando impedir isso.",
+      "title": "A migração líquida do Reino Unido cai para 77 mil, o menor número desde 1997, excluindo a pandemia de Covid – Política do Reino Unido ao vivo",
+      "summary": "A migração líquida caiu no ano encerrado em junho de 2026, de acordo com o Escritório Nacional de Estatísticas. Os Democratas Liberais afirmam que o Reino Unido precisa de um plano adequado para a imigração. Essa é a opinião de Paul Kohler, porta-voz do partido para questões de asilo e imigração. O Reino Unido precisa retomar o controle do seu sistema de imi",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
+      "category": "Saúde",
       "region": "Global",
-      "country": "DE",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002?maca=en-rss-en-all-1573-rdf",
-      "published_on": "26/11/2026 02:11 (Boa Vista)",
-      "image": "https://static.dw.com/image/79998705_6.jpg",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+      "published_on": "26/11/2026 06:19 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/f9438b12e25d0510100c2baa53822bd454f6de67/41_0_2972_2377/master/2972.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9b9eed9b51b9301a43f17228a3301383",
       "selection": "automatic"
     }
   ]
