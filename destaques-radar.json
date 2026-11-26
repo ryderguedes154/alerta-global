@@ -1,8 +1,8 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T20:10:19.445220Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T20:15:29.633882Z",
+  "status": "checado",
   "items": [
     {
       "title": "À frente do BCE, um trio recém-nomeado para proteger a Europa da inflação… e talvez a França de um ataque aos mercados",
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Trump pede a Putin que ponha fim à \"agressão militar\" na Europa",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, disse na quinta-feira que havia pedido a Vladimir Putin para \"recuar com toda a agressão militar\" contra a Europa, em uma mudança de tom em relação ao líder russo, a quem chamou de amigo há apenas uma semana. Trump disse que havia feito o pedido a Putin quando se encontraram na China na semana passada, acrescent",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "FR",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/trump-urges-putin-to-end-military-aggression-in-europe",
+      "published_on": "26/11/2026 16:10 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/d6c3707a-e9d4-11f1-8cb6-174dac1c1bf0/w:1024/p:16x9/EN-20261126-200333-200843-CS.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Irã acusado de realizar ataque de drone que matou dois italianos no Kuwait",
       "summary": "O Irã nega estar por trás de um ataque mortal a uma instalação militar do Kuwait que matou dois cidadãos italianos.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
       "published_on": "26/11/2026 15:55 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Depois que ataques cibernéticos e ameaças de bomba atingiram a Europa, o sobrevivencialismo se tornou popular",
-      "summary": "Mais governos na Europa estão a dizer aos cidadãos para se prepararem para emergências. Após interrupções inesperadas, muitos estão ouvindo.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
-      "published_on": "26/11/2026 14:23 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-europe-preppers-fvzk/27int-europe-preppers-fvzk-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
