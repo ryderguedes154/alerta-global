@@ -1,8 +1,8 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T16:56:55.949092Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T17:02:17.369019Z",
+  "status": "checado",
   "items": [
     {
       "title": "À frente do BCE, um trio recém-nomeado para proteger a Europa da inflação… e talvez a França de um ataque aos mercados",
@@ -15,6 +15,19 @@
       "url": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
       "published_on": "26/11/2026 11:04 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/11/26/0/0/6000/4000/1440/960/60/0/98cc741_upload-1-gjf1s9dawpkv-ap26330506683267.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Trump diz que pediu a Putin que \"recuasse\" na agressão militar na Europa",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, afirmou que conversou com Vladimir Putin sobre o fim da agressão militar da Rússia na Europa e expressou sua crença na possibilidade de um acordo entre a Rússia e a Ucrânia.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "DE",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722?maca=en-rss-en-all-1573-rdf",
+      "published_on": "26/11/2026 12:54 (Boa Vista)",
+      "image": "https://static.dw.com/image/79990968_6.jpg",
       "selection": "automatic"
     },
     {
@@ -41,19 +54,6 @@
       "url": "https://www.cbsnews.com/news/black-sea-incidents-nato-russia-ukraine-war/",
       "published_on": "26/11/2026 12:18 (Boa Vista)",
       "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/26/fbdf7f7f-67cf-4834-8935-5e0d44573bc9/thumbnail/1200x630/f7e9d7a105a00acc1cbac6a437ffd0e6/martin-odonnell.png",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump diz que quer que Putin \"cesse toda a agressão militar\" na Europa – como aconteceu",
-      "summary": "Este blog está encerrado agora. A primeira-ministra dinamarquesa, Mette Frederiksen, reconheceu que os líderes ainda estão \"muito distantes\", concordando com Merz, da Alemanha, de que a proposta atual não vai funcionar. \"O orçamento é muito grande e não está suficientemente voltado para o futuro\", disse ela, pedindo mais trabalho nas áreas de competitividade",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-      "published_on": "26/11/2026 11:59 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/1ce3a0578ea68206bed8e850874790711398c96a/222_0_3863_3089/master/3863.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f6b51e11f0b441b87c2788669325adf5",
       "selection": "automatic"
     },
     {
