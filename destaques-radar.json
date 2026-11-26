@@ -1,8 +1,8 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T16:05:15.536062Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T16:10:27.013674Z",
+  "status": "checado",
   "items": [
     {
       "title": "À frente do BCE, um trio recém-nomeado para proteger a Europa da inflação… e talvez a França de um ataque aos mercados",
@@ -15,6 +15,19 @@
       "url": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
       "published_on": "26/11/2026 11:04 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/11/26/0/0/6000/4000/1440/960/60/0/98cc741_upload-1-gjf1s9dawpkv-ap26330506683267.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Trump diz que quer que Putin \"cesse toda a agressão militar\" na Europa – como aconteceu",
+      "summary": "Este blog está encerrado agora. A primeira-ministra dinamarquesa, Mette Frederiksen, reconheceu que os líderes ainda estão \"muito distantes\", concordando com Merz, da Alemanha, de que a proposta atual não vai funcionar. \"O orçamento é muito grande e não está suficientemente voltado para o futuro\", disse ela, pedindo mais trabalho nas áreas de competitividade",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+      "published_on": "26/11/2026 11:59 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/1ce3a0578ea68206bed8e850874790711398c96a/222_0_3863_3089/master/3863.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f6b51e11f0b441b87c2788669325adf5",
       "selection": "automatic"
     },
     {
@@ -41,19 +54,6 @@
       "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
       "published_on": "26/11/2026 11:27 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/07/13/multimedia/00int-brazil-soldier-03-bfkl/00int-brazil-soldier-03-bfkl-facebookJumbo.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump diz que quer que Putin ‘recue todas as agressões militares’ na Europa – Europa ao vivo",
-      "summary": "O presidente dos EUA disse que “espera que um acordo possa ser feito entre a Rússia e a Ucrânia” rapidamente. A primeira-ministra dinamarquesa, Mette Frederiksen, reconheceu que os líderes permanecem “muito distantes”, concordando com Merz da Alemanha que a proposta actual não vai funcionar. “O orçamento é demasiado grande e não suficientemente orientado par",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-      "published_on": "26/11/2026 11:22 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/1ce3a0578ea68206bed8e850874790711398c96a/222_0_3863_3089/master/3863.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f6b51e11f0b441b87c2788669325adf5",
       "selection": "automatic"
     },
     {
