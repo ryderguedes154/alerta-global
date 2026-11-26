@@ -1,7 +1,7 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T19:59:59.943355Z",
+  "checked_at": "2026-11-26T20:05:08.855160Z",
   "status": "checado",
   "items": [
     {
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Irã acusado de realizar ataque de drone que matou dois italianos no Kuwait",
+      "summary": "O Irã nega estar por trás de um ataque mortal a uma instalação militar do Kuwait que matou dois cidadãos italianos.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+      "published_on": "26/11/2026 16:00 (Boa Vista)",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/26/9d94126a-cf9a-44ed-9f77-30461774944e/thumbnail/1200x630g2/2cd022452cd8713f2d0b6637141738bf/2026-11-20t110959z-393580283-rc2kroah1egc-rtrmadp-3-iran-crisis.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "Faisal Islam: Por que as novas tarifas de Trump são menos ameaçadoras",
       "summary": "Outros países redirecionaram o comércio em resposta à sua primeira leva de tarifas e agora estão olhando para além do mandato de Trump.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,19 +54,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
       "published_on": "26/11/2026 15:55 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Irã acusado de realizar ataque de drone que matou dois italianos no Kuwait",
-      "summary": "O Irã nega estar por trás de um ataque mortal a uma instalação militar do Kuwait que matou dois cidadãos italianos.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-      "published_on": "26/11/2026 15:50 (Boa Vista)",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/26/9d94126a-cf9a-44ed-9f77-30461774944e/thumbnail/1200x630g2/2cd022452cd8713f2d0b6637141738bf/2026-11-20t110959z-393580283-rc2kroah1egc-rtrmadp-3-iran-crisis.jpg",
       "selection": "automatic"
     },
     {
