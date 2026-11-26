@@ -1,9 +1,22 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T04:28:34.838468Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T04:33:45.154012Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Guerra na Ucrânia: os europeus estão prontos para conversar com Vladimir Putin para impor sua visão da arquitetura de segurança do Velho Continente",
+      "summary": "Embora não imaginem que a retomada do diálogo com Moscou possa levar à paz no curto ou médio prazo, os líderes europeus não querem deixar os Estados Unidos discutirem as relações da Rússia com a OTAN e a UE sem a participação deles.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "FR",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/international/article/2026/11/26/guerre-en-ukraine-les-europeens-prets-a-parler-a-vladimir-poutine-pour-imposer-leur-vision-de-l-architecture-de-securite-du-vieux-continent_6815467_3210.html",
+      "published_on": "26/11/2026 00:30 (Boa Vista)",
+      "image": "https://img.lemde.fr/2026/11/19/0/0/7056/4704/1440/960/60/0/416287a_ftp-1-o72zp5beoynf-afp-d7yy2df.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Os EUA anunciam novas tarifas para vários países, incluindo a China",
       "summary": "Os novos impostos afetariam muitos dos maiores parceiros comerciais dos Estados Unidos, incluindo a China e a União Europeia.",
@@ -13,7 +26,7 @@
       "country": "GB",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "published_on": "25/11/2026 23:01 (Boa Vista)",
+      "published_on": "26/11/2026 00:10 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
       "selection": "automatic"
     },
@@ -41,19 +54,6 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
       "published_on": "25/11/2026 20:00 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T142119Z_494453788_RC22VOAYEVVA_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHI-1795644562.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "Cinco jatos militares russos atingidos em ataque a campo de aviação, diz Ucrânia",
-      "summary": "O aeródromo de Savasleyka hospeda aeronaves usadas pela Rússia para lançar mísseis hipersônicos e bombas planadoras contra a Ucrânia.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
-      "published_on": "25/11/2026 10:46 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg",
       "selection": "automatic"
     },
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "O clima extremo ameaça as festividades de Ação de Graças nos EUA",
-      "summary": "Está prevista a passagem de uma grande tempestade pela costa leste dos EUA, o que provavelmente causará atrasos nas viagens. Os alertas meteorológicos foram suficientes para adiar o Desfile do Dia de Ação de Graças da Macy's pela primeira vez em seus 100 anos de história.",
+      "title": "Registros mostram que as contas de Trump negociaram ações da Nvidia 44 vezes este ano",
+      "summary": "Uma análise das divulgações financeiras do presidente dos EUA mostra que as carteiras de investimentos de Donald Trump negociaram regularmente ações da gigante de tecnologia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
+      "category": "Tecnologia",
       "region": "Global",
-      "country": "DE",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-all-1573-rdf",
-      "published_on": "25/11/2026 22:47 (Boa Vista)",
-      "image": "https://static.dw.com/image/80055851_6.jpg",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+      "published_on": "25/11/2026 12:42 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg",
       "selection": "automatic"
     }
   ]
