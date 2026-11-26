@@ -1,5 +1,31 @@
 [
   {
+    "title": "Cost of living roadshow highlights support on offer",
+    "summary": "This event in Sheerness is funded by the Crisis and Resilience Fund for those facing cash issues.",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/cqz0ky4204jlo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-26T12:49:07Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a4f/live/62cdb7c0-e984-11f1-bb43-d1b6102e3b60.jpg"
+  },
+  {
+    "title": "Campaña electoral 29-N y actualidad política, en directo | El Consejo de Administración de RTVE respalda a Silvia Intxaurrondo ante el expediente de la JEC",
+    "summary": "El organismo considera que “supone una grave anomalía que atenta contra la esencia misma del oficio” | Vox da plantón a la Diputación Permanente del Congreso, que convalida cinco decretos",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/campana-electoral-29-n-y-actualidad-politica-en-directo.html",
+    "date": "2026-11-26T12:44:46Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/6AOZ32YJH5BL7DZA2GLBZN4Z5E.jpg?auth=e271f71e2d5afdd8ac2267a17edbac24d60064e156e44d2d768baadde34877ec",
+    "title_pt": "Campanha eleitoral 29-N e notícias políticas, ao vivo | O Conselho de Administração da RTVE apoia Silvia Intxaurrondo diante do processo JEC",
+    "summary_pt": "Vox se opõe à Deputação Permanente do Congresso e se ausenta do debate de cinco decretos | O debate quadrilateral concentra todos os olhares a três dias das eleições gerais"
+  },
+  {
     "title": "O Grande Debate: Lula conseguirá demover Trump das novas tarifas?",
     "summary": "Governo brasileiro classifica recomendação americana como pressão unilateral sobre PIX e comércio digital e não descarta recorrer à OMC",
     "category": "Geral",
@@ -28,18 +54,16 @@
     "summary_pt": "Sete pessoas já foram presas em esquema que investiga atuação das empresas no recebimento e ocultação de recursos relacionados a apostas ilegais online e crimes contra o patrimônio"
   },
   {
-    "title": "Campaña electoral 29-N y actualidad política, en directo | El Consejo de Administración de RTVE respalda a Silvia Intxaurrondo ante el expediente de la JEC",
-    "summary": "El organismo considera que “supone una grave anomalía que atenta contra la esencia misma del oficio” | Vox da plantón a la Diputación Permanente del Congreso, que convalida cinco decretos",
+    "title": "Elon Musk promet d’offrir deux actions de SpaceX à « chaque enfant » aux Etats-Unis",
+    "summary": "Le milliardaire avait déjà promis, en octobre, une action à chaque enfant aux Etats-Unis. Selon lui, une action provenant de SpaceX sera transférée le mois prochain, tandis qu’une autre venant de lui personnellement sera transférée en juin 2027. Il n’a donné aucun détail sur le dispositif.",
     "category": "Geral",
     "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/campana-electoral-29-n-y-actualidad-politica-en-directo.html",
-    "date": "2026-11-26T12:42:43Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/6AOZ32YJH5BL7DZA2GLBZN4Z5E.jpg?auth=e271f71e2d5afdd8ac2267a17edbac24d60064e156e44d2d768baadde34877ec",
-    "title_pt": "Campanha eleitoral 29-N e notícias políticas, ao vivo | O Conselho de Administração da RTVE apoia Silvia Intxaurrondo diante do processo JEC",
-    "summary_pt": "Vox se opõe à Deputação Permanente do Congresso e se ausenta do debate de cinco decretos | O debate quadrilateral concentra todos os olhares a três dias das eleições gerais"
+    "country": "FR",
+    "source": "Le Monde",
+    "url": "https://www.lemonde.fr/international/article/2026/11/26/elon-musk-promet-d-offrir-deux-actions-de-spacex-a-chaque-enfant-aux-etats-unis_6815531_3210.html",
+    "date": "2026-11-26T12:42:46Z",
+    "lang": "fr",
+    "image": "https://img.lemde.fr/2026/11/26/0/0/5596/3730/1440/960/60/0/6162056_ftp-1-eskadnbjqiae-2026-11-26t045608z-901314414-rc26zna8iu40-rtrmadp-3-spacex-shares.JPG"
   },
   {
     "title": "Serbia presidential election set for December 27",
@@ -120,8 +144,20 @@
     "image": "https://imagenes.elpais.com/resizer/v2/5K6JC2F75ZDQDPDXBI62B66NDE.jpg?auth=f28182c8ecd0b2e485837bace20a1b1a8de6784871c335c6db76822596e2baa2"
   },
   {
-    "title": "Tributes for Duran Duran guitarist Andy Taylor after his death at 65",
-    "summary": "Simon Le Bon and his other bandmates say he \"brought an indelible fire and swagger to our music\".",
+    "title": "Israel kills nine in Gaza, including a Hamas-appointed minister, officials say",
+    "summary": "Israel kills nine in Gaza, including a Hamas-appointed minister, officials say Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzFiM29KUVhvZHZUYTV1SWtlLXNYbXg3ZzRodFVmanZkNzJsczZ4UldfRkNkSW1fVDhMaTFYOW9ETUxXaXFKcktCTThoYnBYS21mVjQxYkNWM19MR1h0WHNSdjlGenRTNkExU2RKU0ZKNUhCRWR0OVU2VmFqTUJHeE5QMVNybDE4Qk1WTmp5VGgyWDV0NjhaM3h4Ulp1bWZDUThnSlI0TFMwMnQzNk5KQnZXVTRCUUxvc2FLbmlDYVREeHpwOUpV?oc=5",
+    "date": "2026-11-26T12:33:45Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
+    "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+    "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
     "category": "Geral",
     "region": "Global",
     "country": "GB",
@@ -154,18 +190,6 @@
     "date": "2026-11-26T12:29:21Z",
     "lang": "en",
     "image": "https://images.euronews.com/articles/stories/10/00/94/14/696x392_cmsv2_e0ba2c36-b8b8-567e-a310-94de0030ac43-10009414.jpg"
-  },
-  {
-    "title": "Israel threatens to displace one million Palestinians in Gaza unless Hamas disarms",
-    "summary": "Israel's defence minister on Thursday threatened to forcibly displace one million Palestinians in Gaza if Hamas does not move to voluntarily surrender its weapons, as previously promised.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/middle-east/20261126-israel-threatens-to-displace-one-million-palestinians-in-gaza-unless-hamas-disarms",
-    "date": "2026-11-26T12:28:31Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/bd677e20-e991-11f1-9957-f9cf020caef6/w:1024/p:16x9/2026-11-23T181446Z-1897406615-RC2PTOAHCOHO-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg"
   },
   {
     "title": "Ministro de Israel ameaça deslocar 1 milhão de palestinos em Gaza caso Hamas não entregue armas",
@@ -234,6 +258,18 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Primeiro-ministro-espanhol-Pedro-Sanchez-pede-que-eleitores-a-sigam-exemplo-da-vitoria-de-Lula-no-Brasil.jpg?w=200",
     "title_pt": "Pedro Sánchez enfrenta insatisfação a poucos dias da eleição na Espanha",
     "summary_pt": "Primeiro-ministro tenta reeleição em meio a protestos por moradia e desgaste político do Partido Socialista"
+  },
+  {
+    "title": "EXCLUSIVE: StanChart's crypto unit Zodia Custody hit by security breach, some client data exposed",
+    "summary": "EXCLUSIVE: StanChart's crypto unit Zodia Custody hit by security breach, some client data exposed Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNGJWWkQ2MFZyZFRTMl9HcGFjU1V0WmZsNGt3MWpJZmNJdUlUNmRtNGpKR3pjRE1YeUx3ZkFKa1NPbFJlUWtOR19yV3FWOG1sY3RrdTFINnhwcnVnZUtrZy1VWmJWa0lQZ1Fla1NSY3dINllTT2FUOGs1MnAzSU03WWtQT2RtUkhrS1M1TFE3bHNKcXBXMXp5OWtxWWFiSGF5dlBOeHJHWGw5Z1ZwclNlSExxUUlNR0FHeTZ0VzhVSmoxQ1p5VUlkdXNydzFTUQ?oc=5",
+    "date": "2026-11-26T12:25:29Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Criança de 6 anos e mais três pessoas são baleadas durante operação no Rio",
@@ -676,34 +712,6 @@
     "summary_pt": "John Mann afirma que a decisão foi tomada após ouvir relatos \"perturbadores\" de funcionários judeus sobre a discriminação contra eles Política do Reino Unido ao vivo – últimas notícias O consultor independente do governo sobre o antissemitismo afirmou que está abrindo uma investigação contra a BBC após ouvir relatos \"perturbadores\" de funcionários judeus sobre a discriminação contra eles. John Mann, o"
   },
   {
-    "title": "EU chief urges leaders to 'compromise' for budget deal by year-end",
-    "summary": "European Council President Antonio Costa urged European leaders to seek compromise on the bloc's long-term budget at a summit Thursday, as Brussels pushes to lock in the plans before next year's French election where far-right leader Marine Le Pen is leading in opinion polls. \"Now it is time for all of the leaders to participate in this debate with an open m",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261126-eu-chief-urges-leaders-to-compromise-for-budget-deal-by-year-end",
-    "date": "2026-11-26T11:49:28Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/fb741fa6-e98d-11f1-abc6-77d069279b82/w:1024/p:16x9/EN-20261126-100912-101556-CS.jpg",
-    "title_pt": "Chefe da UE pede aos líderes que \"cheguem a um acordo\" sobre o orçamento até o final do ano",
-    "summary_pt": "O presidente do Conselho Europeu, Antonio Costa, pediu aos líderes europeus que busquem um acordo sobre o orçamento de longo prazo do bloco em uma cúpula na quinta-feira, enquanto Bruxelas pressiona para definir os planos antes das eleições francesas do ano que vem, em que a líder de extrema-direita Marine Le Pen lidera as pesquisas de opinião. \"Agora é o momento de todos os líderes participarem deste debate com a mente aberta.\""
-  },
-  {
-    "title": "French far-right leader Bardella faces fresh anti-Semitism accusations in media reports",
-    "summary": "French far-right leader ⁠Jordan Bardella faced fresh ​accusations of past antisemitic remarks on Thursday, as French media published an additional ​trove of comments purportedly made in chats from when he was a teenager in 2013. The initial allegations against Bardella, the president of the far-right National Rally party, were published ​by investigative out",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261126-french-far-right-leader-bardella-faces-fresh-anti-semitism-accusations-in-media-reports",
-    "date": "2026-11-26T11:47:52Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/833196c6-e98e-11f1-bd05-81bc2b1dcd65/w:1024/p:16x9/EN-20261126-120112-120629-CS.jpg",
-    "title_pt": "O líder da extrema-direita francesa, Bardella, enfrenta novas acusações de antissemitismo em reportagens da mídia",
-    "summary_pt": "O líder da extrema-direita francesa, ⁠Jordan Bardella, enfrentou novas acusações de comentários antissemitas feitos no passado na quinta-feira, quando a mídia francesa publicou uma nova série de comentários supostamente feitos em conversas de quando ele era adolescente, em 2013. As primeiras acusações contra Bardella, presidente do partido de extrema-direita Agrupamento Nacional, foram publicadas por um veículo de jornalismo investigativo."
-  },
-  {
     "title": "Genro de Trump diz que Putin mostrou contenção ao não usar armas nucleares",
     "summary": "Enviado da Casa Branca elogiou a contenção nuclear do líder russo e defendeu a busca por estabilidade duradoura na Europa após reuniões no Kremlin",
     "category": "Geral",
@@ -800,20 +808,6 @@
     "summary_pt": "Tropas participam de um ensaio para o desfile militar do Dia da Vitória em São Petersburgo, na Rússia, em 28 de abril de 2026. AP Photo/Dmitri Lovetsky A cifra é aterradora. Pelo menos 720 mil militares russos morreram na guerra empreendida há quase 5 anos por Vladimir Putin na Ucrânia, de acordo com os sites independentes Meduza e Mediazona. A estimativa se"
   },
   {
-    "title": "Egypt: 31 people killed in Cairo after fuel truck overturns",
-    "summary": "A fire broke out on a busy highway in Egypt’s capital, Cairo, on Wednesday, killing at least 31 people after a fuel truck reportedly overturned. The suspected driver was arrested on Thursday, according to Egypt’s public prosecutor’s office.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261126-egypt-31-people-killed-in-cairo-after-fuel-truck-overturns",
-    "date": "2026-11-26T11:28:29Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/caddf70c-e98a-11f1-ad2a-77d069279b82/w:1024/p:16x9/EGYPT-Thumbnail.jpg",
-    "title_pt": "Egito: 31 pessoas mortas no Cairo após capotamento de caminhão de combustível",
-    "summary_pt": "Um incêndio eclodiu em uma rodovia movimentada na capital do Egito, Cairo, na quarta-feira, matando pelo menos 31 pessoas depois que um caminhão de combustível capotou. O suposto motorista foi preso na quinta-feira, de acordo com o Ministério Público do Egito."
-  },
-  {
     "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
     "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
     "category": "Geral",
@@ -824,20 +818,6 @@
     "date": "2026-11-26T11:27:42Z",
     "lang": "en",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e9/live/68ba1950-e978-11f1-acd8-af22a7ebb474.jpg"
-  },
-  {
-    "title": "Alleged Islamic State group propagandist Emily Konig on trial in France",
-    "summary": "Accused of being one of the Islamic State group's most active French propagandists, Emily Konig went on trial in Paris on Thursday. Originally from Brittany, Konig spent a decade in Syria before returning to France in 2022. She is charged with criminal association with a terrorist organisation and faces up to 30 years in prison if convicted. FRANCE 24's Luke",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261126-alleged-islamic-state-group-propagandist-emily-konig-on-trial-in-france",
-    "date": "2026-11-26T11:27:35Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/151e1128-e984-11f1-a05c-77d069279b82/w:1024/p:16x9/EN-20261126-110209-110340-CS.jpg",
-    "title_pt": "Suposta propagandista do grupo Estado Islâmico Emily Konig é julgada na França",
-    "summary_pt": "Acusada de ser uma das propagandistas francesas mais ativas do grupo Estado Islâmico, Emily Konig foi julgada em Paris na quinta-feira. Originária da Bretanha, Konig passou uma década na Síria antes de regressar a França em 2022. Ela é acusada de associação criminosa com uma organização terrorista e pode pegar até 30 anos de prisão se for condenada. Lucas da FRANÇA 24"
   },
   {
     "title": "Fuel tanker explosion kills 31 on Egyptian highway",
@@ -866,46 +846,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/CFNMEBPZ3FNLJOQMQL2XXNASMU.jpg?auth=bbab0fdb68e59743ce824b1955eedff9f001215f5173600757731c92f7962769",
     "title_pt": "Um magistrado propõe julgar um vereador do PP por agredir o delegado do Governo na Cantábria em plena pré-campanha",
     "summary_pt": "Até meia dúzia de testemunhas confirmam que o vereador conservador se dirigiu a Casares de “maneira raivosa” e, “no mínimo”, “tocou-lhe no rosto” ao repreendê-lo."
-  },
-  {
-    "title": "French media publish fresh claims of far-right leader Bardella's 'anti-Semitic torrent'",
-    "summary": "PRESS REVIEW – Thursday, November 26: French media outlets Mediapart and Le Monde publish an additional trove of messages purporting to show far-right leader Jordan Bardella's rampant anti-Semitic thoughts as a young member of the party in 2013. Also: France holds the first trial of a female jihadist, Émilie König. Kilmar Abrego Garcia, once the face of Dona",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/press-review/20261126-french-media-publish-fresh-claims-of-far-right-leader-bardella-s-anti-semitic-torrent",
-    "date": "2026-11-26T11:26:33Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/2b309d68-e98a-11f1-a88e-81bc2b1dcd65/w:1024/p:16x9/capture-4d84638f.jpg",
-    "title_pt": "A mídia francesa publica novas alegações sobre a 'torrente antissemita' do líder de extrema direita Bardella",
-    "summary_pt": "REVISÃO DE IMPRENSA – Quinta-feira, 26 de novembro: Os meios de comunicação franceses Mediapart e Le Monde publicam um conjunto adicional de mensagens que pretendem mostrar os pensamentos antissemitas desenfreados do líder de extrema direita Jordan Bardella quando era um jovem membro do partido em 2013. Além disso: a França realiza o primeiro julgamento de uma mulher jihadista, Émilie König. Kilmar Abrego Garcia, outrora o rosto de Dona"
-  },
-  {
-    "title": "EXCLUSIVE: StanChart's crypto unit Zodia Custody hit by security breach, some client data exposed",
-    "summary": "EXCLUSIVE: StanChart's crypto unit Zodia Custody hit by security breach, some client data exposed Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNGJWWkQ2MFZyZFRTMl9HcGFjU1V0WmZsNGt3MWpJZmNJdUlUNmRtNGpKR3pjRE1YeUx3ZkFKa1NPbFJlUWtOR19yV3FWOG1sY3RrdTFINnhwcnVnZUtrZy1VWmJWa0lQZ1Fla1NSY3dINllTT2FUOGs1MnAzSU03WWtQT2RtUkhrS1M1TFE3bHNKcXBXMXp5OWtxWWFiSGF5dlBOeHJHWGw5Z1ZwclNlSExxUUlNR0FHeTZ0VzhVSmoxQ1p5VUlkdXNydzFTUQ?oc=5",
-    "date": "2026-11-26T11:26:28Z",
-    "lang": "en",
-    "image": ""
-  },
-  {
-    "title": "France: Senior officials investigated over suspected leaks to far-right National Rally",
-    "summary": "Two senior figures in France have been caught up in an investigation into suspected leaks to the far-right National Rally. The prefect of the Loiret and former top official at the Interior Ministry, Hugues Moutouh, has been removed from his post after being suspected of passing on confidential information about investigations. A deputy prosecutor in Paris, w",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261126-france-senior-officials-investigated-over-suspected-leaks-to-far-right-national-rally",
-    "date": "2026-11-26T11:24:58Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/3c7cd776-e985-11f1-842e-174dac1c1bf0/w:1024/p:16x9/EN-20261126-110444-110624-CS.jpg",
-    "title_pt": "França: Altos funcionários investigados por suspeitas de vazamentos para o Rally Nacional de extrema direita",
-    "summary_pt": "Duas figuras importantes em França foram apanhadas numa investigação sobre suspeitas de fugas para o Rally Nacional de extrema-direita. O prefeito do Loiret e ex-alto funcionário do Ministério do Interior, Hugues Moutouh, foi afastado do cargo após ser suspeito de transmitir informações confidenciais sobre investigações. Um procurador-adjunto em Paris, w"
   },
   {
     "title": "Seedorf valoriza resultado do Corinthians fora de casa: “Ponto fundamental”",
@@ -976,20 +916,6 @@
     "summary_pt": "O Egito sofreu outra tragédia quando uma explosão mortal em uma estrada matou 31 pessoas e feriu dezenas."
   },
   {
-    "title": "EU Budget talks: France seeks to protect Common Agricultural Policy subsidies",
-    "summary": "Leaders from EU countries are meeting in Brussels on Thursday and Friday for another round of talks on the EU's next multi-year budget. For France, the main aim of the negotiations is to prevent a reduction in the funding allocated to the Common Agricultural Policy, a subsidy vital for French agriculture – a position Macron made clear in a meeting with farme",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261126-eu-budget-talks-france-seeks-to-protect-common-agricultural-policy-subsidies",
-    "date": "2026-11-26T11:22:37Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/c8f63c42-e985-11f1-9352-f9cf020caef6/w:1024/p:16x9/EN-20261126-110741-110930-CS.jpg",
-    "title_pt": "Negociações sobre o orçamento da UE: França procura proteger os subsídios da Política Agrícola Comum",
-    "summary_pt": "Os líderes dos países da UE reúnem-se em Bruxelas na quinta e sexta-feira para outra ronda de negociações sobre o próximo orçamento plurianual da UE. Para a França, o principal objectivo das negociações é evitar uma redução do financiamento atribuído à Política Agrícola Comum, um subsídio vital para a agricultura francesa – uma posição que Macron deixou clara numa reunião com agricultores"
-  },
-  {
     "title": "What is the US permitting bill and would it actually help the climate?",
     "summary": "A sweeping US bill to speed up energy projects has rare bipartisan support. Supporters say it would unlock clean energy and lower bills, but critics say it's a gift to fossil fuels.",
     "category": "Clima e desastres",
@@ -1028,20 +954,6 @@
     "summary_pt": "As mudanças podem fazer com que motoristas com mais de 70 anos sejam privados de licença se não atenderem aos padrões."
   },
   {
-    "title": "Trump unveils new tariffs on 14 trade partners over 'unfair' industrial capacity",
-    "summary": "US President Donald Trump fired a new tariff salvo on Wednesday on 14 major trading partners including China, Japan and the European Union, undeterred in his protectionist push by the losses his Republican Party suffered in US midterm elections. His administration proposed new maximum potential rates of 20% to 40% to counter excess industrial capacity that i",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261126-trump-unveils-new-tariffs-on-14-trade-partners-over-unfair-industrial-capacity",
-    "date": "2026-11-26T11:20:39Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/c63b6fda-e986-11f1-b4ce-1991d4929b54/w:1024/p:16x9/EN-20261126-110959-111150-CS.jpg",
-    "title_pt": "Trump divulga novas tarifas sobre 14 parceiros comerciais por capacidade industrial “injusta”",
-    "summary_pt": "O presidente dos EUA, Donald Trump, disparou uma nova salva tarifária na quarta-feira contra 14 principais parceiros comerciais, incluindo China, Japão e a União Europeia, sem se deixar intimidar em seu impulso protecionista pelas perdas que seu Partido Republicano sofreu nas eleições intercalares dos EUA. A sua administração propôs novas taxas máximas potenciais de 20% a 40% para contrabalançar o excesso de capacidade industrial que"
-  },
-  {
     "title": "Watchdog warns of several concerns in private dentistry market",
     "summary": "The Competitions and Market Authority says reforms are needed to make sure people get a fair deal.",
     "category": "Saúde",
@@ -1054,20 +966,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f8f/live/65d6bd90-e97a-11f1-acd8-af22a7ebb474.jpg",
     "title_pt": "Watchdog alerta para diversas preocupações no mercado odontológico privado",
     "summary_pt": "A Autoridade da Concorrência e do Mercado afirma que são necessárias reformas para garantir que as pessoas obtenham um acordo justo."
-  },
-  {
-    "title": "'King tide' waves batter California coast, soaking San Francisco",
-    "summary": "Massive waves carried on king tides battered California's coast Wednesday, prompting evacuations and soaking San Francisco, but sparing feared mass disruptions to Thanksgiving holiday travel. San Francisco already recorded its highest November water levels in more than 40 years on Tuesday morning, according to the National Weather Service.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261126-king-tide-waves-batter-california-coast-soaking-san-francisco",
-    "date": "2026-11-26T11:19:13Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/422279b8-e987-11f1-9cad-1991d4929b54/w:1024/p:16x9/EN-20261126-111214-111321-CS.jpg",
-    "title_pt": "Ondas da 'maré real' atingem a costa da Califórnia, encharcando São Francisco",
-    "summary_pt": "Ondas enormes transportadas pelas marés reais atingiram a costa da Califórnia na quarta-feira, provocando evacuações e encharcando São Francisco, mas poupando as temidas interrupções em massa nas viagens do feriado de Ação de Graças. São Francisco já registrou seus níveis de água mais altos em novembro em mais de 40 anos na manhã de terça-feira, de acordo com o Serviço Meteorológico Nacional."
   },
   {
     "title": "Fictor tentou comprar Banco Master: Relembre negociação que foi suspensa",
@@ -1334,7 +1232,7 @@
   {
     "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
     "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
-    "category": "Geral",
+    "category": "Saúde",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1416,18 +1314,6 @@
     "summary_pt": "Durante o interrogatório, o homem afirmou que seu carro bateu na traseira do caminhão-tanque enquanto ele “ziguezagueava entre as faixas e ultrapassava veículos\""
   },
   {
-    "title": "Israel kills nine in Gaza, including a Hamas-appointed minister, officials say",
-    "summary": "Israel kills nine in Gaza, including a Hamas-appointed minister, officials say Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzFiM29KUVhvZHZUYTV1SWtlLXNYbXg3ZzRodFVmanZkNzJsczZ4UldfRkNkSW1fVDhMaTFYOW9ETUxXaXFKcktCTThoYnBYS21mVjQxYkNWM19MR1h0WHNSdjlGenRTNkExU2RKU0ZKNUhCRWR0OVU2VmFqTUJHeE5QMVNybDE4Qk1WTmp5VGgyWDV0NjhaM3h4Ulp1bWZDUThnSlI0TFMwMnQzNk5KQnZXVTRCUUxvc2FLbmlDYVREeHpwOUpV?oc=5",
-    "date": "2026-11-26T10:49:17Z",
-    "lang": "en",
-    "image": ""
-  },
-  {
     "title": "Em eleição espanhola, Lula inspira batalha digital da esquerda e recebe críticas da direita por suposta intervenção",
     "summary": "Em 16 de novembro, Lula desembarcou em Madri acompanhado do deputado André Janones, na volta de uma viagem à Ásia, para manifestar seu apoio a Sánchez na reta final da campanha espanhola. EPA/ Shutterstock via BBC Em um dos vídeos mais inusitados da campanha eleitoral espanhola, o primeiro-ministro Pedro Sánchez, do Partido Socialista Operário Espanhol (PSOE",
     "category": "Geral",
@@ -1484,7 +1370,7 @@
   {
     "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
     "summary": "Officials say no lead has been detected in the surrounding area, which continues to be tested following concerns from locals.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1522,6 +1408,18 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/nacional-montagem-18.jpg?w=200",
     "title_pt": "Chuva causa alagamentos no Rio; aulas em escolas e faculdades são suspensas",
     "summary_pt": "Temporais atingiram a capital e diversos municípios do estado entre a tarde de quarta-feira (25) e a madrugada desta quinta (26); Inmet emitiu alerta para o estado"
+  },
+  {
+    "title": "Cataluña incorporará la pastilla preventiva del VIH a centros de salud y farmacias para desatascar la lista de espera",
+    "summary": "El centro BCN Checkpoint denuncia el colapso del programa PrEP y documenta una treintena de infecciones por las demoras en el acceso al tratamiento",
+    "category": "Saúde",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/catalunya/2026-11-26/cataluna-incorporara-la-pastilla-preventiva-del-vih-a-centros-de-salud-y-farmacias-para-desatascar-la-listas-de-espera.html",
+    "date": "2026-11-26T10:31:25Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/ZNTUVMKLAHXSBRLPYOIXT7OFRI.jpg?auth=d68c0fb3767451cbe1e18daa327309ce3f0a85a816d298105a458e5be432cd7f"
   },
   {
     "title": "De Gennaro defiende su inocencia en su carta de despedida: “Un condenado a muerte no puede mentir”",
@@ -1634,18 +1532,16 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7152/live/395fc860-e975-11f1-acd8-af22a7ebb474.jpg"
   },
   {
-    "title": "'Sacré sel': France's love of salt",
-    "summary": "We take a look at a salt scandal that is rocking the UK, after Maldon sea salt was found to come, in part, from rock salt imported from Germany. We also discuss France's relationship to salt (le sel) and the different kinds in France, from fleur de sel to sel gris. Finally, we look at French history and expressions about salt.",
+    "title": "A juicio la “mujer medicina” de Gran Canaria que prometía curar el cáncer con ayahuasca y veneno de sapo",
+    "summary": "La Fiscalía pide cuatro años de cárcel para la organizadora de rituales neochamánicos en Vecindario. La Policía halló en su local DMT, psilocina y bufotenina",
     "category": "Geral",
     "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/entre-nous/20261126-sacr%C3%A9-sel-france-s-love-of-salt",
-    "date": "2026-11-26T10:22:53Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/33d1908e-e8e6-11f1-9824-81da3ab2acbb/w:1024/p:16x9/capture-15d580ae.jpg",
-    "title_pt": "'Sacré sel': o amor da França pelo sal",
-    "summary_pt": "Analisamos o escândalo do sal que está a abalar o Reino Unido, depois de se ter descoberto que o sal marinho de Maldon provém, em parte, de sal-gema importado da Alemanha. Também discutimos a relação da França com o sal (le sel) e os diferentes tipos existentes na França, da flor de sal ao sal gris. Por fim, examinamos a história francesa e as expressões sobre o sal."
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-26/a-juicio-la-mujer-medicina-de-gran-canaria-que-prometia-curar-el-cancer-con-ayahuasca-y-veneno-de-sapo.html",
+    "date": "2026-11-26T10:25:29Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/JHLJMDUFHRB2RK43XSDCR4Z5XM.jpeg?auth=ebb250bfca2014b49746967c2878600f2ce4c316f0fa7d87f144222300262df1"
   },
   {
     "title": "La falsa empresa de reformas de lujo en Madrid que se esfumaba con el dinero tras tirar los tabiques",
@@ -1952,7 +1848,7 @@
   {
     "title": "New UK-EU treaty has 10-year termination clause",
     "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2256,7 +2152,7 @@
   {
     "title": "Musk's plan to send a million SpaceX data satellites into space approved",
     "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2546,20 +2442,6 @@
     "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
-    "title": "Le Pen's top ally Bardella faces fresh allegations of anti-semitic comments",
-    "summary": "French investigative outlet Mediapart on Thursday published extracts from private conversations in which far-right leader Jordan Bardella allegedly made anti-semitic remarks as a teenager, prompting fresh accusations that he has denied.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/france/20261126-le-pen-top-ally-bardella-faces-renewed-scrutiny-over-alleged-antisemitic-comments",
-    "date": "2026-11-26T09:08:10Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/f9b7709e-e962-11f1-b3b0-f9cf020caef6/w:1024/p:16x9/2026-11-17T103628Z-1273852045-RC2MPOA6Q0GC-RTRMADP-3-FRANCE-POLITICS-LEPEN.jpg",
-    "title_pt": "Principal aliado de Le Pen, Bardella, enfrenta novas acusações de comentários antissemitas",
-    "summary_pt": "O meio de investigação francês Mediapart publicou na quinta-feira trechos de conversas privadas nas quais o líder de extrema direita Jordan Bardella supostamente fez comentários antissemitas quando era adolescente, gerando novas acusações que ele negou."
-  },
-  {
     "title": "Espagne : le naufrage d’un pétrolier chargé de diesel fait un mort au large d’Ibiza, sans « indice de pollution » provisoirement observé",
     "summary": "L’équipage de 17 membres a été secouru, mais l’un d’entre eux a ensuite été déclaré mort à l’hôpital, à Ibiza, selon les secours de l’archipel des Baléares. Les dommages environnementaux sont en cours d’évaluation.",
     "category": "Geral",
@@ -2822,34 +2704,6 @@
     "summary_pt": "Lynne Balmain diz que a espera por uma avaliação de TDAH não causa apenas pressão financeira, mas também tem impacto na sua saúde mental e no seu bem-estar."
   },
   {
-    "title": "'We are not fighting culture, we fight to end FGM: It's a human rights violation of women and girls'",
-    "summary": "“We fight to end FGM because it is a human rights violation of women and girls. We are not fighting culture.” Caroline Lagat, Legal Advisor at Equality Now’s Africa office in Nairobi, discusses the challenges of ending female genital mutilation (FGM) and child marriage. She points to insufficient funding, conflicting marriage laws and growing community resis",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/we-are-not-fighting-culture-we-fight-to-end-fgm-it-s-a-human-rights-violation-of-women-and-girls",
-    "date": "2026-11-26T08:39:26Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/2a34f374-e970-11f1-a19b-174dac1c1bf0/w:1024/p:16x9/EN-20261125-080511-081235-CS.jpg",
-    "title_pt": "“Não estamos a lutar contra a cultura, lutamos para acabar com a MGF: é uma violação dos direitos humanos das mulheres e das raparigas”",
-    "summary_pt": "\"Lutamos para acabar com a MGF porque é uma violação dos direitos humanos das mulheres e das raparigas. Não estamos a lutar contra a cultura.\" Caroline Lagat, Conselheira Jurídica do escritório de África da Equality Now em Nairobi, discute os desafios de acabar com a mutilação genital feminina (MGF) e o casamento infantil. Ela aponta para financiamento insuficiente, leis matrimoniais conflitantes e crescente resistência comunitária"
-  },
-  {
-    "title": "Injury-hit PSG drop first points of Champions League campaign against Roma",
-    "summary": "After kicking off their Champions League title defence with four consecutive wins, Luis Enrique's men were held to a draw at home by the Italian side Roma. Real Madrid are now two points clear at the top of the standings.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/sports/20261126-injury-hit-psg-drop-first-points-of-champions-league-campaign-against-roma",
-    "date": "2026-11-26T08:34:00Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/204f7dde-e948-11f1-b29b-81bc2b1dcd65/w:1024/p:16x9/J24-PSG-6.jpg",
-    "title_pt": "PSG lesionado perde primeiros pontos na campanha da Liga dos Campeões contra a Roma",
-    "summary_pt": "Depois de iniciar a defesa do título da Liga dos Campeões com quatro vitórias consecutivas, os comandados de Luis Enrique empataram em casa com os italianos da Roma. O Real Madrid está agora com dois pontos de vantagem na liderança da classificação."
-  },
-  {
     "title": "Thanksgiving and National Day of Mourning: What is the history?",
     "summary": "Indigenous activists challenge Thanksgiving narratives and highlight ongoing struggles for sovereignty and recognition.",
     "category": "Geral",
@@ -2904,20 +2758,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/ZN6A4SWUWJCFZD4WL37OPZYN7A.jpeg?auth=a19eb5a09ea77e0e02186e09fac95ea6e009f4bef3f7d91a756ea44320816249",
     "title_pt": "Professores catalães iniciam a segunda greve do ano letivo, ocupando o Palau de la Generalitat por duas horas",
     "summary_pt": "Os professores entregaram uma carta ao \"president\" Salvador Illa, que não estava no local, pedindo a reabertura das negociações."
-  },
-  {
-    "title": "Huge explosion at oil depot in Bangkok sends fireball into sky",
-    "summary": "An explosion at an oil depot in Bangkok sent a large fireball and thick black smoke into the sky, journalists said Thursday, as local authorities urged people nearby to evacuate.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/asia-pacific/20261126-huge-explosion-at-oil-depot-in-bangkok-sends-fireball-into-sky",
-    "date": "2026-11-26T08:27:20Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/bb241806-e975-11f1-910a-1991d4929b54/w:1024/p:16x9/AP26330310262383.jpg",
-    "title_pt": "Enorme explosão em depósito de petróleo em Bangkok envia bola de fogo para o céu",
-    "summary_pt": "Uma explosão em um depósito de petróleo em Bangkok enviou uma grande bola de fogo e uma espessa fumaça preta para o céu, disseram jornalistas na quinta-feira, enquanto as autoridades locais instavam as pessoas próximas a evacuarem."
   },
   {
     "title": "Poundland collapses putting 11,000 jobs at risk",
@@ -3240,20 +3080,6 @@
     "summary_pt": "Espera-se que os líderes dos 27 Estados-Membros da UE debatam o orçamento da UE para o período de 2028 a 2034. A Ucrânia e a liderança do Banco Central Europeu também estão em pauta. A DW tem mais informações."
   },
   {
-    "title": "Aid cuts to Taliban-ruled Afghanistan further curb women's access to healthcare, education and food",
-    "summary": "Having lived and worked in Afghanistan for seven years, photojournalist Élise Blanchard offers an intimate account of what daily life is like for Afghan women today. Joining Genie Godula on the International Day for the Elimination of Violence against Women, she explains how restrictions vary across the country, depending on where women live, their families ",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/aid-cuts-to-taliban-ruled-afghanistan-further-curb-women-s-access-to-healthcare-education-and-food",
-    "date": "2026-11-26T07:28:14Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/3e4d0574-e969-11f1-9df4-f9cf020caef6/w:1024/p:16x9/EN-20261125-131050-131748-CS.jpg",
-    "title_pt": "Os cortes na ajuda ao Afeganistão governado pelos Taliban restringem ainda mais o acesso das mulheres aos cuidados de saúde, à educação e à alimentação",
-    "summary_pt": "Tendo vivido e trabalhado no Afeganistão durante sete anos, a fotojornalista Élise Blanchard oferece um relato íntimo de como é a vida diária das mulheres afegãs hoje. Juntando-se a Genie Godula no Dia Internacional pela Eliminação da Violência contra as Mulheres, ela explica como as restrições variam em todo o país, dependendo de onde as mulheres vivem, das suas famílias"
-  },
-  {
     "title": "DR Congo demands answers over Ugandan general's threats",
     "summary": "Gen Kainerugaba threatened a rebel takeover of a mineral-rich area in DR Congo in controversial X posts.",
     "category": "Geral",
@@ -3292,20 +3118,6 @@
     "date": "2026-11-26T07:19:00Z",
     "lang": "en",
     "image": ""
-  },
-  {
-    "title": "'Unacceptable': China, EU among major economies against new US tariffs",
-    "summary": "China, the European Union and other major trading partners on Thursday criticised new US tariffs of up to 20 percent proposed by US President Donald Trump after a probe into alleged global overcapacity, raising the prospect of fresh trade tensions with allies and rivals alike.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/americas/20261126-unacceptable-major-economies-push-back-against-new-us-tariffs",
-    "date": "2026-11-26T07:16:41Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/1b38f54e-e968-11f1-b414-81bc2b1dcd65/w:1024/p:16x9/2026-11-25T135439Z-2052634195-RC21VOAE4UVU-RTRMADP-3-USA-TRUMP-TARIFFS.jpg",
-    "title_pt": "‘Inaceitável’: China e UE entre as principais economias contra as novas tarifas dos EUA",
-    "summary_pt": "A China, a União Europeia e outros grandes parceiros comerciais criticaram na quinta-feira as novas tarifas dos EUA de até 20 por cento propostas pelo presidente dos EUA, Donald Trump, após uma investigação sobre o suposto excesso de capacidade global, aumentando a perspectiva de novas tensões comerciais com aliados e rivais."
   },
   {
     "title": "Sem apoio a Hugo, ala pragmática do PL teme risco de isolamento na Câmara",
@@ -3582,20 +3394,6 @@
     "summary_pt": "Dezenas de trabalhadores ficaram presos dentro da mina de ouro ilegal desde segunda-feira, depois que seu estreito poço foi inundado."
   },
   {
-    "title": "Iraqi court sentences 8 French nationals to life in prison for IS group membership",
-    "summary": "An Iraqi court sentenced eight French nationals to life in prison and two others to 15 years on Thursday for joining the Islamic State group, as Baghdad steps up prosecutions of thousands of alleged jihadists transferred from Syria.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/middle-east/20261126-iraqi-court-to-sentence-20-french-nationals-for-is-group-membership",
-    "date": "2026-11-26T06:28:48Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/e60ee952-e960-11f1-829c-174dac1c1bf0/w:1024/p:16x9/AP19153526752150.jpg",
-    "title_pt": "Tribunal iraquiano condena oito cidadãos franceses à prisão perpétua por pertencerem ao grupo EI",
-    "summary_pt": "Um tribunal iraquiano condenou oito cidadãos franceses à prisão perpétua e outros dois a 15 anos na quinta-feira por se juntarem ao grupo Estado Islâmico, enquanto Bagdad intensifica os processos contra milhares de alegados jihadistas transferidos da Síria."
-  },
-  {
     "title": "Trump e chefe da Otan pedem que Rússia evite ações que ampliem guerra na Ucrânia",
     "summary": "Presidente dos Estados Unidos, Donald Trump, dá coletiva de imprensa com o secretário-geral da Otan, Mark Rutte, em Ancara, na Turquia, em 8 de julho de 2026. FILIP SINGER/Pool via REUTERS A Rússia deve evitar ações que ampliem sua guerra na Ucrânia, afirmaram o presidente dos Estados Unidos, Donald Trump, e o secretário-geral da Otan, Mark Rutte, em um comu",
     "category": "Conflitos",
@@ -3706,6 +3504,18 @@
     "summary_pt": "Mulheres manifestantes e dissidentes estão a ser condenadas à morte em números não vistos há décadas, afirma um grupo de direitos humanos."
   },
   {
+    "title": "EXCLUSIVE: AirBaltic offers crew exit, demotion or Papua New Guinea secondment",
+    "summary": "EXCLUSIVE: AirBaltic offers crew exit, demotion or Papua New Guinea secondment Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnFGSkFEWHpGbVdrOTVYcmR2a0NmcVctZ3B6MGo2bzEtOWwtNW9xZWlwbEllT0RKb04tMExQdGZJSkdpTk8wbFlXejd0cDlaWmlCNjNSUGhfcjAwRFR2TzFpWnhoRnZxWFdZdzZLTjBvdlI3Wl9xTWRwdjYxOF9pU0FhSk44OVRNRlphbTlfTEtQQnpmQUtNeVY1VFlNZ0dUeTJlMDBDNHhOdHNE?oc=5",
+    "date": "2026-11-26T06:01:00Z",
+    "lang": "en",
+    "image": ""
+  },
+  {
     "title": "Latest news bulletin | November 26th, 2026 – Morning",
     "summary": "Catch up with the most important stories from around Europe and beyond this November 26th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
     "category": "Geral",
@@ -3760,16 +3570,16 @@
     "summary_pt": "WASHINGTON (AP) – O defensor chinês dos direitos do consumidor, Wang Hai, passou três décadas expondo produtos falsificados e buscando compensação para os compradores. Nos últimos meses, ele deixou a China temendo ser alvo das autoridades, mas agora está preso na Coreia do Sul com sua família, enfrentando possíveis…"
   },
   {
-    "title": "'It's really outrageous': Women face violence in the streets and 'what we see online is even worse'",
-    "summary": "On the International Day for the Elimination of Violence against Women, FRANCE 24's François Picard is pleased to welcome back Choralyne Dumesnil, an attorney practising in Paris and California, to discuss misogyny, sexual violence, cyberbullying and the challenges victims face in seeking justice. \"There's always that stigma when you lodge a complaint. You g",
+    "title": "North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture",
+    "summary": "Kim accused Washington of encouraging its regional allies to acquire nuclear-powered submarines and of pledging to share its own nuclear weapons with them.",
     "category": "Geral",
     "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/spotlight/20261126-it-s-really-outrageous-women-face-violence-in-the-streets-and-what-we-see-online-is-even-worse",
-    "date": "2026-11-26T05:56:15Z",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/2026/11/26/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+    "date": "2026-11-26T05:55:00Z",
     "lang": "en",
-    "image": "https://s.france24.com/media/display/35463f2c-e991-11f1-b9cc-77d069279b82/w:1024/p:16x9/capture-f186d223.jpg"
+    "image": "https://images.euronews.com/articles/stories/10/00/88/17/696x392_cmsv2_ba3f3382-7581-5112-be9d-1cddc3a1fd21-10008817.jpg"
   },
   {
     "title": "Surto de ebola na República Democrática do Congo supera 12 mil casos e deixa quase 6 mil mortos",
@@ -4514,20 +4324,6 @@
     "summary_pt": "A oposição censura o Governo pela quebra de oferta reportada em alguns relatórios sectoriais enquanto a Habitação defende que há mais meio milhão de contratos em vigor do que em 2021 e são mais estáveis"
   },
   {
-    "title": "Buscador de la movilidad laboral en España | Madrid pierde trabajadores y Valencia lidera la atracción de asalariados",
-    "summary": "Más de 342.000 empleados cambiaron de provincia para trabajar en 2025 respecto al año previo",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/economia/2026-11-26/buscador-de-la-movilidad-laboral-en-espana-madrid-pierde-trabajadores-y-valencia-lidera-la-atraccion-de-asalariados.html",
-    "date": "2026-11-26T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/A54FYWOS3BEKDMMRU2XEHM3RVI.jpg?auth=fd7c7b1ae4f2d3eb33610485704520870324f633d496ddc77d08bebdcc5cb1b2",
-    "title_pt": "Motor de busca de mobilidade laboral em Espanha | Madrid perde trabalhadores e Valência lidera atração de empregados",
-    "summary_pt": "Mais de 342 mil funcionários mudaram de província para trabalhar em 2025 face ao ano anterior"
-  },
-  {
     "title": "Nativel Preciado: “No me cabe en la cabeza que haya mujeres que voten a la extrema derecha”",
     "summary": "La periodista y escritora, defensora de la moderación, reflexiona sobre el “peligro antidemocrático” en este 29N, sus vivencias con personajes de la Transición o el acoso sexual y laboral que sufrió",
     "category": "Geral",
@@ -4540,18 +4336,6 @@
     "image": "https://imagenes.elpais.com/resizer/v2/NCST6IOQWREBDFQGG5V7PBYXA4.jpg?auth=dbdcaa394ae3c980cc47f8b9a30af6a9839d6899c1d3e656032ef57f368f132f",
     "title_pt": "Nativel Preciado: “Não consigo imaginar que existam mulheres que votem na extrema direita”",
     "summary_pt": "A jornalista e escritora, defensora da moderação, reflete sobre o “perigo antidemocrático” deste 29N, as suas experiências com figuras da Transição ou o assédio sexual e laboral que sofreu"
-  },
-  {
-    "title": "La Comunidad de Madrid utiliza un festival de arquitectura para “acercar a los ciudadanos” tres promociones del Plan Vive",
-    "summary": "El Open House se celebra cada año y permite conocer espacios singulares normalmente cerrados al público. La última edición incluyó por primera vez visitas a viviendas del programa de alquiler asequible del Gobierno de Ayuso",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/espana/madrid/2026-11-26/la-comunidad-de-madrid-utiliza-un-festival-de-arquitectura-para-acercar-a-los-ciudadanos-tres-promociones-del-plan-vive.html",
-    "date": "2026-11-26T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/YU2M5QHSPZEIFJPCQYWOQ2H7KE.jpeg?auth=c1ccd7886e12baaa2aae21124398b60a3b6e02310188faa85143ae1eeb13511f"
   },
   {
     "title": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war",
@@ -4598,7 +4382,7 @@
   {
     "title": "US announces new tariffs on host of countries including China",
     "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4638,20 +4422,6 @@
     "summary_pt": "Foi a primeira vez na história que a icônica celebração foi adiada por causa de tempestades. Nova York espera ventos prejudiciais e fortes chuvas durante o feriado de Ação de Graças."
   },
   {
-    "title": "Emilie König, la plus médiatique des djihadistes françaises, devant la justice",
-    "summary": "Le procès de cette « revenante » de Syrie, âgée de 41 ans et mère de cinq enfants, accusée d’association de malfaiteurs terroriste notamment pour avoir relayé la propagande de l’organisation Etat islamique, s’ouvre jeudi à Paris.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "Le Monde",
-    "url": "https://www.lemonde.fr/societe/article/2026/11/26/emilie-konig-la-plus-mediatique-des-djihadistes-francaises-devant-la-justice_6815463_3224.html",
-    "date": "2026-11-26T04:00:16Z",
-    "lang": "fr",
-    "image": "https://img.lemde.fr/2026/11/25/12/0/4842/3228/1440/960/60/0/ace2790_upload-1-j0dbkuwbv2wt-000-96x643.jpg",
-    "title_pt": "Emilie König, a jihadista francesa mais conhecida pela mídia, diante da justiça",
-    "summary_pt": "O julgamento desta \"retornada\" da Síria, de 41 anos e mãe de cinco filhos, acusada de associação criminosa terrorista, nomeadamente por ter divulgado a propaganda da organização Estado Islâmico, começa nesta quinta-feira em Paris."
-  },
-  {
     "title": "Gold drifts lower as Fed rate-hike fears loom",
     "summary": "Gold drifts lower as Fed rate-hike fears loom Reuters",
     "category": "Geral",
@@ -4682,8 +4452,8 @@
     "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
   },
   {
-    "title": "Oil prices fall as supply concerns linger after Iran claims mine strikes on ships",
-    "summary": "Oil prices fall as supply concerns linger after Iran claims mine strikes on ships Reuters",
+    "title": "Oil prices edge up after mine strikes on ships revive supply concerns",
+    "summary": "Oil prices edge up after mine strikes on ships revive supply concerns Reuters",
     "category": "Geral",
     "region": "Global",
     "country": "GLOBAL",
@@ -4691,23 +4461,7 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHpfX3p2RFoxU2l0SGZVbVdSejdGYkc0NFpERWlxVEtab0pQbGd1NUtqQ3c0cXprdWItUF9fRmVVVElET3BNbklnbElwaC1UZ0xoNnd4dE9Wb2dFVDFGN2JyQ3YyUVhfTWxsNGFWNFNURG5kX1pMdVBtb2QyLXFMaXZPM0ZPdGdud1hWdHFuTEpNQXBtdUh6RmpWcW1jelhTU0JHdmp3dWphb0hB?oc=5",
     "date": "2026-11-26T03:08:00Z",
     "lang": "en",
-    "image": "",
-    "title_pt": "Os preços do petróleo caem à medida que as preocupações com a oferta persistem após o Irã reivindicar ataques com minas em navios",
-    "summary_pt": "Os preços do petróleo caem à medida que as preocupações com a oferta persistem após o Irã reivindicar ataques com minas em navios Reuters"
-  },
-  {
-    "title": "US authorises SpaceX to launch up to one million satellites for orbital data centres",
-    "summary": "The US Federal Communications Commission has approved SpaceX's plan to deploy up to one million satellites to build data centres in orbit, giving Elon Musk's company a major foothold in the industry. The authorisation runs through 2040, as tech firms race to move computing infrastructure into space despite significant technical hurdles.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/technology/20261126-us-authorizes-spacex-to-launch-up-to-one-million-satellites-for-orbital-data-centers",
-    "date": "2026-11-26T03:02:37Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/c24be946-bb40-11f1-b551-852b23529bb9/w:1024/p:16x9/2026-09-28T131913Z-1185617274-RC2CSNAEMW2N-RTRMADP-3-SPACE-SPACEX-STARSHIP.jpg",
-    "title_pt": "EUA autorizam SpaceX a lançar até um milhão de satélites para data centers orbitais",
-    "summary_pt": "A Comissão Federal de Comunicações dos EUA aprovou o plano da SpaceX de implantar até um milhão de satélites para construir centros de dados em órbita, dando à empresa de Elon Musk uma posição importante na indústria. A autorização vigora até 2040, enquanto as empresas de tecnologia correm para mover a infraestrutura de computação para o espaço, apesar dos obstáculos técnicos significativos."
+    "image": ""
   },
   {
     "title": "Uma semana após ganhar US$ 1 milhão na loteria, imigrante é preso pelo ICE nos EUA",
@@ -4736,18 +4490,6 @@
     "image": "https://static.dw.com/image/80055851_6.jpg",
     "title_pt": "O clima extremo ameaça as festividades de Ação de Graças nos EUA",
     "summary_pt": "Está prevista a passagem de uma grande tempestade pela costa leste dos EUA, o que provavelmente causará atrasos nas viagens. Os alertas meteorológicos foram suficientes para adiar o Desfile do Dia de Ação de Graças da Macy's pela primeira vez em seus 100 anos de história."
-  },
-  {
-    "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-    "summary": "SEOUL, South Korea (AP) — North Korean leader Kim Jong Un visited facilities that produce nuclear ingredients and called for building more nuclear weapons, days after ignoring U.S. President Donald Trump’s offer to meet during his recent visit to Asia. Experts say Kim likely wants to show off his …",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/north-korea-kim-nuclear-uranium-trump-78d6642ea055e8257518c3d695a58cd4?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-    "date": "2026-11-26T02:43:34Z",
-    "lang": "en",
-    "image": "https://ic-cdn.flipboard.com/apnews.com/4b5b4f5d015a0c79a004073c98988da634891f9f/_large.jpeg"
   },
   {
     "title": "Heavy rain hampers Indonesian rescue of 13 people trapped inside illegal mine, agency says",
@@ -4858,20 +4600,6 @@
     "image": ""
   },
   {
-    "title": "At least 31 killed in Cairo fire after fuel truck overturns on busy highway",
-    "summary": "At least 31 people were killed and 15 injured when a fuel truck overturned and burst into flames on a busy highway in Cairo on Wednesday, engulfing nearby vehicles, Egyptian authorities said.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway",
-    "date": "2026-11-26T01:25:54Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/ac48570e-e937-11f1-b861-1991d4929b54/w:1024/p:16x9/AP26329710858344.jpg",
-    "title_pt": "Pelo menos 31 mortos em incêndio no Cairo após caminhão de combustível capotar em rodovia movimentada",
-    "summary_pt": "Pelo menos 31 pessoas morreram e 15 ficaram feridas quando um caminhão de combustível capotou e pegou fogo em uma rodovia movimentada no Cairo na quarta-feira, engolindo veículos próximos, disseram autoridades egípcias."
-  },
-  {
     "title": "How to Celebrate Thanksgiving as an Expat",
     "summary": "From turkeys delivered on motorbikes to foie gras on the table, many American expatriates have adapted the traditional meal to their environs.",
     "category": "Geral",
@@ -4912,18 +4640,6 @@
     "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/26/9545fd2b-08e4-42d5-8fbe-8c9e7b74df0b/thumbnail/1200x630/103ef3759836e407812695ef555f0c99/cbsn-fusion-thieves-steal-cufflinks-clock-british-royal-estate-thumbnail.jpg",
     "title_pt": "Ladrões roubam abotoaduras e relógio da propriedade real britânica",
     "summary_pt": "Dois homens albaneses foram acusados ​​de invadir a casa de campo do príncipe William e da princesa Kate. Relatórios de Holly Williams."
-  },
-  {
-    "title": "Powerful US storm forces historic postponement of New York's Thanksgiving Day Parade",
-    "summary": "A powerful storm forecast to bring fierce winds and heavy rain to the northeastern United States has forced the unprecedented postponement of the city's 100th annual Thanksgiving Day Parade, with the event rescheduled for Saturday. Officials warned that Thursday's conditions could bring down tree limbs and power lines, while posing a safety risk to the parad",
-    "category": "Clima e desastres",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/americas/20261126-powerful-us-storm-forces-historic-postponement-of-thanksgiving-day-parade-in-new-york",
-    "date": "2026-11-26T01:11:05Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/c1a0cb74-e935-11f1-813e-c131ae9bfe9c/w:1024/p:16x9/AP26329715905101.jpg"
   },
   {
     "title": "South Korea's central bank raises rates, upgrades 2027 growth outlook",
@@ -5366,20 +5082,6 @@
     "image": "https://ic-cdn.flipboard.com/apnews.com/35f94ec627eccf25f88bcc95823ef504b815b530/_xlarge.jpeg"
   },
   {
-    "title": "Novo tarifaço proposto por Trump é \"inaceitável\", diz governo brasileiro",
-    "summary": "Em nota, Secretaria de Comunicação da Presidência da República afirma que o Brasil pode retaliar os EUA com mais tarifas e que ameaça do governo Trump ignora negociações em curso entre os dois países.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "DW Brasil",
-    "url": "https://www.dw.com/pt-br/novo-tarifaço-proposto-por-trump-é-inaceitável-diz-governo-brasileiro/a-80055430?maca=bra-rss-br-br-1031-rdf",
-    "date": "2026-11-25T22:00:00Z",
-    "lang": "pt",
-    "image": "",
-    "title_pt": "Novo tarifaço proposto por Trump é \"inaceitável\", diz governo brasileiro",
-    "summary_pt": "Em nota, Secretaria de Comunicação da Presidência da República afirma que o Brasil pode retaliar os EUA com mais tarifas e que ameaça do governo Trump ignora negociações em curso entre os dois países."
-  },
-  {
     "title": "11/25: The Takeout with Major Garrett",
     "summary": "Weather postpones Macy's Thanksgiving Day Parade; Trump introduces new tariffs on China, the EU and major trading partners.",
     "category": "Geral",
@@ -5392,6 +5094,20 @@
     "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/26/00872662-9f55-4300-80aa-52489ef0d26f/thumbnail/1200x630/64dac3490091ff0941d482e99f1c0690/takeoutfull112526.jpg",
     "title_pt": "25/11: A comida para viagem com o Major Garrett",
     "summary_pt": "Tempo adia desfile do Dia de Ação de Graças da Macy's; Trump introduz novas tarifas sobre a China, a UE e os principais parceiros comerciais."
+  },
+  {
+    "title": "Novo tarifaço proposto por Trump é \"inaceitável\", diz governo brasileiro",
+    "summary": "Em nota, Secretaria de Comunicação da Presidência da República afirma que o Brasil pode retaliar os EUA com mais tarifas e que ameaça do governo Trump ignora negociações em curso entre os dois países.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "DW Brasil",
+    "url": "https://www.dw.com/pt-br/novo-tarifaço-proposto-por-trump-é-inaceitável-diz-governo-brasileiro/a-80055430?maca=bra-rss-br-br-1031-rdf",
+    "date": "2026-11-25T22:00:00Z",
+    "lang": "pt",
+    "image": "",
+    "title_pt": "Novo tarifaço proposto por Trump é \"inaceitável\", diz governo brasileiro",
+    "summary_pt": "Em nota, Secretaria de Comunicação da Presidência da República afirma que o Brasil pode retaliar os EUA com mais tarifas e que ameaça do governo Trump ignora negociações em curso entre os dois países."
   },
   {
     "title": "Kim Jong-un diz que status nuclear da Coreia do Norte é 'inviolável' e faz ameaça de guerra",
@@ -5556,18 +5272,6 @@
     "image": ""
   },
   {
-    "title": "Macy's Thanksgiving Day Parade postponed due to weather for first time in 100 years",
-    "summary": "Macy's Thanksgiving Day Parade postponed due to weather for first time in 100 years Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObWhPYmVCWGllQUlkVVlDc2xCb1puNVJmRzRxb0M0TkxUXzJhUF96ZW9HalhkbHdCODVNcW40ZXZrTEhWR0ZpUHZZU1JmZ29TbXdZR2ZLMlNnMzJ2eUhaUXp4VkJOV2RvVnNweTdWbkFuUWptYmRCblc5aXBtOXlQSy1TSHpHQjRrUUpuYXIweEZtbldKSTltWG9US2p3eGZ6UTlBSjE5YW1qdGNsdVI3Y0wxeURLdF9IS1d3c3NuNVpxdTJfQmN5UmpjZ1ZZbFlW?oc=5",
-    "date": "2026-11-25T21:13:00Z",
-    "lang": "en",
-    "image": ""
-  },
-  {
     "title": "Governo Lula diz estar indignado com nova proposta de tarifa dos EUA contra o Brasil e que não 'cederá a esse tipo de ameaça'",
     "summary": "Brasil expressa 'indignação' por 'ameaça' de tarifa dos EUA O governo brasileiro divulgou uma nota nesta quarta-feira (25) na qual manifestou \"indignação\" com a proposta do Escritório do Representante Comercial dos EUA (USTR, na sigla em inglês) para que sejam impostas novas tarifas sobre aeronaves brasileiras e o açúcar brasileiro (veja mais abaixo). \"O gov",
     "category": "Economia",
@@ -5596,20 +5300,6 @@
     "summary_pt": "O primeiro-ministro Benjamin Netanyahu é acusado de suborno, fraude e quebra de confiança num longo julgamento que dividiu o país. Ele nega todas as irregularidades."
   },
   {
-    "title": "Libyan officers die after Ukrainian strike, a highway fire in Egypt kills 30, and other Mideast news",
-    "summary": "Two Libyan naval officers have died following the Ukrainian drone attack on a Russian warship in Libya that opened a new theater in the conflict, thousands of miles from the front lines of the Russia-Ukraine war, and a highway fire near the Egyptian capital killed at least 30 people. Iran’s …",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/mideast-israel-gaza-ukraine-libya-israel-november-25-2026-6995de4ee91278459742a359eeb7439e?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-    "date": "2026-11-25T20:40:27Z",
-    "lang": "en",
-    "image": "https://ic-cdn.flipboard.com/apnews.com/c5f908f0580604352141783de8e3148941eedd7e/_large.webp",
-    "title_pt": "Oficiais líbios morrem após ataque ucraniano, um incêndio em uma rodovia no Egito mata 30 e outras notícias do Oriente Médio",
-    "summary_pt": "Dois oficiais da marinha líbia morreram na sequência do ataque de drones ucranianos a um navio de guerra russo na Líbia, que abriu um novo teatro de operações no conflito, a milhares de quilómetros das linhas da frente da guerra entre a Rússia e a Ucrânia, e um incêndio numa estrada perto da capital egípcia matou pelo menos 30 pessoas. do Irão…"
-  },
-  {
     "title": "Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs",
     "summary": "Mauritius, a popular tourist destination off southern Africa, has become overrun with strays. With more and more residents chased and attacked, many are fed up.",
     "category": "Geral",
@@ -5622,6 +5312,20 @@
     "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00int-mauritius-dogs-dispatch-promo-bltj/00int-mauritius-dogs-dispatch-promo-bltj-mediumSquareAt3X.jpg",
     "title_pt": "A ilha paradisíaca das Maurícias tem sol, praias e muitos cães",
     "summary_pt": "Maurício, um destino turístico popular no sul da África, ficou repleto de animais de rua. Com cada vez mais moradores sendo perseguidos e atacados, muitos estão de saco cheio."
+  },
+  {
+    "title": "Libyan officers die after Ukrainian strike, a highway fire in Egypt kills 30, and other Mideast news",
+    "summary": "Two Libyan naval officers have died following the Ukrainian drone attack on a Russian warship in Libya that opened a new theater in the conflict, thousands of miles from the front lines of the Russia-Ukraine war, and a highway fire near the Egyptian capital killed at least 30 people. Iran’s …",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/mideast-israel-gaza-ukraine-libya-israel-november-25-2026-6995de4ee91278459742a359eeb7439e?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+    "date": "2026-11-25T20:40:27Z",
+    "lang": "en",
+    "image": "https://ic-cdn.flipboard.com/apnews.com/c5f908f0580604352141783de8e3148941eedd7e/_large.webp",
+    "title_pt": "Oficiais líbios morrem após ataque ucraniano, um incêndio em uma rodovia no Egito mata 30 e outras notícias do Oriente Médio",
+    "summary_pt": "Dois oficiais da marinha líbia morreram na sequência do ataque de drones ucranianos a um navio de guerra russo na Líbia, que abriu um novo teatro de operações no conflito, a milhares de quilómetros das linhas da frente da guerra entre a Rússia e a Ucrânia, e um incêndio numa estrada perto da capital egípcia matou pelo menos 30 pessoas. do Irão…"
   },
   {
     "title": "Desmatamento e fogo transformam a Amazônia em vilã do clima",
@@ -5696,7 +5400,7 @@
   {
     "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
     "summary": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5766,7 +5470,7 @@
   {
     "title": "What we know about Trump's Thanksgiving tariffs",
     "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6292,7 +5996,7 @@
   {
     "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
     "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6548,20 +6252,6 @@
     "image": "https://s2-g1.glbimg.com/6XlIqGLNHYMlxBlwqebimIGFUyM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/c/XJ1yM9Q2OmPBE7DMej4A/design-sem-nome-2026-11-25t132302.406.jpg",
     "title_pt": "VÍDEO: turista tenta atravessar ponte móvel durante ventania no Chile e enfrenta forte 'turbulência'",
     "summary_pt": "Homem fica 'preso' em ponte no Chile durante forte ventania Um turista que fazia trekking em um parque nacional do Chile passou por momentos de tensão ao ser surpreendido por um forte vendaval enquanto atravessava uma ponte. 🔍Trekking é uma caminhada de longa duração feita em ambientes naturais, como montanhas, trilhas, florestas e vales. ✅ Siga o canal de n"
-  },
-  {
-    "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-    "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-25T14:46:41Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg",
-    "title_pt": "Cinco jatos militares russos atingidos em ataque a campo de aviação, diz Ucrânia",
-    "summary_pt": "O aeródromo de Savasleyka hospeda aeronaves usadas pela Rússia para lançar mísseis hipersônicos e bombas planadoras contra a Ucrânia."
   },
   {
     "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
@@ -6842,5 +6532,283 @@
     "image": "https://i.guim.co.uk/img/media/9f4ad69a7c2842c8d7b083f6f6d5e6fb55a96e3a/0_0_7920_6336/master/7920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36c615489292875a1d8169bea27ec67c",
     "title_pt": "Embaixada do Reino Unido no Japão alerta sobre aumento no consumo de bebidas e fraude de cartão de crédito em bares de Tóquio",
     "summary_pt": "Campanha nas redes sociais liderada pelo rapper britânico Shao Dow aconselha os turistas a não baixarem a guarda A embaixada britânica em Tóquio lançou uma campanha nas redes sociais alertando os visitantes para terem cautela após um aumento nos casos de aumento do consumo de álcool e fraudes com cartões de crédito contra turistas na capital japonesa. Em um clipe recente feito em conjunto com a embaixada"
+  },
+  {
+    "title": "Melania Trump reunites her seventh group of Ukrainian and Russian children with their families",
+    "summary": "WASHINGTON (AP) — First lady Melania Trump has helped return a seventh group of Ukrainian and Russian children to their families, bringing the total number of kids in these wartime reunifications to 43, the White House announced Wednesday. It’s the latest example of the first lady taking modest yet …",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/melania-trump-ukraine-russia-children-4fa1ae5512f4fb71dc36478b0f44514e?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+    "date": "2026-11-25T11:55:58Z",
+    "lang": "en",
+    "image": "https://ic-cdn.flipboard.com/apnews.com/a96fc2b278688d11a9d72adbc23b85778a0e229b/_large.jpeg"
+  },
+  {
+    "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+    "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "NPR",
+    "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+    "date": "2026-11-25T11:50:05Z",
+    "lang": "en",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/4500x3001!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2Fe4%2F4f6d59a04c01950dd8cc6ac618a1%2Fgettyimages-1243410569.jpg"
+  },
+  {
+    "title": "Suprema Corte do Iraque autoriza envio de tropas para fora do país em meio a disputa por petróleo com o Curdistão",
+    "summary": "Imagem de arquivo mostra campos de petróleo em Kirkuk, no Curdistão. Alaa Al-Marjani/ Reuters A Suprema Corte do Iraque autorizou o país a enviar tropas para fronteiras internacionais, informou a televisão estatal iraquiana nesta quarta-feira (25). A decisão ocorre em meio a uma disputa pelo controle da extração de petróleo entre o governo iraquiano e o Curd",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "G1 Mundo",
+    "url": "https://g1.globo.com/mundo/noticia/2026/11/25/suprema-corte-do-iraque-autoriza-envio-de-tropas-ao-curdistao-em-meio-a-disputa-por-petroleo.ghtml",
+    "date": "2026-11-25T11:45:58Z",
+    "lang": "pt",
+    "image": "https://s2-g1.glbimg.com/CwDcYpE1ifNQeiV0sC_EqF1r4C4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/q/xUQHgbQfuCqyLmu9SwEQ/2026-11-24t152749z-1374156123-rc2fuoaukepm-rtrmadp-3-iraq-oil-smuggling-explainer.jpg",
+    "title_pt": "Suprema Corte do Iraque autoriza envio de tropas para fora do país em meio a disputa por petróleo com o Curdistão",
+    "summary_pt": "Imagem de arquivo mostra campos de petróleo em Kirkuk, no Curdistão. Alaa Al-Marjani/ Reuters A Suprema Corte do Iraque autorizou o país a enviar tropas para fronteiras internacionais, informou a televisão estatal iraquiana nesta quarta-feira (25). A decisão ocorre em meio a uma disputa pelo controle da extração de petróleo entre o governo iraquiano e o Curd"
+  },
+  {
+    "title": "'Manipulação política': China critica plano de Trump de impor novo tarifaço",
+    "summary": "EUA barram pedido do Brasil para analisar tarifaço americano na OMC O presidente dos Estados Unidos, Donald Trump, prepara novas tarifas contra 16 parceiros comerciais, incluindo China e União Europeia, sob a justificativa de que esses países produzem mercadorias em excesso e prejudicam a indústria americana. Nesta quarta-feira (25), o governo chinês reagiu ",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "G1 Mundo",
+    "url": "https://g1.globo.com/economia/noticia/2026/11/25/china-trump-novo-tarifaco.ghtml",
+    "date": "2026-11-25T11:32:44Z",
+    "lang": "pt",
+    "image": "https://s2-g1.glbimg.com/x5mY8hfaecLMk5Rsb_QFOnVLEHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/K/RVgPAdR0Oy3cMAodXRdQ/2026-11-25t104210z-1395619294-rc2aqoall05m-rtrmadp-3-usa-trump-tariffs.jpg",
+    "title_pt": "'Manipulação política': China critica plano de Trump de impor novo tarifaço",
+    "summary_pt": "EUA barram pedido do Brasil para analisar tarifaço americano na OMC O presidente dos Estados Unidos, Donald Trump, prepara novas tarifas contra 16 parceiros comerciais, incluindo China e União Europeia, sob a justificativa de que esses países produzem mercadorias em excesso e prejudicam a indústria americana. Nesta quarta-feira (25), o governo chinês reagiu "
+  },
+  {
+    "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
+    "summary": "Kishanth Peramalya was denied entry due to sexual assault convictions and sent to Africa where he had no connections The UK sent a Sri Lankan asylum seeker who had been convicted of sexual assault to Eswatini, a southern African country to which he had no connection and where he killed himself. Kishanth Peramalya was part of a group that set sail from India ",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
+    "date": "2026-11-25T11:28:05Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/9e08eeab0ec12cf5f7ba59ef8c7028f6affd5184/104_0_1840_1472/master/1840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1347674c6fcab3b97ba19eb216aa105f"
+  },
+  {
+    "title": "‘Historic victory’: Caged farm animals could be banned in the EU after landmark court ruling",
+    "summary": "The case was brought by a citizen-led campaign that gathered nearly 1.4 million signatures from Europeans calling for an end to caged farming.",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/2026/11/25/historic-victory-caged-farm-animals-could-be-banned-in-the-eu-after-landmark-court-ruling",
+    "date": "2026-11-25T11:19:11Z",
+    "lang": "en",
+    "image": "https://images.euronews.com/articles/stories/10/00/77/86/696x392_cmsv2_ee65323a-f5f5-558c-a8c9-0ce686459e3b-10007786.jpg"
+  },
+  {
+    "title": "Indian Cockroach movement leader asks court for permission to fly to UK",
+    "summary": "Officials at Delhi airport stopped Saurav Das from boarding flight to Britain, where students have invited him to speak A leader of India’s youth-led Cockroach movement has asked the Delhi high court to give him permission to fly to the UK after immigration officials at Delhi airport stopped him boarding a flight early on Tuesday morning. The court is schedu",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/25/indian-cockroach-movement-leader-asks-court-for-permission-to-fly-to-uk",
+    "date": "2026-11-25T11:15:35Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/5b3f61e3ae43b66936a59bd1fded59309335e537/478_69_4441_3552/master/4441.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6295f53d3c404fc8a20f4e9fb745cc93"
+  },
+  {
+    "title": "Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
+    "summary": "Trump articula retorno de Huang à Nvidia Após a fabricante de chips de inteligência artificial Nvidia anunciar o retorno de Jensen Huang e as ações da empresa dispararem, o presidente dos Estados Unidos, Donald Trump, fez questão de reivindicar publicamente o crédito pelo resultado. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp \"Eu fechei esse ",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "G1 Mundo",
+    "url": "https://g1.globo.com/mundo/noticia/2026/11/25/os-riscos-que-trump-corre-com-a-volta-de-jensen-huang-ao-comando-da-nvidia.ghtml",
+    "date": "2026-11-25T11:11:51Z",
+    "lang": "pt",
+    "image": "https://s2-g1.glbimg.com/tlS9NY2e8LV-41uF_Izxe56Fc_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/n/Z72AlURD27UEBOS1GKpQ/design-sem-nome-2026-11-25t074948.500.jpg",
+    "title_pt": "Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
+    "summary_pt": "Trump articula retorno de Huang à Nvidia Após a fabricante de chips de inteligência artificial Nvidia anunciar o retorno de Jensen Huang e as ações da empresa dispararem, o presidente dos Estados Unidos, Donald Trump, fez questão de reivindicar publicamente o crédito pelo resultado. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp \"Eu fechei esse "
+  },
+  {
+    "title": "China misusing Interpol to target dissidents, says leading UK lawyer",
+    "summary": "Concerns over Beijing’s use of ‘red notices’ as Hong Kong prepares to host police organisation’s general assembly China is misusing Interpol to target and silence dissidents, a leading British lawyer has claimed, as Hong Kong prepares to host the police organisation’s general assembly for the first time. Ben Keith, a specialist in “red notices” - the Interpo",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/world/2026/nov/25/china-misusing-interpol-target-dissidents-uk-lawyer",
+    "date": "2026-11-25T11:00:46Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/ee37a60f0b9565d5f2075db0ca21679ea90c30be/396_184_3093_2477/master/3093.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11915912f6aecc5ff8ba30db78735e39"
+  },
+  {
+    "title": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
+    "summary": "James ‘Fergie’ Chambers, at center of legal fight, says he ‘should not be unjustly accused’ because of leftwing views James “Fergie” Chambers, the wealthy leftwing activist and donor controversially sought in extradition by the US, has told the Guardian that he is “not asking anyone to endorse my ideas or not think I’m a jerk – but I still have a right to my",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview",
+    "date": "2026-11-25T11:00:46Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/deb06c73325454024f2b7cd1ba57a283f6c99a74/0_550_3993_3194/master/3993.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d7dfb6da913c6d9df9078cabdb4b180b"
+  },
+  {
+    "title": "Latest news bulletin | November 25th, 2026 – Midday",
+    "summary": "Catch up with the most important stories from around Europe and beyond this November 25th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/video/2026/11/25/latest-news-bulletin-november-25th-2026-midday",
+    "date": "2026-11-25T11:00:15Z",
+    "lang": "en",
+    "image": "https://images.euronews.com/articles/stories/10/00/77/59/696x392_cmsv2_0a8b2e5a-a856-573e-8ed9-f1708decf3d8-10007759.jpg"
+  },
+  {
+    "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+    "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "NPR",
+    "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+    "date": "2026-11-25T11:00:00Z",
+    "lang": "en",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F31%2F6520f9574826bfd5bcbffd103b34%2Ffarflungpostcard-ef1.jpg"
+  },
+  {
+    "title": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
+    "summary": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "DW Brasil",
+    "url": "https://www.dw.com/pt-br/um-ano-após-feminicídios-no-cefet-rj-denúncias-de-assédio-seguem-sem-resposta/a-80032239?maca=bra-rss-br-br-1031-rdf",
+    "date": "2026-11-25T11:00:00Z",
+    "lang": "pt",
+    "image": "",
+    "title_pt": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
+    "summary_pt": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias."
+  },
+  {
+    "title": "VÍDEO: mulher é perseguida por perus selvagens na rua nos EUA às vésperas do Dia de Ação de Graças",
+    "summary": "Perus selvagens correm atrás de mulher antes do Dia de Ação de Graças, nos EUA Revolta dos perus? Às vésperas antes do Dia de Ação de Graças nos Estados Unidos, uma mulher foi perseguida por perus selvagens — o prato principal do feriado — nas ruas de Massachusetts. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O episódio ocorreu no sábado (21)",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "G1 Mundo",
+    "url": "https://g1.globo.com/mundo/noticia/2026/11/25/video-perus-selvagens-perseguem-mulher-eua-dia-de-acao-de-gracas.ghtml",
+    "date": "2026-11-25T10:54:59Z",
+    "lang": "pt",
+    "image": "https://s2-g1.glbimg.com/VzVjnm0yetTi_Mb7G0tccAtZMrA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/3/d6xlqySx6hh2gUcPSXcA/design-sem-nome-2026-11-25t082119.283.jpg",
+    "title_pt": "VÍDEO: mulher é perseguida por perus selvagens na rua nos EUA às vésperas do Dia de Ação de Graças",
+    "summary_pt": "Perus selvagens correm atrás de mulher antes do Dia de Ação de Graças, nos EUA Revolta dos perus? Às vésperas antes do Dia de Ação de Graças nos Estados Unidos, uma mulher foi perseguida por perus selvagens — o prato principal do feriado — nas ruas de Massachusetts. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O episódio ocorreu no sábado (21)"
+  },
+  {
+    "title": "Como age o novo medicamento aprovado pela Anvisa para tratar câncer de mama",
+    "summary": "Hertuzo tem como princípio ativo o pertuzumabe, que já está em uso no país. Chegada de novo medicamento, porém, pode reduzir o preço do tratamento e tornar terapia mais acessível.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "DW Brasil",
+    "url": "https://www.dw.com/pt-br/como-age-o-novo-medicamento-aprovado-pela-anvisa-para-tratar-câncer-de-mama/a-80045897?maca=bra-rss-br-br-1031-rdf",
+    "date": "2026-11-25T10:48:00Z",
+    "lang": "pt",
+    "image": "",
+    "title_pt": "Como age o novo medicamento aprovado pela Anvisa para tratar câncer de mama",
+    "summary_pt": "Hertuzo tem como princípio ativo o pertuzumabe, que já está em uso no país. Chegada de novo medicamento, porém, pode reduzir o preço do tratamento e tornar terapia mais acessível."
+  },
+  {
+    "title": "Security forces storm scene, end Colombia supermarket siege",
+    "summary": "Security forces stormed a supermarket in the Colombian city of Cartagena, ending a day-long siege, with the nation's president saying all hostages were rescued and one captor was killed.",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/news/colombia-supermarket-siege-ends-security-forces-storm-scene/",
+    "date": "2026-11-25T10:36:34Z",
+    "lang": "en",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/afde87db-3cfd-4a6a-a917-de73f23bf259/thumbnail/1200x630/33381863152a270c24be16dfecd949ce/gettyimages-2306242992.jpg"
+  },
+  {
+    "title": "NATO allies anxious as war spreads beyond Ukraine, Russia borders",
+    "summary": "As Ukraine attacks Russian ships in far-flung waters, some NATO nations are voicing increasing anxiety over the war's spread to new regions.",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/news/ukraine-russia-war-warship-cargo-ship-attacks-nato-allies-anxiety/",
+    "date": "2026-11-25T10:22:19Z",
+    "lang": "en",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/dbcb0f39-eb93-4867-a447-96b865aa44e1/thumbnail/1200x630/ccf297ec2f3ea6b89708d36ce061fac3/ukraine-russia-sparta-ship.jpg"
+  },
+  {
+    "title": "Trump pardons Thanksgiving turkeys Freedom and Feathers",
+    "summary": "Donald Trump pardons Thanksgiving turkeys Freedom and Feathers at the White House.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "EU",
+    "source": "Euronews",
+    "url": "https://www.euronews.com/video/2026/11/25/trump-pardons-thanksgiving-turkeys-freedom-and-feathers",
+    "date": "2026-11-25T10:08:26Z",
+    "lang": "en",
+    "image": "https://images.euronews.com/articles/stories/10/00/75/90/696x392_cmsv2_39a0e313-1031-5857-bfba-b13494e9eb31-10007590.jpg"
+  },
+  {
+    "title": "The return of the wolf divides the densely populated Netherlands",
+    "summary": "DE HOGE VELUWE NATIONAL PARK, Netherlands (AP) — The return of wolves to the Netherlands some two centuries after they were hunted to extinction was seen as a fairy tale comeback and a conservation success story. But the initial joy when a pair of wolves first bred in the Netherlands in 2019 soured …",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "Associated Press",
+    "url": "https://apnews.com/article/netherlands-wolf-return-anger-debate-8ab4ade87fa4644cf1d941f1e4609259?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+    "date": "2026-11-25T10:02:38Z",
+    "lang": "en",
+    "image": "https://ic-cdn.flipboard.com/apnews.com/5216b8fd3f736bf5dc783c5a77cac24605674f8b/_xlarge.png"
+  },
+  {
+    "title": "Surprise Eurostar strike cancels London, Paris and Brussels trains",
+    "summary": "Several Eurostar trains connecting London, Paris and Brussels were cancelled in a surprise strike on Wednesday. The train operator did not specify who exactly was striking or the reasons why.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "FR",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
+    "date": "2026-11-25T10:02:32Z",
+    "lang": "en",
+    "image": "https://s.france24.com/media/display/5292c004-e8b6-11f1-b877-81da3ab2acbb/w:1024/p:16x9/000-A6LZ3KE.jpg"
+  },
+  {
+    "title": "Prince William and Kate's country home broken into, 2 arrested",
+    "summary": "Two men were arrested over a suspected burglary at the U.K. royal family's Sandringham Estate, the country residence of Prince William and Catherine, police said.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/news/prince-william-kate-country-home-broken-into-british-media/",
+    "date": "2026-11-25T10:00:31Z",
+    "lang": "en",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/10/84bf62cf-6140-46e4-8b87-283149990932/thumbnail/1200x630g6/d75410464e5faa0c0fe3f24f0983bb8c/gettyimages-2177028126.jpg"
+  },
+  {
+    "title": "Miss Universo 2026: Jennifer Barreto, de Porto Rico, faz história como a primeira mãe a vencer o concurso; Brasil fica no top 30",
+    "summary": "Jennifer Barreto, de Porto Rico, é coroada Miss Universo 2026 A porto-riquenha Jennifer Barreto, de 27 anos, foi coroada Miss Universo 2026 na noite desta terça-feira (24), em San Juan, capital de Porto Rico. A final da 75ª edição do concurso foi realizada no Coliseu José Miguel Agrelot, e a vencedora superou outras 115 candidatas diante do público local. Ba",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "G1 Mundo",
+    "url": "https://g1.globo.com/pop-arte/noticia/2026/11/25/porto-rico-vence-o-miss-universo-2026.ghtml",
+    "date": "2026-11-25T09:56:03Z",
+    "lang": "pt",
+    "image": "https://s2-g1.glbimg.com/JYcwVFDQdpS-updrhuLzcDek0zg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/B/WuNoKYSc2zxud6Rfk9Lw/afp-20261125-2306756066-v1-highres-75thmissuniversefinalcompetition.jpg",
+    "title_pt": "Miss Universo 2026: Jennifer Barreto, de Porto Rico, faz história como a primeira mãe a vencer o concurso; Brasil fica no top 30",
+    "summary_pt": "Jennifer Barreto, de Porto Rico, é coroada Miss Universo 2026 A porto-riquenha Jennifer Barreto, de 27 anos, foi coroada Miss Universo 2026 na noite desta terça-feira (24), em San Juan, capital de Porto Rico. A final da 75ª edição do concurso foi realizada no Coliseu José Miguel Agrelot, e a vencedora superou outras 115 candidatas diante do público local. Ba"
   }
 ]
