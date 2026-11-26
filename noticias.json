@@ -1,5 +1,29 @@
 [
   {
+    "title": "Australian politics live: Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’",
+    "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will bu",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GB",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+    "date": "2026-11-26T05:45:46Z",
+    "lang": "en",
+    "image": "https://i.guim.co.uk/img/media/c3ec155e9d4a650a27cbceedb519cb4854d5ff62/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0ef44c5362cc4dcc0115a7f7e1d811ea"
+  },
+  {
+    "title": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?",
+    "summary": "SpaceX's US Starlink satellite system has played a key role in countering the Russian military in Ukraine, but now a Russian counterpart is under development. What could this mean for Ukraine in future?",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "DE",
+    "source": "Deutsche Welle",
+    "url": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-all-1573-rdf",
+    "date": "2026-11-26T05:45:00Z",
+    "lang": "en",
+    "image": "https://static.dw.com/image/71856660_6.jpg"
+  },
+  {
     "title": "Live: EU leaders face showdown over Ukraine funding as divisions deepen",
     "summary": "European Union leaders are set to clash in Brussels on Thursday over a proposed €45 billion loan to keep Ukraine funded through 2027, with Germany pressing all 27 member states to contribute and several countries demanding exemptions. Follow our liveblog for all the latest updates.",
     "category": "Geral",
@@ -50,18 +74,6 @@
     "image": "https://i.guim.co.uk/img/media/ada4bb365561f12ee0ef729583d5ef8a1082d741/4_0_5040_4032/master/5040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba56253ac548c2b2ed787071012c36c8",
     "title_pt": "A coalizão privatizaria o tratamento de esgoto de Melbourne e venderia terras estaduais e fontes de energia renováveis para financiar as promessas eleitorais de Vitória e reduzir a dívida",
     "summary_pt": "Os cálculos de custos das políticas pré-eleitorais dos partidos Liberal e Nacional também revelam que os \"direitos aéreos\" entre a estação de trem de Richmond e o MCG seriam vendidos. Acompanhe nosso blog ao vivo sobre política australiana para conferir as últimas notícias. Guia para as eleições de 2026 em Vitória: o que você precisa saber. Está em dúvida sobre em quem votar? Confira as principais promessas e políticas dos partidos. Receba nosso e-mail diário sobre política."
-  },
-  {
-    "title": "Australian politics live: Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’",
-    "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will bu",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-    "date": "2026-11-26T05:28:39Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/c3ec155e9d4a650a27cbceedb519cb4854d5ff62/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0ef44c5362cc4dcc0115a7f7e1d811ea"
   },
   {
     "title": "‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release",
@@ -1101,7 +1113,7 @@
   {
     "title": "US announces new tariffs on host of countries including China",
     "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2333,7 +2345,7 @@
   {
     "title": "US approves SpaceX plan to send a million data satellites to space",
     "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-    "category": "Clima e desastres",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3451,7 +3463,7 @@
   {
     "title": "US stocks fall further as fears over AI intensify",
     "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3787,20 +3799,6 @@
     "summary_pt": "FinCEN dos EUA tira alguns sistemas off-line após incidente cibernético, disse funcionário da Reuters"
   },
   {
-    "title": "Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs",
-    "summary": "Mauritius, a popular tourist destination off southern Africa, has become overrun with strays. With more and more residents chased and attacked, many are fed up.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/25/world/africa/maritius-stray-dogs.html",
-    "date": "2026-11-25T20:40:27Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00int-mauritius-dogs-dispatch-promo-bltj/00int-mauritius-dogs-dispatch-promo-bltj-mediumSquareAt3X.jpg",
-    "title_pt": "A ilha paradisíaca das Maurícias tem sol, praias e muitos cães",
-    "summary_pt": "Maurício, um destino turístico popular no sul da África, ficou repleto de animais de rua. Com cada vez mais moradores sendo perseguidos e atacados, muitos estão de saco cheio."
-  },
-  {
     "title": "Libyan officers die after Ukrainian strike, a highway fire in Egypt kills 30, and other Mideast news",
     "summary": "Two Libyan naval officers have died following the Ukrainian drone attack on a Russian warship in Libya that opened a new theater in the conflict, thousands of miles from the front lines of the Russia-Ukraine war, and a highway fire near the Egyptian capital killed at least 30 people. Iran’s …",
     "category": "Geral",
@@ -3813,6 +3811,20 @@
     "image": "https://ic-cdn.flipboard.com/apnews.com/c5f908f0580604352141783de8e3148941eedd7e/_large.webp",
     "title_pt": "Oficiais líbios morrem após ataque ucraniano, um incêndio em uma rodovia no Egito mata 30 e outras notícias do Oriente Médio",
     "summary_pt": "Dois oficiais da marinha líbia morreram na sequência do ataque de drones ucranianos a um navio de guerra russo na Líbia, que abriu um novo teatro de operações no conflito, a milhares de quilómetros das linhas da frente da guerra entre a Rússia e a Ucrânia, e um incêndio numa estrada perto da capital egípcia matou pelo menos 30 pessoas. do Irão…"
+  },
+  {
+    "title": "Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs",
+    "summary": "Mauritius, a popular tourist destination off southern Africa, has become overrun with strays. With more and more residents chased and attacked, many are fed up.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/world/africa/maritius-stray-dogs.html",
+    "date": "2026-11-25T20:40:27Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00int-mauritius-dogs-dispatch-promo-bltj/00int-mauritius-dogs-dispatch-promo-bltj-mediumSquareAt3X.jpg",
+    "title_pt": "A ilha paradisíaca das Maurícias tem sol, praias e muitos cães",
+    "summary_pt": "Maurício, um destino turístico popular no sul da África, ficou repleto de animais de rua. Com cada vez mais moradores sendo perseguidos e atacados, muitos estão de saco cheio."
   },
   {
     "title": "Did GTA 6 really recreate Charlie Kirk's assassination?",
@@ -4041,7 +4053,7 @@
   {
     "title": "What we know about Trump's Thanksgiving tariffs",
     "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4953,7 +4965,7 @@
   {
     "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
     "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
-    "category": "Geral",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5945,20 +5957,6 @@
     "summary_pt": "Campanha nas redes sociais liderada pelo rapper britânico Shao Dow aconselha os turistas a não baixarem a guarda A embaixada britânica em Tóquio lançou uma campanha nas redes sociais alertando os visitantes para terem cautela após um aumento nos casos de aumento do consumo de álcool e fraudes com cartões de crédito contra turistas na capital japonesa. Em um clipe recente feito em conjunto com a embaixada"
   },
   {
-    "title": "Spain: Catalan separatist Puigdemont sets date for return",
-    "summary": "Former Catalan leader Carles Puigdemont plans to return to Barcelona on December 12 after nearly a decade in exile. Spain's Supreme Court has dropped the criminal case against him, clearing the way for his return.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "DE",
-    "source": "Deutsche Welle",
-    "url": "https://www.dw.com/en/spain-catalan-separatist-puigdemont-sets-date-for-return/a-80045846?maca=en-rss-en-all-1573-rdf",
-    "date": "2026-11-25T11:57:00Z",
-    "lang": "en",
-    "image": "https://static.dw.com/image/79544059_6.jpg",
-    "title_pt": "Espanha: separatista catalão Puigdemont define data para retorno",
-    "summary_pt": "O ex-líder catalão Carles Puigdemont planeja retornar a Barcelona em 12 de dezembro, após quase uma década no exílio. O Supremo Tribunal de Espanha desistiu do processo criminal contra ele, abrindo caminho ao seu regresso."
-  },
-  {
     "title": "Melania Trump reunites her seventh group of Ukrainian and Russian children with their families",
     "summary": "WASHINGTON (AP) — First lady Melania Trump has helped return a seventh group of Ukrainian and Russian children to their families, bringing the total number of kids in these wartime reunifications to 43, the White House announced Wednesday. It’s the latest example of the first lady taking modest yet …",
     "category": "Geral",
@@ -6113,20 +6111,6 @@
     "summary_pt": "Acompanhe as histórias mais importantes de toda a Europa e além neste dia 25 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens."
   },
   {
-    "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
-    "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "NPR",
-    "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
-    "date": "2026-11-25T11:00:00Z",
-    "lang": "en",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F31%2F6520f9574826bfd5bcbffd103b34%2Ffarflungpostcard-ef1.jpg",
-    "title_pt": "Saudações do Monte Kilimanjaro, o ponto mais alto da África em todo o seu esplendor",
-    "summary_pt": "Escalar montanhas altas como o Kilimanjaro é um estudo de contrastes – desde o sol forte até as noites geladas, o fogo e a neve."
-  },
-  {
     "title": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
     "summary": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias.",
     "category": "Geral",
@@ -6139,6 +6123,20 @@
     "image": "",
     "title_pt": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
     "summary_pt": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias."
+  },
+  {
+    "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+    "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "NPR",
+    "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+    "date": "2026-11-25T11:00:00Z",
+    "lang": "en",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F31%2F6520f9574826bfd5bcbffd103b34%2Ffarflungpostcard-ef1.jpg",
+    "title_pt": "Saudações do Monte Kilimanjaro, o ponto mais alto da África em todo o seu esplendor",
+    "summary_pt": "Escalar montanhas altas como o Kilimanjaro é um estudo de contrastes – desde o sol forte até as noites geladas, o fogo e a neve."
   },
   {
     "title": "VÍDEO: mulher é perseguida por perus selvagens na rua nos EUA às vésperas do Dia de Ação de Graças",
