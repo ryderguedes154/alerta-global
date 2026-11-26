@@ -1,7 +1,7 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T08:08:16.423532Z",
+  "checked_at": "2026-11-26T08:13:43.421243Z",
   "status": "checado",
   "items": [
     {
@@ -18,6 +18,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Como o Vale do Silício se tornou central na guerra de Israel contra os palestinos",
+      "summary": "Dos sistemas de vigilância aos alvos da IA, os gigantes tecnológicos dos EUA estão profundamente enraizados na máquina de guerra de Israel.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
+      "published_on": "26/11/2026 02:12 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2024-10-15T021535Z_123914133_RC2IKAA62WWQ_RTRMADP_3_USA-DEFENSE-ARMY-1784890221.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
+    {
       "title": "Irã denuncia o uso de IA pelos EUA na guerra",
       "summary": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -31,16 +44,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Guerra na Ucrânia: os europeus estão prontos para conversar com Vladimir Putin para impor sua visão da arquitetura de segurança do Velho Continente",
-      "summary": "Embora não imaginem que a retomada do diálogo com Moscou possa levar à paz no curto ou médio prazo, os líderes europeus não querem deixar os Estados Unidos discutirem as relações da Rússia com a OTAN e a UE sem a participação deles.",
+      "title": "Poderá Rassvet, 'Starlink da Rússia', mudar o curso da guerra na Ucrânia?",
+      "summary": "O sistema de satélite Starlink dos EUA da SpaceX desempenhou um papel fundamental no combate aos militares russos na Ucrânia, mas agora um homólogo russo está em desenvolvimento. O que isto poderá significar para a Ucrânia no futuro?",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
+      "category": "Tecnologia",
       "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/international/article/2026/11/26/guerre-en-ukraine-les-europeens-prets-a-parler-a-vladimir-poutine-pour-imposer-leur-vision-de-l-architecture-de-securite-du-vieux-continent_6815467_3210.html",
-      "published_on": "26/11/2026 00:30 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/19/0/0/7056/4704/1440/960/60/0/416287a_ftp-1-o72zp5beoynf-afp-d7yy2df.jpg",
+      "country": "DE",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-all-1573-rdf",
+      "published_on": "26/11/2026 01:45 (Boa Vista)",
+      "image": "https://static.dw.com/image/71856660_6.jpg",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://g1.globo.com/mundo/noticia/2026/11/25/imigrante-deportado-por-engano-pelo-governo-trump-deixa-os-eua.ghtml",
       "published_on": "25/11/2026 05:40 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/R7N7_dQ_MoDV2vYHWVhyDRGD7pY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/d/sBEjG5Syy19f7OLVb4YQ/5kq2mrf3ovla3cf7nptiltyq5m-1-.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Preço dos legumes acumula alta de 44,9% no ano com clima no radar",
-      "summary": "Levantamento da Neogrid antecipado à CNN Agro mostra que a carne suína também encareceu no varejo, enquanto ovos e café ficaram mais baratos",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/agro/preco-dos-legumes-sobe-91-em-outubro-e-acumula-alta-de-449-no-ano/",
-      "published_on": "26/11/2026 03:50 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/23842_44B7D100FA93469C-1.png?w=200",
       "selection": "automatic"
     }
   ]
