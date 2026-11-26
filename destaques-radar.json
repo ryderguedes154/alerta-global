@@ -1,8 +1,8 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T19:43:54.339883Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T19:49:04.927564Z",
+  "status": "checado",
   "items": [
     {
       "title": "À frente do BCE, um trio recém-nomeado para proteger a Europa da inflação… e talvez a França de um ataque aos mercados",
@@ -26,8 +26,21 @@
       "country": "GB",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "published_on": "26/11/2026 13:54 (Boa Vista)",
+      "published_on": "26/11/2026 15:27 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
+      "selection": "automatic"
+    },
+    {
+      "title": "Imagens de satélite mostram nuvem gigante de fumaça após ataque à maior refinaria da Arábia Saudita",
+      "summary": "Imagem de satélite mostra uma grande nuvem de fumaça sobre a refinaria de petróleo de Ras Tanura, na Arábia Saudita 2026 PLANET LABS PBC / via REUTERS Imagens de satélite feitas na quarta-feira (25) mostram uma grande nuvem de fumaça sobre a maior refinaria de petróleo da Arábia Saudita, depois de um ataque reivindicado pelos houthis - o grupo rebelde do Iêm",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/26/imagens-de-satelite-mostram-nuvem-gigante-de-fumaca-sobre-refinaria-na-arabia-saudita.ghtml",
+      "published_on": "26/11/2026 14:32 (Boa Vista)",
+      "image": "",
       "selection": "automatic"
     },
     {
@@ -80,19 +93,6 @@
       "url": "https://www.euronews.com/2026/11/26/tui-boss-wants-eu-to-cut-bureaucracy-attract-talent-and-expand-green-energy",
       "published_on": "26/11/2026 07:51 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/09/97/23/38/696x392_cmsv2_e2ee8cd8-585c-53f1-9faf-cade74f06239-9972338.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "A guerra Rússia-Ucrânia estende-se ao Báltico e ao Mediterrâneo",
-      "summary": "Ao atacar navios russos em todo o mundo, Kiev está a tentar aumentar a pressão sobre Moscovo e também a enviar sinais aos seus aliados ocidentais. Qual é o impacto no comércio marítimo global?",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "DE",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-all-1573-rdf",
-      "published_on": "26/11/2026 05:27 (Boa Vista)",
-      "image": "https://static.dw.com/image/80042297_6.jpg",
       "selection": "automatic"
     },
     {
