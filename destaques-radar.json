@@ -1,8 +1,8 @@
 {
-  "edition": "25/11/2026",
+  "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T03:57:33.545729Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T04:02:40.900181Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os EUA anunciam novas tarifas para vários países, incluindo a China",
@@ -14,7 +14,7 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
       "published_on": "25/11/2026 23:01 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9117/live/98cd84e0-e92a-11f1-9929-f96d7c6cbd39.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
       "selection": "automatic"
     },
     {
@@ -105,7 +105,7 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
       "published_on": "25/11/2026 19:57 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77a3/live/3e055710-e932-11f1-99b6-a35a62fa4264.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d43/live/3a3ebde0-e94d-11f1-bfb6-fd0f1685abfb.jpg",
       "selection": "automatic"
     }
   ]
