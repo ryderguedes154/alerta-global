@@ -1,7 +1,7 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T10:37:27.057519Z",
+  "checked_at": "2026-11-26T10:42:42.276182Z",
   "status": "checado",
   "items": [
     {
@@ -15,6 +15,19 @@
       "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/26/russia-acusa-ucrania-tentar-expandir-guerra-ataques-africa-mar-baltico.ghtml",
       "published_on": "26/11/2026 06:18 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/99zFOb8jCCOygoS6HrRYBd1oj_s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/t/kTR8rBRAuC4xOaMHuHJg/2026-11-23t090233z-26004991-rc2ysoavk78q-rtrmadp-3-ukraine-crisis-ships-1-.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Governo Trump cogitou usar lei de guerra para pressionar Nvidia, diz jornal",
+      "summary": "Autoridades do Pentágono consideram a Nvidia, empresa de inteligência artificial (IA), estratégica para a segurança nacional dos Estados Unidos, segundo The Washington Post",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/governo-trump-cogitou-usar-lei-de-guerra-para-pressionar-nvidia-diz-jornal/",
+      "published_on": "26/11/2026 06:18 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-13T124701Z_1_LYNXNPEMAC11V_RTROPTP_4_NVIDIA-CEO.jpg?w=200",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://www.cbsnews.com/news/russia-ukraine-war-russian-soldier-death-toll-data-leak/",
       "published_on": "25/11/2026 16:28 (Boa Vista)",
       "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/25/acf9fde0-9680-4a3b-a595-866bc3f80292/thumbnail/1200x630/55f336a7e4cf8d601d9a837f1f2389fb/gettyimages-1239916962.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "A migração líquida do Reino Unido cai para 77 mil, o menor número desde 1997, excluindo a pandemia de Covid – Política do Reino Unido ao vivo",
-      "summary": "A migração líquida caiu no ano encerrado em junho de 2026, de acordo com o Escritório Nacional de Estatísticas. Os Democratas Liberais afirmam que o Reino Unido precisa de um plano adequado para a imigração. Essa é a opinião de Paul Kohler, porta-voz do partido para questões de asilo e imigração. O Reino Unido precisa retomar o controle do seu sistema de imi",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Saúde",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-      "published_on": "26/11/2026 06:19 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/f9438b12e25d0510100c2baa53822bd454f6de67/41_0_2972_2377/master/2972.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9b9eed9b51b9301a43f17228a3301383",
       "selection": "automatic"
     }
   ]
