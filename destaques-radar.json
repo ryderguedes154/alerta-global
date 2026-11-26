@@ -1,9 +1,22 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T12:02:48.384331Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T12:08:41.185115Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "O presidente da TUI quer que a UE reduza a burocracia, atraia talentos e expanda a energia verde",
+      "summary": "A Euronews conversou com o CEO da TUI, Sebastian Ebel, sobre navios de cruzeiro movidos a esterco, migração, dependência dos EUA, inteligência artificial e o futuro do turismo.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/26/tui-boss-wants-eu-to-cut-bureaucracy-attract-talent-and-expand-green-energy",
+      "published_on": "26/11/2026 07:51 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/09/97/23/38/696x392_cmsv2_e2ee8cd8-585c-53f1-9faf-cade74f06239-9972338.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "720 mil mortos: o custo humano da guerra de Putin na Ucrânia ameaça o futuro da Rússia",
       "summary": "Tropas participam de um ensaio para o desfile militar do Dia da Vitória em São Petersburgo, na Rússia, em 28 de abril de 2026. AP Photo/Dmitri Lovetsky A cifra é aterradora. Pelo menos 720 mil militares russos morreram na guerra empreendida há quase 5 anos por Vladimir Putin na Ucrânia, de acordo com os sites independentes Meduza e Mediazona. A estimativa se",
@@ -67,19 +80,6 @@
       "url": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-all-1573-rdf",
       "published_on": "26/11/2026 05:27 (Boa Vista)",
       "image": "https://static.dw.com/image/80042297_6.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Poderá Rassvet, 'Starlink da Rússia', mudar o curso da guerra na Ucrânia?",
-      "summary": "O sistema de satélite Starlink dos EUA da SpaceX desempenhou um papel fundamental no combate aos militares russos na Ucrânia, mas agora um homólogo russo está em desenvolvimento. O que isto poderá significar para a Ucrânia no futuro?",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "DE",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-all-1573-rdf",
-      "published_on": "26/11/2026 01:45 (Boa Vista)",
-      "image": "https://static.dw.com/image/71856660_6.jpg",
       "selection": "automatic"
     },
     {
