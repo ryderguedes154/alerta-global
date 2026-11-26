@@ -1,8 +1,8 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T18:20:54.398144Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T18:26:02.687173Z",
+  "status": "checado",
   "items": [
     {
       "title": "À frente do BCE, um trio recém-nomeado para proteger a Europa da inflação… e talvez a França de um ataque aos mercados",
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Depois que ataques cibernéticos e ameaças de bomba atingiram a Europa, o sobrevivencialismo se tornou popular",
+      "summary": "Mais governos na Europa estão a dizer aos cidadãos para se prepararem para emergências. Após interrupções inesperadas, muitos estão ouvindo.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
+      "published_on": "26/11/2026 14:23 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-europe-preppers-fvzk/27int-europe-preppers-fvzk-mediumSquareAt3X.jpg",
+      "selection": "automatic"
+    },
+    {
       "title": "A mudança forçada dos aliados da OTAN para operações militares impulsionadas pela IA da Palantir",
       "summary": "No dia 30 de outubro, na base de Adazi, na Letônia, foi realizada uma simulação em escala real de defesa do território da Aliança Atlântica, totalmente coordenada pela inteligência artificial do sistema americano Palantir. O exercício ocorreu no contexto de uma luta implacável entre fabricantes de armas e unicórnios da inteligência artificial.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722?maca=en-rss-en-all-1573-rdf",
       "published_on": "26/11/2026 12:54 (Boa Vista)",
       "image": "https://static.dw.com/image/79990968_6.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Ataque do Irã ao Kuwait mata 2 italianos, diz Itália; regime iraniano nega",
-      "summary": "De acordo com chanceler, vários drones iveram como alvo instalações militares kuwaitianas, incluindo uma “estação de detecção de defesa aérea\"; Kuwait confirmou mortes e outros dois feridos",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/ataque-do-ira-ao-kuwait-mata-italianos-diz-italia-regime-iraniano-nega/",
-      "published_on": "26/11/2026 12:38 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Centro-da-cidade-do-Kuwait.jpg?w=200",
       "selection": "automatic"
     },
     {
