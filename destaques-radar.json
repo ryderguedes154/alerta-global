@@ -1,7 +1,7 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T04:02:40.900181Z",
+  "checked_at": "2026-11-26T04:07:47.763742Z",
   "status": "checado",
   "items": [
     {
@@ -44,16 +44,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Irã denuncia o uso de IA pelos EUA na guerra",
-      "summary": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias.",
+      "title": "Cinco jatos militares russos atingidos em ataque a campo de aviação, diz Ucrânia",
+      "summary": "O aeródromo de Savasleyka hospeda aeronaves usadas pela Rússia para lançar mísseis hipersônicos e bombas planadoras contra a Ucrânia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-      "published_on": "25/11/2026 18:03 (Boa Vista)",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "published_on": "25/11/2026 10:46 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg",
       "selection": "automatic"
     },
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Macy's adia desfile de Ação de Graças devido ao clima",
-      "summary": "Foi a primeira vez que a celebração icônica – conhecida por seus enormes balões flutuando pelos arranha-céus da cidade – foi adiada por causa de tempestades.",
+      "title": "O clima extremo ameaça as festividades de Ação de Graças nos EUA",
+      "summary": "Está prevista a passagem de uma grande tempestade pela costa leste dos EUA, o que provavelmente causará atrasos nas viagens. Os alertas meteorológicos foram suficientes para adiar o Desfile do Dia de Ação de Graças da Macy's pela primeira vez em seus 100 anos de história.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Clima e desastres",
       "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
-      "published_on": "25/11/2026 19:57 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d43/live/3a3ebde0-e94d-11f1-bfb6-fd0f1685abfb.jpg",
+      "country": "DE",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-all-1573-rdf",
+      "published_on": "25/11/2026 22:47 (Boa Vista)",
+      "image": "https://static.dw.com/image/80055851_6.jpg",
       "selection": "automatic"
     }
   ]
