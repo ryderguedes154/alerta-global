@@ -1,8 +1,8 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T15:18:30.005161Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T15:23:40.400144Z",
+  "status": "checado",
   "items": [
     {
       "title": "À frente do BCE, um trio recém-nomeado para proteger a Europa da inflação… e talvez a França de um ataque aos mercados",
@@ -15,6 +15,19 @@
       "url": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
       "published_on": "26/11/2026 11:04 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/11/26/0/0/6000/4000/1440/960/60/0/98cc741_upload-1-gjf1s9dawpkv-ap26330506683267.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Trump pede a Putin que pare 'banho de sangue' com ataques pela Europa",
+      "summary": "Presidente dos Estados Unidos, Donald Trump, dá coletiva de imprensa com o secretário-geral da Otan, Mark Rutte, em Ancara, na Turquia, em 8 de julho de 2026. FILIP SINGER/Pool via REUTERS A Rússia deve evitar ações que ampliem sua guerra na Ucrânia, afirmaram o presidente dos Estados Unidos, Donald Trump, e o secretário-geral da Otan, Mark Rutte, em um comu",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/26/trump-pede-a-putin-que-pare-banho-de-sangue-com-ataques-pela-europa.ghtml",
+      "published_on": "26/11/2026 11:15 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/hdkywJtqydvESMHlPq7HTz3p_vM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/A/EacI4mQrAxYhLkRoLDiQ/2026-07-08t084012z-1479568968-rc2k9mabh2dg-rtrmadp-3-nato-summit.jpg",
       "selection": "automatic"
     },
     {
@@ -41,19 +54,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
       "published_on": "26/11/2026 10:17 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04df4d-1795481421.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "Rússia lança mísseis balísticos e uma saraivada de drones contra a Ucrânia, matando pelo menos três pessoas",
-      "summary": "As defesas aéreas da Ucrânia abateram 87 mísseis e drones russos durante a noite de quinta-feira. Enquanto isso, drones ucranianos atacaram uma fábrica de produtos químicos que fabrica componentes para explosivos militares e uma usina de energia na região de Stavropol.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three",
-      "published_on": "26/11/2026 10:02 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/10/00/93/73/696x392_cmsv2_6fc35b74-9921-5372-89ce-8026b6d8f770-10009373.jpg",
       "selection": "automatic"
     },
     {
