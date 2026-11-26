@@ -1,8 +1,8 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T20:20:38.211638Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T20:25:46.452259Z",
+  "status": "checado",
   "items": [
     {
       "title": "À frente do BCE, um trio recém-nomeado para proteger a Europa da inflação… e talvez a França de um ataque aos mercados",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Dados vazados mostram que 490 mil soldados russos morreram na guerra na Ucrânia",
-      "summary": "Dados do governo russo obtidos por hackers pró-Ucrânia e analisados ​​pela BBC indicam que a Rússia perdeu pelo menos 490.334 soldados durante a guerra contra a Ucrânia.",
+      "title": "Em post de Ação de Graças, Trump ataca adversários, imigrantes e governo",
+      "summary": "Presidente dos Estados Unidos enviou votos de boas festas, em tom de ironia, a pessoas que ele acusou de fraude, erro ou criminalidade",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Segurança cibernética",
+      "category": "Geral",
       "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/russia-ukraine-war-russian-soldier-death-toll-data-leak/",
-      "published_on": "25/11/2026 16:28 (Boa Vista)",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/25/acf9fde0-9680-4a3b-a595-866bc3f80292/thumbnail/1200x630/55f336a7e4cf8d601d9a837f1f2389fb/gettyimages-1239916962.jpg",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/em-post-de-acao-de-gracas-trump-ataca-adversarios-imigrantes-e-governo/",
+      "published_on": "26/11/2026 16:02 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Donald-Trump-durante-homenagem-a-herois-do-11-de-Setembro.png?w=200",
       "selection": "automatic"
     }
   ]
