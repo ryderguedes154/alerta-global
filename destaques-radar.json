@@ -1,9 +1,35 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T15:02:50.486653Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T15:08:00.860933Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "À frente do BCE, um trio recém-nomeado para proteger a Europa da inflação… e talvez a França de um ataque aos mercados",
+      "summary": "Segundo fontes diplomáticas europeias, os líderes dos 21 países da zona euro designaram, na quinta-feira, o trio que ocupará os cargos mais influentes no Banco Central Europeu. O espanhol Pablo Hernandez de Cos sucederá Christine Lagarde como presidente da instituição monetária, a francesa Laurence Boone será responsável pelos mercados financeiros",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "FR",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
+      "published_on": "26/11/2026 11:04 (Boa Vista)",
+      "image": "https://img.lemde.fr/2026/11/26/0/0/6000/4000/1440/960/60/0/98cc741_upload-1-gjf1s9dawpkv-ap26330506683267.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Trump diz que quer que Putin ‘recue todas as agressões militares’ na Europa – Europa ao vivo",
+      "summary": "O presidente dos EUA disse que “espera que um acordo possa ser feito entre a Rússia e a Ucrânia” rapidamente. A primeira-ministra dinamarquesa, Mette Frederiksen, reconheceu que os líderes permanecem “muito distantes”, concordando com Merz da Alemanha que a proposta actual não vai funcionar. “O orçamento é demasiado grande e não suficientemente orientado par",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+      "published_on": "26/11/2026 11:03 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/1ce3a0578ea68206bed8e850874790711398c96a/222_0_3863_3089/master/3863.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f6b51e11f0b441b87c2788669325adf5",
+      "selection": "automatic"
+    },
     {
       "title": "Trump pode continuar com a guerra contra o Irã, apesar das restrições de financiamento?",
       "summary": "Um projeto de lei orçamentária do Congresso poderia servir como uma tática de pressão sobre Trump para pôr fim à guerra, mas também poderia desencadear uma paralisação.",
@@ -28,19 +54,6 @@
       "url": "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three",
       "published_on": "26/11/2026 10:02 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/00/93/73/696x392_cmsv2_6fc35b74-9921-5372-89ce-8026b6d8f770-10009373.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Eis por que o Mar Negro é importante para a OTAN na guerra entre Rússia e Ucrânia",
-      "summary": "Chris Livesay viajou para a Romênia para entender o papel do Mar Negro na guerra entre Rússia e Ucrânia, enquanto sua Marinha trabalha para repelir ataques desonestos da Rússia contra a Ucrânia.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/video/heres-why-black-sea-matters-for-nato-russia-ukraine-war/",
-      "published_on": "26/11/2026 09:46 (Boa Vista)",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/26/1e93f110-3d7c-4656-9389-71b5a78cf175/thumbnail/1200x630/c2f51336bc962cdbdc1018e979ab80e9/cbsn-fusion-heres-why-black-sea-matters-for-nato-russia-ukraine-war-thumbnail.jpg",
       "selection": "automatic"
     },
     {
@@ -80,19 +93,6 @@
       "url": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-all-1573-rdf",
       "published_on": "26/11/2026 01:45 (Boa Vista)",
       "image": "https://static.dw.com/image/71856660_6.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Os EUA anunciam novas tarifas para vários países, incluindo a China",
-      "summary": "Os novos impostos afetariam muitos dos maiores parceiros comerciais dos Estados Unidos, incluindo a China e a União Europeia.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "published_on": "26/11/2026 00:10 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
       "selection": "automatic"
     },
     {
