@@ -1,9 +1,22 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T10:21:27.561344Z",
+  "checked_at": "2026-11-26T10:26:42.260227Z",
   "status": "checado",
   "items": [
+    {
+      "title": "Após ter navio de guerra atingido na costa da África, Rússia acusa Ucrânia de tentar expandir guerra",
+      "summary": "Imagem de satélite mostra navio de guerra russo afundado na base naval Benghazi, na Líbia, em 22 de novembro de 2026. Vantor/Handout via REUTERS A Rússia acusou nesta quinta-feira (26) a Ucrânia de tentar expandir para os mares Mediterrâneo e Báltico a guerra que trava contra a Rússia, uma iniciativa que classificou como \"muito perigosa\". O Kremlin acrescent",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/26/russia-acusa-ucrania-tentar-expandir-guerra-ataques-africa-mar-baltico.ghtml",
+      "published_on": "26/11/2026 06:18 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/99zFOb8jCCOygoS6HrRYBd1oj_s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/t/kTR8rBRAuC4xOaMHuHJg/2026-11-23t090233z-26004991-rc2ysoavk78q-rtrmadp-3-ukraine-crisis-ships-1-.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Trump e chefe da Otan pedem que Rússia evite ações que ampliem guerra na Ucrânia",
       "summary": "Presidente dos Estados Unidos, Donald Trump, dá coletiva de imprensa com o secretário-geral da Otan, Mark Rutte, em Ancara, na Turquia, em 8 de julho de 2026. FILIP SINGER/Pool via REUTERS A Rússia deve evitar ações que ampliem sua guerra na Ucrânia, afirmaram o presidente dos Estados Unidos, Donald Trump, e o secretário-geral da Otan, Mark Rutte, em um comu",
@@ -93,19 +106,6 @@
       "url": "https://www.cbsnews.com/news/russia-ukraine-war-russian-soldier-death-toll-data-leak/",
       "published_on": "25/11/2026 16:28 (Boa Vista)",
       "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/25/acf9fde0-9680-4a3b-a595-866bc3f80292/thumbnail/1200x630/55f336a7e4cf8d601d9a837f1f2389fb/gettyimages-1239916962.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "A migração líquida do Reino Unido cai para 77 mil, o menor número desde 1997, excluindo a pandemia de Covid – Política do Reino Unido ao vivo",
-      "summary": "A migração líquida caiu no ano encerrado em junho de 2026, de acordo com o Escritório Nacional de Estatísticas. Os Democratas Liberais afirmam que o Reino Unido precisa de um plano adequado para a imigração. Essa é a opinião de Paul Kohler, porta-voz do partido para questões de asilo e imigração. O Reino Unido precisa retomar o controle do seu sistema de imi",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Saúde",
-      "region": "Global",
-      "country": "GB",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-      "published_on": "26/11/2026 06:19 (Boa Vista)",
-      "image": "https://i.guim.co.uk/img/media/f9438b12e25d0510100c2baa53822bd454f6de67/41_0_2972_2377/master/2972.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9b9eed9b51b9301a43f17228a3301383",
       "selection": "automatic"
     }
   ]
