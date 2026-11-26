@@ -1,5 +1,19 @@
 [
   {
+    "title": "Africa C.D.C. Chief Faces Turmoil Over Management Amid Ebola Crisis",
+    "summary": "Scrutiny has fallen on Dr. Jean Kaseya, the director general of the Africa Centers for Disease Control and Prevention, after reports of staff intimidation and mismanagement of funds.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/world/africa/acdc-kaseya-staff-ebola.html",
+    "date": "2026-11-26T00:09:20Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-africa-ebola-cdc-gklf/25int-africa-ebola-cdc-gklf-mediumSquareAt3X.jpg",
+    "title_pt": "Chefe do CDC da África enfrenta turbulência na gestão em meio à crise do Ebola",
+    "summary_pt": "O Dr. Jean Kaseya, diretor-geral dos Centros Africanos de Controle e Prevenção de Doenças, está sob escrutínio após relatos de intimidação de funcionários e má gestão de fundos."
+  },
+  {
     "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
     "summary": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
     "category": "Clima e desastres",
@@ -10,11 +24,11 @@
     "date": "2026-11-26T00:08:07Z",
     "lang": "en",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a2/live/0f7bb370-e749-11f1-88dc-f746e0cde621.jpg",
-    "summary_pt": "As mudanças de estação estão afetando a vida selvagem e levando alguns agricultores a cultivar plantações diferentes.",
-    "title_pt": "O Met Office afirma que devemos esperar menos geadas e mais dias quentes à medida que as estações do Reino Unido mudam."
+    "title_pt": "O Met Office afirma que devemos esperar menos geadas e mais dias quentes à medida que as estações do Reino Unido mudam.",
+    "summary_pt": "As mudanças de estação estão afetando a vida selvagem e levando alguns agricultores a cultivar plantações diferentes."
   },
   {
-    "title": "US regulators approve SpaceX plan to send a million data satellites to space",
+    "title": "US approves SpaceX plan to send a million data satellites to space",
     "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
     "category": "Clima e desastres",
     "region": "Global",
@@ -24,8 +38,8 @@
     "date": "2026-11-26T00:07:51Z",
     "lang": "en",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd78/live/4cbffd10-e91d-11f1-9108-c5b270b0703d.jpg",
-    "summary_pt": "A constelação Starmind tem como objetivo ser a forma mais econômica e eficiente em termos de energia de atender à crescente demanda por poder de computação de IA.",
-    "title_pt": "Órgãos reguladores dos EUA aprovam plano da SpaceX de enviar um milhão de satélites de dados para o espaço"
+    "title_pt": "EUA aprovam plano da SpaceX de enviar um milhão de satélites de dados para o espaço",
+    "summary_pt": "A constelação Starmind tem como objetivo ser a forma mais econômica e eficiente em termos de energia de atender à crescente demanda por poder de computação de IA."
   },
   {
     "title": "Guitar wars - the transatlantic battle over the Stratocaster",
@@ -40,20 +54,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c1/live/7aa1e2b0-e80b-11f1-99a1-253766e7ad8b.jpg",
     "title_pt": "Guerras de guitarras – a batalha transatlântica pela Stratocaster",
     "summary_pt": "A empresa americana Fender está em disputa com uma empresa alemã que fabrica versões genéricas do seu modelo principal."
-  },
-  {
-    "title": "Africa C.D.C. Chief Faces Turmoil Over Management Amid Ebola Crisis",
-    "summary": "Scrutiny has fallen on Dr. Jean Kaseya, the director general of the Africa Centers for Disease Control and Prevention, after reports of staff intimidation and mismanagement of funds.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/25/world/africa/acdc-kaseya-staff-ebola.html",
-    "date": "2026-11-25T23:59:49Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-africa-ebola-cdc-gklf/25int-africa-ebola-cdc-gklf-mediumSquareAt3X.jpg",
-    "title_pt": "Chefe do CDC da África enfrenta turbulência na gestão em meio à crise do Ebola",
-    "summary_pt": "O Dr. Jean Kaseya, diretor-geral dos Centros Africanos de Controle e Prevenção de Doenças, está sob escrutínio após relatos de intimidação de funcionários e má gestão de fundos."
   },
   {
     "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – live",
@@ -138,6 +138,20 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/21296_B6729A55E91E5184-6.png?w=200",
     "title_pt": "Aneel rejeita 32 recursos e mantém R$ 146,3 mi de multas por apagão de 2023",
     "summary_pt": "Empresas recorreram das autuações na tentativa de cancelar ou reduzir os valores das multas"
+  },
+  {
+    "title": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft",
+    "summary": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA?oc=5",
+    "date": "2026-11-25T23:42:10Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "Os EUA propõem novas tarifas-surpresa sobre as importações do Brasil, incluindo uma taxa de 10% sobre aeronaves Reuters",
+    "title_pt": "Os EUA propõem novas tarifas-surpresa sobre as importações do Brasil, incluindo um imposto de 10% sobre aeronaves"
   },
   {
     "title": "TCU aponta descompasso na política de crédito rural em momentos de crise",
@@ -462,6 +476,20 @@
     "summary_pt": "Trump divulga novas tarifas sobre excesso de capacidade industrial, sem se deixar intimidar pela derrota no meio do mandato Reuters"
   },
   {
+    "title": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch",
+    "summary": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1ZBby1iVDJnTmJwX3hDYWJpU2lxTUdLTHdlWHFqRHJUcmtTOWFuQkFRTlUyZTJBcGdNMWR3N3d1YlJIV05kWk1mU21JSDZmSVpZR1BlanpqRzFXSkg3NkxkeElWcHM0Q2Y4eFJKb3Fha29XakxYNFJ4cXExZHo4MFVDOHdDbENrQWs0d0lqQ3Z5cEVDRVBQR1hNNWZxSmhiUll4NFg1amZlU01oWm9fN2hkUFBBNkdKT21v?oc=5",
+    "date": "2026-11-25T22:44:42Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "A S&P alerta que o conselho da Nvidia pode estar comprometido e coloca o rating da fabricante de chips em observação para rebaixamento Reuters",
+    "title_pt": "A S&P alerta que o conselho da Nvidia pode estar comprometido e coloca o rating da fabricante de chips em observação para rebaixamento"
+  },
+  {
     "title": "Brad Pitt and Angelina Jolie settle years-long legal battle over joint French winery",
     "summary": "Pitt filed the lawsuit against Jolie in 2022 after she sold her stake in Château Miraval, saying she broke their agreement not to sell their interests Brad Pitt and Angelina Jolie have settled a years-long legal battle over their French winery, according to a joint statement from the former Hollywood couple. “We have settled out of court in the best interest",
     "category": "Geral",
@@ -546,6 +574,20 @@
     "summary_pt": "Universidade confirmou à CNN o retorno do ex-ministro à pós-graduação; petista sinalizou a Lula a possibilidade de ficar fora do próximo governo"
   },
   {
+    "title": "US Army declares success in detonation of lead-based explosives stockpile in Iowa",
+    "summary": "US Army declares success in detonation of lead-based explosives stockpile in Iowa Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV3JaTmxlVEkyOG9FXzM3d0dwUEdpV0ZwZk1FUUdZNG45Q0xYMWxaMndSZXNib0NXdDNNN1p3UzI5MnJBRTVhdll0Rm1EamNoMUpYRHg2R2JrcFlqTXFpdE9PeTgtVWktV3YzY012TDMtclByVHpIQnFucGhJbl9CZVlCMXNBb2pLRkxveWhIVEN0eEtUampuVkNRTzhBV1NPVWRnWEswMHlVbjhkeUZSeWVR?oc=5",
+    "date": "2026-11-25T22:33:28Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Exército dos EUA declara sucesso na detonação de estoque de explosivos à base de chumbo em Iowa",
+    "summary_pt": "Exército dos EUA declara sucesso na detonação de estoque de explosivos à base de chumbo em Iowa Reuters"
+  },
+  {
     "title": "Motiva reorganiza liderança e Eduardo Camargo assume plataforma de trilhos",
     "summary": "Executivo passa a acumular comando de concessões de mobilidade urbana com ativos em rodovias; André Salcedo apoiará o grupo em projetos estratégicos",
     "category": "Geral",
@@ -614,6 +656,20 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/ministro-kassio-nunes-marques-tse.jpg?w=200",
     "title_pt": "Análise: Durigan assume protagonismo no ajuste fiscal",
     "summary_pt": "Ministro da Fazenda foi coadjuvante da primeira etapa do pacote de medidas, chamado de \"Plano Moretti\"; análise de Pedro Venceslau para o CNN 360º"
+  },
+  {
+    "title": "AI stock rout deepens but damage is limited by afternoon bounce",
+    "summary": "AI stock rout deepens but damage is limited by afternoon bounce Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmNMM0doWElDVk9BdjNGZnJHakNCUFg1blQzSlk0eW9zeVduV3ZKcEtJd0hpUkxDMVhnRE9rY1lLUzF1eENZaFh0SUNKbmRjanN3YWtZakZud2RYUnlSRkk5b1RZT2VfbFJPXzhZVEVyYnFnRHBwYVlGdFQzaEt2Z2VjaGVXWUE0Qmd5bjZYandmR2M2QXBSY2tKem80OGNlSzh3?oc=5",
+    "date": "2026-11-25T22:27:46Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "A queda das ações de IA se intensifica, mas o prejuízo é limitado pela recuperação da tarde Reuters",
+    "title_pt": "A queda das ações de IA se acentua, mas o prejuízo é limitado pela recuperação da tarde"
   },
   {
     "title": "Escola pública de SP gerida por entidade recebe nota 9,8 de ensino",
@@ -700,6 +756,20 @@
     "summary_pt": "WTI avança 1,99%, enquanto Brent ganha 3,51%; investidores acompanham conflitos no Oriente Médio e aguardam reunião da Opep+"
   },
   {
+    "title": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
+    "summary": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
+    "date": "2026-11-25T22:19:49Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Nasdaq e S&P 500 fecham em baixa, mas bem acima das mínimas, à medida que os investidores compram ações com bons preços",
+    "summary_pt": "Nasdaq e S&P 500 fecham em baixa, mas bem acima das mínimas, à medida que os investidores compram ações com desconto Reuters"
+  },
+  {
     "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
     "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
     "category": "Geral",
@@ -784,18 +854,32 @@
     "summary_pt": "Incêndio no anel viário que cerca a capital egípcia fere pelo menos 25 pessoas e deixa carros e motocicletas carbonizados Um acidente envolvendo um caminhão-tanque provocou um grande incêndio em uma rodovia ao redor do Cairo na quarta-feira, matando pelo menos 30 pessoas, disseram autoridades egípcias. O incêndio no anel viário, uma importante artéria que circunda a capital egípcia, também ficou ferido em"
   },
   {
-    "title": "Atlético-MG x Corinthians: escalações e onde assistir ao jogo do Brasileiro",
-    "summary": "Equipes se enfrentam nesta quarta-feira (25), às 20h (de Brasília), pela 36ª rodada da competição",
-    "category": "Geral",
+    "title": "Russian forces hit Kyiv with ballistic missiles, mayor says",
+    "summary": "Russian forces hit Kyiv with ballistic missiles, mayor says Reuters",
+    "category": "Conflitos",
     "region": "Global",
-    "country": "BR",
-    "source": "CNN Brasil",
-    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/atletico-mg-x-corinthians-escalacoes-e-onde-assistir-ao-jogo-do-brasileiro/",
-    "date": "2026-11-25T22:06:52Z",
-    "lang": "pt",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/corinthians-botafogo-brasileirao-1-e1795055390659.jpg?w=200",
-    "title_pt": "Atlético-MG x Corinthians: escalações e onde assistir ao jogo do Brasileiro",
-    "summary_pt": "Equipes se enfrentam nesta quarta-feira (25), às 20h (de Brasília), pela 36ª rodada da competição"
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUhrdXc0NFhybXpCcmF1VjM2RlFseVBqOW0xdXJBQlZWT0w5TmZRTjFTbEpjWTVlZHBmMHZMQ0tVcm5OMnk5RjhKWklxQlFfY1hDQTB4dmZNQWwwd2tLb0xLNGRNbUpNXzNCZGw0Sm1fNlhkSEUzNUZvQ2hkVHNOMGhOOFJlSnZJcXQ4UldFb01FY2J2YmpLUW1NTi1rWnRBb3c?oc=5",
+    "date": "2026-11-25T22:07:09Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Forças russas atacaram Kiev com mísseis balísticos, diz prefeito",
+    "summary_pt": "Forças russas atacaram Kiev com mísseis balísticos, diz prefeito à Reuters"
+  },
+  {
+    "title": "US economy roars ahead in third quarter, inflation remains high in October",
+    "summary": "US economy roars ahead in third quarter, inflation remains high in October Reuters",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw?oc=5",
+    "date": "2026-11-25T22:06:55Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Economia dos EUA avança a todo vapor no terceiro trimestre, e a inflação permanece alta em outubro",
+    "summary_pt": "Economia dos EUA avança a todo vapor no terceiro trimestre, inflação permanece alta em outubro Reuters"
   },
   {
     "title": "Dos horas con Plex: Sánchez sueña con ser juez en el ‘GTA VI’ y Feijóo tiembla en un coche a 247 kilómetros por hora",
@@ -810,6 +894,20 @@
     "image": "https://imagenes.elpais.com/resizer/v2/QWXGB4G4RJBNDLWKG4JVRSKDFY.jpg?auth=70c9019732c14ec9fe21da9fbf2277b446ac31075d69c41628a9beb92bda2b57",
     "title_pt": "Duas horas com Plex: Sánchez sonha em ser juiz em ‘GTA VI’ e Feijóo treme dentro de carro a 247 quilômetros por hora",
     "summary_pt": "O 'youtuber' Zamorano de 24 anos convida pela primeira vez os dirigentes do PSOE e do PP em seu canal, com 15 milhões de seguidores"
+  },
+  {
+    "title": "Atlético-MG x Corinthians: escalações e onde assistir ao jogo do Brasileiro",
+    "summary": "Equipes se enfrentam nesta quarta-feira (25), às 20h (de Brasília), pela 36ª rodada da competição",
+    "category": "Geral",
+    "region": "Global",
+    "country": "BR",
+    "source": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/atletico-mg-x-corinthians-escalacoes-e-onde-assistir-ao-jogo-do-brasileiro/",
+    "date": "2026-11-25T22:06:52Z",
+    "lang": "pt",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/corinthians-botafogo-brasileirao-1-e1795055390659.jpg?w=200",
+    "title_pt": "Atlético-MG x Corinthians: escalações e onde assistir ao jogo do Brasileiro",
+    "summary_pt": "Equipes se enfrentam nesta quarta-feira (25), às 20h (de Brasília), pela 36ª rodada da competição"
   },
   {
     "title": "Tarifa dos EUA sobre açúcar deve preservar cota brasileira, diz Sindiaçúcar",
@@ -882,6 +980,20 @@
     "summary_pt": "Em nota, Secretaria de Comunicação da Presidência da República afirma que o Brasil pode retaliar os EUA com mais tarifas e que ameaça do governo Trump ignora negociações em curso entre os dois países."
   },
   {
+    "title": "Macy's Thanksgiving Day Parade in New York City postponed due to storm projections",
+    "summary": "Macy's Thanksgiving Day Parade in New York City postponed due to storm projections Reuters",
+    "category": "Clima e desastres",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObWhPYmVCWGllQUlkVVlDc2xCb1puNVJmRzRxb0M0TkxUXzJhUF96ZW9HalhkbHdCODVNcW40ZXZrTEhWR0ZpUHZZU1JmZ29TbXdZR2ZLMlNnMzJ2eUhaUXp4VkJOV2RvVnNweTdWbkFuUWptYmRCblc5aXBtOXlQSy1TSHpHQjRrUUpuYXIweEZtbldKSTltWG9US2p3eGZ6UTlBSjE5YW1qdGNsdVI3Y0wxeURLdF9IS1d3c3NuNVpxdTJfQmN5UmpjZ1ZZbFlW?oc=5",
+    "date": "2026-11-25T21:57:52Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "O Desfile do Dia de Ação de Graças da Macy's em Nova York foi adiado devido às previsões de tempestade",
+    "summary_pt": "O Desfile do Dia de Ação de Graças da Macy's em Nova York foi adiado devido às previsões de tempestade Reuters"
+  },
+  {
     "title": "Kim Jong-un diz que status nuclear da Coreia do Norte é 'inviolável' e faz ameaça de guerra",
     "summary": "O líder norte-coreano Kim Jong Un visita a Academia de Ciências da Defesa em Pyongyang, Coreia do Norte, em 2024 KCNA/via REUTERS O líder da Coreia do Norte, Kim Jong-un, afirmou que o país não vai abrir mão do status de potência nuclear. Ele também ameaçou tratar qualquer tentativa de contestar essa condição como uma declaração de guerra. As declarações for",
     "category": "Conflitos",
@@ -908,6 +1020,20 @@
     "image": "",
     "title_pt": "Trinta e uma pessoas morrem em incêndio após capotamento de veículo no Egito",
     "summary_pt": "Trinta e uma pessoas morrem em incêndio após capotamento de veículo no Egito Reuters"
+  },
+  {
+    "title": "How the Trump administration determined Jensen Huang is not a national security threat",
+    "summary": "How the Trump administration determined Jensen Huang is not a national security threat Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0IzSk1IWkpMeGFmZWlDR2RseE11U3ZSbXlIOGdQalJyOS1rakJjUUxYZDYwd2ZYZERTQTdNNTQzR1dVMmRwVU1KNmhxc2ZtOXhwczJJckVxT0dUSHJnZEJpUnp0MXVVX1VqSElzQkJLc25neHJEZEYzZ0R5LXdnb01hNGZaTFFrbEc3c1haRVZpUUFldnRZY3NqVmlSRGVNVEloQ1Q2Q29VQzlRSWxtSUdnVHNIUGVwZ2VuekdHS1I1UQ?oc=5",
+    "date": "2026-11-25T21:55:12Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Como o governo Trump determinou que Jensen Huang não é uma ameaça à segurança nacional",
+    "summary_pt": "Como o governo Trump determinou que Jensen Huang não representa uma ameaça à segurança nacional Reuters"
   },
   {
     "title": "PSG cede empate à Roma após virada e perde liderança da Champions",
@@ -968,7 +1094,7 @@
   {
     "title": "US stocks fall further as fears over AI intensify",
     "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -1134,6 +1260,20 @@
     "summary_pt": "Segundo informações da Agência Espacial Europeia, a ocorrência aconteceu quando o DART, ou Teste de Redirecionamento de Asteroide Duplo, da Nasa, colidiu com a rocha espacial a 21.965 quilômetros por hora, há cerca de quatro anos"
   },
   {
+    "title": "Trump's newest order curtailing birthright citizenship is blocked by second judge",
+    "summary": "Trump's newest order curtailing birthright citizenship is blocked by second judge Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVNKamgtYTNRNHFWRVliOUF5X3pqbzBEdzBWZmRKUUZDX3FoaDhaNFB2Z3pza2dSS2NHOUtzYW9jblRqSnY2Q0VESXJYSTlnbVRibzZ4c1I2eWZrMEVkTUNOTGI4VlFRc1dLdGUyNFZPTGZlX0pGMkpkTTVBWGoyNi1RUWZ2cjBDcGdtTGpBeWJBTTJFbldlVFZ0OW93N1NPVW8zN1JfTHlxdWRVZDZ6YVRqMmtFZjE1UzBPRzVfNURCMUtGSi1vTVhyZXN6UQ?oc=5",
+    "date": "2026-11-25T21:35:04Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "O mais recente decreto de Trump que restringe a cidadania por direito de nascimento é bloqueado por um segundo juiz Reuters",
+    "title_pt": "O mais recente decreto de Trump que restringe a cidadania por direito de nascimento é bloqueado por um segundo juiz"
+  },
+  {
     "title": "Ativos da Lukoil são vendidos a grupo liderado por bilionário dos EUA",
     "summary": "Consórcio inclui agência do governo americano e prevê assumir operações em 11 países; negócio ainda depende de aprovação do Tesouro dos EUA",
     "category": "Geral",
@@ -1246,6 +1386,20 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/edson-fachin-plenario-stf.jpg?w=200",
     "title_pt": "Moraes rejeita pedido sobre custeio de R$ 324 mi em penduricalhos no MPU",
     "summary_pt": "Verba seria usada para pagar benefícios acima do teto constitucional; magistrado apontou que suplementação depende de outros Poderes"
+  },
+  {
+    "title": "Elderly Alzheimer's patient found after 11 days lost in Amazon",
+    "summary": "Elderly Alzheimer's patient found after 11 days lost in Amazon Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWZXYXo3YUdHVW0zbThtc2lWS3pSWUpKYnUyZkk3eGlPYzNFSW85RnUyV0FDbUJyaXZuQk1iX25lYUtjVS1UaC0xc0lHdllLMGdKczdlZzZMOFJ4UXBmdWpTTHlGUmd2MlBLZVhwQzdvcktDMjlUQ1k2ZkN0X0I5bWJwY1NVZHhYRUtqTnhHbldHekpsbzlfY0VtdnY4ODc3WVpYcS1NdFpWd1JnM0xmSEVaTl9aZw?oc=5",
+    "date": "2026-11-25T21:25:14Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Idoso com Alzheimer é encontrado após 11 dias perdido na Amazônia",
+    "summary_pt": "Idoso com Alzheimer é encontrado após 11 dias perdido na Amazônia Reuters"
   },
   {
     "title": "Planalto diz que tarifa dos EUA mira pressão sobre o Pix e cobra negociação",
@@ -1528,6 +1682,34 @@
     "summary_pt": "As escolas da Virgínia enfrentam escrutínio após revelações de abusos e falhas generalizadas nas verificações obrigatórias de antecedentes dos funcionários."
   },
   {
+    "title": "Fed policymakers at odds over causes of high inflation",
+    "summary": "Fed policymakers at odds over causes of high inflation Reuters",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw?oc=5",
+    "date": "2026-11-25T20:50:24Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Autoridades monetárias do Fed em desacordo sobre as causas da alta inflação",
+    "summary_pt": "Autoridades monetárias do Fed em desacordo sobre as causas da alta inflação Reuters"
+  },
+  {
+    "title": "Volatility-weary investors side swiped as tariff mayhem adds to tech pain",
+    "summary": "Volatility-weary investors side swiped as tariff mayhem adds to tech pain Reuters",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGd2TDZySmQ2VXE4QUhfUG1OOGU3S3l4eWVDMGFKLWNVRlp1dE1zYnNmOUNYTGpQeGZtS3RrWC11R0x0aEo2YnBsU2Y1NTEwT2V2eF9fQmhfLXc1ekFmajRGUWg0NVZheFBtUy15RWd6NkpsZzFSZTY1M1FIYjI5b2htVWVYemdvRDQyTUFQbw?oc=5",
+    "date": "2026-11-25T20:50:19Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Investidores cansados da volatilidade são atingidos enquanto o caos tarifário se soma aos problemas do setor de tecnologia",
+    "summary_pt": "Investidores cansados da volatilidade são atingidos enquanto o caos tarifário aumenta os problemas do setor de tecnologia Reuters"
+  },
+  {
     "title": "Liberal senator Leah Blyth announces defection to One Nation",
     "summary": "South Australian senator labels One Nation the ‘only party with the bold ideas needed to turn this country around’ Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Leah Blyth, federal Liberal senator for South Australia, has announced she is defecting to One Nation, becoming the party’s",
     "category": "Geral",
@@ -1624,6 +1806,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795639351.jpg?resize=1920%2C1080&quality=80",
     "title_pt": "Baby Aliyah rouba a cena durante debate no Senado australiano",
     "summary_pt": "A senadora australiana Fatima Payman dirigiu-se ao Senado com sua filha de seis meses, Aliyah, nos braços"
+  },
+  {
+    "title": "Retailers face rising AI cyberattack threat ahead of Black Friday, many uninsured",
+    "summary": "Retailers face rising AI cyberattack threat ahead of Black Friday, many uninsured Reuters",
+    "category": "Segurança cibernética",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQXpGTVZodUxhM09Jb0ZEQ1JXcmt0VkoxUndncmc3cXhoSWNmWlduNlJmRlA3VzhuRktZT2F6ZjJoTGZ5eVZEa01xZ3A2OHBaVjA4dDJkUTR4TkNNUnc5ay1XazlBcHAzSkVuQVpEVGtsMGlPVlNzLVM0X3F3WnJMZklqMTJnMWszSkxBMEZRLWx5cXgyRE9aSEJtSDlELWRCVjByTGhqT0hPQ200Ui03TUJfaGd1NXRjLUVVM21ObUlSSWd0bEktdmtua0VMWlpoRHFadg?oc=5",
+    "date": "2026-11-25T20:42:25Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Varejistas enfrentam ameaça crescente de ciberataques com IA antes da Black Friday, muitos sem seguro",
+    "summary_pt": "Varejistas enfrentam ameaça crescente de ciberataques com IA antes da Black Friday, muitos sem seguro Reuters"
   },
   {
     "title": "Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs",
@@ -1864,6 +2060,20 @@
     "summary_pt": "Marés-rei recordes levaram as autoridades da costa oeste a alertar os moradores para ficarem longe das praias. A costa oeste dos Estados Unidos registrou marés recordes esta semana, e as autoridades pediram aos moradores que evitassem as praias, mas nem todos estão dando ouvidos a esses alertas. Em Cannon Beach, Oregon, imagens que viralizaram mostram um homem e seu cachorro quase sendo levados pelas águas."
   },
   {
+    "title": "How China got access to Nvidia's AI chips despite rules to stop them",
+    "summary": "How China got access to Nvidia's AI chips despite rules to stop them Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU05FY1hvQmJod19oM3p3aTZQaS1CdktCWEZsSnk0TmVWREE1a0tmVW5kVnBxdG5VNU1TX2FmWnZ1aTc1UEQyblFkSklCZ3NlcU1XQUZQVDUwTXZ6R3BoVjlRb1RPY0pTNGdmUUdNZkw0Zi1oanJOcXFieGlBdzRTN05pa3FsaVhUWVk0UWpzc0hkN2kySGF6bGRpU1Y1a2IyNi1iaUFQZThLNVZON0E?oc=5",
+    "date": "2026-11-25T19:58:10Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Como a China conseguiu acesso aos chips de IA da Nvidia, apesar das regras para impedi-la",
+    "summary_pt": "Como a China conseguiu acesso aos chips de IA da Nvidia apesar das regras para impedi-la Reuters"
+  },
+  {
     "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
     "summary": "Chip Wilson said men importing brides from Thailand was due to women waiting too long to have children The controversial founder of Lululemon suggested women in Canada are having too few children and this could lead some men to bring in brides from Thailand , in remarks that stunned audience members at a women’s leadership conference. Chip Wilson, who built ",
     "category": "Geral",
@@ -1922,7 +2132,7 @@
   {
     "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
     "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-    "category": "Clima e desastres",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2058,6 +2268,20 @@
     "image": "https://asset.lemde.fr/medias/img/social-network/default.png",
     "title_pt": "Madagáscar: Marco Tsaradia eleito presidente da Assembleia Nacional, após a destituição de Siteny Randrianasoloniaiko, acusado de abuso de poder",
     "summary_pt": "Randrianasoloniaiko é regularmente apresentado como um dos arquitectos da reaproximação de Madagáscar com a Rússia desde a chegada ao poder do Coronel Michaël Randrianirina em Outubro de 2025."
+  },
+  {
+    "title": "Pakistan's PIA to shift UK flights to own fleet after Norse Atlantic suspension",
+    "summary": "Pakistan's PIA to shift UK flights to own fleet after Norse Atlantic suspension Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkFGakJWZVBjNkpWNGJSajBSZFVudDhWdVhpYU4xWjROeWRjZ05JMHpDa0oxekJDeUUxQTVIVHc3cUZYQktSbmV1bVFZT2VsR0tJVW1NWk9maVVmU0RrY1J0U050cU14S2s5MEZLS28xM3lIVDEzcThxbmlGWXBvOGxaZkNEbEZJdGN5aFRxSndmU0RhSGVyN0tsaS1SWkl1WFJ2ajZZcWJnMEJSS2NZd3A0QUp4MFdPRk1jWlg2SWdhaEFqdlpLZlRTT1JLcVla?oc=5",
+    "date": "2026-11-25T19:32:39Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "A PIA do Paquistão vai transferir os voos para o Reino Unido para sua própria frota após a suspensão da Norse Atlantic",
+    "summary_pt": "A PIA do Paquistão vai transferir os voos para o Reino Unido para sua própria frota após a suspensão da Norse Atlantic Reuters"
   },
   {
     "title": "Al menos 31 muertos por la explosión de un camión cisterna cerca de El Cairo",
@@ -2298,6 +2522,48 @@
     "summary_pt": "Elon Musk elogia a aprovação da FCC ao projeto Starmind da SpaceX como \"um grande trunfo para os Estados Unidos e para o mundo\"."
   },
   {
+    "title": "Salvadoran migrant Kilmar Abrego Garcia lands in Spain after US departure deal",
+    "summary": "Salvadoran migrant Kilmar Abrego Garcia lands in Spain after US departure deal Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWW0yaWlzUi0wM216d2FrV0R0b0xEbTd6TTJPcnE0MVVOREpjWFY3TnFmbEUzeGkxQUpxQ2xhcVNUeHdSV0tCRnZ1aGRPbHVwSGZfZkthQUJLcFZ3MjlvWFVXUlAzSGFzaDloX3dqZ1h3YXVQZ2lFb2Z0ZDR0SnRUM2VyME9Ta2piYlUwWjRKdEJ3cWFsVmc1NTNxNGF1cXd1eGlXSVVZQ2FWYlRmZWZQTE80bXc0bzZJbzBTSVdRQWtFOFct?oc=5",
+    "date": "2026-11-25T19:12:55Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "O migrante salvadorenho Kilmar Abrego Garcia chega à Espanha após acordo de partida dos Estados Unidos",
+    "summary_pt": "O migrante salvadorenho Kilmar Abrego Garcia chega à Espanha após acordo de partida dos EUA Reuters"
+  },
+  {
+    "title": "S&P Global places Nvidia rating on 'CreditWatch Negative' on rising management and governance risks",
+    "summary": "S&P Global places Nvidia rating on 'CreditWatch Negative' on rising management and governance risks Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQamtqRVI0MHhzRTB5Tk1wMDNXRGhEYi1zVzFJT3hBMFNzUmt1RWptQnpTNWR1QTllclluaW50Z0tmSWVIbW5DWXJoaVJlblRoN2puUGFjbEtkOTZ6VUk5ZGEtLU9vYnJOMm53Tm5Idzg0dzNJSlRXVEI1b2xIQ1BBaVVuQmthNFlremtLRnNFY2RWdjNGcHNPV3ZrQ2JOTGhNMTdKbWpfWGtRMjBEekpJS0lmejFMSUxUakFYS1FvUnVxckk?oc=5",
+    "date": "2026-11-25T19:12:45Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "A S&P Global coloca o rating da Nvidia em \"CreditWatch Negativo\" devido ao aumento dos riscos de gestão e governança",
+    "summary_pt": "A S&P Global coloca o rating da Nvidia em \"CreditWatch Negativo\" devido ao aumento dos riscos de gestão e governança Reuters"
+  },
+  {
+    "title": "Dozens of countries call on Russia to halt alleged use of riot agent in Ukraine war",
+    "summary": "Dozens of countries call on Russia to halt alleged use of riot agent in Ukraine war Reuters",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVFLRmpLV05rVWloZTZ2X1V3M3dsRVE2U1ZhZHloWElnNkpMN1hSanhjV0RzMnU2QnNqcmxpZmphVjhobS1PMG05NUx1cWh6MUVsbkdCd05OWE45MFhzS2gwRWYxNWVFLWZRdGNpdTdLbHN1YVNWSU5ITVlqVEt1RmpSOVpFZkk2dFRHRjkxa1pRQ1RIQkRrVjh3aVdmcFNEajJhYk96QnJaV1lWRk13?oc=5",
+    "date": "2026-11-25T19:09:43Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "Dezenas de países pedem à Rússia que interrompa o suposto uso de gás lacrimogêneo na guerra na Ucrânia Reuters",
+    "title_pt": "Dezenas de países pedem à Rússia que interrompa o suposto uso de agentes antidistúrbios na guerra na Ucrânia"
+  },
+  {
     "title": "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
     "summary": "The Ukrainian drone strike off Libya’s coast killed two Libyan naval officers, according to the forces controlling the country’s east.",
     "category": "Geral",
@@ -2398,6 +2664,20 @@
     "summary_pt": "Que Donald Trump tenha vindo em auxílio de Jensen Huang para evitar um crash constitui uma forma de intervencionismo muito arriscada, segundo o historiador Harold James, que recorda, numa coluna no “Le Monde”, precedentes edificantes, como a catástrofe causada por John Law no século XVIII."
   },
   {
+    "title": "Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan region",
+    "summary": "Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan region Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGlKWlRMLUx5SDRZY3FLU3VLM19RX2JqVko0T3dBakVEVHVldFVtQ21MbGo2WEEzUXU1clEteTVvWWh3bkdkQzZPX3RSemt5eWlBVjJQZy1RdjNjNnlpT19ZZUd0ekFDc3JuVHZKVWJfX2VtTlBzU3ZTTHlBX3dkV1NNVXA4NmJMVlRGX3FidmJsa0VacW5fQ2E1ZHBZTnJrN2pVc1BkUk1aZVliX2lMdHJBcUFaYlh5WmY3a05aSVZYN1hKemFtTGFUMG0?oc=5",
+    "date": "2026-11-25T18:58:04Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "O principal tribunal do Iraque afirma que Bagdá pode enviar tropas para proteger as fronteiras na região do Curdistão",
+    "summary_pt": "O Supremo Tribunal do Iraque afirma que Bagdá pode enviar tropas para proteger as fronteiras na região do Curdistão Reuters"
+  },
+  {
     "title": "Teddy Riner affirme, à propos de la guerre en Ukraine, que la France doit « arrêter de donner de l’argent » qu’elle n’a pas",
     "summary": "Plus tôt, le candidat à l’élection présidentielle a critiqué le déploiement de soldats français en Ukraine pour des missions non combattantes, déclarant : « Je ne comprends pas qu’on envoie des troupes en Ukraine alors que ce n’est pas notre guerre ».",
     "category": "Conflitos",
@@ -2454,6 +2734,20 @@
     "summary_pt": "Depois de anos de relações frias e hostis sob o governo do ex-primeiro-ministro húngaro Viktor Orban, aliado do Kremlin, seu sucessor, Peter Magyar, e o presidente ucraniano Volodymyr Zelenskyy buscam restabelecer as relações entre seus países."
   },
   {
+    "title": "Venezuela data deluge cheers investors, but $237 billion debt test lies ahead",
+    "summary": "Venezuela data deluge cheers investors, but $237 billion debt test lies ahead Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSnBhS2YxRk5nTjRFbDJON0ROb19SVEYzc2dGYUpnb0ozdzV0Y2p2eHRjMVlYd3p3M09lam1qTHN2dkNhVDhsZmVvNUE3NXg3dFlCOWh4NUNzVXNqUmt4LVBDRFNCdDNGdlU0ak9hVTY1c1J4VXJ4a2stZndwbzE3b2QxLWxjMlJydmNkUlJDTTRDTmdDV21PS2hraVRUT0pLM29OLXJtZV9kaVhqTWlRc2tWM25tMFdNUnR0RXU3TQ?oc=5",
+    "date": "2026-11-25T18:50:43Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "O dilúvio de dados da Venezuela anima os investidores, mas um teste de dívida de US$ 237 bilhões está por vir",
+    "summary_pt": "O grande volume de dados da Venezuela anima os investidores, mas um teste de dívida de US$ 237 bilhões está por vir Reuters"
+  },
+  {
     "title": "La UME se desplegará en El Hierro tras declarar Canarias la emergencia por la crisis migratoria",
     "summary": "Clavijo solicita la intervención de la unidad militar tras la llegada de otras 255 personas",
     "category": "Geral",
@@ -2466,6 +2760,20 @@
     "image": "https://imagenes.elpais.com/resizer/v2/YWJIK47M7RFV7OK3FMJ6O2G3JM.jpg?auth=cc1d6f3043cbf2af604a2311a66f29c18b9f06b0ad21352f45582e08fc774214",
     "title_pt": "A UME será implantada em El Hierro depois que as Ilhas Canárias declararem emergência devido à crise migratória",
     "summary_pt": "Clavijo solicita intervenção da unidade militar após chegada de mais 255 pessoas"
+  },
+  {
+    "title": "Israeli opposition advances October 7 attack probe opposed by Netanyahu",
+    "summary": "Israeli opposition advances October 7 attack probe opposed by Netanyahu Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS3ZLT2liQ2xsLWEzM3YtbnJRaVNINFJXTXhVQ2J2cXJiSjhNX0tUTE9HckFYYzhxTG45d1lYSXRZYlVsVjA1Ym9nQVlwbThQWHFZZmU5akpONHlXYkJZR3RPUmY4bEsxWFBQMWNBbVVGTURYTG9zQ2cwYVY1WTJmQ1UyUzRvbVY5d1hEejM4c011SDV4dDBMdzdkSHhaak9SQXNIZHdzU01Sa0tDdHk3YmJHY213cmZqOXpvOHNkb0o0R3c?oc=5",
+    "date": "2026-11-25T18:45:30Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "A oposição israelense avança na investigação do ataque de 7 de outubro, que Netanyahu se opõe",
+    "summary_pt": "Oposição israelense avança na investigação do ataque de 7 de outubro, que é contestada por Netanyahu Reuters"
   },
   {
     "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
@@ -2482,6 +2790,34 @@
     "summary_pt": "Um homem armado foi morto após o que o presidente do país descreveu como um assalto a um carro-forte carregado de dinheiro que deu errado."
   },
   {
+    "title": "Walmart-backed PhonePe restarts IPO process, eyes up to $15 billion valuation in market debut, source says",
+    "summary": "Walmart-backed PhonePe restarts IPO process, eyes up to $15 billion valuation in market debut, source says Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkVTQU5UZjA4Wnc3STdBc0xPZnhhdzE5VWxlbUJHTG5XWjFlRHRiZWFUcHdHeThRQTJZVkZqOXFMRWNJR0lQVnlLQkEtSllnQ1ZXVVl4ZmJhTkNxaGwwcGh6bHZIZjZDRmttX09iOU5nS3BKMDB6aWhybHNyc1BiVlRNQ1loSXBUSFB0Z1UwbXJtTW9WRW9wMVBJOU5PU3N0Ul9mT2dibTk4NXZnbVV5Ny1UZFZwdG5vc1BiZXVRemFXT0NFbmc?oc=5",
+    "date": "2026-11-25T18:35:51Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "A PhonePe, apoiada pelo Walmart, reinicia o processo de IPO e mira uma avaliação de até US$ 15 bilhões na estreia no mercado, diz fonte",
+    "summary_pt": "A PhonePe, apoiada pelo Walmart, reinicia o processo de IPO e mira uma avaliação de até US$ 15 bilhões na estreia no mercado, diz fonte à Reuters"
+  },
+  {
+    "title": "Anthropic's slide tests Wall Street's lofty bets on future AI profits",
+    "summary": "Anthropic's slide tests Wall Street's lofty bets on future AI profits Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZE1sRHlKd3Y1aUpqaUVpeFQ3QjFmX191blVmM1gyS0hidW81RjFjSXJjQndnODAwQU9qb3VkYkJfZ3ppYzdBQ1J5cTRUaDMzamxvZVNsYzB6RUpiVzd2RlhxV2hKaDRjTFdhamRKZ3g3MXZDY1c5c3NMalpmc09aQ3JnNGEyQTR5NG85OW9VTEE1NW9md1VKdFYxeTlnbWNjd25UcjVwamhDX1pIaXc?oc=5",
+    "date": "2026-11-25T18:35:00Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "O declínio da Anthropic coloca em xeque as altas apostas de Wall Street nos futuros lucros da IA",
+    "summary_pt": "A queda da Anthropic coloca em xeque as altas apostas de Wall Street nos futuros lucros da IA Reuters"
+  },
+  {
     "title": "Caminhão-tanque pega fogo e deixa ao menos 30 mortos no Egito; veja VÍDEO",
     "summary": "Caminhão-tanque pega fogo e deixa ao menos 30 mortos no Egito Pelo menos 30 pessoas morreram depois que um veículo que transportava derivados de petróleo tombou e pegou fogo em uma importante via expressa do Egito, informou o Ministério da Saúde do país nesta quarta-feira (25). Segundo o Ministério da Saúde egípcio, nove pessoas sofreram queimaduras severas ",
     "category": "Geral",
@@ -2494,6 +2830,20 @@
     "image": "https://s2-g1.glbimg.com/WLOgmhLj358VYDxN3wdpm-mjows=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/E/TJQC30S1KGqotS5i83Gw/ap26329710858344.jpg",
     "title_pt": "Caminhão-tanque pega fogo e deixa ao menos 30 mortos no Egito; veja VÍDEO",
     "summary_pt": "Caminhão-tanque pega fogo e deixa ao menos 30 mortos no Egito Pelo menos 30 pessoas morreram depois que um veículo que transportava derivados de petróleo tombou e pegou fogo em uma importante via expressa do Egito, informou o Ministério da Saúde do país nesta quarta-feira (25). Segundo o Ministério da Saúde egípcio, nove pessoas sofreram queimaduras severas "
+  },
+  {
+    "title": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access",
+    "summary": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3BLV01MMXl1a2FaazhNYWFseVlPZ2g0ZnBwdnI5aFdkV1pHR19QdzZQWDk4YlJMOFZtZk9PbVlwbmU1WXpXWjFHaHVfX3c0SVd5WHFRM0s3eW9EcUE1S1RTYUFxLXBvQmthZFFNYkFNRy1EeHNyM2gyT0prRzNPWEVPaGVGMFo2c1E1eTljc212bU5qY3EtdnlDN01WSTdnRjZOYkZKdW1lcmttSlcwazFrSFlidExMay1iTHlXaW1TQVBIUVE?oc=5",
+    "date": "2026-11-25T18:32:52Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "O retorno de Jensen Huang à Nvidia alimenta a disputa de Washington pelo acesso da China aos chips",
+    "summary_pt": "O retorno de Jensen Huang à Nvidia alimenta a disputa de Washington pelo acesso da China aos chips Reuters"
   },
   {
     "title": "A Madagacar, l’éviction du numéro deux de la junte, symptôme des divisions au sommet",
@@ -2522,6 +2872,20 @@
     "image": "https://imagenes.elpais.com/resizer/v2/AJQBGSWQYFHAJCLK6VGFVYZ7FA.jpg?auth=2d8b75a7c9d555a4bcb7807afde6261eb400fd0978258356ad0ecb3373d5a578",
     "title_pt": "O ideólogo da \"remigração\" europeia lança, em plena campanha, um plano de deportações para um hipotético governo do PP e do Vox",
     "summary_pt": "O Instituto para a Remigração, liderado pelo supremacista branco Martin Sellner, com vínculos com Abascal, propõe \"preservar a continuidade etnocultural\" espanhola por meio da saída de estrangeiros que \"representam um fardo cultural\"."
+  },
+  {
+    "title": "US to cap India tariff at 17% if trade deal is reached, USTR says",
+    "summary": "US to cap India tariff at 17% if trade deal is reached, USTR says Reuters",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
+    "date": "2026-11-25T18:26:10Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Os EUA vão limitar a tarifa da Índia a 17% se um acordo comercial for firmado, diz o USTR",
+    "summary_pt": "Os EUA vão limitar a tarifa da Índia a 17% se um acordo comercial for firmado, diz o USTR à Reuters"
   },
   {
     "title": "Greece: 14,000 march in Athens against rising living costs",
@@ -2578,6 +2942,20 @@
     "image": "https://i.guim.co.uk/img/media/65d32fbb43f0e7ee1a67c12068fb35f5cd6d3afb/780_0_6250_5000/master/6250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0fc307bd744febe983c44c01032fb406",
     "title_pt": "Tribunal decide que a ONU demitiu funcionários palestinos com base em alegações israelenses não comprovadas",
     "summary_pt": "Decisão coloca em dúvida as evidências que ligam trabalhadores humanitários ao Hamas e afirma que os esforços humanitários em Gaza foram prejudicados Um tribunal da ONU colocou em dúvida as evidências usadas para justificar a demissão de trabalhadores humanitários palestinos da ONU em 2024, afirmando que elas se baseavam \"quase inteiramente\" em afirmações não comprovadas do governo israelense e que haviam prejudicado as operações humanitárias em Gaza."
+  },
+  {
+    "title": "New images reveal crater on asteroid struck by DART spacecraft",
+    "summary": "New images reveal crater on asteroid struck by DART spacecraft Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHhhREtSNUtyVllDZ0FDZ3JvSFQxemJRYXdkNXNYXzk3MkgzaGVUVExOaHVZYm0tcGFQdEdWZERObmZzVzFBNFRxXzRENFFudzYxY3d6ZHBqdmhLdll0SEw4YkRrRFdhYUpNNm9xUnZ6WkR3NzdrNHhfRVZYeG8ycFpQajNPRlBWSWhwLWhXVXpLV1NfVWNJeVI5LXNMYnhBMXFoOXZR?oc=5",
+    "date": "2026-11-25T18:13:15Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Novas imagens revelam cratera no asteroide atingido pela espaçonave DART",
+    "summary_pt": "Novas imagens revelam cratera em asteroide atingido pela espaçonave DART Reuters"
   },
   {
     "title": "Opposition Makes Progress Toward Ousting Netanyahu, Party Leader Says",
@@ -2734,6 +3112,20 @@
     "summary_pt": "O governo brasileiro decidiu que o embaixador do Brasil na Argentina, Julio Bitelli, não deve retomar suas funções diplomáticas no país vizinho. Bitelli deve ir a Buenos Aires apenas para buscar pertences pessoais sem reassumir o posto que deixou em julho após atritos diplomáticos entre os dois governos. Com isso, a missão do embaixador é encerrada na Argent"
   },
   {
+    "title": "Nvidia agrees to settle 2018 US investor class action for $290 million",
+    "summary": "Nvidia agrees to settle 2018 US investor class action for $290 million Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2cwWG1mYkVmSG5oSTgwZmcxcVY5SWg2ak5aTHBtbG1qWHVvcGxjOGQzTFZKZkNSdWgtOHJtbW1BenVtTWc2UmFrOFpHbTV1Mnh5MWgxWk00R0NrVG5PX0hkNWxmczRRLWdnRUtvRFBhMzVzZUlRN0FXRFVJYlNTVUJaT1U3eVY4SUwtNFd2a1MweTlBZW1ReG9mU0pQa2ZUd3RnaEZtMXNyQmhxeDV0SGN1eWRGcDN2UExZ?oc=5",
+    "date": "2026-11-25T17:36:16Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "A Nvidia concorda em resolver a ação coletiva de investidores dos EUA de 2018 por US$ 290 milhões",
+    "summary_pt": "A Nvidia concorda em resolver a ação coletiva de investidores dos EUA de 2018 por US$ 290 milhões Reuters"
+  },
+  {
     "title": "2 Men Charged After Break-In at Prince William and Kate’s Country Home",
     "summary": "Prosecutors said the two men, who appeared in court on Wednesday, had climbed a drainpipe to break into the royals’ country retreat in Norfolk.",
     "category": "Geral",
@@ -2750,7 +3142,7 @@
   {
     "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
     "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
-    "category": "Clima e desastres",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3182,6 +3574,20 @@
     "summary_pt": "Donald Trump tentou adiar a explosão face aos protestos, mas esta ocorreu, apesar dos riscos de exposição ao chumbo."
   },
   {
+    "title": "UK is moving military aircraft to hangars at night over possible drone threats, media reports say",
+    "summary": "UK is moving military aircraft to hangars at night over possible drone threats, media reports say Reuters",
+    "category": "Conflitos",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXk4cTJiN1hVeGlydEtUN2JpRTVCMF9CRFVBUkh3cUs2c0NJRHNnendsV1ZjWkxicDhPZUhESnlTNy1paWtzQlNHaHlSMkpLTVRvYXVGdFVDVEFGeVFGN2tQWElwRDZwREoyaXU2QUtNSm5oaGsyZ2VoSVNtT2c0aVlhbXlabU02Mm1menJtMGpNQXdzal9lM2dYeUtxZ0xFZ3lnc0FoODhBaklCa0M3eTQzbFF4dXVyNmc?oc=5",
+    "date": "2026-11-25T16:34:53Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "O Reino Unido está transferindo aeronaves militares para hangares à noite devido a possíveis ameaças de drones, segundo relatos da mídia.",
+    "summary_pt": "O Reino Unido está transferindo aeronaves militares para hangares à noite devido a possíveis ameaças de drones, segundo relatos da mídia, informa a Reuters."
+  },
+  {
     "title": "Moldova launches national preparedness campaign after drone incursions",
     "summary": "Moldova is urging its citizens to prepare for emergencies as the war in neighbouring Ukraine brings new risks across its border. The “Moldova Ready” campaign, launched in Chisinau, includes a display of the remains of a drone carrying 52kg of explosives after it crashed in the country last month. FRANCE 24's Daniel Whittington reports.",
     "category": "Geral",
@@ -3282,7 +3688,7 @@
   {
     "title": "US announces new tariffs on host of countries including China",
     "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3320,6 +3726,20 @@
     "image": "https://i.guim.co.uk/img/media/621e93b6debd15c2bb0ba21a27a32b9d2d861391/400_106_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3753f56cd40c2c3bfd73fc8e8ec43f83",
     "title_pt": "‘A Rússia quer mais do que a Ucrânia’, alerta Merz da Alemanha – como aconteceu",
     "summary_pt": "A chanceler alemã, num discurso abrangente, diz que Moscovo está a “escalar em grande escala”. Se quiser saber mais sobre o novo número de mortos, ouça o podcast Today in Focus de hoje com o nosso especialista em Rússia, Pjotr ​​Sauer. “Dois grupos de hackers acessaram o principal banco de dados de estatísticas da Rússia no mês passado e descobriram um cache de 11 milhões de certidões de óbito que revelaram n"
+  },
+  {
+    "title": "Nigeria seizes more than $200 million of meth, arrests five Mexicans",
+    "summary": "Nigeria seizes more than $200 million of meth, arrests five Mexicans Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTXlORzRLcFRDS3BCajdibjhNRG15NkdjQmdrYjlZVUprZ1ZvRXlBVU5IUWxJR1RzanZOUDlhYVZYamFsdTZ5b3FkcjJnaDlMdGxxZm5qR0ZER0tiWEhRcXdBZkFPT3BxZ1dMVzdOR2xEVGl0QWhmZlJEc2xzNUxiQVhUS003aERHN3V2SURuaGlNWXV5dVhTem1Kc0JMNXRNQTIzRUF4a016M0NibXI1ZDd3?oc=5",
+    "date": "2026-11-25T16:20:11Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Nigéria apreende mais de US$ 200 milhões em metanfetamina e prende cinco mexicanos",
+    "summary_pt": "Nigéria apreende mais de US$ 200 milhões em metanfetamina e prende cinco mexicanos Reuters"
   },
   {
     "title": "Russian casualties in Ukraine war: New reports suggest death toll as high as 700,000",
@@ -3490,20 +3910,6 @@
     "summary_pt": "Divulgadas 11 mulheres vítimas de tráfico sexual que foram recrutadas com falsas ofertas de emprego"
   },
   {
-    "title": "Thousands demonstrate across Greece in strike over wages, public services",
-    "summary": "Thousands demonstrate across Greece in strike over wages, public services Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzZWR3lnZkk4THNXOGl1RUhBS1FWbDNPLVpDaUlaMHdsbE41TUJIWmhseUplaFV4T0w3dWhaVVVJQkNUeWV3V19DUnlYa2tHYWxXbFNxN0RjemhUUzRCYlZRblAzVmZwZUhUUm1XTnRWWHJYdTFqaWJ3MW5SOHZpT3JqX3NDTGlJeWc?oc=5",
-    "date": "2026-11-25T15:49:55Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Milhares de pessoas protestam em toda a Grécia em greve por salários e serviços públicos",
-    "summary_pt": "Milhares de pessoas protestam em toda a Grécia em greve por salários e serviços públicos Reuters"
-  },
-  {
     "title": "Video shows massive explosion as US Army destroys entire stockpile of lead azide",
     "summary": "The US Army detonates around five tonnes of degraded lead azide at an ammunition plant in Iowa, destroying the country's entire stockpile of the explosive.",
     "category": "Geral",
@@ -3534,7 +3940,7 @@
   {
     "title": "Canadian astronaut welcomes baby girl from space station",
     "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
-    "category": "Clima e desastres",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3642,6 +4048,34 @@
     "image": "https://static.dw.com/image/79855923_6.jpg",
     "title_pt": "As próximas eleições na Nigéria foram marcadas pelo aumento da desinformação sobre IA",
     "summary_pt": "À medida que a Nigéria se aproxima das eleições de 2027, a utilização de inteligência artificial no processo eleitoral suscitou questões sobre a integridade e a prontidão institucional. Podem os nigerianos confiar nos seus processos democráticos?"
+  },
+  {
+    "title": "Global fragrance makers hit with nearly $517 million EU fine for taking part in cartel",
+    "summary": "Global fragrance makers hit with nearly $517 million EU fine for taking part in cartel Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNXdKc0Fib1ktQzJ1Umx4VE9DTjFjWHhQa3czVlJ6YVlTUVBxNG5IY2p5T3pGbVpkTDRXLV9GTWk5YXB3dHBUWTUyRVpVb1VPLTBfV1p2QUFjNnZqeFBWbE4zckpScDFnY2NtTzNQVVpadTdFcWZWMDNiM2RfVzZCZ3V1YVh3ZmhtbENaVGJvSG9yUFdZU0MySDA3LWZDNEt2U3BSY01RcExfT0lwWjdCMzlLNUZ5Mi1KdkYzaEpn?oc=5",
+    "date": "2026-11-25T15:27:44Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Fabricantes globais de fragrâncias recebem multa de quase US$ 517 milhões da UE por participação em cartel",
+    "summary_pt": "Fabricantes globais de fragrâncias recebem multa de quase US$ 517 milhões da UE por participação em cartel Reuters"
+  },
+  {
+    "title": "Russian government official warns of Ukrainian drone attacks on utility infrastructure this winter",
+    "summary": "Russian government official warns of Ukrainian drone attacks on utility infrastructure this winter Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjNMRXE5WTZCS3ZELXItUXNCbjVVTU5NeVFxNHNZdG1kYnRNSGs1dzRYVlY1TWE0UTBYem8yRTBoNEtoS21uQ1NTSjhJejNDYW5PUHQ3RDVaV2tRZTM0Q2FmY3JZZkhpYXRzUXdqUTc0WHZJNGhncUltbGpPcEFoOUdxNk1LeEtOV0xqT0ZvTnJGLUQzVURmekZneEdkcG1DLXlIWEh6ZGF3blpGVmlvNkN1LUI2QzB1X2xQeXdNaw?oc=5",
+    "date": "2026-11-25T15:21:43Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Funcionário do governo russo alerta sobre ataques de drones ucranianos a infraestruturas de serviços públicos neste inverno",
+    "summary_pt": "Funcionário do governo russo alerta sobre ataques de drones ucranianos em infraestrutura de serviços públicos neste inverno Reuters"
   },
   {
     "title": "Brits are having less sex, but watching a lot of porn, survey finds",
@@ -3812,6 +4246,20 @@
     "summary_pt": "A administração Trump está a planear novas taxas de importação de até 20% para combater o excesso de produção no estrangeiro. As medidas poderão colocar ainda mais pressão sobre os consumidores norte-americanos que já lutam com os elevados custos de vida."
   },
   {
+    "title": "Walmart-owned Flipkart CEO Kalyan Krishnamurthy to step down",
+    "summary": "Walmart-owned Flipkart CEO Kalyan Krishnamurthy to step down Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFZPMzlEc053ZFF6WnE2d3lVSTEwbHAzS0dhV0k3RlRlSjNzdmktOWF2RXVscVluRktFNUR5Y3NBNWV4d0VXUUF1b0ZvOXBEeWxNZGd4WGtqUEI5SEFsTHBBU055QjlaamIzSU8yeW9rX0FCdkx1Qng2OUV6YmVDYWFrWHpJWE5LR1VRWDluVzdrNTFVMVJuXzBlYmVjUDY3UERyUHZPSQ?oc=5",
+    "date": "2026-11-25T14:49:13Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Kalyan Krishnamurthy, CEO da Flipkart, de propriedade do Walmart, deixará o cargo",
+    "summary_pt": "Kalyan Krishnamurthy, CEO da Flipkart, de propriedade do Walmart, deixará o cargo Reuters"
+  },
+  {
     "title": "Five Russian military jets hit in airfield strike, says Ukraine",
     "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
     "category": "Conflitos",
@@ -3838,6 +4286,20 @@
     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24trav-craft-retreats-roundup-02-kpgj/24trav-craft-retreats-roundup-02-kpgj-facebookJumbo.jpg",
     "title_pt": "6 retiros artesanais oferecem tricô, cerâmica e muito mais para todos os níveis de habilidade",
     "summary_pt": "O interesse em criar hobbies, como tricô ou cerâmica, não é novo, mas vários fatores após a pandemia também os tornaram atraentes. Aqui estão algumas sugestões para retiros práticos."
+  },
+  {
+    "title": "Ukraine says it struck a major Russian air base, damaging five planes",
+    "summary": "Ukraine says it struck a major Russian air base, damaging five planes Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZm1PXzlrNXY0LXdObV93VWg5QnMzNk1rby1CSHNiMHYtcVpvYUpteDBGWi1GQS1tNjU4VTV6MmVBTXpxY3I2NTdfbzVvVTdBWS1LeVBMeGpCMkdUTDVpWE1nNzRld3NBbUtYRlRoTlhPLWp4ZjdsMmRCRUdycERtcVRDNGk5UjNxR3RRUTN3V2QyU1VDT29acWEtc096cjVkS0xtN0V2dURHTmUyM0ZIbnRvcndIRUZrRnBBWmlDNDRRSng1OHdFWg?oc=5",
+    "date": "2026-11-25T14:43:20Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Ucrânia diz ter atingido uma importante base aérea russa, danificando cinco aviões",
+    "summary_pt": "Ucrânia diz ter atingido uma importante base aérea russa, danificando cinco aviões Reuters"
   },
   {
     "title": "New York's annual Thanksgiving Parade threatened by approaching storm",
@@ -3910,6 +4372,20 @@
     "summary_pt": "Canguru é resgatado por policiais após perseguição nos EUA Um canguru foi resgatado por policiais em uma perseguição à la \"velozes e furiosos\" nos Estados Unidos. A ação gerou elogios da comunidade pela astúcia e cuidado com um animal tido como incomum no país norte-americano. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O caso ocorreu em junh"
   },
   {
+    "title": "US third-quarter GDP growth revised sharply higher",
+    "summary": "US third-quarter GDP growth revised sharply higher Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjZ1Y2k2ZHFiNlFJRV9fUWVWNXk5R0puemhyQTF6X2xiV0NTblNua3dFVTlQWE1keGQ0TDVMdHNSUHZlYURmbUE3cVZpRDlLdDRiSXNRTTYzZEpXcjViSGd2SV83emptZFRrUWtTczl4b3ItMVdBOEpNOHFSOVFWN096T083eV9KaWVCbXgwczlLLVl1VHNRNGZ0clRZS3NFXzRwQnVR?oc=5",
+    "date": "2026-11-25T14:28:47Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Crescimento do PIB dos EUA no terceiro trimestre revisado em alta acentuada",
+    "summary_pt": "Crescimento do PIB dos EUA no terceiro trimestre revisado em alta acentuada Reuters"
+  },
+  {
     "title": "Tarifaço: EUA propõem taxas sobre 14 países para combater 'excesso de capacidade industrial'",
     "summary": "EUA propõem novas tarifas contra Brasil e 14 economias O governo dos Estados Unidos propôs nesta quarta-feira (25) novas tarifas de importação sobre produtos de 14 parceiros comerciais, incluindo China, União Europeia, Japão e Índia. O anúncio foi feito por Jamieson Greer, chefe do Escritório do Representante Comercial dos Estados Unidos (USTR, na sigla em i",
     "category": "Geral",
@@ -3922,6 +4398,20 @@
     "image": "https://s2-g1.glbimg.com/aXyNVVWsq60bPQtSWJG7V6w9CH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/9/jd0F5xTUOKSVRgim8nnA/2026-11-16t144017z-1345596019-rc22poaux99k-rtrmadp-3-usa-trump.jpg",
     "title_pt": "Tarifaço: EUA propõem taxas sobre 14 países para combater 'excesso de capacidade industrial'",
     "summary_pt": "EUA propõem novas tarifas contra Brasil e 14 economias O governo dos Estados Unidos propôs nesta quarta-feira (25) novas tarifas de importação sobre produtos de 14 parceiros comerciais, incluindo China, União Europeia, Japão e Índia. O anúncio foi feito por Jamieson Greer, chefe do Escritório do Representante Comercial dos Estados Unidos (USTR, na sigla em i"
+  },
+  {
+    "title": "Israeli strike kills Hamas official, his wife and children",
+    "summary": "Israeli strike kills Hamas official, his wife and children Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjNlV0dRZTd0cDZJZVBnNFl6VUpTMDFlQlFIY0tJQzR5ZmNrYm9lNS1kMTRYbEpyM2FNMWp6Qms1NGh4VTU0YkxQN0NaY1FRV1diOENoQmdIQjJ0eU12VGZfamhNWHpsZUQ0MXczanBWZW1uWUZsVXpwcElhR2RXdG80RTBIcjZ1WjVHYW94MUhfUDI5dTA0ODZWRlBiVkFYNlhwR1RSaW1OZ2M?oc=5",
+    "date": "2026-11-25T14:19:53Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Ataque israelense mata oficial do Hamas, sua esposa e filhos",
+    "summary_pt": "Ataque israelense mata oficial do Hamas, sua esposa e filhos Reuters"
   },
   {
     "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
@@ -4064,6 +4554,20 @@
     "summary_pt": "O tempo começa a contar para Sánchez, Feijóo, Abascal e Colau, que vão disputar um debate de duas horas centrado em cinco grandes blocos de 20 minutos cada. A ordem de entrada e a das intervenções foram estabelecidas por sorteio"
   },
   {
+    "title": "US weekly jobless claims fall more than expected",
+    "summary": "US weekly jobless claims fall more than expected Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZHpnUUFPVXFGUWhvOXVLRGk1aVJac0tCQ0hpZHNvT05Uc1c5Mks3eGVEVXRvSE9EaWZpYmhqcWxmR0VLaVlFa1NOQzMxRWdxVVRfYzVMc0NlZFlabXZoVDhfRlRaMTBZaFlIa1BROW5jUHRvb3pYOTF0cE9iX19qejVrdlMtdnp1RERadmI2WTRReHdMOG9Gag?oc=5",
+    "date": "2026-11-25T13:47:43Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Pedidos semanais de auxílio-desemprego nos EUA caem mais que o esperado",
+    "summary_pt": "Pedidos semanais de auxílio-desemprego nos EUA caem mais que o esperado Reuters"
+  },
+  {
     "title": "EU plans €50 billion sovereign tech equity fund to boost quantum technology",
     "summary": "The European Commission proposed a tech fund with a target size of €50 billion to boost quantum computing efforts. The bloc aims to keep up with the US and China in the global race.",
     "category": "Tecnologia",
@@ -4174,6 +4678,20 @@
     "image": "https://s2-g1.glbimg.com/RkfG4ldMOXOKVjCv6R0aYkp44uE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/H/e51ZZlQE6SAofUAihVAA/261124-grafico-da-negociacao-ao-bloqueio-veja-os-passos-da-disputa-tarifaria-entre-brasil-e-eua.jpg",
     "title_pt": "Tarifaço de Trump: EUA propõem taxa de 10% sobre aviões brasileiros e aumento de imposto sobre açúcar",
     "summary_pt": "EUA propõem novas tarifas contra Brasil e 14 economias O governo dos Estados Unidos propôs nesta quarta-feira (25) a cobrança de uma tarifa adicional de 10% sobre aeronaves brasileiras e o aumento da tributação sobre o açúcar importado do país. Além das medidas contra o Brasil, o Escritório do Representante Comercial dos EUA (USTR, na sigla em inglês) anunci"
+  },
+  {
+    "title": "India says Hasina's plan to return to Bangladesh is separate from extradition request",
+    "summary": "India says Hasina's plan to return to Bangladesh is separate from extradition request Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ3l2N19iQWhBMUdzUWZZbkFhb0VoWEpNS2xSOTE3bVJSLUVYbjF4RXdyYzJGZnlET3pmMnlCaWpROWd5dHZRa3d6b2Q1cndBWkZVUFAzaEVMQ1BDdGh5OGRlYkZ2V2tjSWo3SjMyeHZmTFk2S29oODVhcUkxY3NFTWhnVHVqVmdFSmNWalF6Q05SR242SmlPWGFQNkJVZUhXRUVxUlpnc3B3NVF5YUk1U0RYQ0VTMU1ZcmxJeDVKZkZUZjQ?oc=5",
+    "date": "2026-11-25T13:12:29Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Índia diz que plano de Hasina de retornar a Bangladesh é separado do pedido de extradição",
+    "summary_pt": "Índia diz que plano de Hasina de retornar a Bangladesh é separado do pedido de extradição Reuters"
   },
   {
     "title": "Haftar visits Ankara as Erdoğan prepares first Libya trip in 15 years",
@@ -4330,6 +4848,20 @@
     "summary_pt": "Odochie ganhou destaque em 1987, depois de estrelar uma adaptação para a televisão do aclamado romance de Chinua Achebe, \"O Mundo se Despedaça\"."
   },
   {
+    "title": "Europe plans €50 billion sovereign tech equity fund to boost quantum technology",
+    "summary": "Europe plans €50 billion sovereign tech equity fund to boost quantum technology Reuters",
+    "category": "Tecnologia",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXB4bkpfdVM2Rkh0NTZKZmIxOHJkOEZGMnNkdy1mVHl5T2NTSmxzQVUzUHd4eHBKeFFKQU5DUnFmTG9neTRHakJCSkF2aTk3eUlPdEVZMWI2YUVGZjBoTTVjQkJqc3hmUW9ua2JQR3BsTHVKSDdoWU5oOE1qUC1hdkhYZVZRdFNMbEc2WWtQaXJHYkNxMmxPU2ZLU0EyQ0hxb2JEZjZUWEtRYXFSUUVKSm56MlZRdkMzWmlvRnBNbkc?oc=5",
+    "date": "2026-11-25T12:23:29Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Europa planeja fundo soberano de capital em tecnologia de € 50 bilhões para impulsionar a tecnologia quântica",
+    "summary_pt": "Europa planeja fundo soberano de capital em tecnologia de € 50 bilhões para impulsionar a tecnologia quântica Reuters"
+  },
+  {
     "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
     "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
     "category": "Conflitos",
@@ -4370,6 +4902,20 @@
     "image": "https://imagenes.elpais.com/resizer/v2/J7VTTFUVHNO2TD4K4XWX7IVZEI.jpg?auth=f57502af57ffba6cf8449ccbe384ddf34ed84d78757ecea249dae4ca7f3c193e",
     "title_pt": "A chuva, a neve e o vento intenso de hoje, com 13 municípios sob alerta, darão lugar a dias estáveis",
     "summary_pt": "No domingo das eleições, são esperadas chuvas na Galícia e na região cantábrica, e não se descarta a possibilidade de chuvas em outras regiões do norte e do oeste."
+  },
+  {
+    "title": "BP transfers 3,000 finance operations staff to Indian AI services firm Wipro",
+    "summary": "BP transfers 3,000 finance operations staff to Indian AI services firm Wipro Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHhCZkhObFRGSG0tX05fMnZnM3JjbXJfakdkRWtsRFI0b1huT3BuWVZySkszSEZzejNpUFJqeVNiYXlka0k1WGpvRUQ0YldCVmljX0hWWllHVGVkR0FnWGtUb0hqQklFNmVZeThoUlF3OWZoSnZCTVBPeURyVlB5UnVsUTVZM2piRHZfd0RQV1hvNTdkRXFmUDVLVklqaW50eUpOcUU3UlRxWGQ4dTZLZw?oc=5",
+    "date": "2026-11-25T12:13:30Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "BP transfere 3.000 funcionários de operações financeiras para a empresa indiana de serviços de IA Wipro Reuters",
+    "title_pt": "BP transfere 3.000 funcionários de operações financeiras para a empresa indiana de serviços de IA Wipro"
   },
   {
     "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
@@ -4430,6 +4976,20 @@
     "summary_pt": "Campanha nas redes sociais liderada pelo rapper britânico Shao Dow aconselha os turistas a não baixarem a guarda A embaixada britânica em Tóquio lançou uma campanha nas redes sociais alertando os visitantes para terem cautela após um aumento nos casos de aumento do consumo de álcool e fraudes com cartões de crédito contra turistas na capital japonesa. Em um clipe recente feito em conjunto com a embaixada"
   },
   {
+    "title": "Bollywood union asks Modi to bar Netflix's Pakistani series in India",
+    "summary": "Bollywood union asks Modi to bar Netflix's Pakistani series in India Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjd6WlRJdWdFcldKRGYzUFdFNlQ0NnVIcVJWV2drcTZySFFoV1Q4NHFlWE9KV3hpbWVSa2hvU0J3bTN6bmZRZHlubjBxaXVRWUc5aVRkV0haU1RCMk1iRjRWN2NJa2R1YjNpb2dlSW5oelVveUh4OEhqLS1FaWFvN0ZaM2Q2aGtYZHFRbTE0Wmwzd2FXSXo2ZDhGZWQ2UXptUWxuUlpPemxuWk1ib1JuTUlSOWV3S3F6ZWptQQ?oc=5",
+    "date": "2026-11-25T11:57:38Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Sindicato de Bollywood pede a Modi que proíba série paquistanesa da Netflix na Índia",
+    "summary_pt": "Sindicato de Bollywood pede a Modi que proíba série paquistanesa da Netflix na Índia Reuters"
+  },
+  {
     "title": "Spain: Catalan separatist Puigdemont sets date for return",
     "summary": "Former Catalan leader Carles Puigdemont plans to return to Barcelona on December 12 after nearly a decade in exile. Spain's Supreme Court has dropped the criminal case against him, clearing the way for his return.",
     "category": "Geral",
@@ -4470,6 +5030,20 @@
     "image": "https://s2-g1.glbimg.com/CwDcYpE1ifNQeiV0sC_EqF1r4C4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/q/xUQHgbQfuCqyLmu9SwEQ/2026-11-24t152749z-1374156123-rc2fuoaukepm-rtrmadp-3-iraq-oil-smuggling-explainer.jpg",
     "title_pt": "Suprema Corte do Iraque autoriza envio de tropas para fora do país em meio a disputa por petróleo com o Curdistão",
     "summary_pt": "Imagem de arquivo mostra campos de petróleo em Kirkuk, no Curdistão. Alaa Al-Marjani/ Reuters A Suprema Corte do Iraque autorizou o país a enviar tropas para fronteiras internacionais, informou a televisão estatal iraquiana nesta quarta-feira (25). A decisão ocorre em meio a uma disputa pelo controle da extração de petróleo entre o governo iraquiano e o Curd"
+  },
+  {
+    "title": "COMMENTARY: Morning Bid: Tariff fear compounds AI recoil",
+    "summary": "COMMENTARY: Morning Bid: Tariff fear compounds AI recoil Reuters",
+    "category": "Economia",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTzdrbThVSVJPbGJhMzJuU1EzY194YTh4WmZScXNHZTVqcUt6QlBua2k2VTRmN3RmRTFSc3ctVGo4MkhoTjZ0QTB1cWpCa2xad0hzNjgyMV9NTzR0QW01T0hGYzhaV3dIME5fN0FGWUVoUnJhLVFTdkl0R09fc2RTOHF1R2t4Y3pFeG9pZHhwLTB0T0lscmVR?oc=5",
+    "date": "2026-11-25T11:34:23Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "COMENTÁRIO: Oferta matinal: o medo tarifário agrava o recuo da IA",
+    "summary_pt": "COMENTÁRIO: Oferta matinal: medo tarifário agrava recuo da IA ​​Reuters"
   },
   {
     "title": "'Manipulação política': China critica plano de Trump de impor novo tarifaço",
@@ -4642,7 +5216,7 @@
   {
     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
     "summary": "The verdict follows a months-long trial in New York.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4652,6 +5226,20 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
     "title_pt": "A Huawei foi considerada culpada de roubar segredos comerciais dos EUA, mas foi absolvida da acusação de extorsão.",
     "summary_pt": "O veredicto vem após um julgamento que durou meses em Nova York."
+  },
+  {
+    "title": "Kremlin rejects ex-UK PM Johnson's call for a token Western force in Ukraine as unacceptable",
+    "summary": "Kremlin rejects ex-UK PM Johnson's call for a token Western force in Ukraine as unacceptable Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmFWemFoRm1velN4TUw2c1BVOFZQcW9QNmRwMXVOQzcyWklQd2pqV0tfMDlUbEFISGRlZ2ZKaUh6T01QNVIyUVhqWTROMmttWjZWU2FZU1FGYzVFTllEWWNxaF9sVFdfRENhQ2tMWFY5YW9adkpCbkV1NE9xUDJEeWVmcmNudGN3T1RmZXhKbDJZekJOZXVNU21pM2xjUWs4Rm1XLVJ1a2JQU1lOelducXRXMjlWRW83WUUzZEt0MHhlVGkxalBF?oc=5",
+    "date": "2026-11-25T10:51:44Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "O Kremlin rejeita o apelo do ex-primeiro-ministro britânico Johnson por uma força ocidental simbólica na Ucrânia como inaceitável",
+    "summary_pt": "Kremlin rejeita apelo do ex-primeiro-ministro britânico Johnson por uma força ocidental simbólica na Ucrânia como inaceitável Reuters"
   },
   {
     "title": "Australia, Solomon Islands sign sweeping pact seen as countering China",
@@ -4752,6 +5340,20 @@
     "summary_pt": "O paquistanês Muhammad Zeeshan Ali se tornou o primeiro estrangeiro a embarcar na estação espacial chinesa Tiangong."
   },
   {
+    "title": "Buy the stock dip? Options market signals say wait",
+    "summary": "Buy the stock dip? Options market signals say wait Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0dOWTF0OFdPY3R6M1VaWklxVjlwaGkzcDk3d1U4WXp2Q1dNX3FfYW5qYmMzZG1MbDUtRGg5elI1RUEwZzBVaGVZZnV1LUptczdWQU1teXhlVkN5cWVXNjZneXcxMkxPcEJtbVltV3VjWkVrN2pWTmNhTC1zby1sNWdDbGtCOVEyMEdXemdLNXRydHVv?oc=5",
+    "date": "2026-11-25T10:25:50Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Comprar a queda das ações? Os sinais do mercado de opções dizem para esperar",
+    "summary_pt": "Comprar a queda das ações? Sinais do mercado de opções dizem para esperar Reuters"
+  },
+  {
     "title": "NATO allies anxious as war spreads beyond Ukraine, Russia borders",
     "summary": "As Ukraine attacks Russian ships in far-flung waters, some NATO nations are voicing increasing anxiety over the war's spread to new regions.",
     "category": "Conflitos",
@@ -4778,6 +5380,20 @@
     "image": "https://imagenes.elpais.com/resizer/v2/XRKMNRS23FFWRDZBPIH7UQW76A.JPG?auth=9f23c8223a2d09c00ea49c2211af2857d29b3615561b44456cee8f4712a19aec",
     "title_pt": "Puigdemont anuncia que retornará a Barcelona no sábado, 12 de dezembro, \"sem pedir desculpas nem permissão\"",
     "summary_pt": "O ex-presidente catalão explica que voltará de avião e se dirigirá ao Parlamento \"3.315 dias depois\""
+  },
+  {
+    "title": "Iran says ships hit mines in Hormuz, warns vessels to coordinate passage",
+    "summary": "Iran says ships hit mines in Hormuz, warns vessels to coordinate passage Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmFmdlRJUnlMaVRFNERwb2YxLVVObG9leTlORFRtOTAyd2pvMTNuOGM5d0diMzNUb1NHaDVWOGlTeWg3bmcwU21BdHRHZlB6a0VDeXlNcUtYMDBiZUpyVFRyMkhIQjlpemZIeGVQNEdXb2hCOHZwYW5VZUt4V3MySnpZWUViYTA5MEp2eDlBbGNoVjB5dk5CcHdZR3NyUjZIVlV3d0s2Z3BUMTQ?oc=5",
+    "date": "2026-11-25T10:11:44Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Irã diz que navios atingiram minas em Ormuz e alerta navios para coordenar a passagem",
+    "summary_pt": "Irã diz que navios atingiram minas em Ormuz e alerta navios para coordenarem a passagem Reuters"
   },
   {
     "title": "EA adds AI-generated John Motson to FC 27 video game",
@@ -4824,7 +5440,7 @@
   {
     "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
     "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5202,20 +5818,6 @@
     "summary_pt": "Bom dia. Aqui é Leo Cendrowicz com o boletim informativo de quarta-feira. Hoje, vamos analisar o longo caminho dos Balcãs Ocidentais rumo à adesão à UE, um dilema dinamarquês para os socialistas europeus e, cortesia do falecido Papa Francisco, alguns encontros com o próprio diabo."
   },
   {
-    "title": "Yemen's Houthis claim attack on Saudi Arabia's largest refinery",
-    "summary": "Yemen's Houthis claim attack on Saudi Arabia's largest refinery Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOakM0aVEtei1RVzZkTUVZYlFabWlDYWpzTktyaGU2WHZqaGRkU0hJOHdsNDFUdU5GYzNOYzdZYnkwWnFYZ2daNlNvYkJ3ZWNjeDNTRm5HOUFtNW5nRjNYSVpaaGF0SF9xbjN6S1FpbVJ6MmFBYkdUeF9CMTZKRUdJT2RITmVSelAzWUJtTEIxQTN5Ry1YZEczX29iOHVuc0Q1bllidlBoN0VDNWVzYzZqU2RaNm5JRUctRDdsdGt2ZkEydWRVMV9wQUdHYw?oc=5",
-    "date": "2026-11-25T07:24:00Z",
-    "lang": "en",
-    "image": "",
-    "summary_pt": "Os houthis do Iêmen reivindicam ataque à maior refinaria da Arábia Saudita Reuters",
-    "title_pt": "Os houthis do Iêmen reivindicam o ataque à maior refinaria da Arábia Saudita"
-  },
-  {
     "title": "Europeans are turning to heat pumps ahead of a cold winter. But what do they cost to install?",
     "summary": "Almost one in three Europeans say they cannot afford the upfront cost of installing a heat pump.",
     "category": "Clima e desastres",
@@ -5228,20 +5830,6 @@
     "image": "https://images.euronews.com/articles/stories/10/00/65/31/696x392_cmsv2_8ba0c882-de52-5d7a-84e6-dc299f65e890-10006531.jpg",
     "title_pt": "Os europeus estão recorrendo às bombas de calor antes de um inverno frio. Mas quanto custa instalá-las?",
     "summary_pt": "Quase um em cada três europeus afirma que não pode arcar com o custo inicial da instalação de uma bomba de calor."
-  },
-  {
-    "title": "Australia passes law forcing internet platforms to take down harmful content",
-    "summary": "Australia passes law forcing internet platforms to take down harmful content Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcHZFR1FPbktZQ2RvV1h2UERSZUpBQksta2w2OGhBZVhmbWE2amZHMHRaWlFnczlYbXlvNHNNVURSMFhHVVI0czJYTlpjR0V3X29qaTdacHRRRy1tbFFQaU5DdF9tRXZkM1hDbVNfQndjcEs4d2NQMGtqXzRPMlJtUTVGN2JaSDA1dDZoOERLeEY4VUt5dlB6Yy0tdFk1Zk51MFBZSTVvekg0ZFA4cldFUng1RllGNUFzcGVlR1M2di1jc2Fs?oc=5",
-    "date": "2026-11-25T07:12:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Austrália aprova lei que obriga as plataformas de Internet a remover conteúdos prejudiciais",
-    "summary_pt": "Austrália aprova lei que obriga as plataformas de Internet a remover conteúdos prejudiciais Reuters"
   },
   {
     "title": "All hostages rescued after Colombian forces storm Cartagena supermarket",
@@ -5384,20 +5972,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/335f/live/2ba18d80-e74a-11f1-88dc-f746e0cde621.jpg",
     "title_pt": "Enorme ponta de mosca cresceu sem ser detectada ao longo de vários meses",
     "summary_pt": "O conselho afirma que a pilha de lixo de 20 toneladas foi despejada sobre as cercas do jardim."
-  },
-  {
-    "title": "EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show",
-    "summary": "EXCLUSIVE: Alice Huang-linked firms listed $270 million in AI servers in China, records show Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXNKWVJFdGJPenhtYnNFM2VnNnJGdUpjaUlfVDMycE9TWlVUOWJwNVNmU0dyMC1OUF90NzQ1TUZwdDlERUc0RENMRU44MVo2eGhsT1V3MTFpLXh0OTM3cW1hWkNZbGFzc3V5WVdFenoxTE5uZkZoaDNXdW41cmFzVThQZnVNYUR2N3hMcE1EeUQ4cGotR3FVYjJKV0FudldtekoyZUQ3b2NlNTUxWmNfODdPd3RHVlNZM2tsYWpwSFVjZGFY?oc=5",
-    "date": "2026-11-25T06:13:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "EXCLUSIVO: Empresas ligadas a Alice Huang registraram US$ 270 milhões em servidores de IA na China, segundo mostram os registros",
-    "summary_pt": "EXCLUSIVO: Empresas ligadas a Alice Huang listaram US$ 270 milhões em servidores de IA na China, mostram registros da Reuters"
   },
   {
     "title": "Asian women 'never heard' on health, says director",
@@ -5768,7 +6342,7 @@
   {
     "title": "US attorney general dodges questions about Nvidia investigation",
     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5792,20 +6366,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b78/live/6330c460-e889-11f1-a094-5fdc692f3e33.jpg",
     "title_pt": "Momento em que a missão espacial chinesa decola com o primeiro astronauta paquistanês a bordo",
     "summary_pt": "A China lançou sua missão espacial Shenzhou-24 para levar três astronautas à sua estação espacial Tiangong."
-  },
-  {
-    "title": "North Korea expels Swiss diplomat over sanctions weeks after office reopening",
-    "summary": "North Korea expels Swiss diplomat over sanctions weeks after office reopening Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNUNWNUd3TUtJYTY3OEc0TGI5U1NhNDdFREhNdzVxU3pnV2ZoaDgybzlaS0lvbVRXNWVxeG5uZFRRVEswT2s3V25GLWppMEJtLUZvSTJ3UVVVTE8tMUtGVFVSempYNmhyMmdjTXJGb0RGTFdMcVc0ZTJaUkVENC1tWk1Mbl9LYlBGZUYyRUJqejhCRXdyWGdhVVdxNnJjRTA1dlVmdUxHd0JOalNrWXBLQ2hGQktJalJjQmhqMkVBT1ZNWlFqa2xWeHFiMWdaRmZtRV9EYkNibTczZw?oc=5",
-    "date": "2026-11-25T03:19:00Z",
-    "lang": "en",
-    "image": "",
-    "summary_pt": "Coreia do Norte expulsa diplomata suíço por causa de sanções semanas após a reabertura do escritório Reuters",
-    "title_pt": "Coreia do Norte expulsa diplomata suíço por causa de sanções semanas após a reabertura do escritório"
   },
   {
     "title": "Sequestros, carro-bomba, ataques com drones e explosivos: o que está acontecendo na Colômbia",
@@ -5836,34 +6396,6 @@
     "summary_pt": "Markle, 82 anos, foi indiciado por um grande júri em Los Angeles e deverá ser processado nas próximas semanas, disseram os promotores."
   },
   {
-    "title": "Yemen's Houthis threaten to target Jeddah and other Saudi Red Sea ports",
-    "summary": "Yemen's Houthis threaten to target Jeddah and other Saudi Red Sea ports Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmE5cEFGWGFLVzVEUlVvWlE5NzJaT2p0MTUxclgxejJ2ZHJPbTQ5d1BLNzh6R2tFb251aWQ4dHBUTDRtaTlETkVick9uV1hKVkdZSjNPbFk5M2NBd1oxQXptdzAtLS1zVzlidDBDVXBmWFAyVnRzMGRmZHNGZVk4T3Y1aV9ycGZFcWxGejZ0T29BbG9EUks5QjZ0bzFVRG05YlVQemt4UDdDSEY5cUZrYzNsSU9VMGVX?oc=5",
-    "date": "2026-11-25T02:42:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Os houthis do Iêmen ameaçam atacar Jedá e outros portos sauditas no Mar Vermelho",
-    "summary_pt": "Os houthis do Iêmen ameaçam atacar Jidá e outros portos sauditas no Mar Vermelho Reuters"
-  },
-  {
-    "title": "Australian inflation heats up in October, core hits two-year high",
-    "summary": "Australian inflation heats up in October, core hits two-year high Reuters",
-    "category": "Economia",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHo3dUJCUmRaTEFNN1NHaGIwSzhUTF9RVGduN1RfVk4xWGlyblRLYWhCT0F3N3hMMFFJekJHZnFsNHpucEF4TnVuakZWdHVDbF9QbFV5NkViTzQ4VHFLWjdtN0diMUJsblFGMWdxYXRrZGdaODhFcmtGZVVLeXh5bVZJdXduUHAxb0prR2I0NGRmaW5xZ19vZ1dRczdGU0gwSGVtSENBZGpmMDRqOFljRUJPNHpRM3M?oc=5",
-    "date": "2026-11-25T02:21:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "A inflação australiana aquece em outubro, com o núcleo atingindo o nível mais alto em dois anos",
-    "summary_pt": "A inflação australiana aquece em outubro, o núcleo atinge a máxima de dois anos Reuters"
-  },
-  {
     "title": "Iran developing chemical weapons, Israeli defense minister says",
     "summary": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
     "category": "Geral",
@@ -5892,20 +6424,6 @@
     "summary_pt": "Darren Beattie, político de extrema direita nomeado para cargo de 'assessor sênior para a política em relação ao Brasil'. Divulgação/Departamento de Estado dos EUA Darren Beattie, assessor do presidente Donald Trump para temas relacionados ao Brasil, deixou o cargo que ocupava no Departamento de Estado dos Estados Unidos. A informação foi confirmada pelo gov"
   },
   {
-    "title": "Oil prices rise after Houthis claim attack on Saudi refinery",
-    "summary": "Oil prices rise after Houthis claim attack on Saudi refinery Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGl4Nzdfc01ReTB5TnAxUkVLTXlaRVFvbGM5aTZDOEtVUXlrVDQtMHJwcWh2WldoMnVyb0QxU1pEQUoyN09sNU1SZXR3NVUzdTZXeWpkdGNTZW95MUtmdjV3dWFxTEZsRW5WUlF1djVTTWZxUGVxcHhPNEptMnBEcmZ0MURhX0JxTDFqc19HblpWd2hLSEs5SXRYTXB6bzFwNzZqOUFTc1ZOM3ItVDFZWmM2a0R5YkxsdnlsMTZWQ1ZEUQ?oc=5",
-    "date": "2026-11-25T01:58:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Preços do petróleo sobem após os houthis reivindicarem ataque a refinaria saudita",
-    "summary_pt": "Preços do petróleo sobem após os houthis reivindicarem ataque a refinaria saudita Reuters"
-  },
-  {
     "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
     "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
     "category": "Geral",
@@ -5918,20 +6436,6 @@
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ff/live/1284fd50-e871-11f1-99a1-253766e7ad8b.jpg",
     "title_pt": "Mentiras, um disfarce e bolsas de prancha de surfe: como um policial ciumento de Sydney tentou encobrir um duplo homicídio",
     "summary_pt": "Na quarta-feira, Beau Lamarre foi considerado culpado pelo assassinato de seu ex-namorado Jesse Baird e do novo parceiro de Baird, Luke Davies."
-  },
-  {
-    "title": "World stocks tumble as Trump tariffs rattle markets, AI rally fades",
-    "summary": "World stocks tumble as Trump tariffs rattle markets, AI rally fades Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFVsTjFROGtER0loSkZOcnF2NDRLUWFmcjBHZ01ybE51N19idjFFMXI1dnFqZ21JYS1HVVpicTJ1V1RfVU4zd3pkVEZMWHdqMUJWRENOQWJ2VjFqT1Y3WS0xYTV3bzd2RnRraFhtOVpzVE9yYThzdV9tdWxJbUpjNzFraw?oc=5",
-    "date": "2026-11-25T01:50:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Ações mundiais despencam com as tarifas de Trump abalando os mercados e o rali da IA perdendo força",
-    "summary_pt": "Ações mundiais despencam enquanto as tarifas de Trump abalam os mercados e a alta da IA perde força Reuters"
   },
   {
     "title": "Thomas Markle charged in US for possessing child sex abuse images",
@@ -6006,20 +6510,6 @@
     "summary_pt": "A Ucrânia necessitará de 115 mil milhões de euros em financiamento externo no próximo ano para sustentar a sua economia e o esforço de guerra contra a Rússia, disse o presidente Volodymyr Zelensky na terça-feira, acrescentando que Kiev tinha garantido compromissos de cerca de 90 mil milhões de euros da União Europeia."
   },
   {
-    "title": "Dollar boosted by safety bid as stocks tumble",
-    "summary": "Dollar boosted by safety bid as stocks tumble Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUUFucHFRbGxzR3laOUhHVU5fQ215SV82VkdMcExqZy1DMmpLalE4RHkyUDgyaEVLQmhVQ3l1VFZXcUV2ZV9UQmlqX1p2X09UbjlfbzlTY1EwUld2Z2dFV0d3cTI0bDlUejkxbFRsczJ5Q2ZmdXVaTkNNTXNKLUZkYkxLVVhFejU1VjdVTXp4d3ctRmc2NWhDbFdJV1NDRTE4UFQzOGQ4eXI4bXdjLWJB?oc=5",
-    "date": "2026-11-25T01:19:00Z",
-    "lang": "en",
-    "image": "",
-    "summary_pt": "Dólar impulsionado pela busca por segurança enquanto as ações caem Reuters",
-    "title_pt": "Dólar impulsionado pela busca por segurança enquanto as ações caem"
-  },
-  {
     "title": "Will there be a white Christmas this year?",
     "summary": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?",
     "category": "Clima e desastres",
@@ -6036,7 +6526,7 @@
   {
     "title": "Trump's rescue of Nvidia's Huang brings political risks",
     "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6050,7 +6540,7 @@
   {
     "title": "The rising cost of putting food on the table in India",
     "summary": "India's food inflation is broadening, squeezing household budgets.",
-    "category": "Clima e desastres",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6118,20 +6608,6 @@
     "summary_pt": "O Allure of the Seas está em um cruzeiro de oito dias de Ação de Graças no Caribe que partiu de Miami no domingo."
   },
   {
-    "title": "Gold falls to more than one-year low after data shows US inflation rose further",
-    "summary": "Gold falls to more than one-year low after data shows US inflation rose further Reuters",
-    "category": "Economia",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1p3ZkduX2FrdGJhMEMtbmNXNTgxN05HeDFsX2xxNDBkWXZQVkFWS3NzNFpITzZ2RnRyYXVZQ1k5bmthekYzdG9aSDVxcGZGS1RxMnNTTHNRRkQyQWFoWm1zNXVfd2hVQW96VHQ1ZFd4eU04cXNTRWk0cFJ4LS1PLUd1eUFmN3Y4ZjJQbXZpVkd3UQ?oc=5",
-    "date": "2026-11-25T00:49:00Z",
-    "lang": "en",
-    "image": "",
-    "summary_pt": "O ouro cai para o menor nível em mais de um ano após dados mostrarem que a inflação dos EUA subiu ainda mais Reuters",
-    "title_pt": "O ouro cai para o nível mais baixo em mais de um ano após dados mostrarem que a inflação dos EUA subiu ainda mais"
-  },
-  {
     "title": "Trump Administration Pauses Joint Operations With Ecuador",
     "summary": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
     "category": "Geral",
@@ -6188,20 +6664,6 @@
     "summary_pt": "O presidente colombiano, Abelardo de la Espriella, disse que os homens eram \"criminosos comuns\" que fugiram para o supermercado após uma tentativa fracassada de assaltar um carro-forte."
   },
   {
-    "title": "Pakistani astronaut becomes first foreigner to board China's Tiangong space station",
-    "summary": "Pakistani astronaut becomes first foreigner to board China's Tiangong space station Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUNDa1I5NlZaa2hiOFJGSHJlOHkyU3QtMEl0S2lvbGNlTWhJdGd6TzA3TV9VV0p2azc3OUZWeU0zLWtZbjZ3dlc5SXAxSklBbmlOeU5GcFdhMzZWbnJPTExMWG9KcElUOUotS3BGMDJmS2xVVV95MjFiYzdFTEcwOE1DU0tRY1ZmTzFHQ2pvYmFQUVY4dmRCb2tERDZZZV9IMWpLUTA0NXFNYnlwMm1UaTJyaXE2bThCMDRza1JDZlg?oc=5",
-    "date": "2026-11-25T00:27:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Astronauta paquistanês se torna o primeiro estrangeiro a embarcar na estação espacial chinesa Tiangong",
-    "summary_pt": "Astronauta paquistanês se torna o primeiro estrangeiro a embarcar na estação espacial chinesa Tiangong Reuters"
-  },
-  {
     "title": "Hostages held in Colombia supermarket after botched robbery",
     "summary": "Gunmen in Colombia stormed into a supermarket on Tuesday, now holding around two dozen people hostage after what authorities said was a botched effort to rob an armored truck. Lilia Luciano reports.",
     "category": "Geral",
@@ -6214,20 +6676,6 @@
     "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/25/8f1587bf-cbfb-40fc-9e45-47f868e9f130/thumbnail/1200x630/3b228da8e0bacc13df4285645c0740d8/cbsn-fusion-hostages-held-colombia-supermarket-botched-robbery-thumbnail.jpg",
     "title_pt": "Reféns são detidos em supermercado na Colômbia após assalto fracassado",
     "summary_pt": "Homens armados na Colômbia invadiram um supermercado na terça-feira, mantendo agora cerca de duas dezenas de pessoas como reféns, após o que as autoridades consideraram uma tentativa fracassada de roubar um caminhão blindado. Lília Luciano relata."
-  },
-  {
-    "title": "Australia, Solomon Islands sign security pact in blow to China",
-    "summary": "Australia, Solomon Islands sign security pact in blow to China Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSG1oWFgtQ2pTYWVManFSTHhtZmk2UFl6VllsZFBkTWpHWUF0WGZ6LTNZaTZqTXJpeEhBWHVUallaaXhORWxVbmlaRUk0NkhPdEJXQ3puZHA4RFNIS01rdUVNS2MzdlcyalFTU0NNN2dUSFBuMy1rUmVDdWVFWlhTdGNpYVU2ZUc0bzRiZ0FWR3NiSG5hMEhF?oc=5",
-    "date": "2026-11-25T00:02:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Austrália e Ilhas Salomão assinam pacto de segurança em um golpe contra a China",
-    "summary_pt": "Austrália e Ilhas Salomão assinam pacto de segurança em um golpe contra a China Reuters"
   },
   {
     "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
@@ -6270,48 +6718,6 @@
     "image": "https://s2-g1.glbimg.com/z6DfRD9QRAiZqnVSrDor7Clyn0U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/F/2LETcpQKOSekRd23Q6bA/2026-11-24t230705z-1455226972-rc2muoa0i8mr-rtrmadp-3-usa-thanksgiving-travel.jpg",
     "title_pt": "Falha em radar afeta mais de 300 voos nos Estados Unidos",
     "summary_pt": "Governo dos EUA afirma que erro em substituição de cabos levou à paralisação em todos os aeroportos do país Uma falha em um sistema de radar em solo está provocando atrasos em voos nos Estados Unidos, nesta terça-feira (24). Cerca de 370 voos registraram atrasos. Desse total, 214 tinham Chicago como destino. ✅ Siga o canal de notícias internacionais do g1 no"
-  },
-  {
-    "title": "Salvadoran migrant Kilmar Abrego Garcia leaves US for Spain",
-    "summary": "Salvadoran migrant Kilmar Abrego Garcia leaves US for Spain Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObmstVGdVdGg5bDFyaTJ3MTRxdU1Pb1BhQVRrejJkNFgwMXdQNnRvWDg1VXZkMU0xWjd3dGlqcjRYQUF1TkRlSVFPQTRGMnlwM0hnbThjRE5ic2FtcVdnQmxuemJHQ1BjbDY1M2hsZWs3dHNmSWEzci1PSEkxRFd1M3V1eTRuYi1VWkRwLW4yUGdWMlpMd2I5bmFEd1pJWTI3VGxSZG5Ib3FnS01kbHRRSkhZeXdIMmV1ZDlRWGFOUl9Idm1wLVMw?oc=5",
-    "date": "2026-11-24T23:08:00Z",
-    "lang": "en",
-    "image": "",
-    "summary_pt": "O migrante salvadorenho Kilmar Abrego Garcia deixa os EUA rumo à Espanha Reuters",
-    "title_pt": "O migrante salvadorenho Kilmar Abrego Garcia deixa os Estados Unidos para ir para a Espanha"
-  },
-  {
-    "title": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says",
-    "summary": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5",
-    "date": "2026-11-24T22:55:43Z",
-    "lang": "en",
-    "image": "",
-    "summary_pt": "A CIA dos EUA e o ODNI sofrem uma violação de cibersegurança de algumas informações não classificadas, diz fonte à Reuters",
-    "title_pt": "A CIA dos EUA e o ODNI sofrem uma violação de cibersegurança envolvendo algumas informações não classificadas, diz uma fonte"
-  },
-  {
-    "title": "Belarus's Lukashenko proposes flying with Ukraine's Zelenskiy to Moscow for talks",
-    "summary": "Belarus's Lukashenko proposes flying with Ukraine's Zelenskiy to Moscow for talks Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVEyZlVjRXh4R2pLS0xqQnMzNGtuNld1VllkX0VPdzVGZkZQZG82TnY2NWpIcURrUEZSQnh4RjdjYWVUd21XN2FXMGFLcGp6WVNTX0c5V3FULVVxSEZMM2UweDZsOTJzdFpuWENrclhxb2Zhemp4MUlXU3hRVVAzalluQnNBUGJRTW1nX09XUExMUUxKUEtHbWR5SDJIdHNEYkpHTW03dU5xQjE1ZEFjTVZGQUM?oc=5",
-    "date": "2026-11-24T22:28:09Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Lukashenko, da Bielorrússia, propõe voar com Zelenski, da Ucrânia, para Moscou para negociações",
-    "summary_pt": "Lukashenko, da Bielorrússia, propõe voar com Zelensky, da Ucrânia, para Moscou para negociações Reuters"
   },
   {
     "title": "Imprensa iraniana divulga VÍDEO de suposto ataque a avião comercial no início da guerra",
@@ -6370,20 +6776,6 @@
     "summary_pt": "O procurador-geral Todd Blanche não diz se o Departamento de Justiça investigou Jensen Huang; aeroportos se preparam para a correria das viagens no Dia de Ação de Graças."
   },
   {
-    "title": "UK financial watchdog delivers AI warning as Meta launches adapted Muse",
-    "summary": "UK financial watchdog delivers AI warning as Meta launches adapted Muse Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3dIeGlGcm82OGVfY2ZzWWFXY3FWZ3RVTWFyZV95dlN2a1NWTWhiV19OX1A2OVBTNFI5dGF2dzVMQVhmNjdxa2taQkpHeUpJZnVxTlNZYmZPVFJXYkdxYTNzLTVxTHVfSVVOU1pNbFBUU3BMYzNCZ290d3RIN0RzbE8xekZxNGRBTVdYZlY5UlVpMnJFMFdSNlE5WkpENThvSlVCZjE3eXdMY0ZqUkNSYkxQeGxLMlVJZ19XaGg4NkVDcVU?oc=5",
-    "date": "2026-11-24T21:43:35Z",
-    "lang": "en",
-    "image": "",
-    "summary_pt": "Órgão de controle financeiro do Reino Unido emite alerta sobre IA enquanto a Meta lança o Muse adaptado Reuters",
-    "title_pt": "Órgão de controle financeiro do Reino Unido emite alerta sobre IA enquanto a Meta lança o Muse adaptado"
-  },
-  {
     "title": "Colombian police storm supermarket, freeing hostages and killing gunman",
     "summary": "Colombian police have stormed a supermarket and freed at least 20 people who were being held hostage, killing one of the gunmen.",
     "category": "Clima e desastres",
@@ -6396,20 +6788,6 @@
     "image": "https://e3.365dm.com/26/11/1920x1080/skynews-cartagena-colombia_7415717.jpg?20261124215325",
     "title_pt": "A polícia colombiana invade supermercado, libera reféns e mata atirador",
     "summary_pt": "A polícia colombiana invadiu um supermercado e libertou pelo menos 20 pessoas que estavam sendo mantidas como reféns, matando um dos atiradores."
-  },
-  {
-    "title": "UK warns of Russian sabotage threat to companies that supply Ukraine",
-    "summary": "UK warns of Russian sabotage threat to companies that supply Ukraine Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWthWEU2V2VxbjBhWTVtNE5wdC1LWFBYM24tVF92ekgyb25wMDRablR5eUJCQXFNUFVXU2NMYnkwWUlkWmpmNnhNaUhXZGdOSjUxeVItUzdING0xbDZZRENTTmFHdzJyWXZHM0NCbl91QU1DR3ZpMlpWNGYyVmVVV3dXM2RJSWMxUk1qckdVR18tSjJfbml3enVHUFpZcDBEaG5lSVlDQQ?oc=5",
-    "date": "2026-11-24T21:32:51Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Reino Unido alerta para a ameaça de sabotagem russa a empresas que fornecem à Ucrânia",
-    "summary_pt": "Reino Unido alerta para a ameaça de sabotagem russa a empresas que fornecem à Ucrânia Reuters"
   },
   {
     "title": "ONU aprova proposta do Brasil de turismo amigável para muçulmanos",
@@ -6482,20 +6860,6 @@
     "summary_pt": "Chinesa Huawei é condenada nos EUA Hannibal Hanschke/Reuters A chinesa Huawei foi condenada nesta terça-feira (24) em um amplo processo criminal nos Estados Unidos. A gigante de tecnologia e equipamentos de telecomunicações foi acusada de enganar bancos sobre seus negócios no Irã e roubar segredos comerciais de empresas americanas. Um júri federal do Brookly"
   },
   {
-    "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value",
-    "summary": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5",
-    "date": "2026-11-24T20:47:56Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Ações da Anthropic caem abaixo do preço de US$ 83 do IPO, a caminho de perder quase US$ 200 bilhões em valor",
-    "summary_pt": "Ações da Anthropic caem abaixo do preço de US$ 83 do IPO, a caminho de perder quase US$ 200 bilhões em valor Reuters"
-  },
-  {
     "title": "Assembleias imitam Congresso e ampliam controle parlamentar sobre verbas públicas",
     "summary": "Às vésperas de o STF definir limites às emendas estaduais, 24 Unidades da Federação já adotam a impositividade do pagamento. Outras discutem criar o mecanismo ou ampliar a fatia de recursos sob controle dos deputados.",
     "category": "Geral",
@@ -6510,34 +6874,6 @@
     "summary_pt": "Às vésperas de o STF definir limites às emendas estaduais, 24 Unidades da Federação já adotam a impositividade do pagamento. Outras discutem criar o mecanismo ou ampliar a fatia de recursos sob controle dos deputados."
   },
   {
-    "title": "Senegal reinstated as 2025 African champions, Morocco to contest decision",
-    "summary": "Senegal reinstated as 2025 African champions, Morocco to contest decision Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUdqbXBTdHQ0bnlyVkl2dnlMRUowVE96a0R5c1BqbEZiN0UyMXNNSDhnWkhvdFJHOGwxVDlVakJKRGZXMTNRRnNVRHZuai14a1JiUkRFWm1YbVJBTGdrSkFrMEZ5ZGp6QWd2ZTNDV0JIY1A4aExxTFVOWHFuRlh1MWY3bVBwd3NUUWVyU3hOcWQtenJSWjBjYVJEam5QS0hLZ0drZXZXczlRTnM?oc=5",
-    "date": "2026-11-24T20:42:43Z",
-    "lang": "en",
-    "image": "",
-    "summary_pt": "Senegal é reintegrado como campeão africano de 2025, Marrocos vai contestar a decisão Reuters",
-    "title_pt": "Senegal é reintegrado como campeão africano de 2025, Marrocos vai contestar a decisão"
-  },
-  {
-    "title": "Houthis hit Riyadh's tallest tower, 11 wounded, Saudi Civil defense says",
-    "summary": "Houthis hit Riyadh's tallest tower, 11 wounded, Saudi Civil defense says Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT2lRbHFjYmphSTFEMlhhRmVYd0dzWklmWmxFZFhMVG41LTJWdEZpNW9oYU5JUy1NS1ZORl80Wml6clJ6UnJOenN2TDBjSUpDbHRlVTdWNWpkdXZGejZwdTM4U1J3UWZyYnUzMzhMSGRKZWFwdjZUSFVLdTlRSWlMVVFtQ05kUDlQVGtEY1FXTHRXQmVfSmgzSndIWGxqZ2NRWXM4WjluTTgyallieG9JOXdISmlacFRUUDFiOUplaUZmNC1vUkJLSzZn?oc=5",
-    "date": "2026-11-24T20:42:15Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Houthis atingem a torre mais alta de Riade, deixando 11 feridos, segundo a Defesa Civil da Arábia Saudita",
-    "summary_pt": "Houthis atingem a torre mais alta de Riade, deixando 11 feridos, diz a Defesa Civil saudita à Reuters"
-  },
-  {
     "title": "Russian nuclear satellites plan 'foolhardy', expert says",
     "summary": "NATO chief Mark Rutte said Monday the alliance would defend against threats in space when asked about German media reports that Russia may be preparing to launch a nuclear-armed satellite. Speaking to FRANCE 24, Dafydd Townley, Senior Teaching Fellow in International Security at the University of Portsmouth, says that the alleged plan would be \"foolhardy bec",
     "category": "Geral",
@@ -6550,20 +6886,6 @@
     "image": "https://s.france24.com/media/display/ab32d036-e844-11f1-af20-81da3ab2acbb/w:1024/p:16x9/EN-20261124-210517-211328-CS.jpg",
     "title_pt": "Plano de satélites nucleares russos é 'imprudente', diz especialista",
     "summary_pt": "O chefe da OTAN, Mark Rutte, disse na segunda-feira que a aliança se defenderia contra ameaças no espaço quando questionado sobre relatos da mídia alemã de que a Rússia poderia estar se preparando para lançar um satélite com armas nucleares. Falando ao FRANCE 24, Dafydd Townley, Professor Sênior em Segurança Internacional na Universidade de Portsmouth, disse que o suposto plano seria \"imprudente porque"
-  },
-  {
-    "title": "China's Huawei convicted in sprawling US criminal trial over Iran business",
-    "summary": "China's Huawei convicted in sprawling US criminal trial over Iran business Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
-    "date": "2026-11-24T20:16:00Z",
-    "lang": "en",
-    "image": "",
-    "summary_pt": "Huawei da China condenada em extenso julgamento criminal nos EUA por negócios com o Irã Reuters",
-    "title_pt": "A Huawei da China foi condenada em um extenso julgamento criminal nos EUA relacionado a negócios no Irã"
   },
   {
     "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
@@ -6636,20 +6958,6 @@
     "summary_pt": "Selo da Agência Central de Inteligência (CIA, na sigla em inglês) dos Estados Unidos Associated Press A Agência Central de Inteligência (CIA, na sigla em inglês) e o Escritório do Diretor de Inteligência Nacional dos Estados Unidos identificaram uma invasão cibernética que expôs informações não sigilosas dos órgãos, segundo o jornal americano \"The New York T"
   },
   {
-    "title": "Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation",
-    "summary": "Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpVNVoyQi1td29TalNHby02a0tSU1ZBMng2Y1BTemxZWkExU2VPLXdTeUpURUtrd1BremtnTG53eDhzeXlwMndrRWdNa1dDTVE5VExXLVpBY251X205UVhSU28xeDc2bjBfMFBiYU5ubGN6NU5YdTJlX1J5amtqaVNEX0VKb1dzaWhqaGNNazZXTkVpOWVBOVFQZXBlX0U1dGx3d1ZBdFptaXZJQmNuc2pFUTRncG9oRndTZTU2WUFIdDhqLUE?oc=5",
-    "date": "2026-11-24T19:41:02Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Putin diz que a Ucrânia ataca refinarias de petróleo russas apesar dos pedidos de Trump e promete retaliação",
-    "summary_pt": "Putin diz que a Ucrânia ataca refinarias de petróleo russas apesar dos pedidos de Trump e promete retaliação Reuters"
-  },
-  {
     "title": "Russian losses on Ukrainian front top 700,000 including missing",
     "summary": "New analysis of leaked Russian government data suggests more than 700,000 Russian soldiers have died in the war against Ukraine. Independent Russian media outlets have updated their estimates of Moscow's military casualties, including soldiers missing on the frontline, after Belarusian and Ukrainian hackers obtained figures from the Russian statistics agency",
     "category": "Geral",
@@ -6678,20 +6986,6 @@
     "summary_pt": "As pessoas ficaram feridas no ataque a um prédio em Riade, disseram as autoridades sauditas. A milícia apoiada pelo Irã e a Arábia Saudita vêm trocando ataques cada vez mais intensos há semanas."
   },
   {
-    "title": "Roche expects approved cancer pill to become its best-selling drug",
-    "summary": "Roche expects approved cancer pill to become its best-selling drug Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ0ZIVTBMSV9JZVhObUNuZ09CNXMwd0lHb083NUNCRmNzdWtDcTRTUVlsZjhLbUZPMm1KR0FQN0VoRW1MQUtWcUxEWllKeWU1TDdaNmlsdk95UE9oUGxOdEU0TXFpSmdXWGxuRHhOSVNidzVJbnNkNFRzTzBBblRqdkh0WU5Ra1kxa3dQRUdjMlZxWU1mVloyZnUyQ1FQLWlyNDZCeThPUk1oTER2dEtfd3RjYmhvRVk?oc=5",
-    "date": "2026-11-24T19:17:27Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "A Roche espera que o comprimido contra o câncer aprovado se torne seu medicamento mais vendido",
-    "summary_pt": "A Roche espera que o comprimido contra o câncer aprovado se torne seu medicamento mais vendido Reuters"
-  },
-  {
     "title": "Em meio a impasse eleitoral, Israel acusa Irã de desenvolver armas químicas",
     "summary": "Membros da milícia iraniana Basij participam de desfile militar em Teerã, no Irã, em 18 de setembro de 2026. Majid Asgaripour/Wana via REUTERS O ministro da Defesa de Israel, Israel Katz, afirmou nesta terça-feira (24) que o Irã está desenvolvendo armas químicas e prometeu impedir que Teerã alcance esse objetivo. \"O Irã está em processo de desenvolvimento de",
     "category": "Geral",
@@ -6706,20 +7000,6 @@
     "summary_pt": "Membros da milícia iraniana Basij participam de desfile militar em Teerã, no Irã, em 18 de setembro de 2026. Majid Asgaripour/Wana via REUTERS O ministro da Defesa de Israel, Israel Katz, afirmou nesta terça-feira (24) que o Irã está desenvolvendo armas químicas e prometeu impedir que Teerã alcance esse objetivo. \"O Irã está em processo de desenvolvimento de"
   },
   {
-    "title": "Schumer accuses Nvidia CEO of violating US export control law",
-    "summary": "Schumer accuses Nvidia CEO of violating US export control law Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWkIyNDFsT2dsN05tM0U4NFZjRU9IZG1Bemx1b2hqOXFneHV3bDBnY0gzc3drRkxjY0JqWVdPTW8xR29QUy1wczZRM0FaemMzMEk3X2I5Wlp5elVhS0dTb2tIMFJ3VlZ3a0dNelRZYWFpeVA0THA3UDkwMGVtd1BZMENTbEZ6alRuR3pnNnI0TGdMWjZ3VVBmb2lDZHd4ckJwVzJRTk1veERGQQ?oc=5",
-    "date": "2026-11-24T18:46:00Z",
-    "lang": "en",
-    "image": "",
-    "summary_pt": "Schumer acusa o CEO da Nvidia de violar a lei de controle de exportações dos EUA Reuters",
-    "title_pt": "Schumer acusa o CEO da Nvidia de violar a lei de controle de exportações dos EUA"
-  },
-  {
     "title": "Expectativa de vida em Cuba cai pela 1ª vez em quase 80 anos, alerta OMS",
     "summary": "Muitos exilados cubanos nos EUA desejam a queda do regime em Cuba para poder voltar ao país Carl Juste/Miami Herald/ZUMA/picture alliance A expectativa de vida diminuiu pela primeira vez em quase 80 anos em Cuba, com uma queda superior a quatro anos entre 2020 e 2025, informou nesta terça-feira (24) o diretor-geral da Organização Mundial da Saúde (OMS), Tedr",
     "category": "Geral",
@@ -6732,285 +7012,5 @@
     "image": "https://s2-g1.glbimg.com/M8rkDgqWRCWyH12qIlePJSwOP7Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/h/cjZAMSQ3uy4AAdCSb0JQ/fotojet-2026-11-24t165138.555.jpg",
     "title_pt": "Expectativa de vida em Cuba cai pela 1ª vez em quase 80 anos, alerta OMS",
     "summary_pt": "Muitos exilados cubanos nos EUA desejam a queda do regime em Cuba para poder voltar ao país Carl Juste/Miami Herald/ZUMA/picture alliance A expectativa de vida diminuiu pela primeira vez em quase 80 anos em Cuba, com uma queda superior a quatro anos entre 2020 e 2025, informou nesta terça-feira (24) o diretor-geral da Organização Mundial da Saúde (OMS), Tedr"
-  },
-  {
-    "title": "Top Denmark court upholds \"non-Western\" evictions law",
-    "summary": "Denmark's Supreme Court has upheld a law that lets authorities limit the number of \"non-Western\" residents who can live in a public housing development.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/news/denmark-court-upholds-law-eviction-non-western-residents/",
-    "date": "2026-11-24T18:36:03Z",
-    "lang": "en",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/98c8fa26-84ca-45c4-b839-b56871e2830b/thumbnail/1200x630g8/43dd2d53fe05bf5c8f7c087bbd92b892/gettyimages-2293103335.jpg",
-    "title_pt": "O principal tribunal da Dinamarca mantém a lei de despejos de pessoas \"não ocidentais\"",
-    "summary_pt": "O Supremo Tribunal da Dinamarca confirmou uma lei que permite que as autoridades limitem o número de residentes \"não ocidentais\" que podem morar em um conjunto habitacional público."
-  },
-  {
-    "title": "Five Turkish soldiers killed in helicopter crash, ministry says",
-    "summary": "Five Turkish soldiers killed in helicopter crash, ministry says Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNajhSeXVaY0VYd21jZUY5Vk40RWF6bC1DSFVzZVpucUxKTXVncGxudHNqdG96enFzVC1XWVNLYmJyUVA2TEdvd1JPZkNhbVdZV0laUXV6RmcwSzBuODV4Qkh4SWVjeU9ncnpHYndhM2t4LXlRRGtZcS1qWTY2YWQ4T0c3MWQtQm9BbHVVV3JKS2RubmlGSlNMYW5jQzczSjBPRnJwV2IzdEEtaS0ySWNsaWZSYw?oc=5",
-    "date": "2026-11-24T18:35:06Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Cinco soldados turcos morreram em acidente de helicóptero, diz ministério",
-    "summary_pt": "Cinco soldados turcos morreram em acidente de helicóptero, diz o Ministério à Reuters"
-  },
-  {
-    "title": "Zelenskiy confirms Ukraine hit Russian ship in Gulf of Finland, ally Norway urges caution",
-    "summary": "Zelenskiy confirms Ukraine hit Russian ship in Gulf of Finland, ally Norway urges caution Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2ZZQnd0c3JtbHl5NFozeGhRRUotLUVZODlvQTVHT2ZmdVBoQ2lnanJyNVFkM0RaSXdCT3BncnMtRVdLdjM4UTVpS2JZeHNwbWlKSnhoZ0NQcmd3N1Mtd2hZaGxkZDBoUW80TXpVMHVtS0ctNmlWTE5nYlZXZXpqb2kxcW85VzRCTlFEWGprbTlhYnFpUFhiN3RzYW5MQU9GcTR2NVd6SHhSRTN3VWV2bjktWHRkdnY0djdRdlJXRG5VUEU?oc=5",
-    "date": "2026-11-24T18:25:57Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Zelensky confirma que a Ucrânia atingiu um navio russo no Golfo da Finlândia, e a Noruega, aliada, pede cautela",
-    "summary_pt": "Zelensky confirma que a Ucrânia atingiu um navio russo no Golfo da Finlândia, e a Noruega, aliada, pede cautela Reuters"
-  },
-  {
-    "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
-    "summary": "Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
-    "date": "2026-11-24T18:25:38Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-istanbul-lion-bmfp/24int-istanbul-lion-bmfp-mediumSquareAt3X.jpg",
-    "title_pt": "Um leão solto perto de Istambul? Calma aí.",
-    "summary_pt": "Imagens de vigilância desfocadas desencadearam uma busca frenética — até que as autoridades turcas disseram que não estava claro se o animal era o felino."
-  },
-  {
-    "title": "Norway and Ukraine to expand cooperation on anti-drone system",
-    "summary": "Norway and Ukraine to expand cooperation on anti-drone system Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0w0bVB4MWpUWktoS2g4OFVXREdpVnNUVHZFbmFiUXl2M3VPVnphMmJicjNNbDduSWFkcHUxS2VSMWN3dkRJS1ZndjY2MlhsaHRrVk9ubFBwS1Y0VEFQMWpnS3MxVzJfT1hvZzZXSUNiQ2dVZE5SbDVyX3ltQ1dBcnVmN2dveUtYTGtIM0twVWN0TEkxZllNdGc1RENqaVMzSkE?oc=5",
-    "date": "2026-11-24T18:21:33Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Noruega e Ucrânia vão ampliar a cooperação em sistemas antidrones",
-    "summary_pt": "Noruega e Ucrânia vão ampliar a cooperação em sistemas antidrones Reuters"
-  },
-  {
-    "title": "At least 24 injured after car bomb detonates in central Colombia",
-    "summary": "Colombian President Abelardo de la Espriella arrived in Villavicencio at around 9 am local time on Tuesday as he prepared to hold a security meeting and visit the scene of the blast.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "EU",
-    "source": "Euronews",
-    "url": "https://www.euronews.com/2026/11/24/at-least-24-injured-after-car-bomb-detonates-in-central-colombia",
-    "date": "2026-11-24T18:04:08Z",
-    "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/10/00/64/53/696x392_cmsv2_64743d68-1f1a-5b7a-a0ac-c8389c16d242-10006453.jpg",
-    "title_pt": "Pelo menos 24 feridos após explosão de carro-bomba no centro da Colômbia",
-    "summary_pt": "O presidente colombiano, Abelardo de la Espriella, chegou a Villavicencio por volta das 9h, horário local, na terça-feira, enquanto se preparava para realizar uma reunião de segurança e visitar o local da explosão."
-  },
-  {
-    "title": "Israel attempts to jail Palestinian student at Hebrew University without trial",
-    "summary": "Mahdi Tounsi appeared to have suffered maltreatment at hearing where he was not allowed to hear prosecution case against him Palestinian student Mahdi Tounsi appeared in a closed-door court hearing in Jerusalem, as academics and activists warned that Israel’s attempt to jail him without trial marked a serious escalation in attacks on Palestinian rights. Yael",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/world/2026/nov/24/israel-jail-palestinian-student-mahdi-tounsi-hebrew-university-without-trial",
-    "date": "2026-11-24T18:02:53Z",
-    "lang": "en",
-    "image": "https://i.guim.co.uk/img/media/2a24051caa6582ebbeefad68e096f0b41c2ba64b/797_21_3886_3109/master/3886.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=905b4b8a2541eca156995f56534d7734",
-    "title_pt": "Israel tenta prender estudante palestino da Universidade Hebraica sem julgamento",
-    "summary_pt": "Mahdi Tounsi pareceu ter sofrido maus-tratos em uma audiência em que não lhe foi permitido ouvir os argumentos da acusação contra ele. O estudante palestino Mahdi Tounsi compareceu a uma audiência judicial a portas fechadas em Jerusalém, enquanto acadêmicos e ativistas alertaram que a tentativa de Israel de prendê-lo sem julgamento representava uma grave escalada nos ataques aos direitos dos palestinos. Yael"
-  },
-  {
-    "title": "Thomas Markle formally charged over child sexual abuse material",
-    "summary": "Thomas Markle has been formally charged on two counts of possessing child sexual abuse material in Los Angeles.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GB",
-    "source": "Sky News",
-    "url": "https://news.sky.com/story/thomas-markle-formally-charged-in-us-over-possessing-child-sexual-abuse-material-13616074",
-    "date": "2026-11-24T17:43:00Z",
-    "lang": "en",
-    "image": "https://e3.365dm.com/26/11/1920x1080/skynews-thomas-markle-us_7411020.jpg?20261119231423",
-    "summary_pt": "Thomas Markle foi formalmente acusado de dois crimes de posse de material de abuso sexual infantil em Los Angeles.",
-    "title_pt": "Thomas Markle foi formalmente acusado por material de abuso sexual infantil"
-  },
-  {
-    "title": "Iranian women praise singer lashed for not wearing a hijab",
-    "summary": "Parastoo Ahmadi was lashed 74 times for the crime of \"outraging public decency\" after she livestreamed a concert without her hair covered.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/news/iran-singer-parastoo-ahmadi-lashed-performing-no-hijab/",
-    "date": "2026-11-24T17:40:00Z",
-    "lang": "en",
-    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/7803affd-9480-4381-a3ff-6d3d18b573e4/thumbnail/1200x630/cdf4f61b8d84b306ae5bc32f144c5fc0/screenshot-2026-11-24-at-16-58-25.png",
-    "title_pt": "Mulheres iranianas elogiam cantora açoitada por não usar hijab",
-    "summary_pt": "Parastoo Ahmadi foi chicoteada 74 vezes pelo crime de \"ofender a decência pública\" depois de transmitir ao vivo um show sem cobrir o cabelo."
-  },
-  {
-    "title": "Austrália quer multar big techs em até 5% do faturamento global por conteúdos nocivos",
-    "summary": "Austrália propõe permitir que usuários 'desliguem' algoritmo das redes sociais A Austrália quer aumentar as punições para empresas de tecnologia que não impeçam a circulação de conteúdos prejudiciais em suas plataformas. Pelo projeto de lei, gigantes como Google e Meta poderão ser multadas em até 5% de sua receita global caso não removam conteúdos nocivos ou",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "G1 Mundo",
-    "url": "https://g1.globo.com/tecnologia/noticia/2026/11/24/australia-google-meta.ghtml",
-    "date": "2026-11-24T17:36:10Z",
-    "lang": "pt",
-    "image": "https://s2-g1.glbimg.com/NXLM7ZLk7RKZkS9q1EtjOC4q8lU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/N/o/pt9rYuQA2TI0w3moaIjg/fotojet-15-.jpg",
-    "title_pt": "Austrália quer multar big techs em até 5% do faturamento global por conteúdos nocivos",
-    "summary_pt": "Austrália propõe permitir que usuários 'desliguem' algoritmo das redes sociais A Austrália quer aumentar as punições para empresas de tecnologia que não impeçam a circulação de conteúdos prejudiciais em suas plataformas. Pelo projeto de lei, gigantes como Google e Meta poderão ser multadas em até 5% de sua receita global caso não removam conteúdos nocivos ou"
-  },
-  {
-    "title": "Spacecraft enters Mercury's orbit after 8-year journey despite glitch",
-    "summary": "BepiColombo was launched as a joint mission between the European Space Agency and the Japan Aerospace Exploration Agency in October 2018.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/news/bepicolombo-enters-mercury-orbit-despite-glitch/",
-    "date": "2026-11-24T17:34:32Z",
-    "lang": "en",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/6abaf5b5-dc2e-4e6d-a21b-0fc0ba0f662b/thumbnail/1200x630/a27062d67b0841cf01e2b3aaf5bf3386/bepicolombo-mercury-orbit-insertion-010-media-9a2dd926-query2x-fff47336.jpg",
-    "title_pt": "Nave espacial entra na órbita de Mercúrio após uma viagem de 8 anos, apesar de um problema técnico",
-    "summary_pt": "A BepiColombo foi lançada como uma missão conjunta entre a Agência Espacial Europeia e a Agência Japonesa de Exploração Aeroespacial em outubro de 2018."
-  },
-  {
-    "title": "Russia's war on Ukraine: 'Both sides are prepared to operate outside of the conflict zone'",
-    "summary": "Charli James is pleased to welcome Gavin Hall, Teaching Fellow in Political Science, and International Security at the University of Strathclyde. Hall examines recent Russian and Ukrainian operations beyond the main conflict zone, the conditions necessary for a negotiated settlement and the implications of diminishing direct US military support for Ukraine. ",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "FR",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/russia-s-war-on-ukraine-both-sides-are-prepared-to-operate-outside-of-the-conflict-zone",
-    "date": "2026-11-24T17:26:47Z",
-    "lang": "en",
-    "image": "https://s.france24.com/media/display/7262fe1c-e820-11f1-9829-95e072ff0a91/w:1024/p:16x9/EN-20261124-130504-131126-CS.jpg",
-    "title_pt": "Guerra da Rússia contra a Ucrânia: \"Ambos os lados estão preparados para operar fora da zona de conflito\"",
-    "summary_pt": "Charli James tem o prazer de receber Gavin Hall, professor de Ciência Política e Segurança Internacional na Universidade de Strathclyde. Hall analisa as recentes operações russas e ucranianas fora da principal zona de conflito, as condições necessárias para uma solução negociada e as implicações da redução do apoio militar direto dos EUA à Ucrânia."
-  },
-  {
-    "title": "US consumer confidence jumps to highest level in nearly two years",
-    "summary": "US consumer confidence jumps to highest level in nearly two years Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSlNZMXlsT1hncHloZ0owYU5ZTlZmbFVsTlFtSFRNdGNhTVFia0RMVGVEeE4wbHVYalhxWkl1WkdJNzRGajN4cVN2N2N6YU1Kc3N0dWo3RGVRQXBpel9sSUNFNDVRMDYyeHhHczQ0RkVNbnF5d3pBMTAzTVQ3WjZ1cVFvSWZEcnpSSWR1cDl5MElSNm54ek9UbER6ZE51Q1BTT28tR25Ya3A?oc=5",
-    "date": "2026-11-24T17:25:47Z",
-    "lang": "en",
-    "image": "",
-    "summary_pt": "A confiança do consumidor dos EUA sobe para o nível mais alto em quase dois anos Reuters",
-    "title_pt": "A confiança do consumidor dos EUA sobe para o nível mais alto em quase dois anos"
-  },
-  {
-    "title": "Criminosos fazem 20 reféns em destino turístico na Colômbia; vídeo mostra homens fortemente armados",
-    "summary": "Sequestradores fazem reféns em supermercado em Cartagena, na Colômbia Dois criminosos fazem 20 pessoas reféns nesta terça-feira (24) em um supermercado na cidade turística de Cartagena, na Colômbia. Outras 10 já foram libertadas. Mais cedo, mulheres idosas e um homem também foi liberado em meio às negociações da polícia com os bandidos. Não há nenhum ferido,",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "G1 Mundo",
-    "url": "https://g1.globo.com/mundo/noticia/2026/11/24/assaltantes-fazem-varios-refens-em-supermercado-em-cartagena-na-colombia.ghtml",
-    "date": "2026-11-24T17:13:26Z",
-    "lang": "pt",
-    "image": "https://s2-g1.glbimg.com/y3zzYcnkHSumUO_S1pov4F9STfM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/6/Blnpj8S5GVAwY2zdzRVA/2026-11-24t165936z-505671828-rc25uoaxizzj-rtrmadp-3-colombia-hostages.jpg",
-    "title_pt": "Criminosos fazem 20 reféns em destino turístico na Colômbia; vídeo mostra homens fortemente armados",
-    "summary_pt": "Sequestradores fazem reféns em supermercado em Cartagena, na Colômbia Dois criminosos fazem 20 pessoas reféns nesta terça-feira (24) em um supermercado na cidade turística de Cartagena, na Colômbia. Outras 10 já foram libertadas. Mais cedo, mulheres idosas e um homem também foi liberado em meio às negociações da polícia com os bandidos. Não há nenhum ferido,"
-  },
-  {
-    "title": "Wendy’s hit with US class action over menu pricing",
-    "summary": "Wendy’s hit with US class action over menu pricing Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWVEX1kzZFZYMFh6LVk4ZElSR192ZDE4NXBjX2xDd1NLdGdHUl82c0VzajVTajlLYUdZaWtiSFlQNU1ZR1FMeTJJdXFXdldObW5sTHhvQWU0Qm1EVk80QTJlU2tHeTRWbWc1OTVOczNzT05OeWtxUDBBZlp2TTRpSFNzVGtSUXV2NTg3RlcyUGZJMF9rUTZFbzNR?oc=5",
-    "date": "2026-11-24T17:09:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Wendy's é alvo de ação coletiva nos EUA por causa dos preços do cardápio",
-    "summary_pt": "Wendy's é alvo de ação coletiva nos EUA por causa dos preços do cardápio Reuters"
-  },
-  {
-    "title": "Indonesia names former police chief as treason suspect in presidential wiretapping case",
-    "summary": "An investigation into alleged surveillance of Indonesia’s president has widened into a treason case against senior police figures. It has already led to dismissals and parliamentary scrutiny, with police alleging a plot to undermine Prabowo’s government.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "EU",
-    "source": "Euronews",
-    "url": "https://www.euronews.com/2026/11/24/indonesia-names-former-police-chief-as-treason-suspect-in-presidential-wiretapping-case",
-    "date": "2026-11-24T17:07:59Z",
-    "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/10/00/63/86/696x392_cmsv2_ba3b94cf-0b02-529a-bfdd-c801c68bb6c6-10006386.jpg",
-    "title_pt": "Indonésia acusa ex-chefe de polícia de traição no caso de escutas telefônicas presidenciais",
-    "summary_pt": "Uma investigação sobre a suposta vigilância do presidente da Indonésia se ampliou e se tornou um caso de traição contra altos funcionários da polícia. Ela já levou a demissões e a um escrutínio parlamentar, com a polícia alegando a existência de um plano para minar o governo de Prabowo."
-  },
-  {
-    "title": "Milei não está na lista de convidados para a posse de Lula; jornal argentino diz que foi desconvidado",
-    "summary": "Presidentes Javier Milei, da Argentina, e Lula, do Brasil REUTERS/Tierney L. Cross e REUTERS/Diego Vara O presidente da Argentina, Javier Milei, foi desconvidado para a posse de Lula, afirmou nesta terça-feira (24) o jornal argentino \"Clarín\". O presidente brasileiro assumirá em janeiro seu 4º mandato presidencial. ✅ Siga o canal de notícias internacionais d",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "G1 Mundo",
-    "url": "https://g1.globo.com/mundo/noticia/2026/11/24/milei-desconvidado-posse-lula-diz-jornal.ghtml",
-    "date": "2026-11-24T17:02:51Z",
-    "lang": "pt",
-    "image": "https://s2-g1.glbimg.com/8PlRtUOVnSuoKKEeHyaoBWpCz6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/u/IjgCZsQvmhQNWBRfOVjw/fotojet-4-.jpg",
-    "title_pt": "Milei não está na lista de convidados para a posse de Lula; jornal argentino diz que foi desconvidado",
-    "summary_pt": "Presidentes Javier Milei, da Argentina, e Lula, do Brasil REUTERS/Tierney L. Cross e REUTERS/Diego Vara O presidente da Argentina, Javier Milei, foi desconvidado para a posse de Lula, afirmou nesta terça-feira (24) o jornal argentino \"Clarín\". O presidente brasileiro assumirá em janeiro seu 4º mandato presidencial. ✅ Siga o canal de notícias internacionais d"
-  },
-  {
-    "title": "Latest news bulletin | November 24th, 2026 – Evening",
-    "summary": "Catch up with the most important stories from around Europe and beyond this November 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "EU",
-    "source": "Euronews",
-    "url": "https://www.euronews.com/video/2026/11/24/latest-news-bulletin-november-24th-2026-evening",
-    "date": "2026-11-24T17:00:26Z",
-    "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/10/00/66/69/696x392_cmsv2_75a01a01-da8a-5f22-9ffb-00ee09c191e3-10006669.jpg",
-    "title_pt": "Último boletim de notícias | 24 de novembro de 2026 – Noite",
-    "summary_pt": "Fique por dentro das notícias mais importantes da Europa e de outras partes do mundo neste dia 24 de novembro de 2026: notícias de última hora, notícias internacionais, negócios, entretenimento, política, cultura, viagens."
-  },
-  {
-    "title": "Colombian security forces rescue hostages in supermarket siege",
-    "summary": "Colombian security forces rescue hostages in supermarket siege Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUklaemoxV1Blc3lnelpxZHVwbmdXYUZBVHg2M1dBUzhwcU1PNVp2STNsbWlQMU5POEpHNmFabWtzNjMyTGRwR3dVRURmbDJITXdKZHJsbGdQVkQwZ1d1dmM3cVc3RGZsUGxGbDVmeDVRQVJMZ0c2b3ZNcTdyQ08ycHlSMlNnT3dYMUJzWXZ1VXh0LWJBdkFpeDF5TjRyMk40Y0FHZDdaSWoxQjFIUGNEYlJQWEZKZl9BQ04tTnl1WXl1cElH?oc=5",
-    "date": "2026-11-24T16:59:00Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Forças de segurança colombianas resgatam reféns em cerco a supermercado",
-    "summary_pt": "Forças de segurança colombianas resgatam reféns em cerco a supermercado Reuters"
-  },
-  {
-    "title": "Deputado democrata amplia investigação sobre fundo de investimentos de Donald Trump Jr.",
-    "summary": "Donald Trump Jr. fala durante um evento de campanha em 29 de outubro de 2026 Rebecca Blackwell/AP, arquivo Um dos principais parlamentares democratas da Câmara dos Representantes dos Estados Unidos está ampliando sua investigação sobre a empresa de capital de risco 1789 Capital, de Donald Trump Jr., ao exigir documentos de quatro companhias que receberam inv",
-    "category": "Geral",
-    "region": "Global",
-    "country": "BR",
-    "source": "G1 Mundo",
-    "url": "https://g1.globo.com/mundo/noticia/2026/11/24/deputado-democrata-amplia-investigacao-sobre-fundo-de-investimentos-de-donald-trump-jr.ghtml",
-    "date": "2026-11-24T16:57:08Z",
-    "lang": "pt",
-    "image": "https://s2-g1.glbimg.com/1HHROZL8rk6SCQciG1I1ZgrJwhE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/x/K2tzx2QpWfxDPFkGgkBQ/ap26327807550168.jpg",
-    "title_pt": "Deputado democrata amplia investigação sobre fundo de investimentos de Donald Trump Jr.",
-    "summary_pt": "Donald Trump Jr. fala durante um evento de campanha em 29 de outubro de 2026 Rebecca Blackwell/AP, arquivo Um dos principais parlamentares democratas da Câmara dos Representantes dos Estados Unidos está ampliando sua investigação sobre a empresa de capital de risco 1789 Capital, de Donald Trump Jr., ao exigir documentos de quatro companhias que receberam inv"
   }
 ]
