@@ -1,8 +1,8 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T19:54:14.650369Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T19:59:59.943355Z",
+  "status": "checado",
   "items": [
     {
       "title": "À frente do BCE, um trio recém-nomeado para proteger a Europa da inflação… e talvez a França de um ataque aos mercados",
@@ -31,16 +31,29 @@
       "selection": "automatic"
     },
     {
-      "title": "Imagens de satélite mostram nuvem gigante de fumaça após ataque à maior refinaria da Arábia Saudita",
-      "summary": "Imagem de satélite mostra uma grande nuvem de fumaça sobre a refinaria de petróleo de Ras Tanura, na Arábia Saudita 2026 PLANET LABS PBC / via REUTERS Imagens de satélite feitas na quarta-feira (25) mostram uma grande nuvem de fumaça sobre a maior refinaria de petróleo da Arábia Saudita, depois de um ataque reivindicado pelos houthis - o grupo rebelde do Iêm",
+      "title": "Faisal Islam: Por que as novas tarifas de Trump são menos ameaçadoras",
+      "summary": "Outros países redirecionaram o comércio em resposta à sua primeira leva de tarifas e agora estão olhando para além do mandato de Trump.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Economia",
       "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/26/imagens-de-satelite-mostram-nuvem-gigante-de-fumaca-sobre-refinaria-na-arabia-saudita.ghtml",
-      "published_on": "26/11/2026 14:32 (Boa Vista)",
-      "image": "",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "published_on": "26/11/2026 15:55 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Irã acusado de realizar ataque de drone que matou dois italianos no Kuwait",
+      "summary": "O Irã nega estar por trás de um ataque mortal a uma instalação militar do Kuwait que matou dois cidadãos italianos.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+      "published_on": "26/11/2026 15:50 (Boa Vista)",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/26/9d94126a-cf9a-44ed-9f77-30461774944e/thumbnail/1200x630g2/2cd022452cd8713f2d0b6637141738bf/2026-11-20t110959z-393580283-rc2kroah1egc-rtrmadp-3-iran-crisis.jpg",
       "selection": "automatic"
     },
     {
@@ -67,19 +80,6 @@
       "url": "https://www.lemonde.fr/international/article/2026/11/26/le-virage-au-forceps-des-allies-de-l-otan-vers-des-operations-militaires-dopees-a-l-ia-de-palantir_6815581_3210.html",
       "published_on": "26/11/2026 13:35 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/11/24/208/0/5000/3333/1440/960/60/0/d556a3e_upload-1-05s1dfxtsgt3-fuse-2026-30102026reinis-hofmanis-053-copy-2.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump diz que pediu a Putin que \"recuasse\" na agressão militar na Europa",
-      "summary": "O presidente dos Estados Unidos, Donald Trump, afirmou que conversou com Vladimir Putin sobre o fim da agressão militar da Rússia na Europa e expressou sua crença na possibilidade de um acordo entre a Rússia e a Ucrânia.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "DE",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722?maca=en-rss-en-all-1573-rdf",
-      "published_on": "26/11/2026 12:54 (Boa Vista)",
-      "image": "https://static.dw.com/image/79990968_6.jpg",
       "selection": "automatic"
     },
     {
