@@ -1,9 +1,22 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T13:12:42.518304Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T13:17:58.552661Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Kremlin acusa Ucrânia de tentar expandir guerra para novos mares",
+      "summary": "Moscou afirma que ataques em portos da Líbia e no Mar Báltico representam manobras perigosas para aliança ocidental",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/kremlin-acusa-ucrania-de-tentar-expandir-guerra-para-novos-mares/",
+      "published_on": "26/11/2026 08:56 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/Secretario-geral-da-Otan-Mark-Rutte-e-o-presidente-dos-EUA-Donald-Trump-21-de-janeiro-de-2026-REUTERS-Jonathan-Ernst.jpg?w=200",
+      "selection": "automatic"
+    },
     {
       "title": "O presidente da TUI quer que a UE reduza a burocracia, atraia talentos e expanda a energia verde",
       "summary": "A Euronews conversou com o CEO da TUI, Sebastian Ebel, sobre navios de cruzeiro movidos a esterco, migração, dependência dos EUA, inteligência artificial e o futuro do turismo.",
@@ -54,19 +67,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/governo-trump-cogitou-usar-lei-de-guerra-para-pressionar-nvidia-diz-jornal/",
       "published_on": "26/11/2026 06:18 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-13T124701Z_1_LYNXNPEMAC11V_RTROPTP_4_NVIDIA-CEO.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Depois que ataques cibernéticos e ameaças de bomba atingiram a Europa, o sobrevivencialismo se tornou popular",
-      "summary": "Mais governos na Europa estão a dizer aos cidadãos para se prepararem para emergências. Após interrupções inesperadas, muitos estão ouvindo.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
-      "published_on": "26/11/2026 06:02 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-europe-preppers-fvzk/27int-europe-preppers-fvzk-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
