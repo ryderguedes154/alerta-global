@@ -1,9 +1,22 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T14:00:12.863374Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T14:05:25.712642Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Rússia lança mísseis balísticos e uma saraivada de drones contra a Ucrânia, matando pelo menos três pessoas",
+      "summary": "As defesas aéreas da Ucrânia abateram 87 mísseis e drones russos durante a noite de quinta-feira. Enquanto isso, drones ucranianos atacaram uma fábrica de produtos químicos que fabrica componentes para explosivos militares e uma usina de energia na região de Stavropol.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three",
+      "published_on": "26/11/2026 10:02 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/10/00/93/73/696x392_cmsv2_6fc35b74-9921-5372-89ce-8026b6d8f770-10009373.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Eis por que o Mar Negro é importante para a OTAN na guerra entre Rússia e Ucrânia",
       "summary": "Chris Livesay viajou para a Romênia para entender o papel do Mar Negro na guerra entre Rússia e Ucrânia, enquanto sua Marinha trabalha para repelir ataques desonestos da Rússia contra a Ucrânia.",
@@ -41,19 +54,6 @@
       "url": "https://www.euronews.com/2026/11/26/tui-boss-wants-eu-to-cut-bureaucracy-attract-talent-and-expand-green-energy",
       "published_on": "26/11/2026 07:51 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/09/97/23/38/696x392_cmsv2_e2ee8cd8-585c-53f1-9faf-cade74f06239-9972338.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "720 mil mortos: o custo humano da guerra de Putin na Ucrânia ameaça o futuro da Rússia",
-      "summary": "Tropas participam de um ensaio para o desfile militar do Dia da Vitória em São Petersburgo, na Rússia, em 28 de abril de 2026. AP Photo/Dmitri Lovetsky A cifra é aterradora. Pelo menos 720 mil militares russos morreram na guerra empreendida há quase 5 anos por Vladimir Putin na Ucrânia, de acordo com os sites independentes Meduza e Mediazona. A estimativa se",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/11/26/720-mil-mortos-o-custo-humano-da-guerra-de-putin-na-ucrania-ameaca-o-futuro-da-russia.ghtml",
-      "published_on": "26/11/2026 07:31 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/7A0XqkoPGR--0X1b0uxP3Uk0eME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/l/7nLRgkRKKKGyo3KeBwoQ/ap26118609512829-2-.jpg",
       "selection": "automatic"
     },
     {
