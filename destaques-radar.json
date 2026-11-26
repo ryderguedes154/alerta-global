@@ -1,8 +1,8 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T16:36:26.349201Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T16:41:33.707117Z",
+  "status": "checado",
   "items": [
     {
       "title": "À frente do BCE, um trio recém-nomeado para proteger a Europa da inflação… e talvez a França de um ataque aos mercados",
@@ -15,6 +15,19 @@
       "url": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
       "published_on": "26/11/2026 11:04 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/11/26/0/0/6000/4000/1440/960/60/0/98cc741_upload-1-gjf1s9dawpkv-ap26330506683267.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Ataque do Irã ao Kuwait mata 2 italianos, diz Itália; regime iraniano nega",
+      "summary": "De acordo com chanceler, vários drones iveram como alvo instalações militares kuwaitianas, incluindo uma “estação de detecção de defesa aérea\"; Kuwait confirmou mortes e outros dois feridos",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/ataque-do-ira-ao-kuwait-mata-italianos-diz-italia-regime-iraniano-nega/",
+      "published_on": "26/11/2026 12:38 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Centro-da-cidade-do-Kuwait.jpg?w=200",
       "selection": "automatic"
     },
     {
@@ -41,19 +54,6 @@
       "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
       "published_on": "26/11/2026 11:59 (Boa Vista)",
       "image": "https://i.guim.co.uk/img/media/1ce3a0578ea68206bed8e850874790711398c96a/222_0_3863_3089/master/3863.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f6b51e11f0b441b87c2788669325adf5",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump e Rutte pedem à Rússia e à Ucrânia que evitem ações que prolonguem a guerra",
-      "summary": "Em uma reunião em Mar-a-Lago antes de celebrar o Dia de Ação de Graças, o presidente dos EUA discute com o secretário-geral da OTAN os gastos com defesa dos membros da Aliança Atlântica.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "ES",
-      "source": "El País",
-      "url": "https://elpais.com/internacional/2026-11-26/trump-y-rutte-reclaman-a-rusia-y-ucrania-que-eviten-acciones-que-amplien-la-guerra.html",
-      "published_on": "26/11/2026 11:30 (Boa Vista)",
-      "image": "https://imagenes.elpais.com/resizer/v2/XNWY2RODTVE7VOUZW7K6TWX5DA.jpg?auth=e26ce0de8b6aa3e23b11156cd8522918e5c06ca9269f02ce93d910d5b81c940e",
       "selection": "automatic"
     },
     {
