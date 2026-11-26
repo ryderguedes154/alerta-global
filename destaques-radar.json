@@ -1,7 +1,7 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T15:33:59.530044Z",
+  "checked_at": "2026-11-26T15:39:28.116461Z",
   "status": "checado",
   "items": [
     {
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Trump diz que quer que Putin ‘recue todas as agressões militares’ na Europa – Europa ao vivo",
+      "summary": "O presidente dos EUA disse que “espera que um acordo possa ser feito entre a Rússia e a Ucrânia” rapidamente. A primeira-ministra dinamarquesa, Mette Frederiksen, reconheceu que os líderes permanecem “muito distantes”, concordando com Merz da Alemanha que a proposta actual não vai funcionar. “O orçamento é demasiado grande e não suficientemente orientado par",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+      "published_on": "26/11/2026 11:22 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/1ce3a0578ea68206bed8e850874790711398c96a/222_0_3863_3089/master/3863.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f6b51e11f0b441b87c2788669325adf5",
+      "selection": "automatic"
+    },
+    {
       "title": "Israel intensifica ataques em Gaza sob pressão dos EUA por cessar-fogo",
       "summary": "Conselho da Paz foi criado pelo governo Trump para promover o plano de cessar-fogo em Gaza; no entanto, o plano ficou paralisado poucas semanas após sua implementação",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,19 +54,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/israel-intensifica-ataques-em-gaza-sob-pressao-dos-eua-por-cessar-fogo/",
       "published_on": "26/11/2026 11:19 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/Membros-do-grupo-palestino-Hamas.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump pede a Putin que pare 'banho de sangue' com ataques pela Europa",
-      "summary": "Presidente dos Estados Unidos, Donald Trump, dá coletiva de imprensa com o secretário-geral da Otan, Mark Rutte, em Ancara, na Turquia, em 8 de julho de 2026. FILIP SINGER/Pool via REUTERS O presidente dos Estados Unidos, Donald Trump, pediu nesta quinta-feira (26) ao presidente da Rússia, Vladimir Putin, para que interrompa ataques na Ucrânia e \"ao redor da",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/26/trump-pede-a-putin-que-pare-banho-de-sangue-com-ataques-pela-europa.ghtml",
-      "published_on": "26/11/2026 11:15 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/hdkywJtqydvESMHlPq7HTz3p_vM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/A/EacI4mQrAxYhLkRoLDiQ/2026-07-08t084012z-1479568968-rc2k9mabh2dg-rtrmadp-3-nato-summit.jpg",
       "selection": "automatic"
     },
     {
