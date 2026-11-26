@@ -1,8 +1,8 @@
 {
   "edition": "25/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T00:14:20.013869Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T00:19:31.669608Z",
+  "status": "checado",
   "items": [
     {
       "title": "Cinco jatos militares russos atingidos em ataque a campo de aviação, diz Ucrânia",
@@ -31,16 +31,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Irã denuncia o uso de IA pelos EUA na guerra",
-      "summary": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias.",
+      "title": "Guerra do Irã ao vivo: Explosão abala Sanaa; mísseis interceptados sobre Riade",
+      "summary": "Uma explosão atinge Sanaa após ataques aéreos perto do aeroporto, enquanto a coalizão saudita intercepta mísseis sobre Riad.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-      "published_on": "25/11/2026 18:03 (Boa Vista)",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/ec63372c-3822-4173-ab61-be256068f0b3/thumbnail/1200x630/7d0098af2495c5813d75e96b3216e56e/gettyimages-2305821469.jpg",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
+      "published_on": "25/11/2026 20:00 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T142119Z_494453788_RC22VOAYEVVA_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHI-1795644562.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
