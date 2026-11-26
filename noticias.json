@@ -474,8 +474,8 @@
     "date": "2026-11-26T02:37:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Equipes de resgate indonésias retomam as buscas por 13 pessoas presas dentro de uma mina ilegal após 13 mortes confirmadas Reuters",
-    "title_pt": "Equipes de resgate indonésias retomam as buscas por 13 pessoas presas dentro de uma mina ilegal após a confirmação de 13 mortes"
+    "title_pt": "Equipes de resgate indonésias retomam as buscas por 13 pessoas presas dentro de uma mina ilegal após a confirmação de 13 mortes",
+    "summary_pt": "Equipes de resgate indonésias retomam as buscas por 13 pessoas presas dentro de uma mina ilegal após 13 mortes confirmadas Reuters"
   },
   {
     "title": "Principal rival de Erdogan é impedido de disputar a Presidência na Turquia",
@@ -732,6 +732,20 @@
     "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/03/operacao.rj_.jpg?w=200",
     "title_pt": "Saldo da megaoperação no Rio aponta para mais de 400 prisões de foragidos",
     "summary_pt": "Ação da Polícia Civil mira suspeitos investigados por roubo, latrocínio e receptação em todo o estado; 'Operação Espoliador' teve a primeira fase deflagrada em feveiro de 2026"
+  },
+  {
+    "title": "Dollar steady as sliding yields temper safe-haven bid",
+    "summary": "Dollar steady as sliding yields temper safe-haven bid Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeGRxVzhWY18xWGQzRlVEbmZBbU9lcnR5WEpveVIybFY3X0I5bVNXN2Q2NWZUTUl6eGJYQUZoeHEwSFJqYzhGZDV4Yk9OV29Qc0dXSXFEbm9PY09FQlhNWVlQb2ZEN0FlelZvQVJyT2N3WU42X3phd3ZYVVczQ0RORDFwaW5vd0NxTnozeEpYU3VIVF9NcGtGYng0VWRnT0hk?oc=5",
+    "date": "2026-11-26T01:44:00Z",
+    "lang": "en",
+    "image": "",
+    "summary_pt": "Dólar estável enquanto a queda dos rendimentos modera a demanda por ativos de porto seguro Reuters",
+    "title_pt": "Dólar estável enquanto a queda dos rendimentos modera a demanda por ativos seguros"
   },
   {
     "title": "Photos: Storms and an El Nino-charged king tide batter California’s coast",
@@ -1380,7 +1394,7 @@
   {
     "title": "US approves SpaceX plan to send a million data satellites to space",
     "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-    "category": "Economia",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -2428,20 +2442,6 @@
     "summary_pt": "O representante do Irã na ONU afirma que as forças armadas dos EUA usaram os sistemas de IA da Palantir e da Anthropic para selecionar cerca de 2 mil alvos em apenas quatro dias."
   },
   {
-    "title": "11/25: The Takeout with Major Garrett",
-    "summary": "Weather postpones Macy's Thanksgiving Day Parade; Trump introduces new tariffs on China, the EU and major trading partners.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/video/112526-the-takeout-with-major-garrett/",
-    "date": "2026-11-25T22:00:00Z",
-    "lang": "en",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/26/00872662-9f55-4300-80aa-52489ef0d26f/thumbnail/1200x630/64dac3490091ff0941d482e99f1c0690/takeoutfull112526.jpg",
-    "title_pt": "25/11: A comida para viagem com o Major Garrett",
-    "summary_pt": "Tempo adia desfile do Dia de Ação de Graças da Macy's; Trump introduz novas tarifas sobre a China, a UE e os principais parceiros comerciais."
-  },
-  {
     "title": "Novo tarifaço proposto por Trump é \"inaceitável\", diz governo brasileiro",
     "summary": "Em nota, Secretaria de Comunicação da Presidência da República afirma que o Brasil pode retaliar os EUA com mais tarifas e que ameaça do governo Trump ignora negociações em curso entre os dois países.",
     "category": "Geral",
@@ -2454,6 +2454,20 @@
     "image": "",
     "title_pt": "Novo tarifaço proposto por Trump é \"inaceitável\", diz governo brasileiro",
     "summary_pt": "Em nota, Secretaria de Comunicação da Presidência da República afirma que o Brasil pode retaliar os EUA com mais tarifas e que ameaça do governo Trump ignora negociações em curso entre os dois países."
+  },
+  {
+    "title": "11/25: The Takeout with Major Garrett",
+    "summary": "Weather postpones Macy's Thanksgiving Day Parade; Trump introduces new tariffs on China, the EU and major trading partners.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/video/112526-the-takeout-with-major-garrett/",
+    "date": "2026-11-25T22:00:00Z",
+    "lang": "en",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/26/00872662-9f55-4300-80aa-52489ef0d26f/thumbnail/1200x630/64dac3490091ff0941d482e99f1c0690/takeoutfull112526.jpg",
+    "title_pt": "25/11: A comida para viagem com o Major Garrett",
+    "summary_pt": "Tempo adia desfile do Dia de Ação de Graças da Macy's; Trump introduz novas tarifas sobre a China, a UE e os principais parceiros comerciais."
   },
   {
     "title": "Kim Jong-un diz que status nuclear da Coreia do Norte é 'inviolável' e faz ameaça de guerra",
@@ -2920,20 +2934,6 @@
     "summary_pt": "Varejistas enfrentam ameaça crescente de ciberataques com IA antes da Black Friday, muitos sem seguro Reuters"
   },
   {
-    "title": "Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs",
-    "summary": "Mauritius, a popular tourist destination off southern Africa, has become overrun with strays. With more and more residents chased and attacked, many are fed up.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/25/world/africa/maritius-stray-dogs.html",
-    "date": "2026-11-25T20:40:27Z",
-    "lang": "en",
-    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00int-mauritius-dogs-dispatch-promo-bltj/00int-mauritius-dogs-dispatch-promo-bltj-mediumSquareAt3X.jpg",
-    "title_pt": "A ilha paradisíaca das Maurícias tem sol, praias e muitos cães",
-    "summary_pt": "Maurício, um destino turístico popular no sul da África, ficou repleto de animais de rua. Com cada vez mais moradores sendo perseguidos e atacados, muitos estão de saco cheio."
-  },
-  {
     "title": "Libyan officers die after Ukrainian strike, a highway fire in Egypt kills 30, and other Mideast news",
     "summary": "Two Libyan naval officers have died following the Ukrainian drone attack on a Russian warship in Libya that opened a new theater in the conflict, thousands of miles from the front lines of the Russia-Ukraine war, and a highway fire near the Egyptian capital killed at least 30 people. Iran’s …",
     "category": "Geral",
@@ -2946,6 +2946,20 @@
     "image": "https://ic-cdn.flipboard.com/apnews.com/c5f908f0580604352141783de8e3148941eedd7e/_large.webp",
     "title_pt": "Oficiais líbios morrem após ataque ucraniano, um incêndio em uma rodovia no Egito mata 30 e outras notícias do Oriente Médio",
     "summary_pt": "Dois oficiais da marinha líbia morreram na sequência do ataque de drones ucranianos a um navio de guerra russo na Líbia, que abriu um novo teatro de operações no conflito, a milhares de quilómetros das linhas da frente da guerra entre a Rússia e a Ucrânia, e um incêndio numa estrada perto da capital egípcia matou pelo menos 30 pessoas. do Irão…"
+  },
+  {
+    "title": "Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs",
+    "summary": "Mauritius, a popular tourist destination off southern Africa, has become overrun with strays. With more and more residents chased and attacked, many are fed up.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/25/world/africa/maritius-stray-dogs.html",
+    "date": "2026-11-25T20:40:27Z",
+    "lang": "en",
+    "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00int-mauritius-dogs-dispatch-promo-bltj/00int-mauritius-dogs-dispatch-promo-bltj-mediumSquareAt3X.jpg",
+    "title_pt": "A ilha paradisíaca das Maurícias tem sol, praias e muitos cães",
+    "summary_pt": "Maurício, um destino turístico popular no sul da África, ficou repleto de animais de rua. Com cada vez mais moradores sendo perseguidos e atacados, muitos estão de saco cheio."
   },
   {
     "title": "Study Hard, Get Ahead?",
@@ -5640,20 +5654,6 @@
     "summary_pt": "Imagem de arquivo mostra campos de petróleo em Kirkuk, no Curdistão. Alaa Al-Marjani/ Reuters A Suprema Corte do Iraque autorizou o país a enviar tropas para fronteiras internacionais, informou a televisão estatal iraquiana nesta quarta-feira (25). A decisão ocorre em meio a uma disputa pelo controle da extração de petróleo entre o governo iraquiano e o Curd"
   },
   {
-    "title": "COMMENTARY: Morning Bid: Tariff fear compounds AI recoil",
-    "summary": "COMMENTARY: Morning Bid: Tariff fear compounds AI recoil Reuters",
-    "category": "Economia",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTzdrbThVSVJPbGJhMzJuU1EzY194YTh4WmZScXNHZTVqcUt6QlBua2k2VTRmN3RmRTFSc3ctVGo4MkhoTjZ0QTB1cWpCa2xad0hzNjgyMV9NTzR0QW01T0hGYzhaV3dIME5fN0FGWUVoUnJhLVFTdkl0R09fc2RTOHF1R2t4Y3pFeG9pZHhwLTB0T0lscmVR?oc=5",
-    "date": "2026-11-25T11:34:23Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "COMENTÁRIO: Oferta matinal: o medo tarifário agrava o recuo da IA",
-    "summary_pt": "COMENTÁRIO: Oferta matinal: medo tarifário agrava recuo da IA ​​Reuters"
-  },
-  {
     "title": "'Manipulação política': China critica plano de Trump de impor novo tarifaço",
     "summary": "EUA barram pedido do Brasil para analisar tarifaço americano na OMC O presidente dos Estados Unidos, Donald Trump, prepara novas tarifas contra 16 parceiros comerciais, incluindo China e União Europeia, sob a justificativa de que esses países produzem mercadorias em excesso e prejudicam a indústria americana. Nesta quarta-feira (25), o governo chinês reagiu ",
     "category": "Geral",
@@ -5766,20 +5766,6 @@
     "summary_pt": "Acompanhe as histórias mais importantes de toda a Europa e além neste dia 25 de novembro de 2026 - últimas notícias, notícias de última hora, mundo, negócios, entretenimento, política, cultura, viagens."
   },
   {
-    "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
-    "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "NPR",
-    "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
-    "date": "2026-11-25T11:00:00Z",
-    "lang": "en",
-    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F31%2F6520f9574826bfd5bcbffd103b34%2Ffarflungpostcard-ef1.jpg",
-    "title_pt": "Saudações do Monte Kilimanjaro, o ponto mais alto da África em todo o seu esplendor",
-    "summary_pt": "Escalar montanhas altas como o Kilimanjaro é um estudo de contrastes – desde o sol forte até as noites geladas, o fogo e a neve."
-  },
-  {
     "title": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
     "summary": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias.",
     "category": "Geral",
@@ -5792,6 +5778,20 @@
     "image": "",
     "title_pt": "Um ano após feminicídios no Cefet/RJ, denúncias de assédio seguem sem resposta",
     "summary_pt": "Integrantes da comunidade do Cefet/RJ ouvidos pela DW denunciam que, desde os feminicídios cometidos dentro da instituição, pouco foi feito para prevenir assédios e investigar denúncias."
+  },
+  {
+    "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+    "summary": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "US",
+    "source": "NPR",
+    "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+    "date": "2026-11-25T11:00:00Z",
+    "lang": "en",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F31%2F6520f9574826bfd5bcbffd103b34%2Ffarflungpostcard-ef1.jpg",
+    "title_pt": "Saudações do Monte Kilimanjaro, o ponto mais alto da África em todo o seu esplendor",
+    "summary_pt": "Escalar montanhas altas como o Kilimanjaro é um estudo de contrastes – desde o sol forte até as noites geladas, o fogo e a neve."
   },
   {
     "title": "VÍDEO: mulher é perseguida por perus selvagens na rua nos EUA às vésperas do Dia de Ação de Graças",
@@ -5964,7 +5964,7 @@
   {
     "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
     "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",

@@ -1,8 +1,8 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-26T04:38:53.797029Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-26T04:44:01.312861Z",
+  "status": "checado",
   "items": [
     {
       "title": "Guerra na Ucrânia: os europeus estão prontos para conversar com Vladimir Putin para impor sua visão da arquitetura de segurança do Velho Continente",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Registros mostram que as contas de Trump negociaram ações da Nvidia 44 vezes este ano",
-      "summary": "Uma análise das divulgações financeiras do presidente dos EUA mostra que as carteiras de investimentos de Donald Trump negociaram regularmente ações da gigante de tecnologia.",
+      "title": "O clima extremo ameaça as festividades de Ação de Graças nos EUA",
+      "summary": "Está prevista a passagem de uma grande tempestade pela costa leste dos EUA, o que provavelmente causará atrasos nas viagens. Os alertas meteorológicos foram suficientes para adiar o Desfile do Dia de Ação de Graças da Macy's pela primeira vez em seus 100 anos de história.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
+      "category": "Clima e desastres",
       "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
-      "published_on": "25/11/2026 12:42 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg",
+      "country": "DE",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-all-1573-rdf",
+      "published_on": "25/11/2026 22:47 (Boa Vista)",
+      "image": "https://static.dw.com/image/80055851_6.jpg",
       "selection": "automatic"
     }
   ]
