@@ -1,7 +1,7 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T18:19:13.631008Z",
+  "checked_at": "2026-11-27T18:24:25.613809Z",
   "status": "checado",
   "items": [
     {
@@ -70,6 +70,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Republicanos repensam as tarifas, dando aos democratas uma oportunidade de desafiar Trump",
+      "summary": "WASHINGTON (AP) — Os democratas que esperam atenuar as tarifas do presidente Donald Trump quando retomarem o controle do Congresso podem encontrar aliados em um lugar improvável: entre seus colegas republicanos. Depois de derrotas eleitorais devastadoras, centradas no aumento dos custos, muitos republicanos disseram que estão abertos a reconsiderar...",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/trump-tariffs-republicans-congress-a438d0649e3b905804eafb63e9803bb3?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+      "published_on": "27/11/2026 08:30 (Boa Vista)",
+      "image": "https://ic-cdn.flipboard.com/apnews.com/7122287ab3f20af90367c34d8dc195ae0c32c24f/_xlarge.jpeg",
+      "selection": "automatic"
+    },
+    {
       "title": "Trump apoia a repressão do primeiro-ministro iraquiano ao contrabando de petróleo",
       "summary": "Bagdá fecha passagens de fronteira enquanto as autoridades curdas alertam sobre violações constitucionais e convocam uma reunião.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -80,19 +93,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
       "published_on": "27/11/2026 12:13 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09a50c-1795794188.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump declara apoio ao Iraque para combater contrabando de petróleo",
-      "summary": "Presidente norte-americano respalda medidas do primeiro-ministro Ali al-Zaidi para submeter armas e recursos ao controle do Estado",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-declara-apoio-ao-iraque-para-combater-contrabando-de-petroleo/",
-      "published_on": "27/11/2026 11:51 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/GettyImages-2268828808.jpg?w=200",
       "selection": "automatic"
     },
     {
