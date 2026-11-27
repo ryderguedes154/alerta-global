@@ -1,9 +1,22 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T11:55:05.271455Z",
+  "checked_at": "2026-11-27T12:00:20.119823Z",
   "status": "checado",
   "items": [
+    {
+      "title": "A guerra híbrida da Rússia contra a Europa está evoluindo, mas fracassando: IISS",
+      "summary": "O aumento dos ataques tem prejudicado a infraestrutura europeia, mas não reduziu o apoio à Ucrânia, segundo uma análise.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+      "published_on": "27/11/2026 07:44 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7334e1b027-1785935073.jpg?resize=1200%2C630",
+      "selection": "automatic"
+    },
     {
       "title": "A Austrália sanciona suspeitos de ataques antissemitas relacionados ao Irã",
       "summary": "As sanções visam restringir os fundos de dois homens supostamente responsáveis pelo planejamento de ataques para a Guarda Revolucionária Iraniana (IRGC).",
@@ -28,19 +41,6 @@
       "url": "https://www.lemonde.fr/idees/article/2026/11/27/guerre-en-ukraine-pour-arreter-la-boucherie-il-faut-designer-le-boucher_6815842_3232.html",
       "published_on": "27/11/2026 06:30 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/11/23/0/0/3763/2509/1440/960/60/0/e90615e_ftp-1-vihxbykrfx05-afp-d8cf6wq.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Irã nega responsabilidade pelo ataque de drone no Kuwait que matou dois italianos",
-      "summary": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, classificou as acusações como infundadas e o incidente como \"suspeito\" e se ofereceu para cooperar em uma investigação conjunta. O Kuwait chamou isso de \"uma hedionda agressão iraniana\". Arábia Saudita, Bahrein, Catar e Emirados Árabes Unidos condenaram o ataque.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/27/iran-denies-responsibility-for-kuwait-drone-strike-that-killed-two-italians",
-      "published_on": "27/11/2026 06:20 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/10/01/04/45/696x392_cmsv2_d2f2807d-6cfc-5a6c-91cf-c5d92d32bdd8-10010445.jpg",
       "selection": "automatic"
     },
     {
