@@ -2,9 +2,23 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-26T21:46:21.890Z",
+  "updated_at": "2026-11-27T05:35:58.011Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "AIEA negocia trégua após usina nuclear de Zaporizhzhia perder energia externa",
+      "summary": "A usina perdeu a última conexão elétrica externa em 25 de novembro e depende de geradores de emergência. Em 26 de novembro, a AIEA anunciou negociações com Rússia e Ucrânia para permitir reparos. A interrupção é a 28ª desde o início da guerra; não há confirmação de acidente nuclear.",
+      "impact_br": "Não há impacto radiológico direto confirmado no Brasil; o caso reforça a importância da segurança nuclear internacional.",
+      "category": "Guerras e diplomacia",
+      "region": "Europa",
+      "country": "UA",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/iaea-working-with-russia-ukraine-ceasefire-repair-power-link-zaporizhzhia-2026-11-27/",
+      "published_on": "2026-11-27",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-27T05:35:58.011Z"
+    },
     {
       "title": "Surto de ebola no Congo supera 12 mil casos; violência dificulta resposta sanitária",
       "summary": "Boletim do ECDC de 26 de novembro registra 12.021 casos confirmados e 5.904 mortes na República Democrática do Congo, com dados até 24 de novembro. A Associated Press relata evacuação de profissionais de saúde devido a confrontos. A OMS mantém a emergência de saúde pública de importância internacional.",
