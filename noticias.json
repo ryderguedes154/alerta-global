@@ -52,8 +52,8 @@
     "date": "2026-11-27T10:08:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Numa decisão histórica, os juízes de Colónia consideraram a Igreja Católica responsável pelos abusos cometidos por membros do clero. As vítimas agora poderiam receber uma compensação maior.",
-    "title_pt": "Decisão histórica de 550 mil euros: tribunal alemão responsabiliza a Igreja Católica pelo abuso de padre"
+    "title_pt": "Decisão histórica de 550 mil euros: tribunal alemão responsabiliza a Igreja Católica pelo abuso de padre",
+    "summary_pt": "Numa decisão histórica, os juízes de Colónia consideraram a Igreja Católica responsável pelos abusos cometidos por membros do clero. As vítimas agora poderiam receber uma compensação maior."
   },
   {
     "title": "Iran accused of carrying out drone attack killing 2 Italians in Kuwait",
@@ -670,6 +670,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0e2a6c-1779313260_6da276-1779323018.jpg?resize=1200%2C630&quality=80",
     "title_pt": "Costa Rica nega entrada em Albaneses da ONU por ‘ligações com atos terroristas’",
     "summary_pt": "As autoridades disseram que o relator especial da ONU foi impedido de entrar no país devido a riscos de “segurança nacional”."
+  },
+  {
+    "title": "Spain election: what the main parties are proposing",
+    "summary": "Spain election: what the main parties are proposing Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWRyM0NQRDdFNTJsMVZKTzVoMEd3UXpzOWZQYjZSejZXc29xbVA3emVPcC1XV0lSMnRXWWhObmJ6cDJrMTdzV005ZVJlT3Z2UGJLWTBNeDE1T0hsOUtXNkp4T3VtV0VJeE83SkFUTjZlTkxRYUI5NTNPdTVsek5RNWdaSXM0Q3FCM1JRM2x1UlhaSzk0bWxkWFdHdw?oc=5",
+    "date": "2026-11-27T08:39:43Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "Eleições na Espanha: o que os principais partidos propõem",
+    "summary_pt": "Eleições na Espanha: o que os principais partidos propõem Reuters"
   },
   {
     "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
@@ -3734,7 +3748,7 @@
   {
     "title": "Why is there a shortage of 'wizard' elevator mechanics?",
     "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3930,7 +3944,7 @@
   {
     "title": "Asia made a big AI bet on Nvidia. What happens now?",
     "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5304,20 +5318,6 @@
     "summary_pt": "Milhares de pessoas se reuniram na capital da região curda semiautônoma do norte do Iraque, agitando bandeiras e manifestando oposição aos planos do governo federal de assumir o controle das operações petrolíferas e dos postos de fronteira."
   },
   {
-    "title": "Ukraine says North Korea temporarily halted missile shipments to ally Russia",
-    "summary": "Ukraine says North Korea temporarily halted missile shipments to ally Russia Reuters",
-    "category": "Conflitos",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUlh1aXJHRXBESmZFWlZxOVZaYzNjR2JFVkVOc3NzV0pjbks2NE9HclFKS1ZzeUR4ODJOMEl5MnRIZFRRQjhfanVCazN5OGszYnNnMXZCOXJNQ2t6c0RlMk9ycVNLa2Z6UUF1aWRoU3pxbHRhQW9WaHRDUUszZF9YSjdxb3Rhc2x3T0ZpdERfQ3A1a2FaZjRqQmZSYjVpREkxM28teHF1SG53NU5LUXI2Z1NNRlpDclBYNEFPdlVqR3E0dHFrS0FXaDBzb0FqZUF2YWc?oc=5",
-    "date": "2026-11-26T16:02:35Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "Ucrânia diz que Coreia do Norte suspendeu temporariamente envios de mísseis para aliada Rússia",
-    "summary_pt": "Ucrânia diz que Coreia do Norte suspendeu temporariamente envios de mísseis para aliada Rússia Reuters"
-  },
-  {
     "title": "Germany: IG Metall union says deal reached with employers",
     "summary": "IG Metall, representing millions of workers in Germany's metal and electrical industry, is the country's largest trade union. The deal came after more than 24 hours of talks with employers.",
     "category": "Geral",
@@ -6316,7 +6316,7 @@
   {
     "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
     "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
-    "category": "Geral",
+    "category": "Saúde",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
