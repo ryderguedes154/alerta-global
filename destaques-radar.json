@@ -1,8 +1,8 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T17:00:39.289811Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-27T17:05:56.817811Z",
+  "status": "checado",
   "items": [
     {
       "title": "ONU alerta que a fome se agravará no Médio Oriente à medida que a guerra, os custos dos combustíveis e os cortes na ajuda colidem",
@@ -83,19 +83,6 @@
       "selection": "automatic"
     },
     {
-      "title": "O presidente da TUI quer que a UE reduza a burocracia, atraia talentos e expanda a energia verde",
-      "summary": "A Euronews conversou com o CEO da TUI, Sebastian Ebel, sobre navios de cruzeiro movidos a esterco, migração, dependência dos EUA, inteligência artificial e o futuro do turismo.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/26/tui-boss-wants-eu-to-cut-bureaucracy-attract-talent-and-expand-green-energy",
-      "published_on": "26/11/2026 07:51 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/09/97/23/38/696x392_cmsv2_e2ee8cd8-585c-53f1-9faf-cade74f06239-9972338.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Centenas de milhares ainda sem energia depois que tempestades atingiram os EUA no Dia de Ação de Graças",
       "summary": "A Pensilvânia e os estados vizinhos continuam gravemente afetados na sexta-feira, depois que ambas as costas foram atingidas por vento e chuva.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
       "published_on": "27/11/2026 10:49 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/6be8b890-ea6b-11f1-99b6-a35a62fa4264.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "A migração líquida para o Reino Unido cai para o nível mais baixo desde 1997, excluindo a pandemia",
+      "summary": "A queda foi impulsionada principalmente pela redução do número de pessoas vindas de fora da União Europeia. Isso reflete a ação do governo para restringir a imigração após uma reação negativa do público.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Saúde",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+      "published_on": "26/11/2026 14:52 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg",
       "selection": "automatic"
     }
   ]
