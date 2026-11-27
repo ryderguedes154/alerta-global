@@ -1,7 +1,7 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T18:03:37.747743Z",
+  "checked_at": "2026-11-27T18:08:50.836073Z",
   "status": "checado",
   "items": [
     {
@@ -18,16 +18,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Kiev oferece cessar-fogo no Mar Negro, enquanto Putin amplia a Marinha da Rússia",
-      "summary": "A Ucrânia aguarda a resposta de Moscou à proposta de cessar-fogo no Mar Negro, enquanto Zelensky critica a \"amizade\" de Trump com Putin",
+      "title": "Com robôs dançantes, a Rússia projeta um futuro moldado pela IA, não pela guerra",
+      "summary": "As autoridades russas veem a inteligência artificial como uma forma de resolver os problemas urgentes do país. Mas o desenvolvimento tecnológico da Rússia tem sido limitado.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
+      "category": "Tecnologia",
       "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
-      "published_on": "27/11/2026 13:44 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09af2d-1795796781.jpg?resize=1920%2C1440",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
+      "published_on": "27/11/2026 14:01 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-russia-AI-001-cfkp/27int-russia-AI-001-cfkp-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
@@ -54,6 +54,19 @@
       "url": "https://www.euronews.com/2026/11/27/russian-drone-strikes-hit-ukraines-energy-rail-and-civilian-infrastructure-causing-deaths",
       "published_on": "27/11/2026 11:16 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/01/11/51/696x392_cmsv2_a97bb7f4-499b-5030-a0cd-2ce4f6d88295-10011151.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Coreia do Norte suspende ajuda militar à Rússia por causa de disputa em Seul, diz Kiev",
+      "summary": "A inteligência militar da Ucrânia disse que Kim Jong-un ordenou pessoalmente a suspensão depois que o vice-ministro das Relações Exteriores da Rússia disse que isso ajudaria a aliviar as tensões entre Seul e Pyongyang.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/27/north-korea-halts-russia-military-aid-over-seoul-row-kyiv-says",
+      "published_on": "27/11/2026 08:53 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/10/01/11/80/696x392_cmsv2_f1b4f471-d54b-577b-b43d-41cb16f5ccd1-10011180.jpg",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
       "published_on": "27/11/2026 13:06 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/6be8b890-ea6b-11f1-99b6-a35a62fa4264.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "A migração líquida para o Reino Unido cai para o nível mais baixo desde 1997, excluindo a pandemia",
-      "summary": "A queda foi impulsionada principalmente pela redução do número de pessoas vindas de fora da União Europeia. Isso reflete a ação do governo para restringir a imigração após uma reação negativa do público.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Saúde",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
-      "published_on": "26/11/2026 14:52 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg",
       "selection": "automatic"
     }
   ]
