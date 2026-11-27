@@ -1,8 +1,8 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T13:13:34.616034Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-27T13:18:42.584936Z",
+  "status": "checado",
   "items": [
     {
       "title": "ONU alerta que a fome se agravará no Médio Oriente à medida que a guerra, os custos dos combustíveis e os cortes na ajuda colidem",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Quase um milhão de americanos ficaram sem energia no Dia de Ação de Graças enquanto a tempestade varria a Costa Leste",
-      "summary": "Quase um milhão de pessoas ficaram sem energia na quinta-feira, depois que uma forte tempestade atingiu a costa leste dos EUA, destruindo árvores e linhas de energia no Dia de Ação de Graças. As autoridades da cidade de Nova York foram forçadas a adiar o desfile anual do Dia de Ação de Graças da Macy's devido aos ventos intensos.",
+      "title": "A migração líquida para o Reino Unido cai para o nível mais baixo desde 1997, excluindo a pandemia",
+      "summary": "A queda foi impulsionada principalmente pela redução do número de pessoas vindas de fora da União Europeia. Isso reflete a ação do governo para restringir a imigração após uma reação negativa do público.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
+      "category": "Saúde",
       "region": "Global",
-      "country": "FR",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20261127-almost-a-million-americans-left-without-power-on-thanksgiving-as-storm-sweeps-east-coast",
-      "published_on": "27/11/2026 03:14 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/7c6bc3aa-e9e5-11f1-8f2f-1991d4929b54/w:1024/p:16x9/ccf7f65a00f29aabccd88a0ab76a7d977ca3bffb.jpg",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+      "published_on": "26/11/2026 14:52 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg",
       "selection": "automatic"
     }
   ]
