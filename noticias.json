@@ -21,7 +21,7 @@
     "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-27T07:40:25Z",
     "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/1c6edae0-e9dc-11f1-9361-cd8ed0157587.jpg",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/569b/live/83ef8790-ea37-11f1-a094-5fdc692f3e33.jpg",
     "title_pt": "Chefe do NHS (Serviço Nacional de Saúde do Reino Unido) alerta para um \"aumento terrível\" dos casos de gripe à medida que as internações hospitalares disparam",
     "summary_pt": "As autoridades de saúde estão pedindo às pessoas com risco de contrair gripe que se vacinem o mais rápido possível."
   },
@@ -2808,7 +2808,7 @@
   {
     "title": "Why is there a shortage of 'wizard' elevator mechanics?",
     "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3114,7 +3114,7 @@
   {
     "title": "Asia made a big AI bet on Nvidia. What happens now?",
     "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
-    "category": "Economia",
+    "category": "Tecnologia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3950,7 +3950,7 @@
   {
     "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
     "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
-    "category": "Clima e desastres",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4946,7 +4946,7 @@
   {
     "title": "New UK-EU treaty has 10-year termination clause",
     "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-    "category": "Economia",
+    "category": "Geral",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -5572,20 +5572,6 @@
     "image": ""
   },
   {
-    "title": "J.P. Morgan sees Indian stocks rise further in 2027 after 'great comeback' of 2026",
-    "summary": "J.P. Morgan sees Indian stocks rise further in 2027 after 'great comeback' of 2026 Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWRmQXRtWGtJcjVxUnJtb3JhWHItaTMtanZUcll1emlBaUFzZU1Eay11ZV9neGRlVnRKMXlMNDVnTDkwMDdjeHVMcUJhRldlUnVzZy11Q2ZYT05Mb3ZZWGRYSDFKT0dtM0t4Z2IweGpmZDZKR2pOSjRHSW5KRE1JQXpWX1VBRlpWTDgtdllpNFprV3RjTUYwWkZFSGo4cEJ3dDlaeUNYU0s4dm9DYUNhWV9qdGRfTUFqUkpDaA?oc=5",
-    "date": "2026-11-26T12:37:44Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "JP Morgan vê as ações indianas subirem ainda mais em 2027 após ‘grande retorno’ de 2026",
-    "summary_pt": "JP Morgan vê ações indianas subindo ainda mais em 2027 após ‘grande retorno’ de 2026 Reuters"
-  },
-  {
     "title": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
     "summary": "The US and Russia’s candidate for secretary general is on a charm offensive. Can she overcome London’s resistance to her bid? Lana Nusseibeh is in Britain this week, attempting to present herself as a potential future UN secretary general, and shift the focus from her past as a United Arab Emirates diplomat who denied the country’s role in arming a militia a",
     "category": "Geral",
@@ -5598,6 +5584,18 @@
     "image": "https://i.guim.co.uk/img/media/5dab08ae82f0cdc38be48420021d99592e503797/0_0_3822_3059/master/3822.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3dd706e63168bf367c2a8c76f68c8dc",
     "title_pt": "‘Não sou mais uma autoridade dos Emirados Árabes Unidos’: Lana Nusseibeh, esperançosa da ONU, tenta se livrar do recorde do Sudão",
     "summary_pt": "O candidato dos EUA e da Rússia a secretário-geral está numa ofensiva de charme. Ela conseguirá superar a resistência de Londres à sua oferta? Lana Nusseibeh está na Grã-Bretanha esta semana, tentando se apresentar como uma potencial futura secretária-geral da ONU e mudar o foco de seu passado como diplomata dos Emirados Árabes Unidos que negou o papel do país no armamento de uma milícia."
+  },
+  {
+    "title": "Thailand's Bangchak shuts all units at Bangkok refinery after fire, says 9 workers injured",
+    "summary": "Thailand's Bangchak shuts all units at Bangkok refinery after fire, says 9 workers injured Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWlNPSnIxb2YwTEVOMjktMmk4V1YtVkU5MWFHQ1BwaWtPc194NllBSmdpRDg3Ykg2RVBFenJCLVF3QVBDS090c1RicHBscV9mQWRWOHdpVUk2ZlVLdWN4ajJJSVR3a1dzRF9walA2NTcwMW1SeFpNdDhFbzVGbVZadUY4QlBXbVpJZEpYMk5QMmFBMjdtWDdTdzh5OTN5ejdDVEdiSHNnQmh4TktwbnFhY3FqSzI?oc=5",
+    "date": "2026-11-26T12:35:19Z",
+    "lang": "en",
+    "image": ""
   },
   {
     "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
