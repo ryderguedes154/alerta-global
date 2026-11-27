@@ -2,9 +2,23 @@
   "name": "Radar Mundial — Seleção do ChatGPT",
   "type": "curadoria",
   "description": "Arquivo de matérias selecionadas e resumidas no Radar Mundial do ChatGPT. O ChatGPT é o curador; a origem jornalística de cada fato aparece no campo source. Não é um RSS oficial do ChatGPT nem validação independente da imprensa.",
-  "updated_at": "2026-11-27T05:35:58.011Z",
+  "updated_at": "2026-11-27T14:27:07.476Z",
   "timezone": "America/Boa_Vista",
   "items": [
+    {
+      "title": "ONU alerta para agravamento da fome em 16 regiões devido a conflitos e El Niño",
+      "summary": "Relatório da FAO e do Programa Mundial de Alimentos publicado em 27 de novembro prevê piora da insegurança alimentar aguda entre dezembro de 2026 e maio de 2027. O número de regiões em alerta subiu de 13 para 16 desde junho. Sudão, Sudão do Sul, Somália, partes da Nigéria e Iêmen são as áreas de maior preocupação.",
+      "impact_br": "Possíveis efeitos indiretos sobre mercados agrícolas e demanda por ajuda humanitária; não há impacto direto confirmado no Brasil.",
+      "category": "Clima e crises humanitárias",
+      "region": "Global",
+      "country": "GLOBAL",
+      "source": "Programa Mundial de Alimentos (ONU)",
+      "url": "https://www.wfp.org/news/el-nino-adds-new-hunger-hotspots-conflict-continues-drive-risk-famine-warn-fao-and-wfp",
+      "published_on": "2026-11-27",
+      "curation_source": "Radar Mundial — Seleção do ChatGPT",
+      "selection": "chatgpt_editorial",
+      "saved_at": "2026-11-27T14:27:07.476Z"
+    },
     {
       "title": "AIEA negocia trégua após usina nuclear de Zaporizhzhia perder energia externa",
       "summary": "A usina perdeu a última conexão elétrica externa em 25 de novembro e depende de geradores de emergência. Em 26 de novembro, a AIEA anunciou negociações com Rússia e Ucrânia para permitir reparos. A interrupção é a 28ª desde o início da guerra; não há confirmação de acidente nuclear.",
