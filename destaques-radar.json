@@ -1,8 +1,8 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T02:27:32.297308Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-27T02:32:54.465917Z",
+  "status": "checado",
   "items": [
     {
       "title": "À frente do BCE, um trio recém-nomeado para proteger a Europa da inflação… e talvez a França de um ataque aos mercados",
@@ -44,29 +44,29 @@
       "selection": "automatic"
     },
     {
-      "title": "Por dentro da crise energética da Ucrânia em meio à sua guerra com a Rússia",
-      "summary": "A falta de eletricidade e água se tornou parte da vida cotidiana na capital da Ucrânia.",
+      "title": "Irã acusado de realizar ataque de drone que matou dois italianos no Kuwait",
+      "summary": "O Irã nega estar por trás de um ataque mortal a uma instalação militar do Kuwait que matou dois cidadãos italianos.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
-      "published_on": "26/11/2026 20:46 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740363.jpg?resize=1920%2C1080&quality=80",
+      "country": "US",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+      "published_on": "26/11/2026 22:29 (Boa Vista)",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/26/9d94126a-cf9a-44ed-9f77-30461774944e/thumbnail/1200x630g2/2cd022452cd8713f2d0b6637141738bf/2026-11-20t110959z-393580283-rc2kroah1egc-rtrmadp-3-iran-crisis.jpg",
       "selection": "automatic"
     },
     {
-      "title": "Guerra do Irã ao vivo: Araghchi do Irã chama ataque mortal no Kuwait de 'suspeito'",
-      "summary": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, disse que o incidente mortal no Kuwait é “suspeito” e parece uma “receita pré-preparada” para a guerra.",
+      "title": "Zelensky alerta para um grande ataque russo enquanto Trump pede a Putin que \"se retire\"",
+      "summary": "Trump diz que pediu a Putin que \"recuasse\" na agressão militar na Europa em meio à escalada dos ataques russos e ucranianos.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "QA",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
-      "published_on": "26/11/2026 20:00 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-24T114809Z_325563367_RC2L3LAZPF22_RTRMADP_3_IRAN-CRISIS-TANKERS-CMBTECH-1795731128.jpg?resize=1920%2C1440",
+      "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+      "published_on": "26/11/2026 22:14 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b08bc55aa9c5-1795734613.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
