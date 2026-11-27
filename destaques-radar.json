@@ -1,7 +1,7 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T12:58:05.365205Z",
+  "checked_at": "2026-11-27T13:03:12.135752Z",
   "status": "checado",
   "items": [
     {
@@ -44,19 +44,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Senado argentino aprova suspensão de primárias, que pode favorecer Milei; presidente enfrenta alta desaprovação e desaceleração da economia",
-      "summary": "O presidente da Argentina, Javier Milei, reage ao cumprimentar a multidão durante o Jantar de Gala da Herança Hispânica em Washington, DC, EUA, em 14 de outubro de 2026 REUTERS/Tierney L. Cross O Senado da Argentina aprovou nesta quinta-feira (26) um projeto de lei para suspender as eleições primárias do país. A medida, acompanhada de perto, pode fortalecer",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/27/senado-da-argentina-aprova-suspensao-das-primarias-favorecendo-tentativa-de-reeleicao-de-milei.ghtml",
-      "published_on": "27/11/2026 07:23 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/gV9NThMwdSskCwqzBGDMP0mW7Jo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/1/bQ0F2BT8awFTYVDvlXBA/2026-10-15t022041z-62442531-rc2c3oad04yl-rtrmadp-3-argentina-usa.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "Faisal Islam: Por que as novas tarifas de Trump são menos ameaçadoras",
       "summary": "Outros países redirecionaram o comércio em resposta à sua primeira leva de tarifas e agora estão olhando para além do mandato de Trump.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -67,6 +54,19 @@
       "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
       "published_on": "26/11/2026 15:55 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Imagens de satélite mostram nuvem gigante de fumaça após ataque à maior refinaria da Arábia Saudita",
+      "summary": "Imagem de satélite mostra uma grande nuvem de fumaça sobre a refinaria de petróleo de Ras Tanura, na Arábia Saudita 2026 PLANET LABS PBC / via REUTERS Imagens de satélite feitas na quarta-feira (25) mostram uma grande nuvem de fumaça sobre a maior refinaria de petróleo da Arábia Saudita, depois de um ataque reivindicado pelos houthis - o grupo rebelde do Iêm",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/26/imagens-de-satelite-mostram-nuvem-gigante-de-fumaca-sobre-refinaria-na-arabia-saudita.ghtml",
+      "published_on": "26/11/2026 14:32 (Boa Vista)",
+      "image": "",
       "selection": "automatic"
     },
     {
