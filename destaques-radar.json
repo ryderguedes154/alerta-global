@@ -1,7 +1,7 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T13:03:12.135752Z",
+  "checked_at": "2026-11-27T13:08:22.421970Z",
   "status": "checado",
   "items": [
     {
@@ -44,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Trump abraçou Xi e depois impôs novas tarifas à China: qual é o seu plano de jogo?",
+      "summary": "O novo regime tarifário do presidente dos EUA tem como alvo mais forte a China, poucas semanas antes de Trump e Xi se encontrarem novamente em Miami.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
+      "published_on": "27/11/2026 08:48 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b095eba50-1795776186_f9e197-1795779007.jpg?resize=1200%2C630&quality=80",
+      "selection": "automatic"
+    },
+    {
       "title": "Faisal Islam: Por que as novas tarifas de Trump são menos ameaçadoras",
       "summary": "Outros países redirecionaram o comércio em resposta à sua primeira leva de tarifas e agora estão olhando para além do mandato de Trump.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
       "published_on": "26/11/2026 15:55 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Imagens de satélite mostram nuvem gigante de fumaça após ataque à maior refinaria da Arábia Saudita",
-      "summary": "Imagem de satélite mostra uma grande nuvem de fumaça sobre a refinaria de petróleo de Ras Tanura, na Arábia Saudita 2026 PLANET LABS PBC / via REUTERS Imagens de satélite feitas na quarta-feira (25) mostram uma grande nuvem de fumaça sobre a maior refinaria de petróleo da Arábia Saudita, depois de um ataque reivindicado pelos houthis - o grupo rebelde do Iêm",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/26/imagens-de-satelite-mostram-nuvem-gigante-de-fumaca-sobre-refinaria-na-arabia-saudita.ghtml",
-      "published_on": "26/11/2026 14:32 (Boa Vista)",
-      "image": "",
       "selection": "automatic"
     },
     {
