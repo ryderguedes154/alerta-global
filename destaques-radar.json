@@ -1,22 +1,9 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T15:51:09.770523Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-27T15:56:22.491802Z",
+  "status": "checado",
   "items": [
-    {
-      "title": "Integrantes do governo Trump passam a morar em bases militares",
-      "summary": "Mudança inédita na capital dos Estados Unidos é motivada pelo aumento de ameaças de violência e planos de ataques estrangeiros",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/integrantes-do-governo-trump-passam-a-morar-em-bases-militares/",
-      "published_on": "27/11/2026 09:07 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTopNews/tagreuters.com2025binary_LYNXMPEL7E0VP-BASEIMAGE.jpg?w=200",
-      "selection": "automatic"
-    },
     {
       "title": "Coreia do Norte suspende ajuda militar à Rússia por causa de disputa em Seul, diz Kiev",
       "summary": "A inteligência militar da Ucrânia disse que Kim Jong-un ordenou pessoalmente a suspensão depois que o vice-ministro das Relações Exteriores da Rússia disse que isso ajudaria a aliviar as tensões entre Seul e Pyongyang.",
@@ -44,6 +31,32 @@
       "selection": "automatic"
     },
     {
+      "title": "Guerra na Ucrânia: para acabar com a carnificina, devemos designar o açougueiro",
+      "summary": "Embora o mestre do Kremlin imponha perdas humanas colossais à Rússia na sua guerra de agressão contra a Ucrânia, devemos parar de acolher o criminoso de guerra Vladimir Putin, colocado sob mandado de prisão do TPI, e reconhecê-lo como o arquitecto desta carnificina.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "FR",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/27/guerre-en-ukraine-pour-arreter-la-boucherie-il-faut-designer-le-boucher_6815842_3232.html",
+      "published_on": "27/11/2026 06:30 (Boa Vista)",
+      "image": "https://img.lemde.fr/2026/11/23/0/0/3763/2509/1440/960/60/0/e90615e_ftp-1-vihxbykrfx05-afp-d8cf6wq.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Trump declara apoio ao Iraque para combater contrabando de petróleo",
+      "summary": "Presidente norte-americano respalda medidas do primeiro-ministro Ali al-Zaidi para submeter armas e recursos ao controle do Estado",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/trump-declara-apoio-ao-iraque-para-combater-contrabando-de-petroleo/",
+      "published_on": "27/11/2026 11:51 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/GettyImages-2268828808.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
       "title": "Trump abraçou Xi e depois impôs novas tarifas à China: qual é o seu plano de jogo?",
       "summary": "O novo regime tarifário do presidente dos EUA tem como alvo mais forte a China, poucas semanas antes de Trump e Xi se encontrarem novamente em Miami.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,19 +67,6 @@
       "url": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
       "published_on": "27/11/2026 08:48 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b095eba50-1795776186_f9e197-1795779007.jpg?resize=1200%2C630&quality=80",
-      "selection": "automatic"
-    },
-    {
-      "title": "Faisal Islam: Por que as novas tarifas de Trump são menos ameaçadoras",
-      "summary": "Outros países redirecionaram o comércio em resposta à sua primeira leva de tarifas e agora estão olhando para além do mandato de Trump.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
-      "published_on": "26/11/2026 15:55 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
       "selection": "automatic"
     },
     {
