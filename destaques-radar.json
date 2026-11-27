@@ -1,9 +1,22 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T12:10:43.967788Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-27T12:15:53.100405Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "ONU alerta que a fome se agravará no Médio Oriente à medida que a guerra, os custos dos combustíveis e os cortes na ajuda colidem",
+      "summary": "CAIRO (AP) – A fome deverá piorar em 16 países nos próximos seis meses, com o Sudão e o Iémen devastados pela guerra entre os cinco países que enfrentam o risco mais grave, alertaram as agências alimentares das Nações Unidas na sexta-feira. As agências apontaram para o conflito, o aumento dos custos dos combustíveis ligados à guerra no Médio Oriente e…",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/un-hunger-famine-food-war-sudan-yemen-819ca5f619621b6f3b7ca8ba66b65762?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+      "published_on": "27/11/2026 08:04 (Boa Vista)",
+      "image": "https://ic-cdn.flipboard.com/apnews.com/3dec53b196df6767b9cb27c459cb8467db8c2d60/_xlarge.jpeg",
+      "selection": "automatic"
+    },
     {
       "title": "A guerra híbrida da Rússia contra a Europa está evoluindo, mas fracassando: IISS",
       "summary": "O aumento dos ataques tem prejudicado a infraestrutura europeia, mas não reduziu o apoio à Ucrânia, segundo uma análise.",
@@ -28,19 +41,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
       "published_on": "27/11/2026 06:31 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/getty_68ae4c0709-1756253191.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "Guerra na Ucrânia: para acabar com a carnificina, devemos designar o açougueiro",
-      "summary": "Embora o mestre do Kremlin imponha perdas humanas colossais à Rússia na sua guerra de agressão contra a Ucrânia, devemos parar de acolher o criminoso de guerra Vladimir Putin, colocado sob mandado de prisão do TPI, e reconhecê-lo como o arquitecto desta carnificina.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/27/guerre-en-ukraine-pour-arreter-la-boucherie-il-faut-designer-le-boucher_6815842_3232.html",
-      "published_on": "27/11/2026 06:30 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/23/0/0/3763/2509/1440/960/60/0/e90615e_ftp-1-vihxbykrfx05-afp-d8cf6wq.jpg",
       "selection": "automatic"
     },
     {
