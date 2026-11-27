@@ -1,8 +1,8 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T06:28:50.157971Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-27T06:34:05.073099Z",
+  "status": "checado",
   "items": [
     {
       "title": "A agência de notícias global AFP informa sobre um ciberataque e desativa sua plataforma de conteúdo",
@@ -70,16 +70,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Imagens de satélite mostram nuvem gigante de fumaça após ataque à maior refinaria da Arábia Saudita",
-      "summary": "Imagem de satélite mostra uma grande nuvem de fumaça sobre a refinaria de petróleo de Ras Tanura, na Arábia Saudita 2026 PLANET LABS PBC / via REUTERS Imagens de satélite feitas na quarta-feira (25) mostram uma grande nuvem de fumaça sobre a maior refinaria de petróleo da Arábia Saudita, depois de um ataque reivindicado pelos houthis - o grupo rebelde do Iêm",
+      "title": "Trump diz que os EUA têm \"quase 50%\" do petróleo mundial",
+      "summary": "Em uma ligação para soldados destacados no Golfo, Donald Trump afirmou que os EUA não \"precisam do petróleo do Oriente Médio\".",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Economia",
       "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/26/imagens-de-satelite-mostram-nuvem-gigante-de-fumaca-sobre-refinaria-na-arabia-saudita.ghtml",
-      "published_on": "26/11/2026 14:32 (Boa Vista)",
-      "image": "",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
+      "published_on": "26/11/2026 21:44 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/trump-oil-thumbnail-1795743787.png?resize=1200%2C675",
       "selection": "automatic"
     },
     {
