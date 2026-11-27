@@ -1,22 +1,9 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T13:55:43.502780Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-27T14:00:54.613559Z",
+  "status": "checado",
   "items": [
-    {
-      "title": "ONU alerta que a fome se agravará no Médio Oriente à medida que a guerra, os custos dos combustíveis e os cortes na ajuda colidem",
-      "summary": "CAIRO (AP) – A fome deverá piorar em 16 países nos próximos seis meses, com o Sudão e o Iémen devastados pela guerra entre os cinco países que enfrentam o risco mais grave, alertaram as agências alimentares das Nações Unidas na sexta-feira. As agências apontaram para o conflito, o aumento dos custos dos combustíveis ligados à guerra no Médio Oriente e…",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/un-hunger-famine-food-war-sudan-yemen-819ca5f619621b6f3b7ca8ba66b65762?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-      "published_on": "27/11/2026 08:04 (Boa Vista)",
-      "image": "https://ic-cdn.flipboard.com/apnews.com/3dec53b196df6767b9cb27c459cb8467db8c2d60/_xlarge.jpeg",
-      "selection": "automatic"
-    },
     {
       "title": "Integrantes do governo Trump passam a morar em bases militares",
       "summary": "Mudança inédita na capital dos Estados Unidos é motivada pelo aumento de ameaças de violência e planos de ataques estrangeiros",
@@ -41,6 +28,19 @@
       "url": "https://www.euronews.com/2026/11/27/north-korea-halts-russia-military-aid-over-seoul-row-kyiv-says",
       "published_on": "27/11/2026 08:53 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/01/11/80/696x392_cmsv2_f1b4f471-d54b-577b-b43d-41cb16f5ccd1-10011180.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "A guerra híbrida da Rússia contra a Europa está evoluindo, mas fracassando: IISS",
+      "summary": "O aumento dos ataques tem prejudicado a infraestrutura europeia, mas não reduziu o apoio à Ucrânia, segundo uma análise.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+      "published_on": "27/11/2026 07:44 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7334e1b027-1785935073.jpg?resize=1200%2C630",
       "selection": "automatic"
     },
     {
