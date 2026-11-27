@@ -1,8 +1,8 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T19:11:15.841160Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-27T19:16:24.487495Z",
+  "status": "checado",
   "items": [
     {
       "title": "ONU alerta que a fome se agravará no Médio Oriente à medida que a guerra, os custos dos combustíveis e os cortes na ajuda colidem",
@@ -15,6 +15,19 @@
       "url": "https://apnews.com/article/un-hunger-famine-food-war-sudan-yemen-819ca5f619621b6f3b7ca8ba66b65762?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
       "published_on": "27/11/2026 08:04 (Boa Vista)",
       "image": "https://ic-cdn.flipboard.com/apnews.com/3dec53b196df6767b9cb27c459cb8467db8c2d60/_xlarge.jpeg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Maior aliado de Putin questiona argumento que Rússia utiliza para guerra",
+      "summary": "Aleksandr Lukashenko concedeu entrevista a uma revista e celebrou sua amizade com o líder russo, repetindo as narrativas de que a Ucrânia teria iniciado o conflito",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/maior-aliado-de-putin-questiona-argumento-que-russia-utiliza-para-guerra/",
+      "published_on": "27/11/2026 14:49 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/putin-durante-reuniao-com-jovens-cientistas-no-kremlin.jpg?w=200",
       "selection": "automatic"
     },
     {
@@ -54,19 +67,6 @@
       "url": "https://www.euronews.com/2026/11/27/russian-drone-strikes-hit-ukraines-energy-rail-and-civilian-infrastructure-causing-deaths",
       "published_on": "27/11/2026 11:16 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/01/11/51/696x392_cmsv2_a97bb7f4-499b-5030-a0cd-2ce4f6d88295-10011151.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Coreia do Norte suspende ajuda militar à Rússia por causa de disputa em Seul, diz Kiev",
-      "summary": "A inteligência militar da Ucrânia disse que Kim Jong-un ordenou pessoalmente a suspensão depois que o vice-ministro das Relações Exteriores da Rússia disse que isso ajudaria a aliviar as tensões entre Seul e Pyongyang.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "EU",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/27/north-korea-halts-russia-military-aid-over-seoul-row-kyiv-says",
-      "published_on": "27/11/2026 08:53 (Boa Vista)",
-      "image": "https://images.euronews.com/articles/stories/10/01/11/80/696x392_cmsv2_f1b4f471-d54b-577b-b43d-41cb16f5ccd1-10011180.jpg",
       "selection": "automatic"
     },
     {
