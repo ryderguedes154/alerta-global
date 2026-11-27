@@ -1,8 +1,8 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T22:10:59.668187Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-27T22:16:53.487025Z",
+  "status": "checado",
   "items": [
     {
       "title": "ONU alerta que a fome se agravará no Médio Oriente à medida que a guerra, os custos dos combustíveis e os cortes na ajuda colidem",
@@ -15,6 +15,19 @@
       "url": "https://apnews.com/article/un-hunger-famine-food-war-sudan-yemen-819ca5f619621b6f3b7ca8ba66b65762?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
       "published_on": "27/11/2026 08:04 (Boa Vista)",
       "image": "https://ic-cdn.flipboard.com/apnews.com/3dec53b196df6767b9cb27c459cb8467db8c2d60/_xlarge.jpeg",
+      "selection": "automatic"
+    },
+    {
+      "title": "As grandes ambições da Rússia em relação à IA são prejudicadas pelas restrições da guerra",
+      "summary": "As autoridades russas veem a inteligência artificial como uma forma de resolver os problemas urgentes do país. Mas o desenvolvimento tecnológico da Rússia tem sido freado.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
+      "published_on": "27/11/2026 17:41 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-russia-AI-001-cfkp/27int-russia-AI-001-cfkp-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
       "published_on": "27/11/2026 14:45 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/6be8b890-ea6b-11f1-99b6-a35a62fa4264.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Novos dados de satélite mostram a rapidez com que algumas cidades africanas estão afundando",
-      "summary": "Um novo estudo mostra que cidades como Lagos e Alexandria estão afundando mais rápido do que se pensava anteriormente.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
-      "published_on": "27/11/2026 15:03 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3110/live/92589920-e988-11f1-9d1c-4dcc8fcde666.jpg",
       "selection": "automatic"
     }
   ]
