@@ -1,9 +1,35 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T15:56:22.491802Z",
+  "checked_at": "2026-11-27T16:01:43.604197Z",
   "status": "checado",
   "items": [
+    {
+      "title": "As negociações sobre o clima implodiram, mas a ‘era da eletricidade’ continua, afirma o chefe de energia",
+      "summary": "Fatih Birol, chefe da Agência Internacional de Energia, disse que as forças do mercado, os centros de dados e a segurança energética estão, de qualquer forma, a impulsionar a transição limpa.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html",
+      "published_on": "27/11/2026 11:18 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27biz-electric-future-kjtf/27biz-electric-future-kjtf-mediumSquareAt3X.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Ataques de drones russos atingiram a infraestrutura energética, ferroviária e civil da Ucrânia, causando mortes",
+      "summary": "Após uma série de greves russas e com o início do frio invernal, a Ucrânia foi forçada a suspender todas as exportações de electricidade, enquanto as importações atingiram o nível mais elevado desde meados de Junho.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/27/russian-drone-strikes-hit-ukraines-energy-rail-and-civilian-infrastructure-causing-deaths",
+      "published_on": "27/11/2026 11:16 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/10/01/11/51/696x392_cmsv2_a97bb7f4-499b-5030-a0cd-2ce4f6d88295-10011151.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Coreia do Norte suspende ajuda militar à Rússia por causa de disputa em Seul, diz Kiev",
       "summary": "A inteligência militar da Ucrânia disse que Kim Jong-un ordenou pessoalmente a suspensão depois que o vice-ministro das Relações Exteriores da Rússia disse que isso ajudaria a aliviar as tensões entre Seul e Pyongyang.",
@@ -28,19 +54,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
       "published_on": "27/11/2026 07:44 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7334e1b027-1785935073.jpg?resize=1200%2C630",
-      "selection": "automatic"
-    },
-    {
-      "title": "Guerra na Ucrânia: para acabar com a carnificina, devemos designar o açougueiro",
-      "summary": "Embora o mestre do Kremlin imponha perdas humanas colossais à Rússia na sua guerra de agressão contra a Ucrânia, devemos parar de acolher o criminoso de guerra Vladimir Putin, colocado sob mandado de prisão do TPI, e reconhecê-lo como o arquitecto desta carnificina.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/27/guerre-en-ukraine-pour-arreter-la-boucherie-il-faut-designer-le-boucher_6815842_3232.html",
-      "published_on": "27/11/2026 06:30 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/23/0/0/3763/2509/1440/960/60/0/e90615e_ftp-1-vihxbykrfx05-afp-d8cf6wq.jpg",
       "selection": "automatic"
     },
     {
@@ -93,19 +106,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
       "published_on": "27/11/2026 10:49 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/6be8b890-ea6b-11f1-99b6-a35a62fa4264.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "A migração líquida para o Reino Unido cai para o nível mais baixo desde 1997, excluindo a pandemia",
-      "summary": "A queda foi impulsionada principalmente pela redução do número de pessoas vindas de fora da União Europeia. Isso reflete a ação do governo para restringir a imigração após uma reação negativa do público.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Saúde",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
-      "published_on": "26/11/2026 14:52 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg",
       "selection": "automatic"
     }
   ]
