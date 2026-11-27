@@ -1,7 +1,7 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T15:03:50.283718Z",
+  "checked_at": "2026-11-27T15:08:59.929367Z",
   "status": "checado",
   "items": [
     {
@@ -83,19 +83,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Centenas de milhares ainda sem energia depois que tempestades atingiram os EUA no Dia de Ação de Graças",
-      "summary": "A Pensilvânia e os estados vizinhos continuam gravemente afetados na sexta-feira, depois que ambas as costas foram atingidas por vento e chuva.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-      "published_on": "27/11/2026 10:49 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/6be8b890-ea6b-11f1-99b6-a35a62fa4264.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "A migração líquida para o Reino Unido cai para o nível mais baixo desde 1997, excluindo a pandemia",
       "summary": "A queda foi impulsionada principalmente pela redução do número de pessoas vindas de fora da União Europeia. Isso reflete a ação do governo para restringir a imigração após uma reação negativa do público.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
       "published_on": "26/11/2026 14:52 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Trump aprova declaração de grande desastre na Flórida após tempestades",
+      "summary": "Decisão libera verbas federais de emergência da FEMA para atender vítimas de inundações históricas registradas desde outubro",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/trump-aprova-declaracao-de-grande-desastre-na-florida-apos-tempestades/",
+      "published_on": "27/11/2026 09:08 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/tempestade-dia-de-acao-de-gracas.jpeg.png?w=200",
       "selection": "automatic"
     }
   ]
