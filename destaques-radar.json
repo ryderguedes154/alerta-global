@@ -1,7 +1,7 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T10:10:29.209170Z",
+  "checked_at": "2026-11-27T10:15:38.922785Z",
   "status": "checado",
   "items": [
     {
@@ -18,6 +18,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Corte Internacional julga ex-presidente das Filipinas por guerra às drogas",
+      "summary": "Duterte, de 81 anos, enfrenta acusações relacionadas a 84 assassinatos e duas tentativas de assassinato entre 2011 e 2018, incluindo o período em que foi prefeito da cidade de Davao e os primeiros anos de sua Presidência",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/corte-internacional-julga-ex-presidente-das-filipinas-por-guerra-as-drogas/",
+      "published_on": "27/11/2026 06:03 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/42729_66C2F17932011292.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
       "title": "Eleições presidenciais de 2027: Nicolas Dupont-Aignan quer impedir a ajuda francesa à Ucrânia, acusada de “alimentar o conflito”",
       "summary": "Enquanto o assunto divide os candidatos ao Eliseu, Nicolas Dupont-Aignan faz do fim do apoio francês um eixo central da sua campanha presidencial. “A guerra na Ucrânia é a ruína do continente europeu”, disse ele na RTL.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -28,19 +41,6 @@
       "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-nicolas-dupont-aignan-veut-arreter-l-aide-francaise-a-l-ukraine-accusee-d-alimenter-le-conflit_6815835_823448.html",
       "published_on": "27/11/2026 06:00 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/11/24/0/0/5550/3700/1440/960/60/0/5e1afbc_ftp-1-maicln6yllkv-afp-d8fl6ut.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Os democratas querem acabar com a guerra de Trump no Irão. Mas quão diferentes eles são?",
-      "summary": "Décadas de pressão bipartidária sobre Teerão levantam questões sobre até que ponto os Democratas estão dispostos a mudar a política dos EUA.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
-      "published_on": "27/11/2026 05:43 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2024/07/2023-05-16T204100Z_1454706077_RC2WZ0ATGSU9_RTRMADP_3_USA-DEBT-1721708842.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
