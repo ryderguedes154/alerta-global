@@ -1,20 +1,33 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T10:20:48.452012Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-27T10:25:57.469440Z",
+  "status": "checado",
   "items": [
     {
-      "title": "Irã acusado de realizar ataque de drone que matou dois italianos no Kuwait",
-      "summary": "O Irã nega estar por trás de um ataque mortal a uma instalação militar do Kuwait que matou dois cidadãos italianos.",
+      "title": "Irã nega responsabilidade pelo ataque de drone no Kuwait que matou dois italianos",
+      "summary": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, classificou as acusações como infundadas e o incidente como \"suspeito\" e se ofereceu para cooperar em uma investigação conjunta. O Kuwait chamou isso de \"uma hedionda agressão iraniana\". Arábia Saudita, Bahrein, Catar e Emirados Árabes Unidos condenaram o ataque.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "US",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
-      "published_on": "27/11/2026 06:07 (Boa Vista)",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/26/9d94126a-cf9a-44ed-9f77-30461774944e/thumbnail/1200x630g2/2cd022452cd8713f2d0b6637141738bf/2026-11-20t110959z-393580283-rc2kroah1egc-rtrmadp-3-iran-crisis.jpg",
+      "country": "EU",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/27/iran-denies-responsibility-for-kuwait-drone-strike-that-killed-two-italians",
+      "published_on": "27/11/2026 06:20 (Boa Vista)",
+      "image": "https://images.euronews.com/articles/stories/10/01/04/45/696x392_cmsv2_d2f2807d-6cfc-5a6c-91cf-c5d92d32bdd8-10010445.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Zelenskyy diz que Trump chamar Putin de \"amigo\" é como declarar amizade com Hitler durante a Segunda Guerra Mundial – Europe live",
+      "summary": "O presidente da Ucrânia classifica os comentários de seu colega dos EUA como \"estranhos\" e pede a Washington que aumente a pressão sobre Moscou. Durante a noite, caças da OTAN e um drone interceptor foram acionados na Letônia depois que um drone entrou brevemente no espaço aéreo do país perto de sua fronteira com a Rússia, informou o Exército. Desde o início",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+      "published_on": "27/11/2026 06:13 (Boa Vista)",
+      "image": "https://i.guim.co.uk/img/media/354c5812d4a80c57aef34315306550f125254a44/222_0_3863_3089/master/3863.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=50536612a0090a8c0c4ed7f5ce72f05e",
       "selection": "automatic"
     },
     {
@@ -28,19 +41,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/corte-internacional-julga-ex-presidente-das-filipinas-por-guerra-as-drogas/",
       "published_on": "27/11/2026 06:03 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/42729_66C2F17932011292.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Eleições presidenciais de 2027: Nicolas Dupont-Aignan quer impedir a ajuda francesa à Ucrânia, acusada de “alimentar o conflito”",
-      "summary": "Enquanto o assunto divide os candidatos ao Eliseu, Nicolas Dupont-Aignan faz do fim do apoio francês um eixo central da sua campanha presidencial. “A guerra na Ucrânia é a ruína do continente europeu”, disse ele na RTL.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-nicolas-dupont-aignan-veut-arreter-l-aide-francaise-a-l-ukraine-accusee-d-alimenter-le-conflit_6815835_823448.html",
-      "published_on": "27/11/2026 06:00 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/24/0/0/5550/3700/1440/960/60/0/5e1afbc_ftp-1-maicln6yllkv-afp-d8fl6ut.jpg",
       "selection": "automatic"
     },
     {
