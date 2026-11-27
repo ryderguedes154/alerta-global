@@ -1,7 +1,7 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T03:04:47.228454Z",
+  "checked_at": "2026-11-27T03:09:57.129839Z",
   "status": "checado",
   "items": [
     {
@@ -57,16 +57,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Por dentro da crise energética da Ucrânia em meio à sua guerra com a Rússia",
-      "summary": "A falta de eletricidade e água se tornou parte da vida cotidiana na capital da Ucrânia.",
+      "title": "Zelensky alerta para um grande ataque russo enquanto Trump pede a Putin que \"se retire\"",
+      "summary": "Trump diz que pediu a Putin que \"recuasse\" na agressão militar na Europa em meio à escalada dos ataques russos e ucranianos.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "QA",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
-      "published_on": "26/11/2026 20:46 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740363.jpg?resize=1920%2C1080&quality=80",
+      "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+      "published_on": "26/11/2026 22:14 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b08bc55aa9c5-1795734613.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
