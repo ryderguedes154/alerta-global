@@ -1,8 +1,8 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T08:08:43.437588Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-27T08:14:35.964628Z",
+  "status": "checado",
   "items": [
     {
       "title": "A agência de notícias global AFP informa sobre um ciberataque e desativa sua plataforma de conteúdo",
@@ -31,6 +31,19 @@
       "selection": "automatic"
     },
     {
+      "title": "As sanções ocidentais contra os colonos israelenses servem para proteger o Estado de Israel",
+      "summary": "A tomada de Jericó pelos colonos expõe a inadequação das sanções que visam apenas os colonos e suas organizações.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/11/27/western-sanctions-on-israeli-settlers-serve-to-shield-the-israeli-state?traffic_source=rss",
+      "published_on": "27/11/2026 03:09 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b080ddbbb307-1795689947.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
+    {
       "title": "Irã acusado de realizar ataque de drone que matou dois italianos no Kuwait",
       "summary": "O Irã nega estar por trás de um ataque mortal a uma instalação militar do Kuwait que matou dois cidadãos italianos.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -41,19 +54,6 @@
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
       "published_on": "26/11/2026 22:29 (Boa Vista)",
       "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/26/9d94126a-cf9a-44ed-9f77-30461774944e/thumbnail/1200x630g2/2cd022452cd8713f2d0b6637141738bf/2026-11-20t110959z-393580283-rc2kroah1egc-rtrmadp-3-iran-crisis.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Zelensky alerta para um grande ataque russo enquanto Trump pede a Putin que \"se retire\"",
-      "summary": "Trump diz que pediu a Putin que \"recuasse\" na agressão militar na Europa em meio à escalada dos ataques russos e ucranianos.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
-      "published_on": "26/11/2026 22:14 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b08bc55aa9c5-1795734613.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
@@ -83,19 +83,6 @@
       "selection": "automatic"
     },
     {
-      "title": "A mudança forçada dos aliados da OTAN para operações militares impulsionadas pela IA da Palantir",
-      "summary": "No dia 30 de outubro, na base de Adazi, na Letônia, foi realizada uma simulação em escala real de defesa do território da Aliança Atlântica, totalmente coordenada pela inteligência artificial do sistema americano Palantir. O exercício ocorreu no contexto de uma luta implacável entre fabricantes de armas e unicórnios da inteligência artificial.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/international/article/2026/11/26/le-virage-au-forceps-des-allies-de-l-otan-vers-des-operations-militaires-dopees-a-l-ia-de-palantir_6815581_3210.html",
-      "published_on": "26/11/2026 13:35 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/24/208/0/5000/3333/1440/960/60/0/d556a3e_upload-1-05s1dfxtsgt3-fuse-2026-30102026reinis-hofmanis-053-copy-2.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "O presidente da TUI quer que a UE reduza a burocracia, atraia talentos e expanda a energia verde",
       "summary": "A Euronews conversou com o CEO da TUI, Sebastian Ebel, sobre navios de cruzeiro movidos a esterco, migração, dependência dos EUA, inteligência artificial e o futuro do turismo.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://www.euronews.com/2026/11/26/tui-boss-wants-eu-to-cut-bureaucracy-attract-talent-and-expand-green-energy",
       "published_on": "26/11/2026 07:51 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/09/97/23/38/696x392_cmsv2_e2ee8cd8-585c-53f1-9faf-cade74f06239-9972338.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Poderá Rassvet, 'Starlink da Rússia', mudar o curso da guerra na Ucrânia?",
+      "summary": "O sistema de satélite Starlink dos EUA da SpaceX desempenhou um papel fundamental no combate aos militares russos na Ucrânia, mas agora um homólogo russo está em desenvolvimento. O que isto poderá significar para a Ucrânia no futuro?",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "DE",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-all-1573-rdf",
+      "published_on": "26/11/2026 01:45 (Boa Vista)",
+      "image": "https://static.dw.com/image/71856660_6.jpg",
       "selection": "automatic"
     }
   ]
