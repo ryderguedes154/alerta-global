@@ -1,22 +1,9 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T04:48:41.050139Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-27T04:53:49.883851Z",
+  "status": "checado",
   "items": [
-    {
-      "title": "À frente do BCE, um trio recém-nomeado para proteger a Europa da inflação… e talvez a França de um ataque aos mercados",
-      "summary": "Segundo fontes diplomáticas europeias, os líderes dos 21 países da zona euro designaram, na quinta-feira, o trio que ocupará os cargos mais influentes no Banco Central Europeu. O espanhol Pablo Hernandez de Cos sucederá Christine Lagarde como presidente da instituição monetária, a francesa Laurence Boone será responsável pelos mercados financeiros",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
-      "published_on": "26/11/2026 11:04 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/26/0/0/6000/4000/1440/960/60/0/98cc741_upload-1-gjf1s9dawpkv-ap26330506683267.jpg",
-      "selection": "automatic"
-    },
     {
       "title": "A agência de notícias global AFP informa sobre um ciberataque e desativa sua plataforma de conteúdo",
       "summary": "O chefe de cibersegurança da França pede uma ação coletiva para combater níveis de ameaça sem precedentes no país.",
@@ -80,6 +67,19 @@
       "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
       "published_on": "26/11/2026 15:55 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Imagens de satélite mostram nuvem gigante de fumaça após ataque à maior refinaria da Arábia Saudita",
+      "summary": "Imagem de satélite mostra uma grande nuvem de fumaça sobre a refinaria de petróleo de Ras Tanura, na Arábia Saudita 2026 PLANET LABS PBC / via REUTERS Imagens de satélite feitas na quarta-feira (25) mostram uma grande nuvem de fumaça sobre a maior refinaria de petróleo da Arábia Saudita, depois de um ataque reivindicado pelos houthis - o grupo rebelde do Iêm",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/26/imagens-de-satelite-mostram-nuvem-gigante-de-fumaca-sobre-refinaria-na-arabia-saudita.ghtml",
+      "published_on": "26/11/2026 14:32 (Boa Vista)",
+      "image": "",
       "selection": "automatic"
     },
     {
