@@ -1,8 +1,8 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T13:24:04.957395Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-27T13:29:47.356441Z",
+  "status": "checado",
   "items": [
     {
       "title": "ONU alerta que a fome se agravará no Médio Oriente à medida que a guerra, os custos dos combustíveis e os cortes na ajuda colidem",
@@ -18,6 +18,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Integrantes do governo Trump passam a morar em bases militares",
+      "summary": "Mudança inédita na capital dos Estados Unidos é motivada pelo aumento de ameaças de violência e planos de ataques estrangeiros",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/integrantes-do-governo-trump-passam-a-morar-em-bases-militares/",
+      "published_on": "27/11/2026 09:07 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTopNews/tagreuters.com2025binary_LYNXMPEL7E0VP-BASEIMAGE.jpg?w=200",
+      "selection": "automatic"
+    },
+    {
       "title": "Coreia do Norte suspende ajuda militar à Rússia por causa de disputa em Seul, diz Kiev",
       "summary": "A inteligência militar da Ucrânia disse que Kim Jong-un ordenou pessoalmente a suspensão depois que o vice-ministro das Relações Exteriores da Rússia disse que isso ajudaria a aliviar as tensões entre Seul e Pyongyang.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -28,19 +41,6 @@
       "url": "https://www.euronews.com/2026/11/27/north-korea-halts-russia-military-aid-over-seoul-row-kyiv-says",
       "published_on": "27/11/2026 08:53 (Boa Vista)",
       "image": "https://images.euronews.com/articles/stories/10/01/11/80/696x392_cmsv2_f1b4f471-d54b-577b-b43d-41cb16f5ccd1-10011180.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "A guerra híbrida da Rússia contra a Europa está evoluindo, mas fracassando: IISS",
-      "summary": "O aumento dos ataques tem prejudicado a infraestrutura europeia, mas não reduziu o apoio à Ucrânia, segundo uma análise.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
-      "published_on": "27/11/2026 07:44 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7334e1b027-1785935073.jpg?resize=1200%2C630",
       "selection": "automatic"
     },
     {
@@ -83,19 +83,6 @@
       "selection": "automatic"
     },
     {
-      "title": "Tempestades nos Estados Unidos: mais de 900 mil residências sem energia elétrica na Costa Leste no Dia de Ação de Graças",
-      "summary": "Fortes chuvas, ventos violentos e inundações costeiras afetaram o leste do país neste feriado nos Estados Unidos.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/international/article/2026/11/27/tempetes-aux-etats-unis-plus-de-900-000-foyers-sans-electricite-sur-la-cote-est-le-jour-de-thanksgiving_6815813_3210.html",
-      "published_on": "27/11/2026 03:29 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/26/0/0/3000/2000/1440/960/60/0/749bdf1_ftp-1-izsih3aadf87-2026-11-26t232342z-1804723672-rc28voaf65ho-rtrmadp-3-usa-storm.JPG",
-      "selection": "automatic"
-    },
-    {
       "title": "A migração líquida para o Reino Unido cai para o nível mais baixo desde 1997, excluindo a pandemia",
       "summary": "A queda foi impulsionada principalmente pela redução do número de pessoas vindas de fora da União Europeia. Isso reflete a ação do governo para restringir a imigração após uma reação negativa do público.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
       "published_on": "26/11/2026 14:52 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Trump aprova declaração de grande desastre na Flórida após tempestades",
+      "summary": "Decisão libera verbas federais de emergência da FEMA para atender vítimas de inundações históricas registradas desde outubro",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/trump-aprova-declaracao-de-grande-desastre-na-florida-apos-tempestades/",
+      "published_on": "27/11/2026 09:08 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/tempestade-dia-de-acao-de-gracas.jpeg.png?w=200",
       "selection": "automatic"
     }
   ]
