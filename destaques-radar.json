@@ -1,8 +1,8 @@
 {
   "edition": "26/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T00:06:01.236036Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-27T00:11:11.206153Z",
+  "status": "checado",
   "items": [
     {
       "title": "À frente do BCE, um trio recém-nomeado para proteger a Europa da inflação… e talvez a França de um ataque aos mercados",
@@ -27,7 +27,20 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
       "published_on": "26/11/2026 17:17 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png",
+      "selection": "automatic"
+    },
+    {
+      "title": "Guerra do Irã ao vivo: Araghchi do Irã chama ataque mortal no Kuwait de 'suspeito'",
+      "summary": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, disse que o incidente mortal no Kuwait é “suspeito” e parece uma “receita pré-preparada” para a guerra.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+      "published_on": "26/11/2026 20:00 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-24T114809Z_325563367_RC2L3LAZPF22_RTRMADP_3_IRAN-CRISIS-TANKERS-CMBTECH-1795731128.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
@@ -41,19 +54,6 @@
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
       "published_on": "26/11/2026 16:35 (Boa Vista)",
       "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/26/9d94126a-cf9a-44ed-9f77-30461774944e/thumbnail/1200x630g2/2cd022452cd8713f2d0b6637141738bf/2026-11-20t110959z-393580283-rc2kroah1egc-rtrmadp-3-iran-crisis.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Trump pede a Putin que ponha fim à \"agressão militar\" na Europa",
-      "summary": "O presidente dos Estados Unidos, Donald Trump, disse na quinta-feira que havia pedido a Vladimir Putin para \"recuar com toda a agressão militar\" contra a Europa, em uma mudança de tom em relação ao líder russo, a quem chamou de amigo há apenas uma semana. Trump disse que havia feito o pedido a Putin quando se encontraram na China na semana passada, acrescent",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "FR",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/trump-urges-putin-to-end-military-aggression-in-europe",
-      "published_on": "26/11/2026 16:10 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/d6c3707a-e9d4-11f1-8cb6-174dac1c1bf0/w:1024/p:16x9/EN-20261126-200333-200843-CS.jpg",
       "selection": "automatic"
     },
     {
