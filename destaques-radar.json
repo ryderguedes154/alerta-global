@@ -1,8 +1,8 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T23:04:06.441950Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-27T23:10:03.903814Z",
+  "status": "checado",
   "items": [
     {
       "title": "ONU alerta que a fome se agravará no Médio Oriente à medida que a guerra, os custos dos combustíveis e os cortes na ajuda colidem",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Novos dados de satélite mostram a rapidez com que algumas cidades africanas estão afundando",
-      "summary": "Um novo estudo mostra que cidades como Lagos e Alexandria estão afundando mais rápido do que se pensava anteriormente.",
+      "title": "Centenas de milhares de pessoas ainda estão sem energia um dia depois de os EUA serem atingidos por tempestades no Dia de Ação de Graças",
+      "summary": "A Pensilvânia e os estados vizinhos continuam gravemente afetados nesta sexta-feira, depois que ambas as costas foram atingidas por ventos e chuvas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
+      "category": "Clima e desastres",
       "region": "Global",
       "country": "GB",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
-      "published_on": "27/11/2026 15:03 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3110/live/92589920-e988-11f1-9d1c-4dcc8fcde666.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+      "published_on": "27/11/2026 18:29 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/058e/live/011ab230-eaab-11f1-9d2d-dd9286f639a6.jpg",
       "selection": "automatic"
     }
   ]
