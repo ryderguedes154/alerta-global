@@ -1,22 +1,9 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-27T09:17:20.399730Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-27T09:22:32.566109Z",
+  "status": "checado",
   "items": [
-    {
-      "title": "Dois italianos mortos em ataque no Kuwait, enquanto o Irã nega responsabilidade",
-      "summary": "Os dois eram técnicos da empresa alemã Rheinmetall, segundo o Ministério das Relações Exteriores da Itália.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "published_on": "26/11/2026 17:17 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png",
-      "selection": "automatic"
-    },
     {
       "title": "As sanções ocidentais contra os colonos israelenses servem para proteger o Estado de Israel",
       "summary": "A tomada de Jericó pelos colonos expõe a inadequação das sanções que visam apenas os colonos e suas organizações.",
@@ -28,6 +15,19 @@
       "url": "https://www.aljazeera.com/opinions/2026/11/27/western-sanctions-on-israeli-settlers-serve-to-shield-the-israeli-state?traffic_source=rss",
       "published_on": "27/11/2026 03:09 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b080ddbbb307-1795689947.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
+    {
+      "title": "Dois italianos mortos em ataque no Kuwait, enquanto o Irã nega responsabilidade",
+      "summary": "Os dois eram técnicos da empresa alemã Rheinmetall, segundo o Ministério das Relações Exteriores da Itália.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "published_on": "26/11/2026 17:17 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png",
       "selection": "automatic"
     },
     {
