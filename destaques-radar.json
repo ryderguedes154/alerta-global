@@ -1,9 +1,22 @@
 {
   "edition": "28/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T09:00:17.950076Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T09:05:23.784148Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Análise: Guerra da Ucrânia se espalha pela Europa, e a situação vai piorar",
+      "summary": "Divergências de controle territorial e exigências sobre Otan travam negociações para encerrar conflito",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/analise-guerra-da-ucrania-se-espalha-pela-europa-e-a-situacao-vai-piorar/",
+      "published_on": "28/11/2026 05:00 (Boa Vista)",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-26T125530Z_1_LYNXNPEMAP14K_RTROPTP_4_UKRAINE-CRISIS-ATTACK-KYIV.jpg?w=200",
+      "selection": "automatic"
+    },
     {
       "title": "Rússia afirma ter derrubado mais de 1,2 mil drones ucranianos em ataque",
       "summary": "Agora no g1 As forças de defesa aérea da Rússia derrubaram 1.246 drones ucranianos durante a noite, informou neste sábado (28) o Ministério da Defesa russo. Mais de 400 aparelhos teriam sido lançados em direção a Moscou, capital do país. 📱Baixe o app do g1 para ver notícias em tempo real e de graça Desse total, 123 foram abatidos nas proximidades da cidade,",
@@ -28,19 +41,6 @@
       "url": "https://www.lemonde.fr/international/article/2026/11/28/guerre-en-ukraine-kiev-assume-l-extension-du-conflit-sur-de-nouveaux-fronts_6816064_3210.html",
       "published_on": "28/11/2026 01:00 (Boa Vista)",
       "image": "https://img.lemde.fr/2026/11/22/800/0/1200/800/1440/960/60/0/b8f571f_ftp-1-j7e9teid7xge-6082be9426e44ae8b001d82383da4ecd-0-ada77763185b40e9912dae47688c71fb.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Taiwan vai às urnas em eleições locais sob pressão militar da China",
-      "summary": "Eleitores registram seus votos em uma seção eleitoral de Taipei, em Taiwan, durante as eleições locais de 28 de novembro de 2026. Yu Chih Wei/Reuters Taiwan realiza eleições locais neste sábado (28) para escolher prefeitos, chefes de condado e outros representantes. As campanhas se concentraram em temas como transporte e meio ambiente, mas a votação ocorre s",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/28/taiwan-vai-as-urnas-eleicoes-locais-pressao-militar-china.ghtml",
-      "published_on": "28/11/2026 00:27 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/IIoy2XaSwvD-5K0bTso3DNct2v8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/N/K7yz0gQgy98oCYW1AK1g/2026-11-28t033950z-1248353782-rc2pwoaquuw3-rtrmadp-3-taiwan-election-1-.jpg",
       "selection": "automatic"
     },
     {
