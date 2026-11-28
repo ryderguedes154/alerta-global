@@ -1,8 +1,8 @@
 {
   "edition": "28/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T06:54:40.303589Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T07:00:29.607591Z",
+  "status": "checado",
   "items": [
     {
       "title": "Guerra na Ucrânia: Kyiv assume a extensão do conflito para novas frentes",
@@ -31,16 +31,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Israel mata dois membros da equipe de MSF em ataque direcionado a clínica em Gaza",
-      "summary": "Um ataque israelense a uma clínica operada por Médicos Sem Fronteiras (MSF) em Gaza matou dois vigias.",
+      "title": "\"Ataque direto\" de Israel à clínica de Médicos Sem Fronteiras em Gaza mata dois funcionários",
+      "summary": "MSF afirma que o ataque israelense à clínica em Gaza foi um \"acerto direto\" e pede que os responsáveis sejam responsabilizados.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
       "country": "QA",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
-      "published_on": "27/11/2026 21:55 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-israel-kills-msf-staff-2711-1795830840.png?resize=1920%2C1080&quality=80",
+      "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+      "published_on": "27/11/2026 23:45 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a40eea0b0-1795834094.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
