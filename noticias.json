@@ -2392,20 +2392,6 @@
     "summary_pt": "Em meio a um surto de gripe, as autoridades de saúde estão pedindo às pessoas que tomem a vacina — mas e se você for jovem e saudável?"
   },
   {
-    "title": "Tech Now",
-    "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
-    "category": "Tecnologia",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-28T01:00:00Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq7bs2.jpg",
-    "title_pt": "Tecnologia agora",
-    "summary_pt": "Ammie Sekhon estuda a robótica que um dia poderá ajudar as espaçonaves a agir de forma independente."
-  },
-  {
     "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
     "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
     "category": "Geral",
@@ -2418,6 +2404,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26331708903788-1795825299.jpg?resize=1920%2C1440",
     "title_pt": "Milhares de porto-riquenhos participam do protesto do \"Dia da Indignação Nacional\"",
     "summary_pt": "A raiva e a frustração explodem devido às tarifas de eletricidade recordes, ao aumento do custo de vida e à deterioração dos serviços básicos."
+  },
+  {
+    "title": "Tech Now",
+    "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
+    "category": "Tecnologia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-28T01:00:00Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq7bs2.jpg",
+    "title_pt": "Tecnologia agora",
+    "summary_pt": "Ammie Sekhon estuda a robótica que um dia poderá ajudar as espaçonaves a agir de forma independente."
   },
   {
     "title": "MP exige estudos técnicos para o Carnaval de 2027 em SP",
@@ -2546,7 +2546,7 @@
     "summary_pt": "Pesquisa da Anbima aponta que a aplicação perdeu espaço desde 2021 enquanto aumenta o interesse da população por títulos privados como o CDB"
   },
   {
-    "title": "Israeli strike killed two MSF workers in Gaza, charity says",
+    "title": "Charity 'outraged' after staff killed in Gaza",
     "summary": "A humanitarian medical charity says it is \"devastated and outraged\" after two civil guards at one of its offices in Gaza were killed in an Israeli strike.",
     "category": "Geral",
     "region": "Global",
@@ -2556,8 +2556,8 @@
     "date": "2026-11-28T00:33:00Z",
     "lang": "en",
     "image": "https://e3.365dm.com/26/11/1920x1080/skynews-msf-gaza-palestinian_7418384.jpg?20261128082520",
-    "title_pt": "Ataque israelense matou dois funcionários de MSF em Gaza, diz a organização humanitária",
-    "summary_pt": "Uma organização médica humanitária sem fins lucrativos afirma estar \"devastada e indignada\" após dois guardas civis de um de seus escritórios em Gaza terem sido mortos em um ataque israelense."
+    "title_pt": "Organização de caridade \"indignada\" após morte de funcionários em Gaza",
+    "summary_pt": "Uma instituição de caridade médica humanitária diz estar “devastada e indignada” depois de dois guardas civis num dos seus escritórios em Gaza terem sido mortos num ataque israelita."
   },
   {
     "title": "Investidores em ETFs no Brasil aumentam 34% em um ano, segundo B3",
@@ -5620,7 +5620,7 @@
   {
     "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
     "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
-    "category": "Economia",
+    "category": "Saúde",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
