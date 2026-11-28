@@ -372,20 +372,6 @@
     "summary_pt": "Em meio a um surto de gripe, as autoridades de saúde estão pedindo às pessoas que tomem a vacina — mas e se você for jovem e saudável?"
   },
   {
-    "title": "Tech Now",
-    "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
-    "category": "Tecnologia",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-28T01:00:00Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq7bs2.jpg",
-    "title_pt": "Tecnologia agora",
-    "summary_pt": "Ammie Sekhon estuda a robótica que um dia poderá ajudar as espaçonaves a agir de forma independente."
-  },
-  {
     "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
     "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
     "category": "Geral",
@@ -398,6 +384,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26331708903788-1795825299.jpg?resize=1920%2C1440",
     "title_pt": "Milhares de porto-riquenhos participam do protesto do \"Dia da Indignação Nacional\"",
     "summary_pt": "A raiva e a frustração explodem devido às tarifas de eletricidade recordes, ao aumento do custo de vida e à deterioração dos serviços básicos."
+  },
+  {
+    "title": "Tech Now",
+    "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
+    "category": "Tecnologia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-28T01:00:00Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq7bs2.jpg",
+    "title_pt": "Tecnologia agora",
+    "summary_pt": "Ammie Sekhon estuda a robótica que um dia poderá ajudar as espaçonaves a agir de forma independente."
   },
   {
     "title": "MP exige estudos técnicos para o Carnaval de 2027 em SP",
@@ -6236,7 +6236,7 @@
   {
     "title": "Why is there a shortage of 'wizard' elevator mechanics?",
     "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6278,7 +6278,7 @@
   {
     "title": "Asia made a big AI bet on Nvidia. What happens now?",
     "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
