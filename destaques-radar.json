@@ -1,9 +1,22 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T00:34:39.744510Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T00:39:48.157069Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Guerra do Irã ao vivo: Itália diz que drone no ataque mortal ao Kuwait foi feito no Irã",
+      "summary": "O ministro das Relações Exteriores italiano, Antonio Tajani, diz que o drone por trás do ataque mortal ao Kuwait foi fabricado no Irã.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+      "published_on": "27/11/2026 20:00 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795823699.jpg?resize=1920%2C1080&quality=80",
+      "selection": "automatic"
+    },
     {
       "title": "As grandes ambições da Rússia em relação à IA são prejudicadas pelas restrições da guerra",
       "summary": "As autoridades russas veem a inteligência artificial como uma forma de resolver os problemas urgentes do país. Mas o desenvolvimento tecnológico da Rússia tem sido freado.",
@@ -41,19 +54,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
       "published_on": "27/11/2026 16:39 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09e278cdc4-1795809913.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
-      "title": "Israel mata quatro pessoas em Gaza enquanto o filho do líder do Hamas, al-Hayya, sobrevive ao ataque",
-      "summary": "Quatro dos outros filhos de Khalil al-Hayya foram mortos anteriormente pelas forças israelenses, segundo o grupo palestino.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
-      "published_on": "27/11/2026 15:53 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09d72e1273-1795807022.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
