@@ -1,9 +1,22 @@
 {
   "edition": "28/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T10:02:05.412996Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T10:07:13.895244Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Os ataques profundos da Ucrânia aumentam em escala e alcance na Rússia e além dela",
+      "summary": "Uma campanha destinada a privar a máquina de guerra de Moscou de combustível, armas e dinheiro foi criticada pelo governo Trump.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html",
+      "published_on": "28/11/2026 06:02 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-ukraine-air-war-01-top-kgtp/28int-ukraine-air-war-01-top-kgtp-mediumSquareAt3X-v2.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Análise: Guerra da Ucrânia se espalha pela Europa, e a situação vai piorar",
       "summary": "Divergências de controle territorial e exigências sobre Otan travam negociações para encerrar conflito",
@@ -28,19 +41,6 @@
       "url": "https://g1.globo.com/mundo/noticia/2026/11/28/russia-afirma-ter-derrubado-mais-de-12-mil-drones-ucranianos-em-ataque.ghtml",
       "published_on": "28/11/2026 03:32 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/bumEVIfU6UgumRtgUVEDpEZc9Kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/P/MCS7qWT5CUxvbGc1wBZQ/2026-07-18t094243z-508980871-rc29gmasuksp-rtrmadp-3-ukraine-crisis-russia-attacks.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Guerra na Ucrânia: Kyiv assume a extensão do conflito para novas frentes",
-      "summary": "Nos últimos dias, a Ucrânia tornou-se encorajada, atacando navios russos no Mar Báltico e no Mediterrâneo, até mesmo no porto líbio de Benghazi. Kyiv procura motivar a aliança ocidental a continuar a ajudar o país. Mas, confrontados com esta nova escalada, os europeus estão divididos entre o apoio e a preocupação.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "FR",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/international/article/2026/11/28/guerre-en-ukraine-kiev-assume-l-extension-du-conflit-sur-de-nouveaux-fronts_6816064_3210.html",
-      "published_on": "28/11/2026 01:00 (Boa Vista)",
-      "image": "https://img.lemde.fr/2026/11/22/800/0/1200/800/1440/960/60/0/b8f571f_ftp-1-j7e9teid7xge-6082be9426e44ae8b001d82383da4ecd-0-ada77763185b40e9912dae47688c71fb.jpg",
       "selection": "automatic"
     },
     {
