@@ -1,8 +1,8 @@
 {
   "edition": "28/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T07:21:10.283883Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T07:26:19.114879Z",
+  "status": "checado",
   "items": [
     {
       "title": "Guerra na Ucrânia: Kyiv assume a extensão do conflito para novas frentes",
@@ -70,19 +70,6 @@
       "selection": "automatic"
     },
     {
-      "title": "O controverso compromisso da Índia e da China de incorporar a sua medicina tradicional na OMS: “A economia é o que governa tudo isto”",
-      "summary": "A organização procura evidências para integrar estes tratamentos naturais, enquanto ex-diretores da agência questionam uma viragem que coincide com a saída dos Estados Unidos: “Não é uma alternativa ao subfinanciamento, as pessoas vão morrer”",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Saúde",
-      "region": "Global",
-      "country": "ES",
-      "source": "El País",
-      "url": "https://elpais.com/sociedad/2026-11-28/la-controvertida-apuesta-de-la-india-y-china-por-incorporar-su-medicina-tradicional-en-la-oms-la-economia-es-lo-que-rige-todo-esto.html",
-      "published_on": "28/11/2026 00:30 (Boa Vista)",
-      "image": "https://imagenes.elpais.com/resizer/v2/IUJYLJNTNFHJPNAJYXOVPUE5UI.jpg?auth=0ac6f8ff62b75098bc8652b7ec5944ba635942b39aacde2ef9967650427dc460",
-      "selection": "automatic"
-    },
-    {
       "title": "As negociações sobre o clima implodiram, mas a ‘era da eletricidade’ continua, afirma o chefe de energia",
       "summary": "Fatih Birol, chefe da Agência Internacional de Energia, disse que as forças do mercado, os centros de dados e a segurança energética estão, de qualquer forma, a impulsionar a transição limpa.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -106,6 +93,19 @@
       "url": "https://apnews.com/article/trump-tariffs-republicans-congress-a438d0649e3b905804eafb63e9803bb3?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
       "published_on": "27/11/2026 08:30 (Boa Vista)",
       "image": "https://ic-cdn.flipboard.com/apnews.com/7122287ab3f20af90367c34d8dc195ae0c32c24f/_xlarge.jpeg",
+      "selection": "automatic"
+    },
+    {
+      "title": "Centenas de milhares de pessoas ainda estão sem energia um dia depois de os EUA serem atingidos por tempestades no Dia de Ação de Graças",
+      "summary": "A Pensilvânia e os estados vizinhos continuam gravemente afetados nesta sexta-feira, depois que ambas as costas foram atingidas por ventos e chuvas.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Clima e desastres",
+      "region": "Global",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+      "published_on": "27/11/2026 21:55 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/058e/live/011ab230-eaab-11f1-9d2d-dd9286f639a6.jpg",
       "selection": "automatic"
     }
   ]
