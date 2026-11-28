@@ -472,20 +472,6 @@
     "summary_pt": "Em meio a um surto de gripe, as autoridades de saúde estão pedindo às pessoas que tomem a vacina — mas e se você for jovem e saudável?"
   },
   {
-    "title": "Tech Now",
-    "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
-    "category": "Tecnologia",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-28T01:00:00Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq7bs2.jpg",
-    "title_pt": "Tecnologia agora",
-    "summary_pt": "Ammie Sekhon estuda a robótica que um dia poderá ajudar as espaçonaves a agir de forma independente."
-  },
-  {
     "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
     "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
     "category": "Geral",
@@ -498,6 +484,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26331708903788-1795825299.jpg?resize=1920%2C1440",
     "title_pt": "Milhares de porto-riquenhos participam do protesto do \"Dia da Indignação Nacional\"",
     "summary_pt": "A raiva e a frustração explodem devido às tarifas de eletricidade recordes, ao aumento do custo de vida e à deterioração dos serviços básicos."
+  },
+  {
+    "title": "Tech Now",
+    "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
+    "category": "Tecnologia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-28T01:00:00Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq7bs2.jpg",
+    "title_pt": "Tecnologia agora",
+    "summary_pt": "Ammie Sekhon estuda a robótica que um dia poderá ajudar as espaçonaves a agir de forma independente."
   },
   {
     "title": "MP exige estudos técnicos para o Carnaval de 2027 em SP",
@@ -2016,7 +2016,7 @@
   {
     "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
     "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -3066,7 +3066,7 @@
   {
     "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
     "summary": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -4002,20 +4002,6 @@
     "summary_pt": "Exclusivo: A sede do Partido Trabalhista pediu à vereadora de Ryde, Penny Pedersen, que não se candidatasse por Lane Cove nas eleições estaduais de março. Receba nosso e-mail de notícias de última hora, nosso aplicativo gratuito ou nosso podcast diário de notícias. A liderança do Partido Trabalhista de Nova Gales do Sul foi acusada de afastar membros e minar o processo democrático, depois que vários candidatos às eleições estaduais foram pré-selecionados."
   },
   {
-    "title": "Italy weighs biggest hunting expansion in years, alarming wildlife groups",
-    "summary": "Italy weighs biggest hunting expansion in years, alarming wildlife groups Reuters",
-    "category": "Geral",
-    "region": "Global",
-    "country": "GLOBAL",
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdVlDS0RXUTk2ZXFKSC16RktxbXl3QklQdXc4NUhFc2lGVGg3SzNuWEpkSjd4ZGg4c0hNQUpCaENCX2ZHRU9seDJJTE1EQ1RaTEFtMzVvWTZVX2p4UEJvUC1HcE54ZmJrVGdLanlXVEs5WFpBVTFDbFVJZ2pTLUZGRTVlclQxQjhuYVlIQzZSUmxxWnpxcGlqWVpqZEN2NnZnZDdHVVBaX2FBdFNZZVppdzdmb0tfRU85T0ktdm5xNjM5dmst?oc=5",
-    "date": "2026-11-27T13:55:38Z",
-    "lang": "en",
-    "image": "",
-    "title_pt": "A Itália está considerando a maior expansão da caça em anos, o que preocupa os grupos de defesa da vida selvagem",
-    "summary_pt": "Itália considera a maior expansão da caça em anos, o que preocupa grupos de defesa da vida selvagem Reuters"
-  },
-  {
     "title": "Watch: Police officer chases wild turkey on New Jersey highway",
     "summary": "A wild turkey caused an unusual scene on the Garden State Parkway in New Jersey, prompting a police officer to chase the bird along the highway.",
     "category": "Geral",
@@ -4060,7 +4046,7 @@
   {
     "title": "Rare turtles found inside baggage at Amsterdam airport",
     "summary": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
-    "category": "Geral",
+    "category": "Clima e desastres",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6160,8 +6146,22 @@
     "date": "2026-11-27T02:01:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Mercados globais se recuperam com a aproximação do fim de um mês turbulento Reuters",
-    "title_pt": "Mercados globais se recuperam com a aproximação do fim de um mês turbulento"
+    "title_pt": "Mercados globais se recuperam com a aproximação do fim de um mês turbulento",
+    "summary_pt": "Mercados globais se recuperam com a aproximação do fim de um mês turbulento Reuters"
+  },
+  {
+    "title": "Oil notches first weekly gain in November on supply fears",
+    "summary": "Oil notches first weekly gain in November on supply fears Reuters",
+    "category": "Geral",
+    "region": "Global",
+    "country": "GLOBAL",
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzVQVzE5aGdzbGVhNEUtVl94M0V3RjN5Rks4UDU0U0plazFDcjFnUTBMMHBvdk9BRzFaVHljSXk1ZFdzSjlRTVRXNGZ0cnRyUWRRbFJaRjBsVWNFbDZqSnQ0cHo0TW5fRDlwMWlKWDI3V2ROcnlXczVET1RqSXR6UGtZSTZ0OTQtY1YwaG1yYTRwQnZ6TW43azNGNTFqMmpkNFhtbVJwRnVkVERhR1NnSlFIMzExZw?oc=5",
+    "date": "2026-11-27T01:55:00Z",
+    "lang": "en",
+    "image": "",
+    "title_pt": "O petróleo registra o primeiro ganho semanal de novembro devido a temores relacionados à oferta",
+    "summary_pt": "Petróleo registra primeiro ganho semanal em novembro devido a temores relacionados à oferta Reuters"
   },
   {
     "title": "'No future here': Why Senegal’s young people risk their lives to reach Europe",
