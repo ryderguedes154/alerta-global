@@ -1,9 +1,22 @@
 {
   "edition": "28/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T04:33:37.825234Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T04:39:00.749302Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Taiwan vai às urnas em eleições locais sob pressão militar da China",
+      "summary": "Eleitores registram seus votos em uma seção eleitoral de Taipei, em Taiwan, durante as eleições locais de 28 de novembro de 2026. Yu Chih Wei/Reuters Taiwan realiza eleições locais neste sábado (28) para escolher prefeitos, chefes de condado e outros representantes. As campanhas se concentraram em temas como transporte e meio ambiente, mas a votação ocorre s",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/28/taiwan-vai-as-urnas-eleicoes-locais-pressao-militar-china.ghtml",
+      "published_on": "28/11/2026 00:27 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/IIoy2XaSwvD-5K0bTso3DNct2v8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/N/K7yz0gQgy98oCYW1AK1g/2026-11-28t033950z-1248353782-rc2pwoaquuw3-rtrmadp-3-taiwan-election-1-.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Israel mata dois membros da equipe de MSF em ataque direcionado a clínica em Gaza",
       "summary": "Um ataque israelense a uma clínica operada por Médicos Sem Fronteiras (MSF) em Gaza matou dois vigias.",
@@ -28,19 +41,6 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
       "published_on": "27/11/2026 20:00 (Boa Vista)",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795823699.jpg?resize=1920%2C1080&quality=80",
-      "selection": "automatic"
-    },
-    {
-      "title": "ONU alerta que a fome se agravará no Médio Oriente à medida que a guerra, os custos dos combustíveis e os cortes na ajuda colidem",
-      "summary": "CAIRO (AP) – A fome deverá piorar em 16 países nos próximos seis meses, com o Sudão e o Iémen devastados pela guerra entre os cinco países que enfrentam o risco mais grave, alertaram as agências alimentares das Nações Unidas na sexta-feira. As agências apontaram para o conflito, o aumento dos custos dos combustíveis ligados à guerra no Médio Oriente e…",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/un-hunger-famine-food-war-sudan-yemen-819ca5f619621b6f3b7ca8ba66b65762?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-      "published_on": "27/11/2026 08:04 (Boa Vista)",
-      "image": "https://ic-cdn.flipboard.com/apnews.com/3dec53b196df6767b9cb27c459cb8467db8c2d60/_xlarge.jpeg",
       "selection": "automatic"
     },
     {
