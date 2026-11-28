@@ -1,22 +1,9 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T00:03:19.936296Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T00:08:33.085483Z",
+  "status": "checado",
   "items": [
-    {
-      "title": "ONU alerta que a fome se agravará no Médio Oriente à medida que a guerra, os custos dos combustíveis e os cortes na ajuda colidem",
-      "summary": "CAIRO (AP) – A fome deverá piorar em 16 países nos próximos seis meses, com o Sudão e o Iémen devastados pela guerra entre os cinco países que enfrentam o risco mais grave, alertaram as agências alimentares das Nações Unidas na sexta-feira. As agências apontaram para o conflito, o aumento dos custos dos combustíveis ligados à guerra no Médio Oriente e…",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/un-hunger-famine-food-war-sudan-yemen-819ca5f619621b6f3b7ca8ba66b65762?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
-      "published_on": "27/11/2026 08:04 (Boa Vista)",
-      "image": "https://ic-cdn.flipboard.com/apnews.com/3dec53b196df6767b9cb27c459cb8467db8c2d60/_xlarge.jpeg",
-      "selection": "automatic"
-    },
     {
       "title": "As grandes ambições da Rússia em relação à IA são prejudicadas pelas restrições da guerra",
       "summary": "As autoridades russas veem a inteligência artificial como uma forma de resolver os problemas urgentes do país. Mas o desenvolvimento tecnológico da Rússia tem sido freado.",
@@ -57,6 +44,19 @@
       "selection": "automatic"
     },
     {
+      "title": "Israel mata quatro pessoas em Gaza enquanto o filho do líder do Hamas, al-Hayya, sobrevive ao ataque",
+      "summary": "Quatro dos outros filhos de Khalil al-Hayya foram mortos anteriormente pelas forças israelenses, segundo o grupo palestino.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+      "published_on": "27/11/2026 15:53 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09d72e1273-1795807022.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
+    {
       "title": "As negociações sobre o clima implodiram, mas a ‘era da eletricidade’ continua, afirma o chefe de energia",
       "summary": "Fatih Birol, chefe da Agência Internacional de Energia, disse que as forças do mercado, os centros de dados e a segurança energética estão, de qualquer forma, a impulsionar a transição limpa.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -83,16 +83,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Trump apoia a repressão do primeiro-ministro iraquiano ao contrabando de petróleo",
-      "summary": "Bagdá fecha passagens de fronteira enquanto as autoridades curdas alertam sobre violações constitucionais e convocam uma reunião.",
+      "title": "Faisal Islam: Por que as novas tarifas de Trump são menos ameaçadoras",
+      "summary": "Outros países redireccionaram o comércio em resposta à sua primeira salva tarifária, e agora olham para além do mandato de Trump.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Economia",
       "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
-      "published_on": "27/11/2026 12:13 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09a50c-1795794188.jpg?resize=1920%2C1440",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "published_on": "26/11/2026 15:55 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
       "selection": "automatic"
     },
     {
