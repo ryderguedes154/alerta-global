@@ -1,9 +1,22 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T01:58:04.328733Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T02:03:13.025457Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Israel mata dois profissionais de MSF em ataque direcionado a clínica em Gaza",
+      "summary": "Um ataque israelense a uma clínica operada por Médicos Sem Fronteiras (MSF) em Gaza matou dois vigias.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+      "published_on": "27/11/2026 21:55 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-israel-kills-msf-staff-2711-1795830840.png?resize=1920%2C1080&quality=80",
+      "selection": "automatic"
+    },
     {
       "title": "Guerra do Irã ao vivo: Itália diz que drone no ataque mortal ao Kuwait foi feito no Irã",
       "summary": "O ministro das Relações Exteriores italiano, Antonio Tajani, diz que o drone por trás do ataque mortal ao Kuwait foi fabricado no Irã.",
@@ -41,19 +54,6 @@
       "url": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response",
       "published_on": "27/11/2026 17:09 (Boa Vista)",
       "image": "https://s.france24.com/media/display/62fe879a-ea9e-11f1-912c-174dac1c1bf0/w:1024/p:16x9/AP26200564414743.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Putin revela novo submarino russo movido a energia nuclear com armas hipersônicas",
-      "summary": "O Kremlin planeia expandir a sua frota naval com cinco novos submarinos nucleares até 2030.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
-      "published_on": "27/11/2026 16:39 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09e278cdc4-1795809913.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
@@ -104,7 +104,7 @@
       "country": "GB",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-      "published_on": "27/11/2026 18:29 (Boa Vista)",
+      "published_on": "27/11/2026 21:55 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/058e/live/011ab230-eaab-11f1-9d2d-dd9286f639a6.jpg",
       "selection": "automatic"
     }
