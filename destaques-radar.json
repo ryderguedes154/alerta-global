@@ -1,8 +1,8 @@
 {
   "edition": "28/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T12:52:56.509426Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T12:58:05.743950Z",
+  "status": "checado",
   "items": [
     {
       "title": "Ataque em Gaza mata dois guardas de MSF que Israel afirma serem combatentes do Hamas",
@@ -57,19 +57,6 @@
       "selection": "automatic"
     },
     {
-      "title": "As tarifas de Trump se tornaram o novo normal dos Estados Unidos",
-      "summary": "Mesmo um governo democrata pode ter dificuldades para reverter as tarifas que ajudam a financiar os cortes de impostos de Trump.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss",
-      "published_on": "28/11/2026 02:57 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-06T110126Z_2145072911_RC2XHOA6JC3U_RTRMADP_3_USA-TRUMP-TRUMPMEDIA-1795848849.jpg?resize=1920%2C1440",
-      "selection": "automatic"
-    },
-    {
       "title": "As grandes ambições da Rússia em relação à IA são prejudicadas pelas restrições da guerra",
       "summary": "As autoridades russas veem a inteligência artificial como uma forma de resolver os problemas urgentes do país. Mas o desenvolvimento tecnológico da Rússia tem sido freado.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -80,6 +67,19 @@
       "url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
       "published_on": "27/11/2026 17:41 (Boa Vista)",
       "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-russia-AI-001-cfkp/27int-russia-AI-001-cfkp-mediumSquareAt3X.jpg",
+      "selection": "automatic"
+    },
+    {
+      "title": "As tarifas de Trump se tornaram o novo normal dos Estados Unidos",
+      "summary": "Mesmo um governo democrata pode ter dificuldades para reverter as tarifas que ajudam a financiar os cortes de impostos de Trump.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss",
+      "published_on": "28/11/2026 02:57 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-06T110126Z_2145072911_RC2XHOA6JC3U_RTRMADP_3_USA-TRUMP-TRUMPMEDIA-1795848849.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
