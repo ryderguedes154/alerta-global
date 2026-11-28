@@ -1,5 +1,33 @@
 [
   {
+    "title": "New project to provide free mental health courses",
+    "summary": "There will be free courses on mental health, wellbeing, recovery, personal growth and creativity.",
+    "category": "Saúde",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c8vg2ndz0d1zo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-28T09:45:27Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/473f/live/878692a0-e9d7-11f1-a652-278841d9ecc5.jpg",
+    "summary_pt": "Haverá cursos gratuitos sobre saúde mental, bem-estar, recuperação, crescimento pessoal e criatividade.",
+    "title_pt": "Novo projeto para oferecer cursos gratuitos de saúde mental"
+  },
+  {
+    "title": "Gaza’s chess players survive a genocide and rebuild a community",
+    "summary": "Gaza's chess players are returning to the sport after three years of genocide.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss",
+    "date": "2026-11-28T09:41:45Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/%D8%B4%D8%B7%D8%B1%D9%86%D8%AC-%D8%B3%D8%AA%D9%84%D9%8A%D9%85%D8%AA-1795850701.jpg?resize=1200%2C630",
+    "title_pt": "Os jogadores de xadrez de Gaza sobrevivem a um genocídio e reconstroem uma comunidade",
+    "summary_pt": "Os jogadores de xadrez de Gaza estão voltando ao esporte após três anos de genocídio."
+  },
+  {
     "title": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
     "summary": "About 1.8 million people face emergency levels of hunger in government-held areas, according to the UN.",
     "category": "Geral",
@@ -264,8 +292,8 @@
     "date": "2026-11-28T08:30:00Z",
     "lang": "en",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795822318.jpg?resize=1920%2C1080&quality=80",
-    "summary_pt": "Os principais negociadores de conflitos que intermediaram acordos de paz históricos revelam os segredos para pôr fim a guerras intratáveis.",
-    "title_pt": "O que podemos aprender com acordos de paz bem-sucedidos? | Episódio 2"
+    "title_pt": "O que podemos aprender com acordos de paz bem-sucedidos? | Episódio 2",
+    "summary_pt": "Os principais negociadores de conflitos que intermediaram acordos de paz históricos revelam os segredos para pôr fim a guerras intratáveis."
   },
   {
     "title": "Sudanese launch clean-up drive as rubbish overwhelms Khartoum’s streets",
@@ -1332,20 +1360,6 @@
     "summary_pt": "Os candidatos percorreram os sets e desfilaram por todas as telas, dos canais tradicionais ao TikTok e pelas casas dos YouTubers, para chegar ao último eleitor de qualquer idade."
   },
   {
-    "title": "Amiga Feijóo: date cuenta",
-    "summary": "Esta campaña ha sido la novela del año y, después de tantas visitas a los ‘bro’, ha terminado centrada donde siempre debió estar",
-    "category": "Geral",
-    "region": "Global",
-    "country": "ES",
-    "source": "El País",
-    "url": "https://elpais.com/opinion/2026-11-28/amiga-feijoo-date-cuenta.html",
-    "date": "2026-11-28T04:30:01Z",
-    "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/PLY7GRD2ABP2DIVUOJL5WWHUN4.jpg?auth=0db9d92d09ad41bb131a28c9498f12f9515ab1b552b963c60021eb68ae9ace79",
-    "title_pt": "Amigo Feijóo: perceba",
-    "summary_pt": "Essa campanha tem sido a novidade do ano e, depois de tantas visitas ao ‘mano’, acabou focada onde sempre deveria estar"
-  },
-  {
     "title": "Las cosas por su nombre",
     "summary": "Es curioso el contraste entre el descaro de los comportamientos reales y la pudibundez y la cautela de las palabras",
     "category": "Geral",
@@ -1358,6 +1372,20 @@
     "image": "https://imagenes.elpais.com/resizer/v2/I5FP2THCNFH25P4JGB6DJI4U3U.jpg?auth=f643c929ac8921c8138ab2411d7e01784c642c7a2ffbf5d8c6132b594cc69bf4",
     "title_pt": "coisas por nome",
     "summary_pt": "O contraste entre o atrevimento do comportamento real e a modéstia e cautela das palavras é curioso."
+  },
+  {
+    "title": "Amiga Feijóo: date cuenta",
+    "summary": "Esta campaña ha sido la novela del año y, después de tantas visitas a los ‘bro’, ha terminado centrada donde siempre debió estar",
+    "category": "Geral",
+    "region": "Global",
+    "country": "ES",
+    "source": "El País",
+    "url": "https://elpais.com/opinion/2026-11-28/amiga-feijoo-date-cuenta.html",
+    "date": "2026-11-28T04:30:01Z",
+    "lang": "es",
+    "image": "https://imagenes.elpais.com/resizer/v2/PLY7GRD2ABP2DIVUOJL5WWHUN4.jpg?auth=0db9d92d09ad41bb131a28c9498f12f9515ab1b552b963c60021eb68ae9ace79",
+    "title_pt": "Amigo Feijóo: perceba",
+    "summary_pt": "Essa campanha tem sido a novidade do ano e, depois de tantas visitas ao ‘mano’, acabou focada onde sempre deveria estar"
   },
   {
     "title": "El último domingo, el próximo lunes",
@@ -2332,7 +2360,7 @@
     "summary_pt": "Com uma versão oficial para PC potencialmente ainda a meses de distância, os fãs estão ficando impacientes."
   },
   {
-    "title": "Nigeria's acting legend was loved across Africa and beyond",
+    "title": "Nigeria's acting legend who was loved across Africa and beyond",
     "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
     "category": "Geral",
     "region": "Global",
@@ -2342,7 +2370,7 @@
     "date": "2026-11-28T01:20:35Z",
     "lang": "en",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c91e/live/0a998920-ea7a-11f1-a094-5fdc692f3e33.jpg",
-    "title_pt": "A lenda da atuação da Nigéria era amada em toda a África e além dela",
+    "title_pt": "A lenda da atuação da Nigéria, amada em toda a África e além dela",
     "summary_pt": "Antes de se tornar um nome conhecido na indústria cinematográfica nigeriana, Edochie construiu uma carreira no setor de radiodifusão."
   },
   {
@@ -2448,20 +2476,6 @@
     "summary_pt": "Em meio a um surto de gripe, as autoridades de saúde estão pedindo às pessoas que tomem a vacina — mas e se você for jovem e saudável?"
   },
   {
-    "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
-    "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
-    "date": "2026-11-28T01:00:00Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26331708903788-1795825299.jpg?resize=1920%2C1440",
-    "title_pt": "Milhares de porto-riquenhos participam do protesto do \"Dia da Indignação Nacional\"",
-    "summary_pt": "A raiva e a frustração explodem devido às tarifas de eletricidade recordes, ao aumento do custo de vida e à deterioração dos serviços básicos."
-  },
-  {
     "title": "Tech Now",
     "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
     "category": "Tecnologia",
@@ -2474,6 +2488,20 @@
     "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq7bs2.jpg",
     "title_pt": "Tecnologia agora",
     "summary_pt": "Ammie Sekhon estuda a robótica que um dia poderá ajudar as espaçonaves a agir de forma independente."
+  },
+  {
+    "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
+    "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
+    "date": "2026-11-28T01:00:00Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26331708903788-1795825299.jpg?resize=1920%2C1440",
+    "title_pt": "Milhares de porto-riquenhos participam do protesto do \"Dia da Indignação Nacional\"",
+    "summary_pt": "A raiva e a frustração explodem devido às tarifas de eletricidade recordes, ao aumento do custo de vida e à deterioração dos serviços básicos."
   },
   {
     "title": "MP exige estudos técnicos para o Carnaval de 2027 em SP",
@@ -2824,20 +2852,6 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261003__D26F2TZ__v1__MidRes__IranUsIsraelWar-1791100875.jpg?resize=1200%2C630",
     "title_pt": "Guerra no Irã ao vivo: o exército iraniano está pronto para responder a qualquer ataque \"de qualquer lugar\"",
     "summary_pt": "O vice-chefe das Forças Armadas do Irã afirma que os militares estão em estado de prontidão absoluta para responder a qualquer \"erro do inimigo\"."
-  },
-  {
-    "title": "At least eight found dead on migrant boat off Spain’s Canary Islands",
-    "summary": "Six people airlifted to hospital in serious condition, Spanish rescue service says.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
-    "date": "2026-11-27T23:57:03Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0a0bec-1795820524.jpg?resize=1920%2C1440",
-    "title_pt": "Pelo menos oito encontrados mortos em barco de migrantes nas Ilhas Canárias, na Espanha",
-    "summary_pt": "Seis pessoas foram transportadas de avião para o hospital em estado grave, afirma o serviço de resgate espanhol."
   },
   {
     "title": "Especialista alerta para riscos do uso inadequado da IA nas escolas",
@@ -6572,7 +6586,7 @@
   {
     "title": "Why is there a shortage of 'wizard' elevator mechanics?",
     "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
-    "category": "Tecnologia",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
@@ -6596,20 +6610,6 @@
     "image": "https://ic-cdn.flipboard.com/apnews.com/ba4343361a3437c5d3650f44d48068286608df49/_xlarge.jpeg",
     "title_pt": "O presidente mexicano ataca a DEA por causa de denúncias, acusando-a de não combater o fentanil o suficiente dentro dos EUA",
     "summary_pt": "CIDADE DO MÉXICO (AP) – O presidente do México criticou a Administração Antidrogas dos EUA depois de esta ter criado linhas de denúncias anónimas no país, acusando as autoridades americanas de “interferência” e de não fazerem o suficiente para combater o fentanil e a corrupção dentro das suas próprias fronteiras. Presidente Claudia Sheinbaum, em…"
-  },
-  {
-    "title": "UK to pay 'participation' fee to deliver EU deals",
-    "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
-    "category": "Economia",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-26T23:17:12Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png",
-    "title_pt": "Reino Unido pagará taxa de “participação” para entregar acordos da UE",
-    "summary_pt": "Os detalhes da contribuição para os custos de funcionamento da UE foram revelados em novos documentos jurídicos."
   },
   {
     "title": "Is Spain's snap election being rigged? Debunking viral claims",
