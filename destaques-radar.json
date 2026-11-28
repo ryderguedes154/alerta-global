@@ -1,8 +1,8 @@
 {
   "edition": "28/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T12:16:53.061212Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T12:22:08.223358Z",
+  "status": "checado",
   "items": [
     {
       "title": "Mais crianças reunidas com suas famílias em meio à guerra na Ucrânia",
@@ -31,16 +31,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Análise: Guerra da Ucrânia se espalha pela Europa, e a situação vai piorar",
-      "summary": "Divergências de controle territorial e exigências sobre Otan travam negociações para encerrar conflito",
+      "title": "A Itália diz a Zelenskyy para manter a guerra entre a Rússia e a Ucrânia fora do Mediterrâneo",
+      "summary": "O presidente italiano alertou a Ucrânia para não permitir que seu conflito com a Rússia se espalhe pelo Mediterrâneo após Kiev ter atacado dois navios russos na Líbia.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "BR",
-      "source": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/internacional/analise-guerra-da-ucrania-se-espalha-pela-europa-e-a-situacao-vai-piorar/",
-      "published_on": "28/11/2026 05:00 (Boa Vista)",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-26T125530Z_1_LYNXNPEMAP14K_RTROPTP_4_UKRAINE-CRISIS-ATTACK-KYIV.jpg?w=200",
+      "country": "GB",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/keep-russia-ukraine-war-out-of-the-mediterranean-italys-giorgia-meloni-tells-volodymyr-zelenskyy-13617434",
+      "published_on": "28/11/2026 06:01 (Boa Vista)",
+      "image": "https://e3.365dm.com/26/11/1920x1080/skynews-zelenskyy-volodymyr_7418467.jpg?20261128120122",
       "selection": "automatic"
     },
     {
@@ -105,7 +105,7 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
       "published_on": "28/11/2026 06:34 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f48/live/c26c94a0-eb21-11f1-99a1-253766e7ad8b.jpg",
       "selection": "automatic"
     }
   ]
