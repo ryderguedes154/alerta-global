@@ -14,6 +14,22 @@
     "summary_pt": "Com uma versão oficial para PC potencialmente ainda a meses de distância, os fãs estão ficando impacientes."
   },
   {
+    "title": "Terremoto de magnitude 5.1 — 73 km NNW of Phôngsali, Laos",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "73 km NNW of Phôngsali, Laos",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1b",
+    "date": "2026-11-28T01:17:42.722000Z",
+    "lat": 22.2546,
+    "lon": 101.7463,
+    "depth_km": 10.0,
+    "forcedSev": "med",
+    "title_pt": "Terremoto de magnitude 5.1 — 73 km NNW of Phôngsali, Laos",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
+  },
+  {
     "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
     "summary": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies See all of our Victorian state election coverage Get our daily political email , free ap",
     "category": "Geral",
@@ -56,6 +72,22 @@
     "summary_pt": "Um trecho do próximo documentário \"Heal\" revela novos detalhes sobre a jornada da princesa Kate contra o câncer, que ela manteve em sigilo por muito tempo. Jericka Duncan tem mais informações."
   },
   {
+    "title": "Terremoto de magnitude 4.8 — 167 km N of Hicks Bay, New Zealand",
+    "summary": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações.",
+    "category": "Clima e desastres",
+    "region": "167 km N of Hicks Bay, New Zealand",
+    "country": "GLOBAL",
+    "source": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1a",
+    "date": "2026-11-28T01:08:45.950000Z",
+    "lat": -36.0927,
+    "lon": 178.3785,
+    "depth_km": 10.0,
+    "forcedSev": "low",
+    "title_pt": "Terremoto de magnitude 4.8 — 167 km N of Hicks Bay, New Zealand",
+    "summary_pt": "Evento sísmico registrado pelo USGS. Consulte a fonte oficial para localização, profundidade e atualizações."
+  },
+  {
     "title": "Should I get a flu vaccine now?",
     "summary": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
     "category": "Saúde",
@@ -70,20 +102,6 @@
     "summary_pt": "Em meio a um surto de gripe, as autoridades de saúde estão pedindo às pessoas que tomem a vacina — mas e se você for jovem e saudável?"
   },
   {
-    "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
-    "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "QA",
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
-    "date": "2026-11-28T01:00:00Z",
-    "lang": "en",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26331708903788-1795825299.jpg?resize=1920%2C1440",
-    "title_pt": "Milhares de porto-riquenhos participam do protesto do \"Dia da Indignação Nacional\"",
-    "summary_pt": "A raiva e a frustração explodem devido às tarifas de eletricidade recordes, ao aumento do custo de vida e à deterioração dos serviços básicos."
-  },
-  {
     "title": "Tech Now",
     "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
     "category": "Tecnologia",
@@ -96,6 +114,20 @@
     "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq7bs2.jpg",
     "title_pt": "Tecnologia agora",
     "summary_pt": "Ammie Sekhon estuda a robótica que um dia poderá ajudar as espaçonaves a agir de forma independente."
+  },
+  {
+    "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
+    "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
+    "category": "Geral",
+    "region": "Global",
+    "country": "QA",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
+    "date": "2026-11-28T01:00:00Z",
+    "lang": "en",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26331708903788-1795825299.jpg?resize=1920%2C1440",
+    "title_pt": "Milhares de porto-riquenhos participam do protesto do \"Dia da Indignação Nacional\"",
+    "summary_pt": "A raiva e a frustração explodem devido às tarifas de eletricidade recordes, ao aumento do custo de vida e à deterioração dos serviços básicos."
   },
   {
     "title": "MP exige estudos técnicos para o Carnaval de 2027 em SP",
@@ -5968,8 +6000,8 @@
     "date": "2026-11-27T04:30:00Z",
     "lang": "en",
     "image": "",
-    "summary_pt": "Banco Central da Índia permite que a rúpia suba para acabar com as apostas unilaterais na desvalorização Reuters",
-    "title_pt": "Banco Central da Índia permite que a rúpia suba para acabar com as apostas unilaterais na desvalorização"
+    "title_pt": "Banco Central da Índia permite que a rúpia suba para acabar com as apostas unilaterais na desvalorização",
+    "summary_pt": "Banco Central da Índia permite que a rúpia suba para acabar com as apostas unilaterais na desvalorização Reuters"
   },
   {
     "title": "Terremoto de magnitude 4.6 — 155 km WNW of Tobelo, Indonesia",
@@ -6982,33 +7014,5 @@
     "image": "https://s2-g1.glbimg.com/HV1ZEDgOGw6k9X9WVQb3gzRnK_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/3/Yh6uV9RRCXFY33kXmTog/como-no-emocionarse-jennifer-barreto-celebra-junto-a-las-delegadas-su-coronacion-historic.jpg",
     "title_pt": "Nova Miss Universo tem dois mestrados e é a primeira mãe a vencer o concurso",
     "summary_pt": "Jennifer Barreto faz história como a primeira mãe a vencer o Miss Universo A porto-riquenha Jennifer Barreto, de 27 anos, entrou para a história do Miss Universo na terça-feira (24) ao se tornar a primeira mãe a vencer o concurso. Casada com um sargento do Exército dos Estados Unidos, ela tem uma filha de sete anos chamada Penélope. A presença de mulheres ca"
-  },
-  {
-    "title": "From volume to value: making tourism work for more of Europe",
-    "summary": "Tourism deserves a central place in European policymaking, writes Peter Lochbihler of Booking.com in an opinion piece for Euronews. The EU should support lesser-known destinations in attracting visitors worldwide, fostering local revitalisation, growth and prosperity.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "EU",
-    "source": "Euronews",
-    "url": "https://www.euronews.com/2026/11/26/from-volume-to-value-making-tourism-work-for-more-of-europe",
-    "date": "2026-11-26T15:00:42Z",
-    "lang": "en",
-    "image": "https://images.euronews.com/articles/stories/10/00/83/89/696x392_cmsv2_04fa5b4b-26c5-5479-b519-dcb1eba8c277-10008389.jpg",
-    "title_pt": "Do volume ao valor: fazer com que o turismo funcione para uma maior parte da Europa",
-    "summary_pt": "O turismo merece um lugar central na formulação de políticas europeias, escreve Peter Lochbihler von Booking.com num artigo de opinião para a Euronews. A UE deve apoiar destinos menos conhecidos para atrair visitantes de todo o mundo, promovendo a revitalização, o crescimento e a prosperidade locais."
-  },
-  {
-    "title": "French actor Gérard Depardieu to stand trial on rape charge",
-    "summary": "A lawyer representing French actor Gérard Depardieu says he has been ordered to stand trial on a charge of raping a young actress at his Paris home in 2018.",
-    "category": "Geral",
-    "region": "Global",
-    "country": "US",
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/news/gerard-depardieu-trial-alleged-rape-paris/",
-    "date": "2026-11-26T15:00:33Z",
-    "lang": "en",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/26/68d3ce1b-e91a-4cd6-b509-df60184fd885/thumbnail/1200x630/a63d05048f9b6fcce091d439407ad450/gettyimages-2206531791.jpg",
-    "title_pt": "Ator francês Gérard Depardieu será julgado por acusação de estupro",
-    "summary_pt": "Um advogado que representa o ator francês Gérard Depardieu diz que ele foi condenado a ser julgado sob a acusação de estuprar uma jovem atriz em sua casa em Paris, em 2018."
   }
 ]
