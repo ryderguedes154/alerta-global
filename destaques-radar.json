@@ -1,9 +1,22 @@
 {
   "edition": "28/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T07:36:38.711505Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T07:41:48.669930Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Rússia afirma ter derrubado mais de 1,2 mil drones ucranianos em ataque",
+      "summary": "Agora no g1 As forças de defesa aérea da Rússia derrubaram 1.246 drones ucranianos durante a noite, informou neste sábado (28) o Ministério da Defesa russo. Mais de 400 aparelhos teriam sido lançados em direção a Moscou, capital do país. 📱Baixe o app do g1 para ver notícias em tempo real e de graça Desse total, 123 foram abatidos nas proximidades da cidade,",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "BR",
+      "source": "G1 Mundo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/28/russia-afirma-ter-derrubado-mais-de-12-mil-drones-ucranianos-em-ataque.ghtml",
+      "published_on": "28/11/2026 03:32 (Boa Vista)",
+      "image": "https://s2-g1.glbimg.com/bumEVIfU6UgumRtgUVEDpEZc9Kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/P/MCS7qWT5CUxvbGc1wBZQ/2026-07-18t094243z-508980871-rc29gmasuksp-rtrmadp-3-ukraine-crisis-russia-attacks.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Guerra na Ucrânia: Kyiv assume a extensão do conflito para novas frentes",
       "summary": "Nos últimos dias, a Ucrânia tornou-se encorajada, atacando navios russos no Mar Báltico e no Mediterrâneo, até mesmo no porto líbio de Benghazi. Kyiv procura motivar a aliança ocidental a continuar a ajudar o país. Mas, confrontados com esta nova escalada, os europeus estão divididos entre o apoio e a preocupação.",
@@ -28,19 +41,6 @@
       "url": "https://g1.globo.com/mundo/noticia/2026/11/28/taiwan-vai-as-urnas-eleicoes-locais-pressao-militar-china.ghtml",
       "published_on": "28/11/2026 00:27 (Boa Vista)",
       "image": "https://s2-g1.glbimg.com/IIoy2XaSwvD-5K0bTso3DNct2v8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/N/K7yz0gQgy98oCYW1AK1g/2026-11-28t033950z-1248353782-rc2pwoaquuw3-rtrmadp-3-taiwan-election-1-.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "\"Ataque direto\" de Israel à clínica de Médicos Sem Fronteiras em Gaza mata dois funcionários",
-      "summary": "MSF afirma que o ataque israelense à clínica em Gaza foi um \"acerto direto\" e pede que os responsáveis sejam responsabilizados.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "QA",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
-      "published_on": "27/11/2026 23:45 (Boa Vista)",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a40eea0b0-1795834094.jpg?resize=1920%2C1440",
       "selection": "automatic"
     },
     {
