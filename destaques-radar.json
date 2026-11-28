@@ -1,8 +1,8 @@
 {
   "edition": "28/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T06:28:50.142970Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T06:34:04.961749Z",
+  "status": "checado",
   "items": [
     {
       "title": "Guerra na Ucrânia: Kyiv assume a extensão do conflito para novas frentes",
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Imagens de satélite mostram nuvem gigante de fumaça após ataque à maior refinaria da Arábia Saudita",
-      "summary": "Imagem de satélite mostra uma grande nuvem de fumaça sobre a refinaria de petróleo de Ras Tanura, na Arábia Saudita 2026 PLANET LABS PBC / via REUTERS Imagens de satélite feitas na quarta-feira (25) mostram uma grande nuvem de fumaça sobre a maior refinaria de petróleo da Arábia Saudita, depois de um ataque reivindicado pelos houthis - o grupo rebelde do Iêm",
+      "title": "Centenas de milhares de pessoas ainda estão sem energia um dia depois de os EUA serem atingidos por tempestades no Dia de Ação de Graças",
+      "summary": "A Pensilvânia e os estados vizinhos continuam gravemente afetados nesta sexta-feira, depois que ambas as costas foram atingidas por ventos e chuvas.",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Economia",
+      "category": "Clima e desastres",
       "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/26/imagens-de-satelite-mostram-nuvem-gigante-de-fumaca-sobre-refinaria-na-arabia-saudita.ghtml",
-      "published_on": "26/11/2026 14:32 (Boa Vista)",
-      "image": "",
+      "country": "GB",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+      "published_on": "27/11/2026 21:55 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/058e/live/011ab230-eaab-11f1-9d2d-dd9286f639a6.jpg",
       "selection": "automatic"
     }
   ]
