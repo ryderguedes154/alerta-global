@@ -1,8 +1,8 @@
 {
   "edition": "28/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T07:05:42.246766Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T07:10:51.887073Z",
+  "status": "checado",
   "items": [
     {
       "title": "Guerra na Ucrânia: Kyiv assume a extensão do conflito para novas frentes",
@@ -57,6 +57,19 @@
       "selection": "automatic"
     },
     {
+      "title": "As tarifas de Trump se tornaram o novo normal dos Estados Unidos",
+      "summary": "Mesmo um governo democrata pode ter dificuldades para reverter as tarifas que ajudam a financiar os cortes de impostos de Trump.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Economia",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss",
+      "published_on": "28/11/2026 02:57 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-06T110126Z_2145072911_RC2XHOA6JC3U_RTRMADP_3_USA-TRUMP-TRUMPMEDIA-1795848849.jpg?resize=1920%2C1440",
+      "selection": "automatic"
+    },
+    {
       "title": "O controverso compromisso da Índia e da China de incorporar a sua medicina tradicional na OMS: “A economia é o que governa tudo isto”",
       "summary": "A organização procura evidências para integrar estes tratamentos naturais, enquanto ex-diretores da agência questionam uma viragem que coincide com a saída dos Estados Unidos: “Não é uma alternativa ao subfinanciamento, as pessoas vão morrer”",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -93,19 +106,6 @@
       "url": "https://apnews.com/article/trump-tariffs-republicans-congress-a438d0649e3b905804eafb63e9803bb3?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
       "published_on": "27/11/2026 08:30 (Boa Vista)",
       "image": "https://ic-cdn.flipboard.com/apnews.com/7122287ab3f20af90367c34d8dc195ae0c32c24f/_xlarge.jpeg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Centenas de milhares de pessoas ainda estão sem energia um dia depois de os EUA serem atingidos por tempestades no Dia de Ação de Graças",
-      "summary": "A Pensilvânia e os estados vizinhos continuam gravemente afetados nesta sexta-feira, depois que ambas as costas foram atingidas por ventos e chuvas.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
-      "region": "Global",
-      "country": "GB",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-      "published_on": "27/11/2026 21:55 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/058e/live/011ab230-eaab-11f1-9d2d-dd9286f639a6.jpg",
       "selection": "automatic"
     }
   ]
