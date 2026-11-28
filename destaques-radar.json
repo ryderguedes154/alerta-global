@@ -1,8 +1,8 @@
 {
   "edition": "28/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T10:17:30.861306Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T10:22:37.295172Z",
+  "status": "checado",
   "items": [
     {
       "title": "Os ataques profundos da Ucrânia aumentam em escala e alcance na Rússia e além dela",
@@ -14,7 +14,7 @@
       "source": "The New York Times",
       "url": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html",
       "published_on": "28/11/2026 06:02 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-ukraine-air-war-01-top-kgtp/28int-ukraine-air-war-01-top-kgtp-mediumSquareAt3X-v2.jpg",
+      "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-ukraine-air-war-01-top-kgtp/28int-ukraine-air-war-01-top-kgtp-mediumSquareAt3X-v3.jpg",
       "selection": "automatic"
     },
     {
@@ -96,16 +96,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Centenas de milhares de pessoas ainda estão sem energia um dia depois de os EUA serem atingidos por tempestades no Dia de Ação de Graças",
-      "summary": "A Pensilvânia e os estados vizinhos continuam gravemente afetados nesta sexta-feira, depois que ambas as costas foram atingidas por ventos e chuvas.",
+      "title": "Dois funcionários mortos em ataque israelense a clínica médica em Gaza, diz MSF",
+      "summary": "As forças armadas israelenses afirmam que o ataque, que foi condenado pela Organização Mundial da Saúde, teve como alvo \"terroristas do Hamas\".",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Clima e desastres",
+      "category": "Saúde",
       "region": "Global",
       "country": "GB",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-      "published_on": "27/11/2026 21:55 (Boa Vista)",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/058e/live/011ab230-eaab-11f1-9d2d-dd9286f639a6.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "published_on": "28/11/2026 02:52 (Boa Vista)",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg",
       "selection": "automatic"
     }
   ]
