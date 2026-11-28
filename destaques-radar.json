@@ -1,8 +1,8 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T03:05:11.371114Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T03:10:21.039133Z",
+  "status": "checado",
   "items": [
     {
       "title": "Israel mata dois membros da equipe de MSF em ataque direcionado a clínica em Gaza",
@@ -44,16 +44,16 @@
       "selection": "automatic"
     },
     {
-      "title": "Ucrânia apresenta oferta de cessar-fogo no Mar Negro e aguarda resposta russa",
-      "summary": "⁠A Ucrânia fez uma oferta de cessar-fogo no Mar Negro para permitir as exportações de alimentos e repassou os detalhes aos aliados internacionais, disse um alto funcionário ucraniano na sexta-feira, acrescentando que Kiev estava aguardando uma resposta de Moscou. O anúncio ocorreu um dia depois que a Rússia atacou dois transportadores estrangeiros de grãos p",
+      "title": "ONU alerta que a fome se agravará no Médio Oriente à medida que a guerra, os custos dos combustíveis e os cortes na ajuda colidem",
+      "summary": "CAIRO (AP) – A fome deverá piorar em 16 países nos próximos seis meses, com o Sudão e o Iémen devastados pela guerra entre os cinco países que enfrentam o risco mais grave, alertaram as agências alimentares das Nações Unidas na sexta-feira. As agências apontaram para o conflito, o aumento dos custos dos combustíveis ligados à guerra no Médio Oriente e…",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
       "category": "Conflitos",
       "region": "Global",
-      "country": "FR",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response",
-      "published_on": "27/11/2026 17:09 (Boa Vista)",
-      "image": "https://s.france24.com/media/display/62fe879a-ea9e-11f1-912c-174dac1c1bf0/w:1024/p:16x9/AP26200564414743.jpg",
+      "country": "US",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/un-hunger-famine-food-war-sudan-yemen-819ca5f619621b6f3b7ca8ba66b65762?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
+      "published_on": "27/11/2026 08:04 (Boa Vista)",
+      "image": "https://ic-cdn.flipboard.com/apnews.com/3dec53b196df6767b9cb27c459cb8467db8c2d60/_xlarge.jpeg",
       "selection": "automatic"
     },
     {
