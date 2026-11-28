@@ -1,9 +1,22 @@
 {
   "edition": "28/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T12:58:05.743950Z",
+  "checked_at": "2026-11-28T13:03:45.566259Z",
   "status": "checado",
   "items": [
+    {
+      "title": "Norse Atlantic encerra voos: como a guerra no Irã continua prejudicando a aviação",
+      "summary": "A companhia aérea de baixo custo norueguesa é a mais recente companhia aérea a sucumbir aos custos de combustível impulsionados pela crise do Estreito de Ormuz.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "QA",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/28/norse-atlantic-ends-flights-how-iran-war-continues-to-batter-aviation?traffic_source=rss",
+      "published_on": "28/11/2026 08:56 (Boa Vista)",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-27T084023Z_1981778991_RC2KVS9E178Z_RTRMADP_3_NORSE-ATLANTIC-LIQUIDITY-1795868147_9dd6c1-1795868228.jpg?resize=1200%2C630&quality=80",
+      "selection": "automatic"
+    },
     {
       "title": "Ataque em Gaza mata dois guardas de MSF que Israel afirma serem combatentes do Hamas",
       "summary": "As IDF acusou os dois homens mortos de serem terroristas se passando por trabalhadores humanitários.",
@@ -28,19 +41,6 @@
       "url": "https://www.france24.com/en/more-children-reunited-with-their-families-amid-war-in-ukraine",
       "published_on": "28/11/2026 06:53 (Boa Vista)",
       "image": "https://s.france24.com/media/display/4e2ca7f4-eb19-11f1-a0a4-1991d4929b54/w:1024/p:16x9/EN-20261128-080714-080923-CS-01.jpg",
-      "selection": "automatic"
-    },
-    {
-      "title": "Os ataques profundos da Ucrânia aumentam em escala e alcance na Rússia e além dela",
-      "summary": "Uma campanha destinada a privar a máquina de guerra de Moscou de combustível, armas e dinheiro foi criticada pelo governo Trump.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html",
-      "published_on": "28/11/2026 06:02 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-ukraine-air-war-01-top-kgtp/28int-ukraine-air-war-01-top-kgtp-mediumSquareAt3X-v3.jpg",
       "selection": "automatic"
     },
     {
