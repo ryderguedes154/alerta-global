@@ -1648,20 +1648,6 @@
     "summary_pt": "Em meio a um surto de gripe, as autoridades de saúde estão pedindo às pessoas que tomem a vacina — mas e se você for jovem e saudável?"
   },
   {
-    "title": "Tech Now",
-    "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
-    "category": "Tecnologia",
-    "region": "Global",
-    "country": "GB",
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-28T01:00:00Z",
-    "lang": "en",
-    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq7bs2.jpg",
-    "title_pt": "Tecnologia agora",
-    "summary_pt": "Ammie Sekhon estuda a robótica que um dia poderá ajudar as espaçonaves a agir de forma independente."
-  },
-  {
     "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
     "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
     "category": "Geral",
@@ -1674,6 +1660,20 @@
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26331708903788-1795825299.jpg?resize=1920%2C1440",
     "title_pt": "Milhares de porto-riquenhos participam do protesto do \"Dia da Indignação Nacional\"",
     "summary_pt": "A raiva e a frustração explodem devido às tarifas de eletricidade recordes, ao aumento do custo de vida e à deterioração dos serviços básicos."
+  },
+  {
+    "title": "Tech Now",
+    "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
+    "category": "Tecnologia",
+    "region": "Global",
+    "country": "GB",
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-28T01:00:00Z",
+    "lang": "en",
+    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq7bs2.jpg",
+    "title_pt": "Tecnologia agora",
+    "summary_pt": "Ammie Sekhon estuda a robótica que um dia poderá ajudar as espaçonaves a agir de forma independente."
   },
   {
     "title": "MP exige estudos técnicos para o Carnaval de 2027 em SP",
@@ -2961,7 +2961,7 @@
     "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/abascal-cierra-su-campana-con-una-traca-de-insultos-y-descalificaciones-contra-pedro-sanchez.html",
     "date": "2026-11-27T21:21:08Z",
     "lang": "es",
-    "image": "https://imagenes.elpais.com/resizer/v2/3WQRXKPSX5GD7BRARFUYECPHQU.JPG?auth=44c1362a9e5908084db5c8a1ba88a4dbda8235d2cb88ae87c38777dcd6afdd42",
+    "image": "https://imagenes.elpais.com/resizer/v2/GNBVALHPRFFVLH2OF5UE7QSKOE.JPG?auth=ec08fdec4ada03af0a849e09825ff41af6b874389f0607b061f72e1a71297af7",
     "title_pt": "Abascal encerra sua campanha com uma série de insultos e desqualificações contra Pedro Sánchez",
     "summary_pt": "Líder do Vox enche praça de touros de Valência com 12 mil torcedores em seu último comício e iguala Feijóo"
   },
@@ -3780,7 +3780,7 @@
   {
     "title": "Uzbek teacher turns school recycling problem into an award-winning green education project",
     "summary": "The initiative developed in Namangan has reached 25,000 people across 25 schools. It took first place in an international competition that attracted 369 applications from 94 countries.",
-    "category": "Clima e desastres",
+    "category": "Geral",
     "region": "Global",
     "country": "EU",
     "source": "Euronews",
@@ -4026,8 +4026,8 @@
     "date": "2026-11-27T16:35:11Z",
     "lang": "en",
     "image": "https://s.france24.com/media/display/622c0d2e-ea80-11f1-9caa-77d069279b82/w:1024/p:16x9/Thumb-01-Macron.jpg",
-    "summary_pt": "🇫🇷 O presidente francês Emmanuel #Macron respondeu na quinta-feira à afirmação do líder de extrema direita e candidata presidencial de 2027, Marine #LePen, de que ele estava “bloqueando” a liberdade de expressão do povo francês. Ouça o que ele tinha a dizer.",
-    "title_pt": "França: Macron critica a \"arrogância\" de Le Pen"
+    "title_pt": "França: Macron critica a \"arrogância\" de Le Pen",
+    "summary_pt": "🇫🇷 O presidente francês Emmanuel #Macron respondeu na quinta-feira à afirmação do líder de extrema direita e candidata presidencial de 2027, Marine #LePen, de que ele estava “bloqueando” a liberdade de expressão do povo francês. Ouça o que ele tinha a dizer."
   },
   {
     "title": "Quem é Letícia Villar, jogadora da seleção brasileira presa na Rússia que pediu ajuda a Lula",
@@ -4054,8 +4054,8 @@
     "date": "2026-11-27T16:30:37Z",
     "lang": "en",
     "image": "https://s.france24.com/media/display/621011c0-ea7e-11f1-99ff-1991d4929b54/w:1024/p:16x9/EN-20261126-214959-215155-CS.jpg",
-    "summary_pt": "África está a emergir como um actor-chave na corrida global pelo cobre, representando cerca de 10 por cento das reservas mundiais estimadas. A República Democrática do Congo está no centro deste interesse crescente, tendo extraído 3,4 milhões de toneladas métricas de cobre em 2025. Os seus vastos recursos minerais estão a atrair cada vez mais a atenção de países e empresas ao redor.",
-    "title_pt": "República Democrática do Congo: as reservas de cobre colocam a África no centro da corrida global por minerais essenciais"
+    "title_pt": "República Democrática do Congo: as reservas de cobre colocam a África no centro da corrida global por minerais essenciais",
+    "summary_pt": "África está a emergir como um actor-chave na corrida global pelo cobre, representando cerca de 10 por cento das reservas mundiais estimadas. A República Democrática do Congo está no centro deste interesse crescente, tendo extraído 3,4 milhões de toneladas métricas de cobre em 2025. Os seus vastos recursos minerais estão a atrair cada vez mais a atenção de países e empresas ao redor."
   },
   {
     "title": "Au Gabon, le plan de vaccination des nourrissons s’appuie sur les communautés locales",
@@ -4958,7 +4958,7 @@
   {
     "title": "Video captures king tide sweeping man and dog into the sea",
     "summary": "A man and his dog were swept into the surf by a powerful incoming wave at Cannon Beach, Oregon, after he had earlier been warned by police about the dangers of King Tides. Both managed to escape the water without injury.",
-    "category": "Clima e desastres",
+    "category": "Geral",
     "region": "Global",
     "country": "EU",
     "source": "Euronews",
@@ -5366,7 +5366,7 @@
   {
     "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
     "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
-    "category": "Saúde",
+    "category": "Economia",
     "region": "Global",
     "country": "GB",
     "source": "BBC News",
