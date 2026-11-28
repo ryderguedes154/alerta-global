@@ -1,8 +1,8 @@
 {
   "edition": "27/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T03:36:43.684688Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T03:41:49.840818Z",
+  "status": "checado",
   "items": [
     {
       "title": "Israel mata dois membros da equipe de MSF em ataque direcionado a clínica em Gaza",
@@ -31,19 +31,6 @@
       "selection": "automatic"
     },
     {
-      "title": "As grandes ambições da Rússia em relação à IA são prejudicadas pelas restrições da guerra",
-      "summary": "As autoridades russas veem a inteligência artificial como uma forma de resolver os problemas urgentes do país. Mas o desenvolvimento tecnológico da Rússia tem sido freado.",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Tecnologia",
-      "region": "Global",
-      "country": "US",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
-      "published_on": "27/11/2026 17:41 (Boa Vista)",
-      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-russia-AI-001-cfkp/27int-russia-AI-001-cfkp-mediumSquareAt3X.jpg",
-      "selection": "automatic"
-    },
-    {
       "title": "ONU alerta que a fome se agravará no Médio Oriente à medida que a guerra, os custos dos combustíveis e os cortes na ajuda colidem",
       "summary": "CAIRO (AP) – A fome deverá piorar em 16 países nos próximos seis meses, com o Sudão e o Iémen devastados pela guerra entre os cinco países que enfrentam o risco mais grave, alertaram as agências alimentares das Nações Unidas na sexta-feira. As agências apontaram para o conflito, o aumento dos custos dos combustíveis ligados à guerra no Médio Oriente e…",
       "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
@@ -54,6 +41,19 @@
       "url": "https://apnews.com/article/un-hunger-famine-food-war-sudan-yemen-819ca5f619621b6f3b7ca8ba66b65762?utm_source=flipboard&utm_content=AssociatedPress%2Fmagazine%2FInternational+News",
       "published_on": "27/11/2026 08:04 (Boa Vista)",
       "image": "https://ic-cdn.flipboard.com/apnews.com/3dec53b196df6767b9cb27c459cb8467db8c2d60/_xlarge.jpeg",
+      "selection": "automatic"
+    },
+    {
+      "title": "As grandes ambições da Rússia em relação à IA são prejudicadas pelas restrições da guerra",
+      "summary": "As autoridades russas veem a inteligência artificial como uma forma de resolver os problemas urgentes do país. Mas o desenvolvimento tecnológico da Rússia tem sido freado.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Tecnologia",
+      "region": "Global",
+      "country": "US",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
+      "published_on": "27/11/2026 17:41 (Boa Vista)",
+      "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-russia-AI-001-cfkp/27int-russia-AI-001-cfkp-mediumSquareAt3X.jpg",
       "selection": "automatic"
     },
     {
