@@ -1,9 +1,22 @@
 {
   "edition": "28/11/2026",
   "description": "Seleção automática de manchetes publicadas por fontes jornalísticas e oficiais, com links originais. As informações devem ser confirmadas na fonte e podem ser atualizadas.",
-  "checked_at": "2026-11-28T10:53:55.607229Z",
-  "status": "sem_novas_materias_relevantes",
+  "checked_at": "2026-11-28T10:59:02.158934Z",
+  "status": "checado",
   "items": [
+    {
+      "title": "Mais crianças reunidas com suas famílias em meio à guerra na Ucrânia",
+      "summary": "Mais nove crianças se reuniram com suas famílias em meio à guerra na Ucrânia, elevando o total para 43, graças a um esforço liderado pela primeira-dama dos Estados Unidos, Melania Trump, informou a Casa Branca na quarta-feira.",
+      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
+      "category": "Conflitos",
+      "region": "Global",
+      "country": "FR",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/more-children-reunited-with-their-families-amid-war-in-ukraine",
+      "published_on": "28/11/2026 06:53 (Boa Vista)",
+      "image": "https://s.france24.com/media/display/4e2ca7f4-eb19-11f1-a0a4-1991d4929b54/w:1024/p:16x9/EN-20261128-080714-080923-CS-01.jpg",
+      "selection": "automatic"
+    },
     {
       "title": "Os ataques profundos da Ucrânia aumentam em escala e alcance na Rússia e além dela",
       "summary": "Uma campanha destinada a privar a máquina de guerra de Moscou de combustível, armas e dinheiro foi criticada pelo governo Trump.",
@@ -28,19 +41,6 @@
       "url": "https://www.cnnbrasil.com.br/internacional/analise-guerra-da-ucrania-se-espalha-pela-europa-e-a-situacao-vai-piorar/",
       "published_on": "28/11/2026 05:00 (Boa Vista)",
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2026-11-26T125530Z_1_LYNXNPEMAP14K_RTROPTP_4_UKRAINE-CRISIS-ATTACK-KYIV.jpg?w=200",
-      "selection": "automatic"
-    },
-    {
-      "title": "Rússia afirma ter derrubado mais de 1,2 mil drones ucranianos em ataque",
-      "summary": "Agora no g1 As forças de defesa aérea da Rússia derrubaram 1.246 drones ucranianos durante a noite, informou neste sábado (28) o Ministério da Defesa russo. Mais de 400 aparelhos teriam sido lançados em direção a Moscou, capital do país. 📱Baixe o app do g1 para ver notícias em tempo real e de graça Desse total, 123 foram abatidos nas proximidades da cidade,",
-      "impact_br": "Impactos específicos no Brasil não foram avaliados automaticamente. Consulte a matéria original.",
-      "category": "Conflitos",
-      "region": "Global",
-      "country": "BR",
-      "source": "G1 Mundo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/28/russia-afirma-ter-derrubado-mais-de-12-mil-drones-ucranianos-em-ataque.ghtml",
-      "published_on": "28/11/2026 03:32 (Boa Vista)",
-      "image": "https://s2-g1.glbimg.com/bumEVIfU6UgumRtgUVEDpEZc9Kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/P/MCS7qWT5CUxvbGc1wBZQ/2026-07-18t094243z-508980871-rc29gmasuksp-rtrmadp-3-ukraine-crisis-russia-attacks.jpg",
       "selection": "automatic"
     },
     {
@@ -104,7 +104,7 @@
       "country": "GB",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
-      "published_on": "28/11/2026 02:52 (Boa Vista)",
+      "published_on": "28/11/2026 06:34 (Boa Vista)",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg",
       "selection": "automatic"
     }
